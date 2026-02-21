@@ -1,1093 +1,923 @@
 ---
-title: 原型劇本
-description: 六大魔法少女原型
+title: 原型扮演書
+description: 六大魔法少女原型及其扮演書詳解
 sidebar:
   order: 4
 ---
 
-Libretos de Arquetipo
-Aunque ya hemos hablado de los Libretos, ha llegado el momento de verlos en pro-
-fundidad. Un Libreto de Arquetipo permite diseñar una magical girl usando elemen-
-tos comunes en el género, funcionando también como una personalidad y una mane-
-ra de ver el mundo a su alrededor. No obstante, debe evitarse ver los Libretos como 
-elementos monolíticos, ya que más bien son la base para construir una historia.
-Cada uno de los Libretos contiene varios apartados como Características, Lux Ha-
-bitu, Movimientos, etc. En resumen, todos y cada uno de los apartados a los que se 
-ha hecho referencia en el capítulo de creación. Otro apartado que podrás encontrar 
-es el que contiene los Movimientos Avanzados y el listado de Avances, a los cuales 
-irás teniendo acceso cada vez que realices el Movimiento Especial ¡Lux est!
-A continuación aparece un resumen de todos los Arquetipos de este libro.
-La Campeona
-La Campeona magical girl ha sido elegida porque alberga un enorme potencial en su inte-
-rior. Si bien muchas veces suele tener un papel principal en las historias, en realidad lo úni-
-co que significa es que posee un don innato para usar sus poderes. Tradicionalmente, suele 
-ser la magical girl más poderosa que ha existido jamás o bien tiene el potencial para serlo.
-Una Campeona clásica siempre cree en los demás y no duda en seguir el camino de 
-la Luz para enfrentarse a la Oscuridad. Siempre buscará apoyo en otras personas 
-para que estén a su lado, pues pese a su gran poder sabe que siempre es mejor con-
-tar con la ayuda de los demás, de forma que pueda compartir su Luz interior con 
-todo el mundo. Esta forma de pensar se extiende también a su día a día.
-La Campeona en juego
-Las Campeonas son personajes equilibrados, con la capacidad de desarrollar gran po-
-tencial. Su Movimiento característico, Elegida por los Guardianes, da la posibilidad de 
-volverla más poderosa que cualquier otra magical girl. Cuando se enfrenta a las criaturas 
-de la Oscuridad se convierte en un personaje muy equilibrado, y con su Movimiento 
-Discurso de entrada es capaz de lograr una importante ventaja en su Medidor de Poder.
-Según avance, una Campeona es capaz de soportar la Oscuridad mejor que otros 
-personajes e incluso revertir algunos efectos, gracias a Movimientos como La luz 
-nunca desaparece del corazón, Primera entre iguales o Corazón de Luz. También 
-puede ser un personaje de apoyo durante el combate contra la Oscuridad, gracias 
-a El bien siempre triunfa, capaz de dar una segunda oportunidad si las cosas se 
-tuercen. El poder de la elegida desata uno de sus Movimientos más poderosos en 
-un momento de necesidad e incluso puede llegar a mejorar el Medidor de Poder de 
-una compañera, gracias a Jamás estoy sola.
-44
-Maho Shojo
+## 原型扮演書
 
-La Consejera
-La Consejera magical girl no se deja guiar por sus emociones, sino que pone por 
-delante la razón y piensa siempre a largo plazo. Gracias a esto, una Consejera es 
-siempre lógica y se convierte fácilmente en el ancla que hace que el resto de sus 
-compañeras se mantengan juntas y centradas. Una Consejera necesita tener todo 
-planeado, por lo que improvisar o dejarse llevar suele dejarla paralizada mientras 
-busca la forma de retomar el control.
-Suele ser aplicada en su tarea como magical girl, estudiando la Oscuridad para 
-estar preparada y trazando diferentes estrategias para superarla. Es gracias a esta 
-forma de pensar por lo que es capaz de trazar estrategias a largo plazo y tenerlo 
-todo previsto, aunque esto también conllevará algunos inconvenientes.
-La Consejera en juego
-La Consejera es un personaje que prefiere usar la cabeza antes de lanzarse al com-
-bate, estudiando y analizando los problemas para encontrar la mejor manera de su-
-perarlos. Sin embargo, esta racionalidad puede llevarla a descuidar sus emociones, 
-por lo que suelen cometer errores cuando entran en juego.
-Gracias a su Movimiento característico Genio es capaz de maximizar su capacidad lógi-
-ca, mientras que con Movimientos como Sabelotodo es capaz de sonsacar información 
-de todo tipo. Cuando entra en acción Tramas dentro de la trama puede recuperar el 
-control de una escena, mostrando cómo todo estaba ya planeado de antemano y dando 
-un vuelco a la situación, lo que se complementa perfectamente con Agendas y listas de 
-la compra, para asegurarse de que está completamente preparada.
-Para compensar sus desventajas y errores tiene los siguientes Movimientos de 
-Avance: La razón sobre el corazón, Llave de los secretos, Pasar al anonimato o 
-Pragmática. Estos Movimientos le serán de ayuda para ampliar sus opciones de evi-
-tar el triunfo de la Oscuridad, escapar de escenas sociales embarazosas y potenciar 
-su capacidad cerebral, eliminando algún punto débil. Para finalizar, Movimientos 
-de ayuda como Asistencia remota y Puntillosa son usados como un complemento 
-perfecto para sus ya de por sí desarrolladas capacidades de análisis y planificación.
-La Guardiana
-Una Guardiana magical girl ha tomado la decisión de evitar el sufrimiento del mun-
-do, alzándose como un escudo que trata de alejar la tristeza y el peligro de todo 
-aquel que conoce. Está siempre en guardia, vigilante mientras se prepara para 
-enfrentarse al primer problema que encuentre. Siempre podrás confiar en que la 
-Guardiana estará ahí, tendiendo la mano para que puedas levantarte. Sin embargo, 
-ser la única encargada de defender el mundo es una vida peligrosa, por lo que de-
-berá encontrar fuerza en los demás para poder compartir su carga.
-45
-•Luz•
+雖然我們已經談過扮演書，但現在是時候深入了解了。原型扮演書讓你能運用魔法少女類型作品中常見的元素來設計一位魔法少女，同時也代表了一種性格與看待周遭世界的方式。不過，請避免將扮演書視為僵化不變的框架，它們更像是構築故事的基礎。
 
-Una Guardiana suele contar con un poderoso código de valores, que le permite cen-
-trar su corazón para no perder la Luz y confundirla con la Oscuridad. Siempre estará 
-dispuesta a dar todo lo que tiene, pues cree que la fuerza de su corazón es inagotable.
-La Guardiana en juego
-La Guardiana es un personaje resistente que brilla por sus capacidades defensivas, 
-tanto para protegerse ella como para proteger a los demás. Esta resistencia puede 
-venir acompañada de un dominio sobre sus poderes de magical girl o de un corazón 
-capaz de sobreponerse a cualquier adversidad.
-Su Movimiento distintivo es el Escudo de Luz, que la hace más poderosa a 
-medida que las cosas se van torciendo, una habilidad que le permite dar la 
-vuelta a cualquier enfrentamiento contra la Oscuridad con su Aegis del Alma. 
-Puedes complementar estas capacidades con Yo sufriré por ti con el que pue-
-de encajar el daño de otro PJ en peligro o bien darle apoyo mediante Bajo mi 
-protección.
-Según avance se convertirá en una fuente de apoyo aún más importante con Movi-
-mientos como Hoy cocino yo, que mejora la capacidad del grupo de ganar Puntos de 
-Amistad adicionales, eliminar Consecuencias y ceder Puntos de Luz. Al escoger Ella nos 
-protege, nos toca a nosotras será capaz de motivar con su ejemplo a sus compañeras y 
-mejorar sus capacidades como magical girl. Siendo un personaje de apoyo, Movimien-
-tos como No volveré a fallar y Estamos juntas en esto mejoran bastante este aspecto, 
-ya que logran sacar elementos positivos de sus errores. Para finalizar, una Guardiana 
-puede potenciar incluso aún más sus capacidades defensivas de forma más activa con 
-Ni te atrevas a tocarla y ¿Tienes algún problema con mis amigas?
-La Guerrera
-A diferencia del resto de magical girls, la Guerrera se enfrenta al conflicto con 
-la Oscuridad de una forma mucho más directa. Esta idea la convierte en una 
-magical girl que prefiere encararse a la Oscuridad sin subterfugios. Aunque esta 
-forma de actuar podría llegar a considerarse violenta o sedienta de conflicto, 
-esto no es cierto: es simplemente una persona decidida que no suele andarse 
-por las ramas.
-Las Guerreras suelen ser personas con un gran carisma y una personalidad magné-
-tica, lo que inspira a las demás a dar lo mejor de sí mismas. Por el contrario, también 
-son orgullosas y arrogantes.
-En su papel de magical girl una Guerrera tiene la facilidad y las herramientas para 
-enfrentarse a las criaturas de la Oscuridad, ya sea ayudando a los demás o canali-
-zando sus habilidades contra ella.
-46
-Maho Shojo
+每本扮演書都包含多個項目，例如屬性、光之裝束、動作等。簡而言之，創建章節中提到的所有項目都能在這裡找到。此外，你還會看到進階動作與成長列表，每當你執行特殊動作「閃耀時刻！」時，就能逐步解鎖這些內容。
 
-La Guerrera en juego
-La Guerrera es un personaje de acción, perfecto para aquellos que buscan una 
-aproximación directa a los problemas. Sin embargo, su personalidad impulsiva no 
-debe confundirse con la de una descerebrada incapaz de contenerse. Esta forma 
-directa de afrontar la vida suele pesar en las relaciones, en las que tiende a ser algo 
-torpe o sobreprotectora, e incluso no tener una gran soltura con sus poderes de 
-magical girl.
-Las máximas capacidades de una Guerrera se dan cuando combate de forma di-
-recta contra la Oscuridad, pudiendo derrotar a cualquiera que se ponga frente a 
-ella. Para reflejar este talento cuenta con el Movimiento distintivo La senda de la 
-guerrera, que le permite canalizar la energía que guarda en su interior de diversas 
-formas. Por un lado, Arma en el corazón puede derrotar con mayor facilidad a sus 
-adversarios, volviéndola letal, y, por el otro, Estratega nata permite usar parte de 
-esa energía para ayudar a sus compañeras.
-Según avancen sus capacidades, puede usar su energía de formas nuevas, como por 
-ejemplo Indestructible, que le permite soportar la Angustia. Por otro lado, Mano 
-de la Justicia, Mi voluntad todo lo puede o La vida es una batalla usan su espí-
-ritu competitivo y su energía combativa para afrontar las situaciones de la vida y la 
-lucha contra la Oscuridad. Los Movimientos Todas a una y Yo soy tu rival suponen 
-un buen apoyo para los grupos que cuenten con una guerrera en su equipo.
-La Idol
-Siempre pendiente de las tendencias, la moda y las relaciones sociales, una magical 
-girl Idol suele estar preocupada por lo que opina la gente y tiende a ser extrover-
-tida, generosa y abierta. Algunas Idol, su personalidad puede ser una máscara con 
-la que se muestran felices, cuando en realidad la melancolía inunda su interior, o 
-altruistas, cuando lo único que buscan es mejorar su reputación y la admiración de 
-los demás.
-La Idol siempre trata de estar en el centro de la acción y le molesta que las demás 
-no la miren cuando le alumbran los focos, ya sean reales o figurados. Aunque pueda 
-parecer algo superficial y simple es mucho más avispada y atenta de lo que aparen-
-ta. Sus habilidades vienen gracias a una tremenda carga emocional que le permite 
-entender los sentimientos y las relaciones, siendo capaz de percatarse de aquello 
-que los demás ignoran.
-Como magical girl utiliza la pasión y sus emociones como motor para triunfar in-
-cluso en los momentos más desesperados. Mostrarse fiel a ella misma es algo ins-
-pirador que la convierte en el centro de atención cuando desata todo su potencial.
-47
-•Luz•
+以下是本書所有原型的概要。
 
-La Idol en juego
-Estos personajes siempre destacan por algo: una personalidad magnética, su forma 
-de vestir, de cantar, de jugar a videojuegos, su pelo, su caligrafía… En definitiva, 
-siempre tienen algo por lo que ser admiradas, reconocidas y envidiadas a partes 
-iguales. El MC deberá hablar con el jugador para tratar de centrar este elemento, 
-pues tiene un impacto sobre la Ficción para los Movimientos de Mi publico lo pide 
-y Si, soy yo...
-Su Movimiento distintivo es Superestrella, y con su Movimiento Base Al escena-
-rio… Let´s go puede usar su popularidad para salir de apuros y usar el peso de su 
-fama para influir a los demás. Existen algunos Movimientos que le permiten llevar 
-a su terreno las situaciones sociales como: Quiero dar las gracias a mis fans, que 
-permite corregir una mala tirada, y ¿A quién crees que elegirán?, que da una im-
-portante ventaja.
-Según vaya avanzando en la historia tiene aún más formas de usar su popularidad y 
-capacidades sociales. El Movimiento No controlo mis sentimientos, ¿vale? le per-
-mite utilizar su mejor Característica para poder sacar adelante cosas que, de otra 
-manera, no podría hacer con un enfoque tradicional. En entornos sociales puede 
-sacar aún más ventaja con ¿No os fijasteis en cómo se miraban? o ayudar a sus 
-compañeras con su carisma gracias a No seas tímida, ¿conoces a…? y Todo esto es 
-tan aburrido… ¡Vamos a animarlo!
-Cuando se enfrenta a criaturas de la Oscuridad, aunque no cuenta con los recursos 
-de la Campeona o la Guerrera, puede suplir la falta de poder con sus cualidades 
-naturales. Los Movimientos Mi público lo pide y Sí, soy yo… le dan ventaja como 
-magical girl cuando saca aquello que la ha hecho destacar, como, por ejemplo, can-
-tando, haciendo lucir su pelo, recitando sus movimientos como si fueran un combo 
-del juego de lucha del que ha ganado el último campeonato, etc.
-La Sanadora
-Las Sanadoras poseen una enorme riqueza interior difícil de mostrar, pues sienten 
-una gran conexión con su corazón y la Luz. Al contrario que la Campeona, cuyos 
-poderes parecen naturales, la Sanadora los ha conseguido gracias a su sensibilidad. 
-Su personalidad suele ser serena, alguien que sabe cuándo es el momento de actuar 
-y no duda en trabajar en una solución antes que ir por el camino fácil. Una Sanado-
-ra siempre tendrá una mirada que mezcla la inocencia con la sabiduría, sonriendo 
-y disfrutando de las cosas más simples, pues puede ver la riqueza espiritual de su 
-interior. En su relación con los demás valoran la compañía y el trabajo en equipo, 
-pero también suelen esconder sus cargas bajo una sonrisa, pues prefieren sufrirlas 
-en silencio antes que ver dolor en los demás.
-48
-Maho Shojo
+### 勇者
 
-Una vez transformada, la Sanadora suele usar su corazón para enlazarse con la Luz 
-y apoyar a sus compañeras, antes que tener un papel directo. Esta forma de jugar 
-en equipo la convierte en una pieza clave para sus amigas cuando se encuentran 
-delante de la Oscuridad.
-La Sanadora en juego
-La Sanadora es un personaje que, tanto fuera como dentro de su faceta magical 
-girl, tiene una función principalmente de apoyo, ya que prefiere ayudar a sus com-
-pañeras. Esto hace el personaje poco recomendable para las acciones directas, pero 
-junto a sus compañeras tiene un gran potencial.
-Su Movimiento distintivo es El poder de la Luz, gracias al que puede generar Poder 
-Sagrado con el que desencadenar las capacidades de Poder Sagrado. Este conjunto 
-de habilidades permite conectar a la Sanadora con la Luz, por lo que es importante 
-acordar con el MC cómo se refleja esto en la Ficción. Su segundo poder es Martirio, 
-con el cual, a cambio de recibir un gran castigo personal, puede salvar a otros per-
-sonajes de los peores efectos de los ataques de los siervos de la Oscuridad.
-A medida que logra nuevos Avances aprenderá a usar su poder para superar algu-
-nos aspectos de su vida en los que tenga problemas, con Vida de virtud, sus capaci-
-dades intuitivas Intuición y Corazonada o mejorar parte de sus capacidades socia-
-les gracias a Ver el alma en los ojos. Sus sentimientos positivos pueden suponer un 
-apoyo para el resto del grupo a la hora de recuperarse, eligiendo Siempre se puede 
-ser mejor y Ya pasó, todo irá mejor mañana. Pero si en algo puede destacar es en 
-su capacidad de apoyar, que nunca desaparece del todo, como queda demostrado 
-en el Movimiento Nunca rendirse, con el que es capaz de volver a levantarse si las 
-cosas parecen descontrolarse.
-49
-•Luz•
+勇者魔法少女之所以被選中，是因為她內心蘊藏著巨大的潛能。雖然她在故事中經常扮演主角，但這其實只代表她擁有與生俱來的使用力量的天賦。在傳統設定中，她通常是史上最強的魔法少女，或至少擁有成為最強的潛力。
 
-Características
-Combativa	+1	
-Protectora	 0	
-Reflexiva	
--1
-Emocional	 +1	
-Entregada	 +1
-Añade +1 a una Característica.
-Elegida por los Guardianes
-Escoge 3 Opciones:
-Por el poder de la Justicia: Cuando estás 
-transformada ganas Castigo +1 y Azote +1.
-Elegancia Divina: Cuando estás 
-transformada obtienes Ascensión +1.
-Susurros de los Guardianes: Arrastra +1 a 
-tus tiradas de A la luz de la Verdad.
-Guiada por el corazón: Elige un Movimiento 
-Básico, puedes usar tu Característica de 
-Entregada en lugar de la indicada cuando 
-pides ayuda a la Luz de tu corazón.
-Salvadora: Arrastra +1 a tus tiradas del 
-Movimiento Perder la Luz.
-Indómita: Cuando usas una Consecuencia 
-absorbes 6 puntos en lugar de 4.
-Obtienes también:
-Discurso de entrada
-Te transformas y das un discurso sobre 
-el poder de la Luz y las maldades de la 
-Oscuridad. Consigues 1 Punto de Luz.
-Datos Biográficos
-Nombre:
-Estilo de vida:
-Edad:
-Transformación
-Título:
-Tema:
-Color:
-Talismán:
-Signo del Zodiaco/elemento:
-Grupo sanguíneo:
-Lo más importante de su mundo:
-50
+經典的勇者永遠相信他人，毫不猶豫地走上光明之路來對抗黑暗。她總是尋求夥伴的支持，讓大家站在她身邊，因為儘管擁有強大的力量，她深知依靠眾人的幫助總是更好的選擇，這樣她才能與全世界分享內心的光明。這種思維方式也延伸到了她的日常生活中。
 
-Romance
-Elige un Libreto de Romance:
-Amistad
-Elige un Libreto de Amistad:
-Poderes del Lux Habitu
-Poder
-Base
-Súper
-Triunfante
-1
-Poder del Corazón A
-Castigo +1
-Azote +1
-2
-Castigo +1
-Poder del Corazón (  )
-Armadura +1
-3
-Resistente +1
-Ascensión +1
-Poder del Corazón (  )
-5
-FINALEM
-Consecuencias
-Destrozada	 o	 Cabreada	
-o
-Deprimida	
-o	 Rechazada	 o
-Atontada	
-o
-Oscuridad
-Nivel de Oscuridad:
-Puntos de Oscuridad:
-Cuando tu Nivel de Oscuridad es 5, 
-comprueba el efecto del Pacto elegido.
-¡Lux est!
-Cada vez que un PJ realiza con éxito un Movimiento de ¡Lux est! marca una casilla, 
-obtienes el beneficio de ese Avance.
-Avances menores:
-Movimiento de Campeona
-Mejorar una Característica (Máx. 2)
-Consigue 3 opciones adicionales 
-de Elegida por los Guardianes
-Accedes a la forma Súper del Lux Habitu
-Movimiento de tu Libreto de Amistad
-Avances mayores:
-Movimiento de Campeona
-Movimiento de tu Libreto de Amistad
-Mejorar una Característica (Máx. 3)
-Accedes a la forma Triunfante del Lux 
-Habitu
-Movimientos de Avance
-La Luz nunca desaparece del corazón
-Si abrazas a otro PJ puedes gastar un Punto 
-de Amistad para que ese PJ realice un Mo-
-vimiento de Perder la Luz, adicionalmente 
-suma +2 a la tirada.
-Primera entre iguales
-Cuando seas la única magical girl que se 
-enfrenta a un ser de Oscuridad y declares 
-algo que te dé fuerzas, consigues un Punto 
-de Luz.
-Corazón de Luz
-Cuando seas la protagonista del Movimiento 
-Historias de la vida puedes eliminar un 
-Punto de Oscuridad, tuyo o de cualquiera 
-con quien compartas el Movimiento, si 
-obtienes un 10 o más en la tirada.
-El bien siempre triunfa
-Cuando todos los PJ tengan la Consecuencia 
-«Derrotada» y te niegues a aceptarlo:
-Tira+Emocional:
-	 10+	 Todos los PJ en la escena ganan 1 
-Punto de Luz y aplica el resultado 7-9.
-	 7-9	 Todos los PJ desmarcan la Conse-
-cuencia «Derrotada» y una Conse-
-cuencia adicional.
-El poder de la elegida
-Una vez por sesión puedes utilizar cualquie-
-ra de tus Poderes Corazón con el Movimien-
-to Poder del Corazón sin importar tu Nivel 
-de Poder, incluso si ya lo habías usado. Al 
-finalizar el Movimiento, si el Poder del Cora-
-zón no estaba marcado no lo marques.
-Jamás estoy sola
-Cuando digas en voz alta por qué un PJ con 
-el que tengas un Lazo está presente en tu 
-corazón, baja en 1 punto tu Medidor de Po-
-der. A continuación, puedes dar uno de tus 
-Puntos de Luz a ese PJ si tiene los mismos o 
-menos que tú.
-La Campeona
-51
+#### 勇者的遊戲定位
 
-Genio
-Adquieres los Movimientos:
-Sabelotodo
-Siempre que necesites un conocimien-
-to:
-Tira+Reflexiva:
-	 10+	 Haz una pregunta, expón cómo 
-lo sabías.
-	 7-9	 Añade: lo que sabes tiene 
-partes erróneas o quizás falte 
-algún detalle.
-¿Cuál es la historia de este lugar, 
-objeto o persona?
-¿Qué pasó aquí recientemente?
-¿Cuál es su punto débil o defecto?
-A continuación, tú u otro PJ, suma +1 
-a su próximo Movimiento relacionado 
-con la respuesta obtenida.
-Datos Biográficos
-Nombre:
-Estilo de vida:
-Edad:
-Transformación:
-Título:
-Tema:
-Color:
-Talismán:
-Signo del Zodiaco/elemento:
-Grupo sanguíneo:
-Lo más importante de su mundo:
-Características
-Combativa	+0	
-Protectora	 0	
-Reflexiva	 +2
-Emocional	 -1	
-Entregada	 +1
-Añade +1 a una Característica.
-Elige uno:
-Tramas dentro de la trama:
-Cuando estés en problemas 
-puedes indicar que tenías un plan 
-B a modo de flashback:
-Tira+Reflexiva
-	 10+	 Todo va bien, el objeto o la con-
-tingencia preparada funciona 
-sin problemas.
-	 7-9	 La idea se puede llevar a cabo 
-como la has preparado, pero 
-algo es ligeramente distinto.
-	 6–	 Todo falla. Quizás el enemigo 
-sabía lo que pretendías o algo 
-ha cambiado para que ya no te 
-sea útil.
-Agendas y listas de la compra
-Cuando lleves una mochila, un 
-bolso o algo similar y rebusques en 
-su interior algo que necesites en 
-ese momento:
-Tira+Reflexiva:
-	 10+	 Encuentras el objeto que nece-
-sitas.
-	 7-9	 En su interior no está exacta-
-mente lo que buscabas sino algo 
-similar, o bien lo que buscabas, 
-con un desperfecto grave.
-52
+勇者是均衡型角色，擁有發展出強大潛力的能力。她的招牌動作「守護者的揀選」讓她有機會成為比任何其他魔法少女都更強大的存在。在面對黑暗的生物時，她是一個非常均衡的角色，而她的動作「出場宣言」能讓她在能力量表上獲得重要優勢。
 
-Romance
-Elige un Libreto de Romance:
-Amistad
-Elige un Libreto de Amistad:
-Poderes del Lux Habitu
-Poder
-Base
-Súper
-Triunfante
-1
-Poder del Corazón D
-Azote +1
-Resistente +1
-2
-Azote +1
-Poder del Corazón (  )
-Castigo +1
-3
-Ascensión +1
-Ascensión +1
-Poder del Corazón (  )
-5
-FINALEM
-Consecuencias
-Destrozada	 o	 Cabreada	
-o
-Deprimida	
-o	 Rechazada	 o
-Atontada	
-o
-Oscuridad
-Nivel de Oscuridad:
-Puntos de Oscuridad:
-Cuando tu Nivel de Oscuridad es 5, 
-comprueba el efecto del Pacto elegido.
-¡Lux est!
-Cada vez que un PJ realiza con éxito un Movimiento de ¡Lux est! marca una casilla, 
-obtienes el beneficio de ese Avance.
-Avances menores:
-Movimiento de Consejera
-Mejorar una Característica (Máx. 2)
-Movimiento de tu Libreto de Amistad
-Accedes a la forma Súper del Lux Habitu
-Adquieres un Movimiento de Genio que no 
-tengas
-Avances mayores:
-Movimiento de Consejera
-Movimiento de tu Libreto de Amistad
-Mejorar una Característica (Máx. 3)
-Accedes a la forma Triunfante del Lux 
-Habitu
-Movimientos de Avance
-La razón sobre el corazón
-Elige un Movimiento. A partir de este mo-
-mento siempre que lo desencadenes puedes 
-usar Reflexiva en lugar de la Característica 
-indicada cuando actúes de forma fría y 
-calculada.
-Pragmática
-Cuando realices una tirada para Rechazar la 
-Oscuridad, suma +1 a la tirada.
-Puntillosa
-Cuando terminas un Movimiento de Trans-
-formación, puedes hacer una pregunta como 
-si fuera el Movimiento A la luz de la verdad.
-Asistencia remota
-Cuando tienes acceso a alguna clase de 
-asistente (una IA, un espíritu, un libro, un 
-aliado…) escoge dos Movimientos. Tienes +1 
-al realizarlos siempre que puedas acceder a 
-su apoyo.
-Llave de los secretos
-Si alguien intenta manipularte para obtener 
-información de otra persona o sobre ti mis-
-ma, puedes decidir cerrarte:
-Tira+Reflexiva
-	 10+	 Evitas revelar cualquier información 
-y la otra persona desiste en sus inten-
-tos.
-	 7-9	 Puedes elegir entre revelar la infor-
-mación o contar una gran mentira a 
-cambio de un Punto de Oscuridad. La 
-otra parte te cree por muy inverosímil 
-que sea la mentira.
-Pasar al anonimato
-Puedes gastar un Punto de Amistad para 
-pasar desapercibida o desaparecer de una 
-escena.
-La Consejera
-53
+隨著成長，勇者能比其他角色更好地抵禦黑暗，甚至能逆轉某些效果，這要歸功於「光明永不從心中消逝」、「群英之首」或「光之心」等動作。她也能在對抗黑暗的戰鬥中擔任支援角色，靠著「正義必勝」在局勢不利時給予第二次機會。「揀選者之力」在危急時刻釋放她最強大的動作之一，甚至還能透過「我從不孤單」來提升同伴的能力量表。
 
-Escudo de Luz
-Consigues:
-Aegis del Alma:
-Cada vez que un PJ sufra una Consecuencia puedes 
-sumarla al resto de Consecuencias que habéis sufrido en 
-la escena. A continuación, comprueba la siguiente lista. 
-Adquieres esa ventaja y todas las inferiores. Cuando 
-termines la escena pierdes todos los efectos.
-Una Consecuencia: Consigues 1 Punto de Luz.
-Dos Consecuencias: Ganas +2 a Castigo.
-Tres Consecuencias: Ganas Armadura +1 y Resistente +1.
-Cuatro Consecuencias: Ganas +1 a tu Característica  	
-Protectora.
-Cinco Consecuencias: Tú y otro PJ ganáis un Punto 
-de Luz.
-Escoge 1 Movimiento:
-Yo sufriré por ti:
-Cuando una PJ recibe daño puedes sufrir tú una 
-Consecuencia para disminuir en 8 la Angustia de ese ataque.
-Bajo mi protección:
-Cuando estás en un combate contra un ser de Oscuridad y 
-desencadenas Siempre a vuestro lado generas un punto 
-adicional. Este punto se genera incluso fallando la tirada.
-Datos Biográficos
-Nombre:
-Estilo de vida:
-Edad:
-Transformación:
-Título:
-Tema:
-Color:
-Talismán:
-Signo del Zodiaco/elemento:
-Grupo sanguíneo:
-Lo más importante de su mundo:
-Características
-Escoge un conjunto de Características:
-Combativa	+1	
-Protectora	+2	
-Reflexiva	
-0	
-Emocional	 +1	
-Entregada	 -1	
-Combativa	 -1	
-Protectora	+2	
-Reflexiva	
-0	
-Emocional	 +1	
-Entregada	 +1	
-Combativa	 0	
-Protectora	+2	
-Reflexiva	 +1	
-Emocional	 0	
-Entregada	 0	
-54
+### 參謀
 
-Romance
-Elige un Libreto de Romance:
-Amistad
-Elige un Libreto de Amistad:
-Poderes del Lux Habitu
-Poder
-Base
-Súper
-Triunfante
-1
-Poder del Corazón D
-Armadura +1
-Resistente +1
-2
-Resistente +1
-Poder del Corazón D
-Ascensión +1
-3
-Armadura +1
-Castigo +1
-Poder del Corazón (  )
-5
-FINALEM
-Consecuencias
-Destrozada	 o	 Cabreada	
-o
-Deprimida	
-o	 Rechazada	 o
-Atontada	
-o
-Oscuridad
-Nivel de Oscuridad:
-Puntos de Oscuridad:
-Cuando tu Nivel de Oscuridad es 5, 
-comprueba el efecto del Pacto elegido.
-¡Lux est!
-Cada vez que un PJ realiza con éxito un Movimiento de ¡Lux est! marca una casilla, 
-obtienes el beneficio de ese Avance.
-Avances menores:
-Movimiento de Guardiana
-Mejorar una Característica (Máx. 2)
-Movimiento de tu Libreto de Amistad
-Accedes a la forma Súper del Lux Habitu
-Obtienes un Movimiento de Escudo de Luz
-Avances mayores:
-Movimiento de Guardiana
-Mejorar una Característica (Máx. 3)
-Movimiento de tu Libreto de Amistad
-Accedes a la forma Triunfante del Lux 
-Habitu
-Movimientos de Avance
-Hoy cocino yo
-Cuando estás presente en un Movimiento 
-de Historias de la vida y apoyas de alguna 
-forma especial la actividad, la protagonista 
-suma +1 a la tirada.
-Ni te atrevas a tocarla
-Si un PJ sufre Angustia, aunque la anule, 
-o un inocente sea atacado por un ser de la 
-Oscuridad, tu próxima tirada de Castigar la 
-Oscuridad usa la Característica Protectora.
-Ella nos protege, nos toca a nosotras
-Cada vez que recibas una Consecuencia 
-elige un PJ. A continuación ese PJ obtiene 
-Castigo+1 y Azote+1 hasta que se quite el 
-Lux Habitu. Un PJ no acumula los efectos 
-aunque vuelva a ser escogido como objetivo.
-No volveré a fallar
-Cada vez que obtienes un 6 o menos en un 
-Movimiento, en la siguiente tirada suma un +1.
-Estamos juntas en esto
-Cuando usas Siempre a vuestro lado para 
-dar un +1, en el siguiente Movimiento das 
-un +2.
-¿Tienes algún problema con mis amigas?
-Cuando tratas de defender a alguien usa 
-la Característica Protectora en lugar de Emo-
-cional al usar el Movimiento Palabras desde 
-el corazón.
-La Guardiana
-55
+參謀魔法少女不會被情緒牽著走，而是將理性放在首位，總是放眼長遠。正因如此，參謀永遠保持邏輯思考，輕易成為維繫團隊凝聚力與專注力的定海神針。參謀需要把一切都計畫好，因此即興行動或隨波逐流往往會讓她陷入停滯，直到找到重新掌控局面的方法。
 
-La senda de la guerrera
-Consigues:
-Corazón desatado:
-Cuando realizas un Movimiento de Transformación 
-ganas 3 puntos de Ímpetu. Cada vez que aumenta 
-en 1 el Medidor de Poder ganas 1 punto de Ímpetu.
-Escoge un Movimiento de La senda de la guerrera:
-Arma en el corazón:
-Cuando estés transformada y realices Castigar la 
-Oscuridad, puedes gastar 1 punto de Ímpetu para 
-ganar Castigo +3 en ese Movimiento.
-Estratega nata:
-Cada vez que das un consejo o una orden durante 
-un combate puedes gastar 1 punto de Ímpetu para 
-dar un +1 al siguiente Movimiento de ese PJ.
-Datos Biográficos
-Nombre:
-Estilo de vida:
-Edad:
-Transformación:
-Título:
-Tema:
-Color:
-Características
-Escoge un conjunto de Características:
-Combativa	+2	
-Protectora	 0	
-Reflexiva	 +1	
-Emocional	 0	
-Entregada	 0	
-A continuación cambia un 0 por un +1 
-y un 0 por un -1.
-Combativa	+1	
-Protectora	 0	
-Reflexiva	 +2	
-Emocional	 0	
-Entregada	 0	
-Talismán:
-Signo del Zodiaco/elemento:
-Grupo sanguíneo:
-Lo más importante de su mundo:
-56
+她通常認真對待魔法少女的職責，研究黑暗以做好準備，並擬定各種策略來克服它。正是這種思維方式讓她能夠制定長期策略並預見一切，儘管這也會帶來一些不便。
 
-La Guerrera
-Romance
-Elige un Libreto de Romance:
-Amistad
-Elige un Libreto de Amistad:
-Poderes del Lux Habitu
-Poder
-Base
-Súper
-Triunfante
-1
-Poder del Corazón A
-Armadura +1
-Castigo +1
-2
-Azote +1
-Poder del Corazón (  )
-Resistente +1
-3
-Castigo +2
-Castigo +1
-Poder del Corazón A
-5
-FINALEM
-Consecuencias
-Destrozada	 o	 Cabreada	
-o
-Deprimida	
-o	 Rechazada	 o
-Atontada	
-o
-Oscuridad
-Nivel de Oscuridad:
-Puntos de Oscuridad:
-Cuando tu Nivel de Oscuridad es 5, 
-comprueba el efecto del Pacto elegido.
-¡Lux est!
-Cada vez que un PJ realiza con éxito un Movimiento de ¡Lux est! marca una casilla, 
-obtienes el beneficio de ese Avance.
-Avances menores:
-Movimiento de Guerrera
-Mejorar una Característica (Máx. 2)
-Obtienes un Movimiento de La senda de la 
-guerrera
-Accedes a la forma Súper del Lux Habitu
-Movimiento de tu Libreto de Amistad
-Avances mayores:
-Movimiento de Guerrera
-Movimiento de tu Libreto de Amistad
-Mejorar una Característica (Máx. 3)
-Accedes a la forma Triunfante del Lux 
-Habitu
-Movimientos de Avance
-Mano de la Justicia
-Cuando algún PJ, incluido tú, marque una 
-Consecuencia y se lo recrimines a un servi-
-dor de la Oscuridad, sumas +1 a tu próxima 
-tirada de Castigar la Oscuridad.
-Indestructible
-Puedes usar un punto de Ímpetu para evitar 
-8 Puntos de Angustia.
-Mi voluntad todo lo puede
-Siempre que trates de evitar un peligro pro-
-vocado por el miedo o la inseguridad suma 
-+1 a la tirada.
-Yo soy tu rival
-Cuando te enfrentes a un enemigo o alguien 
-que está molestando a quien intentas defen-
-der y trates de llamar su atención:
-Tira + Combativa
-	
-10+	 Elige 2 opciones.
-	 Entre 7-9 	Elige 1 opción.
-El enemigo solo tiene ojos para ti.
-Amedrentas a tu rival, sumas +1 a tu próxi-
-mo Movimiento relacionado con él.
-La próxima vez que alguien reciba Angustia de 
-ese enemigo, salvo tú, adquiere Armadura +3.
-Todas a una
-Cuando arengas a tus compañeras y gritas al 
-lanzarte a la batalla gasta un punto de Ímpetu:
-Tira+Combativa
-	 10+	 Todos los PJ que te sigan ganan 1 Pun-
-to de Luz. Aplica también el resultado 
-de 7-9.
-	 7-9	 Todos los PJ que te sigan desmarcan 
-una Consecuencia a su elección.
-La vida es una batalla
-Cuando te relaciones con los demás me-
-diante el conflicto y la confrontación puedes 
-usar Combativa al realizar el Movimiento de 
-Palabras desde el corazón.
-57
+#### 參謀的遊戲定位
 
-Superestrella
-Consigues:
-Al escenario… Let´s go:
-Al principio de la sesión la Idol gana 1 punto de 
-Popularidad. Cada vez que hace algo para llamar 
-la atención y fijar el foco en ella, gana 1 punto 
-de Popularidad. No puede tener nunca más de 1 
-punto de Popularidad.
-Quiero dar las gracias a mis fans:
-Cuando estés en presencia de algún fan gasta 
-1 punto de Popularidad y logra uno de los dos 
-siguientes efectos:
-Conviertes un 6 o menos en un resultado de 
-7-9
-Conviertes un resultado de 7-9 en un 10+
-¿A quién crees que elegirán?:
-Cuando intentes convencer a una persona o 
-grupo y te den algún tipo de problema, puedes 
-ofrecerles algo gastando 1 punto de Popularidad 
-para lograr su ayuda.
-Datos Biográficos
-Nombre:
-Estilo de vida:
-Edad:
-Transformación
-Título:
-Tema:
-Color:
-Talismán:
-Signo del Zodiaco/elemento:
-Grupo sanguíneo:
-Lo más importante de su mundo:
-Características
-Combativa	 0	
-Protectora	 0	
-Reflexiva	 -2	
-Emocional	+2	
-Entregada	 0	
-Escoge una de las siguientes opciones: +3 a una Característica, 
-+2 y +1 a dos Características o +1 a tres Características (el máxi-
-mo en una Característica es +2).
-58
+參謀是一個偏好先動腦再投入戰鬥的角色，透過研究與分析問題來找到最佳的解決方案。然而，這種理性可能導致她忽視自身的情感，因此當情緒介入時往往會犯錯。
 
-Romance
-Elige un Libreto de Romance:
-Amistad
-Elige un  Libreto de Amistad:
-Poderes del Lux Habitu
-Poder
-Base
-Súper
-Triunfante
-1
-Poder del Corazón
-Resistente +1
-Armadura +1
-2
-Ascensión +1
-Poder del Corazón (  )
-Ascensión +1
-3
-Ascensión +1
-Castigo +1
-Poder del Corazón (  )
-5
-FINALEM
-Consecuencias
-Destrozada	 o	 Cabreada	
-o
-Deprimida	
-o	 Rechazada	 o
-Atontada	
-o
-Oscuridad
-Nivel de Oscuridad:
-Puntos de Oscuridad:
-Cuando tu Nivel de Oscuridad es 5, 
-comprueba el efecto del Pacto elegido.
-¡Lux est!
-Cada vez que un PJ realiza con éxito un Movimiento de ¡Lux est! marca una casilla, 
-obtienes el beneficio de ese Avance.
-Avances menores:
-Movimiento de Idol
-Mejorar una Característica (Máx. 2)
-Movimiento de tu Libreto de Amistad
-Accedes a la forma Súper del Lux Habitu
-Al escenario… Let´s go MAX+ 
-Avances mayores:
-Movimiento de Idol
-Mejorar una Característica (Máx. 3)
-Movimiento de tu Libreto de Amistad
-Accedes a la forma Triunfante del Lux 
-Habitu
-Movimientos de Avance
-No controlo mis sentimientos, ¿vale?
-Escoge un Movimiento Básico, puedes usar 
-Emocional en lugar de la Característica indi-
-cada siempre que vuelques tus emociones y 
-sentimientos en la acción.
-Todo esto es tan aburrido… ¡Vamos a 
-animarlo!
-Cuando se realiza un Movimiento de Histo-
-rias de la vida con la Idol como protagonis-
-ta se desencadena una Reacción por parte 
-del MC sin importar el resultado. Todos los 
-PJ presentes ganan una opción adicional y 
-la Idol 1 punto de Popularidad o una opción 
-adicional.
-Mi público lo pide
-Después de transformarte, si hay alguien 
-que pueda verte que no sea otra magical 
-girl, muestra algo por lo que eres especial-
-mente conocida o destacada. Obtienes 1 
-Punto de Luz.
-¿No os fijasteis en cómo se miraban?
-Una vez por escena cuando te paras a 
-examinar a un grupo de personas y gastes 
-1 punto de Popularidad puedes realizar una 
-de las siguientes preguntas.
-¿Quién es la persona más importante?
-¿Qué puedo hacer para captar la atención 
-de todos?
-¿Cómo puedo sembrar el caos?
-¿Cuántos «grupos» hay?
-¿Quién podría hacer buena pareja con…?
-No seas tímida, ¿conoces a…?
-Cuando estás presente en una escena, te metes 
-en una conversación en la que un PJ realiza el 
-Movimiento de Palabras desde el corazón y 
-gasta 1 punto de Popularidad para lanzar 3d6 y 
-descartar el menor resultado en ese Movimiento.
-Sí, soy yo…
-Cuando estás transformada y te enfrentas a 
-los enemigos mostrando aquello por lo que 
-destacas sobre el mundo, gasta 1 punto de 
-Popularidad y elige una opción:
-Azote +1
-Ascensión +1
-Castigo +1
-La Idol
-59
+她的招牌動作「天才」能最大化她的邏輯分析能力，而透過「萬事通」等動作，她能獲取各種情報。當進入行動時，「計中計」能讓她奪回對場景的控制權，展示一切早已在她的計畫之中，徹底扭轉局面，這與「行程與購物清單」完美搭配，確保她已做好萬全準備。
 
-Características
-Combativa	-2	
-Protectora	 +1	
-Reflexiva	
-0
-Emocional	 +1	
-Entregada	 +2
-El poder de la Luz
-Consigues:
-Poder Sagrado
-Elige tres efectos de la lista. Cada efecto cuesta 1 punto:
-Alivio: Un PJ no tiene que aplicar -2 por tener marcada 
-una Consecuencia la próxima tirada.
-Escudo de Luz: Evita 5 Puntos de Angustia a un PJ o 
-salva a un PNJ.
-Bendecir ataque: Suma +2 al Castigo o Azote a la 
-siguiente tirada de Castigar la Oscuridad de otro PJ.
-Apoyo sagrado: Suma +1 en la próxima tirada de un PJ.
-Encadenar la Oscuridad: Pone a un enemigo en 
-desventaja.
-Sanar: Elimina la Consecuencia Derrotada de un PJ. 
-Datos Biográficos
-Nombre:
-Estilo de vida:
-	
-    Edad:
-Transformación
-Título:
-Tema:
-Color:
-Talismán:
-Signo del Zodiaco/elemento:
-Grupo sanguíneo:
-Lo más importante de su mundo:
-Suma 1 punto a Protectora, 
-Reflexiva o Emocional.
-Cuando concentres la fuerza de tus ideales y la luz de 
-tu corazón:
-Tira+Entregada:
-	
-10+	
-Consigues 3 puntos.
-	
-7-9	
-Consigues 1 punto.
-Si en algún momento realizas de nuevo el 
-Movimiento Poder Sagrado o termina la escena, 
-pierdes los puntos. Puedes usar 1 punto para 
-realizar un efecto de Poder Sagrado.
-También adquieres:
-	
-Martirio:
-Cuando alguien reciba Angustia y describas cómo 
-dirige hacia ti su efecto, puedes usar tus Puntos de 
-Amistad y Consecuencias para absorberlo en su lugar.
-60
+為了彌補她的劣勢與失誤，她擁有以下進階動作：「理性凌駕感性」、「祕密之鑰」、「隱身匿跡」或「務實主義」。這些動作幫助她擴展阻止黑暗勝利的選項，逃離尷尬的社交場面，並強化她的腦力、消除弱點。最後，「遠端支援」和「一絲不苟」等輔助動作完美地補強了她本就出色的分析與規劃能力。
 
-Romance
-Elige un Libreto de Romance:
-Amistad
-Elige un Libreto de Amistad:
-Poderes del Lux Habitu
-Poder
-Base
-Súper
-Triunfante
-1
-Poder del Corazón P
-Armadura +1
-Resistente +1
-2
-Resistente +1
-Poder del Corazón (  )
-Ascensión +1
-3
-Ascensión +1
-Ascensión +1
-Poder del Corazón P
-5
-FINALEM
-Consecuencias
-Destrozada	 o	 Cabreada	
-o
-Deprimida	
-o	 Rechazada	 o
-Atontada	
-o
-Oscuridad
-Nivel de Oscuridad:
-Puntos de Oscuridad:
-Cuando tu Nivel de Oscuridad es 5, 
-comprueba el efecto del Pacto elegido.
-¡Lux est!
-Cada vez que un PJ realiza con éxito un Movimiento de ¡Lux est! marca una casilla, 
-obtienes el beneficio de ese Avance.
-Avances menores:
-Movimiento de Sanadora
-Mejorar una Característica (Máx. 2)
-Movimiento de tu Libreto de Amistad
-Accedes a la forma Súper del Lux Habitu
-Consigue 3 opciones adicionales de Poder 
-Sagrado
-Avances mayores:
-Movimiento de Sanadora
-Mejorar una Característica (Máx. 3)
-Movimiento de tu Libreto de Amistad
-Accedes a la forma Triunfante del Lux 
-Habitu
-Movimientos de Avance
-Vida de virtud
-Escoge un Movimiento básico, ahora puedes 
-usar Entregada como característica en lugar 
-del indicado cuando uses tu inocencia y tu 
-bondad.
-Ver el alma en los ojos
-Cuando mires a alguien a los ojos y realices 
-el Movimiento de Palabras desde el cora-
-zón, suma +1 a la tirada.
-Siempre se puede ser mejor
-Cuando realizas un Movimiento de Histo-
-rias de la vida puedes decidir no escoger 
-ninguna opción y eliminar 1 Punto de Oscu-
-ridad de todas las participantes con un 7 a 9 
-o 2 con un 10+.
-Intuición y corazonada
-Cuando realizas un Movimiento de A la luz 
-de la verdad puedes realizar una pregunta 
-sin necesidad de lanzar los dados una vez 
-por escena.
-Nunca rendirse
-Cuando estás Derrotada puedes decidir eli-
-minar esa Consecuencia. Para ello debes se-
-guir realizando el movimiento Perder la luz 
-cuando termine la escena. Este Movimiento 
-solo se puede realizar una vez por escena.
-Ya pasó, todo irá mejor mañana
-Cuando alguien gane un Punto de Oscuridad 
-y te acerques para darle ánimos, pregúntale 
-si eso le hace sentir mejor. Si la respuesta es 
-sí, a continuación:
-Tira+Entregada:
-	 10+	 Elimina el Punto de Oscuridad.
-	 7-9	 Elimina el Punto de Oscuridad, elige 
-uno:
-El PJ elegido y tu perdeis un Punto de 
-Amistad.
-Recibe una Consecuencia.
-Ganas un Punto de Oscuridad.
-La Sanadora
-61
+### 衛士
+
+衛士魔法少女下定決心要阻止世界的苦難，挺身化為盾牌，試圖將悲傷與危險從每一個認識的人身邊驅離。她永遠保持警戒，隨時準備面對遇到的第一個問題。你永遠可以信賴衛士會在那裡，伸出手讓你重新站起來。然而，獨自承擔保護世界的重任是一條危險的路，因此她必須從他人身上找到力量來分擔這份重擔。
+
+衛士通常擁有一套強大的價值準則，使她能夠安定內心，不讓光明與黑暗混淆。她總是願意傾盡所有，因為她相信自己內心的力量是無窮無盡的。
+
+#### 衛士的遊戲定位
+
+衛士是一個堅韌的角色，以防禦能力見長，無論是保護自己還是保護他人。這種韌性可能來自於對魔法少女力量的掌控，也可能來自於一顆能克服任何逆境的心。
+
+她的招牌動作是「光之護盾」，隨著局勢愈發不利，她會變得愈加強大，這項能力讓她能夠透過心靈之盾逆轉任何與黑暗的對抗。你可以搭配「由我代受苦痛」來承受另一位危險中的玩家角色所受的傷害，或者透過「在我的庇護下」提供支援。
+
+隨著成長，她會成為更重要的支援來源。透過「今天我來煮飯」等動作，能提升隊伍獲取額外友情點數、消除後果和贈予光點的能力。選擇「她守護我們，輪到我們了」後，她能以身作則激勵同伴，提升她們作為魔法少女的能力。作為支援型角色，「我不會再失敗了」和「我們同在」等動作大幅強化了這個面向，能從失誤中汲取正面效果。最後，衛士還能透過「休想碰她」和「你對我的朋友有意見嗎？」以更主動的方式進一步強化她的防禦能力。
+
+### 鬥士
+
+與其他魔法少女不同，鬥士以更加直接的方式面對與黑暗的衝突。這個特質使她成為一位偏好正面迎擊黑暗、不耍花招的魔法少女。雖然這種行事風格可能被認為暴力或好鬥，但事實並非如此：她只是一個果斷、不拐彎抹角的人。
+
+鬥士通常擁有強大的魅力與令人著迷的性格，這激勵著其他人全力以赴。然而反過來說，她們也驕傲而自負。
+
+在魔法少女的角色中，鬥士擁有面對黑暗生物的能力與手段，無論是幫助他人還是將自己的力量導向黑暗。
+
+#### 鬥士的遊戲定位
+
+鬥士是一個行動派角色，非常適合那些喜歡直接面對問題的玩家。然而，她的衝動性格不應被誤解為頭腦簡單、無法自制。這種直來直往的生活態度往往會影響人際關係，在其中她容易顯得笨拙或過度保護，甚至可能對自己的魔法少女力量掌控不夠純熟。
+
+鬥士的最大能力在直接與黑暗戰鬥時發揮到極致，能擊敗任何擋在她面前的對手。為了體現這份才能，她擁有招牌動作「鬥士之道」，讓她能以各種方式引導內心蘊藏的能量。一方面，「心中之刃」能更輕鬆地擊敗對手，使她變得致命無比；另一方面，「天生戰略家」能用部分能量來幫助同伴。
+
+隨著能力的成長，她能以新的方式運用能量，例如「不可摧毀」讓她能承受痛苦。另一方面，「正義之手」、「吾志所向無不可為」或「人生即是戰場」運用她的競爭精神與戰鬥能量來面對生活中的各種情境與對抗黑暗的戰鬥。「同心協力」和「我就是你的對手」等動作則為擁有鬥士的隊伍提供了強力的支援。
+
+### 偶像
+
+永遠關注潮流、時尚和社交關係，偶像魔法少女通常在意他人的看法，性格外向、大方且開放。某些偶像的性格可能只是一副面具，表面上展現快樂，內心實際上充滿憂鬱；或者看似無私，實際上只是想要提升名聲與獲得他人的仰慕。
+
+偶像總是試圖站在行動的中心，當聚光燈照耀時——無論是真實的還是比喻的——她不喜歡其他人不看她。雖然她看起來可能有些膚淺和單純，但實際上比表面上要機靈和敏銳得多。她的能力來自於強烈的情感力量，讓她能理解感受與人際關係，察覺到他人所忽視的事物。
+
+作為魔法少女，她以熱情和情感作為動力，即使在最絕望的時刻也能取得勝利。忠於自我的態度令她成為眾人矚目的焦點，當她釋放全部潛能時更是如此。
+
+#### 偶像的遊戲定位
+
+這些角色總是因為某些特點而格外引人注目：迷人的性格、穿衣風格、歌聲、電玩技術、頭髮、書法……總之，她們總有令人讚嘆、受人推崇、又讓人嫉妒的特質。主持人（MC）應與玩家討論並確立這個要素，因為它對「我的觀眾有求必應」和「沒錯，就是我……」等動作的虛構敘事有著重要影響。
+
+她的招牌動作是「超級巨星」，而基礎動作「登上舞台……Let's go」能運用她的人氣來擺脫困境，並利用名氣的影響力來影響他人。有些動作能讓她在社交場合中佔據優勢，例如：「我要感謝我的粉絲」能修正一次糟糕的擲骰結果，而「你覺得他們會選誰？」則提供重要的優勢。
+
+隨著故事推進，她擁有更多運用人氣和社交能力的方式。「我控制不了我的感情，好嗎？」這個動作讓她能用最擅長的屬性來完成原本用傳統方法無法做到的事情。在社交環境中，她能透過「你們沒注意到他們互看的眼神嗎？」獲得更多優勢，或者透過「別害羞，你認識……？」和「這一切好無聊……來讓氣氛熱鬧起來吧！」以她的魅力來幫助同伴。
+
+面對黑暗的生物時，雖然她不像勇者或鬥士那樣擁有豐富的資源，但她能用自身的特質來彌補力量的不足。「我的觀眾有求必應」和「沒錯，就是我……」這兩個動作讓她在展現令自己出眾的特質時——例如唱歌、展示美髮、將動作念成格鬥遊戲的連擊招式（而且她還贏了上屆冠軍賽）等——獲得魔法少女的優勢。
+
+### 聖母
+
+聖母擁有難以言表的豐富內在世界，因為她們與自己的內心和光明有著深刻的連結。與力量彷彿與生俱來的勇者不同，聖母的力量是透過她的敏感度獲得的。她的性格通常沉穩寧靜，知道何時該行動，不猶豫地先去尋找解決方法而非走捷徑。聖母的目光總是混合著天真與智慧，微笑著享受最簡單的事物，因為她能看見內心深處的精神富饒。在與他人的關係中，她珍視陪伴與團隊合作，但也常常用微笑掩藏自己的重擔，寧可獨自承受也不願看到他人痛苦。
+
+變身後，聖母通常會運用自己的心與光明連結來支援同伴，而非直接上陣。這種團隊合作的方式使她在朋友們面對黑暗時成為不可或缺的關鍵存在。
+
+#### 聖母的遊戲定位
+
+聖母無論是在魔法少女身份內外，都主要擔任支援角色，偏好幫助同伴。這使得她不太適合直接行動，但與同伴們在一起時卻擁有巨大的潛力。
+
+她的招牌動作是「光之力」，能產生神聖力量來發動各種神聖力量的效果。這組能力讓聖母能與光明連結，因此與主持人（MC）商議這在虛構敘事中如何呈現非常重要。她的第二項力量是「殉道」，能以承受巨大的個人代價為交換，拯救其他角色免受黑暗使徒最嚴重的攻擊效果。
+
+隨著獲得新的成長，她將學會運用自己的力量來克服生活中的困難，透過「清修之道」、她的直覺能力「直覺與預感」，或者透過「在眼中看見靈魂」來提升社交能力。她的正面情感能在恢復方面為團隊提供支援，可選擇「永遠可以更好」和「沒事了，明天一切都會好起來」。但她最突出的能力在於永不消失的支援力，正如「永不放棄」所展示的那樣——在局勢看似失控時，她能重新站起來。
+
+---
+
+## 勇者
+
+### 屬性
+
+| 屬性 | 值 |
+|:---:|:---:|
+| 挑戰 | +1 |
+| 保護 | 0 |
+| 思慮 | -1 |
+| 情感 | +1 |
+| 奉獻 | +1 |
+
+將 +1 加到一項屬性上。
+
+### 守護者的揀選
+
+選擇三個選項：
+
+- **正義之力**：變身時，獲得懲罰 +1 與摧毀 +1。
+- **神聖優雅**：變身時，獲得昇華 +1。
+- **守護者的低語**：你的「真理之光下」擲骰結果追加 +1。
+- **心之引導**：選擇一項基礎動作，當你向心中之光祈求幫助時，可以使用奉獻屬性來代替該動作指定的屬性。
+- **拯救者**：你的「失去光明」動作擲骰結果追加 +1。
+- **不屈**：使用後果時，吸收 6 點而非 4 點。
+
+同時獲得：
+
+**出場宣言**
+你變身並發表一段關於光明之力與黑暗罪惡的演說。獲得一點光點。
+
+### 個人資料
+
+- 姓名：
+- 生活型態：
+- 年齡：
+
+### 變身
+
+- 稱號：
+- 主題：
+- 色彩：
+- 護符：
+- 星座／元素：
+- 血型：
+- 最珍貴的寶物：
+
+### 戀愛
+
+選擇一本戀愛扮演書：
+
+### 友情
+
+選擇一本友情扮演書：
+
+### 光之裝束力量
+
+| 能力等級 | 基礎形態 | 超級形態 | 凱旋形態 |
+|:---:|:---:|:---:|:---:|
+| 1 | 心之力 A | 懲罰 +1 | 摧毀 +1 |
+| 2 | 懲罰 +1 | 心之力（　） | 護甲 +1 |
+| 3 | 堅韌 +1 | 昇華 +1 | 心之力（　） |
+| 5 | FINALEM | | |
+
+### 後果
+
+| | |
+|:---:|:---:|
+| 疲憊 ○ | 憤怒 ○ |
+| 沮喪 ○ | 受挫 ○ |
+| 驚愕 ○ | |
+
+### 黑暗
+
+- 黑暗等級：
+- 黑暗點數：
+
+當你的黑暗等級為 5 時，查閱所選盟約的效果。
+
+### 閃耀時刻！
+
+每當一位玩家角色成功執行「閃耀時刻！」動作時，標記一格，你將獲得該成長的效果。
+
+**基礎成長：**
+
+- 勇者動作
+- 提升一項屬性（上限 2）
+- 獲得「守護者的揀選」的三個額外選項
+- 解鎖光之裝束的超級形態
+- 友情扮演書動作
+
+**進階成長：**
+
+- 勇者動作
+- 友情扮演書動作
+- 提升一項屬性（上限 3）
+- 解鎖光之裝束的凱旋形態
+
+### 進階動作
+
+**光明永不從心中消逝**
+若你擁抱另一位玩家角色，可以花費一點友情點數讓該玩家角色執行「失去光明」動作，並且該次擲骰追加 +2。
+
+**群英之首**
+當你是唯一面對黑暗存在的魔法少女，且宣告某件給予你力量的事情時，獲得一點光點。
+
+**光之心**
+當你是「生活故事」動作的主角時，若擲骰結果為 10 以上，你可以消除一點黑暗點數——無論是你自己的還是與你共同參與該動作的任何人的。
+
+**正義必勝**
+當所有玩家角色都承受了「落敗」後果且你拒絕接受時：
+
+擲骰＋情感：
+- **10+**　場景中所有玩家角色獲得一點光點，並同時適用 7-9 的結果。
+- **7-9**　所有玩家角色取消「落敗」後果以及一項額外後果。
+
+**揀選者之力**
+每次聚會可使用一次，你可以在「心之力」動作中使用任何心之力效果，不受你的能力等級限制，即使你已經使用過也可以。執行動作後，若該心之力原本未被標記，則不標記它。
+
+**我從不孤單**
+當你大聲說出為什麼一位與你有羈絆的玩家角色存在於你心中時，將你的能力量表降低一點。接著，若該玩家角色的光點等於或少於你，你可以將你的一點光點給予該玩家角色。
+
+---
+
+## 參謀
+
+### 天才
+
+獲得以下動作：
+
+**萬事通**
+每當你需要某方面的知識時：
+
+擲骰＋思慮：
+- **10+**　提出一個問題，並說明你是如何知道的。
+- **7-9**　額外附加：你知道的事情有部分錯誤，或者可能遺漏了某些細節。
+
+可選問題：
+- 這個地方、物品或人物的歷史是什麼？
+- 這裡最近發生了什麼事？
+- 它的弱點或缺陷是什麼？
+
+接著，你或另一位玩家角色在與所獲答案相關的下一次動作中追加 +1。
+
+**選擇其一：**
+
+**計中計**
+當你陷入困境時，可以用倒敘的方式表示你有一個備案：
+
+擲骰＋思慮：
+- **10+**　一切順利，準備好的物品或應變措施完美運作。
+- **7-9**　計畫可以按原樣執行，但有些微不同之處。
+- **6-**　全盤失敗。也許敵人已知道你的意圖，或是某些變化使計畫不再有效。
+
+**行程與購物清單**
+當你攜帶背包、手提袋或類似物品，並從中翻找當下需要的東西時：
+
+擲骰＋思慮：
+- **10+**　你找到了需要的物品。
+- **7-9**　裡面沒有你要找的確切物品，而是類似的東西，或者你要找的東西有嚴重的損壞。
+
+### 個人資料
+
+- 姓名：
+- 生活型態：
+- 年齡：
+
+### 變身
+
+- 稱號：
+- 主題：
+- 色彩：
+- 護符：
+- 星座／元素：
+- 血型：
+- 最珍貴的寶物：
+
+### 屬性
+
+| 屬性 | 值 |
+|:---:|:---:|
+| 挑戰 | 0 |
+| 保護 | 0 |
+| 思慮 | +2 |
+| 情感 | -1 |
+| 奉獻 | +1 |
+
+將 +1 加到一項屬性上。
+
+### 戀愛
+
+選擇一本戀愛扮演書：
+
+### 友情
+
+選擇一本友情扮演書：
+
+### 光之裝束力量
+
+| 能力等級 | 基礎形態 | 超級形態 | 凱旋形態 |
+|:---:|:---:|:---:|:---:|
+| 1 | 心之力 D | 摧毀 +1 | 堅韌 +1 |
+| 2 | 摧毀 +1 | 心之力（　） | 懲罰 +1 |
+| 3 | 昇華 +1 | 昇華 +1 | 心之力（　） |
+| 5 | FINALEM | | |
+
+### 後果
+
+| | |
+|:---:|:---:|
+| 疲憊 ○ | 憤怒 ○ |
+| 沮喪 ○ | 受挫 ○ |
+| 驚愕 ○ | |
+
+### 黑暗
+
+- 黑暗等級：
+- 黑暗點數：
+
+當你的黑暗等級為 5 時，查閱所選盟約的效果。
+
+### 閃耀時刻！
+
+每當一位玩家角色成功執行「閃耀時刻！」動作時，標記一格，你將獲得該成長的效果。
+
+**基礎成長：**
+
+- 參謀動作
+- 提升一項屬性（上限 2）
+- 友情扮演書動作
+- 解鎖光之裝束的超級形態
+- 獲得一項你尚未擁有的天才動作
+
+**進階成長：**
+
+- 參謀動作
+- 友情扮演書動作
+- 提升一項屬性（上限 3）
+- 解鎖光之裝束的凱旋形態
+
+### 進階動作
+
+**理性凌駕感性**
+選擇一項動作。從此之後，每當你觸發該動作時，若你以冷靜且精心計算的方式行事，可以使用思慮來代替指定的屬性。
+
+**務實主義**
+當你進行「抵抗黑暗」的擲骰時，追加 +1。
+
+**一絲不苟**
+當你完成一項變身動作後，可以如同執行「真理之光下」動作一般提出一個問題。
+
+**遠端支援**
+當你能存取某種形式的輔助（AI、精靈、書本、盟友……）時，選擇兩項動作。只要你能取得其支援，在執行這些動作時追加 +1。
+
+**祕密之鑰**
+若有人試圖操控你以獲取關於他人或你自己的情報，你可以選擇封閉自我：
+
+擲骰＋思慮：
+- **10+**　你避免透露任何情報，對方放棄嘗試。
+- **7-9**　你可以選擇透露情報，或者以一點黑暗點數為代價說一個彌天大謊。無論謊言多麼荒唐，對方都會相信。
+
+**隱身匿跡**
+你可以花費一點友情點數來不被注意或從一個場景中消失。
+
+---
+
+## 衛士
+
+### 光之護盾
+
+獲得：
+
+**心靈之盾**
+每當一位玩家角色承受一項後果時，你可以將其加到本場景中你們已承受的所有後果總數中。接著，查閱以下列表。你獲得該等級的優勢以及所有更低等級的優勢。場景結束時，你失去所有效果。
+
+- **一項後果**：獲得一點光點。
+- **兩項後果**：懲罰 +2。
+- **三項後果**：護甲 +1 與堅韌 +1。
+- **四項後果**：保護屬性 +1。
+- **五項後果**：你與另一位玩家角色各獲得一點光點。
+
+**選擇一項動作：**
+
+**由我代受苦痛**
+當一位玩家角色受到傷害時，你可以自己承受一項後果來減少該次攻擊 8 點痛苦。
+
+**在我的庇護下**
+當你在與黑暗存在的戰鬥中觸發「永遠在你身邊」時，額外產生一點。即使擲骰失敗也會產生這一點。
+
+### 個人資料
+
+- 姓名：
+- 生活型態：
+- 年齡：
+
+### 變身
+
+- 稱號：
+- 主題：
+- 色彩：
+- 護符：
+- 星座／元素：
+- 血型：
+- 最珍貴的寶物：
+
+### 屬性
+
+選擇一組屬性：
+
+**組合一：**
+
+| 屬性 | 值 |
+|:---:|:---:|
+| 挑戰 | +1 |
+| 保護 | +2 |
+| 思慮 | 0 |
+| 情感 | +1 |
+| 奉獻 | -1 |
+
+**組合二：**
+
+| 屬性 | 值 |
+|:---:|:---:|
+| 挑戰 | -1 |
+| 保護 | +2 |
+| 思慮 | 0 |
+| 情感 | +1 |
+| 奉獻 | +1 |
+
+**組合三：**
+
+| 屬性 | 值 |
+|:---:|:---:|
+| 挑戰 | 0 |
+| 保護 | +2 |
+| 思慮 | +1 |
+| 情感 | 0 |
+| 奉獻 | 0 |
+
+### 戀愛
+
+選擇一本戀愛扮演書：
+
+### 友情
+
+選擇一本友情扮演書：
+
+### 光之裝束力量
+
+| 能力等級 | 基礎形態 | 超級形態 | 凱旋形態 |
+|:---:|:---:|:---:|:---:|
+| 1 | 心之力 D | 護甲 +1 | 堅韌 +1 |
+| 2 | 堅韌 +1 | 心之力 D | 昇華 +1 |
+| 3 | 護甲 +1 | 懲罰 +1 | 心之力（　） |
+| 5 | FINALEM | | |
+
+### 後果
+
+| | |
+|:---:|:---:|
+| 疲憊 ○ | 憤怒 ○ |
+| 沮喪 ○ | 受挫 ○ |
+| 驚愕 ○ | |
+
+### 黑暗
+
+- 黑暗等級：
+- 黑暗點數：
+
+當你的黑暗等級為 5 時，查閱所選盟約的效果。
+
+### 閃耀時刻！
+
+每當一位玩家角色成功執行「閃耀時刻！」動作時，標記一格，你將獲得該成長的效果。
+
+**基礎成長：**
+
+- 衛士動作
+- 提升一項屬性（上限 2）
+- 友情扮演書動作
+- 解鎖光之裝束的超級形態
+- 獲得一項光之護盾動作
+
+**進階成長：**
+
+- 衛士動作
+- 提升一項屬性（上限 3）
+- 友情扮演書動作
+- 解鎖光之裝束的凱旋形態
+
+### 進階動作
+
+**今天我來煮飯**
+當你出現在「生活故事」動作中，並以某種特別的方式支援該活動時，主角的擲骰追加 +1。
+
+**休想碰她**
+若一位玩家角色承受痛苦（即使被抵消），或一位無辜者被黑暗存在攻擊，你的下一次「懲戒黑暗」擲骰使用保護屬性。
+
+**她守護我們，輪到我們了**
+每當你承受一項後果時，選擇一位玩家角色。該玩家角色獲得懲罰 +1 與摧毀 +1，直到脫下光之裝束為止。即使該玩家角色再次被選為目標，效果也不會累積。
+
+**我不會再失敗了**
+每當你在動作中擲出 6 以下時，下一次擲骰追加 +1。
+
+**我們同在**
+當你使用「永遠在你身邊」給予 +1 時，下一次動作改為給予 +2。
+
+**你對我的朋友有意見嗎？**
+當你試圖保護某人時，使用「發自內心的話語」動作時以保護屬性代替情感屬性。
+
+---
+
+## 鬥士
+
+### 鬥士之道
+
+獲得：
+
+**狂野之心**
+當你執行變身動作時，獲得三點活力。每當能力量表提升一點時，獲得一點活力。
+
+**選擇一項鬥士之道動作：**
+
+**心中之刃**
+當你處於變身狀態並執行「懲戒黑暗」時，可以花費一點活力來在該動作中獲得懲罰 +3。
+
+**天生戰略家**
+每當你在戰鬥中給出建議或下達指令時，可以花費一點活力來給予該玩家角色的下一次動作 +1。
+
+### 個人資料
+
+- 姓名：
+- 生活型態：
+- 年齡：
+
+### 變身
+
+- 稱號：
+- 主題：
+- 色彩：
+- 護符：
+- 星座／元素：
+- 血型：
+- 最珍貴的寶物：
+
+### 屬性
+
+選擇一組屬性：
+
+**組合一：**
+
+| 屬性 | 值 |
+|:---:|:---:|
+| 挑戰 | +2 |
+| 保護 | 0 |
+| 思慮 | +1 |
+| 情感 | 0 |
+| 奉獻 | 0 |
+
+接著，將一個 0 改為 +1，另一個 0 改為 -1。
+
+**組合二：**
+
+| 屬性 | 值 |
+|:---:|:---:|
+| 挑戰 | +1 |
+| 保護 | 0 |
+| 思慮 | +2 |
+| 情感 | 0 |
+| 奉獻 | 0 |
+
+### 戀愛
+
+選擇一本戀愛扮演書：
+
+### 友情
+
+選擇一本友情扮演書：
+
+### 光之裝束力量
+
+| 能力等級 | 基礎形態 | 超級形態 | 凱旋形態 |
+|:---:|:---:|:---:|:---:|
+| 1 | 心之力 A | 護甲 +1 | 懲罰 +1 |
+| 2 | 摧毀 +1 | 心之力（　） | 堅韌 +1 |
+| 3 | 懲罰 +2 | 懲罰 +1 | 心之力 A |
+| 5 | FINALEM | | |
+
+### 後果
+
+| | |
+|:---:|:---:|
+| 疲憊 ○ | 憤怒 ○ |
+| 沮喪 ○ | 受挫 ○ |
+| 驚愕 ○ | |
+
+### 黑暗
+
+- 黑暗等級：
+- 黑暗點數：
+
+當你的黑暗等級為 5 時，查閱所選盟約的效果。
+
+### 閃耀時刻！
+
+每當一位玩家角色成功執行「閃耀時刻！」動作時，標記一格，你將獲得該成長的效果。
+
+**基礎成長：**
+
+- 鬥士動作
+- 提升一項屬性（上限 2）
+- 獲得一項鬥士之道動作
+- 解鎖光之裝束的超級形態
+- 友情扮演書動作
+
+**進階成長：**
+
+- 鬥士動作
+- 友情扮演書動作
+- 提升一項屬性（上限 3）
+- 解鎖光之裝束的凱旋形態
+
+### 進階動作
+
+**正義之手**
+當任何玩家角色（包含你自己）標記一項後果，且你向黑暗使徒斥責此事時，你的下一次「懲戒黑暗」擲骰追加 +1。
+
+**不可摧毀**
+你可以花費一點活力來抵消 8 點痛苦。
+
+**吾志所向無不可為**
+每當你試圖克服由恐懼或不安全感引發的危險時，擲骰追加 +1。
+
+**我就是你的對手**
+當你面對一個正在騷擾你想保護的人的敵人或某人，並試圖吸引其注意力時：
+
+擲骰＋挑戰：
+- **10+**　選擇兩個選項。
+- **7-9**　選擇一個選項。
+
+可選選項：
+- 敵人眼裡只有你。
+- 你震懾了對手，你的下一次與其相關的動作追加 +1。
+- 下一次有人（你除外）從該敵人處承受痛苦時，獲得護甲 +3。
+
+**同心協力**
+當你激勵同伴並高喊著衝入戰場時，花費一點活力：
+
+擲骰＋挑戰：
+- **10+**　所有跟隨你的玩家角色獲得一點光點。同時適用 7-9 的結果。
+- **7-9**　所有跟隨你的玩家角色各取消一項自選的後果。
+
+**人生即是戰場**
+當你透過衝突和對抗與他人交流時，可以在執行「發自內心的話語」動作時使用挑戰屬性。
+
+---
+
+## 偶像
+
+### 超級巨星
+
+獲得：
+
+**登上舞台……Let's go**
+在聚會開始時，偶像獲得一點人氣值。每當她做了某件吸引注意力、讓焦點集中在自己身上的事時，獲得一點人氣值。她的人氣值永遠不能超過一點。
+
+**我要感謝我的粉絲**
+當你在粉絲面前時，花費一點人氣值並獲得以下兩種效果之一：
+- 將一次 6 以下的結果轉為 7-9。
+- 將一次 7-9 的結果轉為 10+。
+
+**你覺得他們會選誰？**
+當你試圖說服一個人或一群人，而他們給你製造了某種麻煩時，你可以花費一點人氣值向他們提供某些東西來獲得他們的協助。
+
+### 個人資料
+
+- 姓名：
+- 生活型態：
+- 年齡：
+
+### 變身
+
+- 稱號：
+- 主題：
+- 色彩：
+- 護符：
+- 星座／元素：
+- 血型：
+- 最珍貴的寶物：
+
+### 屬性
+
+| 屬性 | 值 |
+|:---:|:---:|
+| 挑戰 | 0 |
+| 保護 | 0 |
+| 思慮 | -2 |
+| 情感 | +2 |
+| 奉獻 | 0 |
+
+選擇以下其中一種方式分配：將 +3 加到一項屬性上、將 +2 和 +1 分別加到兩項屬性上，或將 +1 加到三項屬性上（任一屬性上限為 +2）。
+
+### 戀愛
+
+選擇一本戀愛扮演書：
+
+### 友情
+
+選擇一本友情扮演書：
+
+### 光之裝束力量
+
+| 能力等級 | 基礎形態 | 超級形態 | 凱旋形態 |
+|:---:|:---:|:---:|:---:|
+| 1 | 心之力 | 堅韌 +1 | 護甲 +1 |
+| 2 | 昇華 +1 | 心之力（　） | 昇華 +1 |
+| 3 | 昇華 +1 | 懲罰 +1 | 心之力（　） |
+| 5 | FINALEM | | |
+
+### 後果
+
+| | |
+|:---:|:---:|
+| 疲憊 ○ | 憤怒 ○ |
+| 沮喪 ○ | 受挫 ○ |
+| 驚愕 ○ | |
+
+### 黑暗
+
+- 黑暗等級：
+- 黑暗點數：
+
+當你的黑暗等級為 5 時，查閱所選盟約的效果。
+
+### 閃耀時刻！
+
+每當一位玩家角色成功執行「閃耀時刻！」動作時，標記一格，你將獲得該成長的效果。
+
+**基礎成長：**
+
+- 偶像動作
+- 提升一項屬性（上限 2）
+- 友情扮演書動作
+- 解鎖光之裝束的超級形態
+- 「登上舞台……Let's go」MAX+
+
+**進階成長：**
+
+- 偶像動作
+- 提升一項屬性（上限 3）
+- 友情扮演書動作
+- 解鎖光之裝束的凱旋形態
+
+### 進階動作
+
+**我控制不了我的感情，好嗎？**
+選擇一項基礎動作，每當你將自己的情緒和感受傾注到行動中時，可以使用情感來代替指定的屬性。
+
+**這一切好無聊……來讓氣氛熱鬧起來吧！**
+當偶像作為主角執行「生活故事」動作時，無論結果如何，都會觸發主持人（MC）的一項反應。所有在場的玩家角色獲得一個額外選項，偶像則獲得一點人氣值或一個額外選項。
+
+**我的觀眾有求必應**
+變身後，如果有非魔法少女的人能看見你，展現你最為人知或出眾的特質。獲得一點光點。
+
+**你們沒注意到他們互看的眼神嗎？**
+每場景一次，當你停下來觀察一群人並花費一點人氣值時，可以提出以下問題之一：
+
+- 誰是最重要的人？
+- 我能做什麼來吸引所有人的注意？
+- 我怎樣才能製造混亂？
+- 有多少「群體」？
+- 誰跟……會是好配對？
+
+**別害羞，你認識……？**
+當你在場景中，介入一段某位玩家角色正在執行「發自內心的話語」動作的對話，花費一點人氣值，讓該動作擲 3d6 並捨棄最低的結果。
+
+**沒錯，就是我……**
+當你處於變身狀態並面對敵人，展現你在世界上的出眾特質時，花費一點人氣值並選擇一個選項：
+- 摧毀 +1
+- 昇華 +1
+- 懲罰 +1
+
+---
+
+## 聖母
+
+### 屬性
+
+| 屬性 | 值 |
+|:---:|:---:|
+| 挑戰 | -2 |
+| 保護 | +1 |
+| 思慮 | 0 |
+| 情感 | +1 |
+| 奉獻 | +2 |
+
+將一點加到保護、思慮或情感上。
+
+### 光之力
+
+獲得：
+
+**神聖力量**
+
+從列表中選擇三項效果。每項效果消耗一點：
+
+- **撫慰**：一位玩家角色在下一次擲骰時不必因已標記的後果而承受 -2 的減值。
+- **光之護盾**：為一位玩家角色抵消 5 點痛苦，或拯救一位非玩家角色。
+- **祝福攻擊**：另一位玩家角色在下一次「懲戒黑暗」擲骰的懲罰或摧毀追加 +2。
+- **神聖支援**：一位玩家角色在下一次擲骰追加 +1。
+- **束縛黑暗**：使一個敵人陷入不利狀態。
+- **療癒**：消除一位玩家角色的「落敗」後果。
+
+當你集中理想的力量和心中之光時：
+
+擲骰＋奉獻：
+- **10+**　獲得三點。
+- **7-9**　獲得一點。
+
+若你再次執行神聖力量動作或場景結束，你將失去所有點數。你可以花費一點來發動一項神聖力量效果。
+
+同時獲得：
+
+**殉道**
+當有人即將承受痛苦，而你描述如何將其效果導向自己時，你可以使用你的友情點數和後果來代替吸收這些傷害。
+
+### 個人資料
+
+- 姓名：
+- 生活型態：
+- 年齡：
+
+### 變身
+
+- 稱號：
+- 主題：
+- 色彩：
+- 護符：
+- 星座／元素：
+- 血型：
+- 最珍貴的寶物：
+
+### 戀愛
+
+選擇一本戀愛扮演書：
+
+### 友情
+
+選擇一本友情扮演書：
+
+### 光之裝束力量
+
+| 能力等級 | 基礎形態 | 超級形態 | 凱旋形態 |
+|:---:|:---:|:---:|:---:|
+| 1 | 心之力 P | 護甲 +1 | 堅韌 +1 |
+| 2 | 堅韌 +1 | 心之力（　） | 昇華 +1 |
+| 3 | 昇華 +1 | 昇華 +1 | 心之力 P |
+| 5 | FINALEM | | |
+
+### 後果
+
+| | |
+|:---:|:---:|
+| 疲憊 ○ | 憤怒 ○ |
+| 沮喪 ○ | 受挫 ○ |
+| 驚愕 ○ | |
+
+### 黑暗
+
+- 黑暗等級：
+- 黑暗點數：
+
+當你的黑暗等級為 5 時，查閱所選盟約的效果。
+
+### 閃耀時刻！
+
+每當一位玩家角色成功執行「閃耀時刻！」動作時，標記一格，你將獲得該成長的效果。
+
+**基礎成長：**
+
+- 聖母動作
+- 提升一項屬性（上限 2）
+- 友情扮演書動作
+- 解鎖光之裝束的超級形態
+- 獲得神聖力量的三個額外選項
+
+**進階成長：**
+
+- 聖母動作
+- 提升一項屬性（上限 3）
+- 友情扮演書動作
+- 解鎖光之裝束的凱旋形態
+
+### 進階動作
+
+**清修之道**
+選擇一項基礎動作，現在當你運用天真與善良時，可以使用奉獻來代替指定的屬性。
+
+**在眼中看見靈魂**
+當你注視某人的雙眼並執行「發自內心的話語」動作時，擲骰追加 +1。
+
+**永遠可以更好**
+當你執行「生活故事」動作時，你可以選擇不選取任何選項，改為在結果 7-9 時消除所有參與者的一點黑暗點數，或在結果 10+ 時消除兩點。
+
+**直覺與預感**
+當你執行「真理之光下」動作時，每場景一次可以不擲骰直接提出一個問題。
+
+**永不放棄**
+當你處於「落敗」狀態時，你可以選擇消除該後果。為此，場景結束時你必須繼續執行「失去光明」動作。此動作每場景只能使用一次。
+
+**沒事了，明天一切都會好起來**
+當有人獲得一點黑暗點數且你上前給予鼓勵時，問對方這是否讓他們感覺好些。若回答為是，接著：
+
+擲骰＋奉獻：
+- **10+**　消除該黑暗點數。
+- **7-9**　消除該黑暗點數，選擇其一：
+  - 被選中的玩家角色與你各失去一點友情點數。
+  - 承受一項後果。
+  - 獲得一點黑暗點數。

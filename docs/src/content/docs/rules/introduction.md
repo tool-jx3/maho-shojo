@@ -5,219 +5,114 @@ sidebar:
   order: 1
 ---
 
-Introducción
-Bienvenidos a Mahō Shōjo, el juego de rol con el que podréis contar y vivir vuestras 
-propias historias del género magical girl, igual que en los cómics manga y las series 
-anime. Con él, tú y tu grupo podréis contar historias sobre chicas que albergan un 
-gran poder en su interior con el que cambiar el mundo a su alrededor. A lo largo 
-de vuestras aventuras fortaleceréis los lazos que os unen a vuestras amigas y fami-
-liares, exploraréis entornos cotidianos y os enfrentaréis a criaturas nacidas de la 
-Oscuridad. Según vayáis viviendo las aventuras de las chicas mágicas experimenta-
-réis momentos divertidos y desenfadados, intercalados con alguna dosis de drama 
-y combates contra la Oscuridad.
-Para poder transmitir esta experiencia narrativa, Mahō Shōjo utiliza el sistema PbtA 
-(Powered by the Apocalypse). Gracias a este sistema, unos jugadores asumirán el pa-
-pel de un arquetipo habitual de este tipo de historias, mientras otro jugador se pondrá 
-en el lugar del Maestro de Ceremonias (o MC). Durante el transcurso de una partida 
-los jugadores y el Maestro de Ceremonias se alternarán para hablar y, de esa forma, 
-irán construyendo una historia mediante la activación de Movimientos y Reacciones.
-Si vas a asumir el papel de jugador no necesitas leer nada más, ni espero que lo 
-hagas, si bien hacerlo te ayudará a conocer mejor el juego. En cambio, si tu inten-
-ción es asumir el puesto de Maestro de Ceremonias, deberías familiarizarte con el 
-contenido de este libro, leyendo y repasando cada uno de sus capítulos. Una vez lo 
-hayas terminado podrás usarlo como guía para construir nuevas aventuras y, con 
-ellas vuestro propio relato sobre magical girls.
-Sobre «Powered by the Apocalypse»
-El sistema que utiliza Mahō Shōjo toma prestada la filosofía y la premisa de otro 
-juego de rol: Apocalypse World de Vincent Baker. Este juego consiste en una serie 
-de historias sobre un futuro que se fue a la mierda y cuyos habitantes tratan de 
-sobrevivir. Como puedes ver es un juego muy diferente a Mahō Shōjo. Afortunada-
-mente este sistema es bastante flexible y, usando sus premisas, se han podido crear 
-multitud de obras y juegos diferentes. Desde que fue presentado ha surgido un gran 
-movimiento en internet con decenas de juegos y cientos de hacks que han ampliado 
-la idea original del autor, algunos de los cuales podéis encontrar en el catálogo de 
-Nosolorol, como Dungeon World, Sombras Urbanas o Worlds in Peril.
-Sobre el género Maho Shojo
-El juego que tienes entre manos está diseñado para contar historias del género 
-mahō shōjo, nacido del manga y el anime japoneses. Este tipo de historias ha recibi-
-do muchas transformaciones a lo largo de los años y, a día de hoy, lo que conocemos 
-6
-Maho Shojo
+## 介紹
 
-como mahō shōjo es muy diferente a lo que fue en sus orígenes. Este libro no pre-
-tende ser un tratado sobre el género, sus orígenes ni sus significados, sino un ma-
-nual que permita jugar el tipo de historias que nos vienen a la mente cuando pensa-
-mos en él. Por ese motivo vamos a evitar hablar de la evolución, de la influencia de 
-la estructura del sentai de principios de los 90 o del significado y las implicaciones 
-de la palabra japonesa shōjo.
-Algunos lectores podrán pensar que es una simplificación, pero a la hora de escribir 
-este juego hemos decidido tomar los siguientes elementos:
-	
-✽Grupos de chicas con un gran poder en su interior fortalecido por la amistad y 
-sus sentimientos. De esta forma, a la hora contar estas historias, las relaciones 
-personales y la vida cotidiana como jóvenes adolescentes son un elemento clave.
-	
-✽Las protagonistas habitan en un mundo de «fantasía doméstica» (más infor-
-mación en el capítulo sobre el Maestro de Ceremonias en la página 202). El 
-mostrar y dar protagonismo a espacios cotidianos, como el hogar, el insti-
-tuto o una cafetería, realza el contraste con el mundo mágico y la influencia 
-de la Oscuridad.
-	
-✽El conflicto entre la Luz y la Oscuridad se forma gracias a la existencia de cria-
-turas que perturban la vida de las magical girls. Gracias a esto se crean situa-
-ciones dramáticas que permiten a las protagonistas tomar decisiones y poner a 
-prueba sus creencias y lazos de amistad.
-	
-✽La manifestación de los poderes de las protagonistas mediante transformacio-
-nes y magia para enfrentarse a criaturas y otras entidades. Dan la oportunidad 
-a las magical girls de hacer uso de sus habilidades especiales y buscar la forma 
-de evitar la expansión de la Oscuridad.
-Este libro utiliza las ideas arriba descritas como principales, aunque con esto es-
-temos simplificando algunos temas y elementos que podemos encontrar en el gé-
-nero. Si quieres saber más, te animamos a buscar más información sobre él. Un 
-buen punto de partida son las series mencionadas en el apartado «Fuentes» de 
-la página 9.
-Sobre el juego Maho Shojo
-En Mahō Shōjo cada jugador asume el papel de una magical girl, similares a las 
-protagonistas de historias como las que podemos encontrar en muchos animes y 
-mangas. A lo largo de los años, este género ha creado pequeñas variantes que mo-
-difican el tono y el tipo de historias que se narran. Más adelante aparece una serie 
-de ayudas que modifican ligeramente la experiencia de juego, conocidas como «Ori-
-gen del Pacto». Cada Pacto pretende emular un entorno diferente, el cual deberéis 
-decidir entre todos para explorar en vuestro grupo de juego.
-Cada uno de los Pactos se encuentra descrito más adelante (ver «El Pacto» en la 
-página 173), pero a continuación tienes un pequeño resumen.
-7
-•Introducción•
+歡迎來到 Mahō Shōjo，這是一款桌上角色扮演遊戲，讓你和夥伴們能夠講述並體驗屬於自己的魔法少女故事，就如同漫畫和動畫中那般。透過這款遊戲，你和你的團隊可以講述關於少女們心中蘊藏著改變世界之力的故事。在冒險的旅途中，你們將強化彼此之間的羈絆，探索日常生活的場景，並與誕生自黑暗的生物對抗。隨著魔法少女們的冒險展開，你們將體驗到輕鬆愉快的時刻，穿插著些許戲劇性的場面與對抗黑暗的戰鬥。
 
-Hijas de la Luz
-Con un fragmento de magia que despierta en su interior, las magical girls son una 
-llave capaz de abrir la puerta entre el mundo real y el mundo mágico. Mientras 
-aprenden a sobrellevar su doble vida, irán buscando la forma de unir ambas o que-
-darse solo con una.
-Este tipo de Pacto trata de representar las historias clásicas del mahō shōjo. En este 
-Pacto la lucha contra la Oscuridad pasa a un segundo plano, dando más importan-
-cia a la relación de las magical girls con su entorno. Aquí, los combates contra seres 
-de la Oscuridad son menos importantes, tomando un papel secundario.
-Para saber más, ver «Ambientación» en la página 264.
-Campeonas de la Justicia
-Cuando la Oscuridad amenaza el mundo, un grupo de chicas que albergan un gran 
-poder en su corazón despierta para salvarlo. Su objetivo será encontrar el equilibrio 
-en su vida mientras luchan por la Justicia en nombre de la Luz.
-Este pacto permite emular la visión más popular de las magicals girls. En este tipo 
-de historias las vidas personales de las protagonistas se ven amenazadas por cria-
-turas y monstruos de forma regular, pudiendo llegar a recordar a la estructura de 
-«monstruo de la semana».
-Para saber más, ver «Ambientación» en la página 272.
-Marionetas de los Custodios
-Seres de Oscuridad tratan de infiltrarse en el mundo y son perseguidos por una 
-serie de criaturas que se dedican a darles caza. Para realizar esta tarea con éxito 
-deberán encontrar chicas que tengan un gran poder en su interior y liberarlo. Una 
-vez escogidas, estas criaturas pasan a ser sus Custodios, ayudando a atrapar a las 
-criaturas y monstruos que amenazan el mundo.
-Este pacto permite representar concepciones más actuales de las magical girls, que 
-tienden a tratar temas más siniestros o incluso de terror. Cuando el grupo de juego 
-selecciona este tipo de historias, la lucha interior de las magical girls pasará a tener 
-un gran protagonismo mientras tratan de evitar convertirse en aquello a lo que se 
-enfrentan.
-Para saber más, ver «Ambientación» en la página 279.
-Fuentes
-Durante el desarrollo del juego fueron consultadas múltiples series de manga y 
-anime. A continuación tienes un listado con algunas de ellas. Es posible que te des 
-cuenta de que algunos títulos no pertenecen al género mahō shōjo (incluso puede 
-8
-Maho Shojo
+為了傳遞這種敘事體驗，Mahō Shōjo 採用了 PbtA（Powered by the Apocalypse）系統。藉由這個系統，部分玩家將扮演這類故事中常見的原型角色，而另一位玩家則擔任主持人（MC）的職責。在遊戲過程中，玩家與主持人（MC）將交替發言，透過觸發動作與反應來共同構建故事。
 
-que pertenezcan al género shōnen). Sin embargo, disponen de elementos que pue-
-den servir de inspiración, especialmente en lo referente a las relaciones entre los 
-personajes:
-Sailor Moon (1991)
-Las guerreras mágicas (1994)
-Cardcaptor Sakura (1996)
-Tokyo Mew Mew (2002)
-Mai-HiME (2004)
-Magical Girl Lyrical Nanoha (2004)
-Pretty Cure (2004-Presente)
-Shakugan no Shana (2005)
-Kämpfer (2009)
-Toaru Kagaku no Rērugan (2009)
-Puella Magi Madoka Magica (2011)
-Magical Girl Raising Project (2012)
-Senki Zesshō Symphogear (2013)
-Kill la Kill (2013)
-Yuki Yuna is a Hero (2014)
-Sailor Moon Crystal (2014)
-¿Qué necesito?
-Para poder disfrutar de la experiencia de Mahō Shōjo es recomendable disponer de 
-los elementos descritos a continuación.
-El grupo
-Lo primero, y lo más importante, es tener un grupo con el que vivir las aventuras 
-que propone Mahō Shōjo. Lo habitual es que una partida la formen entre 2 y 6 
-personas, aunque tampoco existe un número mágico. Una vez estéis todos juntos, 
-uno de vosotros deberá tomar el papel de MC, mientras que el resto de jugadores 
-asumirá el control de cada uno de los arquetipos. Algunos grupos prefieren rotar 
-estos papeles según avanza la historia para contar historias diferentes o mostrar 
-puntos de vista distintos. Si es así, adelante.
-Durante el transcurso de la partida, los jugadores interpretan y toman las decisio-
-nes de sus personajes, a los que denominaremos Personajes Jugadores (PJ a partir 
-de ahora). El resto de personajes del mundo, desde los aliados a los enemigos de los 
-PJ, son controlados por el jugador que asume el papel de MC, y son conocidos como 
-Personajes No Jugadores (o PNJ).
-Para finalizar, si jugáis de forma habitual, es bueno decidir un día para así poder 
-ir planificando los horarios. Esta planificación dependerá de cada grupo, desde 
-aquellos que puedan jugar todos los días hasta los que puedan hacerlo apenas una 
-vez al mes.
-9
-•Introducción•
+如果你打算擔任玩家，其實不需要再閱讀更多內容，我也不期望你這麼做，不過閱讀整本書確實能幫助你更深入地了解遊戲。相反地，如果你打算擔任主持人（MC），則應該熟悉本書的內容，閱讀並溫習每一個章節。讀完之後，你就能以此為指南來構建新的冒險，並與夥伴們一同創造屬於你們的魔法少女故事。
 
-Dados
-Necesitaréis al menos dos dados de seis caras. Estamos seguros que podréis encon-
-trar algunos por casa de otros juegos o, si este no es vuestro primer juego de rol, una 
-bolsa con unos cuantos. Lo ideal sería que cada jugador tuviera dos dados (sobre 
-todo si creéis en supersticiones como las de que la suerte se acaba o que las buenas 
-tiradas se gastan), pero siempre podéis compartirlos. Si no tenéis dados, o no podeis 
-usar dados físicos, podéis acceder a páginas web o aplicaciones en vuestros disposi-
-tivos digitales. Muchas de estas ayudas han sido creadas por aficionados de todo el 
-mundo y pueden aportar otras herramientas útiles para vuestras partidas.
-Libretos de Arquetipos
-En Mahō Shōjo tienes disponibles varios libretos correspondientes a cada uno de 
-los arquetipos del juego. Cada jugador debe seleccionar uno antes de empezar a 
-encarnar a una de las heroínas en la Ficción.
-Antes de vuestra primera partida, es conveniente que tengáis al menos una copia de 
-cada arquetipo disponible. Una vez estéis reunidos presentadlas ante los jugadores, 
-para que cada uno pueda escoger la que mejor se adapta a su estilo de juego y al 
-papel que quiera interpretar.
-Marcadores
-Si bien puedes jugar sin ellos, es muy útil tener algunos marcadores sobre la mesa 
-para representar algunos elementos del juego, como los Puntos de Luz y los Puntos 
-de Amistad. Puedes usar cualquier cosa que tengas a mano: fichas de póquer, ca-
-ramelos, cuentas de plástico, trozos de papel… Al igual que para los dados, existen 
-aplicaciones y ayudas digitales que permiten gestionar estos elementos desde un 
-dispositivo electrónico.
-10
-Maho Shojo
+## 關於「Powered by the Apocalypse」
 
-Papel, lápiz y dispositivos electrónicos
-Como MC necesitarás recoger decenas de notas durante las partidas. También es 
-habitual que muchos jugadores escriban diarios sobre sus personajes o recopilen 
-información importante.
-Para este cometido necesitarás pósits, folios en blanco, tarjetas, cuadernos o un 
-soporte electrónico.
-Ayudas de juego
-Para ayudar tanto al MC como a los jugadores a que la partida sea más fluida y evi-
-téis estar acudiendo al libro de reglas todo el tiempo, es recomendable disponer de 
-varias copias para que todos podáis consultarlas. De esta manera podréis resolver 
-rápidamente preguntas sobre Movimientos y reglas, el estado de los Eclipses, tarje-
-tas con el resumen de distintos PNJ, mapas… cualquier cosa que ayude a volver más 
-ágil el resolver dudas para poder centrarnos de nuevo en la historia.
-La Guía de Dungeon World
-Si bien no es algo necesario, es muy aconsejable que, tras leer este libro, dediques 
-un tiempo a consultar este documento. En él se habla de muchos aspectos del siste-
-ma, además de explicar cómo hacer frente a las situaciones que podrías encontrarte 
-en una partida. Si bien es cierto que casi todos los ejemplos que verás tratan sobre 
-el juego Dungeon World, muchos de los consejos y dudas resueltas son de gran 
-ayuda para tener una mayor comprensión del sistema PbtA y, por tanto, útiles para 
-Mahō Shōjo.
-Puedes descargarte la guía en castellano a través de la web de Nosolorol.
-11
-•Introducción•
+Mahō Shōjo 所使用的系統借鑑了另一款桌上角色扮演遊戲的理念與前提：Vincent Baker 的《Apocalypse World》。那款遊戲講述的是一個末世崩壞後，倖存者們掙扎求生的故事。如你所見，它與 Mahō Shōjo 是截然不同的遊戲。幸運的是，這個系統相當靈活，基於其核心前提，已經催生出大量不同的作品與遊戲。自問世以來，網路上興起了一股龐大的運動，數十款遊戲與數百個改版作品拓展了原作者的初始構想，其中一些可以在 Nosolorol 的目錄中找到，例如《Dungeon World》、《Sombras Urbanas》或《Worlds in Peril》。
+
+## 關於魔法少女類型
+
+你手中的這款遊戲是專為講述魔法少女（mahō shōjo）類型的故事而設計的，這個類型源自日本漫畫與動畫。多年來，這類故事經歷了許多變革，如今我們所認知的魔法少女與最初的樣貌已大不相同。本書無意成為一部關於此類型的起源或意涵的論述，而是一本能讓你遊玩這類故事的手冊——當我們想到魔法少女時腦海中浮現的那些故事。因此，我們將避免談論其演變、九〇年代初期戰隊結構的影響，或日語「shōjo」一詞的含義與隱喻。
+
+部分讀者可能會認為這是一種簡化，但在撰寫這款遊戲時，我們決定採用以下要素：
+
+- 一群心中蘊藏著強大力量的少女，其力量因友情與情感而更加堅固。因此，在講述這些故事時，人際關係與作為青少年的日常生活是關鍵要素。
+- 主角們生活在一個「生活奇幻」的世界中（詳見主持人（MC）章節）。展現並賦予日常空間——如家庭、學校或咖啡廳——重要地位，能夠凸顯與魔法世界和黑暗影響之間的對比。
+- 光明與黑暗之間的衝突源自於擾亂魔法少女們生活的生物的存在。藉此創造出戲劇性的情境，讓主角們做出抉擇，並考驗她們的信念與友情羈絆。
+- 主角們透過變身與魔法來展現力量，對抗生物與其他存在。這讓魔法少女們有機會運用特殊能力，並尋找阻止黑暗擴張的方法。
+
+本書以上述理念為核心，儘管這意味著我們簡化了此類型中某些主題與要素。如果你想了解更多，我們鼓勵你去搜尋更多相關資訊。以下「參考來源」段落中提到的作品是很好的出發點。
+
+## 關於 Mahō Shōjo 遊戲
+
+在 Mahō Shōjo 中，每位玩家扮演一名魔法少女，就像許多動畫和漫畫中的主角一樣。多年來，這個類型衍生出各種小變體，改變了故事的基調與類型。後面將介紹一系列能稍微調整遊戲體驗的輔助設定，稱為「盟約的起源」。每種盟約試圖模擬不同的環境，你們需要全體決定要在遊戲中探索哪一種。
+
+每種盟約的詳細說明請見後續章節（參閱「盟約」），以下是簡要摘要。
+
+### 光明子女
+
+憑藉內心覺醒的一片魔法，魔法少女們成為了開啟現實世界與魔法世界之間大門的鑰匙。在學習應對雙重生活的同時，她們將尋找方法來統合兩個世界，或是選擇其中之一。
+
+這種盟約試圖呈現魔法少女的經典故事。在此盟約中，與黑暗的戰鬥退居次要地位，更加著重魔法少女與周遭環境的關係。在這裡，對抗黑暗生物的戰鬥相對不那麼重要，僅扮演輔助角色。
+
+### 正義騎士
+
+當黑暗威脅世界時，一群心中蘊藏著強大力量的少女覺醒以拯救世界。她們的目標是在為光明之名而戰的同時，找到生活中的平衡。
+
+這種盟約能夠模擬最廣為人知的魔法少女形象。在這類故事中，主角們的個人生活經常受到生物與怪物的威脅，其節奏可能令人聯想到「每週怪物」的敘事結構。
+
+### 契約傀儡
+
+黑暗的生物試圖滲透世界，並被一群致力於獵捕牠們的造物所追擊。為了成功完成這項任務，牠們必須找到心中蘊藏著強大力量的少女並將其釋放。一旦被選中，這些造物便成為她們的守護者，協助捕獲威脅世界的生物與怪物。
+
+這種盟約能夠呈現較為現代的魔法少女概念，傾向於處理更陰暗甚至恐怖的主題。當遊戲團隊選擇這類故事時，魔法少女們的內心掙扎將佔據重要地位，因為她們試圖避免變成自己所對抗的存在。
+
+## 參考來源
+
+在遊戲開發過程中，參考了大量漫畫與動畫作品。以下是其中一些作品的列表。你可能會注意到某些作品並不屬於魔法少女類型（甚至可能屬於少年向類型）。然而，它們具備能作為靈感來源的要素，尤其是在角色之間的關係方面：
+
+- Sailor Moon（1991）
+- 魔法騎士（1994）
+- 庫洛魔法使（1996）
+- Tokyo Mew Mew（2002）
+- Mai-HiME（2004）
+- Magical Girl Lyrical Nanoha（2004）
+- Pretty Cure（2004 至今）
+- Shakugan no Shana（2005）
+- Kämpfer（2009）
+- 某科學的超電磁砲（2009）
+- 魔法少女小圓（2011）
+- Magical Girl Raising Project（2012）
+- 戰姬絕唱 Symphogear（2013）
+- Kill la Kill（2013）
+- 結城友奈是勇者（2014）
+- Sailor Moon Crystal（2014）
+
+## 需要什麼？
+
+為了充分享受 Mahō Shōjo 的體驗，建議準備以下所述的各項物品。
+
+### 團隊
+
+首先，也是最重要的，是要有一個能夠一起體驗 Mahō Shōjo 冒險的團隊。通常一場遊戲由二到六人組成，不過也沒有所謂的魔法數字。等大家都到齊後，其中一位需要擔任主持人（MC），而其餘玩家則各自扮演一個原型角色。有些團隊偏好隨著故事推進而輪換這些角色，以講述不同的故事或展現不同的觀點。如果你們也是如此，儘管放手去做。
+
+在遊戲過程中，玩家們詮釋並為自己的角色做出決定，我們稱之為玩家角色（以下簡稱 PJ）。世界中的其餘角色，從盟友到敵人，都由擔任主持人（MC）的玩家所控制，稱為非玩家角色（或 PNJ）。
+
+最後，如果你們經常一起遊玩，最好固定一個日期以便安排時間。這取決於每個團隊的情況，從每天都能玩到每月只能玩一次的都有。
+
+### 骰子
+
+你們至少需要兩顆六面骰。我們相信你們一定能從家裡其他遊戲中找到幾顆，或者如果這不是你們的第一款桌遊，你們可能有一袋骰子。理想情況下每位玩家都有兩顆骰子（尤其如果你們相信運氣會用完或好骰會被消耗之類的迷信的話），不過共用也完全沒問題。如果你們沒有骰子，或無法使用實體骰子，可以使用網頁或數位裝置上的應用程式。許多這類工具都是由世界各地的愛好者製作的，還能為你們的遊戲提供其他實用功能。
+
+### 原型扮演書
+
+在 Mahō Shōjo 中，有多本對應各個遊戲原型的扮演書可供使用。每位玩家必須在開始於虛構敘事中扮演女英雄之前選擇一本。
+
+在你們的第一場遊戲之前，最好至少準備好每個原型的一份副本。等大家聚在一起後，將它們展示給玩家，讓每個人都能選擇最適合自己遊戲風格和想要扮演的角色的那一本。
+
+### 標記物
+
+雖然沒有標記物也能遊玩，但在桌上準備一些標記物來代表遊戲中的某些要素是非常實用的，例如光點和友情點數。你可以使用手邊任何東西：撲克籌碼、糖果、塑膠珠子、紙片……與骰子一樣，也有應用程式和數位工具可以透過電子裝置來管理這些要素。
+
+### 紙筆與電子裝置
+
+作為主持人（MC），你需要在遊戲過程中記下大量筆記。許多玩家也習慣撰寫角色日記或記錄重要資訊。
+
+為此，你需要準備便利貼、空白紙張、卡片、筆記本或電子裝置。
+
+### 遊戲輔助工具
+
+為了幫助主持人（MC）和玩家們讓遊戲更加流暢，避免不斷翻閱規則書，建議準備多份副本以供大家查閱。這樣就能快速解答關於動作與規則的問題、蝕的狀態、各非玩家角色的摘要卡片、地圖……任何能幫助更迅速地解決疑問，讓我們重新專注於故事的東西。
+
+### 《Dungeon World 指南》
+
+雖然這並非必要，但強烈建議你在讀完本書之後，花些時間查閱這份文件。其中討論了系統的許多面向，並說明如何應對遊戲中可能遇到的各種情況。雖然你所看到的幾乎所有範例都與《Dungeon World》相關，但其中許多建議和解答對於深入理解 PbtA 系統非常有幫助，因此對 Mahō Shōjo 同樣適用。
+
+你可以透過 Nosolorol 的網站下載西班牙語版的指南。

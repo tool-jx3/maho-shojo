@@ -5,431 +5,258 @@ sidebar:
   order: 2
 ---
 
-12
-Maho Shojo
+## 基礎概論
 
-13
-•Luz•
+在這個章節中，我們將介紹遊戲系統的基礎概念，讓你能熟悉這些概念，在深入細節之前建立起基本的知識基礎。
 
-Fundamentos generales
-En este capítulo veremos los fundamentos generales del sistema de juego para que 
-puedas familiarizarte con ellos y tengas una base de conocimientos antes de entrar 
-en los detalles.
-Lo simple de una conversación
-Una partida de rol es una conversación, no importa el juego, en el fondo todas ellas 
-se reducen a sentaros delante de una mesa con hojas, lápices, gomas (o probable-
-mente un portátil y varios móviles o tablets, que estamos en el siglo xxi) y hablar, 
-hablar mucho. Desde la más profunda de las mazmorras hasta la exploración del 
-universo, pasando por diversas investigaciones arcanas, al final todas las partidas 
-tienen eso en común. Cada persona relata lo que hace su personaje a los demás 
-jugadores, creando poco a poco una imagen que dará forma a una gran historia.
-Durante una partida la conversación puede cambiar de tono y de forma orgánica-
-mente, obligando a todos a esforzarse para que nunca deje de ser interesante. Al-
-gunas veces se contará la historia desde la primera persona, otras desde la tercera, 
-otras se optará por el monólogo interior y, a veces, tendréis que hacer gestos para 
-poder describir algo. Existen muchas formas de acercarse a la narración y disfru-
-tarla, así que escoge la que te haga sentir más cómodo. Recuerda que, en el fondo, 
-son solo guías para volver la historia cada vez más atractiva.
-Para que la narración tome forma es recomendable que todos la estructuren en 
-escenas. Una escena es un momento de tiempo en el que pasa algo interesante 
-y divertido. Lo ideal es empezar a partir de un momento de intriga o con una 
-decisión importante. A pocos les importa que vayas a hacer la compra, a no ser 
-que hacerlo pueda tener alguna consecuencia interesante para la historia. Quizás 
-parezca complicado al principio saber dónde realizar los cortes o cómo crear si-
-tuaciones interesantes; no te preocupes por eso, al final lograrás descubrirlo con 
-la práctica.
-Ejemplo 1: Mónica está dirigiendo Mahō Shōjo para cuatro jugadoras: Esther, 
-Cristina, Vanesa y Ruth. El grupo de personajes ya ha jugado varias sesiones y debe 
-decidir dónde se situará la próxima escena.
-—Bueno, chicas, vamos a empezar en la sala de espera del hospital. Os habéis 
-reunido para saber cómo se encuentra Sakai tras el combate de ayer contra un 
-Fugado —comenta Mónica—. No solo es amiga de la infancia del personaje de 
-Cristina, sino que, además, ha sido la única que ha logrado resistir una pose-
-sión por parte de la Oscuridad con la que os habéis cruzado.
-Todas asienten, menos Vanesa, que argumenta:
-14
-Maho Shojo
+## 一場簡單的對話
 
-—Pues yo creo que no. Akari es una persona fría y preferiría investigar qué paso 
-la otra noche antes que ir a ver cómo está Sakai. Igual podríamos hacer una 
-escena en la vieja librería de sus padres…
-Mónica piensa en ello y decide que ambas escenas parecen tener potencial, por 
-lo que decidirá hacer ambas.
-—Me parece bien —responde—. Además, vamos a aprovechar para describir y 
-decidir cómo es esa librería. ¿Dónde se encuentra?
-Ejemplo 2: Marion está dirigiendo la campaña de Rosalía y Vicky. Llevan una tem-
-porada jugando a Mahō Shōjo y actualmente se encuentran cerca de los exámenes 
-de julio, por lo que ambas han decidido que sus personajes se reúnan para estudiar:
-—Voy a necesitar muchísima ayuda si no quiero suspender esta vez, Torome. 
-Mis padres me han dicho que si no me cambiarán de instituto —dice Vicky, con 
-cierto tono de preocupación.
-—No te preocupes. Voy a hacer todo lo que esté en mi mano para ayudarte; no 
-voy a permitir que mi mejor amiga se marche de mi lado —explica Rosalía.
-La MC permite a sus jugadoras continuar con la escena, ya que siente que es im-
-portante para que sus personajes estrechen vínculos y tengan un momento de in-
-timidad.
-Siempre que sea posible todos los jugadores deben ayudar y contribuir en la histo-
-ria. No importa si algunas de sus aportaciones se realizan de manera retroactiva si 
-con ello se logra mejorar y avanzar la Ficción. Como MC presta atención a sus pa-
-labras, toma apuntes y trasládalo a la historia, pero recuerda que las cosas pueden 
-ser distintas a lo que un personaje cree; y lo que sea verdad para uno no implica que 
-sea verdad para el resto. Aprende a usar la riqueza que existe entre la variedad de 
-opiniones de la mesa para construir la Ficción. Has de tener en cuenta que, al igual 
-que empezáis las historias en momentos importantes, también tenéis que saber 
-cuándo dejarlas. Una escena se debería dar por terminada cuando sintáis que su 
-contenido se ha agotado y que merece la pena dar un salto a la siguiente.
-Escenas creadas por Reacciones
-El MC siempre tiene la opción de sacudir los acontecimientos. En ocasiones de-
-searás hacer estallar alguna consecuencia de los actos anteriores; puede que quie-
-ras presentar a un nuevo villano o meter en problemas a alguien. A este tipo de 
-intervenciones en la Ficción las conocemos como Reacciones (te hablaremos más 
-adelante sobre ellas). Se trata de las consecuencias de una decisión o Movimiento 
-tomado por los PJ, los cuales actuarán sobre ellas una vez realizadas. Cuando se ha 
-resuelto, los acontecimientos empiezan a desencadenarse y serán los jugadores los 
-que arreglen la situación con nuevas decisiones y Movimientos.
-15
-•Luz•
+桌上角色扮演遊戲的本質就是一場對話。不論你玩的是什麼遊戲，歸根究柢，一切都是坐在桌前，備好紙筆、橡皮擦（或者更可能是筆電和各種手機、平板——畢竟我們活在二十一世紀），然後盡情地交談。從最幽深的地牢到浩瀚宇宙的探索，再到各種神祕的調查，所有的遊戲都有這個共通之處。每個人講述自己角色的行動，逐步建構出一幅完整的畫面，形成一段精彩的故事。
 
-Ejemplo: El personaje de Cristina, Inoue, no es una estudiante precisamente ejem-
-plar en la escuela. Suele meterse en problemas y descuidar sus estudios. Un día se 
-encuentra el cielo oscurecido en su colegio.
-—Genial día. ¿Te han vuelto a castigar por meterte en una pelea y por eso sales 
-tan tarde? 
-—Sí, empiezo a estar harta, la última ni siquiera fue culpa mía. Pero bueno, voy a 
-cambiarme las zapatillas y a volver a casa por fin —responde Cristina.
-—Perfecto. Cuando llegas, ves que una de las taquillas está abierta. Parece que 
-hay algo en el suelo: un papel en el que distingues el símbolo de la Princesa de 
-Sangre.
-—¿Cómo?, presto atención mientras me preparo. ¿Qué hay fuera de lo común?
-—Me temo que ves una luz rojo sangre al final de uno de los pasillos y sientes 
-que alguien está en problemas. Sin embargo, recuerda que estás sola. ¿Qué 
-harás? —tras esto, Mónica mira a la jugadora y empieza a sonreír.
-Mientras pasan el día en su habitación estudiando, jugando a videojuegos y 
-charlando, Natsumi, el personaje de Vicky, falla el Movimiento Historias de la 
-Vida y provoca una Reacción. Marion en ese momento empieza a narrar:
-—Escucháis un estornudo al otro lado de la puerta. Natsumi lo reconoce de in-
-mediato como el de su hermano.
-—¿Otra vez espiándonos? No te muevas, voy a hablar con él —replica Vicky.
-—Al salir, ves que tu hermano está corriendo por el pasillo y cierra la puerta de 
-su habitación.
-—Trato de entrar mientras le digo: «Togami, ¿por qué nos estabas espiando otra 
-vez?». Vuelvo a intentar abrir la puerta.
-—Me temo que está cerrada, pero escuchas algo al otro lado.
-—Bien. Trato de poner la oreja sobre ella para escuchar lo que suena al otro lado 
-de la puerta. Parece que mi hermano está hablando.
-Marion piensa en su siguiente Reacción antes de seguir narrando…
-Aunque explicaremos más adelante todo lo referente a las Reacciones, en este mo-
-mento debes tener en cuenta que el MC no puede realizarlas cuando desee pues 
-debe esperar a que se presenten las oportunidades (ver «Maestro de Ceremonias» 
-en la página 203). Por ahora solo necesitas saber que el principal deber de un MC es 
-agitar la historia y darles a los jugadores un escenario donde sus decisiones tengan 
-importancia.
-16
-Maho Shojo
+在遊戲過程中，對話的語調和方式會自然地轉變，這要求每個人都努力讓故事始終引人入勝。有時你會以第一人稱來敘述故事，有時則用第三人稱；有時會採用內心獨白，有時你甚至需要用手勢來描述某些場面。接近敘事和享受它的方式有很多種，選擇讓你最自在的方式即可。記住，這些只是讓故事越來越精彩的工具。
 
-«¿Qué haces?»
-Hay una frase que es la piedra angular de la mayoría de los juegos de rol: «¿Qué 
-haces?»; y Mahō Shōjo no es una excepción. A lo largo de la historia, la Oscuridad 
-y los problemas del día a día no van a quedarse esperando, por lo que es necesario 
-que las magical girls actúen. Es cierto que en muchas ocasiones es divertido, e in-
-cluso interesante, ver cómo las chicas se reúnen a merendar, estudian juntas o sa-
-len a divertirse, pero eso es porque también deben superar sus problemas persona-
-les mientras combaten contra la Oscuridad cuando se transforman en magical girls.
-Según vayan avanzando en la historia se darán cuenta de que depende de ellas re-
-solver los problemas de su entorno y tomar decisiones importantes. Cada personaje 
-representa la esperanza para llevar la felicidad a los demás y a ellas mismas, a la vez 
-que evitan que la Oscuridad triunfe. Gracias a esto, las historias podrán alternar en-
-tre escenas donde lucharán contra la Oscuridad y otras en las que podrán mostrar 
-su fraternidad, amor y emoción, pues son esas perlas de felicidad las que hacen que 
-todo tenga sentido para ellas.
-En algún momento de estas escenas debería existir al menos una decisión en la que 
-el MC preguntará: «¿Qué haces?». Después de escuchar esta frase llega la hora de 
-dejarse guiar por el corazón. Como jugador, aprecia estos momentos, porque son 
-realmente emocionantes para vuestra historia. Tras la pregunta, alguno de vosotros 
-deberá responder con un: «Hago…» y dejarse llevar.
-La Ficción
-Cada uno de los datos y descripciones que se crean en el mundo pasa a formar 
-parte de la realidad en la que viven los personajes. A este fenómeno lo llamamos 
-Ficción; una situación generada como resultado de todo lo que ocurre en la escena 
-y escenas anteriores de la historia. Es importante tratar de ser claro y consensuar 
-todos los detalles, de forma que todos puedan determinar el estado de la Ficción 
-para sus personajes. No tengáis miedo en ningún momento de parar una escena o 
-volver a poner elementos en común si en algún punto os perdéis.
-En Mahō Shōjo aquello que digáis dentro de la Ficción se convertirá en verdad, 
-para bien o para mal, por muy duro que pueda ser para tu personaje. Debes dejarte 
-llevar por el peso de la narración para crear un futuro interesante.
-Ejemplo 1: —Mierda, no puedo dejar que vuelva a ocurrir lo mismo que le ocurrió a 
-Sekai —comenta Cristina. Corro rápidamente y subo las escaleras buscando lo que 
-está creando eso.
-—¿Así, sin más?¿Estás segura?—le pregunta Mónica.
-—Sí, no voy a permitir que pase otra vez lo mismo y creo que podré sola.
-17
-•Luz•
+為了讓敘事成形，建議所有人將故事結構化為一個個**場景**。場景是故事中發生有趣且有意思之事的某個時刻。理想的做法是從懸念或重大決定的時刻開始。沒人會在意你去買東西——除非那可能為故事帶來有趣的後果。一開始你或許不知道該在哪裡做切割，也不知道怎麼製造有趣的場面；不用擔心，實踐之後自然就能掌握。
 
-—Bien. Al subir llegas ante una alumna con los ojos de un color rojo brillante y 
-las uñas muy largas. Parece estar transformándose en algo, mientras ves a un 
-profesor aterrorizado frente a ella. En el mismo momento en que abres la puerta 
-se gira y termina su transformación en un ser tenebroso. ¿Qué haces?
-—¡Hey! Un segundo, quería entrar de forma sigilosa —replica Cristina.
-—Me temo que es tarde para ello, no comentaste nada de ser prudente…
-Ejemplo 2: Cuando tocase la campana en el instituto que marca el fin de las clases, 
-Natsumi tenía que acompañar a uno de sus hermanos pequeños al médico. ¿Cierto?
-—Es verdad, no lo recordaba —comenta Vicky e indica rápidamente que su per-
-sonaje sale a buscar a su hermano pequeño, para llevarle al doctor.
-—Y tú, Torome, ¿qué haces?—pregunta Marion.
-—Voy a dirigirme al club de manga y anime a ver si me encuentro con alguien 
-—responde la jugadora de Torome.
-Como nunca han concretado exactamente quiénes forman o dónde está el club, 
-Marion dedica unos instantes a hablar con sus jugadoras y establecer la Ficción. 
-Una vez terminada esta charla, sabe que el club lo forman siete alumnos y se en-
-cuentra en la tercera planta de la zona de clubs. Queda fijado en la Ficción de ahora 
-en adelante y solo el rumbo de la historia podrá cambiarlo.
-Algunas veces la Ficción llevará a las protagonistas a un conflicto. Esto es inevitable, 
-pues, cuando contamos historias, el objetivo es llegar a estos momentos dramáticos 
-y construirlos escena tras escena. Es necesario que cada jugador y cada grupo sean 
-consecuentes con lo que deciden. La historia ha de avanzar, no se puede «cargar» 
-un punto de guardado, ya que destrozaría el drama y las emociones generadas. Para 
-evitar que esto sea necesario, los jugadores y el MC deberán siempre aclarar lo que 
-están haciendo.
-Por ejemplo, si declaras que te mueves de forma cautelosa tendrá una consecuencia 
-diferente que si decidieras afrontar la misma escena de forma más enérgica. Como 
-MC debes ser consciente de que dos modos de interpretar la solución a una escena 
-crean dos caminos diferentes, incluso si el fin es el mismo. A la hora de analizar 
-una respuesta, debéis tener en cuenta que no hay formas equivocadas de afrontar 
-algo, y lo que parezca una mala decisión pueda crear historias más interesantes y 
-desafiantes. Seguir tu primer instinto puede llegar a ser gratificante aunque no lo 
-parezca.
-18
-Maho Shojo
+:::note[範例一]
+Mónica 正在為四位玩家主持 Mahō Shōjo：Esther、Cristina、Vanesa 和 Ruth。角色們已經玩了好幾次聚會，現在要決定下一個場景在哪裡展開。
 
-Movimientos y tiradas de dados
-Como hemos ido viendo en este capítulo, la historia se construye mediante la con-
-versación, pero realmente la forma con la que los jugadores afectan a la Ficción es 
-a través de los Movimientos. Los Movimientos pueden resumirse como un conjunto 
-de reglas que permite resolver conflictos y avanzar la Ficción (veremos más sobre 
-ellos en el apartado «Los Movimientos» de la página 86).
-Te será de ayuda visualizar los Movimientos como una especie de metalenguaje, 
-parecido a una aplicación del móvil, a través del cual el MC traduce la Ficción para 
-encontrar la forma mecánica de resolverla. De esta manera, los Movimientos se des-
-encadenan cuando ocurre X elemento y provocarán Y resultado. Todos los persona-
-jes tienen acceso a una serie de Movimientos Básicos, pero, además, cada Libreto 
-dispone de un conjunto propio de Movimientos.
-Para poder desencadenar un Movimiento no basta con que un jugador lo pida, estos 
-deben ser llamados también por la Ficción. Es habitual que después de resolver un 
-Movimiento este sea acompañado de una Reacción del MC según sea su resultado.
-19
+——好的，各位，我們從醫院的等候室開始。你們聚在這裡是為了看看 Sakai 在昨天和逃脫者的戰鬥之後狀況如何——Mónica 說道——她不僅是 Cristina 角色的青梅竹馬，而且還是唯一一位成功抵抗了你們遇到的黑暗附身的人。
 
-Ejemplo 1: Tras varios problemas, Ruth decide que es momento de que Yoriko se 
-adentre en el misterioso club del edificio Kasumano. Una vez en la puerta, Mónica 
-le comenta que un guardia de seguridad se acerca con paso amenazante.
-—No deberías estar aquí, niña, esta es una zona restringida —le dice, dirigién-
-dose hacia Yoriko.
-Ruth afirma que va a tratar de salirse con la suya, así que empieza a derramar 
-unas lágrimas mientras le cuenta una conmovedora historia sobre su madre y 
-le dice que debe entrar a avisar a su padre.
-—Bien, parece que Yoriko trata de obtener una ventaja sobre el guardia para 
-que le deje acceder al sitio. ¿Es cierto?—le pregunta Mónica a Ruth.
-—Así es, espero que funcione.
-—Habitualmente él nunca permitiría acceder a alguien no autorizado, pero vien-
-do que lo que le has comentado ha sido convincente y que parece un llanto 
-sincero por tus lágrimas, creo que encaja con los requisitos de Palabras desde 
-el corazón. Haz una tirada con Emocional.
-—Muy bien, tengo un +2 a la tirada… así que con esto hago un 10. Logro mi 
-objetivo.
-—Muy bien, señorita, no se preocupe, puede pasar. ¿Necesita compañía?
-—No, muchas gracias. Sé cómo llegar al despacho de mi padre, le respondo.
-Mientras me marcho me limpio las lágrimas y sonrío por dentro.
-Ejemplo 2: Torome y Natsumi se encuentran en ese momento en unas pruebas de 
-la clase de educación física en el instituto. Natsumi es una mala nadadora y le toca 
-hacer una carrera con Makoto.
-—Quiero ayudar a mi amiga, utilizo Siempre a vuestro lado —comenta Rosalía.
-—Por desgracia, necesitas cumplir de alguna forma el desencadenante del Mo-
-vimiento con tus acciones en la Ficción, así que, ¿cómo lo haces? —le indica 
-Marion.
-—De acuerdo, voy a acercarme a ella y voy a darle ánimos. Durante la carrera 
-también me voy a dedicar a animarla desde el borde de la piscina.
-—Perfecto, ahora sí se desencadena el Movimiento. Haz una tirada con Protectora.
-Los dados ruedan sacando al final un 8 (6 en los dados a lo que suma +2 por el Pro-
-tectora de Torome), por lo que logra un punto que podrá entregar a Natsumi para 
-ayudarle a superar las pruebas.
-Cuando desencadenas un Movimiento casi siempre solicitará que se lancen los da-
-dos. Algunos Movimientos de Mahō Shōjo pueden no requerir su uso, como, por 
-20
-Maho Shojo
+所有人都點頭表示同意，除了 Vanesa，她提出了不同意見：
 
-ejemplo, Discurso de entrada de la Campeona. Si un Movimiento requiere dados, 
-tíralos y consulta sus efectos para ver lo que ocurre.
-Debes recordar que un jugador no debería mencionar el nombre del Movimiento 
-que activa, sino que debe describir sus acciones en la Ficción. Es trabajo del MC 
-tratar de traducir esa Ficción a un Movimiento, si es necesario, siendo coherente 
-con la Ficción. Por ejemplo, si trataras de apagar un fuego con aceite no activarías 
-ningún Movimiento, porque el aceite no puede apagar un fuego.
-Los dados en los juegos de rol
-Hasta ahora lo habíamos dejado de lado, pero es importante explicar unos 
-conceptos antes de seguir adelante. Si eres veterano en los juegos de rol o de 
-mesa seguramente ya estarás familiarizado con esta explicación.
-Cuando hablamos de tiradas existe cierto consenso y nomenclatura común 
-que permite identificar los dados, representada como «XdZ». El primer núme-
-ro (X) determina la cantidad de dados que se van a lanzar, seguido de la letra 
-d. El segundo número (Z) indica la cantidad de caras del dado. Por ejemplo, 
-una tirada que pida 3d8 significa que necesitará tres dados de ocho caras. En 
-ocasiones, podrás encontrar una suma o resta a continuación; de esta forma 
-una tirada que sea 2d6+2 quiere decir que lanzaremos dos dados de seis caras 
-y sumaremos dos al resultado.
-Para Mahō Shōjo solo usamos dados de seis caras y la mayoría de las veces, 
-salvo algunas excepciones, se solicitarán 2d6.
-Éxitos y fallos
-Cuando un Movimiento pide lanzar dados casi siempre se lanzan dos de seis caras 
-(2d6). Algunos Movimientos te indicarán que hay alguna excepción. Después de 
-realizar la tirada, en la mayoría de los casos deberemos sumar la Característica 
-indicada por el Movimiento. Por ejemplo, si un personaje realiza una tirada que 
-suma Combativa y tiene +2 en esa Característica, tendría que lanzar 2d6 y sumar 
-+2 al resultado.
-Como regla general a la hora de sumar bonificadores y penalizadores a una tirada, 
-se debe tener en cuenta que al final nunca podrán ser superiores a +3 ni inferiores 
-a -3. Si se diera el caso de que te encontraras una tirada de, por ejemplo, +5, solo 
-sumarías +3 y si fuera de -4 solo deberías restar -3 a la tirada.
-A la hora de resolver un Movimiento podrás observar que un resultado de 7 o más 
-es un éxito y uno de 6 o menos un fallo. Sin embargo, en la realidad estos resultados 
-21
-•Luz•
+——我覺得不行。Akari 是個冷淡的人，她會比起去看 Sakai 的情況，更想調查前幾天晚上發生了什麼。或許我們可以來一場在她父母的舊書店裡的場景……
 
-no se presentan de forma tan binaria. Habitualmente, un 6 o menos significa que 
-el MC activará una Reacción que cambiará la escena. Por otro lado, un éxito tiene 
-dos niveles: con un resultado de 7 a 9 indica que tendrás éxito, pero con alguna 
-consecuencia, mientras que con un 10 o más tendrás éxito con el resultado que 
-esperabas.
-Como habrás observado, todos los resultados tienen formas diferentes de hacer 
-avanzar la historia. El deber del MC es conseguir que un fallo no signifique estanca-
-miento. Nunca se debe entender el hecho de fallar como no lograr el objetivo; en su 
-lugar, la escena y la Ficción deberían adaptarse para permitir buscar otro modo de 
-enfrentarse a ella, aunque probablemente esta sea más arriesgada.
-Ejemplo: Akari se encuentra en el comedor del colegio cuando, de pronto, ve que 
-Taro y Koji, los matones, están metiéndose con una de las compañeras de clase. 
-Vanesa decide encararse con ellos y amenazarles con un expediente del consejo 
-estudiantil.
-—Bueno, creo que eso les hará pensárselo dos veces la próxima vez que quieran 
-molestar a tu compañera, pero deberás realizar un Movimiento de Palabras 
-desde el corazón con tu característica de Emocional —le indica Mónica.
-—Eh… bueno, no nos precipitemos, que tengo un -1. ¿No podría ser más bien 
-Superar el peligro? —replica.
-—Me temo que no, esto encaja mejor.
-Tras la tirada, el resultado final es un ocho.
-—A ver, creo que escojo como consecuencia que me pidan un favor.
-—Muy bien. Taro se adelanta. Te indica que dejará en paz a la chica si le consi-
-gues el próximo examen. Si no, habrá más problemas en el futuro.
-—Vale, no me queda más remedio, ya veremos hasta dónde escala esto —se 
-limita a susurrar.
-Ejemplo 2: Desde hace unos días parece que el profesor Hiroyuki Inumuta se está 
-comportando de forma extraña. Preocupadas por él, Torome y Natsumi siguen te-
-miendo que su estado sea algo relacionado con la Oscuridad.
-—En cierto momento, mientras le seguís, parece nervioso. ¿Queréis continuar 
-con esto?
-Después de confirmarlo con las jugadoras, le pide a Vicky una tirada de Supe-
-rar el peligro, pues existe el riesgo de ser descubiertas por su profesor.
-—Fallo, un 5 en total.
-Marion revisa un segundo sus notas mientras decide una Reacción adecuada. Una 
-vez que está segura continúa con la historia.
-22
-Maho Shojo
+Mónica 考慮了一下，覺得兩個場景都很有潛力，於是決定兩個都進行。
 
-—En un momento parece que os ha visto cerca de su casa, pero lográis seguir 
-ocultas. Sin embargo, justo al pasar notáis algo raro en el ambiente. El lugar 
-parece estar rodeado por una especie de cúpula y dos ojos parecen observaros 
-desde el piso superior…
-Si eres veterano te puede sorprender que el MC nunca necesite tirar los dados para 
-las decisiones, aunque nada impide que lo hagas si quieres dejar alguna en manos 
-del azar.
-En lugar de ello, utiliza Reacciones siempre que los jugadores fallen sus tiradas, 
-cuando un Movimiento realizado pida su intervención o cuando veas que las cosas 
-están estancadas, aburridas o que los jugadores están demasiado cómodos (para 
-más información sobre cuándo usar Reacciones ver la página 203). A veces, esta 
-rigidez aparente puede dar la sensación de que el papel de MC es limitado. Sin em-
-bargo, una vez que te acostumbres verás que no difiere mucho de la forma normal 
-de jugar a otros juegos. En el fondo, su labor no es muy distinta a la de otros juegos 
-de rol; simplemente sus funciones están codificadas de otra manera.
-Para saber más sobre el papel del MC puedes consultar el capítulo «Maestro de 
-Ceremonias» en la página 194, donde hablaremos en detalle de su papel.
-Los Movimientos y la incertidumbre
-Si nunca has jugado a un juego de la familia PbtA quizás no te suene el sistema de 
-Movimientos. Algunos veteranos piensan que puede llegar a ser limitante; al fin y 
-al cabo, si solo hay una docena de opciones, ¿no está en contra de la libertad de 
-elección tan propia de los juegos de rol? Lo cierto es que no, pero es normal llevarse 
-esa impresión al principio.
-Si echas un vistazo a los Movimientos (página 86) observarás que realmente se tra-
-ta de una forma de codificar acciones importantes para el desarrollo de la partida. 
-No necesitas un Movimiento para todo lo que haces; por ejemplo, no haría falta 
-declarar que estás haciendo la comida si ya has dejado claro que tu personaje es 
-bueno haciéndola, así que puede suponerse que el resultado será decente. No, los 
-Movimientos solo se activan cuando entra en juego la incertidumbre, se acentúa 
-una parte del género o la historia necesita un punto de azar. ¿Y si un sirviente de la 
-Oscuridad te ataca o esa salida entre amigas logra reforzar vuestros vínculos? ¿Por 
-qué está triste mi hermano? Son cosas que importan, son interesantes y existe una 
-incertidumbre, por eso son Movimientos.
-En los momentos importantes los Movimientos harán avanzar la historia de forma 
-inesperada. Lo más habitual es que un Movimiento se active cuando ni el jugador 
-ni el MC saben exactamente cuál será el resultado y se cumplen sus requisitos para 
-poder desencadenarlo. Para saber si se ha activado un Movimiento no te cortes en 
-ayudar y preguntar a los jugadores, así como responder con sinceridad a preguntas 
-23
-•Luz•
+——我覺得可以——她回應道——而且我們也趁機來描述和決定那間書店是什麼樣子。它在哪裡？
+:::
 
-como: ¿qué veo?, ¿esto a qué huele? o ¿qué tipo de libros hay en la estantería? De 
-esa manera lograréis establecer la Ficción y tu trabajo como MC será más facil, per-
-mitiéndote reconocer cuándo intervienen los Movimientos y las Reacciones.
-Cuando un MC ayuda a los jugadores a navegar por la Ficción, debe huir siempre 
-del guión. La incertidumbre debe estar presente en todos. Es cierto que como MC 
-tendrás mucha información sobre la historia, pero nunca deberías saber cuál será 
-el resultado de una intervención de los jugadores.
-Imagínate que un personaje descubre que una compañera de clase está poseída por 
-la Oscuridad. Lo más probable es que trate de liberarla y expulsar aquello que la 
-está manipulando. Sin embargo, para llegar a este final primero tendrá que darse 
-cuenta de ello y actuar, pero ¿cómo se enfrenta a la amenaza? ¿Cómo tratará de 
-apelar a la luz que existe dentro de cada persona? Según avanza la escena serán 
-los Movimientos los que vayan eliminando la incertidumbre a medida que se des-
-encadenan.
-Siguiendo la estela de otros juegos PbtA, Mahō Shōjo dispone de una serie de Mo-
-vimientos que buscan reflejar el tipo de tensión propia del género. Realmente, su 
-objetivo es potenciar los momentos más icónicos. Podrás ver más sobre los Movi-
-mientos disponibles y sus categorías en los próximos capítulos.
-Comenzar una partida
-Si bien entraremos en detalle más adelante, vamos a incidir brevemente en estos 
-temas para ver cómo pueden ser usados por el MC para generar historias propias 
-de un manga, un anime o del propio género mahō shōjo. A continuación tienes una 
-pequeña base a tener en cuenta la primera vez que os sentéis a jugar.
-Un mundo mágico, diferente y familiar
-Mahō Shōjo trata sobre la importancia de las magical girls en el mundo y cómo se 
-convierten en el centro del equilibrio entre este y la Oscuridad.
-Para ayudarte a establecer las bases de la ambientación, hemos creado tres grandes 
-grupos dependiendo del tono que busques. Lo aquí descrito debe ser visto como 
-una guía, pero los detalles dependen de lo que acordéis vosotros en la mesa. La 
-ciudad donde transcurre la historia, las reglas del conflicto, cómo son los planes 
-de los Avatares… serán algunas de las preguntas que deberéis responder. No veas 
-las ambientaciones presentadas como entes inamovibles, y nunca debéis dejar que 
-alguien fuera del grupo trate de sentar cátedra sobre la ambientación que habéis 
-construido.
-Para saber más, consulta el capítulo «Ambientación» en la página 262.
-24
-Maho Shojo
+:::note[範例二]
+Marion 正在主持 Rosalía 和 Vicky 的戰役。她們已經玩 Mahō Shōjo 一段時間了，目前正值七月的考試期間，因此兩人決定讓角色們聚在一起讀書：
 
-Expectativas
-Cuando empecéis una nueva partida tendréis que poner sobre la mesa el tipo de 
-historia que queréis jugar. Entre todos tratad de comentar qué temas queréis que 
-tengan más relevancia, lo que puede llevar a que en algunos grupos predomine la 
-amistad, mientras que en otros será el conflicto entre las magical girls y la Oscuri-
-dad.
-Cuando el MC conozca las historias que quieren jugar los jugadores con sus perso-
-najes, será más fácil trabajar en nuevas ideas o aventuras. A medida que la trama 
-vaya adquiriendo complejidad, estas ideas pueden cambiar, así que es importante 
-volver a hablar sobre posibles nuevos anhelos y expectativas para poder redirigir 
-las historias hacia algo que todos podáis disfrutar.
-¿Por qué jugar?
-¿Por qué tomarse tantas molestias para contar una historia cuando podrías ver 
-un anime o leer un manga sobre magical girls? La respuesta es fácil: porque mola 
-mucho más. ¿Acaso no habrías hecho tú algo diferente? ¿No habrías cambiado ese 
-final? Todo es mejor cuando eres tú la protagonista de la historia, luchas contra la 
-Oscuridad, vives tu propio romance o quizás prefieras simplemente vivir una vida 
-normal… ¡Todo eso mientras tratas de entender tus nuevos poderes! Estos, y mu-
-chos otros más, son los motivos por los que merece la pena jugar a Mahō Shōjo.
-25
-•Luz•
+——如果我不想再被當，就需要大量幫助，Torome。我爸媽說如果我再考不過就要讓我轉學了——Vicky 帶著些許擔憂地說。
+
+——別擔心。我會竭盡全力幫助妳；我不會讓我最好的朋友離開我身邊的——Rosalía 解釋道。
+
+主持人（MC）允許玩家繼續這個場景，因為她覺得這對角色之間加深羈絆和建立親密感很重要。
+:::
+
+所有玩家都應該盡可能地幫忙和參與故事的建構。即使某些貢獻是以倒敘的方式加入的，只要能推進和完善虛構敘事就好。身為主持人（MC），要留心玩家的發言，做筆記並融入故事中。但要記住，事情可能和某個角色以為的不同；對一個人來說的真相，未必是其他人的真相。學會利用桌上各種意見的豐富性來建構虛構敘事。你還要記住的是，正如你們在重要時刻開始故事一樣，也必須懂得何時結束。當你們覺得一個場景的內容已經用盡，值得跳到下一個場景時，就應該結束它。
+
+## 由反應創造的場景
+
+主持人（MC）總是有權攪動局勢。有時候你會想引爆先前行動的後果；也許你想介紹一個新的反派，或者讓某人陷入麻煩。我們將這類對虛構敘事的介入稱為**反應**（稍後會更詳細地說明）。反應是玩家角色做出的決定或動作所產生的後果，玩家角色在反應發生後會對其做出回應。當事情塵埃落定，事態開始連鎖發展，玩家們將需要用新的決定和動作來處理局面。
+
+:::note[範例]
+Cristina 的角色 Inoue 在學校裡可不是什麼模範生。她經常惹麻煩，疏忽學業。某天，她在學校時發現天色變暗了。
+
+——真是美好的一天。妳又因為打架被罰留校才這麼晚出來的嗎？
+
+——對啊，我開始受夠了，上一次根本不是我的錯。不過算了，我去換個鞋就回家好了——Cristina 回答。
+
+——好的。當妳走到鞋櫃時，妳看到其中一個置物櫃是開著的。地上似乎有什麼東西：一張紙，上面你認出了血之公主的符號。
+
+——什麼？我一邊準備一邊注意觀察。有什麼不尋常的嗎？
+
+——恐怕妳看到走廊盡頭有一道血紅色的光芒，而且妳感覺有人正陷入危險。但是，記住妳現在是一個人。妳要怎麼做？——說完這些，Mónica 看著玩家，開始露出微笑。
+
+她們在房間裡度過一天，一邊讀書、打電動和聊天。Vicky 的角色 Natsumi 在擲「生活故事」動作時失敗了，引發了一個反應。這時 Marion 開始敘述：
+
+——你們聽到門外有人打噴嚏。Natsumi 立刻認出是她弟弟的聲音。
+
+——又在偷窺我們？妳先別動，我去跟他說——Vicky 回覆道。
+
+——妳走出去，看到弟弟正在走廊上跑，然後關上了他房間的門。
+
+——我一邊說「Togami，你為什麼又在偷窺我們？」一邊試著進去。我再試著開門。
+
+——恐怕門鎖著了，但妳聽到另一邊有什麼聲音。
+
+——好。我把耳朵貼在門上，試著聽另一邊的聲音。看起來我弟弟正在跟誰說話。
+
+Marion 思考她的下一個反應再繼續敘述……
+:::
+
+雖然我們稍後會解釋有關反應的一切，但此刻你需要知道的是，主持人（MC）不能隨心所欲地使用反應，必須等待適當的時機出現（參閱「主持人（MC）」章節）。目前你只需要知道，主持人（MC）的首要職責是攪動故事，為玩家打造一個他們的決定具有意義的舞台。
+
+## 「你要怎麼做？」
+
+有一句話是大多數角色扮演遊戲的基石：「你要怎麼做？」——Mahō Shōjo 也不例外。隨著故事推進，黑暗和日常的煩惱不會乖乖等著，因此魔法少女們必須行動起來。誠然，很多時候看女孩們聚在一起吃點心、一起讀書或出去玩耍是很有趣、甚至很動人的，但那是因為她們在變身為魔法少女與黑暗戰鬥的同時，也必須克服自己的個人問題。
+
+隨著故事推進，她們會意識到解決周遭的問題、做出重要決定，這些都取決於她們自己。每個角色都代表著為他人和自己帶來幸福的希望，同時阻止黑暗的勝利。正因如此，故事能夠在與黑暗戰鬥的場景和展現友情、愛情與感動的場景之間交替進行——因為正是這些幸福的珍珠，讓一切對她們而言都有了意義。
+
+在這些場景中的某個時刻，至少應該出現一個讓主持人（MC）提問「你要怎麼做？」的決定點。聽到這句話之後，就是讓心引領你的時候了。身為玩家，珍惜這些時刻吧，因為它們對你們的故事而言真的是激動人心的瞬間。在這個提問之後，你們之中的某個人應該回答一句「我要……」，然後順勢而為。
+
+## 虛構敘事
+
+在遊戲世界中創造的每一項資料和描述，都成為角色們所生活的現實的一部分。我們將這種現象稱為**虛構敘事**——一種由場景和先前場景中發生的一切所產生的情境。重要的是盡量表達清楚並就所有細節達成共識，讓每個人都能確認其角色所處的虛構敘事狀態。任何時候都不要害怕暫停一個場景，或者在迷失方向時重新統一資訊。
+
+在 Mahō Shōjo 中，你在虛構敘事中所說的一切都會成為事實——無論是好是壞，不管對你的角色來說多麼殘酷。你必須讓敘事的份量引導你，創造出引人入勝的未來。
+
+:::note[範例一]
+——糟了，我不能讓 Sekai 身上發生的事再重演——Cristina 說。我立刻跑起來，衝上樓梯尋找造成這一切的源頭。
+
+——就這樣？妳確定嗎？——Mónica 問她。
+
+——確定，我不會讓同樣的事再發生，我覺得我一個人可以搞定。
+
+——好吧。妳上樓後看到一個學生，她的眼睛發出鮮紅的光芒，指甲變得非常長。她似乎正在變成什麼東西，而妳看到一位老師驚恐地站在她面前。就在妳打開門的瞬間，她轉過身來完成了變身，化為一個黑暗的存在。妳要怎麼做？
+
+——喂！等一下，我本來想悄悄地進去——Cristina 抗議道。
+
+——恐怕已經來不及了，妳之前並沒有說要小心行事……
+:::
+
+:::note[範例二]
+學校下課鐘響的時候，Natsumi 得帶她的一個弟弟去看醫生。對吧？
+
+——對耶，我忘了——Vicky 說道，然後立刻表示她的角色出去找弟弟，帶他去看醫生。
+
+——那妳呢，Torome，妳要怎麼做？——Marion 問。
+
+——我要去漫畫和動畫社看看能不能遇到什麼人——Torome 的玩家回答。
+
+因為她們從來沒有具體確認過社團的成員或地點，Marion 花了一點時間和玩家們討論，確立虛構敘事。討論結束後，她知道社團由七名學生組成，位於社團區域的三樓。從今以後這就固定在虛構敘事中了，只有故事的走向才能改變它。
+:::
+
+有時虛構敘事會將主角們帶入衝突。這是不可避免的，因為當我們講述故事時，目標就是抵達這些戲劇性的時刻，並一個場景接一個場景地建構它們。每位玩家和每個團隊都必須對自己的決定負責。故事必須前進，沒辦法「讀取」存檔點——因為那會摧毀已經建立起來的戲劇張力和情感。為了避免走到需要回退的地步，玩家和主持人（MC）應該始終釐清自己正在做的事。
+
+例如，如果你宣告要謹慎行動，將會產生與你選擇以更積極的方式面對同一場景截然不同的後果。身為主持人（MC），你必須意識到，兩種不同的方式解讀同一個場景會創造出兩條不同的道路，即使目的相同。在分析回應時，你們必須明白：面對事情沒有所謂錯誤的方式，看似糟糕的決定反而可能創造出更加有趣和充滿挑戰的故事。跟著你的第一直覺走，即使看起來不妙，也可能帶來意想不到的收穫。
+
+## 動作與擲骰
+
+如同我們在本章中所見，故事透過對話來建構，但玩家們真正影響虛構敘事的方式是透過**動作**。動作可以概括為一套規則，用來解決衝突並推進虛構敘事（我們將在「動作」章節中進一步討論）。
+
+把動作想像成一種後設語言會很有幫助——類似一個手機應用程式——主持人（MC）透過它將虛構敘事翻譯成機制上可解決的形式。這樣一來，當 X 元素發生時，動作就會被觸發，並產生 Y 結果。所有角色都能使用一系列**基礎動作**，此外每個扮演書還擁有自己的一組動作。
+
+要觸發一個動作，光靠玩家提出要求是不夠的——虛構敘事也必須支持這個動作的發生。通常在解決一個動作之後，主持人（MC）會根據結果配上一個反應。
+
+:::note[範例一]
+經過幾番波折，Ruth 決定是時候讓 Yoriko 深入神祕的 Kasumano 大樓的社團了。到了門口，Mónica 告訴她一名保全人員正以威脅的步伐走來。
+
+——你不該出現在這裡，小姑娘，這是管制區域——保全對著 Yoriko 說。
+
+Ruth 表示要設法矇混過關，於是開始擠出幾滴眼淚，同時編了一個關於母親的感人故事，說她必須進去通知父親。
+
+——好的，看來 Yoriko 正試著取得對保全的優勢好讓他放她進去。是這樣嗎？——Mónica 問 Ruth。
+
+——沒錯，希望能成功。
+
+——通常他絕不會允許未授權的人進入，但考慮到妳說的話很有說服力，而且眼淚看起來很真誠，我認為這符合「發自內心的話語」的條件。用情感擲骰吧。
+
+——好的，我的加值是 +2……所以結果是 10。我達成了目標。
+
+——好的，小姐，別擔心，妳可以進去了。需要人陪嗎？
+
+——不用，非常感謝。我知道怎麼去父親的辦公室——我回答他。一邊走一邊擦掉眼淚，心裡偷偷地笑了。
+:::
+
+:::note[範例二]
+Torome 和 Natsumi 此刻正在學校的體育課進行測驗。Natsumi 不擅長游泳，輪到她跟 Makoto 比賽。
+
+——我想幫助我的朋友，我使用「永遠在你身邊」——Rosalía 說。
+
+——很遺憾，妳需要在虛構敘事中以某種方式滿足動作的觸發條件，所以，妳打算怎麼做？——Marion 告訴她。
+
+——好吧，我會走過去給她加油打氣。比賽的時候我也會在泳池邊為她吶喊。
+
+——很好，現在動作的觸發條件滿足了。用保護擲骰吧。
+
+骰子最終擲出了 8（骰子擲出 6，加上 Torome 的保護 +2），因此她獲得了一個點數，可以交給 Natsumi 幫助她通過測驗。
+:::
+
+當你觸發一個動作時，幾乎總是需要擲骰。Mahō Shōjo 中有些動作可能不需要擲骰——例如勇者的「出場宣言」。如果一個動作需要擲骰，就擲骰並查閱其效果來看接下來會發生什麼。
+
+你必須記住，玩家不應該直接說出他要啟動的動作名稱，而是應該描述自己在虛構敘事中的行動。將虛構敘事轉化為適當的動作是主持人（MC）的工作——如果有需要的話——並且要與虛構敘事保持一致。例如，如果你試圖用油來滅火，就不會觸發任何動作，因為油無法滅火。
+
+:::tip[桌遊中的骰子]
+雖然之前我們一直沒提，但在繼續之前有必要解釋一些概念。如果你是桌遊或角色扮演遊戲的老手，你大概已經很熟悉這些了。
+
+說到擲骰，有一套通用的共識和術語來表示骰子，寫作「XdZ」。第一個數字（X）代表要擲的骰子數量，後面接字母 d。第二個數字（Z）代表骰子的面數。例如，要求擲 3d8 就表示需要三顆八面骰。有時候後面還會加上加減，所以 2d6+2 的意思就是擲兩顆六面骰，然後把結果加 2。
+
+在 Mahō Shōjo 中，我們只使用六面骰，而且大多數時候（除了少數例外）都是擲 2d6。
+:::
+
+## 成功與失敗
+
+當一個動作要求擲骰時，幾乎都是擲兩顆六面骰（2d6）。有些動作會告訴你有例外情況。擲完骰後，大多數情況下要加上動作所指定的屬性。例如，如果一個角色進行一次加上挑戰的擲骰，而且她的挑戰屬性為 +2，那就要擲 2d6 再加 +2。
+
+一般來說，在擲骰時加上加值和減值時，最終修正值永遠不能超過 +3 也不能低於 -3。如果出現了修正值為 +5 的情況，你只能加 +3；如果是 -4，你只需要減 -3。
+
+在判定動作結果時，你會看到 7 以上是成功，6 以下是失敗。然而，實際上結果並不是如此二元的。通常，6 以下意味著主持人（MC）會啟動一個反應來改變場景。另一方面，成功有兩個層級：結果為 7 到 9 代表你成功了，但會有一些代價；而 10 以上則代表你獲得了預期的完美成功。
+
+如你所見，所有結果都有不同的方式來推動故事前進。主持人（MC）的職責是確保失敗不代表停滯。絕對不應該把失敗理解為沒有達到目標；相反，場景和虛構敘事應該做出調整，允許尋找另一種方式來面對挑戰——儘管那種方式可能更加冒險。
+
+:::note[範例一]
+Akari 在學校的餐廳時，突然看到 Taro 和 Koji 這兩個惡霸正在欺負一個同班同學。Vanesa 決定正面對質，用學生會的記過警告來威脅他們。
+
+——嗯，我覺得這樣能讓他們下次想欺負妳同學的時候三思而行，但妳需要用情感屬性擲「發自內心的話語」動作——Mónica 告訴她。
+
+——呃……等一下，我的情感是 -1。難道不能改用「克服危險」嗎？——她回覆道。
+
+——恐怕不行，這個情況更適合用前者。
+
+擲骰後，最終結果為 8。
+
+——嗯，我選擇的代價是他們會要求我一個人情。
+
+——好的。Taro 上前一步，告訴妳如果幫他弄到下次考試的答案，他就不再騷擾那個女孩。不然的話，以後還會有更多麻煩。
+
+——好吧，我別無選擇了，走著瞧這件事會鬧到什麼程度——她低聲說。
+:::
+
+:::note[範例二]
+最近幾天，Hiroyuki Inumuta 老師的行為似乎有些異常。Torome 和 Natsumi 擔心他的狀態可能跟黑暗有關。
+
+——在某個時刻，你們跟蹤他的時候，他似乎很緊張。你們要繼續嗎？
+
+在得到玩家們的確認後，Marion 要求 Vicky 擲「克服危險」，因為有被老師發現的風險。
+
+——失敗了，總共 5。
+
+Marion 檢查了一下筆記，決定一個適當的反應。確定之後，她繼續敘述故事。
+
+——在某一刻，他似乎在家附近看到了你們，但你們設法繼續藏著。然而，就在經過的時候，你們注意到周圍的氣氛有些不對勁。那個地方似乎被某種圓頂包圍著，而且有兩隻眼睛似乎正從樓上盯著你們看……
+:::
+
+如果你是老手，主持人（MC）從來不需要擲骰來做決定這一點可能會讓你驚訝——不過如果你想把某些決定交給隨機性，也沒什麼不可以。
+
+取而代之的是，在玩家擲骰失敗時、在一個已執行的動作要求主持人介入時、或是當事態陷入停滯、無聊、或玩家太過安逸時，使用反應（關於何時使用反應的更多資訊，請參閱「主持人（MC）」章節）。有時候，這種表面上的限制可能會讓人覺得主持人（MC）的角色受到了局限。然而，一旦你習慣了，就會發現這和平常玩其他遊戲的方式並沒有太大不同。歸根究柢，主持人（MC）的工作和其他角色扮演遊戲的主持人並沒有太大區別——只是職責被用不同的方式編碼了而已。
+
+想了解更多關於主持人（MC）角色的資訊，可以參閱「主持人（MC）」章節，其中會詳細討論主持人的職責。
+
+## 動作與不確定性
+
+如果你從未玩過 PbtA 系列的遊戲，動作系統對你來說可能很陌生。有些老手認為它可能會帶來限制——畢竟如果只有十幾個選項，這不就違背了角色扮演遊戲引以為傲的自由選擇精神嗎？事實上並非如此，但一開始有這樣的印象是正常的。
+
+如果你看一下動作列表，你會發現它們其實是一種將遊戲進程中重要行動編碼化的方式。你不需要為每件事都用到動作——比如說，如果你已經表明了你的角色擅長做飯，就不需要宣告你正在做飯，可以直接假設結果會不錯。不，動作只在不確定性出現、需要強調類型特色、或是故事需要一個隨機要素時才會啟動。如果黑暗使徒攻擊你呢？或者那場閨密的出遊能否加強你們的羈絆？我弟弟為什麼在難過？這些都是重要的、有趣的、存在不確定性的事情——所以它們才是動作。
+
+在重要時刻，動作會以意想不到的方式推動故事前進。最常見的情況是，當玩家和主持人（MC）都無法確切知道結果會是什麼，而且動作的觸發條件也被滿足時，動作就會啟動。要判斷一個動作是否被啟動，不要吝於幫助和向玩家提問，同樣也要誠實地回答他們的問題，例如：我看到了什麼？這聞起來是什麼味道？書架上有什麼書？透過這種方式，你們將確立虛構敘事，而你身為主持人（MC）的工作也會更加輕鬆，讓你更容易辨認動作和反應介入的時機。
+
+當主持人（MC）協助玩家在虛構敘事中航行時，必須始終遠離照本宣科。不確定性必須存在於每一個人之中。誠然，身為主持人（MC），你會掌握大量關於故事的資訊，但你絕不應該預先知道玩家介入後的結果。
+
+想像一個角色發現一個同學被黑暗附身了。最有可能的是她會試著解放她，驅逐那個操控她的東西。然而，要達到這個結局，她首先必須察覺到這件事並採取行動——但她要如何面對威脅？她要如何試著喚醒每個人心中的光明？隨著場景推進，動作會在不斷被觸發的過程中逐步消除不確定性。
+
+遵循其他 PbtA 遊戲的腳步，Mahō Shōjo 擁有一系列旨在反映此類型特有張力的動作。實際上，它們的目標是強化最具標誌性的時刻。你可以在接下來的章節中看到更多可用的動作及其分類。
+
+## 開始一場遊戲
+
+雖然我們之後會更深入探討，但這裡先簡要地說明這些主題，看看主持人（MC）如何利用它們來打造漫畫、動畫或魔法少女類型特有的故事。以下是你們第一次坐下來遊玩時需要記住的一些基礎事項。
+
+### 一個魔法、不同卻又熟悉的世界
+
+Mahō Shōjo 講述的是魔法少女在世界中的重要性，以及她們如何成為世界與黑暗之間平衡的核心。
+
+為了幫助你建立世界觀的基礎，我們依據你想要的基調創建了三大類別。這裡描述的內容應該被視為指引，但具體細節取決於你們在桌上達成的共識。故事發生的城市、衝突的規則、化身的計劃是什麼樣子的……這些都是你們需要回答的問題。不要將這裡呈現的世界觀視為不可改變的，也絕不應該讓團隊以外的任何人來對你們所建構的世界觀指手畫腳。
+
+想了解更多，請參閱「世界觀」章節。
+
+### 期望
+
+當你們開始一場新遊戲時，需要把你們想玩的故事類型攤開來談。一起討論你們想要哪些主題更突出——這可能導致某些團隊以友情為主軸，而其他團隊則以魔法少女與黑暗之間的衝突為核心。
+
+當主持人（MC）了解玩家們想用角色來玩什麼樣的故事後，構思新的點子或冒險就會更加容易。隨著劇情變得越來越複雜，這些想法可能會改變，因此重要的是定期重新討論新的期望和願望，以便將故事引導到所有人都能享受的方向。
+
+### 為什麼要玩？
+
+既然可以看動畫或讀漫畫來享受魔法少女的故事，為什麼要費這麼大的勁來講述一個故事呢？答案很簡單：因為自己來玩酷多了。你難道不會做出不一樣的選擇嗎？你難道不會改變那個結局嗎？當你自己是故事的主角、親自對抗黑暗、經歷自己的戀愛故事，或者也許只是想過普通的生活時，一切都會變得更好……而且這一切都發生在你嘗試理解自己新力量的同時！這些，還有更多，都是玩 Mahō Shōjo 的理由。

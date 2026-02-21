@@ -4,7 +4,7 @@
     "updated": "2026-02-21"
   },
   "translation_mode": {
-    "mode": null,
+    "mode": "full",
     "options": {
       "full": {
         "name": "全文翻譯",

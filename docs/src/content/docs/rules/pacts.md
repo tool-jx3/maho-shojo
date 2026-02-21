@@ -1,809 +1,547 @@
 ---
-title: 契約
-description: 三大契約體系
+title: 盟約
+description: 三大盟約體系——光明子女、正義騎士、契約傀儡
 sidebar:
   order: 10
 ---
 
-El Pacto
-Cuando aparece la Oscuridad, en respuesta también aparecen las magical girls. 
-Cada una de ellas tiene en el interior de su corazón un fragmento de Luz, que puede 
-ser despertado mediante un evento conocido como el Pacto. El origen de esta Luz 
-y de quienes pueden llegar a albergarla en su corazón puede ser muy variado (ver 
-«Ambientación» en la página 262). Una vez que la magical girl sella el Pacto se forja 
-un Talismán que le permitirá canalizar sus poderes.
-Para poder crear un Pacto debe entrar en contacto con una entidad mágica, la cual 
-puede ser desde una simple voz hasta las identificativas mascotas de aspectos variados 
-muy comunes en las historias habituales del género mahō shōjo. Una vez llegado a un 
-acuerdo entre ambos, esta entidad forjará el Talismán y se lo entregará a la magical girl.
-En Mahō Shōjo existen distintos pactos que permiten a los jugadores y al MC de-
-terminar el tono de las partidas, permitiendo de esa manera cubrir varios estilos 
-dentro del género de las chicas mágicas. En este libro se incluyen tres Libretos de 
-Pacto diferentes: Hijas de la Luz, Campeonas de la Justicia y Marionetas de los Cus-
-todios. Cada uno de ellos proporciona ayudas, Movimientos y otras modificaciones 
-al estilo de juego, facilitando de esa manera el potenciar ciertos tipos de historias. 
-Por ejemplo, si queréis historias más inocentes y descafeinadas seguramente prefi-
-ráis el pacto Hijas de la Luz, mientras que si queréis una experiencia más oscura con 
-toques de terror sería adecuado utilizar Marionetas de los Custodios.
-¿Qué significa cada uno de los Pactos en el juego?
-Los Pactos han sido diseñados para poder enfatizar y jugar historias del género 
-mahō shōjo en sus distintas encarnaciones, siendo una herramienta que permite 
-simular estas historias. A continuación dispones de un resumen general. Para 
-saber más sobre esto, ve al capítulo «Ambientación» de la página 262.
-Hijas de la Luz: Este Pacto permite representar historias más típicas del gé-
-nero como las de los años 70 y 80 (así como homenajes claros, como, por 
-ejemplo, Cardcaptor Sakura o Magical Girl Lyrical Nanoha). En estas historias 
-los conflictos suelen girar en torno a la pureza de la juventud y el corazón, en 
-contraste con un mundo enfermo o una situación conflictiva que solo ellas 
-pueden solucionar.
-Campeonas de la Justicia: Este tipo de Pactos permite representar los con-
-ceptos más actuales del género donde los temas clásicos se mezclan con ele-
-mentos propios del super sentai. La gran mayoría de mangas y animes que se 
-pueden ver actualmente pueden encajar aquí, como por ejemplo: Sailor Moon 
-o Pretty Cure.
-173
-•Oscuridad•
+## 盟約
 
-Marionetas de los Custodios: Si buscáis contar historias más terroríficas y 
-oscuras, este tipo de Pactos puede ser el más adecuado. En ellos las magical 
-girls se enfrentan contra la Oscuridad de forma más directa y, además, saben 
-que están condenadas. En estas historias su poder se puede volver también 
-una maldición. Esto se puede ver en animes de los últimos años, como, por 
-ejemplo: Madoka Magica, Mahō Shōjo Site o Yuki Yuna is a Hero.
-Pacto: Hijas de la Luz
-Estos Pactos favorecen e incentivan historias más personales y luminosas. En ellas, 
-las magical girls no se suelen enfrentar a una gran amenaza, sino que la Oscuridad 
-se presenta como un elemento más difuso. Es por este motivo que, en lugar de en-
-frentamientos contra poderosos sirvientes de la Oscuridad, esta se muestra como 
-consecuencias y actos que necesitan a los PJ para ser solucionados. Esta forma de 
-representar a su adversario hace que las historias suelan girar más en torno a las 
-relaciones de las magical girls en su día a día.
-Hijas de la Luz se parece a los orígenes del género: historias de fantasía doméstica, 
-donde las relaciones de los personajes y cómo afectan a la vida alrededor de ellas 
-son temas centrales, dejando la parte de acción y combates contra los seres de Os-
-curidad en segundo plano.
-Para saber más sobre cómo preparar estas ambientaciones, ve al capítulo «Ambien-
-tación» de la página 264.
-El Acompañante
-El Acompañante es la entidad que despierta los poderes entre las magical girls y 
-crea su Talismán. Una vez logra despertar a sus elegidas actúa como guía y mentor 
-para los PJ en su camino para convertirse en magical girls, siendo una fuente de 
-conocimiento y enlace con el mundo mágico.
-Cuando empecéis a crear un nuevo Acompañante es recomendable que habléis en-
-tre los jugadores y el MC. No es necesario que entréis en demasiados detalles, mu-
-chas veces es divertido dejar algunos huecos en blanco para descubrirlos a medida 
-que progrese la historia.
-A continuación se tratan con más detalle las características de un Libreto de Pacto 
-para un Acompañante.
-Nombre
-Indica el nombre del Acompañante, el cual puede depender mucho de su origen. 
-En muchas series este nombre es otorgado por las propias magical girls, pues suele 
-174
-Maho Shojo
+當黑暗降臨時，作為回應，魔法少女也隨之現身。每位魔法少女的心中都蘊藏著一片光明碎片，而這份光明可以透過一個被稱為「盟約」的事件來喚醒。這道光明的來源，以及能將其容納於心中之人的條件，可以是非常多樣的（參見「[世界觀](/rules/setting/)」）。一旦魔法少女締結了盟約，便會鍛造出一枚護符，讓她得以引導自身的力量。
 
-haber nacido gracias a sus deseos, o bien han asistido a su nacimiento. En caso de 
-que ya existiera suelen tener un nombre abreviado o seudónimo concedido por la 
-dificultad o desconocimiento del original.
-Historia
-Las historias de los Acompañantes suelen tener su origen en el mundo mágico de 
-este tipo de ambientaciones (ver «Ambientación» en la página 263). De esta forma, 
-un Acompañante puede ser un servidor o un hijo de algún dios olvidado, animales 
-o criaturas de naturaleza mágica, espíritus guardianes, deseos vivientes… En algu-
-nos casos podrían ser mentores, como una magical girl retirada que adiestra a una 
-nueva generación.
-Cuando penséis en un Acompañante, tened en cuenta que es muy poco habitual que 
-tengan malicia o segundas intenciones con sus protegidas, aunque es posible que 
-guarden algunos secretos porque las consideran poco preparadas para afrontar al-
-gunas situaciones.
-Aspecto
-Los Acompañantes habitualmente se presentan como una persona, animal u obje-
-to de naturaleza claramente mágica. Su aspecto agradable puede ser confundido 
-con un peluche o criatura procedente de un cuento de hadas. Incluso aquellos que 
-175
-•Oscuridad•
+為了締結盟約，她必須與一個魔法存在接觸——這個存在可以從一個簡單的聲音，到魔法少女類型故事中常見的各種特徵鮮明的吉祥物。雙方達成協議後，這個存在便會鍛造護符並將其交給魔法少女。
 
-pueden parecer más normales tendrán algún elemento que delate su origen mágico, 
-como un animal con símbolos místicos o un humano con orejas puntiagudas.
-Los Acompañantes también suelen ser invisibles, excepto para aquellas personas 
-con algún toque de magia o que crean en lo sobrenatural.
-Puntos de Lux est
-Indica los puntos Lux est que han ganado los jugadores a lo largo de las sesiones, 
-gracias a los cuales podrán obtener nuevos Avances. Para saber más sobre los pun-
-tos de Lux est y su uso ve al capítulo «Avance y experiencia» en la página 144.
-Lazos y Amistad
-Los Acompañantes siempre están muy unidos y confían en las magical girls con las 
-que forman un Pacto. Cuando despiertan la Luz dentro de su corazón también se 
-unen con sus corazones creando un nuevo Lazo.
-Los PJ con este tipo de Pacto cuando escojan su Libreto de Amistad obtienen un 
-Lazo adicional con su Acompañante, etiquetándolo como «Acompañante». Este 
-Lazo a efectos de juego se comporta como cualquier otro, salvo por los siguientes 
-apartados:
-	
-✽Al principio de cada sesión un Acompañante gana tantos Puntos de Amistad 
-como número de PJ. Durante el transcurso de la sesión, cualquier PJ que utilice 
-un Punto de Amistad comprueba el Libreto de Pacto, si el Acompañante tiene 
-al menos 1 Punto de Amistad puede usarlo en su lugar.
-	
-✽Si el Lazo etiquetado como Acompañante se rompe como consecuencia de un 
-Mal de Atropos, el PJ perderá sus poderes de magical girl. Debido a ello ya no 
-podrá volver a usar su Talismán ni vestir su Lux Habitu, pasando a convertirse 
-en un PNJ bajo el control del MC.
-La Oscuridad
-Los PJ con este tipo de Pacto no tienen ninguna consecuencia por subir su Nivel de 
-Oscuridad. Si en algún momento un PJ obtiene Nivel de Oscuridad 5, se considera 
-que su corazón ha sido demasiado manchado por la Oscuridad como para utilizar 
-la Luz de su interior. En ese momento se rompe el Lazo etiquetado como Acompa-
-ñante y pierde sus poderes, pasando a convertirse en un PNJ bajo el control del MC.
-Ventajas del Pacto
-Al crear un Acompañante elegid una ventaja de entre la lista de Movimientos de 
-Pacto. Todos los PJ pueden utilizar dicho Movimiento (ver «Los Movimientos» en 
-la página 112.
-176
-Maho Shojo
+在 Mahō Shōjo 中，存在不同的盟約，讓玩家和主持人（MC）決定遊戲的基調，從而在魔法少女類型中涵蓋多種風格。本書收錄了三種不同的盟約扮演書：光明子女、正義騎士和契約傀儡。每一種都提供輔助工具、動作和其他遊戲風格的調整，以便促進特定類型的故事。例如，如果你們想要更天真輕鬆的故事，可能會偏好光明子女盟約；而如果你們想要更黑暗、帶有恐怖元素的體驗，則適合使用契約傀儡。
 
-Una vez los PJ adquieran su primer Avance mayor, con su sexto Avance podrán 
-seleccionar un segundo Movimiento de Pacto.
-Movimientos de Pacto
-Cuando se cree un Acompañante escoged uno, cuando los PJ consigan un sexto 
-Avance escoged otro:
-Lazos rojos de la amistad
-El Libreto de Amistad de cada PJ obtiene un Lazo adicional.
-Shinyū
-Al principio de cada sesión cada PJ gana 1 Punto de Amistad.
-La pureza de la juventud
-Al final de la sesión, antes de realizar el Movimiento Rechazar la Oscuridad, eli-
-mina un Punto de Oscuridad. A continuación, si tienes 0 Puntos de Oscuridad no 
-desencadenas el Movimiento Rechazar la Oscuridad.
-Corazones enredados
-Al principio de la sesión, cuando establezcas cuántos Puntos de Amistad tiene el 
-Acompañante, un PJ puede entregar cualquier número de Puntos de Amistad de su 
-Libreto de forma adicional. Un PJ no puede entregar su último Punto de Amistad 
-de esta manera.
-Colección de cromos
-El Acompañante tiene una serie de objetos y habilidades que pueden ser invocados 
-para ayudar a una magical girl. Si pides ayuda al Acompañante di qué objeto o ha-
-bilidad utiliza para ayudarte; a continuación, gasta 1 de sus Puntos de Amistad para 
-obtener un +1 al siguiente Movimiento.
-La amistad es lo más valioso del mundo
-Cada PJ obtiene un Movimiento adicional de su Libreto de Amistad.
-Forma de combate del Acompañante
-El Acompañante tiene la capacidad de ayudar a los PJ mientras se enfrentan a la 
-Oscuridad, asumiendo su forma de combate.
-Escoge una base:
-Luchador +1, Astuto +1, Escolta +1, Torpeza + 1.
-Suma +1 a una Característica a elegir entre Luchador, Astuto o Escolta
-o
-Luchador +1, Astuto +1, Escolta +1, Torpeza + 2.
-Suma +1 a dos Características a elegir entre Luchador, Astuto o Escolta.
-177
-•Oscuridad•
+:::note[每種盟約在遊戲中意味著什麼？]
+盟約的設計旨在強調和演繹魔法少女類型故事的各種面貌，是一種模擬這些故事的工具。以下是概要說明。欲知更多詳情，請參閱「[世界觀](/rules/setting/)」章節。
 
-A continuación, escoge un Tema igual que lo hiciste con los PJ.
-En cualquier momento se puede solicitar la ayuda del Acompañante. Una vez reali-
-zada esta petición tiene 2 puntos cuando se desata la forma de combate. El Acom-
-pañante puede realizar cualquiera de las siguientes acciones:
-	
-✽Un ataque conjunto con otro PJ. Suma su Luchador a tu siguiente Movimiento. 
-Tras la tirada resta 1 punto.
-	
-✽Ayudar a observar la situación o buscar un nuevo punto de vista. Suma su As-
-tuto a tu siguiente Movimiento. Tras la tirada resta 1 punto.
-	
-✽Tratar de proteger a otra persona o ayudar a defenderte de una situación com-
-plicada. Suma su Escolta a tu siguiente Movimiento. Tras la tirada resta 1 punto.
-	
-✽Entorpecer o causarte algún problema. Resta su Torpeza a tu siguiente Movi-
-miento. Tras la tirada suma 1 punto.
-Cuando sus puntos lleguen a 0, el Acompañante desaparece o pierde sus poderes 
-de forma temporal
-Ejemplos de Acompañantes
-A continuación puedes encontrar dos ejemplos de Acompañantes completos que 
-puedes usar directamente en tus partidas.
-Bo-chan
-Nombre: Book Heart, Bo-chan.
-Historia: Cuando Akiko se mudó de EE.UU. a Japón, la tierra de su madre, se en-
-contró sola y sin amigas. El deseo de encontrar nuevas compañeras y crear momen-
-tos felices se manifestó en el Book Heart, al que llamó Bo-Chan. El poder contenido 
-en este libro le ayudará a encontrar amigas para toda la vida. Gracias a su magia 
-también son capaces de convertirse en magical girls, obteniendo la capacidad de 
-eliminar la tristeza de la gente a su alrededor.
-Aspecto: Un libro de fotografías vacío que se va completando con imágenes de los 
-mejores recuerdos de Akiko.
-Puntos de Lux est: 0.
-Lazos y amistad: PJ.
-Ventajas de Pacto: Shinyū.
-Emoto Saki
-Nombre: Emoto Saki, La Reina de las Estrellas.
-Historia: Una reina que perdió su reino por culpa de las emociones negativas que 
-trajo la Oscuridad. Ahora quiere ayudar a la Tierra para que no se repita su destino, 
-apoyando a niñas con el corazón puro a auxiliar a las personas que tienen cerca.
-178
-Maho Shojo
+**光明子女**：這種盟約可以呈現七〇年代和八〇年代更典型的魔法少女故事（以及明顯的致敬作品，例如《庫洛魔法使》或《魔法少女奈葉》）。在這些故事中，衝突通常圍繞著青春與內心的純粹，與一個病態的世界或只有她們才能解決的困境形成對比。
 
-Aspecto: Una anciana con un viejo kimono de color azul oscuro, bajita y de pelo 
-blanco recogido en un moño. Cuando adopta su auténtica forma es una mujer de 
-unos treinta años, de pelo brillante como una estrella y un vestido regio, blanco, 
-refulgente. Sostiene el Báculo de las Estrellas.
-Puntos de Lux est: 0.
-Lazos y amistad: PJ.
-Ventajas de Pacto: La pureza de la juventud.
-Pacto: Campeonas de la Justicia
-El Pacto Campeonas de la Justicia permite emular las historias más populares que 
-suelen venir a la mente cuando se piensa en el género mahō shōjo. En ellas, un gru-
-po de chicas combaten contra monstruos y criaturas de la Oscuridad, a la vez que 
-tratan de vivir su vida como jóvenes adolescentes. Este tipo de historias combinan 
-elementos clásicos del género con algunas claves del super sentai, muy habitual 
-desde los 90 hasta nuestros días. Sin embargo, el MC debe tener mucho cuidado 
-para gestionar el equilibrio de la historia y evitar caer en el cliché del «monstruo de 
-la semana». No pierdas de vista la agenda y principios, así como los consejos que te 
-damos en el capítulo «Maestro de Ceremonias» de la página 197.
-179
-•Oscuridad•
+**正義騎士**：這種盟約可以呈現更現代的魔法少女概念，將經典主題與超級戰隊的元素融合。目前大多數漫畫和動畫都可以歸入此類，例如：《美少女戰士》或《光之美少女》。
 
-Cuando os decidáis por este tipo de historias tendréis que tener cuidado de no hacer 
-solamente combates contra criaturas que quieren invadir la Tierra. Por norma gene-
-ral, cada enemigo debería ser una lección para ayudar a las magical girls a madurar, 
-que a la vez ha de compaginarse con su día a día y sus respectivos problemas diarios. 
-Para saber más, consulta «Ambientación» en la página 272.
-El Enviado
-Estos seres sirven a una entidad de la Luz poderosa que trata de proteger el mundo 
-(o una parte de él). Una vez notan la presencia de la Oscuridad, rápidamente crean 
-seguidores, o llaman a los que ya tienen, para que comiencen a buscar personas con 
-ciertas características que alberguen en su corazón el poder de la Luz. Cuando las 
-encuentra, esta entidad protectora realiza un Pacto con ellas para forjar su Talismán.
-Cuando escogéis Campeonas de la Justicia como Pacto para una campaña, los juga-
-dores y el MC deberéis dedicar algunos minutos a generar esta entidad. No es ne-
-cesario que entréis en demasiados detalles, muchas veces es divertido dejar algunos 
-huecos en blanco para descubrirlos a medida que progrese la historia.
-A continuación se tratan con más detalle las características de un Libreto de Pacto 
-para un Enviado:
-Nombre
-Indica el nombre del Enviado, que suele ser sencillo, habitualmente haciendo refe-
-rencia a su origen o capacidades, y raramente acompañados de un pequeño título. 
-Es habitual que los Enviados suelan ser mandados en grupo, enlazando cada uno a 
-una magical girl (ver cuadro «Pactos y varios Enviados», en la página 184).
-Al servicio de
-Los Enviados sirven a un gran protector de la Luz, encargado de proteger el mundo de 
-la Oscuridad. Por desgracia, es incapaz por algún motivo de actuar de forma directa, 
-por lo que debe despertar y elegir a personas capaces de utilizar la Luz oculta en sus 
-corazones. Para encontrar y despertar a las futuras magical girls utiliza a sus Enviados.
-Cuando crees a un Enviado deberías pensar en la entidad a la que sirven. Algunos 
-ejemplos de estas entidades protectoras son: el gobernante de otra dimensión que 
-fue destruida antes, un viejo dios que siente el peligro, un ser del futuro que trata 
-de evitar lo que sucedió en su tiempo, etc.
-Aspecto
-Los Enviados son seres pequeños que recuerdan a un animal o a un ser humano. 
-Algunos de ellos se presentan con elementos de fantasía como, por ejemplo, un 
-180
-Maho Shojo
+**契約傀儡**：如果你們想講述更恐怖、更黑暗的故事，這種盟約可能最為合適。在這些故事中，魔法少女更直接地面對黑暗，而且她們知道自己已被詛咒。在這些故事裡，她們的力量也可能成為一種詛咒。這可以在近年來的動畫中看到，例如：《魔法少女小圓》、《魔法少女 Site》或《結城友奈是勇者》。
+:::
 
-hada o un gato de fuego. Si bien unos pocos son animales normales, puede que 
-posean la capacidad de hablar. Sin importar su aspecto, todos tienen una marca 
-en algún lugar que representa a la entidad a la que sirven. Un defecto de todos 
-ellos es que pueden ser vistos por cualquiera, por lo que las magical girls deben 
-esforzarse en ocultarlos.
-Puntos de Lux est
-Indica los puntos Lux est que han ganado los jugadores a lo largo de las sesiones, 
-gracias a los cuales podrán obtener nuevos Avances. Para saber más sobre los pun-
-tos de Lux est y su uso ve al capítulo «Avance y Experiencia» de la página 144.
-Colaboración
-Los grupos de PJ que escogen el Pacto Campeonas de la Justicia están acostumbrados a 
-colaborar y hacer trabajo en equipo, supliendo sus puntos débiles los unos con los otros.
-Cualquier PJ puede utilizar cualquier Movimiento de Colaboración de la misma for-
-ma que utiliza sus Movimientos Básicos, con las siguientes condiciones:
-	
-✽Cada vez que se usa uno de estos Movimientos queda marcado.
-	
-✽Un PJ no puede utilizar un Movimiento de Colaboración marcado.
-	
-✽Al principio de la sesión desmarca todos los Movimientos.
-Movimientos de Colaboración
-Compartir el poder
-Cuando prestas una fracción de tu poder, bendices o ayudas a alcanzar algo impor-
-tante en el corazón de otro PJ, puede volver a usar uno de sus Poderes del Corazón 
-que haya utilizado o que no cumpla el requisito del Medidor de Poder (excepto el 
-Finalem).
-Yo te apoyaré siempre
-Cuando un PJ vaya a recibir Angustia e indiques cómo lo ayudas, proteges o des-
-piertas una poderosa emoción que le permite afrontar el reto al que se enfrenta, a 
-continuación, reduce la Angustia recibida a 0.
-Un poco de mi fuerza
-Cuando apoyas o combinas tus poderes en un Movimiento de Castigar la Oscuri-
-dad, sumas tu puntuación de Castigo o Azote a su próximo Movimiento.
-¡Ves como eres la mejor!
-Cuando apoyas a un personaje o este recuerda una escena del pasado en la que 
-le inspiraste y se dio cuenta de sus propias capacidades, puede lanzar 3d6 en 
-lugar de 2d6 en su próximo Movimiento. Una vez lanzado escoge los dos mejores 
-resultados.
-181
-•Oscuridad•
+## 盟約：光明子女
 
-La Oscuridad
-Cuando se selecciona este Pacto, cada vez que un PJ logra un Nivel de Oscuridad, 
-selecciona un Movimiento de Colaboración. A partir de ese momento no puede 
-volver a desencadenarlo.
-Cuando obtienes Nivel de Oscuridad 5, selecciona una opción:
-	
-✽El PJ ahora sirve a la Oscuridad, se convierte en un Campeón bajo control del MC.
-	
-✽El PJ desaparece misteriosamente.
-	
-✽El PJ pierde sus poderes y se convierte en una persona apática, sin emociones, 
-pasando a ser un PNJ bajo el control del MC.
-Si el jugador y el MC lo creen adecuado puede existir una forma de que el PJ pueda 
-reponerse o recuperar sus capacidades de magical girl. Esta situación puede tener 
-consecuencias, como, por ejemplo, que esté debilitada, que haya perdido sus re-
-cuerdos, que sus habilidades sean diferentes, que tenga un Libreto distinto, que se 
-haya reencarnado en un nuevo personaje, etc.
-Ventajas del Pacto
-Al crear un Enviado elegid una ventaja de entre la lista de Movimientos de Pacto. Todos 
-los PJ pueden utilizar dicho Movimiento (ver «Los Movimientos» en la página 112.
-Una vez los PJ adquieran su primer Avance mayor, con su sexto Avance podrán 
-seleccionar un segundo Movimiento de Pacto.
-Movimientos de Pacto
-Cuando se cree un Enviado escoged uno, cuando los PJ consigan su sexto Avance 
-escoged otro.
-Regio
-Existe un lugar seguro que la Oscuridad no puede detectar ni penetrar, un refugio 
-creado por la Luz donde solo los PJ y aquellos a los que inviten pueden acceder 
-cumpliendo alguna condición.
-Nuestro poder es tuyo
-Un PJ puede decidir prestar parte del poder de su Talismán a otro PJ. A continua-
-ción, gasta 1 Punto de Amistad. No puede transformarse el resto de la escena, pero 
-ese otro PJ escoge una opción:
-	
-✽Si tiene la forma Básica obtiene la forma Súper.
-	
-✽Si tiene la forma Súper obtiene la forma Triunfante.
-Algo más que un equipo
-Si al final de la sesión todos los Movimientos de Colaboración están marcados, ob-
-tenéis un punto de Lux est.
-182
-Maho Shojo
+這類盟約有利於並鼓勵更私密、更明亮的故事。在其中，魔法少女通常不會面對巨大的威脅，而是將黑暗呈現為一種更模糊的存在。因此，與其對抗強大的黑暗僕從，黑暗更多地表現為需要玩家角色介入解決的後果和事件。這種描繪對手的方式，使得故事通常更圍繞魔法少女日常生活中的人際關係展開。
 
-Ayuda de la Luz
-Escoge un poder del Lux Habitu en la siguiente lista:
-	
-✽Azote +1.
-	
-✽Castigo +1.
-	
-✽Resistente +1.
-	
-✽Armadura +1.
-Este poder está disponible siempre de manera adicional, sin importar la forma o 
-Nivel de Poder.
-Conectadas
-Los PJ disponen de una conexión mágica que les permite comunicarse sin importar 
-el lugar en el que estéis. Este vínculo permite transmitir pensamientos, emociones 
-o incluso la localización.
-Para poder acceder a este poder los dos PJ conectados deben sostener su Talismán 
-con una mano.
-Vencemos unidas o caemos juntas
-Cuando una PJ obtiene 6 o menos en un Movimiento de Perder la Luz, puede deci-
-dir cambiar la tirada por un resultado de 10 o más y ganar un Nivel de Oscuridad.
-Compartir la Luz
-Cuando un PJ gana un Punto de Luz gasta 1 Punto de Amistad. A continuación, en-
-trega ese Punto de Luz a otro PJ que tenga igual o menos Puntos de Luz que su PJ.
-Ejemplos de Enviados
-A continuación puedes encontrar dos ejemplos de Enviados completos que puedes 
-usar directamente en tus partidas.
-Elemental
-Nombre: Aquam, Ignem, Auram, Terram.
-Al servicio de: Gea, el espíritu de la Tierra, que, intuyendo la llegada de la Oscuri-
-dad para arrancarle la vida y dejar un planeta muerto, ha enviado a cuatro de sus 
-sirvientes, los espíritus de los elementos, en una misión. Su objetivo es encontrar 
-cada uno a una chica que albergue un corazón puro en el que guardar una fracción 
-de su poder.
-Para ayudar a sus elegidas en su tarea ha creado el «salón de los elementos», un 
-lugar seguro en el interior de la Tierra al que cada una puede acceder si se intro-
-duce con su elemento.
-Aspecto: Cada una de las cuatro criaturas representa el animal favorito de la chica 
-con la que pacta pero ajustado al elemento correspondiente. Una vez haya tomado 
-183
-•Oscuridad•
+光明子女類似於這個類型的起源：家庭奇幻故事，角色之間的關係以及她們如何影響周遭生活是核心主題，而與黑暗生物的戰鬥和動作部分退居次要。
 
-forma, cada uno de ellos tiene una figura geométrica tatuada en algún lugar de 
-su cuerpo: Ignem un tetraedro, Terram un cubo, Auram un octaedro y Aquam un 
-icosaedro.
-Puntos de Lux est: 0.
-Ventajas de Pacto: Regio.
-Kanan
-Nombre: Kanan.
-Al servicio de: La sacerdotisa de Oneira. Hace mucho tiempo, Oneira era un reino 
-de la Luz, que fue consumido por la Oscuridad cuando las magical girls que lo pro-
-tegían fallaron en su tarea.
-Adelantándose a la Oscuridad en su próximo objetivo, ha usado un fragmento de 
-la Luz del corazón de sus magical girls anteriores y ha creado a Kanan para buscar 
-nuevas campeonas capaces de detener a la entidad conocida como el Erradicador.
-Aspecto: Un hada clásica occidental pero que parece formada por cristales de colores.
-Puntos de Lux est: 0.
-Ventajas de Pacto: Ayuda de la Luz.
-Pactos y varios Enviados
-Las criaturas mágicas que ayudan a las magical girls son una convención del 
-género mahō shōjo desde sus inicios. Sin embargo, en algunas series no han 
-usado este recurso, mientras que en otras, en lugar de existir solo uno para el 
-grupo, cada protagonista suele contar con el suyo propio. ¿Cómo se ajustan 
-las reglas de Pacto para estos casos?
-Si los jugadores y el MC deciden ignorar este recurso, deberían aun así plantear-
-se si usar o no las reglas de este capítulo. La intención de cada uno de los Pactos 
-detrás de sus Movimientos y consecuencias es recrear un tono en la partida, en-
-fatizando mediante ligeras modificaciones tres estilos diferentes de series sobre 
-mahō shōjo. Es por este motivo que, incluso si no usáis Enviados, Acompañantes 
-o Custodios, tenéis que decidir qué conjunto de modificaciones queréis usar en 
-la partida (en especial las consecuencias del Nivel de Oscuridad).
-En algunas ambientaciones, principalmente en las que emulamos con Campeo-
-nas de la Justicia, es habitual que cada magical girl tenga su propia entidad 
-con la que realiza un Pacto. Esta consideración no es exclusiva y puede apa-
-recer en las otras dos categorías. Si los jugadores y el MC están de acuerdo, 
-solo debéis tener en cuenta que, a efectos de juego, todos funcionarán como 
-una única entidad. Sin embargo, lógicamente el que cada PJ tenga su propio 
-Enviado (o Acompañante o Custodio) afectará a la Ficción y a cómo pueden 
-acceder a sus Características y Movimientos.
-184
-Maho Shojo
+欲知更多關於如何準備這類世界觀的資訊，請參閱「[世界觀](/rules/setting/)」章節。
 
-Pacto: Marionetas de los Custodios
-El Pacto Marionetas de los Custodios es útil si buscáis historias más oscuras donde 
-el terror, la desolación y la melancolía sean protagonistas. Este tipo de relatos suele 
-alejarse mucho de las convenciones del género; sin embargo, en los últimos años 
-algunas obras han tomado este camino.
-Cuando se narran estas historias vemos a sus protagonistas tratar de aferrarse a una 
-felicidad y buenos momentos que saben que van a perder. El MC deberá esforzarse 
-por robar y sacar el lado oscuro de cada fragmento de felicidad de los personajes. 
-Para ello, debe hacer hincapié en lo inútil de su misión y, a veces, mostrar incluso 
-cómo con cada avance ellas mismas se convierten en aquello contra lo que luchan.
-Cuando os decidís por esta configuración es habitual perderse solo en la parte del 
-terror; esto es algo que el MC debe evitar. Para que los Pactos de Marionetas de los 
-Custodios funcionen, los personajes deben tener algo que teman perder y momentos 
-felices a los que acudir para crear contraste con el horror. Para saber más sobre este 
-tipo de ambientaciones ver el capítulo «Ambientación» en la página 279.
-El Custodio
-Los Custodios se presentan como criaturas misteriosas que tratan de tentar a las 
-magical girls buscando sus deseos y anhelos. Sus objetivos suelen ser ambiguos, 
-pues aunque parecen interesados en buscar y acabar con la Oscuridad, no presen-
-tan interés en ayudar o instruir a aquellas que despiertan. Para asegurar el control 
-sobre sus elegidas, todos suelen introducir un defecto dentro de los Talismanes que 
-hace que, con el tiempo, su Luz se extinga y sea sustituida por la Oscuridad. Esta 
-actitud hace que muchas veces aquellas que son despertadas por un Custodio se 
-sientan como herramientas.
-Cuando escogéis Marionetas de los Custodios como Pacto para una campaña, los 
-jugadores y el MC deberéis dedicar algunos minutos a generar esta entidad. No es 
-necesario que entréis en demasiados detalles, muchas veces es divertido dejar algu-
-nos huecos en blanco para descubrirlos a medida que progrese la historia.
-A continuación se tratan con más detalle las características de un Libreto de Pacto 
-para un Custodio.
-Nombre
-Indica el nombre del Custodio. Estas entidades suelen tener nombres imposibles 
-de pronunciar por los humanos, por lo que suelen escoger uno que tenga una so-
-noridad agradable, con el cual aparentar ser más inofensivos y ganarse así la con-
-fianza de las magical girls fácilmente. Además, todos tienen un título que los dis-
-tingue de los demás, otorgado cuando lograron acabar con su primer servidor de 
-la Oscuridad.
-185
-•Oscuridad•
+### 同伴
 
-Historia
-La historia de un Custodio suele tener su origen cuando trabajaba como cazador 
-de los servidores de la Oscuridad, aunque depende de sus motivaciones (ver «Am-
-bientación» en la página 279). De esta manera, se ocupan personalmente de sus 
-objetivos, despertando la Luz en las personas que les resulten adecuadas para sus 
-tareas. Los Custodios también suelen estar vinculados a un Avatar poderoso con 
-el cual fue su primer enfrentamiento y con el que obtuvieron su título, quedando 
-desde entonces enlazados a él.
-Los Custodios acostumbran a ser muy reservados, mencionando solo las cosas im-
-prescindibles para que las magical girls puedan luchar y cumplir sus intereses. Ra-
-ramente una de estas entidades ve en aquellas que despiertan algo más que una 
-herramienta.
-Aspecto
-Los Custodios son criaturas de forma monstruosa que no puede ser concebida por 
-ningún ser humano. Como es lógico, son muy conscientes de este hecho, por lo que 
-cuando tratan con las magical girls asumen una forma ilusoria estudiada para cau-
-sar simpatía. Este disfraz suele imitar a algún tipo de animal de la Tierra pero que se 
-distingue claramente como mágico, ya sea por sus colores, marcas o añadidos, que 
-le dan una imagen onírica. Esta forma casi siempre tiende a parecer frágil y delica-
-da, en definitiva, que podría ser fácilmente destruida. Sin embargo, para el Custodio 
-es muy fácil volver a crear una nueva carcasa para seguir con su labor.
-Puntos de Lux est
-Indica los puntos de Lux est que han ganado los jugadores a lo largo de las sesio-
-nes, gracias a los cuales podrán obtener nuevos Avances. Para saber más sobre los 
-puntos de Lux est y su uso, ve al capítulo «Avance y Experiencia» de la página 144.
-La Oscuridad
-Cuando se selecciona este Pacto, los PJ adquieren las siguientes reglas:
-	
-✽Cuando obtengas un nuevo Nivel de Oscuridad, selecciona un Movimiento de 
-Oscuridad de la lista de tu Arquetipo, que se añade al resto de tus Movimientos 
-(ver «Los Movimientos» en la página 111).
-	
-✽Cada vez que un PJ obtiene un Punto de Luz puede decidir cambiarlo por un 
-Punto de Tinieblas.
-	
-✽Si en algún momento el Nivel de Oscuridad del PJ es igual a 5, pasa a control del 
-MC, convirtiéndose en un nuevo servidor de la Oscuridad. La categoría a la que 
-pertenece así como sus Dones quedan a discreción del MC.
-186
-Maho Shojo
+同伴是喚醒魔法少女力量並創造護符的存在。一旦成功喚醒她的被選者，同伴便會充當玩家角色在成為魔法少女道路上的嚮導和導師，同時也是與魔法世界連結的橋樑。
 
-Movimientos de Oscuridad
-MOVIMIENTOS DE CAMPEONA
-Dones oscuros
-Cuando desencadenas el Movimiento 
-Transformación elige uno:
-Armadura.
-Resistente.
-Castigo.
-Azote.
-Obtienes ese poder de Lux Habitu sin 
-importar el Nivel de Poder. El valor del 
-poder es igual a tus Puntos de Tinie-
-blas, mínimo 1.
-Forma oscura
-Si vistes tu Lux Habitu y describes 
-cómo este parece adoptar el poder de 
-la Oscuridad, obtienes 1 Punto de Oscu-
-ridad. A partir de ese momento y hasta 
-el final de la escena, utiliza tus Puntos de 
-Tinieblas en lugar de los puntos de Luz 
-para calcular tu Nivel de Poder.
-Corazón egoísta
-Cuando usas la Oscuridad de tu inte-
-rior para beneficiar a otro PJ, ganas X 
-Puntos de Oscuridad. A continuación, 
-el PJ objetivo te entrega tantos Puntos 
-de Amistad como Puntos de Oscuridad 
-obtenidos.
-El máximo de Puntos de Oscuridad que 
-puedes utilizar para este Movimiento es 
-igual a tu Nivel de Oscuridad.
-Marca de la Oscuridad
-Escoge una Característica y añade un +1 
-(Máx. 4). Al principio de cada sesión gana 
-1 Punto de Oscuridad.
-187
-•Oscuridad•
+當你們開始創建新的同伴時，建議玩家和主持人（MC）一起討論。不必深入太多細節，很多時候留下一些空白、隨著故事進展去發掘，會更加有趣。
 
-MOVIMIENTOS DE CONSEJERA
-Talento oscuro
-Cuando hagas una tirada para saber el resultado de un Movimiento, obtienes 1 o 2 
-Puntos de Oscuridad. Puedes repetir tantos dados como Puntos de Oscuridad obte-
-nidos; no se puede repetir más de una vez el mismo dado.
-Traición
-Cuando recibas Angustia e indiques una forma por la que esta afecta a otro PJ, 
-ganas 2 Puntos de Oscuridad. Transfiere la Angustia a ese PJ.
-Consciencia inhumana
-Suma +1 a Reflexiva (Máx. 4). Cuando sacas 12 o más, ganas 1 Punto de Oscuridad.
-Una mente superior entre seres inferiores
-Cuando presumes de tu gran inteligencia y demuestras por qué tu objetivo es infe-
-rior a ti, ganas 1 Punto de Oscuridad. Puedes usar Reflexiva en cualquier Movimien-
-to durante el resto de la escena.
-MOVIMIENTOS DE GUARDIANA
-Alimentarse del dolor
-Gana 1 Punto de Oscuridad y, durante el resto de la escena, cuando un PJ que no 
-seas tú marca una Consecuencia, ganas Azote+X o Castigo+X. X es igual a tu Nvel 
-de Oscuridad.
-Aegis Oscuro
-Cuando realizas un Movimiento Transformación, tu Lux Habitu parece haber sido 
-creado por la Oscuridad en lugar de por la Luz. Obtén 1 Punto de Oscuridad y cam-
-bia tu Aegis del Alma por Aegis Oscuro.
-Una Consecuencia: Tus Puntos de Tinieblas se usan en lugar de los Puntos de Luz 
-para tu Medidor de Poder.
-Dos Consecuencias: Puedes intercambiar tus valores de Protectora y Combativa.
-Tres Consecuencias: Consigues 1 Punto de Tinieblas.
-Cuatro Consecuencias: Ganas +2 a tu Azote y tu Castigo.
-Cinco Consecuencias: Consigues 1 Punto de Tinieblas y Ascensión +1.
-Armadura de Oscuridad
-Gana 1 Punto de Oscuridad, obtienes Armadura +X. X es igual a tu Nivel de Oscu-
-ridad.
-Ideales confundidos
-Cuando amenazas, tratas de humillar, castigar o abusar de alguien que consideras 
-que ha molestado a una persona con quien tengas un Lazo puedes usar tu caracte-
-rística de Protectora. Ganas 1 punto de Oscuridad.
-188
-Maho Shojo
+以下將更詳細地介紹同伴的盟約扮演書特徵。
 
-MOVIMIENTOS DE GUERRERA
-Arma de los señores oscuros
-Gana 1 Punto de Oscuridad, consigues Azote+X o Castigo +X para el resto de la es-
-cena. X es igual a tu Nivel de Oscuridad.
-Sacar la Oscuridad que se tiene dentro
-Ganas 1 Punto de Oscuridad. A continuación, obtienes tantos Puntos de Ímpetu 
-como tu Nivel de Oscuridad.
-Recurrir a las emociones más oscuras
-Ganas 1 Punto de Oscuridad y un punto de Ímpetu. Usa tus Puntos de Tinieblas en 
-lugar de Puntos de Luz para tu Medidor de Poder.
-Regeneración oscura
-Gana X puntos de Oscuridad y desmarca tantas Consecuencias como puntos ganados.
-MOVIMIENTOS DE IDOL
-Personalidad tóxica
-Cuando participes en el Movimiento Historias de la Vida, obtén 1 Punto de Oscu-
-ridad. Ganas un Punto de Amistad de cada PJ que también participe y con el que 
-tengas un Lazo. A continuación, pregunta cómo hiciste sentir mal a los PJ.
-Reina entre plebeyos
-Cuando humillas o destrozas públicamente a alguien ganas inmediatamente 1 Punto 
-de Popularidad o 2 Puntos de Amistad. A continuación, obtienes 1 Punto de Oscuridad.
-Señora de la Oscuridad
-Cuando describas cómo invocas a una serie de servidores de la Oscuridad bajo tus 
-órdenes, obtén 1 Punto de Oscuridad. Mientras estos servidores te ayuden en la 
-escena se considera que dispones de los poderes Azote +2 y Castigo +1 sin importar 
-tu Nivel de Poder.
-Diosa oscura
-Cada vez que realizas el Movimiento Transformación, obtén 1 Punto de Oscuri-
-dad. Cambia todas las características del Lux Habitu (Tema, Título, color, etc.) para 
-reflejar este nuevo estado. Cambia también tu Medidor de Poder por el indicado a 
-continuación. Este nuevo Medidor de Poder utiliza los Puntos de Tinieblas en lugar 
-de los Puntos de Luz para calcular el nivel.
-Poderes Lux Habitu
-PODER
-BASE
-SÚPER
-TRIUNFANTE
-1
-Poder Corazón A
-Azote +1
-Castigo +1
-2
-Castigo +1
-Poder Corazón A
-Azote +1
-3
-Ascensión +1
-Ascensión +1
-Poder Corazón A
-5
-FINALEM
-189
-•Oscuridad•
+#### 名稱
 
-MOVIMIENTOS DE SANADORA
-Magia impura
-Cuando pronuncias palabras oscuras y, a continuación, desencadenas el Movimien-
-to Castigar la Oscuridad, ganas 1 Punto de Oscuridad y utilizas Entregada en lugar 
-de Combativa.
-Ceder a otro poder
-Cuando desencadenas el Movimiento Poder Sagrado para generar Poder Sagrado, 
-obtienes tantos puntos adicionales como tu Nivel de Oscuridad. A continuación, 
-ganas 1 Punto de Oscuridad.
-Bruja oscura
-Añades las siguientes opciones a tu Movimiento Poder Sagrado:
-Corromper: Gana un Punto de Tinieblas (cuesta 3 puntos).
-Transferir el dolor: Transfiere una Consecuencia de un PJ a otro.
-Seguidora de la Oscuridad
-Cuando invocas el nombre de un servidor de la Oscuridad para que te ceda parte de 
-su poder, puedes utilizar la Característica de Entregada en tu próximo Movimiento. 
-A continuación, ganas 1 punto de Oscuridad.
-Ventajas del Pacto
-Cuando se cree un Custodio escoged una, cuando los PJ consigan un sexto Avance, 
-escoged otra.
-Intuición de Inquisidor
-Cuando no sepas qué hacer, estés atascada y necesites tomarte un pequeño des-
-canso, pronuncia el nombre del Custodio y escucha a tu corazón: 
-Tira+Entregada
-	10+	 Elige dos preguntas.
-	 7-9	 Escoge una pregunta, pero la respuesta tendrá algún tipo de Consecuencia:
-	
-✽¿Quién puede decirme lo que quiero saber?
-	
-✽¿Dónde puedo encontrar…?
-	
-✽¿Qué rumores hay sobre…?
-	
-✽¿Dónde puede anidar la Oscuridad?
-	
-✽¿Quién tiene más que ganar de…?
-Regeneración
-Si vistes tu Lux Habitu y pides al Custodio que te ayude a recuperarte, obtén 2 Pun-
-tos de Oscuridad. A continuación, retira una marca de una Consecuencia.
-190
-Maho Shojo
+記載同伴的名稱，這可能很大程度取決於其起源。在許多作品中，這個名字是由魔法少女自己取的，因為同伴通常是從她們的願望中誕生，或者她們親歷了同伴的誕生。如果同伴原本就存在，通常會有一個簡稱或因為原名難以辨識而使用的化名。
 
-Poder del Custodio
-Una vez por escena, cuando te concentras en canalizar el poder del interior del 
-Custodio, obtén 1 Punto de Oscuridad. Desmarca un Poder del Corazón que tengas 
-marcado.
-Armas y hechizos del abismo
-Cuando un PJ realiza un Movimiento de Transformación puede convertir su Talis-
-mán en un arma o mejorar mediante las energías del Custodio una que ya tenga. 
-Gana 1 Punto de Oscuridad, a continuación, obtén Castigo +2 sin importar tu Me-
-didor de Poder.
-Cárcel oscura
-Cuando pronuncias el nombre del Custodio mientras levantas tu Talismán, creas 
-una prisión donde enfrentarte a un servidor de la Oscuridad. Esta pequeña dimen-
-sión es idéntica al lugar donde fue invocada por el PJ, arrastrando a aquellos que 
-decida. Ningún daño en la localización tiene efecto en el mundo real.
-Forma Custodio
-Mientras vistes tu Lux Habitu puedes decidir canalizar las energías de la Oscuridad 
-para desatar la Forma Corrupta. Esta nueva forma es adicional a las que ya tenga el 
-PJ. Por ejemplo, si tiene el Avance que le permite usar la forma Súper, se considera 
-que tiene las formas: Base, Súper y Corrupta. Despertar la Forma Corrupta genera 
-1 Punto de Oscuridad y otro adicional si se usa su Poder del Corazón o el Finalem 
-oscuro.
-El aspecto del Lux Habitu debe reflejar esta nueva forma, de la misma manera que 
-cuando obtienes las formas Súper o Triunfante.
-PODER
-FORMA CUSTODIO
-1
-Castigo +2
-2 
-Poder del Corazón ( )
-3
-Ascensión +1
-5
-Finalem oscuro (Reemplaza al Finalem 
-si la Forma Corrupta está activa)
-Portales oscuros
-Los PJ tienen la capacidad de abrir portales a través de la Oscuridad. Cuando se 
-pronuncian las palabras mágicas y se realizan los gestos adecuados:
-Tira+Entregada
-	10+	 El portal conecta los dos puntos sin problemas.
-	 7-9	 El portal tiene algún problema menor. Escoge 1:
-	
-✽El portal aparece en un lugar cercano, pero no donde se esperaba.
-	
-✽Servidores de la Oscuridad atraviesan el portal junto a los PJ.
-	
-✽Ganar 1 Punto de Oscuridad.
-191
-•Oscuridad•
+#### 來歷
 
-Ejemplos de Custodios
-A continuación puedes encontrar dos ejemplos de Custodios completos que puedes 
-usar directamente en tus partidas.
-Ahruwo
-Nombre: Ahruwo, la Lengua de Doble Filo.
-Historia: Ahruwo es un Custodio conocido por su ambigüedad. Pasa dormido la 
-mayor parte del tiempo, ignorando a la Oscuridad, y solo actúa cuando aparecen 
-Avatares que en otro momento fueron magical girls.
-Conocido por sus mentiras y frases ambiguas, disfruta confundiendo a las chicas 
-con las que cierra su Pacto. Las desafortunadas tardan mucho en darse cuenta de 
-que sus verdaderas intenciones son provocar en ellas sentimientos de envidia, ira, 
-paranoia, celos…, pues, cuando una cae en la Oscuridad, puede alimentarse del 
-último fragmento de Luz que dejan antes de convertirse en nuevos Campeones y 
-Avatares.
-Aspecto: Un mapache negro y azul especialmente gordo con la lengua de una ser-
-piente.
-Puntos de Lux est: 0.
-Ventajas de Pacto: Intuición de Inquisidor.
-Nekoyu
-Nombre: Nekoyu Ojos del Océano.
-Historia: Una vez cada cien años surge para evitar que la Princesa de Sangre se 
-haga con el control de la ciudad y, de esa forma, arrastre al mundo a la Oscuri-
-dad. Habiendo roto su orgullo hace eras por convertirse en el primer servidor de la 
-Oscuridad al que derrotó, este Custodio ha tomado sus resurrecciones como una 
-afrenta a su honor.
-Aspecto: Un gato similar a un dibujo animado, con las orejas llenas de pelo y una 
-cola especialmente esponjosa y peluda. Sus ojos son azules y profundos, de ellos 
-procede su sobrenombre.
-Puntos de Lux est: 0.
-Ventajas de Pacto: Poder del Custodio.
-Ejemplo: El grupo compuesto por Mónica, Ruth, Vanesa, Cristina y Esther eligieron 
-como Pacto Marionetas de los Custodios, por lo que proceden a crear al respon-
-sable de que sus personajes se convirtieran en magical girls. Después de un rato 
-llegan a una serie de consensos.
-192
-Maho Shojo
+同伴的來歷通常源自這類世界觀中的魔法世界（參見「[世界觀](/rules/setting/)」）。因此，同伴可以是某位被遺忘的神祇的僕從或子嗣、具有魔法本質的動物或生物、守護靈、具現化的願望……在某些情況下，也可能是導師，例如一位退休的魔法少女訓練新一代。
 
-Lo primero es escoger el nombre, para el cual escogen que sea Nekoyu, y tiene el so-
-brenombre de Ojos del Océano. Según hablan con Mónica, una vez cada cien años 
-surge para evitar que la Princesa de Sangre se haga con el control de la ciudad y, 
-de esa forma, hunda el mundo en la Oscuridad.
-Su aspecto es una especie de gato similar a un dibujo animado, con las orejas llenas 
-de pelo y una cola especialmente esponjosa y peluda. Sus ojos son azules y profun-
-dos, de los cuales procede su apodo.
-Anotan que tiene 0 puntos de Lux est a la hora de crearlo, pues aún no han jugado 
-su primera sesión. Para finalizar, escogen un Movimiento de Pacto para represen-
-tar su ventaja de Pacto, eligiendo entre todas Poder del Custodio.
-Ejemplo 2: Habiendo escogido Hijas de la Luz como Pacto, las jugadoras Rosalía y 
-Vicky hablan con su MC, Marion, sobre cómo van a crear a su Acompañante. Em-
-piezan primero con su historia: este será el último superviviente de un lugar mágico 
-conocido como el Reino de las Estrellas. Este lugar fue engañado por la Oscuridad 
-y sus habitantes cedieron a sus deseos y malos sentimientos, invocando a los Devo-
-radores de Luz. Ahora solo quedan ruinas y recuerdos de aquel lugar. Sin embargo, 
-su reina logró escapar. Deciden que su aspecto será el de una persona mayor, pero 
-que este será un disfraz para ocultar su auténtica forma. Vicky sugiere llamarla 
-Emoto Saki y Rosalía está de acuerdo, por lo que lo anotan en su Libreto.
-Como ventaja de Pacto se deciden por el Movimiento La pureza de la juventud. 
-Para finalizar, tanto Rosalía como Vicky apuntan como Lazo a Emoto Saki y la eti-
-quetan como Acompañante. Una vez completados todos los apartados, solo falta 
-por anotar que tienen 0 puntos de Lux est.
-193
-•Oscuridad•
+在構思同伴時，請注意同伴對其保護對象懷有惡意或別有用心的情況極為罕見，不過同伴可能會隱瞞一些祕密，因為她們認為被保護者還不夠成熟來面對某些狀況。
+
+#### 外觀
+
+同伴通常以明顯帶有魔法性質的人物、動物或物品的形態出現。其討喜的外表可能被誤認為是絨毛玩偶或來自童話的生物。即使是那些看起來比較普通的同伴，也會有某些元素暴露其魔法起源，例如一隻帶有神祕符號的動物或一個長著尖耳朵的人類。
+
+同伴通常也是不可見的，只有具備某種魔法素質或相信超自然事物的人才能看到。
+
+#### 閃耀點數
+
+記載玩家在各聚會中累積的閃耀點數，藉此可以獲得新的成長。欲知更多關於閃耀點數及其用途的資訊，請參閱「[成長與經驗](/rules/advancement/)」章節。
+
+#### 羈絆與友情
+
+同伴與締結盟約的魔法少女總是緊密相連、深信不疑。當同伴喚醒她們心中的光明時，也會使彼此的心靈相繫，建立一條新的羈絆。
+
+擁有這種盟約的玩家角色在選擇友情扮演書時，會獲得一條與其同伴的額外羈絆，並將其標記為「同伴」。這條羈絆在遊戲中的運作方式與其他羈絆相同，但有以下例外：
+
+- 在每次聚會開始時，同伴獲得等同於玩家角色人數的友情點數。在聚會進行中，任何一位玩家角色在使用友情點數時，可以查看盟約扮演書——如果同伴至少有 1 點友情點數，便可以改用同伴的友情點數。
+- 如果標記為「同伴」的羈絆因阿特洛波斯之禍而斷裂，該玩家角色將失去魔法少女的力量。因此她將無法再使用護符或穿戴光之裝束，並成為由主持人（MC）控制的非玩家角色。
+
+### 黑暗
+
+擁有這種盟約的玩家角色在黑暗等級提升時不會受到任何懲罰。如果某位玩家角色在任何時候達到黑暗等級 5，則視為其內心已被黑暗過度侵蝕，無法再使用內在的光明。此時標記為「同伴」的羈絆斷裂，她失去力量，並成為由主持人（MC）控制的非玩家角色。
+
+### 盟約優勢
+
+在創建同伴時，從盟約動作列表中選擇一項優勢。所有玩家角色都可以使用該動作（參見「[動作](/rules/moves/)」）。
+
+一旦玩家角色取得第一次進階成長後，在第六次成長時可以選擇第二個盟約動作。
+
+### 盟約動作
+
+在創建同伴時選擇一項，當玩家角色達成第六次成長時再選擇一項：
+
+**紅色友情之線**
+每位玩家角色的友情扮演書獲得一條額外羈絆。
+
+**Shinyū（真友）**
+在每次聚會開始時，每位玩家角色獲得 1 點友情點數。
+
+**青春之純粹**
+在聚會結束時，在執行抵抗黑暗動作之前，消除一點黑暗點數。接著，如果你有 0 點黑暗點數，則不需要觸發抵抗黑暗動作。
+
+**心心相繫**
+在聚會開始時，決定同伴擁有多少友情點數時，一位玩家角色可以額外交付任意數量的友情點數。玩家角色不能以此方式交付自己的最後一點友情點數。
+
+**收藏卡冊**
+同伴擁有一系列可以被召喚來幫助魔法少女的物品和能力。當你向同伴求助時，說明使用什麼物品或能力來幫助你；接著消耗同伴的 1 點友情點數，使你的下一次動作獲得 +1。
+
+**友情是世界上最珍貴的寶物**
+每位玩家角色從其友情扮演書中獲得一個額外動作。
+
+**同伴的戰鬥形態**
+同伴有能力在玩家角色面對黑暗時提供幫助，化為其戰鬥形態。
+
+選擇一組基礎值：
+- 戰鬥 +1、機智 +1、護衛 +1、笨拙 +1。
+  在戰鬥、機智或護衛中選擇一項 +1。
+- 或
+- 戰鬥 +1、機智 +1、護衛 +1、笨拙 +2。
+  在戰鬥、機智或護衛中選擇兩項各 +1。
+
+接著，如同玩家角色一樣選擇一個主題。
+
+在任何時候都可以請求同伴的幫助。一旦提出請求，戰鬥形態啟動時擁有 2 點。同伴可以執行以下任一行動：
+
+- **聯合攻擊**：與另一位玩家角色聯合攻擊。將其戰鬥值加到你的下一次動作上。擲骰後扣除 1 點。
+- **觀察協助**：幫助觀察情況或尋找新的觀點。將其機智值加到你的下一次動作上。擲骰後扣除 1 點。
+- **保護支援**：嘗試保護另一個人或幫助你從困難情況中脫身。將其護衛值加到你的下一次動作上。擲骰後扣除 1 點。
+- **造成阻礙**：妨礙或給你製造麻煩。從你的下一次動作中減去其笨拙值。擲骰後增加 1 點。
+
+當其點數歸零時，同伴消失或暫時失去力量。
+
+### 同伴範例
+
+以下是兩個完整的同伴範例，你可以直接在遊戲中使用。
+
+#### Bo-chan
+
+**名稱**：Book Heart，Bo-chan。
+
+**來歷**：當 Akiko 從美國搬到母親的故鄉日本時，她發現自己孤身一人、沒有朋友。渴望找到新夥伴、創造快樂時光的願望具現化為 Book Heart，她稱之為 Bo-chan。蘊含在這本書中的力量將幫助她找到一生的朋友。藉由書的魔力，她們也能夠變身為魔法少女，獲得消除周圍人們悲傷的能力。
+
+**外觀**：一本空白的相簿，隨著 Akiko 最美好的回憶逐漸被填滿。
+
+**閃耀點數**：0。
+
+**羈絆與友情**：玩家角色。
+
+**盟約優勢**：Shinyū（真友）。
+
+#### Emoto Saki
+
+**名稱**：Emoto Saki，星之女王。
+
+**來歷**：一位因黑暗帶來的負面情緒而失去王國的女王。如今她想幫助地球避免重蹈覆轍，支持心靈純潔的少女去幫助身邊的人。
+
+**外觀**：一位穿著深藍色舊和服的老婦人，身材嬌小，白髮梳成髮髻。當她恢復真正的形態時，是一位約三十歲的女性，頭髮如星辰般閃耀，身穿一襲白色華麗禮服，光芒四射。手持星辰之杖。
+
+**閃耀點數**：0。
+
+**羈絆與友情**：玩家角色。
+
+**盟約優勢**：青春之純粹。
+
+## 盟約：正義騎士
+
+正義騎士盟約可以模擬人們想到魔法少女類型時最常聯想到的主流故事。在這些故事中，一群少女對抗黑暗的怪物和生物，同時也努力過著青少年的日常生活。這類故事將經典魔法少女元素與超級戰隊的某些特徵相結合，從九〇年代至今一直非常流行。然而，主持人（MC）必須非常小心地維持故事的平衡，避免落入「每週一怪物」的窠臼。不要忽視議程和原則，以及我們在「[主持人指南](/rules/mc-guide/)」中給你的建議。
+
+當你們決定採用這類故事時，要注意不能只做與企圖入侵地球的生物的戰鬥。一般而言，每個敵人都應該是幫助魔法少女成長的一課，同時也必須與她們的日常生活及各自的日常問題相配合。欲知更多，請參閱「[世界觀](/rules/setting/)」。
+
+### 使者
+
+這些存在效忠於一個強大的光明實體，致力於保護世界（或世界的一部分）。一旦察覺到黑暗的存在，便迅速召集追隨者——或召回已有的追隨者——開始尋找心中蘊藏光明之力且具備特定條件的人。找到後，這個保護性實體便與她們締結盟約以鍛造護符。
+
+當你們選擇正義騎士作為戰役的盟約時，玩家和主持人（MC）應花幾分鐘時間來塑造這個實體。不必深入太多細節，很多時候留下一些空白、隨著故事進展去發掘，會更加有趣。
+
+以下將更詳細地介紹使者的盟約扮演書特徵：
+
+#### 名稱
+
+記載使者的名稱。使者的名字通常比較簡單，習慣上會提及其來源或能力，偶爾附帶一個小小的頭銜。使者通常是成群被派遣的，每一位對應一位魔法少女（參見「盟約與多位使者」側欄）。
+
+#### 效忠對象
+
+使者效忠於一位偉大的光明守護者，負責保護世界免受黑暗侵害。不幸的是，因某些原因，這位守護者無法直接行動，因此必須喚醒並選擇能夠運用隱藏在心中的光明之力的人。為了尋找和喚醒未來的魔法少女，守護者派遣了使者。
+
+在創建使者時，你應該思考他們效忠的實體。這些保護性實體的例子包括：過去曾被摧毀的另一個次元的統治者、感知到危險的古老神祇、試圖阻止其時代所發生之事的未來存在，等等。
+
+#### 外觀
+
+使者是小型的生物，外形讓人聯想到動物或人類。其中一些帶有奇幻元素出場，例如仙子或火焰貓。雖然少數是普通動物，但可能擁有說話的能力。無論外觀如何，所有使者身上都有一個代表其效忠實體的印記。他們的一個缺點是任何人都能看見他們，因此魔法少女必須努力將他們隱藏起來。
+
+#### 閃耀點數
+
+記載玩家在各聚會中累積的閃耀點數，藉此可以獲得新的成長。欲知更多關於閃耀點數及其用途的資訊，請參閱「[成長與經驗](/rules/advancement/)」章節。
+
+### 合作
+
+選擇正義騎士盟約的玩家角色團隊習慣互相合作與團隊協作，彼此彌補弱點。
+
+任何玩家角色都可以像使用基礎動作一樣使用任何合作動作，但有以下條件：
+
+- 每次使用其中一個動作時，會被標記。
+- 玩家角色不能使用已被標記的合作動作。
+- 在聚會開始時，取消所有動作的標記。
+
+### 合作動作
+
+**分享力量**
+當你將自身力量的一部分借出、祝福或幫助另一位玩家角色達成內心重要之事時，對方可以重新使用已使用過的心之力，或使用一個不符合能力量表需求的心之力（終曲除外）。
+
+**我永遠支持你**
+當一位玩家角色即將承受痛苦，而你描述了如何幫助、保護對方，或喚起一股強烈情感讓對方能面對眼前的挑戰時，接著將對方承受的痛苦降至 0。
+
+**我的一份力量**
+當你支援或將力量結合在懲戒黑暗動作中時，將你的懲罰值或摧毀值加到對方的下一次動作上。
+
+**看吧，你果然是最棒的！**
+當你鼓勵一個角色，或對方回想起過去你啟發了她、讓她認識到自身能力的場景時，對方在下一次動作中可以擲 3d6 而非 2d6。擲骰後選擇兩個最佳結果。
+
+### 黑暗
+
+當選擇這種盟約時，每當一位玩家角色獲得一個黑暗等級，選擇一個合作動作。從那一刻起，該玩家角色無法再觸發該動作。
+
+當你獲得黑暗等級 5 時，選擇一個選項：
+
+- 該玩家角色現在效忠於黑暗，成為由主持人（MC）控制的首領。
+- 該玩家角色神祕地消失。
+- 該玩家角色失去力量，變成一個冷漠、毫無情感的人，成為由主持人（MC）控制的非玩家角色。
+
+如果玩家和主持人（MC）認為適當，可以存在某種方式讓玩家角色恢復或重獲魔法少女的能力。這種情況可能帶有後果，例如：她被削弱了、失去了記憶、能力變得不同了、擁有不同的扮演書、轉世為新角色，等等。
+
+### 盟約優勢
+
+在創建使者時，從盟約動作列表中選擇一項優勢。所有玩家角色都可以使用該動作（參見「[動作](/rules/moves/)」）。
+
+一旦玩家角色取得第一次進階成長後，在第六次成長時可以選擇第二個盟約動作。
+
+### 盟約動作
+
+在創建使者時選擇一項，當玩家角色達成第六次成長時再選擇一項。
+
+**聖域**
+存在一個黑暗無法偵測或滲透的安全場所——一個由光明創造的避難所，只有玩家角色和受邀者在滿足某些條件時才能進入。
+
+**我們的力量歸於你**
+一位玩家角色可以決定將其護符的部分力量借給另一位玩家角色。接著消耗 1 點友情點數。該場景剩餘時間內無法變身，但另一位玩家角色選擇一個選項：
+
+- 如果處於基礎形態，則獲得超級形態。
+- 如果處於超級形態，則獲得凱旋形態。
+
+**不只是一個團隊**
+如果在聚會結束時所有合作動作都已被標記，獲得一點閃耀點數。
+
+**光明之助**
+從以下列表中選擇一項光之裝束能力：
+
+- 摧毀 +1。
+- 懲罰 +1。
+- 堅韌 +1。
+- 護甲 +1。
+
+此能力始終額外可用，不受形態或能力等級影響。
+
+**心靈連線**
+玩家角色擁有一種魔法連結，無論身在何處都能彼此通訊。這個紐帶可以傳遞思緒、情感，甚至位置資訊。
+
+要使用此能力，兩位相連的玩家角色必須各自手持護符。
+
+**同心同敗**
+當一位玩家角色在失去光明動作中擲出 6 以下時，可以選擇將結果改為 10 以上，但會獲得一個黑暗等級。
+
+**分享光明**
+當一位玩家角色獲得一點光點時，消耗 1 點友情點數。接著將該光點交給另一位光點數等於或少於自己的玩家角色。
+
+### 使者範例
+
+以下是兩個完整的使者範例，你可以直接在遊戲中使用。
+
+#### 元素使者
+
+**名稱**：Aquam、Ignem、Auram、Terram。
+
+**效忠對象**：蓋亞，大地之靈。蓋亞察覺到黑暗即將到來、要奪走生命並留下一顆死寂的星球，於是派遣了四位元素之靈僕從執行任務。他們的目標是各自找到一位心靈純淨的少女，將蓋亞力量的一部分寄託於其中。
+
+為了幫助被選中的少女完成使命，蓋亞在大地深處創建了「元素之殿」——一個安全的場所，每位少女都可以透過自己的元素進入。
+
+**外觀**：四隻生物各自呈現與之締約的少女最喜愛的動物形態，並配合對應的元素調整。一旦成形，每隻生物身上某處都有一個幾何圖形的紋印：Ignem 是正四面體、Terram 是正六面體、Auram 是正八面體、Aquam 是正二十面體。
+
+**閃耀點數**：0。
+
+**盟約優勢**：聖域。
+
+#### Kanan
+
+**名稱**：Kanan。
+
+**效忠對象**：Oneira 的女祭司。很久以前，Oneira 是一個光明的王國，但在保護它的魔法少女失敗後，被黑暗所吞噬。
+
+為了趕在黑暗襲擊下一個目標之前行動，女祭司使用了前代魔法少女心中光明的碎片，創造了 Kanan，去尋找能夠阻止那個被稱為「根除者」的存在的新騎士。
+
+**外觀**：一隻經典的西方小仙子，但看起來像是由彩色水晶構成的。
+
+**閃耀點數**：0。
+
+**盟約優勢**：光明之助。
+
+:::note[盟約與多位使者]
+幫助魔法少女的魔法生物從魔法少女類型的創始之初就是一項傳統。然而，在某些作品中並未使用這個設定，而在另一些作品中，不是一個團隊共用一隻，而是每位主角都有自己的夥伴。盟約規則如何適應這些情況？
+
+如果玩家和主持人（MC）決定不採用這個設定，仍然應該考慮是否使用本章的規則。每種盟約背後的動作和後果的目的，是在遊戲中營造特定的基調，透過細微的調整來強調三種不同風格的魔法少女作品。因此，即使你們不使用使者、同伴或守護者，也需要決定要在遊戲中採用哪一組修改規則（特別是黑暗等級的後果）。
+
+在某些世界觀中——特別是在以正義騎士模擬的那些——每位魔法少女通常有自己專屬的締約實體。這種設定並非專屬於正義騎士，也可能出現在其他兩類盟約中。如果玩家和主持人（MC）同意，只需記住在遊戲規則層面，所有實體都視為一個整體來運作。然而，每位玩家角色擁有自己的使者（或同伴、或守護者）這一點會影響虛構敘事，以及她們如何運用其屬性和動作。
+:::
+
+## 盟約：契約傀儡
+
+契約傀儡盟約適合你們想要講述恐怖、絕望和憂鬱為主角的更黑暗故事。這類故事通常大幅偏離魔法少女的傳統慣例；然而，近年來有些作品走上了這條路。
+
+在講述這些故事時，我們看到主角們試圖緊握住她們知道終將失去的幸福和美好時光。主持人（MC）應努力從角色的每一片幸福中挖掘和暴露其陰暗面。為此，必須強調她們使命的徒勞，有時甚至展示她們每前進一步都在逐漸變成她們所對抗的東西。
+
+當你們決定採用這種設定時，很容易只沉浸在恐怖的部分；這是主持人（MC）必須避免的。要讓契約傀儡盟約發揮作用，角色們必須擁有她們害怕失去的東西，以及可以回歸的快樂時刻，以便與恐怖形成對比。欲知更多關於這類世界觀的資訊，請參閱「[世界觀](/rules/setting/)」章節。
+
+### 守護者
+
+守護者以神祕生物的形態出現，試圖藉由尋找魔法少女的渴望和憧憬來誘惑她們。守護者的目標通常是曖昧的，因為雖然他們看似有興趣尋找並消滅黑暗，卻對幫助或指導那些被喚醒的魔法少女毫無興趣。為了確保對被選者的控制，所有守護者都會在護符中植入一個缺陷，使得隨著時間推移，魔法少女的光明會消逝並被黑暗所取代。這種態度使得許多被守護者喚醒的少女感覺自己只是工具。
+
+當你們選擇契約傀儡作為戰役的盟約時，玩家和主持人（MC）應花幾分鐘時間來塑造這個存在。不必深入太多細節，很多時候留下一些空白、隨著故事進展去發掘，會更加有趣。
+
+以下將更詳細地介紹守護者的盟約扮演書特徵。
+
+#### 名稱
+
+記載守護者的名稱。這些存在通常有著人類無法發音的名字，因此會選擇一個聽起來悅耳的名字，以顯得更無害，從而輕易贏得魔法少女的信任。此外，每位守護者都有一個頭銜，那是在成功消滅第一個黑暗使徒時獲得的。
+
+#### 來歷
+
+守護者的來歷通常起源於其擔任黑暗使徒獵手的時期，不過這取決於其動機（參見「[世界觀](/rules/setting/)」）。因此，他們親自處理目標，在適合執行任務的人身上喚醒光明。守護者通常也與一個強大的化身有所關聯——那是他們初次交戰的對象，也是他們獲得頭銜的契機，從此與之結下因緣。
+
+守護者慣於非常謹慎，只提及魔法少女作戰和完成其利益所必需的最低限度資訊。這些存在極少將被喚醒的少女視為工具以外的存在。
+
+#### 外觀
+
+守護者是形態恐怖的生物，其真實樣貌超出任何人類的想像。理所當然地，他們對此非常清楚，因此在與魔法少女打交道時，會採用一種經過精心設計的幻象形態來博取同情。這個偽裝通常模仿地球上的某種動物，但因其顏色、標記或附加物而明顯帶有魔法氣息，呈現出一種夢幻的形象。這個形態幾乎總是看起來脆弱嬌小，總之，看起來很容易被摧毀。然而，對守護者來說，再造一個新的外殼以繼續其工作是輕而易舉的事。
+
+#### 閃耀點數
+
+記載玩家在各聚會中累積的閃耀點數，藉此可以獲得新的成長。欲知更多關於閃耀點數及其用途的資訊，請參閱「[成長與經驗](/rules/advancement/)」章節。
+
+### 黑暗
+
+當選擇這種盟約時，玩家角色獲得以下規則：
+
+- 當你獲得一個新的黑暗等級時，從你的原型黑暗動作列表中選擇一個動作，加入你的動作清單中（參見「[動作](/rules/moves/)」）。
+- 每當玩家角色獲得一點光點時，可以決定將其轉換為一點暗點。
+- 如果玩家角色的黑暗等級達到 5，則轉為主持人（MC）控制，成為黑暗的新僕從。其類別及黑暗恩賜由主持人（MC）自行決定。
+
+### 黑暗動作
+
+#### 勇者黑暗動作
+
+**黑暗恩賜**
+當你觸發變身動作時，選擇一項：護甲、堅韌、懲罰、摧毀。你獲得該光之裝束能力，不受能力等級限制。能力值等於你的暗點數，最低為 1。
+
+**黑暗形態**
+如果你穿戴光之裝束，並描述它似乎汲取了黑暗的力量，獲得 1 點黑暗點數。從那一刻起直到場景結束，使用你的暗點來代替光點計算你的能力等級。
+
+**自私之心**
+當你運用內在的黑暗來幫助另一位玩家角色時，獲得 X 點黑暗點數。接著，目標玩家角色將等量於你獲得的黑暗點數的友情點數交給你。此動作可使用的最大黑暗點數等於你的黑暗等級。
+
+**黑暗印記**
+選擇一項屬性並增加 +1（最高 4）。在每次聚會開始時獲得 1 點黑暗點數。
+
+#### 參謀黑暗動作
+
+**黑暗才能**
+當你擲骰決定動作結果時，獲得 1 或 2 點黑暗點數。你可以重擲等同於所獲黑暗點數的骰子數；同一顆骰子不能重擲超過一次。
+
+**背叛**
+當你承受痛苦時，說明如何將其影響轉嫁給另一位玩家角色，獲得 2 點黑暗點數。將痛苦轉移給該玩家角色。
+
+**非人意識**
+思慮 +1（最高 4）。當你擲出 12 以上時，獲得 1 點黑暗點數。
+
+**凡人之上的至高心智**
+當你炫耀自己的聰明才智並證明目標不如你時，獲得 1 點黑暗點數。在場景剩餘時間內，你可以在任何動作中使用思慮。
+
+#### 衛士黑暗動作
+
+**以痛為食**
+獲得 1 點黑暗點數。在場景剩餘時間內，當一位不是你的玩家角色標記一個後果時，你獲得摧毀 +X 或懲罰 +X。X 等於你的黑暗等級。
+
+**黑暗之盾**
+當你執行變身動作時，你的光之裝束看起來像是由黑暗而非光明所創造。獲得 1 點黑暗點數，並將你的心靈之盾替換為黑暗之盾。
+
+- 一個後果：使用暗點代替光點計算你的能力量表。
+- 兩個後果：你可以互換保護和挑戰的數值。
+- 三個後果：獲得 1 點暗點。
+- 四個後果：你的摧毀和懲罰各 +2。
+- 五個後果：獲得 1 點暗點和昇華 +1。
+
+**黑暗護甲**
+獲得 1 點黑暗點數，獲得護甲 +X。X 等於你的黑暗等級。
+
+**混亂的理想**
+當你威脅、試圖羞辱、懲罰或欺凌某個你認為冒犯了與你有羈絆之人的對象時，可以使用保護屬性。獲得 1 點黑暗點數。
+
+#### 鬥士黑暗動作
+
+**黑暗領主之武器**
+獲得 1 點黑暗點數，在場景剩餘時間內獲得摧毀 +X 或懲罰 +X。X 等於你的黑暗等級。
+
+**釋放內在的黑暗**
+獲得 1 點黑暗點數。接著獲得等同於你黑暗等級的活力點數。
+
+**訴諸最黑暗的情感**
+獲得 1 點黑暗點數和 1 點活力。使用暗點代替光點計算你的能力量表。
+
+**黑暗重生**
+獲得 X 點黑暗點數，取消等同於所獲點數的後果標記。
+
+#### 偶像黑暗動作
+
+**毒性人格**
+當你參與生活故事動作時，獲得 1 點黑暗點數。從每位同樣參與且與你有羈絆的玩家角色那裡各獲得 1 點友情點數。接著，詢問你是如何讓各位玩家角色感到難受的。
+
+**眾生之上的女王**
+當你公開羞辱或徹底擊垮某人時，立即獲得 1 點人氣值或 2 點友情點數。接著獲得 1 點黑暗點數。
+
+**黑暗女主**
+當你描述如何召喚一群服從你命令的黑暗使徒時，獲得 1 點黑暗點數。在這些使徒於場景中幫助你的期間，視為你擁有摧毀 +2 和懲罰 +1 的能力，不受能力等級限制。
+
+**黑暗女神**
+每次你執行變身動作時，獲得 1 點黑暗點數。改變光之裝束的所有特徵（主題、稱號、色彩等）以反映這個新狀態。同時將你的能力量表替換為以下內容。這個新能力量表使用暗點來代替光點計算等級。
+
+| 能力等級 | 基礎形態 | 超級形態 | 凱旋形態 |
+|:---:|:---:|:---:|:---:|
+| 1 | 心之力 A | 摧毀 +1 | 懲罰 +1 |
+| 2 | 懲罰 +1 | 心之力 A | 摧毀 +1 |
+| 3 | 昇華 +1 | 昇華 +1 | 心之力 A |
+| 5 | 終曲 | | |
+
+#### 聖母黑暗動作
+
+**不淨之魔法**
+當你吟誦黑暗咒語後觸發懲戒黑暗動作時，獲得 1 點黑暗點數，並使用奉獻代替挑戰。
+
+**屈從於另一種力量**
+當你觸發神聖力量動作來產生神聖力量時，額外獲得等同於你黑暗等級的點數。接著獲得 1 點黑暗點數。
+
+**黑暗女巫**
+將以下選項加入你的神聖力量動作：
+- **腐化**：獲得一點暗點（花費 3 點）。
+- **轉移痛苦**：將一個後果從一位玩家角色轉移到另一位。
+
+**黑暗追隨者**
+當你呼喚一位黑暗使徒的名字以讓其將部分力量讓渡給你時，可以在下一次動作中使用奉獻屬性。接著獲得 1 點黑暗點數。
+
+### 盟約優勢
+
+在創建守護者時選擇一項，當玩家角色達成第六次成長時再選擇一項。
+
+**審問者直覺**
+當你不知道該怎麼做、陷入困境且需要稍作休息時，呼喚守護者的名字，傾聽你的內心：
+
+擲骰 + 奉獻
+
+- **10+**：選擇兩個問題。
+- **7-9**：選擇一個問題，但答案會帶有某種後果：
+
+  - 誰能告訴我想知道的事？
+  - 我可以在哪裡找到……？
+  - 關於……有什麼傳聞？
+  - 黑暗可能藏匿在哪裡？
+  - 誰從……中獲益最多？
+
+**再生**
+如果你穿戴光之裝束並請求守護者幫助你恢復，獲得 2 點黑暗點數。接著移除一個後果的標記。
+
+**守護者之力**
+每場景一次，當你集中精神引導守護者內在的力量時，獲得 1 點黑暗點數。取消一個已標記的心之力的標記。
+
+**深淵的武器與法術**
+當玩家角色執行變身動作時，可以將護符轉化為武器，或藉由守護者的能量強化已有的武器。獲得 1 點黑暗點數，接著獲得懲罰 +2，不受能力量表限制。
+
+**黑暗牢獄**
+當你在舉起護符的同時呼喚守護者的名字時，創造一個可以與黑暗使徒對決的監獄。這個小型次元與召喚它的玩家角色所在的地點完全相同，並會拖入她所選擇的對象。在此空間中對地點造成的任何破壞對現實世界沒有影響。
+
+**守護者形態**
+當你穿戴光之裝束時，可以選擇引導黑暗的能量來釋放墮落形態。這個新形態是玩家角色已有形態之外的額外形態。例如，如果她擁有允許使用超級形態的成長，則視為擁有：基礎形態、超級形態和墮落形態。啟動墮落形態產生 1 點黑暗點數，若使用其心之力或黑暗終曲則再額外產生 1 點。
+
+光之裝束的外觀必須反映這個新形態，就像獲得超級形態或凱旋形態時一樣。
+
+| 能力等級 | 守護者形態 |
+|:---:|:---|
+| 1 | 懲罰 +2 |
+| 2 | 心之力（　） |
+| 3 | 昇華 +1 |
+| 5 | 黑暗終曲（墮落形態啟動時取代終曲） |
+
+**黑暗傳送門**
+玩家角色擁有透過黑暗開啟傳送門的能力。當念出魔法咒語並做出正確的手勢時：
+
+擲骰 + 奉獻
+
+- **10+**：傳送門順利連結兩個地點。
+- **7-9**：傳送門出了點小問題。選擇一項：
+  - 傳送門出現在附近的位置，但不是預期的地點。
+  - 黑暗使徒隨玩家角色一同穿過傳送門。
+  - 獲得 1 點黑暗點數。
+
+### 守護者範例
+
+以下是兩個完整的守護者範例，你可以直接在遊戲中使用。
+
+#### Ahruwo
+
+**名稱**：Ahruwo，雙面舌。
+
+**來歷**：Ahruwo 是一位以其模稜兩可而聞名的守護者。大部分時間都在沉睡，無視黑暗的存在，只有當曾經是魔法少女的化身出現時才會行動。
+
+以謊言和曖昧話語聞名，他樂於迷惑與之締約的少女。那些不幸的少女要很久才會意識到，他的真正意圖是在她們心中激起嫉妒、憤怒、偏執、猜疑……因為當一個少女墮入黑暗時，他可以吸取她們在成為新的首領和化身之前殘留的最後一絲光明碎片。
+
+**外觀**：一隻特別肥胖的黑藍色浣熊，長著蛇的舌頭。
+
+**閃耀點數**：0。
+
+**盟約優勢**：審問者直覺。
+
+#### Nekoyu
+
+**名稱**：Nekoyu 海洋之瞳。
+
+**來歷**：每隔一百年甦醒一次，阻止血之公主控制城市，從而防止世界被拖入黑暗。因為成為他所擊敗的第一個黑暗使徒，他的自尊早在遠古時代便已粉碎，這位守護者將每次的復活視為對其榮譽的侮辱。
+
+**外觀**：一隻類似卡通的貓，耳朵毛茸茸的，尾巴格外蓬鬆柔軟。他的眼睛是深邃的藍色，綽號便由此而來。
+
+**閃耀點數**：0。
+
+**盟約優勢**：守護者之力。
+
+:::tip[範例：創建守護者]
+由 Mónica、Ruth、Vanesa、Cristina 和 Esther 組成的團隊選擇了契約傀儡作為盟約，因此她們開始創建那位讓她們的角色成為魔法少女的存在。經過一番討論後，她們達成了以下共識。
+
+首先是選擇名字，她們選定為 Nekoyu，綽號是「海洋之瞳」。根據與 Mónica 的討論，每隔一百年他便會甦醒一次，阻止血之公主控制城市，從而防止世界沉入黑暗。
+
+他的外觀是一種類似卡通的貓，耳朵毛茸茸的，尾巴格外蓬鬆柔軟。他的眼睛是深邃的藍色，綽號便由此而來。
+
+她們記下創建時的閃耀點數為 0，因為她們還沒有進行第一次聚會。最後，她們從盟約動作中選擇一項作為盟約優勢，大家一起選擇了「守護者之力」。
+:::
+
+:::tip[範例：創建同伴]
+選擇了光明子女作為盟約後，玩家 Rosalía 和 Vicky 與她們的主持人（MC）Marion 討論如何創建她們的同伴。她們先從來歷開始：這將是一個被稱為「星之王國」的魔法國度的最後倖存者。這個國度被黑暗所欺騙，居民們屈服於自己的慾望和惡意，召喚了噬光者。如今那裡只剩下廢墟和回憶。然而，女王成功逃了出來。她們決定其外觀將是一位年長者的樣子，但這只是隱藏真實形態的偽裝。Vicky 建議取名為 Emoto Saki，Rosalía 也同意了，於是她們將其記入扮演書。
+
+作為盟約優勢，她們選擇了「青春之純粹」動作。最後，Rosalía 和 Vicky 都將 Emoto Saki 記為羈絆，並標記為「同伴」。完成所有項目後，只剩下記下閃耀點數為 0。
+:::

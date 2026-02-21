@@ -1,1071 +1,690 @@
 ---
 title: 動作
-description: 基礎動作、友情動作、浪漫動作、原型動作、契約動作
+description: 基礎動作、友情動作、浪漫動作、原型動作、盟約動作
 sidebar:
   order: 6
 ---
 
-84
-Maho Shojo
+## 動作
 
-85
-•Corazón•
+在前面的章節中我們已經知道，遲早虛構敘事會觸發一個動作（參見第 17 頁的「基本規則」）。為了讓動作生效，並知道它如何影響虛構敘事，我們必須問自己：動作是如何被觸發的？這個問題只有一個答案：**要做某件事，你只需要去做。**
 
-Los Movimientos
-En capítulos anteriores hemos visto que, tarde o temprano, la Ficción terminará 
-desencadenando un Movimiento (ver «Fundamentos generales» en la página 17).
-Para que un Movimiento tenga lugar y podamos saber cómo afecta a la Ficción, 
-debemos preguntarnos: ¿Cómo se desencadena un Movimiento? Solo existe una 
-respuesta a esa pregunta: para hacer algo, solo tienes que hacerlo.
-Nunca se puede desencadenar un Movimiento sin una acción que lo respalde en la 
-Ficción. ¿Quieres pegarle a una sombra que se abalanza sobre ti? Muy bien, usa tu 
-bastón mágico para golpearla. ¿Quieres investigar un lugar por si hay algo extraño? 
-Por supuesto que puedes, si dices cómo vas a hacerlo. ¿Quieres saltarte una clase 
-para evitar hacer ese examen? Pues empieza a inventarte una buena excusa.
-Si vas a tomar el papel de MC, una de las primeras cosas que deberías hacer 
-es intentar familiarizarte con los Movimientos Básicos. Si lo consigues, podrás 
-detectar cuándo un PJ está desencadenando su efecto dentro de la Ficción. Por 
-ejemplo, quizás un PJ se encuentra comiendo, mirando cómo alguien tiene un 
-problema del que no habla. ¿Por qué no tratar de hablar con ella para saber qué 
-sucede? Es justo en ese momento cuando quizás active el Movimiento Palabras 
-desde el corazón, de entre los Movimientos Básicos. Así empieza: toma una 
-decisión, se acerca a ella y empieza a preguntar, tratando de sonsacarle el pro-
-blema. «¿Qué te pasa, estás bien?». Tras un par de intercambios, tú, como MC, 
-le indicarás que realice el Movimiento, si se han cumplido los desencadenantes, 
-y que lance los dados.
-Mahō Shōjo trata de recompensar la Ficción gracias al sistema de Movimientos, 
-con el que no puedes limitarte a decir «esquivo», «ataco», «hablo» y lanzar los da-
-dos. No, para poder lanzar dados necesitas describirlo y justificarlo en la Ficción. 
-El MC tendrá que estar atento a las descripciones y preguntar continuamente. De 
-esta manera podrá descifrar y saber cuál es el Movimiento que aplicará. Según pase 
-el tiempo y tengas soltura serás capaz de interpretar la descripción de una mirada, 
-una conversación o un ataque. No te preocupes si al principio te confundes o co-
-metes errores, con el tiempo te será más fácil identificar cuándo la Ficción llama a 
-un Movimiento.
-Sumar bonificadores
-Algunos Movimientos indican que a partir de ese momento aplicas un bonificador a 
-las tiradas, habitualmente un +1 o un -1. Estos se presentan de dos formas diferen-
-tes: sumar +1 a la siguiente y arrastrar +1, o, bueno, +2 o -1, lo que toque.
-El caso de sumar +1 a la siguiente está claro: se aplicará a la siguiente tirada que 
-realice el personaje, de un Movimiento específico o en general, según proceda.
-86
-Maho Shojo
+永遠不能在虛構敘事中沒有相應行動的情況下觸發動作。你想打一個撲向你的陰影？好的，用你的魔法杖去攻擊它。你想調查一個地方看看有沒有什麼奇怪的東西？當然可以，只要你說明你打算怎麼做。你想翹課逃避那場考試？那就開始編一個好藉口吧。
 
-En caso de arrastrar +1 u otro bono, se aplicará a TODAS las tiradas de ese momento 
-en adelante, hasta que las circunstancias cambien. Por ejemplo, un PJ que arrastra 
-+1 mientras luche sola, sumaría un +1 hasta que un aliado se presente en el combate.
-Estos bonos, o penalizadores, se aplicarán al nivel de la Característica del PJ, el cual 
-modificará la tirada de un Movimiento.
-Hay que tener en cuenta que existe una restricción especial. Sin importar cuánto se 
-sume o reste, el modificador nunca podrá ser superior a +3 o inferior a -3. Si por algún 
-motivo fuera superior, el bono bajaría a +3 y el penalizador bajaría a un máximo de -3. 
-Un segundo tipo de modificador es el lanzamiento de dados adicionales. Si este 
-es el caso, recuerda que solo pueden usarse 2 dados para calcular el resultado. Si 
-lanzas varios dados tendrás que descartar los dados adicionales una vez hayas se-
-leccionado los dados a sumar.
-El MC, mediante la interpretación de la Ficción, es el que tiene la última palabra en 
-cuanto a la duración de estos efectos.
-Movimientos Básicos
-A lo largo de una partida de Mahō Shōjo todos los personajes usarán Movimientos 
-Básicos. En algunas ocasiones, los Libretos de Arquetipo disponen de sus propios 
-Movimientos, que pueden potenciar, sustituir o modificar los Movimientos Básicos 
-si cumplen ciertos desencadenantes. Si es así, las modificaciones del Libreto de 
-Arquetipo tienen prioridad.
-Los Movimientos Básicos serán los que uséis habitualmente en vuestras partidas. 
-Su objetivo es centrar la Ficción, llevándola hacia elementos que son interesantes y 
-clave dentro del género mahō shōjo que trata de emular este libro.
-A continuación puedes encontrar la descripción de todos los Movimientos Básicos:
-Castigar la Oscuridad
-Cuando te enfrentas de forma consciente a la Oscuridad para hacerla retroceder:
-Tira+Combativa
-	10+	 Elige uno:
-	
-✽Haz Castigo al enemigo.
-	
-✽Derrota Marionetas.
-	 7-9	 Elige uno:
-	
-✽Haz Castigo al enemigo, a continuación sufre Angustia.
-	
-✽No haces Castigo al enemigo ni derrotas Marionetas, pero no recibes Angustia. 
-Suma +1 a tu próximo Movimiento.
-	
-✽Derrota a una Marioneta o bien derrota a varias Marionetas recibiendo Angustia.
-87
-•Corazón•
+如果你要擔任主持人（MC）的角色，你首先應該做的事情之一就是試著熟悉基礎動作。如果你做到了，就能察覺到玩家角色何時在虛構敘事中觸發了動作的效果。例如，也許一個玩家角色正在吃飯，看著某個人遇到了不願開口談論的問題。為什麼不試著跟她聊聊，了解發生了什麼事？就在那個時刻，也許會觸發基礎動作中的「發自內心的話語」。就是這樣開始的：她做出決定，走近那個人，開始詢問，試圖引出問題所在。「你怎麼了，還好嗎？」經過幾輪對話後，身為主持人（MC）的你會指示她執行那個動作——如果觸發條件已經滿足——然後擲骰子。
 
-Castigar la Oscuridad es un Movimiento 
-con el cual un PJ trata de derrotar a algún 
-seguidor de la Oscuridad. Cuando se com-
-prueba si se desencadena este Movimien-
-to no han de tenerse en cuenta solo ac-
-ciones de combate directas, como pegarle 
-un puñetazo a un Campeón o invocar un 
-hechizo contra un Avatar. Cuando se ha-
-bla de «enfrentarse y hacer retroceder la 
-Oscuridad», esto también hace referencia 
-a actos como convencer a una persona 
-poseída por una Muñeca de que rechace 
-la Oscuridad o realizar alguna acción que 
-esta considere como anatema, como, por 
-ejemplo, disculparse por haberla fallado.
-Para poder Castigar la Oscuridad, una 
-magical girl debe estar transformada y ser 
-consciente de que se está enfrentando a 
-un enemigo. Este último punto es impor-
-tante, pues si no es consciente de que, por 
-ejemplo, alguien está siendo manipulado o 
-influenciado por la Oscuridad, no se acti-
-varía el desencadenante.
-El MC debe tener en cuenta múltiples posi-
-bilidades a la hora de considerar qué hace 
-retroceder a la Oscuridad. Es aconsejable 
-evitar la presunción de que solo un ataque 
-directo contra ella, como los ataques má-
-gicos u otras formas de violencia, es efec-
-tivo. La Oscuridad, por su naturaleza, es 
-vulnerable a muchos aspectos de la Luz. 
-Por ejemplo, un ser nacido de la tristeza 
-del corazón de una persona podría ser vul-
-nerable si se lograra apartar esa tristeza y 
-recuperar su felicidad.
-A la hora de resolver el Movimiento, los resul-
-tados se interpretan de la siguiente manera:
-Haz Castigo al enemigo: realizas tu pun-
-tuación de Castigo a un ser de la Oscuri-
-dad, salvo Marionetas.
-88
-Maho Shojo
+Mahō Shōjo 的目的是透過動作系統來獎勵虛構敘事，在這個系統中你不能僅僅說「我閃避」、「我攻擊」、「我說話」然後擲骰子。不，為了能夠擲骰子，你需要在虛構敘事中描述並證明你的行動。主持人（MC）必須注意描述並持續提問。這樣他才能判斷並知道該適用哪個動作。隨著時間推移和熟練度提升，你將能夠解讀一個眼神、一段對話或一次攻擊的描述。如果一開始你搞混了或犯了錯，不用擔心，隨著時間推移，你會更容易判斷虛構敘事何時需要一個動作。
 
-Los puntos de Castigo y Azote que causa de base un PJ transformado son: Castigo/1 
-y Azote/0, pero en algunas circunstancias, como cuando hay aplicadas mejoras de 
-Movimiento y poderes del Lux Habitu, pueden modificarlos.
-Si el objetivo son Marionetas, el resultado de 10+ automáticamente eliminará a una 
-de ellas más el nivel de Azote. Si el objetivo es una Muñeca, un Campeón o un Ava-
-tar se le harán tantos puntos de Castigo como realice la magical girl.
-Con el resultado de 7 a 9 se deberá escoger entre una de las opciones. Si te en-
-frentas a Marionetas, deberás decidir entre derrotar a una a cambio de no recibir 
-Angustia o derrotar a tantas como 1 más tus puntos de Azote para derrotar a varias 
-sufriendo Angustia. Si el adversario es una Muñeca, un Campeón o un Avatar po-
-drás decidir si quieres realizar Castigo a costa de recibir Angustia. En el último caso, 
-no se realiza ningún Castigo ni se derrota ninguna Marioneta a cambio de recibir un 
-+1 para tu siguiente Movimiento.
-En caso de recibir Angustia el MC deberá indicar exactamente cuánta sufres según 
-el tipo de servidor de la Oscuridad que fuera objetivo del ataque (ver «Servidores 
-de la Oscuridad» en la página 166).
-Ejemplo 1: Mientras investigaban un extraño videoclub, las magical girls han des-
-cubierto que su dueño es, en realidad, la forma ilusoria de un Campeón de la Os-
-curidad. Tras asaltar el lugar, la MC describe cómo se quita su disfraz ilusorio 
-demostrando que es Glob el Asqueroso. Después de esta revelación, el grupo se 
-transforma y se prepara para combatir. A continuación, Mónica se dirige a Esther:
-—Glob está frente a ti blandiendo un mayal hecho con cintas de video, ¿qué haces?
-—Esgrimo la Celestial Sword y salto hacia él, trato de mantener un poco las 
-distancias y en el primer hueco me abalanzo con mi arma —dice, mientras hace 
-gestos con sus manos.
-—Muy bien, creo que no hay duda de que eso es un Castigar la Oscuridad, así 
-que lanza los dados.
-—Perfecto obtengo un 11, por lo que elijo «Haz Castigo al enemigo», eso son 
-2 puntos (1 de base y otro adicional de Por el poder de la Justicia) —afirma 
-Esther.
-— Vale, el arma de Kiyomi se clava en su estómago. Viendo cómo empieza a san-
-grar el laser disc de su interior, levanta la mirada con odio. ¿Qué haces ahora…?
-Ejemplo 2: Yoriko se ha separado del grupo tras perderse en el edificio Kasumano 
-,cuando se da cuenta de que ha sido rodeada por varias criaturas oscuras, Mario-
-netas al servicio de un poderoso Avatar que está vinculado a la empresa.
-—No contaba con esto. ¿Existe algún hueco o posible salida? —le pregunta Ruth, 
-la jugadora de Yoriko.
-89
-•Corazón•
+### 加算修正值
 
-—Me temo que no, estás rodeada y los pasillos rebosan criaturas. Parece que has 
-tenido que llamar la atención de alguien en algún momento, así que, ¿haces algo?
-—Por supuesto. Uso mi naginata para realizar un amplio arco con el que mante-
-nerlas alejadas, aunque trato de llevarme alguna por delante —afirma.
-—Bueno, estás bastante rodeada —dice Mónica—, pero aún no son una gran 
-amenaza, por lo que adelante, usa Castigar la Oscuridad.
-—Ouch, solo un 9… —empieza a murmurar—. No quiero sufrir daño, pero qué 
-demonios, tengo Azote +1, así que, vamos, escojo derrotar a varias Marionetas 
-recibiendo Angustia.
-—De acuerdo. Destruyes a dos de las criaturas pero a cambio empiezas a 
-sentirte agobiada. Recibe 2 Puntos de Angustia. ¿Cómo pretendes librarte 
-de ella?
-Ejemplo 3: Natsumi y Torome se encuentran en problemas después de que Tat-
-suya, un compañero de clase, se haya transformado en una Muñeca al caer en la 
-Oscuridad. Ahora se encuentran encadenadas en el aula. Rosalía, que interpreta a 
-Torome, decide que va a intentar llegar al corazón de su compañero.
-—¡Voy a tratar de llamar su atención gritando, mientras le miró suplicándole 
-que luche!—exclama.
-—Me temo que la mente de tu amigo está muy subyugada por la Oscuridad, no 
-creo que algo así logré llegarle —le indica Mónica, asumiendo su papel de MC.
-Rosalía trata de pensar antes de que todo termine. Finalmente tiene una idea.
-—Voy a llamarle por el nombre que usábamos cuando éramos pequeños. Le gri-
-to para que recuerde algún momento feliz de cuando jugábamos juntos.
-—Bueno, supongo que eso sí que podría afectarle… ¡Claro! Usa Castigar la Os-
-curidad y dime qué obtienes.
-—Esperaba más, la verdad, un 7 raspado. Voy a decidirme por no recibir Angus-
-tia… Bueno, no, eso no va a sacarnos de aquí, así que le Castigo a cambio de 
-Angustia. Ahora mismo tengo Castigo/4.
-—Eso es impresionante, suficiente como para que Tatsuya logre expulsar la Os-
-curidad y deje de ser una Muñeca. Sin embargo, me temo que la Oscuridad 
-pudo acceder durante un segundo a sus recuerdos, por lo que mientras se disi-
-pa te dice algo, un miedo que siempre has tenido desde pequeña y que hace que 
-sufras 2 Puntos de Angustia. Pero también estás contenta porque has salvado 
-a tu amigo.
-90
-Maho Shojo
+有些動作會指示你從那一刻起對擲骰套用修正值，通常是 +1 或 -1。這些修正值以兩種不同的形式呈現：**對下一次加 +1** 和 **持續 +1**，或者 +2、-1 等其他數值。
 
-Palabras desde el corazón
-Cuando tienes trato con un personaje del MC al que puedas influenciar e intentes 
-obtener algo de él:
-Tira+Emocional
-	10+	 El personaje accede a aquello que le pides. 
-	 7-9	 Escoge una opción a cambio de lo que pides:
-	
-✽El personaje se enfada contigo o te malinterpreta.
-	
-✽Debes concederle algún favor al personaje.
-Palabras desde el corazón es un Movimiento que se activa cuando un PJ tiene 
-alguna forma de influenciar a un PNJ y, gracias a ello, obtener algo de él. Normal-
-mente se utilizará para evitar que haga algo, o que deje de hacerlo, mediante una 
-conversación razonada o apelando a sus sentimientos. Aunque se sobreentiende 
-que Palabras desde el corazón principalmente es una conversación, no es la única 
-opción para desencadenarlo: sujetar a alguien para evitar que haga una locura o 
-escribir una carta y dejarla en su casillero de la escuela también encajarían en la 
-descripción. El objetivo del Movimiento es tratar de influenciar con la opinión o la 
-actitud del PJ a otra persona.
-Para poder activar este Movimiento la otra parte debe poder ser influida de alguna 
-forma. Un PJ que tratara de convencer a un ser sin mente seguramente no obten-
-dría nada de ello, a menos que tuviera una forma muy original de afrontarlo. De la 
-misma manera, tratar de convencer a un profesor de que te ponga dieces en todos 
-los exámenes sin hacerlos seguramente sería imposible sin importar la excusa.
-Cuando se obtiene un resultado de 10 o más, el objetivo se atendrá a seguir el 
-consejo o petición del PJ, siempre que no sea algo completamente irracional, como 
-lanzarse por un precipicio. El MC debe indicar si la petición es algo que está fuera 
-de la naturaleza del PNJ y, por tanto, negociar con el jugador algo adecuado.
-Si el resultado es de 7 a 9, si bien termina haciendo lo que buscabas, debes escoger 
-una consecuencia. Al seleccionar el resultado «se enfada contigo o te malinterpre-
-ta», lograrás tu objetivo, aunque quizás no realice exactamente lo que querías o 
-tendrá una consecuencia, mientras que si se enfada seguramente no quiera volver 
-a verte en una temporada.
-Escoger la opción «conceder un favor al personaje» significa que el personaje ne-
-cesita que tú hagas algo a cambio de ese favor, aunque también podrías decirle que 
-le devolverás el favor en otra ocasión. Al escoger esta opción podrás negarte; sin 
-embargo, esto seguramente provoque que no haga lo que le pediste o que trate de 
-deshacerlo.
-Ejemplo 1: Yoriko y Akari se dirigen a la sala del Consejo Escolar. Su intención es 
-91
-•Corazón•
+「對下一次加 +1」很好理解：它會套用在角色的下一次擲骰上，可能是某個特定動作或是一般性的，視情況而定。
 
-pedir que este rectifique su decisión después de recibir el anuncio de cierre del club. 
-Tras aceptar la petición, se reúnen con Gamagōri, el presidente del Consejo.
-—Me temo, chicas, que no puedo hacer nada con esta petición. Son órdenes del 
-director y el club debe cerrar.
-Tras mirar a su amiga, Akari se adelanta y comienza a recitar el manual escolar 
-usando decenas de tecnicismos para lograr confundir a Gamagōri. Después de 
-varios minutos de conversación, termina:
-—… así que si no quieres tener problemas, será mejor que no cierres el club.
-—Muy bien —comenta Mónica—, parece que habéis logrado arrancarle una po-
-sible duda, así que usa Palabras desde el corazón.
--Ouch, creo que debería haberle dejado hablar a Yoriko. Emocional no es mi 
-fuerte —se lamenta Vanesa.
-—Sí, pero sin esa explicación seguramente no podrías haber desencadenado el 
-Movimiento —le responde Mónica, mientras mira la tirada—. Aun así veo que 
-has sacado un 8, ¿qué escoges?
-—Creo que voy a seleccionar… «el personaje se enfada contigo o te malinterpreta».
-—Vale. Gamagōri se ve acorralado tras escuchar tu discurso y os dice: «veo que 
-sois más listas de lo que me imaginaba». Si bien os habéis librado por ahora, 
-notáis que está furioso. Seguramente no será la última vez que el club vaya a 
-tener problemas con el Consejo.
-Ejemplo 2: Torome ha quedado con Natsumi para ir al centro comercial a hacer cola 
-toda la noche, pues sale el nuevo boxset de su serie favorita «Las mágicas aventuras 
-de Kanakana». Sin embargo, sabe que nunca podría convencer a sus padres para 
-que le dejaran ir, por lo que va a hablar con su hermana mayor para que la cubra.
-—Oneesama, necesito un favor muy muy importante —comenta Rosalía, que in-
-terpreta a Torome—. Necesito que me ayudes. Mañana sale por fin lo nuevo de 
-Kanakana y…
-—Sabes que papá y mamá no te van a dejar ir. ¿Cómo pretendes que te ayude? 
-—le responde Nao, su hermana.
-—Por favor, por favor, por favor… Sabes lo importante que es para mí. Lo intento 
-muchas veces intentando dar lástima a mi hermana.
-—Bien, tras un buen rato, ves que parece que va a ceder, tira Emocional para ver 
-qué pasa al desencadenar Palabras desde el corazón.
-—Un 8 en total. —Comprueba el Movimiento—.Escojo «Debes concederle algún 
-favor al personaje».
-92
-Maho Shojo
+如果是「持續 +1」或其他加值，則會套用在從該時刻起的**所有**擲骰上，直到情況改變為止。例如，一個玩家角色在獨自戰鬥時持續 +1，那麼在盟友出現在戰場上之前，她的每次擲骰都會加 +1。
 
-—Está bien, no te preocupes, Torochan, yo me encargo. Peeeero la casa está 
-muy sucia y me vendría genial una mano mañana —le responde.
-Viendo que es la única forma de lograr su objetivo y captando la indirecta, no le 
-queda más remedio que aceptarlo.
-—…De acuerdo, mañana te ayudaré —dice Rosalía resignada.
-Ejemplo 3: Durante un partido de balón prisionero contra la escuela Suga, la capi-
-tana del equipo de Inoue recibe un fuerte balonazo. Después de eso, se levanta y se 
-dirige furiosa a su rival. Cristina, la jugadora de Inoue, reacciona con rapidez y dice 
-que va a tratar de evitar la pelea.
-—Muy bien. ¿Cómo lo haces entonces? —le consulta Mónica.
-—Pues voy a sujetarla desde delante mientras le digo que no vale la pena, que 
-solo es un partido más y que si le hace algo podrían sacarnos de la liga.
--Ok, eso desde luego puede funcionar. Usa Palabras desde el corazón.
-—¡BIEN!, un 11.
--Genial. Observas que recupera la compostura y parece que se relaja. Te mira y 
-va al banquillo, aceptando que está descalificada.
-—Genial, pero esto es muy raro. Ella es habitualmente la que tiene la sangre fría. 
-Sospecho que…
-A la luz de la verdad
-Cuando estudias una situación, objeto, lugar o persona: 
-Tira+Reflexiva
-	10+	 Haz tres preguntas de la lista, obtienes un +1 a la siguiente tirada.
-	 7-9	 Realiza una pregunta.
-En ambos casos actúa según la respuesta.
-	
-✽¿Qué puede resultarme útil o importante?
-	
-✽¿Qué debería preocuparme?
-	
-✽¿Qué debilidad puede usar la Oscuridad?
-	
-✽¿Qué ha pasado aquí recientemente?
-	
-✽¿Qué es aquello que podría temer o desear?
-	
-✽¿Qué hay aquí que no es lo que parece?
-A la luz de la verdad es un Movimiento que trata de descubrir algo que no es evi-
-dente o que se está pasando por alto. Quizás el PJ sospeche del comportamiento de 
-alguien o cierto lugar le resulte inquietante.
-93
-•Corazón•
+這些加值或減值會套用在玩家角色的屬性值上，從而修改動作的擲骰結果。
 
-Una vez que se detenga a observar y tratar de sacar conclusiones sobre ello es 
-cuando este Movimiento entra en juego. Para saber si un PJ está estudiando algo, 
-esto puede darse de muchas formas: una búsqueda en el perfil de las redes sociales, 
-espiar o hablar con las personas de alrededor, sintonizar sus poderes de magical 
-girl… Solo importa que tenga como objetivo tratar de encontrar una respuesta a 
-algo que intrigue al personaje.
-Cuando esta se proporciona debe responderse con sinceridad. Puede darse des-
-de cualquier punto de vista, un narrador omnisciente, una cámara fuera de pla-
-no, en primera persona, etc. Sea cual sea la forma de exponerla, al final debe 
-quedarle clara tanto al jugador como al personaje. Tras obtener la respuesta, el 
-PJ obtiene un +1 en su siguiente Movimiento, si está relacionado con la informa-
-ción obtenida.
-Adicionalmente, si bien un resultado de 10 o más da la misma información que 
-sacando un número de 7 a 9, este último resultado puede traer consigo un defecto. 
-Esta parte queda a discreción del MC, pero habitualmente será un detalle erróneo 
-o quizá decida ignorar un fragmento de la información.
-Ejemplo 1: Durante un partido de balón prisionero entre la escuela de Akari y las 
-jugadoras de la escuela Suga ocurre algo extraño en el campo. Desde las gradas 
-observa cómo su amiga logra evitar que las cosas lleguen a mayores. Sin embargo, 
-tiene la sensación de que pasa algo raro.
-—Hay algo que no me encaja en todo esto, esa chica suele tener la sangre muy 
-fría. Voy a tratar de observar si veo algo extraño, buscar señales de la Oscuri-
-dad y elementos fuera de lo común.
-—Ok, sin problemas. En principio eso activa el Movimiento A la luz de la 
-verdad.
-—Perfecto. Mi Característica de Reflexiva es +2 y en los dados… 8, eso hace que 
-el total sea 10. Son tres preguntas, ¿cierto?
-Mónica asiente.
-—¿Qué hay aquí que no es lo que parece?
-—Ves algo extraño en el banquillo, la cantimplora con la bebida de la capitana 
-de vuestro equipo tiene la marca de la Princesa de Sangre.
-—¿Qué debilidad puede usar la Oscuridad?
-—Sabéis que la capitana está frustrada por haber perdido las semifinales el 
-año pasado por haber jugado con una lesión. Desde entonces se ha esforzado 
-y exigido mucho a sí misma.
-—¿Qué debería preocuparme?
-94
-Maho Shojo
+需要注意的是，有一個特殊限制。無論加了多少或減了多少，修正值永遠不能超過 +3 或低於 -3。如果因某些原因超過了，加值會降至 +3，而減值最多降至 -3。
 
-—Seguramente la Oscuridad esté invadiendo el corazón de la capitana. Si Inoue 
-ha logrado pararla ahora significa que aún no está completamente poseída. 
-Aun así no son buenas noticias, sabéis por experiencia que es cuestión de tiem-
-po si no actuáis.
-Ejemplo 2: Después de hablar con Emoto Saki, tanto Torome como Natsumi han via-
-jado al mundo mágico del Reino Estelar para buscar respuestas. Finalmente, llegan 
-a una pequeña montaña donde se observan unas ruinas de alguna vieja estructura.
-—Natsumi empieza a concentrar sus poderes. Empiezo a bailar con mi abanico 
-sagrado, mientras recito un pequeño canto para intentar sintonizar mis pode-
-res de magical girl con el lugar.
-Después de pensarlo un poco, Marion piensa que es adecuado y encaja con la 
-Ficción, por lo que indica a Vicky, la jugadora de Natsumi, que realice A la luz 
-de la verdad.
-—Muy bien, pues es un 8 en total. Mi pregunta es: ¿Qué ha pasado aquí recientemente?
-—Durante tu ritual empiezas a ver imágenes sueltas de lo que pasó aquí. Según 
-parece, algún tipo de orden de la Luz protegía algo en el pasado. Un día la 
-Oscuridad llegó y destruyó todo, pero algo resistió. Fuera lo que fuera aquello 
-que no pudo destruir, lo ocultó. Por desgracia, la imagen es demasiado borrosa 
-como para estar segura de qué se trataba.
-—Bueno, algo es algo, quizás sea una pista para poder restaurar el Reino Este-
-lar en el futuro.
-Siempre a vuestro lado
-Cuando te preparas para defender o apoyar a alguien contra un peligro:
-Tira+Protectora
-	10+	 Recibes 3 puntos. 
-	 7-9	 Recibes 1 punto. 
-Puedes usar un punto para escoger una opción, si haces algún otro Movimiento los 
-pierdes todos:
-	
-✽Recibir Angustia en lugar de otro PJ o sacar a un PNJ de un peligro.
-	
-✽Dar un +1 a un aliado en un Movimiento antes de lanzar los dados.
-	
-✽Sumar tu Castigo al Castigo de otro PJ.
-Siempre a vuestro lado es un Movimiento que se desencadena cuando un PJ trata 
-de proteger o ayudar al resto de sus compañeros. Esta acción tiene muchas inter-
-pretaciones, desde el peligro físico (un ser tenebroso lanzando un ataque, por ejemplo), 
-95
-•Corazón•
+第二種修正類型是投擲額外骰子。在這種情況下，請記住只能使用兩顆骰子來計算結果。如果你投擲了多顆骰子，在選定要加總的骰子後，必須捨棄額外的骰子。
 
-hasta usarlo para proteger a alguien durante una discusión. Como MC debes estar 
-atento a la Ficción y asegurarte de que la intención del PJ es la de proteger y ayudar 
-a sus compañeros.
-Cuando un PJ realiza este Movimiento, obtiene una serie de «puntos» que puede 
-invertir para las distintas opciones. El uso de este recurso puede darse en cualquier 
-momento pero debe estar justificado dentro de la Ficción. Los puntos generados se 
-pierden cuando la Ficción cambie de forma y ya no tenga sentido mantenerlo o si el 
-mismo PJ activa de nuevo Siempre a vuestro lado.
-Recibir Angustia en lugar de otro PJ consiste en interponerse entre el atacante y 
-el PJ, ya sea ponerse físicamente en mitad del ataque o quizás desviar los insultos 
-hacia ella misma. La Angustia destinada al PJ se aplicará a la que escoja esta opción. 
-Si el objetivo es un PNJ, el PJ le sacará inmediatamente del peligro.
-Dar un +1 a un aliado en un Movimiento significa que el PJ, de alguna forma, ayuda 
-al aliado para darle una bonificación temporal. Esto puede ser apartarla de un em-
-pujón para evitar que un cascote le caiga encima, estar apoyando una carrera desde 
-las gradas, haber ayudado a estudiar un examen o dar un argumento que la ayude 
-a ganar una discusión con una compañera de clase.
-La última opción es sumar su Castigo a otro PJ. Cuando otro PJ logra un Movimien-
-to de Castigar la Oscuridad, puedes añadir su Castigo al Movimiento siempre que 
-pueda justificarse, como, por ejemplo, para realizar un ataque combinado.
-Ejemplo 1: La Samurái de Jade, una de las Campeonas al servicio de un Avatar, 
-está poniendo a la magical girl en un apuro, pues ha demostrado ser una rival más 
-peligrosa de lo que esperaban.
-—Bien, hay que plantear esto de otra manera. Salto delante de mis compañeras 
-y me pongo en postura defensiva enarbolando mi martillo. Esto no puede seguir 
-así —dice la jugadora de Inoue.
-—¿Estás entonces protegiendo a las demás? Pues usa Siempre a vuestro lado.
-—Bueno, al final saco más de diez así que eso son tres puntos.
-Según avanza el combate contra la samurái, Mónica comenta:
-—La katana de la samurái se dirige a Yoriko envuelta en energía oscura cuando 
-impacta, eso son 7 Puntos de Angustia.
-—Un segundo, salto hacia ella desviando el ataque. —Usa un punto—. La espada 
-impacta en mí.
-—Ok, veis como la katana atraviesa el brazo de vuestra compañera. ¿Akari, qué haces?
-Mientras, la jugadora de Inoue utiliza 2 puntos de Amistad y marca la Conse-
-cuencia Cabreada para evitar la Angustia.
-96
-Maho Shojo
+主持人（MC）透過對虛構敘事的詮釋，對這些效果的持續時間有最終決定權。
 
-—Ahora que está distraída voy a tratar de desarmarla, esa espada nos está 
-dando muchos problemas.
-—Así es, eso es una tirada de Superar el peligro, creo que sería con Reflexiva.
-Mientras la jugadora de Akari va recogiendo los dados, Cristina, la jugadora 
-de Inoue, salta:
-—Antes de eso voy a tratar de distraer a la Samurái de Jade y usar mi cuerpo 
-para apoyar a Akari. Gasto un punto y le doy +1 a su Movimiento.
-—Genial, creo que la desarmo con este 12 —responde Vanesa.
-—Así es. La katana salta por los aires y se clava en el suelo a varios metros. Por 
-primera vez parece preocupada…
-—Entonces es mi momento —interrumpe Esther, con Kiyomi—, es hora de que la 
-Celestial Sword acabe con esto.
-—Y no vas a estar sola, voy a atacar a la vez con mi martillo. Con este punto 
-sumo mi Castigo al de Kiyomi.
-—Ok, no tengo dudas de que estáis realizando el Movimiento de Castigar la 
-Oscuridad, adelante —les indica Mónica.
-—¿Eso es Castigo +6, cierto? Bueno, será desde luego algo impresionante, a me-
-nos que falle…
-Ejemplo 2: Después de que Natsumi se quede dormida en clase, su profesora Kisaragi 
-la despierta y le empieza a realizar una serie de preguntas para ponerla en evidencia.
-—Veo que mi amiga está en serios problemas, no lo voy a permitir —empieza a 
-decir Rosalía, que interpreta a Torome—. Como me siento justo al lado, trato de 
-escribir las respuestas en el cuaderno y enseñárselas.
-—Muy bien, creo que eso es suficiente para usar Siempre a vuestro lado —le 
-responde Marion.
-Rosalía lanza los dados y obtiene un 8, que sumado al 2 de Protectora es un 10. 
-Esto hace que reciba 3 puntos.
-Si bien de forma habitual Marion no desencadena el Movimiento Superar el 
-peligro, en esta situación no podría saber la respuesta estando dormida, así 
-que Rosalía está modificando la Ficción de forma adecuada para activarlo. Le 
-cuenta a la jugadora de Natsumi cómo pretende hacerlo.
-—Bueno, supongo que me fijo en lo que me está mostrando Torome echándole 
-un ojo de forma casual, disimulando.
-Marion le indica que por la actitud que muestra puede decidir usar Protectora, 
-puesto que está protegiéndose a sí misma, o bien Reflexiva, porque está tratan-
-do de ser discreta y hacer trampas.
-97
-•Corazón•
+## 基礎動作
 
-—Antes de nada voy a usar uno de mis puntos para darle un +1 en su Movimien-
-to —comenta Rosalía. Sin embargo, al final la tirada es solo un 5.
-—Bueno, empiezas a sentirte mal por haberte dormido en clase y tratado de 
-hacer trampas. Anótate un punto de Oscuridad.
-Después de esta escena la clase termina, por lo que Rosalía pierde los dos pun-
-tos que le quedaban.
-Superar el peligro
-Cuando actúas a pesar de una amenaza inminente o te encuentras en algún proble-
-ma del que deseas salir, indica cómo tratas de superarlo:
-Tira+Característica (ver más adelante)
-	10+	 Consigues lo que te propones, logras evitar por completo el peligro de la 
-forma indicada.
-	 7-9	 Lo logras, pero el MC tendrá que ofrecerte un trato difícil o un resultado 
-peor del que esperabas.
-Superar el peligro es un Movimiento que se desencadena cada vez que se está 
-afrontando algo peligroso, o potencialmente peligroso, para el PJ. Sí, se puede ver 
-como un Movimiento comodín para cualquier tirada o situación en la que exista una 
-incertidumbre sobre el resultado.
-Una cosa que tienes que tener en cuenta es que este Movimiento se desencadena 
-cuando evitas sufrir los efectos adversos de algo peligroso y existe una posibilidad 
-de superarlos.
-Este Movimiento puede ser, además, requisito o consecuencia de otro Movimiento. 
-¿El ser al que acabas de atacar va a explotar? ¿Quieres ganar esa competición, pero 
-antes debes adelantar a la capitana del equipo rival? ¿Quieres atravesar ese muro 
-de llamas para poder proteger a una compañera caída? El MC podría indicar antes 
-qué PJ debe Superar el peligro.
-Como podrás observar, el concepto de peligro es muy amplio: escalar una pared, 
-caminar por una cuerda, evitar el control mental de un enemigo, marcar un tanto 
-en un partido de voleibol, superar un examen en el colegio… Sin embargo, también 
-depende del jugador decidir cómo enfrentarse a él y justificar qué aptitud usará.
-Si se obtiene un resultado de 7 a 9 el peligro aún se manifiesta, pero de forma 
-menor o más moderada. Es cierto que logras evitar el efecto completo, pero el 
-PJ aún tendrá un peligro al que enfrentarse más adelante. Al final, como MC 
-deberás ser consecuente con la Ficción para poder interpretar el resultado y sus 
-consecuencias, siendo estas posibilidades virtualmente ilimitadas (en el capítulo 
-«Maestro de Ceremonias» de la página 194 se explicarán estos conceptos en 
-mayor detalle).
-98
-Maho Shojo
+在 Mahō Shōjo 的遊戲過程中，所有角色都會使用基礎動作。在某些情況下，原型扮演書擁有自己的動作，可以在滿足特定觸發條件時強化、替代或修改基礎動作。如果是這樣，原型扮演書的修改具有優先權。
 
-Para terminar, al contrario que otros Movimientos, Superar el peligro no tiene 
-asociada una Característica asignada. Para saber qué Característica debes usar, 
-tendrás que fijarte en cuál es la actitud del PJ hacia el peligro.
-	
-✽Si afronta la situación de forma directa, física o enérgica, usará su Caracterís-
-tica de Combativa.
-	
-✽Si afronta la situación meditando, razonando o usando su inteligencia, tira con 
-Reflexiva.
-	
-✽Si afronta la situación usando su fuerza de voluntad, resistencia física o con la 
-convicción de proteger a otro, con Protectora.
-	
-✽Si se deja guiar por sus sentimientos, trata de empatizar o dar rienda suelta a 
-sus emociones, usa Emocional.
-	
-✽Si usa sus poderes de magical girl invocando su Tema, sus talentos sobrenatu-
-rales o usando su magia, usa Entregada.
-Ejemplo 1: —Glob el Asqueroso empieza a girar sus mayales hechos con cinta de 
-videoclub, por lo que veis parece estar trazando amplios arcos para evitar que os 
-acerquéis a él.
-—¿Podría entonces acertar con un disparo de mis pistolas? —le consulta Vanesa 
-a Mónica.
-—Me temo que es muy difícil acertarle, a todos los efectos está haciendo un 
-escudo con sus mayales.
-99
+基礎動作是你們在遊戲中最常使用的動作。它們的目的是聚焦虛構敘事，將敘事引向本書所模擬的魔法少女類型中那些有趣且關鍵的元素。
 
-—Ok, alguien va a tener que arriesgarse —empieza a comentar Ruth—. Usando 
-mi naginata voy a acercarme a él, y tratar de detener los mayales y enrollarlos 
-en mi arma, para que ambos quedemos paralizados y así abrir un hueco.
-—Guau… Eso es, sin duda, impresionante y creo que es algo muy astuto. Usa 
-Superar el peligro con Reflexiva —le confirma Mónica.
-—Por desgracia, es un 8 en total.
-—Bueno, no es la mejor actuación, pero logras paralizar sus Mayales. Él te des-
-arma en el proceso.
-—Sí, pero ahora ya no puede protegerse de mis pistolas, ¿correcto?—le replica Vanesa.
-—Así es, creo que Akari quiere hacer algo ahora, ¿verdad?
-Ejemplo 2: En un evento especial de la Comiket, Torome se encuentra en el concur-
-so de preguntas y respuestas de Kanakana. Después de un buen rato llega a una de 
-las últimas rondas, donde las preguntas son cada vez más complicadas.
-—Desde luego este año tenemos a unas cuantas fans de primera —explica el comen-
-tarista—. Pero ¿cuál de ellas podrá acertar esta pregunta por cincuenta puntos?
-Torome, el personaje de Rosalía, es muy fan de la serie por lo que la MC no 
-ha considerado necesario realizar ninguna tirada hasta la pregunta final. Sin 
-embargo, ahora piensa que la tensión del momento es un problema que puede 
-traicionarla. Es por ello que pregunta cómo va a afrontar la situación.
-—Estoy eufórica en este momento, voy a dar todo de mí misma para ganar esas 
-postales exclusivas de Kanakana —explica Rosalía.
-—Muy bien, supongo que eso podría encajar con Emocional y Combativa, pero 
-creo que esta vez es mejor Emocional. ¿Estás de acuerdo? —La jugadora asiente 
-a la MC —Genial, el presentador en ese momento pregunta: La seiyū de Kuro-
-gane Sarah, la mejor amiga de Kanakana, no pudo doblar a su personaje en el 
-videojuego «Kanakana Star Quest». ¿Por quién fue sustituida?
-Después de esto, Rosalía tira los dados con Emocional, logrando un 10 en total.
-—Justo en ese momento pulsas el marcador para decir la respuesta correcta, 
-¿cuál es…?
-Ejemplo 3: …me temo que tras el último Movimiento veis invocar a la Hechicera 
-de Llamas Oscuras su torrente de llamas. Toda la habitación queda rodeada y se 
-acerca hacia vosotras.
-—¿Alguna salida? —pregunta Esther—. La puerta, una ventana, algo…
-—No, todo está envuelto en las llamas negras de la Hechicera… y veis que se 
-acercan a vosotros.
-100
-Maho Shojo
+以下是所有基礎動作的說明：
 
-—Ok, voy a tratar de invocar los poderes del viento. Empiezo a girar mi espada 
-para tratar de crear un túnel que nos permita huir por la puerta. Una vez este-
-mos fuera de esta ratonera ya veremos cómo derrotarla.
-—Bueno, eso es una tirada de Superar el peligro. Como estás usando tus pode-
-res innatos como chica mágica usa Entregada.
-—¡TRECE! ¡Bien, la Celestial Sword vuelve a salvarnos de nuevo! —grita emocionada.
-—Bueno, desde luego abres un túnel entre las llamas que van hacia la puerta. 
-¿Ahora trataréis de huir o vais a continuar luchando contra la Hechicera?
-Ejemplo 3: El hermano mellizo de Natsumi, Togami, ha destrozado sin querer una 
-importante muñeca familiar de su madre. Tras pedirle ayuda a su hermana, ambos 
-empiezan a pensar cómo solucionarlo.
-—Voy a ver si esto tiene arreglo. Supongo que si pego algunas piezas y logro 
-coser las partes del kimono que se han roto podría disimularse, ¿no es así? —
-Consulta Vicky a Marion.
-—Sí, es una buena suposición. Tu madre no suele pararse demasiado a contem-
-plarla y no la has visto cogerla desde hace un par de años. Supones que podría 
-pasar mucho tiempo hasta que se diera cuenta, si es que lo hace —le indica.
-—Bien. Togami, voy a necesitar que vayas a la tienda y me traigas estas cosas 
-para arreglarla. Mientras, voy a preparar un lugar para trabajar a gusto.
-Un tiempo después, ya con los materiales, Torome empieza a arreglarla poco a 
-poco.
-—Vale, por lo que estás haciendo parece que sea un Superar el peligro utilizan-
-do Protectora.
-—No voy a discutirlo, está muy claro que uso Protectora. Saco un 7 en total, algo 
-no ha salido bien —le responde Vicky.
-—Exactamente, tienes la certeza que en unos días vais a tener que dar explica-
-ciones. Claro que tenéis tiempo para buscar algún plan para evitarlo.
-Historias de la vida
-Cuando te tomas un descanso de la lucha contra la Oscuridad y dedicas tiempo a tu 
-vida como joven adolescente, junto al menos un personaje con el que tengas un Lazo:
-Tira+Emocional
-Cada PJ presente gana inmediatamente 1 Punto de Amistad. A continuación com-
-prueba el resultado:
-	10+	 Escoge hasta 2 opciones. 
-101
-•Corazón•
+### 懲戒黑暗
 
-7-9	 Escoge una opción (la misma opción se puede escoger más de una vez):
-	
-✽Consigues 1 Punto de Amistad adicional.
-	
-✽Elimina una casilla de Consecuencia.
-En la vida de las magical girls no todo es combatir contra las fuerzas de la Oscuridad 
-y sufrir en el proceso. El motivo principal por el que han realizado el Pacto es para 
-ayudar y salvar a la gente a su alrededor, protegiendo de esa manera los pequeños 
-momentos especiales de la vida. Sin importar cuando, al final siempre regresan a 
-su vida normal, cuando están con sus amigas, familia e intereses románticos. Estos 
-momentos son los que les confirman que todo ha merecido la pena.
-Estos pequeños instantes de paz conocidos como «Historias de la vida» puede 
-que no tengan tanta acción, pero no por ello son menos interesantes. Al realizar 
-este Movimiento significa que, de alguna manera, estás tratando de disfrutar de los 
-pequeños momentos de paz que la Oscuridad te permite.
-Al contrario que otros Movimientos, cuando es desencadenado se escoge a un 
-PJ presente como «protagonista», que será el que realice la tirada, aunque todas 
-las participantes tendrán sus beneficios y sus consecuencias. Para saber quién 
-será el protagonista de la escena, debe tenerse en cuenta cuál de todos los PJ ha 
-tenido más protagonismo o ha propuesto la actividad que hizo que se activara el 
-Movimiento.
-Sin importar cuál sea el resultado de la tirada, cada PJ presente obtiene un Punto 
-de Amistad y, a continuación, se comprueba si se pueden escoger opciones adicio-
-nales:
-Consigues 1 Punto de Amistad adicional, sumas un punto adicional a los que ya tienes.
-Eliminas una casilla de Consecuencia.
-Ambas opciones pueden ser escogidas más de una vez por el mismo PJ. Puedes sa-
-ber más sobre los Puntos de Amistad, las Consecuencias y sus efectos, en el capítulo 
-«Luz contra Oscuridad» de la página 117.
-Ejemplo 1: Después de un duro enfrentamiento contra un Campeón, las heroínas 
-están cansadas. Akari ha propuesto ir a la casa de campo de sus padres durante 
-la Golden Week para tratar de despejar la cabeza. Tras llegar y pasar un rato de 
-tranquilidad en los baños termales, las chicas se relajan y empiezan a jugar a las 
-cartas.
-—Bueno, creo que todo esto empieza a surtir efecto. La vida normal hace que 
-se dispersen muchas de vuestras preocupaciones y problemas. Supongo que la 
-protagonista en todo esto es Akari, así que debe ejecutar el Movimiento Histo-
-rias de la vida con Emocional.
-—Por desgracia, no soy la mejor en todo esto, tengo un -1. Así que solamente he 
-sacado un 7.
-102
-Maho Shojo
+**當你有意識地面對黑暗，迫使其退卻時：**
 
-Todas las jugadoras obtienen un Punto de Amistad. Además, Vanesa decide que Akari 
-obtendrá un segundo Punto de Amistad, la misma decisión la toma Ruth con Yoriko.
-Por su parte, Esther con Kiyomi, y Cristina con Inoue, deciden cada una eliminar 
-una Consecuencia, siendo estas Destrozada y Cabreada.
-Ejemplo 2: Torome está cansada después de varios días superando los exámenes 
-y es momento de divertirse. Está frente a la consola en su casa cuando ve a su 
-hermana Nao.
-—Oneesama, ¿quieres jugar un rato conmigo? —pregunta el personaje de Rosalía.
-Mientras juegan un rato, Marion empieza a decir:
-—Por lo que parece, el tiempo con tu hermana te ayuda a superar el estrés de 
-los exámenes y a disfrutar un poco de tu tiempo libre. Si no recuerdo mal, tu 
-hermana mayor, Nao, es un Lazo de tu Libreto de Amistad Familia, ¿no es así?
-—Correcto —le responde.
-—Como eres el único personaje presente, no me cabe duda de que eres la prota-
-gonista, tira Historias de la vida.
-—Vale, entonces es un 10 en total. Gano 1 punto por el Movimiento y como op-
-ciones escojo otro Movimiento adicional y eliminar la Consecuencia Atontada.
-Transformación
-Cuando te estás enfrentando directamente a la Oscuridad, recitas las palabras y 
-haces los gestos para transformarte:
-El PJ adquiere sus poderes de magical girl accediendo a sus mejoras del Lux Habitu 
-y el resto de poderes concedidos por su Pacto.
-Ejemplo 1: Yoriko se enfrenta a varias Marionetas. Toma la decisión de dar un paso 
-adelante para enfrentarse a ellos.
-—Toco mi chapa mientras levanto los brazos y grito: «Invocando los poderes de 
-la Luz yo me convierto en Scarlet Light Yoriko». Mientras, en mis manos se ma-
-nifiesta una naginata y mis ropas se convierten en mi Lux Habitu. Ahora estoy 
-preparada para la batalla.
-Ejemplo 2: Natsumi contempla cómo en mitad del pasillo de la escuela aparece un Devo-
-rador de Luz, una Muñeca que se manifiesta con emociones negativas, creada a partir 
-del sentimiento de fracaso de algunos compañeros que han suspendido los exámenes.
-—Saco mi abanico sagrado y, al desplegarlo, crece, pudiéndome ocultar tras él. 
-En ese momento, recito: «Por el Reino Estelar, yo soy White Lux Shōjo» mientras 
-un polvo de estrellas me cubre y se desvanece, dando lugar a mi vestido mágico.
-103
-•Corazón•
+擲骰 + 挑戰
 
-Poder del Corazón
-Cuando estás transformada y el Medidor de Poder ha desbloqueado al menos uno 
-de tus Poderes del Corazón, utiliza los gestos y palabras mágicas que activan tu po-
-der. Una vez realizados resuelve los efectos, ya no puedes volver a usar este poder 
-en la escena actual.
-Las magical girls tienen cuatro categorías de Poder del Corazón: Ataque, Defensa, 
-Apoyo y Finalem. Cada uno de ellos tiene distintos efectos en juego. El requisito 
-para poder activarlos es que el PJ tenga suficiente Nivel de Poder para activar ese 
-efecto.
-El PJ no tiene que hacer ninguna tirada para desatar este Movimiento, pero tiene 
-que tener libertad de acción y de habla para realizar los gestos y palabras, que le 
-permiten manifestarlo. Una vez que se activa, ese poder no puede volver a realizar-
-se en la escena, quedando marcado. Existen algunos Movimientos en los Libretos 
-que eliminan esta restricción.
-Para saber qué efectos tiene cada categoría de Poderes Corazón y sus reglas concre-
-tas, dirígete al capítulo «Luz contra Oscuridad» en la página 133.
-Ejemplo 1: En su combate contra la Samurái de Jade, Esther por fin obtiene el pri-
-mer Punto de Luz, lo que habilita el primer nivel de su forma Básica con un Poder 
-del Corazón A.
-—Ahora ha llegado mi momento. Apunto con la Celestial Sword a ese engendro 
-oscuro y empiezo a cargar la energía de los vientos en mi espada. Una vez 
-concentrada, grito: «¡Celestial Burst!», lanzando todo mi poder contra ella. A 
-menos que pase algo eso es Castigo/6.
-Ejemplo 2: Mientras se enfrentan al Guardián de Oscuridad, un Campeón creado 
-a partir del fracaso del Guardián de la Reina de las Estrellas al protegerla, Torome 
-consigue su quinto Punto de Luz.
-—Bueno, ya tengo cinco puntos en mi Medidor de Poder, así que voy a activar mi 
-Finalem, el Kanakana Heart. Empiezo a correr con mis patines mágicos, subien-
-do en espiral por una rampa de luz, y cuando llego arriba del todo digo: «Por un 
-mundo con estrellas de nuevo, te salvamos, Kanakana Heart».
-Marion a continuación replica:
-—Según ves cómo el ataque le impacta, cae solo una página de un libro donde 
-aparece la constelación del caballero.
-—Recojo la página. Ya cada vez estamos más cerca de tener todas las cons-
-telaciones para restaurar el Reino de las Estrellas —comenta la jugadora de 
-Torome.
-104
-Maho Shojo
+- **10+**　選擇一項：
+  - 對敵人造成懲罰值。
+  - 擊敗傀儡。
+- **7-9**　選擇一項：
+  - 對敵人造成懲罰值，然後承受痛苦。
+  - 你既不對敵人造成懲罰值也不擊敗傀儡，但不會受到痛苦。你的下一個動作 +1。
+  - 擊敗一個傀儡，或者擊敗多個傀儡但承受痛苦。
 
-Perder la Luz
-Al final de una escena, si un PJ tiene la Consecuencia Derrotada, indica cómo tratas 
-de seguir adelante con tu camino como magical girl. A continuación:
-Tira+Característica
-La Característica usada para este Movimiento dependerá de la actitud a la hora de 
-activarlo.
-	10+	 Te levantas, te encuentras bien y podrás prepararte para seguir luchando.
-	 7-9	 A pesar de que no te has rendido, algo no marcha del todo bien.
-Una vez que un PJ obtiene la Consecuencia Derrotada algo malo sucede. La magical 
-girl ha forzado demasiado su corazón y, con ello, corre el riesgo de perder la Luz de 
-su interior, pero aún puede luchar por ella. La forma en la que lucha y decide seguir 
-siendo una magical girl puede ser muy diferente para cada una, quizás sea una visión 
-de sus padres o la llamada de su mejor amiga lo que le permita tratar de escapar de 
-la muerte.
-Un resultado de 10 o más supone que simplemente la magical girl logra recuperar-
-se. Ella retoma su vida, se sacude el polvo y vuelve a centrar su mente y sus senti-
-mientos, porque la Luz sigue brillando en su interior.
-Con un resultado de entre 7 y 9 la magical girl logra mantener la Luz dentro de ella, 
-pero debe afrontar alguna consecuencia. Es responsabilidad del MC y del jugador 
-llegar a un acuerdo sobre el precio a pagar, como, por ejemplo, pasar un tiempo en 
-el hospital, ser secuestrada, quedar inconsciente unos días o perder temporalmente 
-la capacidad de transformarse.
-Un resultado de 6 o menos supone que, por algún motivo, la magical girl ya no puede 
-continuar su camino. No importa cuál sea la decisión tomada, el resultado será que 
-el PJ dejará de estar bajo el control del jugador (ver cuadro «Abandonar la serie»).
-De forma similar a lo que ocurre con el Movimiento Superar el peligro, la Caracte-
-rística a usar para este Movimiento dependerá de la actitud con la que el PJ descri-
-be lo que le impulsa a volver a levantarse.
-	
-✽Si se niega a rendirse por su espíritu combativo y ganas de pelear, usa Com-
-bativa.
-	
-✽Si reflexiona sobre el significado de la derrota y por qué debe levantarse una 
-vez más, usa Reflexiva.
-	
-✽Si utiliza su voluntad y resistencia, usa Protectora.
-	
-✽Si se niega a caer, pues las emociones de seguir adelante y de vivir un día más 
-la impulsan, usa Emocional.
-	
-✽Si usa la magia de su interior, los poderes que oculta y que le han sido concedi-
-dos como magical girl, usa Entregada.
-105
-•Corazón•
+「懲戒黑暗」是一個玩家角色試圖擊敗黑暗追隨者的動作。在判斷是否觸發這個動作時，不應該只考慮直接的戰鬥行為，例如對首領揮拳或對化身施放咒語。當提到「面對黑暗並迫使其退卻」時，這也包括說服一個被人偶附身的人拒絕黑暗，或是執行黑暗視為禁忌的行為——例如，為曾經辜負她而道歉。
 
-Ejemplo 1: Al terminar un duro combate 
-contra uno de los guardaespaldas de la 
-Princesa de Sangre, Inoue terminó Derrota-
-da. Al final de la escena, Cristina indica que 
-trata de levantarse. Para ella, ser derrotada 
-no es algo que la vaya a parar, y trata de 
-usar su martillo para alzarse de nuevo.
-—Muy bien, eso que me describes suena a 
-que vas a tratar de usar Combativa para el 
-Movimiento de Perder la Luz, ¿no es cier-
-to? —trata de confirmar Mónica.
-—Así es. —La jugadora de Inoue lanza los 
-dados—. Ups, lamentaré esto, solo un 8.
-—No está mal… Cuando te levantas notas 
-que tu brazo derecho se ha roto, sientes un 
-gran dolor y sabes que tardará varias se-
-manas en curarse.
-—Bien, creo que eso me va a limitar un 
-poco, pero pienso ir a por esa criatura de 
-nuevo cuando me quiten esta escayola.
-Ejemplo 2: La temporada de exámenes ha 
-terminado. Tras revisar los resultados, Ki-
-yomi se ve desesperada al comprobar que 
-ha suspendido todo. Para evitar la Angus-
-tia, Esther ha decidido arriesgarse y marca 
-la Consecuencia Derrotada.
-—Bueno, no es para tanto. Solo necesito 
-estudiar un poco más y si hablo con Akari 
-seguro que me ayuda a estudiar.
-—Sí, seguramente, pero ahora te toca rea-
-lizar un Movimiento de Perder la Luz con 
-Emocional, por tratar de llevar todo con 
-optimismo.
-—Esto está hecho. Un 11 —responde Esther.
-—Parece que, más allá de estar un poco 
-nerviosa por lo que te pueda decir tu ma-
-dre, tu forma positiva de ver el mundo te ha 
-salvado esta vez.
-106
-Maho Shojo
+要使用「懲戒黑暗」，魔法少女必須已經變身，並且意識到自己正在面對一個敵人。最後一點很重要，因為如果她沒有意識到——例如，某人正被黑暗操縱或影響——觸發條件就不會啟動。
 
-Abandonar la serie
-El Movimiento Perder la Luz representa el fin del un personaje, pero, ¿qué 
-significa esto exactamente?
-Como ocurre en algunas series manga y anime, algunos personajes terminan 
-desapareciendo de la obra: este Movimiento representa ese momento. Debe-
-rías tratar de evitar la tentación de pensar que siempre que un personaje fa-
-lla la tirada representa la muerte, principalmente porque el estado Derrotada 
-puede obtenerse sin ser en un combate, como suspendiendo un examen o 
-discutiendo con tus padres.
-Mahō Shōjo trata de imitar la experiencia de la salida y entrada de personajes 
-que en este tipo de obras es tan habitual. Los motivos pueden ser muy varia-
-dos, como que el autor ya no se inspire lo suficiente, que el personaje quede 
-en la parte inferior de las encuestas de popularidad, que fuera muy difícil de 
-dibujar… Existen miles de motivos para ello.
-Cuando hables con el jugador que vaya a perder a su magical girl, trata de pre-
-parar una despedida. En lugar de morir, quizás pase unos días en el hospital 
-donde pueda despedirse de sus amigas, sus padres decidan mudarse a otro 
-país y la trasladen a un lugar lejano, o pierda sus poderes se convierta en un 
-PNJ bajo el control del MC, pero siga siendo una aliada del grupo.
-Pensar en opciones alternativas puede dar oportunidad a nuevas tramas o 
-eventos en las partidas, además de que quizás más adelante el personaje po-
-dría regresar en historias posteriores, como ocurre en algunas obras.
-Rechazar la Oscuridad
-Al final de una sesión, si un PJ tiene al menos un Punto de Oscuridad:
-Tira+Entregada
-	10+	 Rechazas la Oscuridad esta vez, no hay efecto.
-	 7-9	 La Oscuridad mancha la Luz del interior de la magical girl. Se reducen a la 
-mitad, redondeando hacia arriba, tus puntos de Oscuridad.
-La Oscuridad es la fuerza que se opone a la Luz y a la que las magical girls tratan 
-de contener usando sus poderes. Si bien la Luz dentro de su corazón las hace muy 
-resistentes a los efectos de este poder, lo cierto es que la Oscuridad puede germi-
-nar en su interior. Esta mancha se va extendiendo poco a poco, teniendo un grave 
-efecto en ellas. Para saber más sobre la Oscuridad y sus efectos, puedes ir a los ca-
-pítulos «Luz contra Oscuridad» (página 142) y «El Pacto» (página 173), o bien sobre 
-su naturaleza en «Ambientación» (página 262).
-107
-•Corazón•
+主持人（MC）在考慮什麼能讓黑暗退卻時，應該考慮多種可能性。建議避免假設只有直接攻擊黑暗——例如魔法攻擊或其他形式的暴力——才有效。黑暗本質上對光明的許多面向都是脆弱的。例如，一個誕生自某人內心悲傷的存在，如果能消除那份悲傷並恢復其幸福，就可能是脆弱的。
 
-El Movimiento Rechazar la Oscuridad se activa al final de cada sesión. Todos los 
-PJ que tengan al menos un Punto de Oscuridad deben realizar una tirada usando su 
-característica de Entregada.
-Cuando se obtiene un resultado de 10 o más, logra rechazar la Oscuridad, que no la 
-ha contaminado de ninguna manera. El jugador elimina todos los puntos de Oscu-
-ridad anotados en su ficha.
-Cuando se saca una puntuación de entre 7 y 9, reduce a la mitad redondeando hacia 
-arriba los puntos de Oscuridad que tenga en ese momento.
-Un fallo de 6 o menos, indicará que tu Nivel de Oscuridad aumenta en 1.
-Ejemplo 1: Al final de sesión, la jugadora de Akari observa que tiene 7 Puntos de 
-Oscuridad. Mónica le indica que debe realizar una tirada de Rechazar la Oscuri-
-dad. Una vez que Vanesa tira los dados, ve que obtiene un 9 en la tirada, por lo 
-que se queda con 4 Puntos de Oscuridad, con los que empezará la próxima sesión.
-Ejemplo 2: Ha sido una mala sesión para Torome. Después de varios problemas 
-en casa, han tenido que explorar el Reino Estelar enfrentándose a un enemigo y 
-ha terminado con un total de 6 Puntos de Oscuridad. Después de realizar el Movi-
-miento Rechazar la Oscuridad, saca un 5 en total, por lo que borra sus 6 Puntos 
-de Oscuridad e incrementa en 1 su Nivel de Oscuridad. Como durante la creación de 
-personajes escogieron Hijas de la Luz, comprueba que no hay ningún efecto hasta 
-que el Nivel de Oscuridad sea 5.
-Ejemplo 3: Ha sido una sesión muy dura para Yoriko. Ruth comprueba con horror que 
-tiene 14 Puntos de Oscuridad. Afortunadamente, hoy es su día de suerte y, tras lanzar 
-los dados, obtiene un 12. Elimina todos los Puntos de Oscuridad. Ahora le toca esperar 
-que la siguiente sesión sea menos extrema, pues siente que ha gastado toda su suerte.
-¡Lux est!
-Cuando obtengáis un nuevo punto de Lux est comprueba el Libreto de Pacto, cuen-
-ta el número de puntos Lux est anotados. Si el número es igual a PJ + el número de 
-Avances que tenéis, realiza los siguientes pasos:
-	
-✽Si tienes menos de 6 Avances, escoge un Avance menor.
-	
-✽Si tienes 6 o más Avances, escoge un Avance mayor.
-Una vez adquirido un Avance, elimina todos los puntos de Lux est del Libreto de Pacto.
-Según avance la historia, los PJ irán obteniendo puntos de Lux est que anotarán en 
-el Libreto de Pacto. Cada vez que obtengáis un nuevo punto comprobad el Libreto 
-de Pacto y, si tenéis al menos tantos puntos como PJ más el numero de Avances que 
-ya tengáis, podéis escoger uno nuevo.
-Si tenéis menos de 6 Avances, el nuevo deberá de ser un Avance menor; y si tenéis 
-al menos 6 Avances debéis escoger un Avance mayor.
-108
-Maho Shojo
+在解決動作時，結果的解讀如下：
 
-Para saber más sobre cómo se obtienen los puntos de Lux est, los Avances mayores 
-y los Avances menores, puedes ir a los capítulos «Avance y experiencia» (página 
-144) y «El Pacto» (página 173).
-Ejemplo 1: Después de que Yoriko realice su Finalem, obtiene un nuevo punto de Lux 
-est que anota en su Libreto de Pacto. Así que, Ruth comprueba que tienen 6 puntos 
-de Lux est. Como sus magical girls tienen dos Avances, realizan el Movimiento ¡Lux 
-est!, pues 2 + 4 es igual a 6. A continuación, ella y sus compañeras obtienen un tercer 
-Avance que deberán escoger de la zona Avances menores de su Libreto de Arquetipo.
-Ejemplo 2: Natsumi obtiene un nuevo punto de Lux est que anota en el Libreto de 
-Pacto, con lo que ya tienen un total de 6 puntos. Como Natsumi y Torome tienen 4 
-Avances, aún no pueden desencadenar el Movimiento ¡Lux est! al ser necesario al 
-menos llegar a 6 (2+4).
-Movimientos de Amistad
-Durante la creación de personajes cada jugador escoge un Libreto de Amistad (ver 
-«Creación de personajes» en la página 42) y un Movimiento de Amistad de una lista 
-asociada. Según obtiene nuevos puntos de Lux est y Avances se podrán obtener 
-Movimientos de Amistad adicionales.
-Cada uno de estos Movimientos suele representar un uso alternativo de los puntos 
-de Amistad del personaje o bien maneras alternativas de obtenerlos. Estos Movi-
-mientos representan la forma en que la Luz de una magical girl utiliza o potencia los 
-sentimientos y Lazos, siendo una de las armas más potentes con las que oponerse 
-a la Oscuridad.
-Ejemplo 1: Kiyomi escogió durante la creación de personajes el Libreto de Amistad: 
-Nexo de corazones y seleccionó el Movimiento El poder de la amistad. Al final de la 
-sesión recuerda que hubo un Movimiento de Historias de la vida con ella presente, 
-por lo que obtiene un Punto de Amistad.
-Ejemplo 2: Rosalía, la jugadora de Torome, escogió el Libreto de Amistad: Familia, 
-con el Movimiento Yo protegeré a los míos. Durante el transcurso de una escena, 
-Torome debe proteger a su hermana Nao. Comprueba en sus Lazos que Nao tiene 
-la etiqueta Hermana/Familia, por lo que cada vez que realice un Movimiento desti-
-nado a ayudarla sumará +1 a la tirada.
-Movimientos de Romance
-Según avanza la historia, y a partir de la segunda sesión, algunos PJ tendrán acceso 
-a los Libretos de Romance. Estos Libretos especiales disponen de sus propios Mo-
-vimientos y pueden conceder distintas ventajas según vaya creciendo el Medidor 
-de Romance.
-109
-•Corazón•
+**對敵人造成懲罰值：** 你將你的懲罰值造成在一個黑暗存在身上，傀儡除外。
 
-A efectos de juego, las ventajas del Medidor de Romance y los Movimientos de Ro-
-mance se utilizan de forma idéntica al resto de Movimientos.
-Para conocer más sobre cómo acceder a los Libretos de Romance y cómo gestionar 
-el Medidor, consulta los capítulos «Amistad y Romance» (página 71) y «Luz contra 
-Oscuridad» (página 136).
-Ejemplo 1: Al final de la sesión, Cristina, la jugadora de Inoue, tiene un romance de 
-tipo Conflictivo. Su Nivel actual es 2, por lo que no tiene ninguna ventaja. Tras com-
-probar si se activa algún Movimiento observa que La relación es… complicada se 
-realiza al final de la sesión. Por desgracia para ella, ha estado muy ocupada y lleva 
-algunos días sin ver a su pareja, así que baja en 1 el Nivel de Romance.
-Cristina debe tener cuidado o se acercará a una Ruptura y ya tiene demasiados 
-problemas como para sumar otro más.
-Ejemplo 2: Natsumi tiene un Romance No correspondido con Torome. El Nivel 
-actual de su romance es 2. Durante una excursión de clase a Kyoto comparte 
-habitación con Torome y le confiesa sus preocupaciones sobre su hermano 
-mellizo Togami.
-110
-Maho Shojo
+變身後的玩家角色基礎造成的懲罰值和摧毀值為：懲罰/1 和摧毀/0，但在某些情況下，例如套用了動作改良和光之裝束的力量後，這些數值可能會被修改。
 
-Marion, tras hablar con Vicky, la jugadora de Natsumi, acepta que es una escena 
-de intimidad, por lo que se desencadena el Movimiento Corazón sin murallas. Tras 
-resolver el Movimiento, el Nivel del Romance es ahora 3, lo que le dará una ventaja 
-a Natsumi cuando realice Movimientos de Historias de la vida con Torome.
-Movimientos de Arquetipo
-Como se ha indicado en el capítulo «Creación de personajes» (página 40), cada 
-Libreto de Arquetipo dispone de sus propios Movimientos y, conforme obtiene nue-
-vos Avances, podrá seleccionar nuevas opciones. A efectos de juego, un PJ puede 
-utilizar sus Movimientos de Arquetipo de la misma manera que los Movimientos 
-Básicos, siempre y cuando cumpla su desencadenante.
-Como nota adicional, los jugadores y el MC deberían llegar a un consenso sobre la 
-Ficción, para determinar si todos o algunos de los Movimientos de Arquetipo tienen 
-alguna limitación y solo pueden ser usados cuando están transformadas en magical 
-girls. Para saber cuáles de estos pueden ser, recomendamos usar el sentido común, 
-basado en los parámetros que decidáis durante la generación de la ambientación 
-que vais a jugar (ver «Ambientación» en la página 262).
-111
-•Corazón•
+如果目標是傀儡，10+ 的結果會自動消滅其中一個再加上摧毀等級數量的傀儡。如果目標是人偶、首領或化身，則會對其造成魔法少女的懲罰值。
 
-Movimientos de Pacto
-Durante la creación de personajes habéis definido un Pacto de origen para vuestras 
-magical girl de los tres disponibles en este libro: Hijas de la Luz, Campeonas de 
-la Justicia y Marionetas de los Custodios. Cada uno de estos pactos dispone de 
-varios Movimientos conocidos como Movimientos de Pacto, de los cuales se obtiene 
-uno durante la creación de personajes y otro cuando se logra el séptimo punto de 
-Avance de los PJ. Igual que los Movimientos de Arquetipo, estos Movimientos están 
-disponibles para cada uno de los PJ (del mismo modo que los Movimientos Básicos) 
-y se desencadenan cuando se cumplen los requisitos.
-Para saber más de los Libretos de Pacto ve a «El Pacto» en la página 173.
-Ejemplo 1: Durante la creación de personajes, Rosalía y Vicky hablaron con Ma-
-rion. Después de un rato se decidieron a jugar un Libreto de Pacto de Hijas de la 
-Luz. Según avanzaron en la creación de personajes y fueron definiendo la ambien-
-tación, crearon a la Acompañante Emoto Saki, «la Reina de las Estrellas». El Movi-
-miento de Pacto que escogieron durante su creación fue La pureza de la juventud, 
-que se añade a su repertorio de Movimientos.
-Ejemplo 2: Cuando Mónica, Esther, Cristina, Vanesa y Ruth se reunieron para una nue-
-va campaña de Mahō Shōjo decidieron probar con un Libreto de Pacto de Marionetas 
-de los Custodios. Durante la creación de la ambientación diseñaron a su Custodio, un 
-ser conocido como Nekoyu que les proporciona el Movimiento Poder del Custodio.
-Movimientos de Colaboración
-Cuando se selecciona un Libreto de Pacto de Campeonas de la Justicia, los PJ ob-
-tienen acceso a los Movimientos de Colaboración. Estos Movimientos se activan 
-cuando dos personajes colaboran y se cumplen los requisitos del desencadenante.
-Puedes saber más de los Movimientos de Colaboración en el capítulo «El Pacto» de 
-la página 181.
-Ejemplo: Sofía y Abie, que llevan a las magical girls Akiko y Ayame, están jugando 
-una partida de Mahō Shōjo con el Pacto de Campeonas de la Justicia. Se enfrentan 
-a Kazen, un espíritu malvado que roba la voz de chicas jóvenes para un Avatar des-
-conocido. Durante el conflicto, Akiko se encuentra delante de Kazen:
-—Trato de encontrar el cristal de resonancia en el que está guardando las voces. 
-Hasta ahora todos las criaturas llevaban uno.
-—Sí, te das cuenta de que protegido en su torso se encuentra el cristal de reso-
-nancia —le responde Ruth, la MC.
-112
-Maho Shojo
+在 7 到 9 的結果下，必須從選項中擇一。如果你面對的是傀儡，你必須決定是擊敗一個而不承受痛苦，還是擊敗 1 加上你的摧毀值數量的傀儡但承受痛苦。如果對手是人偶、首領或化身，你可以決定是否要以承受痛苦為代價造成懲罰值。在最後一種情況下，不造成任何懲罰值也不擊敗任何傀儡，但可以獲得下一個動作 +1。
 
-—Bien, voy a tratar de distraerlo para que se fije en mí, de forma que Ayame 
-pueda robar el cristal sin hacerle daño.
-Ruth le indica que realice Superar el peligro con Reflexiva, porque esta tratan-
-do de hacer una treta y engañar al Campeón.
-—Oh, oh… solo un 4 en total. ¿Qué me ocurre? —pregunta Sofía.
-—Ves como toca el cristal y un enorme sonido empieza a reverberar, piensas que 
-te puede partir incluso los huesos. Te hace 8 Puntos de Angustia —dice Ruth.
-—Esperad —interrumpe Abie—. En ese momento me abalanzo sobre ella para 
-sacarla del campo de reverberación.
-—¿Supongo que estás usando Yo te apoyare siempre? Muy bien, creo que es adecua-
-do, márcalo en el Libreto de Pacto. A continuación logras sacar a tu amiga de la zona 
-de peligro, pero Kazen os mira y vuelve a dirigir su mano hacia su pecho. ¿Qué hacéis?
-Movimientos de Oscuridad
-Cuando se selecciona un Libreto de Pacto de Marionetas de los Custodios, los PJ, 
-según consigan niveles de Oscuridad, obtendrán Movimientos de Oscuridad. Estos 
-Movimientos representan cómo una magical girl aprende a usar la Oscuridad que 
-germina en su corazón, de forma similar a lo que hace con la Luz.
-Los Movimientos de Oscuridad no se diferencian del resto de Movimientos del jue-
-go, aplicándose cuando se desencadenan sus condiciones. Puedes saber más de los 
-Movimientos de Oscuridad en el capítulo «El Pacto» de la página 186.
-Ejemplo 1: Kiyomi, Akari, Yoriko e Inoue van al karaoke para celebrar que Akari ha 
-sido la primera de la escuela en los exámenes. Después de un rato hablando entre 
-ellas, Mónica les indica que Akari, la que ha tenido más protagonismo en la escena, 
-realice el Movimiento Historias de la vida. Sin embargo, antes de lanzar los dados, 
-le interrumpe Ruth, la jugadora de Yoriko.
-—Al final del día, no sabéis exactamente por qué, ha habido cierta tensión. Gano 
-1 Punto de Oscuridad, todas me dais 1 Punto de Amistad por el Movimiento Per-
-sonalidad tóxica —les comenta.
-Esther, Cristina y Vanesa le entregan un Punto de Amistad cada una y realizan 
-la tirada. A continuación, Mónica empieza a narrar.
-—Si bien os habéis divertido, en algún momento de la tarde algo os ha hecho 
-sentir mal. Por algún motivo la presencia de Yoriko no os ha permitido divertiros 
-todo lo que os gustaría. ¿Qué ha hecho para que tengáis esa sensación?
-113
-•Corazón•
+在承受痛苦的情況下，主持人（MC）必須根據作為攻擊目標的黑暗使徒類型，明確告知你承受多少痛苦（參見第 166 頁的「黑暗使徒」）。
+
+**範例 1：** 在調查一間奇怪的錄影帶出租店時，魔法少女們發現店主實際上是一個黑暗首領的幻象偽裝。在突入店內後，主持人（MC）描述他如何褪去幻象偽裝，揭露自己是「噁心的格洛布」。在這個揭露之後，大家變身並準備戰鬥。接著，Mónica 對 Esther 說：
+
+——格洛布就在你面前，揮舞著一根用錄影帶做成的流星錘，你要怎麼做？
+
+——我揮舞 Celestial Sword 跳向他，試著保持一點距離，等第一個空隙就撲上去用我的武器攻擊——她一邊說一邊用手比劃著。
+
+——好的，我認為這毫無疑問是「懲戒黑暗」，擲骰子吧。
+
+——完美，我骰出了 11，所以我選擇「對敵人造成懲罰值」，那是 2 點（基礎 1 點加上「以正義之力」的額外 1 點）——Esther 確認。
+
+——好，Kiyomi 的武器刺入了他的肚子。看著雷射光碟從他體內流出血來，他抬起頭帶著仇恨的目光。你現在要做什麼……？
+
+**範例 2：** Yoriko 在 Kasumano 大樓裡迷路後與隊伍走散了，這時她發現自己被數個黑暗生物包圍——這些是一個與該企業有關的強大化身麾下的傀儡。
+
+——我沒料到這個。有沒有任何縫隙或可能的出口？——Yoriko 的玩家 Ruth 問道。
+
+——恐怕沒有，你被包圍了，走廊裡都是生物。看來你在某個時刻引起了誰的注意。那麼，你要做什麼？
+
+——當然。我用我的薙刀畫一個大弧來讓它們保持距離，同時試著順便帶走幾個——她確認道。
+
+——嗯，你確實被包圍得很嚴重——Mónica 說——但牠們目前還不是太大的威脅，所以來吧，使用「懲戒黑暗」。
+
+——哎，只有 9……——她開始嘀咕——我不想受傷，但管他的，我有摧毀 +1，所以就選擊敗多個傀儡並承受痛苦。
+
+——好的。你消滅了兩個生物，但作為代價你開始感到壓迫。承受 2 點痛苦。你打算怎麼擺脫困境？
+
+**範例 3：** Natsumi 和 Torome 陷入了困境——她們的同學 Tatsuya 墮入黑暗變成了一個人偶。現在她們被鎖鏈綁在教室裡。扮演 Torome 的 Rosalía 決定試著觸及同學的心靈。
+
+——我要大聲喊叫來吸引他的注意，同時懇求地看著他，求他奮力抵抗！——她喊道。
+
+——恐怕你朋友的心智已經被黑暗深深控制了，我不認為這樣的方法能觸動他——Mónica 以主持人（MC）的身分提示。
+
+Rosalía 在一切結束之前試著思考。最後她有了一個想法。
+
+——我要用我們小時候叫他的綽號來喊他。我大聲喊著讓他想起我們小時候一起玩耍的快樂時光。
+
+——嗯，我想那確實可能影響到他……當然可以！使用「懲戒黑暗」告訴我你的結果。
+
+——我期望能更好，說實話，堪堪 7 分。我先選不承受痛苦……不，那樣救不了我們，所以我選擇造成懲罰值並承受痛苦。我目前的懲罰值是 4。
+
+——那很驚人，足以讓 Tatsuya 驅逐黑暗，不再是人偶了。然而，恐怕黑暗在一瞬間讀取了他的記憶，所以在消散之前他對你說了一些話——一個你從小就有的恐懼——讓你承受了 2 點痛苦。但你也很開心，因為你救了你的朋友。
+
+### 發自內心的話語
+
+**當你與一個主持人（MC）角色交流，試圖影響對方以獲得某些東西時：**
+
+擲骰 + 情感
+
+- **10+**　那個角色同意你的請求。
+- **7-9**　選擇一個代價來換取你的請求：
+  - 那個角色對你生氣或誤解你。
+  - 你必須給那個角色一個人情。
+
+「發自內心的話語」是一個在玩家角色有辦法影響非玩家角色，並藉此獲得某些東西時觸發的動作。通常會用來阻止某人做某事，或讓其停止正在做的事，方式是透過合理的對話或訴諸其情感。雖然不言而喻「發自內心的話語」主要是一段對話，但這並不是觸發它的唯一方式：抓住某人以防止他做傻事，或是寫一封信放在學校的置物櫃裡，也符合這個描述。這個動作的目的是試圖用玩家角色的意見或態度去影響另一個人。
+
+要觸發這個動作，對方必須能以某種方式被影響。一個玩家角色試圖說服一個沒有心智的存在，大概不會有任何效果，除非她有一個非常有創意的方法來應對。同樣地，無論用什麼藉口，試圖說服一位老師讓你不考試就拿到滿分，大概也是不可能的。
+
+當結果為 10 或更高時，目標會遵從玩家角色的建議或請求，只要那不是完全不合理的事情，比如跳下懸崖。主持人（MC）應判斷該請求是否超出非玩家角色的本性，因此需要與玩家協商出合適的替代方案。
+
+如果結果是 7 到 9，對方雖然最終做了你想要的事，但你必須選擇一個後果。選擇「對你生氣或誤解你」，你會達成目標，不過對方可能不會完全按照你的意思去做，或者會有後續影響；如果對方生氣了，大概一段時間內都不想再見到你。
+
+選擇「給角色一個人情」意味著那個角色需要你做某些事情作為回報，不過你也可以告訴對方你以後再還這個人情。選擇這個選項後你可以拒絕；然而，這很可能導致對方不做你要求的事，或者試圖撤回已經做的事。
+
+**範例 1：** Yoriko 和 Akari 前往學生會辦公室。她們打算在收到社團關閉的通知後，要求學生會撤回決定。在被接受請求後，她們與學生會長 Gamagōri 會面。
+
+——恐怕，各位同學，我對這個請求無能為力。這是校長的命令，社團必須關閉。
+
+在看了看朋友之後，Akari 向前一步，開始引用校規，用大量的專業術語來讓 Gamagōri 困惑。經過幾分鐘的對話後，她結束說：
+
+——……所以如果你不想惹上麻煩，最好不要關閉社團。
+
+——好吧——Mónica 說道——看來你們成功讓他產生了疑慮，使用「發自內心的話語」。
+
+——哎，我覺得應該讓 Yoriko 來說的。情感不是我的強項——Vanesa 感嘆道。
+
+——是的，但如果沒有那番說明，你大概沒辦法觸發這個動作——Mónica 回答她，同時看著擲骰結果——不過我看你骰了 8，你選什麼？
+
+——我想我會選……「那個角色對你生氣或誤解你」。
+
+——好的。Gamagōri 聽了你的說詞後被逼到了角落，他說：「看來你們比我想像的聰明。」雖然你們暫時脫身了，但你們注意到他很憤怒。社團大概不會是最後一次跟學生會起衝突。
+
+**範例 2：** Torome 約了 Natsumi 去購物中心通宵排隊，因為她最愛的系列「Kanakana 的魔法冒險」要出新的套裝版了。然而，她知道永遠沒辦法說服父母讓她去，所以她打算找姊姊幫她打掩護。
+
+——Oneesama，我需要一個非常非常重要的幫忙——扮演 Torome 的 Rosalía 說——我需要妳幫忙。明天 Kanakana 終於要出新的了，然後……
+
+——你知道爸爸媽媽不會讓你去的。你指望我怎麼幫你？——她姊姊 Nao 回答道。
+
+——拜託拜託拜託……妳知道這對我有多重要。我拼命裝可憐地求姊姊很多次。
+
+——好吧，好一陣子之後，你看到她似乎要讓步了，用情感擲骰看看觸發「發自內心的話語」會怎樣。
+
+——總共 8 分。——她查看動作——我選「你必須給那個角色一個人情」。
+
+——好吧好吧，別擔心，Torochan，交給我。不——過——家裡很髒，明天要是有人能幫忙就太好了——她回答。
+
+看到這是達成目標的唯一辦法，領會了暗示後，她別無選擇只能接受。
+
+——……好吧，明天我會幫妳——Rosalía 無奈地說。
+
+**範例 3：** 在一場對抗 Suga 學校的躲避球比賽中，Inoue 學校隊伍的隊長被一顆球狠狠打中。之後她站起來，怒氣沖沖地走向對手。Inoue 的玩家 Cristina 迅速反應，說她要試著阻止這場衝突。
+
+——好的。那你怎麼做？——Mónica 詢問。
+
+——我正面抓住她，告訴她不值得，這只是一場普通比賽，如果她對人家做了什麼，我們可能會被踢出聯賽。
+
+——好的，這確實可以起作用。使用「發自內心的話語」。
+
+——太好了！11 分！
+
+——很好。你看到她恢復了冷靜，似乎放鬆了下來。她看了你一眼，走向替補席，接受自己被判出場了。
+
+——很好，但這太不正常了。她平常是最冷靜的人。我懷疑……
+
+### 真理之光下
+
+**當你研究一個情況、物體、地點或人物時：**
+
+擲骰 + 思慮
+
+- **10+**　從列表中提出三個問題，下一次擲骰 +1。
+- **7-9**　提出一個問題。
+
+在兩種情況下，根據回答行動。
+
+- 什麼對我來說可能有用或重要？
+- 什麼應該讓我擔心？
+- 黑暗可以利用什麼弱點？
+- 這裡最近發生了什麼？
+- 它可能害怕或渴望什麼？
+- 這裡有什麼東西並非表面看到的那樣？
+
+「真理之光下」是一個試圖發現不明顯或被忽略之事的動作。也許玩家角色對某人的行為感到懷疑，或者某個地方讓她感到不安。
+
+一旦她停下來觀察並試圖從中得出結論，這個動作就會進入遊戲。要判斷一個玩家角色是否在研究某事物，這可以有許多形式：在社群媒體上搜尋個人檔案、監視或與周圍的人交談、調頻她的魔法少女力量……唯一重要的是，目標是試圖找到角色所好奇之事的答案。
+
+當提供答案時，必須誠實回答。可以從任何視角提供——全知敘事者、場外鏡頭、第一人稱等。無論用什麼方式呈現，最後都必須讓玩家和角色都理解清楚。在獲得答案後，如果與所獲資訊相關，玩家角色的下一個動作可以獲得 +1。
+
+此外，雖然 10 或更高的結果與 7 到 9 的結果提供的資訊相同，但後者的結果可能帶有缺陷。這部分由主持人（MC）自行判斷，但通常會是一個錯誤的細節，或者可能會省略一部分資訊。
+
+**範例 1：** 在 Akari 的學校和 Suga 學校之間的躲避球比賽中，場上發生了一些奇怪的事。她從觀眾席上看著朋友成功避免了事態惡化。然而，她覺得有什麼不對勁。
+
+——這一切有什麼不合理的地方，那個女生平常是很冷靜的。我要試著觀察有沒有看到什麼奇怪的東西，尋找黑暗的跡象和不尋常的元素。
+
+——好的，沒問題。這基本上觸發了動作「真理之光下」。
+
+——完美。我的思慮屬性是 +2，骰子……8，所以總共是 10。是三個問題，對吧？
+
+Mónica 點頭。
+
+——這裡有什麼東西並非表面看到的那樣？
+
+——你在替補席上看到了奇怪的東西，你們隊長的水壺上有血之公主的標記。
+
+——黑暗可以利用什麼弱點？
+
+——你們知道隊長因為去年帶傷上場而輸掉了半決賽，為此非常沮喪。從那以後她一直非常努力，對自己要求很高。
+
+——什麼應該讓我擔心？
+
+——黑暗很可能正在侵蝕隊長的心靈。如果 Inoue 現在成功阻止了她，代表她還沒有完全被附身。不過這仍然不是好消息，根據你們的經驗，如果不採取行動，那只是時間問題。
+
+**範例 2：** 在與 Emoto Saki 交談後，Torome 和 Natsumi 前往了星之王國的魔法世界尋找答案。最終，她們來到一座小山上，那裡可以看到某個古老建築的廢墟。
+
+——Natsumi 開始集中她的力量。我揮舞著我的神聖摺扇開始跳舞，同時吟唱一小段詠唱，試圖將我的魔法少女力量與這個地方同步。
+
+經過一番考慮後，Marion 認為這是適當的，符合虛構敘事，因此指示 Natsumi 的玩家 Vicky 執行「真理之光下」。
+
+——好的，總共是 8 分。我的問題是：這裡最近發生了什麼？
+
+——在你的儀式中，你開始看到這裡發生過的事的零散畫面。看起來，某個光之秩序過去在此守護著什麼東西。有一天黑暗來了，摧毀了一切，但有什麼東西存留了下來。無論那個無法被摧毀的東西是什麼，黑暗把它隱藏了起來。不幸的是，畫面太模糊了，無法確定那到底是什麼。
+
+——好吧，有總比沒有好，也許這會成為將來恢復星之王國的線索。
+
+### 永遠在你身邊
+
+**當你準備好保護或支援某人對抗危險時：**
+
+擲骰 + 保護
+
+- **10+**　你獲得 3 點。
+- **7-9**　你獲得 1 點。
+
+你可以使用一點來選擇一個選項，如果你進行了任何其他動作，你會失去所有點數：
+
+- 代替另一個玩家角色承受痛苦，或讓一個非玩家角色脫離危險。
+- 在盟友擲骰前，給予該盟友的一個動作 +1。
+- 將你的懲罰值加到另一個玩家角色的懲罰值上。
+
+「永遠在你身邊」是一個當玩家角色試圖保護或幫助其他同伴時觸發的動作。這個行為有許多詮釋方式，從物理危險（例如一個黑暗存在發動攻擊），到在爭論中保護某人。作為主持人（MC），你必須關注虛構敘事，確保玩家角色的意圖是保護和幫助同伴。
+
+當一個玩家角色執行這個動作時，會獲得一系列「點數」，可以投入到各種選項中。這個資源可以在任何時刻使用，但必須在虛構敘事中有所依據。當虛構敘事的形勢改變、維持這些點數不再合理時，或者當同一個玩家角色再次觸發「永遠在你身邊」時，已產生的點數就會消失。
+
+「代替另一個玩家角色承受痛苦」是指擋在攻擊者和玩家角色之間，可以是親身擋住攻擊，也可能是將辱罵引向自己。原本要施加在目標玩家角色身上的痛苦會轉移到選擇此選項的人身上。如果目標是非玩家角色，玩家角色會立刻將其帶離危險。
+
+「給予盟友一個動作 +1」表示玩家角色以某種方式幫助盟友，給予臨時加值。這可以是推開她以避免被落石砸中、在觀眾席上為賽跑加油打氣、幫忙複習考試，或是提供一個論點幫助她贏得和同學的爭論。
+
+最後一個選項是將自己的懲罰值加到另一個玩家角色身上。當另一個玩家角色成功執行「懲戒黑暗」動作時，你可以將自己的懲罰值加到該動作上，只要能在敘事中合理解釋——例如，進行一次聯合攻擊。
+
+**範例 1：** 翡翠武士，一個為化身效力的首領，正在給魔法少女們帶來麻煩，因為她已經證明是一個比預期更危險的對手。
+
+——好，必須換個策略。我跳到同伴們前面，擺出防禦姿態，舉起我的戰錘。這不能再繼續下去了——Inoue 的玩家說。
+
+——你要保護其他人嗎？那就使用「永遠在你身邊」。
+
+——嗯，最後骰出了超過十，所以是三點。
+
+隨著與武士的戰鬥進展，Mónica 說道：
+
+——武士的太刀包裹著黑暗能量刺向 Yoriko 時命中了，那是 7 點痛苦。
+
+——等一下，我跳向她擋開攻擊。——使用一點——刀劍擊中了我。
+
+——好，你們看到太刀貫穿了同伴的手臂。Akari，你怎麼做？
+
+與此同時，Inoue 的玩家使用了 2 點友情點數並標記了後果「憤怒」來避免痛苦。
+
+——趁她分心，我要試著繳她的械，那把刀給我們帶來太多麻煩了。
+
+——沒錯，那是「克服危險」的擲骰，我認為應該用思慮。
+
+Akari 的玩家正在撿起骰子時，Inoue 的玩家 Cristina 插話說：
+
+——在那之前，我要試著分散翡翠武士的注意力，用我的身體來支援 Akari。我花一點，給她的動作 +1。
+
+——很好，我想我用這個 12 分繳了她的械——Vanesa 回答。
+
+——沒錯。太刀飛上天空，插在幾公尺外的地面上。她第一次看起來很擔心……
+
+——那麼現在是我的時刻了——Esther 用 Kiyomi 的身分打斷——是時候讓 Celestial Sword 結束這一切了。
+
+——而且你不會孤軍奮戰，我要同時用我的戰錘攻擊。用這一點我把我的懲罰值加到 Kiyomi 的上面。
+
+——好的，我毫不懷疑你們正在執行「懲戒黑暗」動作，請吧——Mónica 指示她們。
+
+——那是懲罰 +6，對吧？嗯，肯定會是令人印象深刻的，除非我骰失敗了……
+
+**範例 2：** Natsumi 在課堂上睡著後，她的老師 Kisaragi 叫醒她，開始對她連珠砲般提問來讓她難堪。
+
+——我看到我的朋友遇到大麻煩了，我不能讓這種事發生——扮演 Torome 的 Rosalía 開始說——因為我就坐在旁邊，我試著把答案寫在筆記本上給她看。
+
+——好的，我認為這足以使用「永遠在你身邊」——Marion 回答她。
+
+Rosalía 擲骰得到了 8，加上保護的 +2 就是 10。這讓她得到 3 點。
+
+雖然 Marion 通常不會觸發「克服危險」這個動作，但在這種情況下，睡著的 Natsumi 不可能知道答案，所以 Rosalía 正在合理地修改虛構敘事來觸發它。她告訴 Natsumi 的玩家她打算怎麼做。
+
+——好吧，我想我會若無其事地偷瞄 Torome 給我看的東西，假裝不在意。
+
+Marion 告訴她，根據她表現的態度，可以決定用保護——因為她在保護自己——或者思慮——因為她試圖不動聲色地作弊。
+
+——在那之前，我要用我的一點給她動作 +1——Rosalía 說。然而，最後的擲骰結果只有 5。
+
+——嗯，你開始因為在課堂上睡著並試著作弊而感到不好意思。記下一點黑暗點數。
+
+在這個場景之後課堂結束了，所以 Rosalía 失去了剩餘的兩點。
+
+### 克服危險
+
+**當你在面對迫在眉睫的威脅時行動，或身陷困境想要脫身時，說明你如何試圖克服它：**
+
+擲骰 + 屬性（見下方）
+
+- **10+**　你達成了目標，以你所描述的方式完全避開了危險。
+- **7-9**　你做到了，但主持人（MC）會給你一個艱難的抉擇或一個比你預期更差的結果。
+
+「克服危險」是一個每當面對危險或潛在危險時觸發的動作。是的，它可以被視為一個萬能動作，適用於任何存在結果不確定性的擲骰或情況。
+
+你需要記住的一點是，這個動作在你試圖避免某些危險事物的不良影響，且存在克服它的可能性時觸發。
+
+這個動作也可以是另一個動作的前提條件或後果。你剛攻擊的那個存在要爆炸了？你想贏得那場比賽，但首先必須超越對方隊長？你想穿過那面火牆去保護一個倒下的同伴？主持人（MC）可能會先要求玩家角色進行「克服危險」。
+
+如你所見，危險的概念非常廣泛：攀爬牆壁、走鋼索、抵抗敵人的心靈控制、在排球比賽中得分、通過學校考試……然而，如何面對危險以及用什麼能力來應對，也取決於玩家自己的決定和論證。
+
+如果結果是 7 到 9，危險仍然存在，但程度較輕或較緩和。確實你避免了完整的影響，但玩家角色之後仍有一個危險要面對。最終，作為主持人（MC），你必須根據虛構敘事來詮釋結果及其後果，可能性幾乎是無限的（在第 194 頁的「主持人指南」章節中會更詳細地解釋這些概念）。
+
+最後，與其他動作不同的是，「克服危險」沒有指定的屬性。要知道該使用哪個屬性，你需要觀察玩家角色面對危險時的態度。
+
+- 如果以直接、身體或充滿幹勁的方式面對情況，使用**挑戰**屬性。
+- 如果以沉思、推理或運用智慧的方式面對情況，使用**思慮**屬性。
+- 如果以意志力、身體耐力或保護他人的信念來面對情況，使用**保護**屬性。
+- 如果讓自己被情感引導、試圖共情或釋放情緒，使用**情感**屬性。
+- 如果使用魔法少女的力量召喚自己的主題、超自然天賦或使用魔法，使用**奉獻**屬性。
+
+**範例 1：** ——噁心的格洛布開始旋轉他那用錄影帶做成的流星錘，看起來他正在畫大弧來阻止你們靠近。
+
+——那我能用我的手槍射中他嗎？——Vanesa 詢問 Mónica。
+
+——恐怕很難打中他，他實際上正用流星錘做成一面盾牌。
+
+——好吧，總得有人冒險——Ruth 開始說——我用我的薙刀靠近他，試著擋住流星錘並用我的武器纏住它們，這樣我們都會被困住，但能打開一個缺口。
+
+——哇……那真是令人印象深刻，而且我覺得非常機智。用思慮進行「克服危險」——Mónica 確認。
+
+——不幸的是，總共只有 8。
+
+——嗯，不是最好的表現，但你成功地纏住了他的流星錘。不過他在過程中繳了你的械。
+
+——是的，但現在他無法擋住我的手槍了，對吧？——Vanesa 回應。
+
+——沒錯，我想 Akari 現在想做些什麼，對吧？
+
+**範例 2：** 在 Comiket 的一個特別活動中，Torome 正在參加 Kanakana 的問答比賽。經過好一陣子後來到了最後幾輪，問題越來越難。
+
+——今年我們確實有幾位頂級粉絲——主持人解說——但她們之中誰能答對這道五十分的題目呢？
+
+Rosalía 的角色 Torome 是這部系列的超級粉絲，所以主持人（MC）在最後一題之前都沒有要求擲骰。然而，現在她認為當下的緊張氣氛可能會出問題。因此她詢問 Torome 打算如何面對這個情況。
+
+——此刻我超興奮，我要全力以赴贏得那些 Kanakana 的限定明信片——Rosalía 解釋。
+
+——好的，我想那可以算是情感和挑戰，但我覺得這次用情感比較好。你同意嗎？——玩家對主持人（MC）點頭——很好，主持人這時問道：Kanakana 的好朋友 Kurogane Sarah 的配音員無法在遊戲「Kanakana Star Quest」中為角色配音。是誰替代了她？
+
+之後 Rosalía 用情感擲骰，總共得到了 10。
+
+——就在那一刻你按下了搶答鈕要說出正確答案，答案是什麼……？
+
+**範例 3：** ……恐怕在上一個動作之後，你們看到暗焰女巫召喚了她的火焰洪流。整個房間都被火焰包圍，而且正在向你們逼近。
+
+——有出口嗎？——Esther 問——門、窗戶、什麼都好……
+
+——沒有，一切都被女巫的黑焰吞沒了……而且你們看到火焰正在向你們靠近。
+
+——好，我要試著召喚風之力量。我開始旋轉我的劍，試圖製造一條通道讓我們能從門逃出去。一旦離開這個死胡同，我們再想辦法打敗她。
+
+——嗯，那是一次「克服危險」的擲骰。因為你正在使用你身為魔法少女的天生力量，所以用奉獻。
+
+——十三！太好了，Celestial Sword 又再次拯救了我們！——她興奮地大喊。
+
+——嗯，你確實在火焰之間開了一條通往門口的通道。那麼你們是要逃跑，還是繼續和女巫戰鬥？
+
+**範例 4：** Natsumi 的雙胞胎哥哥 Togami 不小心弄壞了一個重要的家傳人偶。在向妹妹求助後，兩人開始想辦法解決。
+
+——我來看看這個能不能修。我想如果我黏好一些部件，再把和服破損的地方縫好，應該可以掩飾過去，對吧？——Vicky 問 Marion。
+
+——是的，這是個好判斷。你媽媽不常停下來仔細端詳它，而且你已經好幾年沒見她拿起過它了。你猜可能要過很久她才會發現，如果她會發現的話——她提示。
+
+——好。Togami，我需要你去店裡幫我買這些東西來修理。同時我會準備一個舒適的工作空間。
+
+過了一陣子，拿到材料後，Torome 開始慢慢修理。
+
+——好的，根據你正在做的事情，這似乎是一次使用保護的「克服危險」。
+
+——我不打算爭論，很明顯我在用保護。我總共骰了 7，有什麼事不太順利——Vicky 回答。
+
+——確實如此，你確定過幾天你們就得做出解釋了。當然，你們還有時間想出某個計劃來避免這件事。
+
+### 生活故事
+
+**當你暫時離開對抗黑暗的戰鬥，花時間過你身為年輕少女的生活，且身邊至少有一個與你有羈絆的角色時：**
+
+擲骰 + 情感
+
+每個在場的玩家角色立刻獲得 1 點友情點數。接著檢查結果：
+
+- **10+**　選擇最多兩個選項。
+- **7-9**　選擇一個選項（同一選項可以選擇多次）：
+  - 你獲得 1 點額外的友情點數。
+  - 消除一格後果。
+
+在魔法少女的生活中，並非所有事情都是與黑暗勢力戰鬥和在過程中受苦。她們締結盟約的主要原因是為了幫助和拯救周圍的人，以此來保護生活中那些小小的特別時刻。無論何時，她們最終都會回到正常生活——和朋友、家人以及戀愛對象在一起。這些時刻讓她們確認一切都是值得的。
+
+這些被稱為「生活故事」的小小和平時光也許沒有那麼多動作場面，但並不因此就不有趣。執行這個動作意味著你正以某種方式試圖享受黑暗允許你擁有的小小和平時刻。
+
+與其他動作不同，當這個動作被觸發時，會選擇一個在場的玩家角色作為「主角」，由她來進行擲骰，不過所有參與者都會有其好處和後果。要決定誰是場景的主角，應該考慮哪個玩家角色在場景中最活躍，或是誰提議了觸發動作的活動。
+
+無論擲骰結果如何，每個在場的玩家角色都會獲得一點友情點數，然後檢查是否能選擇額外的選項：
+
+**你獲得 1 點額外的友情點數**，在你已有的基礎上再加一點。
+
+**消除一格後果。**
+
+兩個選項都可以被同一個玩家角色多次選擇。你可以在第 117 頁的「光明對抗黑暗」章節中了解更多關於友情點數、後果及其效果。
+
+**範例 1：** 在一場艱苦的首領戰後，女英雄們都累了。Akari 提議在黃金週期間去她父母的鄉間別墅放鬆。到達後在溫泉浴場泡了一會兒，女孩們放鬆下來開始打牌。
+
+——好的，我覺得這一切開始見效了。正常的生活讓你們許多的擔憂和問題都消散了。我想這一切的主角是 Akari，所以她必須用情感執行「生活故事」動作。
+
+——不幸的是，我這方面不太行，我有 -1。所以我只骰了 7。
+
+所有玩家都獲得一點友情點數。此外，Vanesa 決定讓 Akari 獲得第二點友情點數，Ruth 也讓 Yoriko 做了同樣的選擇。
+
+另一方面，Esther 的 Kiyomi 和 Cristina 的 Inoue 各自決定消除一個後果，分別是「疲憊」和「憤怒」。
+
+**範例 2：** Torome 在連續幾天通過考試後累了，是時候放鬆一下了。她在家裡的遊戲機前看到了姊姊 Nao。
+
+——Oneesama，你要不要跟我一起玩一會兒？——Rosalía 的角色問道。
+
+在她們玩了一會兒後，Marion 開始說：
+
+——看來和姊姊在一起的時間幫助你克服了考試的壓力，也讓你能享受一些自由時光。如果我沒記錯，你的姊姊 Nao 是你友情扮演書「家族」中的一個羈絆，對吧？
+
+——沒錯——她回答。
+
+——既然你是在場的唯一角色，毫無疑問你就是主角，擲「生活故事」。
+
+——好的，那總共是 10。我因為動作獲得 1 點，作為選項我選擇獲得一點額外友情點數，以及消除後果「驚愕」。
+
+### 變身
+
+**當你直接面對黑暗，念出咒語並做出變身手勢時：**
+
+玩家角色獲得魔法少女的力量，啟用光之裝束的強化效果以及盟約所賦予的其他力量。
+
+**範例 1：** Yoriko 面對數個傀儡。她決定向前一步面對它們。
+
+——我觸碰我的胸針，同時舉起雙手喊道：「召喚光明之力，我化身為 Scarlet Light Yoriko。」同時，一把薙刀出現在我手中，我的衣服變成了光之裝束。現在我準備好戰鬥了。
+
+**範例 2：** Natsumi 目睹了一個「光之吞噬者」出現在學校走廊中央——這是一個由負面情緒顯現的人偶，源自於一些考試不及格的同學的挫敗感。
+
+——我拿出我的神聖摺扇，展開後它會變大，讓我可以藏在後面。在那一刻，我念出：「以星之王國之名，我是 White Lux Shōjo。」一陣星塵覆蓋了我，然後消散，露出我的魔法禮服。
+
+### 心之力
+
+**當你已經變身，且能力量表已解鎖至少一個心之力時，使用啟動你力量的手勢和咒語。一旦完成，解決效果，在當前場景中你無法再次使用此力量。**
+
+魔法少女有四個類別的心之力：攻擊、防禦、支援和終曲。每一種在遊戲中有不同的效果。啟動它們的條件是玩家角色有足夠的能力等級來啟動該效果。
+
+玩家角色不需要為了釋放這個動作進行任何擲骰，但她必須有行動和說話的自由來做出手勢和念出咒語以顯現力量。一旦啟動，該力量在場景中不能再次使用，將其標記起來。有些扮演書中的動作可以解除這個限制。
+
+要了解每個類別的心之力及其具體規則的效果，請參閱第 133 頁的「光明對抗黑暗」章節。
+
+**範例 1：** 在對抗翡翠武士的戰鬥中，Esther 終於獲得了第一個光點，這啟用了她基礎形態的第一級，帶有一個心之力 A。
+
+——現在輪到我了。我用 Celestial Sword 指向那個黑暗造物，開始在劍中蓄積風之能量。一旦集中完畢，我大喊：「Celestial Burst！」將我所有的力量釋放向她。除非發生什麼意外，那是懲罰/6。
+
+**範例 2：** 在面對黑暗守護者——一個由星之女王的守護者因保護失敗而誕生的首領——的戰鬥中，Torome 獲得了她的第五個光點。
+
+——好了，我的能力量表已經有五點了，所以我要啟動我的終曲——Kanakana Heart。我穿著我的魔法溜冰鞋開始跑，沿著一道光之坡道螺旋上升，當我到達最頂端時說：「為了一個重新有星星的世界，我們來拯救你，Kanakana Heart。」
+
+Marion 接著回應：
+
+——當你看到攻擊命中他時，一頁書頁飄落下來，上面畫著騎士星座。
+
+——我撿起那頁紙。我們離收集完所有星座來恢復星之王國又更近了一步——Torome 的玩家說。
+
+### 失去光明
+
+**在場景結束時，如果一個玩家角色擁有後果「落敗」，說明你如何試著繼續你作為魔法少女的道路。接著：**
+
+擲骰 + 屬性
+
+此動作使用的屬性取決於觸發時的態度。
+
+- **10+**　你站了起來，你感覺很好，可以準備繼續戰鬥。
+- **7-9**　儘管你沒有放棄，但有些事不太對勁。
+
+一旦玩家角色獲得「落敗」後果，就會發生不好的事。魔法少女過度消耗了她的心靈，因此有失去內心光明的風險，但她仍然可以為此而戰。她奮鬥和決定繼續作為魔法少女的方式，對每個人來說可能截然不同——也許是父母的幻影，或最好朋友的呼喚，讓她能試著逃離死亡。
+
+10 或更高的結果意味著魔法少女成功恢復了。她重拾生活，拍掉灰塵，重新集中心神和情感，因為光明仍在她的內心閃耀。
+
+7 到 9 的結果意味著魔法少女成功保住了內心的光明，但必須面對某種後果。主持人（MC）和玩家有責任就代價達成共識，例如在醫院待一段時間、被綁架、昏迷幾天，或暫時失去變身能力。
+
+6 或更低的結果意味著，因某些原因，魔法少女無法再繼續她的道路。無論做出什麼決定，結果都會是該玩家角色不再受玩家控制（參見「退出系列」說明欄）。
+
+與「克服危險」動作類似，此動作使用的屬性取決於玩家角色描述驅使她重新站起來的態度。
+
+- 如果因戰鬥精神和戰意拒絕認輸，使用**挑戰**。
+- 如果反思失敗的意義以及為何必須再次站起來，使用**思慮**。
+- 如果依靠意志和韌性，使用**保護**。
+- 如果因繼續前進和再活一天的情感衝動而拒絕倒下，使用**情感**。
+- 如果使用內在的魔法、隱藏的力量，以及身為魔法少女所被賜予的力量，使用**奉獻**。
+
+**範例 1：** 在與血之公主其中一名護衛的艱苦戰鬥結束後，Inoue 陷入了「落敗」狀態。在場景結束時，Cristina 表示她試著站起來。對她來說，被擊敗不是什麼能阻止她的事，她試著用戰錘撐著自己站起來。
+
+——好的，根據你的描述，聽起來你要用挑戰來進行「失去光明」動作，對吧？——Mónica 試著確認。
+
+——沒錯。——Inoue 的玩家擲骰——糟糕，我會後悔的，只有 8。
+
+——還不算太糟……當你站起來時，你注意到你的右臂斷了，你感到劇痛，而且知道需要好幾週才能痊癒。
+
+——好吧，我想這會讓我受到一些限制，但等我拆掉石膏，我就要去再找那個生物算帳。
+
+**範例 2：** 考試季節結束了。在查看成績後，Kiyomi 絕望地發現她全都不及格了。為了避免痛苦，Esther 決定冒險標記「落敗」後果。
+
+——嗯，也沒那麼糟。我只需要再多讀一點書，如果我跟 Akari 說一定會幫我複習的。
+
+——是啊，大概會的，但現在你得用情感進行「失去光明」動作，因為你試著以樂觀的態度面對一切。
+
+——小菜一碟。11 分——Esther 回答。
+
+——看來除了對媽媽可能會說什麼有點緊張之外，你積極看待世界的方式這次救了你。
+
+:::note[退出系列]
+
+「失去光明」動作代表一個角色的結局，但這到底意味著什麼？
+
+就像一些漫畫和動畫系列一樣，有些角色會從作品中消失：這個動作就代表那個時刻。你應該盡量避免認為角色每次擲骰失敗都代表死亡的誘惑，主要是因為「落敗」狀態可以在非戰鬥情況下獲得，例如考試不及格或與父母吵架。
+
+Mahō Shōjo 試圖模擬這類作品中角色進出的常見經驗。原因可能非常多樣——例如作者不再有足夠的靈感、角色在人氣投票中墊底、太難畫了……有上千種理由。
+
+當你與即將失去魔法少女的玩家交談時，試著準備一個告別。與其死亡，也許她可以在醫院待幾天讓朋友們來道別，她的父母決定搬到另一個國家將她轉學到一個遙遠的地方，或者她失去了力量成為一個受主持人（MC）控制的非玩家角色，但仍然是隊伍的盟友。
+
+考慮替代方案可以為新的故事線或遊戲中的事件提供機會，而且也許之後該角色可以在後續故事中回歸，就像某些作品中那樣。
+:::
+
+### 抵抗黑暗
+
+**在聚會結束時，如果一個玩家角色至少有一點黑暗點數：**
+
+擲骰 + 奉獻
+
+- **10+**　你這次成功抵抗了黑暗，沒有任何效果。
+- **7-9**　黑暗玷污了魔法少女內心的光明。你的黑暗點數減半，向上取整。
+
+黑暗是對抗光明的力量，魔法少女們試圖用她們的力量來遏制它。雖然她們心中的光明讓她們對這股力量有很強的抵抗力，但事實是黑暗可以在她們的內心發芽。這個污跡會一點一點地擴散，對她們產生嚴重的影響。要了解更多關於黑暗及其效果，可以參閱「光明對抗黑暗」（第 142 頁）和「盟約」（第 173 頁）章節，或是在「世界觀」（第 262 頁）了解其本質。
+
+「抵抗黑暗」動作在每次聚會結束時觸發。所有至少有一點黑暗點數的玩家角色必須使用奉獻屬性進行擲骰。
+
+當結果為 10 或更高時，她成功抵抗了黑暗，黑暗沒有以任何方式污染她。玩家清除角色卡上記錄的所有黑暗點數。
+
+當結果為 7 到 9 時，將當前的黑暗點數減半，向上取整。
+
+6 或更低的失敗結果表示你的黑暗等級增加 1。
+
+**範例 1：** 在聚會結束時，Akari 的玩家注意到她有 7 點黑暗點數。Mónica 告訴她必須進行「抵抗黑暗」擲骰。Vanesa 擲骰後得到了 9，因此她剩下 4 點黑暗點數，帶著這些點數開始下一次聚會。
+
+**範例 2：** 這對 Torome 來說是糟糕的一次聚會。在家裡遇到幾個問題後，她們又得探索星之王國面對一個敵人，最終累積了總共 6 點黑暗點數。在進行「抵抗黑暗」動作後，她只擲出了 5，因此她清除了 6 點黑暗點數，黑暗等級增加 1。由於角色創建時選擇了「光明子女」盟約，她確認在黑暗等級達到 5 之前不會有任何效果。
+
+**範例 3：** 對 Yoriko 來說這是非常艱難的一次聚會。Ruth 驚恐地發現她有 14 點黑暗點數。幸運的是，今天是她的幸運日，擲骰後得到了 12。她清除了所有黑暗點數。現在她只希望下一次聚會不要這麼極端，因為她覺得自己已經用光了所有運氣。
+
+### 閃耀時刻！
+
+**當你們獲得一個新的閃耀點數時，查看盟約扮演書，計算已記錄的閃耀點數。如果數量等於「玩家角色人數 + 你們已有的成長數」，執行以下步驟：**
+
+- 如果你的成長少於 6 個，選擇一個基礎成長。
+- 如果你的成長達到 6 個或更多，選擇一個進階成長。
+
+獲得成長後，清除盟約扮演書上所有的閃耀點數。
+
+隨著故事發展，玩家角色們會獲得閃耀點數並記錄在盟約扮演書上。每次獲得新點數時，檢查盟約扮演書，如果你們擁有的點數至少等於「玩家角色人數加上你們已有的成長數」，就可以選擇一個新的成長。
+
+如果你們的成長少於 6 個，新的成長必須是基礎成長；如果你們至少有 6 個成長，則必須選擇進階成長。
+
+要了解更多關於如何獲得閃耀點數、進階成長和基礎成長的資訊，可以參閱「成長與經驗」（第 144 頁）和「盟約」（第 173 頁）章節。
+
+**範例 1：** 在 Yoriko 施放終曲後，她獲得了一個新的閃耀點數記錄在盟約扮演書上。Ruth 確認她們現在有 6 點閃耀點數。由於她們的魔法少女有兩個成長，她們觸發了「閃耀時刻！」動作，因為 2 + 4 等於 6。接著，她和同伴們獲得第三個成長，必須從原型扮演書的基礎成長區域中選擇。
+
+**範例 2：** Natsumi 獲得了一個新的閃耀點數記錄在盟約扮演書上，現在她們共有 6 點。由於 Natsumi 和 Torome 有 4 個成長，她們還不能觸發「閃耀時刻！」動作，因為至少需要達到 6（2 + 4）。
+
+## 友情動作
+
+在角色創建過程中，每位玩家選擇一本友情扮演書（參見第 42 頁的「角色創建」）和一個從相關列表中選取的友情動作。隨著獲得新的閃耀點數和成長，可以獲得額外的友情動作。
+
+每個友情動作通常代表友情點數的替代用途，或是獲取友情點數的替代方式。這些動作代表魔法少女的光明如何利用或強化她的感情和羈絆，這是對抗黑暗最強大的武器之一。
+
+**範例 1：** Kiyomi 在角色創建時選擇了友情扮演書「心之所繫」，並選擇了動作「友情的力量」。在聚會結束時，她記得有一次她在場的「生活故事」動作，因此獲得一點友情點數。
+
+**範例 2：** Torome 的玩家 Rosalía 選擇了友情扮演書「家族」，以及動作「我會保護我的家人」。在一個場景中，Torome 必須保護她的姊姊 Nao。她查看了自己的羈絆，確認 Nao 有「姊妹/家族」的標籤，因此每次她執行旨在幫助 Nao 的動作時，擲骰都會 +1。
+
+## 戀愛動作
+
+隨著故事推進，從第二次聚會開始，一些玩家角色將可以使用戀愛扮演書。這些特殊的扮演書擁有自己的動作，並隨著戀愛量表的增長可以提供不同的優勢。
+
+在遊戲規則方面，戀愛量表的優勢和戀愛動作與其他動作的使用方式完全相同。
+
+要了解更多關於如何獲取戀愛扮演書和管理量表的資訊，請參閱「友情與戀愛」（第 71 頁）和「光明對抗黑暗」（第 136 頁）章節。
+
+**範例 1：** 在聚會結束時，Inoue 的玩家 Cristina 有一段「衝突」類型的戀愛關係。她目前的等級是 2，因此沒有任何優勢。在檢查是否觸發任何動作時，她注意到「這段關係……很複雜」這個動作會在聚會結束時觸發。不幸的是，她一直很忙，已經好幾天沒見到伴侶了，所以戀愛等級降低 1。
+
+Cristina 必須小心，否則她會接近決裂，而她已經有夠多麻煩了，不需要再多一個。
+
+**範例 2：** Natsumi 對 Torome 有一段「單相思」的戀情。她目前的戀愛等級是 2。在一次去京都的校外教學中，她與 Torome 共住一間房，並向她傾訴了對雙胞胎哥哥 Togami 的擔憂。
+
+在與 Natsumi 的玩家 Vicky 商量後，Marion 同意這是一個親密場景，因此觸發了動作「不設防的心」。在解決動作後，戀愛等級現在是 3，這將在 Natsumi 與 Torome 一起執行「生活故事」動作時給予她一個優勢。
+
+## 原型動作
+
+如同在「角色創建」章節（第 40 頁）所述，每本原型扮演書都有自己的動作，隨著獲得新的成長，可以選擇新的選項。在遊戲規則方面，玩家角色可以像使用基礎動作一樣使用原型動作，只要滿足其觸發條件即可。
+
+作為額外說明，玩家和主持人（MC）應該對虛構敘事達成共識，以確定是否所有或部分原型動作有所限制，只能在變身為魔法少女時使用。要判斷哪些動作屬於此類，我們建議運用常識，基於你們在世界觀設定過程中決定的參數（參見第 262 頁的「世界觀」）。
+
+## 盟約動作
+
+在角色創建過程中，你們為魔法少女選定了一個起源盟約，從本書提供的三種中選擇：光明子女、正義騎士和契約傀儡。每個盟約都有數個被稱為「盟約動作」的動作，其中一個在角色創建時獲得，另一個在玩家角色達到第七個成長點時獲得。與原型動作一樣，這些動作對每個玩家角色都可用（就像基礎動作一樣），並在滿足條件時觸發。
+
+要了解更多關於盟約扮演書的資訊，請參閱第 173 頁的「盟約」。
+
+**範例 1：** 在角色創建過程中，Rosalía 和 Vicky 與 Marion 討論後，決定使用「光明子女」盟約扮演書。在角色創建和世界觀設定的過程中，她們創建了同伴 Emoto Saki——「星之女王」。她們在創建時選擇的盟約動作是「青春的純潔」，這將加入她們的動作列表中。
+
+**範例 2：** 當 Mónica、Esther、Cristina、Vanesa 和 Ruth 聚在一起進行新的 Mahō Shōjo 戰役時，她們決定嘗試「契約傀儡」盟約扮演書。在世界觀設定過程中，她們設計了守護者——一個名為 Nekoyu 的存在，它賦予她們動作「守護者之力」。
+
+## 協力動作
+
+當選擇「正義騎士」盟約扮演書時，玩家角色可以使用協力動作。這些動作在兩個角色合作且滿足觸發條件時啟動。
+
+你可以在第 181 頁的「盟約」章節中了解更多關於協力動作的資訊。
+
+**範例：** 扮演魔法少女 Akiko 和 Ayame 的 Sofía 和 Abie 正在進行一場使用「正義騎士」盟約的 Mahō Shōjo 遊戲。她們正在對抗 Kazen——一個為不明化身竊取年輕女孩聲音的邪惡精靈。在衝突中，Akiko 站在 Kazen 面前：
+
+——我試著找到他用來儲存聲音的共鳴水晶。到目前為止，所有生物都帶著一個。
+
+——是的，你注意到共鳴水晶就藏在他的胸腔裡——主持人（MC）Ruth 回答。
+
+——好，我要試著分散他的注意力讓他把注意力放在我身上，這樣 Ayame 就能在不傷害他的情況下偷走水晶。
+
+Ruth 告訴她用思慮進行「克服危險」，因為她試圖設下詭計欺騙首領。
+
+——糟糕……總共只有 4。我怎麼了？——Sofía 問。
+
+——你看到他觸碰水晶，一個巨大的聲音開始迴盪，你覺得那甚至能震碎你的骨頭。你受到 8 點痛苦——Ruth 說。
+
+——等等——Abie 打斷——就在那一刻，我撲向她把她拉出共振場。
+
+——我想你在使用「我會永遠支持你」？好的，我認為這很合理，在盟約扮演書上標記它。接著你成功將朋友拉出了危險區域，但 Kazen 看著你們，再次將手伸向胸口。你們怎麼做？
+
+## 黑暗動作
+
+當選擇「契約傀儡」盟約扮演書時，玩家角色隨著獲得黑暗等級，會獲得黑暗動作。這些動作代表魔法少女如何學會運用在她心中萌芽的黑暗，方式類似於她使用光明的方式。
+
+黑暗動作與遊戲中其他動作沒有區別，在滿足觸發條件時套用。你可以在第 186 頁的「盟約」章節中了解更多關於黑暗動作的資訊。
+
+**範例 1：** Kiyomi、Akari、Yoriko 和 Inoue 去卡拉OK慶祝 Akari 考試得了全校第一。聊了一陣子後，Mónica 指示場景中最活躍的 Akari 執行「生活故事」動作。然而，在擲骰之前，Yoriko 的玩家 Ruth 打斷了。
+
+——到了這天結束時，你們不知道確切原因，但氣氛有些緊張。我獲得 1 點黑暗點數，你們都因為動作「有毒人格」各給我 1 點友情點數——她說。
+
+Esther、Cristina 和 Vanesa 各交出一點友情點數，然後進行擲骰。接著 Mónica 開始敘述。
+
+——雖然你們玩得很開心，但下午某個時刻有些事讓你們感到不舒服。不知怎的，Yoriko 的存在讓你們無法盡情享受。她做了什麼讓你們有這種感覺？

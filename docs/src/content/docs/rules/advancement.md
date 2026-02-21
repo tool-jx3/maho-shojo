@@ -1,221 +1,172 @@
 ---
 title: 成長與經驗
-description: Lux Est 點數與進階
+description: 閃耀點數與成長系統
 sidebar:
   order: 8
 ---
 
-Avance y experiencia
-Según progresen en sus aventuras, los PJ tendrán oportunidad de obtener Avan-
-ces gracias a su conexión con la Luz y el Pacto que las convierte en magical girls. 
-Mediante la experiencia obtendrán nuevas herramientas y recursos con los que 
-afrontar la Oscuridad.
-Puntos de Lux Est
-Para que los PJ puedan obtener Avances primero necesitan obtener suficientes 
-puntos de Lux est como para cumplir los requisitos y de esa manera poder desen-
-cadenar el Movimiento ¡Lux est!
-Los jugadores obtienen puntos de Lux est cada vez que cumplen una de las siguien-
-tes condiciones:
-	
-✽Termina la sesión.
-	
-✽Cada vez que se derrota a un siervo de la Oscuridad de categorías Campeón o Avatar.
-	
-✽Un PJ ha realizado el Movimiento de Poder del Corazón para activar su Finalem.
-	
-✽Algunos Movimientos de Pacto pueden alterar o dar otro tipo de opciones para 
-obtener puntos de Lux est.
-Anotad cada punto de Lux est obtenido en el espacio correspondiente del Libreto 
-de Pacto.
-Al final de cada sesión se deben comprobar cuantos puntos de Lux est tiene el Pacto. 
-Cuando estos sean iguales al número de PJ + el número de Avances que tenéis, todos 
-los PJ realizan el Movimiento ¡Lux est! (ver «Los Movimientos» en la página 108).
-Ejemplo 1: Inoue ha logrado usar su Finalem contra Glob el Asqueroso, al cual ha 
-destruido. Cristina coge el Libreto de Pacto y apunta 1 punto de Lux est por ejecutar 
-un Finalem y 1 punto adicional porque Glob el Asqueroso es un Campeón.
-Ejemplo 2: Al final de la sesión las jugadoras de Torome y Natsumi obtienen un 
-punto de Lux est. Al ver su Libreto de Pacto, comprueban que ya tienen 6 puntos, 
-pero como tienen cinco Avances aún no cumplen los requisitos para el Movimiento 
-¡Lux est! (2+5=7).
-Al final de la sesión todas las jugadoras comprueban el Libreto de Pacto para 
-saber si pueden usar el Movimiento ¡Lux est! Actualmente tienen 7 puntos de 
-Lux est. Como tienen dos Avances y son un grupo de cuatro PJ cumplen los re-
-quisitos (4+2=6). A continuación, todas seleccionan un Avance de su Libreto de 
-Arquetipo. Una vez obtenido no podrán obtener uno nuevo hasta que consigan 
-7 puntos de Lux est, pues ahora tienen 3 Avances (4+3=7).
-144
-Maho Shojo
+## 成長與經驗
 
-Resumen del uso de ¡Lux est!
-	
-✤Obtener puntos de Lux est si se ha cumplido alguna condición.
-	
-✤Comprobar si el número de puntos de Lux est es igual o superior a PJ+ el 
-número de Avances que hayan obtenido.
-	
-✤Si se cumple la condición anterior, usar el Movimiento ¡Lux est!
-	
-✤Si el PJ tiene menos de 6 Avances se obtiene un Avance menor.
-	
-✤Si tienes ya al menos 2 Avances seleccionados puedes escoger la forma Sú-
-per como Avance.
-	
-✤Si se tienen 6 o más Avances se obtiene un Avance mayor.
-	
-✤Si no tienes la forma Súper de tu Libreto puedes adquirirla.
-	
-✤Si tienes la forma Súper de tu Libreto puedes adquirir la forma Triunfante.
-Avances
-Una vez desencadenado el Movimiento de ¡Lux est! se comprueba qué tipo de 
-Avance se puede seleccionar entre los indicados en el Libreto de Arquetipo. Cuando 
-se ha escogido se marca la casilla y se aplican los efectos. Antes de seleccionar un 
-Avance hay unas pequeñas restricciones:
-	
-✽No se puede escoger un Avance que tenga todas las casillas marcadas.
-	
-✽No se puede escoger un Avance menor como si fuera un Avance mayor, y vi-
-ceversa.
-	
-✽Para seleccionar el Avance que permite obtener la forma Súper tienes que ha-
-ber escogido dos Avances antes, por lo que solo podrá escogerse a partir del 
-tercer Avance.
-	
-✽Si escoges la forma Triunfante y no tienes la forma Súper, marca esta última 
-en su lugar.
-	
-✽Si escoges la forma Triunfante y tienes la forma Súper marca la forma Triunfante.
-Una vez elegido, marca la casilla del Avance. Algunos Avances tienen varias casillas, si 
-es así puedes volver a escoger ese Avance, mientras disponga de casillas sin marcar.
-Para saber más sobre los Avances y sus efectos continua leyendo este capítulo.
-Ejemplo 1: Esther, la jugadora de Kiyomi, puede escoger un segundo Avance. Des-
-pués de pensarlo se decide por un nuevo Movimiento de Campeona. Tiene una ca-
-silla marcada de un Avance anterior, pero tiene dos casillas, por lo que puede repe-
-tirlo. Selecciona el Movimiento Corazón de Luz y marca la segunda casilla. Ya no 
-podrá volver a escogerlo.
-Ejemplo 2: Rosalía debe decidirse por un cuarto Avance para Torome. No tiene 
-ninguna duda y selecciona la forma Súper de su Lux Habitu. Marion indica que no 
-hay problemas, porque ya tiene al menos dos Avances previos.
-145
-•Corazón•
+隨著冒險的推進，玩家角色將有機會透過與光明的連結以及使她們化身為魔法少女的盟約來獲得成長。透過累積經驗，她們將獲得新的工具與資源來對抗黑暗。
 
-Ejemplo 3: Ha llegado el momento de escoger la séptima mejora para Inoue, que 
-ahora puede escoger un nuevo Avance. Tiene Combativa +2 así que decide el Avan-
-ce mayor «Mejorar una Característica (Máx. 3)», por lo que suma un +1. A partir de 
-ese momento tiene Combativa +3.
-Ejemplo 4: Vicky tiene algunas dudas para el sexto Avance de Natsumi. Quiere 
-poder escoger la forma Triunfante del Lux Habitu, pero no tiene la forma Súper 
-que necesita antes. Si bien debe escoger un Avance mayor, la forma Súper puede 
-ser escogida pese a ser menor, así que la escoge. Vicky ahora deberá esperar 
-a que el grupo logre 9 puntos de Lux est (2PJ+7=9) para lograr su forma Triun-
-fante.
-Tipos de Avance
-A continuación se explica de forma detallada cada uno de los Avances indicados 
-en los Libretos. Los Avances se dividen entre Avances menores y Avances mayores. 
-Cada vez que se escoge un Avance se marca una casilla. Si todas las casillas están 
-marcadas no puede seleccionarse.
-Avances menores
-Accedes a la forma Súper del Lux Habitu
-A partir del momento en el que se escoge este Avance, el PJ tiene acceso a la forma 
-Súper del Medidor de Poder. Si la forma Súper da acceso a un nuevo Poder del Co-
-razón, este debe ser diseñado conforme a las reglas explicadas en el capítulo «Luz 
-contra Oscuridad» en la página 133. Si el Poder Corazón está marcado con ( ), puede 
-elegirlo entre las categorías ataque (A), defensa (D) y apoyo (P).
-Si la forma Súper da acceso a poderes de tipo Ascensión, debe indicarse a qué Ca-
-racterística afecta.
-Este Avance no puede ser elegido si se tienen menos de dos Avances ya seleccionados.
-Este Avance es una excepción a las reglas y puede ser escogido como Avance mayor.
-Adquiere un Movimiento de Genio que no tengas
-Cuando una Consejera obtiene este Avance puede escoger el Movimiento de Genio 
-que no seleccionara durante la creación de personajes.
-Al escenario… Let’s go MAX+
-Cuando una Idol obtiene este Avance, al utilizar su Movimiento Al escenario… Let’s 
-go puede tener como máximo 3 puntos de Popularidad.
-Consigue 3 opciones adicionales de Elegida por los Guardianes
-Cuando una Campeona obtiene este Avance puede escoger las 3 opciones de Elegi-
-da por los Guardianes que no tenga seleccionadas de forma adicional.
-146
-Maho Shojo
+## 閃耀點數
 
-Consigue 3 opciones adicionales de Poder Sagrado
-Cuando una Sanadora obtiene este Avance puede escoger las 3 opciones de Poder 
-Sagrado que no tenga seleccionadas de forma adicional.
-Mejorar una Característica (Máx. 2)
-El jugador escoge una de las 5 Características de su Libreto y suma +1 de forma 
-permanente. Una Característica mejorada con este Avance nunca puede superar la 
-puntuación de +2.
-Movimiento de (Libreto)
-Este Avance permite seleccionar un Movimiento de Avance indicado en tu Libreto 
-de Arquetipo. Si un PJ vuelve a escoger este Avance más de una vez, no puede se-
-leccionar un Movimiento que ya haya elegido.
-Movimiento de tu Libreto de Amistad
-Este avance permite seleccionar un Movimiento de Amistad de tu Libreto de Amis-
-tad. Adicionalmente, genera un nuevo Lazo de Amistad o restaura uno con un PJ.
-Si un PJ vuelve a escoger este Avance más de una vez no puede seleccionar un Mo-
-vimiento que ya haya elegido.
-Obtienes un Movimiento de Escudo de Luz
-Cuando una Guardiana obtiene este Avance puede escoger el Movimiento de Escudo 
-de Luz que no seleccionara durante la creación de personajes.
-Obtiene un Movimiento de La senda de la guerrera
-Cuando una Guerrera obtiene este Avance puede escoger el Movimiento de La senda 
-de la guerrera que no seleccionara durante la creación de personajes.
-Avances mayores
-Accedes a la forma Triunfante del Lux Habitu
-A partir del momento en el que se escoge este Avance el PJ tiene acceso a la forma 
-Triunfante del Medidor de Poder. Si la forma Triunfante da acceso a un nuevo Poder 
-del Corazón este debe ser diseñado conforme a las reglas explicadas en el capítu-
-lo «Luz contra Oscuridad» (página 133). Si el Poder Corazón está marcado con (), 
-puede elegir la categoría que prefiera entre Ataque (A), Defensa (D) y Apoyo (P).
-Si la forma Triunfante da acceso a poderes de tipo Ascensión, debe indicarse a qué 
-Característica afecta.
-Este Avance no puede ser seleccionado si el PJ no ha elegido antes el Avance «Acce-
-des a la forma Súper del Lux Habitu».
-147
-•Corazón•
+玩家角色若想獲得成長，首先需要獲取足夠的閃耀點數，以滿足條件並觸發「閃耀時刻！」動作。
 
-Mejorar una Característica (Máx. 3)
-Cuando se escoge este Avance el jugador elige una de las 5 Características de su Li-
-breto y suma +1 de forma permanente. Una Característica mejorada con este Avan-
-ce nunca puede superar la puntuación de +3.
-Movimiento de (Libreto)
-Cuando se obtiene este Avance permite seleccionar un Movimiento de Avance indi-
-cado en tu Libreto de Arquetipo. Si un PJ vuelve a escoger este Avance más de una 
-vez, no puede elegir un Movimiento que ya haya seleccionado.
-Movimiento de tu Libreto de Amistad
-Cuando se obtiene este Avance permite seleccionar un Movimiento de Amistad de 
-tu Libreto de Amistad. Adicionalmente, genera un nuevo Lazo de Amistad o restau-
-ra uno con un PJ.
-Si un PJ vuelve a escoger este Avance más de una vez no puede volver a elegir un 
-Movimiento que ya haya seleccionado.
-148
+每當滿足以下任一條件時，玩家便可獲得閃耀點數：
 
-La mejora del Lux Habitu
-El Lux Habitu es algo importante y característico de las magical girls. Cuando 
-lo visten tienen acceso a las habilidades y poderes que les permiten afrontar 
-la Oscuridad, por lo tanto, va mejorando con el tiempo. En muchas series de 
-manga y anime nos encontramos con que cada vez que sus protagonistas me-
-joran u obtienen un nuevo poder, este traje cambia de aspecto. La aparición 
-de elementos como alas, cambios en el diseño del traje, lazos adicionales, ar-
-mas con una forma diferente, etc., suelen ir recargando y embelleciendo sus 
-transformaciones, a la vez que reflejan los temas y personalidades de sus po-
-seedoras.
-En Mahō Shōjo hemos querido representar esto con las formas del Lux Ha-
-bitu. Todos los PJ tienen acceso en algún momento a tres de ellas: Básica, 
-Súper y Triunfante, incluso algunos Pactos o Libretos podrían tener formas 
-adicionales.
-Las formas pueden ser adquiridas mediante Avances, pero es aconsejable que 
-tengan una repercusión en la Ficción. ¿El Pacto les da nuevos Talismanes? 
-¿Quizás el último enemigo les hizo darse cuenta de que tenían algún poder 
-oculto?
-Para saber qué tipo de cambios estéticos pueden tener, puedes basarte 
-en los nuevos poderes desbloqueados. ¿Obtienes Armadura? Quizás pa-
-ses a tener piezas de metal en el traje. ¿Mejora tu Castigo? Quizás ahora 
-la Guerrera sea capaz de invocar dos espadas a la vez. Deberías pensar si 
-las nuevas formas pueden suponer cambios adicionales en tu Talismán y 
-Poderes del Corazón.
-Intenta evitar, siempre que puedas, que un Avance sea meramente una esta-
-dística. Habla con el MC y llegad a algún acuerdo para que tenga su impacto 
-en la Ficción.
-Para saber más sobre cómo afectan las formas al juego consulta el capítulo 
-«Luz contra Oscuridad» en la página 119.
-149
-•Corazón•
+- 聚會結束時。
+- 每次擊敗首領或化身等級的黑暗使徒時。
+- 玩家角色使用心之力動作來發動終曲時。
+- 某些盟約動作可能會改變或提供其他獲得閃耀點數的方式。
+
+請在盟約扮演書的對應欄位中記錄每一點獲得的閃耀點數。
+
+在每次聚會結束時，需要確認盟約目前擁有多少閃耀點數。當閃耀點數等於「玩家角色人數 + 已獲得的成長次數」時，所有玩家角色執行「閃耀時刻！」動作（參見「動作」章節）。
+
+:::note[範例一]
+Inoue 成功對噁心怪 Glob 使用了終曲並將其消滅。Cristina 拿起盟約扮演書，記錄一點閃耀點數（因發動終曲），再加一點（因為噁心怪 Glob 是一名首領）。
+:::
+
+:::note[範例二]
+聚會結束時，Torome 和 Natsumi 的玩家各獲得一點閃耀點數。查看盟約扮演書後，她們發現已有 6 點，但由於已有五次成長，尚未達到「閃耀時刻！」動作的條件（2 + 5 = 7）。
+:::
+
+:::note[範例三]
+聚會結束時，所有玩家查看盟約扮演書，確認是否能使用「閃耀時刻！」動作。目前共有 7 點閃耀點數。由於已有兩次成長且隊伍有四名玩家角色，已滿足條件（4 + 2 = 6）。接著，所有人從各自的原型扮演書中選擇一項成長。獲得成長後，下次需要累積 7 點閃耀點數才能再次成長，因為現在已有三次成長（4 + 3 = 7）。
+:::
+
+### 閃耀時刻！使用摘要
+
+1. 若滿足任一條件，獲得閃耀點數。
+2. 確認閃耀點數是否等於或超過「玩家角色人數 + 已獲得的成長次數」。
+3. 若滿足上述條件，使用「閃耀時刻！」動作。
+4. 若玩家角色的成長次數少於六次，獲得一項基礎成長。
+5. 若已選擇至少兩項成長，可以選擇超級形態作為成長選項。
+6. 若成長次數達到六次或以上，獲得一項進階成長。
+7. 若尚未取得扮演書的超級形態，可以取得超級形態。
+8. 若已取得扮演書的超級形態，可以取得凱旋形態。
+
+## 成長
+
+一旦觸發「閃耀時刻！」動作，便需確認可從原型扮演書中選擇哪種類型的成長。選定後，勾選對應欄位並套用效果。選擇成長前有一些限制：
+
+- 不能選擇所有欄位都已勾選的成長。
+- 不能將基礎成長當作進階成長來選擇，反之亦然。
+- 要選擇取得超級形態的成長，必須先已選擇過兩項成長，因此最早可在第三次成長時選擇。
+- 若選擇凱旋形態但尚未擁有超級形態，則改為取得超級形態。
+- 若選擇凱旋形態且已擁有超級形態，則取得凱旋形態。
+
+選定後，勾選該成長的欄位。部分成長有多個欄位，若是如此，只要還有未勾選的欄位，便可再次選擇同一項成長。
+
+關於各項成長及其效果，請繼續閱讀本章節。
+
+:::note[範例一]
+Kiyomi 的玩家 Esther 可以選擇第二項成長。經過考慮後，她決定選擇一個新的勇者動作。之前的成長已勾選了一個欄位，但該成長共有兩個欄位，因此可以再次選擇。她選擇了「光之心」動作並勾選第二個欄位。之後便無法再次選擇這項成長了。
+:::
+
+:::note[範例二]
+Rosalía 需要為 Torome 決定第四項成長。她毫不猶豫地選擇了光之裝束的超級形態。主持人（MC）Marion 表示沒有問題，因為她已經有至少兩項先前的成長。
+:::
+
+:::note[範例三]
+輪到為 Inoue 選擇第七項提升了，現在她可以選擇一項新的成長。她的挑戰屬性為 +2，因此她決定選擇進階成長「提升一項屬性（最高 3）」，為其加 +1。從此之後她的挑戰屬性變為 +3。
+:::
+
+:::note[範例四]
+Vicky 對 Natsumi 的第六項成長有些猶豫。她想要選擇光之裝束的凱旋形態，但還沒有取得必須先擁有的超級形態。雖然她需要選擇一項進階成長，但超級形態作為例外可以在此時選擇，因此她選了超級形態。Vicky 現在需要等到隊伍累積 9 點閃耀點數（2 名玩家角色 + 7 = 9）才能取得凱旋形態。
+:::
+
+## 成長類型
+
+以下將詳細說明各扮演書中列出的每一項成長。成長分為基礎成長與進階成長。每次選擇一項成長時，勾選一個欄位。若所有欄位皆已勾選，則無法再選擇該項成長。
+
+### 基礎成長
+
+#### 取得光之裝束的超級形態
+
+選擇此成長後，玩家角色便可使用能力量表的超級形態。若超級形態提供新的心之力，則必須依照「光明與黑暗」章節中說明的規則來設計。若心之力標記有（），可從攻擊（A）、防禦（D）和支援（P）類別中選擇。
+
+若超級形態提供昇華類型的力量，必須指定影響哪項屬性。
+
+此成長在已選擇的成長未滿兩項時不可選擇。
+
+此成長為規則的例外，可以作為進階成長來選擇。
+
+#### 取得一個尚未擁有的參謀才能動作
+
+當參謀獲得此成長時，可以選擇在角色創建時未選取的參謀才能動作。
+
+#### 登上舞台……Let's go MAX+
+
+當偶像獲得此成長時，使用「登上舞台……Let's go」動作時，人氣值上限提升至 3 點。
+
+#### 額外獲得「守護者之選」的三個選項
+
+當勇者獲得此成長時，可以額外選擇尚未選取的「守護者之選」三個選項。
+
+#### 額外獲得「神聖力量」的三個選項
+
+當聖母獲得此成長時，可以額外選擇尚未選取的「神聖力量」三個選項。
+
+#### 提升一項屬性（最高 2）
+
+玩家從扮演書上的五項屬性中選擇一項，永久加 +1。透過此成長提升的屬性數值不得超過 +2。
+
+#### （原型）動作
+
+此成長允許選擇一個原型扮演書中標示的成長動作。若玩家角色多次選擇此成長，不可選擇已經選過的動作。
+
+#### 友情扮演書動作
+
+此成長允許選擇一個友情扮演書中的友情動作。此外，還可建立一條新的友情羈絆，或恢復一條與其他玩家角色之間的羈絆。
+
+若玩家角色多次選擇此成長，不可選擇已經選過的動作。
+
+#### 取得一個光之盾動作
+
+當衛士獲得此成長時，可以選擇在角色創建時未選取的光之盾動作。
+
+#### 取得一個戰士之道動作
+
+當鬥士獲得此成長時，可以選擇在角色創建時未選取的戰士之道動作。
+
+### 進階成長
+
+#### 取得光之裝束的凱旋形態
+
+選擇此成長後，玩家角色便可使用能力量表的凱旋形態。若凱旋形態提供新的心之力，則必須依照「光明與黑暗」章節中說明的規則來設計。若心之力標記有（），可從攻擊（A）、防禦（D）和支援（P）類別中選擇。
+
+若凱旋形態提供昇華類型的力量，必須指定影響哪項屬性。
+
+此成長在玩家角色尚未選擇「取得光之裝束的超級形態」成長時不可選擇。
+
+#### 提升一項屬性（最高 3）
+
+選擇此成長時，玩家從扮演書上的五項屬性中選擇一項，永久加 +1。透過此成長提升的屬性數值不得超過 +3。
+
+#### （原型）動作
+
+獲得此成長後，可選擇一個原型扮演書中標示的成長動作。若玩家角色多次選擇此成長，不可選擇已經選過的動作。
+
+#### 友情扮演書動作
+
+獲得此成長後，可選擇一個友情扮演書中的友情動作。此外，還可建立一條新的友情羈絆，或恢復一條與其他玩家角色之間的羈絆。
+
+若玩家角色多次選擇此成長，不可選擇已經選過的動作。
+
+---
+
+:::tip[光之裝束的提升]
+光之裝束是魔法少女的重要特色。穿上它後，魔法少女便能使用對抗黑暗的技能與力量，因此它會隨時間不斷進化。在許多漫畫和動畫作品中，每當主角們提升或獲得新力量時，這套服裝也會改變外觀。翅膀、服裝設計的變化、額外的緞帶、不同形態的武器等元素，都會使她們的變身不斷地華麗進化，同時反映出持有者的主題與個性。
+
+在 Mahō Shōjo 中，我們用光之裝束的形態來呈現這一點。所有玩家角色最終都能擁有三種形態：基礎形態、超級形態和凱旋形態，某些盟約或扮演書甚至可能提供額外的形態。
+
+這些形態可以透過成長來取得，但建議讓它們在虛構敘事中產生影響。是盟約賦予了她們新的護符嗎？還是最後一個敵人讓她們意識到自己擁有某種隱藏的力量？
+
+若想知道可能出現哪些外觀變化，可以參考新解鎖的力量。獲得了護甲？也許服裝上出現了金屬部件。懲罰值提升了？也許鬥士現在能同時召喚兩把劍。你應該思考新形態是否會為護符和心之力帶來額外的變化。
+
+盡量避免讓成長僅僅是數值上的提升。與主持人（MC）商議，讓每一次成長都在虛構敘事中產生影響。
+
+關於各形態如何影響遊戲，請參閱「光明與黑暗」章節。
+:::

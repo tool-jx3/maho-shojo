@@ -1,1215 +1,522 @@
 ---
 title: 世界觀
-description: 三大契約的世界設定
+description: 三大盟約的世界設定
 sidebar:
   order: 14
 ---
 
-Ambientación
-Mahō Shōjo esta pensado para que cada grupo pueda crear y vivir su propia his-
-toria de magical girls. Por este motivo no se ha creado una ambientación canónica 
-ni una metatrama como la que puedes encontrar en otros juegos. La intención 
-tras esta decisión de diseño es que cada grupo plantee su propia ambientación e 
-historias. Sin embargo, hay una serie de puntos comunes que existirán en todos 
-los mundos que creéis, algunos de los cuales han sido mencionados en capítulos 
-anteriores.
-Para ayudaros a crear estos mundos, pensamos que seguramente os vengan bien 
-unas pequeñas ayudas que os sirvan como cimientos sobre los que construir. Este 
-capítulo pretende ser eso: una chispa con la que encender vuestra imaginación para 
-centraros en crear vuestro propio universo de magical girls.
-Como podrás ver más adelante, hemos dividido las historias de magical girls en 
-tres estilos diferentes. Esta división es artificial y responde únicamente a una nece-
-sidad lúdica, sin pretender ser un ensayo real sobre el género, que ha derivado en 
-centenares de obras diferentes. Cada una de las secciones está relacionada con un 
-tipo de Pacto, el cual ayuda a enfatizar dentro de la Ficción los temas que trata de 
-representar (ver «El Pacto» en la página 173). Estas tres categorías son:
-	
-✽Hijas de la Luz.
-	
-✽Campeonas de la Justicia.
-	
-✽Marionetas de los Custodios.
-Cada una de ellas pretende crear un tono diferente, desde aventuras y universos 
-más inocentes que recuerdan a los orígenes del género hasta las versiones más os-
-curas que se han puesto de moda en nuestros días.
-Cada sección contiene una serie de ideas y preguntas que responder, de forma que 
-ayuden a crear una base. Estos cuestionarios no deben verse como algo inamovible, 
-sino que sintetizan elementos habituales dentro del género mahō shōjo para ese 
-tipo de historias. Si, como grupo, lo veis necesario, podéis mezclar los distintos 
-cuestionarios de las ambientaciones o, incluso, jugar una serie de Marionetas de los 
-Custodios con el pacto de Hijas de la Luz, lo que os permite disponer de ambienta-
-ciones y aventuras realmente únicas. No dudéis, además, regresar a cada uno de los 
-apartados anteriores si la trama se complica o exige un giro de guión.
-262
-Maho Shojo
+Mahō Shōjo 的設計理念是讓每個團隊都能創造並體驗屬於自己的魔法少女故事。正因如此，本遊戲沒有設定官方世界觀，也沒有像其他遊戲那樣的總體劇情線。這個設計決策背後的意圖是讓每個團隊建構自己的世界觀和故事。不過，無論你們創造什麼樣的世界，都會存在一些共通要素，其中一部分已在前面的章節中提到。
 
-Preguntas y respuestas 
-sobre la ambientación
-Durante la partida deberíais responder a una serie de preguntas sobre la ambien-
-tación. Algunas podéis plantearlas antes de empezar a jugar y consensuar una res-
-puesta que cree un marco en el que moveros luego. Otras podéis dejarlas abiertas 
-para que sean descubiertas durante la campaña. No todas tienen por qué tener una 
-única respuesta, la realidad puede ser mucho más compleja que eso. Incluso, en al-
-gunos casos, puede haber una respuesta inicial que luego se descubra falsa durante 
-la historia. A continuación te planteamos unas cuantas preguntas y posibles formas 
-de contestarlas.
-Cada una de las tres ambientaciones dispone de su propio cuestionario, el cual os 
-ayudará a centrar vuestras historias y crear los distintos Eclipses.
-Ambientación vs. términos de juego
-A lo largo de este libro, y en particular en este capítulo, se han hablado de mu-
-chos términos de ambientación que tienen una correspondencia en el mundo 
-de juego. En este cuadro dispones de una pequeña guía rápida sobre el signi-
-ficado de dichos términos, divididos en las tres categorías.
-Hijas de la Luz
-Acompañante: Es el ser con el que las magical girls realizan el Pacto y quien 
-les concede sus Talismanes.
-La Sombra: Nombre que recibe la Oscuridad.
-Los Manchados: Nombre que reciben los servidores de la Oscuridad.
-Mundo Mágico: Es el mundo donde habitan la Luz y la Oscuridad, ajeno a la 
-Tierra y los humanos.
-Mundo Real: Lugar donde habitan los humanos sin magia, también conocido 
-como mundo mundano.
-Campeonas de la Justicia
-Conflicto: El enfrentamiento entre la Luz y la Oscuridad.
-Enviado: Criatura que sirve a un poderoso ser de la Luz que trata de impedir 
-la victoria de la Oscuridad.
-La Luz: La fuente de poder de las magical girls y origen de las cosas buenas 
-del mundo.
-Los Mundos de la Oscuridad: Distintos mundos donde la Oscuridad gobierna.
-Los Agentes de la Oscuridad: Equivalente a los servidores de la Oscuridad.
-263
-•Oscuridad•
+為了協助你們打造這些世界，我們認為提供一些小小的引導作為建構基礎應該會很有幫助。本章的目的正是如此：成為點燃你們想像力的火花，讓你們專注於創造屬於自己的魔法少女宇宙。
 
-Marionetas de los Custodios
-Abismo: Lugar donde están encerrados o habitan los servidores de la Oscuridad.
-Custodios: Criaturas que se oponen a los Fugados utilizando a las magical girls.
-El Reino: Lugar donde residen la Luz y sus seguidores.
-Fugados: Servidores de la Oscuridad que han huido a la Tierra o han obtenido 
-poderes del Abismo.
-Tratado: El motivo por el que el Reino y el Abismo no pueden enfrentarse 
-directamente.
-Hijas de la Luz
-Si estáis buscando aventuras con temas más tradicionales, el marco de ambien-
-tación de «Hijas de la Luz» seguramente sea el más adecuado. Este tipo de histo-
-rias se acercan más a los conceptos originales del género (con varias concesiones). 
-Normalmente la Oscuridad presenta una amenaza menos directa y heroica que en 
-«Campeonas de la Justicia» y muy alejada de los temas más oscuros y terroríficos 
-de «Marionetas de los Custodios».
-Elige este tipo de ambientación si:
-	
-✽Buscáis una diferencia entre el mundo mágico y el mundo real.
-	
-✽Queréis explorar el conflicto entre ambas vidas.
-	
-✽Deseáis que el conflicto contra la Oscuridad no sea especialmente importante.
-La Sombra y los Manchados
-Puede ocurrir que en una zona despierte algo conocido como la Sombra, una se-
-rie de sentimientos, emociones y cambios, que atrae a la Oscuridad. Este tipo de 
-sentimientos están presentes en todas las personas y terminan cobrando forma 
-cuando alguien cede de manera incontrolada y se rinde a ellos. Un ejemplo de esto 
-podría ser una persona avariciosa, que si no trata de ponerle remedio finalmente 
-terminará aceptando esa Oscuridad en ella para convertirse en un Manchado, 
-un ser que ya tiene poco de humano. En ocasiones, la Oscuridad podría estar 
-presente en un lugar físico, pero no suele ser habitual que tenga un control omni-
-presente o tenga mundos bajo su control. Su presencia es más sutil, acercándose 
-a aquellos que buscan una solución rápida a sus problemas o niegan la naturaleza 
-de sus defectos.
-La presencia física de la Sombra puede darse en un lugar que haya sido conta-
-minado de alguna forma, como un río al que se vierten productos tóxicos o un 
-bosque donde han ocurrido múltiples tragedias. También podría ser algún tipo de 
-criatura que persuade y engaña a los hombres para rendirse a sus más terribles 
-264
-Maho Shojo
+如你在後文中所見，我們將魔法少女的故事分為三種不同的風格。這種分類是人為的，純粹出於遊戲需要，並非要對這個涵蓋了數百部作品的類型進行學術分析。每個分類都與一種盟約類型相關聯，盟約能在虛構敘事中強化該類故事所要呈現的主題（參見「盟約」一節）。這三個類別分別是：
 
-deseos en lugar de buscar soluciones y tratar de ser alguien mejor. En algunas 
-ambientaciones podría no ser nada más que eso que todos tenemos dentro, que 
-si nos rendimos a ello estaremos dando vía libre para hacernos daño a nosotros 
-mismos y a los que están cerca. Otro motivo podría ser que simplemente el mun-
-do real y el mágico son incompatibles y, cuando uno tiene contacto con el otro, 
-se corrompen creando Manchados. Quizás la solución sea más directa y menos 
-humana: criaturas del mundo mágico que, al llegar a nuestro mundo (o puede que 
-en el mismo mundo mágico), creen problemas, ya sean intencionados o pensando 
-que estaban haciendo una broma inocente. Una opción que también es habitual 
-en el género es que exista algún tipo de escuela donde sus estudiantes se convier-
-ten en Manchados o Acompañantes que, al igual que la Luz crea magical girls, 
-ellos crean a sus rivales.
-Pero ¿qué son los Manchados? Son el resultado de una victoria de la Sombra, cuan-
-do se crea una entidad que solo una magical girl puede detener. Para ello, deberá 
-usar sus poderes para acabar con ella o recuperar esa parte de ellos que les permite 
-vencer por sí mismos a la Sombra. De esta forma, los Manchados quizás sean cria-
-turas mágicas que hacen las cosas de forma inconsciente o que han sido engaña-
-das. Un clásico de estas historias es que sean deseos o emociones que han tomado 
-forma usando una imagen u objeto que simbolice su origen o, por otro lado, sim-
-ples humanos que han obtenido algún tipo de poder o habilidad al haberse dejado 
-arrastrar por sus deseos y emociones. También podrían ser constructos, criaturas o 
-entidades artificiales creadas para cumplir los planes de la Sombra. Finalmente, los 
-Manchados podrían ser magical girls rivales que no han cedido a la Sombra pero 
-que se oponen a las protagonistas, incluso si su objetivo es el mismo, por tener una 
-forma diferente de hacer las cosas.
-265
-•Oscuridad•
+- 光明子女
+- 正義騎士
+- 契約傀儡
 
-El mundo mágico y el mundo real
-El mundo real y el mundo mágico son iguales y opuestos a la vez, solo separados 
-por un fino velo que les impide verse pero a través del cual uno influye en el otro. El 
-mundo mágico dispone de su propia naturaleza y maneras de acceder a él. Sin em-
-bargo, existe una clara separación y las magical girls son uno de sus pocos puentes.
-El mundo mágico podría ser una tierra primigenia donde las cosas se desarrollaron 
-de otra forma distinta y se creó un mundo de fantasía. Otra situación es que, en lugar 
-de ello, fuera directamente un mundo fantástico que surgiera o se inspirara en los 
-mitos y folklore del mundo real. Podría ser un mundo que, según avanzó la historia 
-y los humanos dejaron la magia en favor de la ciencia, buscó refugio al sentir que la 
-realidad ya no tenía hueco para lo sobrenatural. También es posible que esa dimen-
-sión sea algo creado por viejos hechiceros, dioses u otro ser para enseñar la magia a 
-los humanos o como un recuerdo de algo que pudo ser, es o será. En otras ocasiones, 
-podría ser el resultado de un mundo imposible en el que las leyes del mundo real no 
-se aplican y donde los deseos y la imaginación han cobrado vida; por el contrario, 
-podría ser un lugar superpuesto donde la gente es capaz de sintonizar con la magia y 
-existe una academia de magia o un bosque encantado. Finalmente, aunque quizás no 
-sea del todo adecuado, podría ser que el mundo mágico fuera una creación artificial, 
-como un videojuego, serie o novela, si bien es algo más propio del género isekai que 
-del mahō shōjo, no debería descartarse si encaja bien en vuestra visión.
-Una vez aclarada la naturaleza y el posible origen del mundo mágico, queda la pre-
-gunta «¿cómo puedes entrar en él?». Lo habitual es que el mundo mágico y el mun-
-do real estén separados pero no de manera rígida; existen distintos caminos o rutas 
-que permiten a personas especiales, como las magical girls, cruzar de un lado a 
-otro. Estas puertas habitualmente son desconocidas para aquellos que viven en el 
-mundo real, pero esta limitación no parece existir en el reino mágico, cuyo motivo 
-para no usarlas es más bien una falta de capacidad o interés en ellas.
-Puede haber muchos requisitos para cruzar del mundo real al mundo mágico: en al-
-gunos solo haría falta estar en sintonía y cualquiera que creyese en él podría acceder, 
-una capacidad que, a medida que la vida avanza y la sociedad nos devora, se va per-
-diendo. Otras veces, los humanos tendrían la capacidad de entrar, pero solo mientras 
-estén dormidos, olvidando muchas veces lo que han visto al despertar. Puedes decidir 
-que exista alguna especie de llave o palabra que permita entrar a él desde cualquier 
-puerta de nuestro mundo o, como alternativa, habría ciertos objetos, como armarios, 
-espejos, un libro o la zona bajo la cama, que permitirían cruzar si se cumplen los 
-requisitos adecuados. En algunas historias haría falta algún tipo de hechizo o compo-
-nente para crear un portal y pasar al otro lado. Por último, podría ser que las únicas 
-con la capacidad para moverse entre mundos fueran las magical girls.
-La siguiente pregunta sería qué ocurre al otro lado: ¿Por qué los habitantes del 
-mundo mágico no pueden cruzar al nuestro? La respuesta podría ser un simple 
-266
-Maho Shojo
+每個類別都旨在營造不同的基調，從令人想起這個類型起源的純真冒險和世界觀，到近年來風行一時的黑暗版本。
 
-«no pueden», pero seguramente sea más interesante y adecuado encontrar algún 
-otro tipo de motivo. Uno habitual es que no tienen interés, el mundo mágico es su-
-ficientemente interesante para sus habitantes y el mundo real no despierta nada en 
-ellos. Otra opción es que piensen que el otro lado es un infierno o algo peor que les 
-está acechando desde allí. Es posible que no puedan ver o traspasar los lugares de 
-paso por una promesa o acuerdo. ¿Podría el creador de los portales haber puesto 
-una contingencia? ¿Puede ser que atravesarlos les haga perder su naturaleza má-
-gica y no quieran hacer ese sacrificio? Un elemento interesante a explorar sería la 
-posibilidad de que una vez allí su naturaleza se oculte o que prefieran mantener en 
-secreto su origen.
-Todos estos motivos podrían no afectar a los Manchados o ser la causa de su vín-
-culo con la Sombra.
-Los Acompañantes y los poderes
-En este tipo de historias las criaturas conocidas como Acompañantes son fundamenta-
-les para las magical girls, convirtiéndose en muchas ocasiones en una parte indispen-
-sable del Talismán que les permite transformarse. Son estos seres los que buscan a la 
-futura magical girl para someterla a algún tipo de prueba o desafío con el fin de confir-
-mar que tiene las características necesarias antes de liberar o concederle sus poderes.
-Los Acompañantes son la representación del poder concedido a la magical girl y 
-para poder acceder a él es indispensable su favor y presencia. Por norma general, 
-esta entidad suele ser un sirviente o mensajero de algo presente en el mundo má-
-gico. Podría ser un habitante del mundo mágico que se siente conectado, atraído o 
-emparentado con la magical girl y está dispuesto a ayudarla o solicitar su ayuda. En 
-otras ocasiones será la propia magical girl, o al menos una parte de ella, que nació 
-en el mundo mágico y que ahora, por fin, ha logrado unirse a su otra mitad. En otro 
-tipo de historias, sería un mentor o guía para enseñarles los misterios de las magi-
-cal girls o el mundo mágico para convertirla en una en el futuro. Otra variante de 
-esta última sería que no estuviera para enseñarle o mostrarle el mundo mágico, sino 
-para asegurarse de que no sufre daño hasta que termine su madurez o aprendiza-
-je. Una idea, aunque pueda parecer abstracta, es que el Acompañante represente 
-algo que a la magical girl le falta por aceptar y está ahí para recordarle aquello que 
-deberá admitir algún día.
-Para poder despertar o concederle los poderes a las distintas chicas mágicas y crear 
-el Talismán que les permite manifestarse, el Acompañante las somete a algún tipo 
-de prueba para saber si son las chicas adecuadas. Este tipo de pruebas pueden ser 
-complejas e incluso realizarse sin que la participante sea consciente de las mismas. En 
-ellas puede demostrar algún tipo de virtud desinteresada, como curar a un animal he-
-rido o darle de comer a alguien necesitado, descubriendo después que aquel al que ha 
-ayudado era realmente el Acompañante disfrazado. En la misma línea, podría ponerle 
-267
-•Oscuridad•
+每個分類都包含一系列創意點子和需要回答的問題，幫助你們建立基礎。這些問卷不應被視為不可變動的東西，它們只是將該類故事中常見的魔法少女類型元素加以歸納。如果團隊覺得有必要，你們可以混合不同世界觀的問卷，甚至可以用光明子女的盟約來玩一場契約傀儡風格的遊戲，這能讓你們創造出真正獨特的世界觀和冒險。此外，當劇情變得複雜或需要轉折時，也請毫不猶豫地回頭參考前面各節的內容。
 
-una prueba donde supere algún miedo, como salvar a alguien de un lugar oscuro o 
-proteger a alguien de algo a lo que le tiene especial terror. La prueba no tiene por qué 
-ser hacer algo, también puede ser algo físico, como, por ejemplo, tener una marca 
-de nacimiento, pertenecer a una familia concreta o haber nacido una noche de luna 
-llena. Algunos Acompañantes buscan conceder los poderes a personas que ya son 
-afines a ellos o hacerlos despertar; chicas con el don de la clarividencia, que hayan vi-
-sitado el mundo mágico o que puedan ver elementos de este suelen ser seleccionadas 
-por estas entidades. Otra posibilidad es que el propio acompañante nazca del fuerte 
-deseo de una persona que siente que no encaja. En ocasiones esta creencia proviene 
-del convencimiento de que no está donde realmente pertenece, como que sus padres 
-no son sus padres y estos son criaturas mágicas que la abandonaron o la dieron para 
-ser criada como alguien mundano. Finalmente, esta creencia puede ser verdad y que 
-la futura magical girl sea hija de habitantes del mundo mágico que, por algún motivo, 
-está viviendo, o tiene que vivir, en el mundo real.
-También se debería contestar a la pregunta: ¿Por qué parece que solo las chicas pa-
-recen despertar o tener poderes? En realidad, esta pregunta deberías responderla 
-con la ayuda del cuadro de la página 28, pero vamos a suponer que escogéis la forma 
-tradicional de este tipo de series. Podría ser que la magia solo se herede de madres 
-a hijas o que solo ellas tengan un corazón apto para la magia. Puede ser que el rei-
-no mágico solo acepte chicas, y por eso una academia de magical girls solo acepte 
-instruirlas a ellas o que las puertas solo sintonicen con la parte femenina del alma 
-humana. Otra opción es que no sean solo las chicas las que puedan ser despertadas, 
-sino que los chicos tengan sus propios Acompañantes o que al despertar o recibir sus 
-poderes tengan una naturaleza diferente, como convertirse en caballeros, magos o 
-monstruos. Quizás la cosa sea tan simple como que viejas leyes y costumbres dicten 
-que solo las chicas puedan ser magical girls y los chicos sean forajidos o deban bus-
-car otras formas de despertar su Luz y usar su magia. Esta última opción se puede 
-complementar con que no exista restricción, aunque esta última sería adecuada si las 
-magical girls y los magical boys no tienen ninguna diferencia entre ellos.
-La doble vida
-En las historias sobre Hijas de la Luz la conversión a magical girl suele venir con un 
-importante defecto: la necesidad de ocultar su doble vida por la existencia de una 
-consecuencia. Esta se manifiesta cuando alguien descubre a la magical girl o ella 
-desvela su naturaleza, trayendo consigo algún tipo de castigo, sufrimiento o proble-
-ma, lo que hace que deba ser mantenido en secreto, salvo con otros seres mágicos.
-Esta maldición da como resultado que a la magical girl le sea especialmente compli-
-cado mantener su doble identidad, lo que la lleva a tomar decisiones muy difíciles. 
-El motivo de esta restricción es que su aprendizaje suele ser también paralelo a su 
-madurez y hasta que no esté preparada para unir las dos partes de su vida, ser descu-
-bierta trae consigo una consecuencia grave. Si esto puede provocar algún problema, 
-268
-Maho Shojo
+## 世界觀的問答
 
-por su doble connotación, podéis ignorarlo, pero sería también renunciar a un ele-
-mento clásico del género.
-El castigo o consecuencias tradicionales por romper el tabú de no hablar de su 
-naturaleza mágica pueden presentarse de diferentes maneras. Una de las posibles 
-consecuencias es que la persona que las descubra simplemente se olvide de haberlo 
-hecho, e incluso de todos los recuerdos sobre la magical girl. Ten en cuenta que, 
-aunque esto puede parecer una ventaja, no podrías contarle a nadie tus problemas, 
-porque no recordarían que se los has contado. Una opción bastante grave es que la 
-magical girl pierda sus poderes o sufra alguna amonestación que le impida usarlos 
-durante un tiempo como lección. Podría pasar que la magical girl fuera expulsada 
-del mundo real por no ser aceptada o del mundo mágico por revelar sus secretos, 
-lo que es una buena opción a explorar porque permitiría a la magical girl reparar 
-el daño y lograr levantar su castigo. Aunque quizás es un poco cruel, en casi todas 
-las historias con este tipo de ambientaciones el castigado es el Acompañante de la 
-magical girl, ya sea temporal o tener que dejarla para siempre. El concepto de que 
-el mundo mágico se aleje permite una gran cantidad de ideas a largo plazo, a medi-
-da que los puntos para acceder entre los dos mundos puedan desaparecer o zonas 
-enteras del mundo mágico volverse completamente inaccesibles. Por último, puedes 
-optar por una variante más directa, donde enormes cataclismos ocurran cuando su 
-identidad es descubierta. No debes pensar que estos cataclismos son solo cosas 
-físicas como, por ejemplo, que un superterremoto asole el mundo mágico o que 
-la Sombra de pronto tome algún lugar nuevo; los cataclismos pueden ser también 
-sentimentales, como que alguien odie a la magical girl o que, de repente, uno de sus 
-padres desaparezca, algo que podría ser para siempre o hasta que rectifique.
-Cuestionario Hijas de la Luz
-¿Qué es la Sombra?
-	
-✽Un lugar contaminado por las acciones o emociones humanas.
-	
-✽Una entidad mágica que engaña a los hombres.
-	
-✽Eso que todos tenemos y que desata lo peor de nosotros si nos rendimos.
-	
-✽La incompatibilidad del mundo real con el mundo mágico.
-	
-✽Traviesas criaturas que actúan en el mundo real.
-	
-✽Una escuela o Acompañantes que crean nuevos Manchados.
-¿Qué son los Manchados?
-	
-✽Una raza mágica que desconoce las consecuencias o ha sido engañada.
-	
-✽Deseos y emociones que han tomado forma.
-	
-✽Humanos que han cedido a la Sombra.
-	
-✽Constructos.
-	
-✽Magical girls rivales.
-269
-•Oscuridad•
+在遊戲過程中，你們應該回答一系列關於世界觀的問題。有些問題可以在開始遊戲前就提出來，共同商定一個答案作為之後行動的框架。另一些問題則可以留著，在戰役進行中逐步揭曉。並非所有問題都只有唯一的答案，現實可能比那複雜得多。甚至在某些情況下，可能會有一個初始答案，之後在故事中被發現是錯的。以下我們提出一些問題和可能的回答方式。
 
-¿Por qué nadie es consciente de los Manchados?
-	
-✽Las personas los olvidan después de que se vayan.
-	
-✽Sus actos solo afectan al mundo mágico.
-	
-✽Las personas no mágicas racionalizan sus actos.
-	
-✽Sí lo hacen, pero algo les impide actuar directamente.
-	
-✽Sí lo hacen, pero nadie habla de ello.
-¿Qué buscan hacer los Manchados?
-	
-✽Saciar sus deseos.
-	
-✽Divertirse y causar caos y confusión.
-	
-✽Vivir en el mundo humano.
-	
-✽Recuperar algo perdido.
-	
-✽Acabar con el mundo mágico.
-	
-✽Acabar con el mundo real.
-	
-✽Oponerse a las magical girls.
-¿Qué es el mundo mágico?
-	
-✽Una Tierra primigenia.
-	
-✽Un paraíso surgido de los mitos humanos.
-	
-✽El lugar donde se resguardó lo sobrenatural según avanzó la historia.
-	
-✽Una dimensión creada para enseñar otra realidad.
-	
-✽Una visión distorsionada de la Tierra donde lo imposible es posible.
-	
-✽Una realidad superpuesta.
-	
-✽Un mundo virtual creado por humanos.
-¿Cómo se puede acceder desde el mundo real  
-al mundo mágico?
-	
-✽Cualquiera que esté en sintonía con el otro lado.
-	
-✽Durante el sueño.
-	
-✽A través de puertas, con la palabra o la llave adecuada.
-	
-✽A través de objetos corrientes que estén sintonizados.
-	
-✽Conjurando un portal.
-	
-✽Solo las magical girls pueden.
-¿Por qué los habitantes del mundo mágico  
-no van al mundo real?
-	
-✽No pueden.
-	
-✽No tienen interés en él.
-270
-Maho Shojo
+三種世界觀各自都有自己的問卷，幫助你們聚焦故事方向並創造各個蝕。
 
-✽Tienen miedo.
-	
-✽Una promesa o pacto antiguo.
-	
-✽No hay ningún problema, pero tratan de mantener su naturaleza oculta.
-¿Qué es un Acompañante?
-	
-✽Un habitante del mundo mágico conectado a las magical girls.
-	
-✽Una parte de la magical girl nacida en el mundo mágico.
-	
-✽Un mentor dispuesto a enseñarle los secretos de las magical girls.
-	
-✽Un protector encargado de proteger a las magical girls hasta que maduren.
-	
-✽Una representación del yo mágico aún no aceptado por las magical girls.
-¿En qué consiste la prueba?
-	
-✽Tener algún tipo de virtud desinteresada.
-	
-✽Sobreponerse a algún defecto.
-	
-✽Tener algún elemento físico.
-	
-✽Demostrar tener un don para lo mágico.
-	
-✽Desearlo con todo el corazón.
-	
-✽No pertenecer a este mundo.
-¿Por qué solo las chicas adolescentes pueden realizar 
-la prueba?
-	
-✽Solo las chicas disponen de magia en su interior.
-	
-✽El reino mágico solo acepta chicas.
-	
-✽Solo las chicas son magical girls, los chicos son otra cosa.
-	
-✽Viejas leyes y costumbres.
-	
-✽No existe esa restricción.
-¿Por qué no se debe saber la verdad?
-	
-✽La persona que descubre el secreto se olvida de ella.
-	
-✽Puede perder para siempre o temporalmente la capacidad para convertirse en 
-magical girl.
-	
-✽Puede ser desterrada para siempre del mundo real.
-	
-✽Puede ser desterrada para siempre del mundo mágico.
-	
-✽Puede perder a su Acompañante.
-	
-✽El mundo mágico puede alejarse un poco del real.
-	
-✽Puede ocurrir un cataclismo.
-271
-•Oscuridad•
+:::note[世界觀 vs. 遊戲術語]
+在本書中——特別是在本章中——提到了許多世界觀術語，它們與遊戲機制中的用語有對應關係。以下是這些術語的快速參考指南，按三個類別劃分。
 
-Campeonas de la Justicia
-Cuando uno piensa en las series sobre magical girls seguramente le vengan a la 
-mente chicas que se transforman con vestidos y son ayudadas por una criatura 
-mágica para luchar contra criaturas oscuras, a las que derrotan con un golpe final. 
-Esta visión del género quizás no sea completa, pero sí que se ha convertido en una 
-tan icónica que es muy difícil de separar por el impacto que representó a finales del 
-siglo pasado.
-Elige este tipo de ambientación si:
-	
-✽Buscáis luchar contra la Oscuridad en el nombre de la Justicia.
-	
-✽Queréis compaginar y vivir vuestra vida tanto mundana como mágica.
-	
-✽Deseáis enfrentaros a la Oscuridad para averiguar sus verdaderas intenciones.
-Los Mundos de la Oscuridad y la Oscuridad
-En algún sitio cerca de la Tierra existen una serie de lugares conocidos como los Mun-
-dos de la Oscuridad, lugares que han sido privados de la Luz. En ellos ya no existen 
-cosas como la esperanza, el amor o la justicia, pues fueron consumidos por los deseos y 
-el egoísmo de la Oscuridad. Es por ese motivo por el que carecen de vida, o la que existe 
-no tiene ninguna empatía con los habitantes de la Tierra. Si un humano llegara alguna 
-vez a pisar estos mundos, los encontraría fríos y sombríos. Aunque no lo parecieran, se 
-sentirían como tales en su interior. Algunos Mundos de la Oscuridad pueden parecer 
-paraísos, pero dentro esconden solo sufrimiento, mientras que otros son páramos de-
-solados que acaban con la esperanza solo con verlos.
-Estos mundos están habitados y gobernados por la Oscuridad, la cual puede tomar 
-forma de criaturas de pesadilla o seres similares a los humanos pero que carecen 
-de ningún tipo de bondad o empatía. El propósito de estas entidades es llegar a la 
-Tierra para cumplir algún objetivo con el que extender sus Mundos.
-Estos seres suelen mantenerse ocultos de los humanos mortales, buscando la forma 
-de influir o consumir a la humanidad. Es en ese momento en el que llaman la atención 
-de la Luz que, rápidamente, despertará a nuevas guerreras para luchar contra ellos.
-Para llevar a cabo sus planes, la Oscuridad suele servirse de sus propios Agentes, 
-seres que han decidido hacer un pacto a cambio de promesas de poder. Es poco 
-habitual que el auténtico Agente de la Oscuridad se muestre en los inicios, por lo que 
-en su lugar suele reunir a varios Agentes poderosos que le han jurado algún tipo de 
-lealtad o servicio a cambio de cumplir alguna promesa, o quizás fueron engañados. 
-Estos Agentes menores suelen tener que cumplir el trabajo sucio, enfrentándose con-
-tra las magical girls con sus pequeños seguidores o criaturas para cumplir sus planes. 
-Con el tiempo, las elegidas de la Luz terminarán descubriendo las auténticas inten-
-ciones y orígenes de los Agentes y tratarán de evitar que la Oscuridad se manifieste 
-en la Tierra.
-272
-Maho Shojo
+**光明子女**
 
-El origen y naturaleza de los Mundos de la Oscuridad pueden ser múltiples y va-
-riados. Por una parte, podrían ser dimensiones alternativas de la Tierra que fue-
-ron consumidas porque sus magical girls no triunfaron o jamás llegaron a existir. 
-Podría ser una Tierra en el pasado distante, antes de que unas magical girls origi-
-nales lograran derrotar a la Oscuridad y sembrar la Luz, pero que ha escapado a 
-nuestro presente. O, por el contrario, podría ser un futuro donde triunfó y ahora 
-busca conquistar el pasado. También podría ser un reino mágico que, cercano a la 
-Tierra, ha inspirado alguna de nuestras mitologías. Por otro lado, quizás la Oscuri-
-dad sea algo tangible en algún lugar del universo en continua expansión y nuestro 
-planeta azul sea el siguiente de la lista. Alternativamente, en lugar de una ame-
-naza al otro lado del universo podría estar originada en algún lugar de la Tierra, 
-como una fuerza primigenia que se ha despertado para reclamarla. Finalmente, su 
-naturaleza podría ser más abstracta, habitando en el corazón de algunas personas 
-que, por algún motivo, son consumidas por ella para sembrar el caos y lograr sus 
-objetivos egoístas.
-Si estos son sus Mundos, ¿qué son los Agentes? La naturaleza de estos puede ser 
-tan diversa como sus orígenes. Podrían ser los últimos miembros de su raza, seres 
-que han tratado con la Oscuridad para no extinguirse y recuperar su vieja gloria o 
-vengarse. También podrían ser humanos que han cedido a la Oscuridad para llevar 
-a cabo sus egoístas y retorcidos sueños o, en vez de eso, ser la forma corpórea de 
-deseos humanos reprimidos dispuestos a saciarse cumpliendo aquello que no po-
-dían llevar a cabo antes de manifestarse. Los seguidores de la Oscuridad podrían 
-ser criaturas que esta misma engendra o que la han servido desde sus orígenes, 
-tomando formas de pesadilla para los humanos. Una posibilidad que no se puede 
-dejar escapar es que fueran seres que, en algún momento, dieran pie a los mitos y 
-leyendas de los humanos, si bien el parecido podría ser tanto completo como par-
-cial. Para terminar, una opción que desde luego haría pensar a las heroínas de la 
-Luz sería que fueran sus equivalentes de algún lugar donde cayeron en la Oscuridad 
-o, peor, que decidieron cambiar de bando, siendo la historia de estas magical girls 
-oscuras un espejo donde podrían reflejarse sus miedos y dudas.
-La Luz y el conflicto
-La Oscuridad es aquello que los humanos temen y desean de forma egoísta, como 
-los celos, obsesiones, miedos, desesperación, frustraciones, etc. La Luz es lo con-
-trario: es la esperanza, la alegría, la amistad, la fuerza de alejar las nubes negras 
-en el peor momento y seguir adelante. La naturaleza de ambas es simple y a la vez 
-compleja, pues una no puede existir sin la otra. La Oscuridad nace cuando se pierde 
-la Luz de vista y no se supera; si fuera una herida sería cuando, en vez de sanar, se 
-infecta. Pero, igual que la Oscuridad es un problema por la falta de Luz, esta puede 
-caer en la misma por su exceso. Por ejemplo, cuando la justicia pierde de vista a la 
-gente puede corromperse, el exceso de amor puede degenerar en unos celos u odio, 
-273
-•Oscuridad•
+- **同伴：** 與魔法少女締結盟約、賦予她們護符的存在。
+- **陰影：** 黑暗的別稱。
+- **染污者：** 黑暗使徒的別稱。
+- **魔法世界：** 光明與黑暗居住的世界，與地球和人類無關。
+- **現實世界：** 沒有魔法的人類居住之處，又稱為世俗世界。
 
-la esperanza puede hacer caer en la apatía, esperando que las cosas se solucionen 
-por sí mismas, y la alegría el guardarse las lágrimas tan dentro que nazca algo peor 
-que cualquier monstruo. Cuando esto sucede, la Luz puede ser confundida con la 
-Oscuridad. Cada una busca a sus sirvientes y espera algún día ser omnipresente.
-De la misma forma que la Oscuridad busca Agentes a través de los cuales actuar 
-con su aparición, la Luz busca a una serie de chicas que la alberguen en su interior, 
-concediéndoles el poder de acceder a ella y afrontar los peligros que supone opo-
-nerse a la Oscuridad.
-Al igual que existen los Mundos de la Oscuridad hay que plantearse, ¿existe el Reino 
-de la Luz? Este puede estar presente de múltiples formas. Podría ser alguno de los 
-múltiples cielos creados por la rica mitología humana, podría ser Arcadia, el reino 
-de Preste Juan o Asgard, aunque podría tener detalles o naturalezas diferentes a las 
-que se cuentan en los textos sagrados. Otra opción es que la Luz habite en un lugar 
-inaccesible fuera de nuestra realidad en el que el tiempo no tiene sentido. Podría ser 
-un mundo mágico similar a la Tierra pero habitado por seres de fantasía o cuentos 
-de hadas. También podría pasar que ese mundo en realidad no exista y cada cora-
-zón humano tenga un fragmento de la Luz, el cual deberán cuidar con sus actos. 
-274
-Maho Shojo
+**正義騎士**
 
-Una posibilidad es que lo que fue el Mundo de la Luz ahora sea el Mundo de la 
-Oscuridad, caído en desgracia porque sus campeonas no existieron, no aparecieron 
-o fallaron de alguna manera. Alternativamente, podría ser el mundo onírico de la 
-humanidad, al que todos accedemos en nuestros sueños. Por último, podría ser 
-también un lugar en la Tierra que no ha sido tocado por la humanidad, habiéndose 
-mantenido virgen y puro, o bien algún tipo de santuario que los humanos convirtie-
-ron en sagrado hace mucho tiempo.
-Sea cual sea la naturaleza del Mundo de la Luz, lo cierto es que este y el Mundo de 
-la Oscuridad parecen estar en un conflicto constante, el motivo por el que ambas 
-fuerzas entran en un enfrentamiento a través de los Agentes y las magical girls. El 
-origen y la causa de esta situación podrían tener o no importancia en vuestras aven-
-turas, siendo desde un tema de fondo al tema principal de la historia. El motivo del 
-comienzo de esta adversidad quizás fue porque la Luz le quitó algo a la Oscuridad, 
-o este sintió que algo le era arrebatado. También pudo ser que la ambición, odio u 
-otra razón hiciera que la Oscuridad quisiera ahora consumir la Luz, de forma que 
-ella sea lo único que exista. Algo que desde luego sería digno de explorar es que 
-ambas están equivocadas o tienen una parte de la verdad y solo la falta de querer 
-escuchar fuera el origen de todo. O bien todo podría ser así porque es su natura-
-leza, así ha sido siempre y seguirá siendo, volviendo de forma cíclica a lo largo del 
-tiempo y los mundos. Finalmente, desde luego una teoría interesante, puede que 
-todo sea el plan de una entidad diferente, siendo el conflicto solo una parte de un 
-puzle más grande (aunque este estilo puede alejar mucho las historias de la fantasía 
-doméstica que recomendamos para Mahō Shōjo).
-Los Enviados y los poderes
-Como hemos hablado antes, cuando aparecen servidores de la Oscuridad en el 
-mundo, la Luz manda a sus Enviados a buscar nuevas heroínas que puedan dete-
-nerlos. Estos rápidamente rastrean a las personas que tienen las cualidades sufi-
-cientes para realizar el Pacto con la Luz y, de esa forma, liberar el poder escondido 
-en su interior.
-Los Enviados son una especie de mensajeros y guardianes que representan el vín-
-culo de las magical girls con la Luz, así como el catalizador que les permite manifes-
-tar su fuerza interior.
-La apariencia y origen de los Enviados pueden ser muy variados. Por un lado, pue-
-den ser servidores de la Luz, quizás una antigua orden religiosa o agentes humanos 
-que son capaces de contactar con la Luz y ayudar a las heroínas. Del mismo modo, 
-quizás las magical girls de una generación o mundo anterior, una vez cumplida 
-su misión, dejen una parte de sí mismas para despertar e instruir a la siguiente 
-iteración de campeonas. Podrían ser constructos, como un peluche que toma vida, 
-un libro parlante u otra forma artificial que es animada para hablar con ellas. Una 
-posibilidad es que, cuando una magical girl despierte su poder, a la vez que se 
-275
-•Oscuridad•
+- **衝突：** 光明與黑暗之間的對抗。
+- **使者：** 效力於強大光明存在的生物，試圖阻止黑暗的勝利。
+- **光明：** 魔法少女的力量源泉，世間一切美好事物的起源。
+- **黑暗世界：** 黑暗統治的各個世界。
+- **黑暗代理人：** 黑暗使徒的同義詞。
 
-forma su Talismán, se cree una criatura que representa algo de ella misma y que la 
-acompañe en sus aventuras. También podría ser que el lugar que habita la Luz ten-
-ga sus propias especies y envíe pequeñas hadas, dragones, pájaros extraños, elfos… 
-a acompañarlas y realizar el Pacto con ellas.
-La naturaleza del Pacto y la formación del Talismán pueden manifestarse de muchas 
-maneras diferentes, pero rara vez existirá letra pequeña o una tara. La Luz ya con-
-sidera suficiente sacrificio el dedicarse a luchar contra la Oscuridad y lo que esto 
-conlleva. Puede ser que la elegida, para ser una nueva magical girl, tome la decisión 
-de abrir su corazón y dejar que la Luz o su Enviado depositen una parte de su po-
-der en su interior, ganando así sus poderes mágicos. También puede ser que dicho 
-poder ya esté dentro de ella y el Enviado solo sea la llave para que pueda acceder 
-a él. Los Enviados también podrían buscar a chicas que cumplieran los ideales de 
-la Luz y estuvieran dispuestas a convertirse en heroínas, pidiéndoles directamente 
-que juren proteger al mundo de la Oscuridad. Cabe la posibilidad de que busquen a 
-chicas que tengan fuertes emociones y relaciones con los demás, de forma que los 
-hilos que las conectan alimenten sus poderes, y lo único que hacen ellos es prender 
-la chispa, ya que estaban predispuestas a defender a sus seres queridos. Una posi-
-bilidad adicional es que la futura magical girl sea descendiente de otra, haya here-
-dado algo o bien sea una reencarnación y lo único que haga es aceptar esa herencia.
-Un misterio que puede existir es: ¿por qué chicas? Antes de nada recuerda ver el 
-cuadro de la página 28. Una vez decidido cómo vais a afrontar este asunto os tocará 
-saber por qué esta responsabilidad está en manos de chicas que aún van al colegio 
-o al instituto. Los motivos reales de esta situación pueden ser que la Luz solo pueda 
-ser albergada a esas edades y después el corazón sea demasiado reticente a usar 
-ese poder. Podría ser que solo los ideales sin corromper de los jóvenes pudieran 
-dar la fuerza necesaria para realizar el Pacto, pues según se crece esta pureza se va 
-perdiendo y, por tanto, hay riesgo de que se use la magia para fines egoístas. Puede 
-limitarse a la creencia de que la gente joven suele estar más abierta a la magia y 
-conserva su imaginación, lo que abriría la puerta a adultos creyentes y se la cerraría 
-a candidatas que fueran incapaces de creer. Sin embargo, todo esto podría ser algo 
-circunstancial, como que los Enviados busquen chicas jóvenes porque es lo que ha-
-cen siempre o que haya sido una casualidad que las actuales magical girls cumplan 
-esas condiciones y en realidad pueda serlo cualquiera.
-La doble vida
-Cuando reciben los dones de la Luz y se consagran como heroínas por la justicia, em-
-piezan también a tener que compaginar su vida de heroínas con su vida común. Es por 
-ello por lo que, mientras evitan que la Oscuridad triunfe, tendrán que estudiar sus exá-
-menes y cuidar sus amistades, que pueden o no ser también luchadoras de la justicia.
-Esta doble vida es algo que debería surgir durante las partidas, pues en este tipo 
-de historias muy pocos conocerán su auténtica identidad y su misión. Es posible 
-276
-Maho Shojo
+**契約傀儡**
 
-que algunos compañeros de clase, familiares o grupos concretos descubran la 
-naturaleza de las magical girls y su misión, pero suelen ser excepciones. No obs-
-tante, sí es habitual que, a medida que derrotan a distintos servidores de la Oscu-
-ridad, puedan convertirse en heroínas locales con cierta repercusión mediática, 
-aunque esto depende de cómo la gente perciba la Oscuridad. Este concepto de 
-heroína viene con nuevas responsabilidades con las cuales tendrán que lidiar, 
-como la presión de una sociedad que espera algo de ellas, que no se daría si el 
-conflicto fuera secreto.
-Las ambientaciones de Campeonas de la Justicia son un lugar especialmente apto 
-para explorar que las heroínas sean algo cercano al fenómeno idol. Quizás en la am-
-bientación las magical girls sean estrellas mediáticas que luchan contra enemigos, 
-firman autógrafos y tienen clubs de fans. Si bien este tipo de enfoque no es algo 
-habitual en el género, que el tema del secreto, la amistad y la vida familiar se vea en 
-parte diluido seguramente sea algo que algunos grupos deseen explorar.
-Cuestionario Campeonas de la Justicia
-¿Qué son los Mundos de la Oscuridad?
-	
-✽Dimensiones paralelas a la Tierra donde la Oscuridad triunfó.
-	
-✽La Tierra en un pasado remoto donde la Oscuridad no había huido por la Luz.
-	
-✽Un futuro donde la Oscuridad triunfará.
-	
-✽Un reino mágico cercano a la Tierra.
-	
-✽Un planeta en otro lugar del universo.
-	
-✽Un lugar oculto en algún rincón de la Tierra.
-	
-✽El corazón de otro ser humano.
-¿Qué son los Agentes de la Oscuridad?
-	
-✽Los últimos de una raza extinta.
-	
-✽Humanos que han vendido su corazón a la Oscuridad.
-	
-✽Manifestación de los deseos reprimidos de alguien.
-	
-✽Criaturas de pesadilla nacidas de la Oscuridad.
-	
-✽Seres mágicos de los mitos y leyendas humanas.
-	
-✽Magical girls que fallaron o traicionaron a la Luz.
-¿Quién puede ver a los Agentes?
-	
-✽Todo el mundo.
-	
-✽Cualquiera, pero rápidamente olvidan lo sucedido.
-	
-✽Solo aquellos que han despertado la Luz.
-	
-✽Aquellos a los que las magical girls han dado medios para verlos.
-	
-✽Los jóvenes.
-	
-✽Aquellos que han tenido una experiencia traumática con ellos.
-277
-•Oscuridad•
+- **深淵：** 黑暗使徒被囚禁或棲息之處。
+- **守護者：** 利用魔法少女來對抗逃脫者的生物。
+- **王國：** 光明及其追隨者居住的地方。
+- **逃脫者：** 逃到地球或從深淵獲得力量的黑暗使徒。
+- **條約：** 王國與深淵不能直接對抗的原因。
+:::
 
-¿Cómo interfieren los Agentes en la Tierra?
-	
-✽Atacando lugares sagrados.
-	
-✽Profanando lugares en nombre de la Oscuridad.
-	
-✽Recuperando artefactos de poder.
-	
-✽Robando fragmentos de Luz de corazones humanos.
-	
-✽Sembrando la Oscuridad en corazones humanos.
-	
-✽Cumpliendo los deseos egoístas mediante pactos.
-	
-✽Manifestando a la Oscuridad en un lugar.
-¿Dónde esta el Mundo de la Luz?
-	
-✽Es la manifestación de alguno de los cielos de los mitos de la Tierra.
-	
-✽Un lugar fuera del tiempo y el espacio.
-	
-✽Un mundo mágico.
-	
-✽Fragmentado en los corazones humanos.
-	
-✽Dejó de existir, ahora es un Mundo de la Oscuridad.
-	
-✽El mundo onírico de la humanidad.
-	
-✽Los paisajes vírgenes de la Tierra.
-	
-✽Un santuario ignorado.
-¿Por qué existe el conflicto?
-	
-✽La Luz le quitó algo a la Oscuridad.
-	
-✽La Oscuridad trata de consumir a la Luz.
-	
-✽Las dos tienen ideas diferentes del equilibrio.
-	
-✽Así ha sido y así será.
-	
-✽Un juego de alguien o algo superior.
-¿Qué son los Enviados?
-	
-✽Servidores de la Luz.
-	
-✽Una parte de la conciencia de una generación anterior de magical girls.
-	
-✽Constructos creados para comunicarse con los humanos.
-	
-✽Una manifestación física del poder de la magical girl.
-	
-✽Una raza que habita el Mundo de la Luz.
-¿En qué consiste el Pacto?
-	
-✽Abrir su corazón a la Luz para dejar una parte de ella en su interior.
-	
-✽Dejar salir la Luz que hay dentro de la magical girl para que pueda usarla con-
-tra la Oscuridad.
-	
-✽Jurar luchar contra la Oscuridad trayendo justicia y esperanza.
-	
-✽Conectar los corazones cercanos para que le den fuerza.
-	
-✽Despertar un legado antiguo en su interior.
-278
-Maho Shojo
+## 光明子女
 
-¿Por qué las luchadoras son chicas adolescentes?
-	
-✽La Luz que les da fuerza solo puede ser albergada en ese tipo de corazones.
-	
-✽Los adultos tienden a tener ideales menos fuertes y ambiguos.
-	
-✽La magia solo puede ser usada por aquellos que creen en ella.
-	
-✽Ninguna, cualquiera puede serlo.
-	
-✽Una tradición.
-	
-✽Una casualidad de esta generación de magical girls.
-¿Quién sabe la verdad?
-	
-✽Solo las luchadoras y unas pocas personas de confianza a las que se lo han 
-confesado.
-	
-✽Agencias gubernamentales.
-	
-✽Sociedades secretas.
-	
-✽Todo el mundo, las luchadoras son estrellas mediáticas.
-Marionetas de los Custodios
-Este tipo de ambientación suele potenciar temas de horror. En él las magical girls 
-libran una guerra perdida y sin futuro, siendo manipuladas por los misteriosos 
-Custodios. Estas entidades las utilizan como herramientas para realizar su trabajo 
-sucio, engañándolas con promesas de cumplir sus deseos y palabras bonitas. La 
-realidad es muy diferente, pues los Pactos con ellos no suelen terminar bien.
-Elige este tipo de ambientación si:
-	
-✽Buscáis potenciar los temas de terror y la Oscuridad.
-	
-✽Queréis contar historias trágicas y deprimentes en las que las magical girls 
-tratan de aferrarse a la esperanza.
-	
-✽Deseáis un mundo ambiguo donde toda Luz termina por apagarse y solo se 
-luche para saber cuándo.
-El Abismo y los Fugados
-En nuestro mundo vagan seres malvados que no pertenecen a él. Son conocidos 
-como los Fugados, aunque reciben muchos nombres: servidores de la Oscuridad, 
-monstruos, pesadillas… todos tienen en común que no deberían habitar la Tierra. Se 
-alimentan de las personas, a veces figuradamente, otras de manera literal.
-Estos seres se preocupan por mantenerse ocultos, al menos mientras no lleguen 
-a la culminación de sus planes. Su propia naturaleza los hace invisibles al ojo hu-
-mano. A veces solo los niños, los locos o los animales se dan cuenta de su pre-
-sencia. Casi siempre verlos significa que ya es demasiado tarde. Los Fugados son, 
-279
-•Oscuridad•
+如果你們想要更傳統的冒險主題，「光明子女」的世界觀框架可能最為合適。這類故事更接近該類型的原始概念（雖然有若干讓步）。通常黑暗所帶來的威脅不像「正義騎士」那麼直接而英雄式，也遠不及「契約傀儡」的陰暗恐怖主題。
 
-como su propio nombre indica, fugitivos. Han 
-escapado del Abismo donde eran prisioneros 
-por toda la eternidad, el lugar al que verdadera-
-mente pertenecen.
-El Abismo es nuestra forma de llamar a un lugar 
-de pesadilla habitado por criaturas monstruosas 
-entregadas a un ciclo sin fin de castigo, dolor y 
-padecimiento. Podría ser el infierno judeocris-
-tiano o de alguna otra religión, o quizás sea 
-un planeta extraterrestre lejano en el espacio 
-y en el tiempo, habitado por seres alienígenas 
-que nuestras mentes no pueden concebir. O tal 
-vez el Abismo sea otra dimensión, una dimen-
-sión oscura y tortuosa, que, como las ondas 
-de wifi, esté continuamente a nuestro alrede-
-dor, superpuesta a nuestro mundo sin que 
-podamos verla sin los «receptores» ade-
-cuados, pero influyendo en nuestras 
-emociones.
-Seguramente al principio de la 
-campaña los personajes sepan 
-muy poco sobre la naturaleza de 
-ese lugar y sus habitantes. En ese estado 
-de ingenuidad inicial, quizás lo más sen-
-cillo sea rellenar los huecos con las ideas 
-preconcebidas que nos proporciona una 
-visión mitológica conocida, para luego 
-irse alejando de ella conforme se van 
-comprendiendo las complejidades de ese si-
-tio y sus moradores.
-Lo mejor es pensar que el Abismo es como una 
-dimensión diferente, con leyes físicas que no 
-se parecen a las nuestras. Un lugar que no es 
-realmente un lugar, donde el espacio y el tiempo 
-que conocemos no tienen sentido. Una especie 
-de transformada de Fourier de nuestro mundo 
-(o de otro mundo), que nos rodea como si fuera 
-algún tipo de radiación. Entenderlo es práctica-
-mente imposible, por lo que las mitologías han 
-creado toda una literatura alrededor que en ab-
-soluto le hace justicia.
-280
-Maho Shojo
+選擇這類世界觀的條件：
 
-Entre esa dimensión y la nuestra habría entonces una conexión. Lo que hay allí es 
-una transformación de lo que hubo o habrá aquí. Sus habitantes son los ecos pa-
-sados y futuros de los habitantes de la Tierra, aquellos cuyas emociones negativas 
-les han sintonizado con esa dimensión. La religión lo intentó explicar diciendo que 
-son las almas de los pecadores, pero es más bien la energía del odio, el dolor y el 
-sufrimiento, versiones distorsionadas de seres que vivieron o vivirán.
-Los Fugados serían los habitantes de esa dimensión. Seres prisioneros de una espi-
-ral de dolor y emociones destructivas. De ellos surge una parte de la energía nece-
-saria para que el universo se mantenga cohesionado, o tal vez para que seres extra-
-dimensionales alimenten sus máquinas. Cuando de algún modo logran traspasar de 
-su dimensión a la nuestra, es como si las ondas de la TV fueran decodificadas por 
-un receptor no del todo adecuado: toman formas distorsionadas pero ajustadas a 
-nuestras creencias y las convenciones físicas que conocemos, apareciendo entre 
-nosotros como monstruos.
-En nuestro mundo, su negatividad pura se manifiesta de muchas maneras, 
-creando toda una tipología de estos seres. Algunos son manifestaciones violen-
-tas que producen sufrimiento físico y muertes horribles, otros contaminan la 
-mente, induciendo ideas de profunda tristeza o ira. Pueden ser seres carentes 
-de intelecto, deshumanizados por completo y que solo buscan consumir la vida, 
-o ser reflejos terriblemente malvados pero muy inteligentes de la persona cuyas 
-emociones lo incubaron.
-El Reino y el Tratado
-Si el Abismo es una prisión, ¿por qué no vienen los carceleros a llevarse a los Fuga-
-dos? La respuesta puede ser tan simple como que no pueden o tan compleja como 
-que no quieren. La idea principal para solucionar esta pregunta es que, si existe 
-una dimensión oscura, el Abismo, existe una dimensión luminosa, el Reino. Am-
-bas partes acordaron en algún momento no intervenir en los asuntos de nuestro 
-mundo. Así, cuando los Fugados llegan a la Tierra están rompiendo el tratado de no 
-intervención, pero sus captores no pueden perseguirlos y atraparlos sin romperlo 
-también.
-El Reino, o Cielo si prefieres esa palabra, del que hablamos podría tener una natu-
-raleza simétricamente opuesta al Abismo. Sería, por tanto, otro mundo alienígena u 
-otra dimensión habitada por seres diferentes pero igualmente terribles. O también 
-podría ser un sitio completamente asimétrico y, mientras que el Abismo es una 
-dimensión superpuesta a la nuestra, el Reino es una versión futura de nuestro mun-
-do. Existe la opción de contemplar que el Reino promulgue una justicia implacable 
-y terrible y sus habitantes sean a nuestros ojos igualmente monstruos, solo que 
-monstruos de una belleza que ciega y enloquece. Podemos suponer que el Reino 
-y sus habitantes son escrupulosos cumplidores del tratado, por lo que no pueden 
-281
-•Oscuridad•
+- 你們希望魔法世界和現實世界之間有所區別。
+- 你們想要探索兩種生活之間的衝突。
+- 你們希望對抗黑暗的衝突不要特別重要。
 
-dejarse ver en nuestro mundo, pero quizás circunstancias excepcionales podrían 
-hacer que esto cambiara en la campaña. Si los habitantes del Abismo son seres 
-terribles y peligrosos, los habitantes del Reino podrían ser aún más inhumanos y 
-mortíferos, monstruos a los que los monstruos temen.
-Existen también opciones alternativas a explorar sobre el Reino y los Fugados. Qui-
-zás el lugar fuera destruido en un tiempo inmemorial, en una guerra civil fratricida, 
-y ahora solo queden ruinas con retazos de historia que habría que reconstruir para 
-comprender lo sucedido. O tal vez el Reino y el Abismo sean el mismo sitio, solo que 
-en dos momentos distintos, y los que antaño fueron guardianes de la humanidad 
-son ahora los monstruos que quieren destruirla… o viceversa. Igualmente, podría 
-ser simplemente que al Reino y a sus habitantes no les importa nuestro mundo: las 
-puertas entre ambos lugares (reales o metafóricas) se cerraron hace millones de 
-años y nadie sabe cómo volver a abrirlas.
-Una gran idea sería que el Reino fuera habitado por monstruos igual de terribles 
-que los del Abismo, pero que en lugar de repugnancia y horror, produjeran abruma-
-doras sensaciones de reverencia y belleza. Seres que, al contemplarlos en sus ver-
-daderas apariencias, puedan hacerte, literalmente, morir de amor. Un Reino que es 
-realmente una versión simétrica del Abismo en el que las emociones positivas más 
-intensas, próximas al éxtasis, han cobrado forma. Ya que las emociones positivas 
-son realmente más poderosas, los habitantes del Reino son seres de mucho mayor 
-poder que los del Abismo.
-Como si de materia y antimateria se tratara, los habitantes del Reino y el Abismo es-
-tarían condenados a la autoaniquilación en caso de encontrarse, liberando peligrosas 
-cantidades de energía que podrían destruirlo todo. Así, el tratado protege a la reali-
-dad de esos encuentros, ya que nuestro mundo es el nexo intermedio con el que am-
-bas dimensiones lindan y en el que sus habitantes podrían encontrarse. Para evitarlo, 
-en el Reino han destruido casi cualquier canal que permita acceder a la Tierra, hacien-
-do que sea prácticamente imposible llegar aquí. Sin embargo, alguno de estos canales 
-aún puede abrirse desde nuestro mundo, a veces por accidente, por lo que alguna 
-poderosa criatura celestial podría verse arrastrada a la Tierra de forma excepcional.
-Los Custodios y los poderes
-Los carceleros del Abismo no piensan permitir que los Fugados vaguen por nuestro 
-mundo, pero el tratado les impide intervenir, así que necesitan agentes humanos que 
-hagan el trabajo sucio. Los Custodios son una especie de policía del Abismo, pero sin 
-jurisdicción en nuestro mundo. Lo único que les está permitido es buscar humanos 
-dispuestos a encargarse de capturar a los fugitivos. O quizás incluso eso esté prohi-
-bido, pero sea la única transgresión que unos pocos Custodios se atreven a cometer.
-La idea base de los Custodios es la de unos seres terribles, monstruos demenciales 
-llenos de poder pero que ocultan su naturaleza lo mejor que pueden para captar a 
-282
-Maho Shojo
+### 陰影與染污者
 
-posibles agentes. Ese es el motivo por el que aparecen con formas poco amenazan-
-tes, parecidos a pequeñas y adorables mascotas, seres de fantasía de los que nadie 
-desconfiaría. Bajo esa forma pseudoanimal, única para cada Custodio, pero siempre 
-dulce y atractiva, el Custodio busca jóvenes humanas con las que firmar el pacto: 
-ellas se comprometerán a buscar y capturar a los Fugados y el Custodio les dará los 
-poderes para hacerlo.
-Por supuesto, los Custodios podrían ser otra cosa. Podrían ser agentes libres del Abismo 
-que buscan a los Fugados a cambio de una recompensa. Podrían ser una orden humana 
-que va traspasando los poderes conforme las luchadoras mueren o se corrompen. O, 
-también, una fuerza del Reino que busca proteger a la humanidad de los Fugados.
-Que las elegidas para esta misión sean siempre chicas jóvenes, casi niñas, es una 
-convención del juego (y del género) que, por supuesto, podéis ignorar (ver página 
-28). Pero si decidís no hacerlo seguramente queráis una justificación. Hay muchas po-
-sibles razones por las que los Custodios pueden querer solo chicas de instituto para 
-cumplir la tarea. Una de las más interesantes quizás sea esta: el Custodio es, después 
-de todo, una entidad corruptora, y el Pacto tiene una parte oscura que consume y 
-corrompe a la luchadora. Si, como un extra de la captura de los Fugados, el Custodio 
-destruye la inocencia de una chica y la convierte en firme candidata para ser una cau-
-tiva más del Abismo, eso que se lleva. Por supuesto, la explicación puede ser todo lo 
-compleja o simple que quieras. Puede que las chicas elegidas tengan que pertenecer 
-a un linaje antiguo, ser descendientes de habitantes del Reino o de antiguas cazado-
-ras de monstruos. Puede que ciertas características espirituales femeninas sean las 
-únicas válidas para recibir los poderes, que la naturaleza corruptora del Pacto solo 
-pueda ser resistida el tiempo suficiente por mujeres jóvenes. Tal vez los cambios que 
-experimenta el cuerpo y la mente durante la adolescencia sean la única ventana po-
-sible para que los poderes del Custodio se unan a un cuerpo humano. Puede que las 
-emociones humanas de una adolescente sean mejor canal para los poderes. O tal vez 
-no haya ninguna explicación y sea simplemente algo que sucede así por tradición.
-La idea de la corrupción de la inocencia es muy adecuada y seductora para las 
-partidas que tomen este tipo de ambientaciones. En un Abismo que es una batería 
-emocional de sufrimiento y dolor, llevar a la Oscuridad a seres luminosos es ganar 
-para tu bando a los que originalmente eran candidatos perfectos para el otro.
-La doble vida
-Desde el momento en el que recibe los poderes, la luchadora tendrá que lidiar con 
-una doble vida. Será ahora una cazadora de monstruos terribles pero, al mismo 
-tiempo, seguirá siendo una chica de instituto que vive con sus padres y está sujeta 
-a todas las situaciones propias de su edad: la amistad, los exámenes, el amor, etc.
-Esta doble vida, como si de la identidad secreta de un superhéroe se tratara, será uno 
-de los temas a explorar durante el juego. Lo más común suele ser que, en nuestro 
-283
-•Oscuridad•
+某個區域可能會喚醒一種被稱為陰影的東西——一系列感受、情緒和變化，會吸引黑暗前來。這類情感存在於每個人心中，當某人無法自控地屈服於它們時，這些情感便會成形。例如一個貪婪的人，如果不試著改正，最終將會接受內在的黑暗，成為一個染污者——一個已經幾乎不像人類的存在。有時候，黑暗可能存在於一個實體的地點，但它通常不會無所不在地控制一切或統治整個世界。它的存在更加微妙，接近那些尋求捷徑來解決問題或否認自身缺陷的人。
 
-mundo, la opinión pública ignore que hay monstruos y luchadoras y que mantener 
-ese secreto sea una carga más que añadir a los estudios, las relaciones familiares y las 
-personales, ingredientes que componen el día a día de una adolescente. Pero existen 
-otras alternativas. Podría haber agencias gubernamentales que saben lo que está pa-
-sando y traten de ocultarlo. O directamente la situación podría ser de conocimiento 
-público y las luchadoras ser idols con legiones de fans, patrocinadores y demás.
-Si la gente en general ignora lo que está pasando, mantener el secreto será una 
-parte fundamental de las historias: fugarse de casa a hurtadillas, inventar excusas, 
-mentir a los amigos y seres queridos para protegerlos serán parte de la rutina de las 
-luchadoras, y el conflicto entre la misión y la vida diaria se convertirá en una parte 
-central de la historia.
-En la opción de las luchadoras como estrellas mediáticas en un mundo similar a 
-los clásicos de superhéroes, mezclado con los fenómenos de idols J-pop o simila-
-res, todavía podéis conseguir algo parecido si las luchadoras tienen identidades 
-secretas que protegen celosamente. Si optáis porque sean conocidas, entonces 
-proteger el secreto será sustituido por todas las cargas que tiene una estrella 
-pública: los fans, el dinero, la gente que quiere aprovecharse de su fama, el deseo 
-de llevar una vida normal, etc. Aunque la idea de las luchadoras como estrellas 
-del pop nos parece muy atractiva, no es la más adecuada en la guerra contra los 
-Fugados, pues quita parte de los elementos secretos y misteriosos, pero podría ser 
-la oportunidad de ver algunas ideas interesantes. Puesto que muy pocos saben 
-de la naturaleza de los Fugados, es difícil decidir con quién compartir tu secreto. 
-Tratar de entender una realidad tan compleja solo con piezas fragmentadas, y 
-muchas veces distorsionadas, de información se convierte entonces en una parte 
-esencial de la campaña.
-Cuestionario Marionetas de los Custodios
-¿Qué es el Abismo?
-	
-✽Un lugar metafísico donde se castiga a las almas que han pecado en vida.
-	
-✽Un planeta alienígena habitado por seres extraterrestres que desafían nuestra 
-compresión.
-	
-✽Una dimensión paralela gobernada por leyes físicas completamente distintas a 
-las nuestras.
-	
-✽El futuro de nuestro mundo.
-	
-✽Una proyección psíquica de los deseos y miedos de un humano con poderes 
-mentales.
-	
-✽Un mundo de realidad virtual que ha trascendido a lo real.
-	
-✽El inconsciente colectivo.
-	
-✽Una batería que produce energía del dolor de sus cautivos.
-284
-Maho Shojo
+陰影的實體存在可能出現在某個被某種方式污染的地方，例如一條被傾倒有毒物質的河流，或是一片發生過多起悲劇的森林。它也可能是某種生物，說服並欺騙人們向自己最可怕的慾望屈服，而不是去尋找解決方案、努力成為更好的人。在某些世界觀中，它可能只不過是我們每個人內心都有的東西——如果我們向它屈服，就等於任由它傷害我們自己和身邊的人。另一個理由可能是現實世界和魔法世界本質上不相容，當一個世界與另一個世界接觸時，就會產生腐化，創造出染污者。也許答案更直接、更非人性化：來自魔法世界的生物到達我們的世界（或在魔法世界本身），製造出問題——不管是故意的，還是以為自己只是開了個無傷大雅的玩笑。另一個在這個類型中常見的選項是存在某種學校，其學生會變成染污者，或者同伴——就像光明創造魔法少女一樣——他們也創造出自己的對手。
 
-¿Qué son los Fugados?
-	
-✽Las almas de los muertos que fueron malvados en vida.
-	
-✽Emociones humanas negativas.
-	
-✽Energía psíquica de eventos traumáticos.
-	
-✽Seres de ficción que han cobrado conciencia de sí mismos.
-	
-✽Prisioneros de una cárcel alienígena.
-	
-✽Versiones futuras de las magical girls.
-¿Quién puede ver a los Fugados?
-	
-✽Todo el mundo.
-	
-✽Solo las luchadoras, los Custodios, otros Fugados y seres similares.
-	
-✽Las personas inocentes.
-	
-✽Los animales.
-	
-✽Las personas con problemas mentales.
-	
-✽Las personas que han tenido experiencias traumáticas.
-	
-✽Las personas que han estado clínicamente muertas.
-	
-✽Los adolescentes.
-¿Qué hacen los Fugados en la Tierra?
-	
-✽Devoran los cuerpos de los humanos.
-	
-✽Devoran las almas de los humanos.
-	
-✽Inducen emociones negativas que llevan a la gente a la violencia y el suicidio.
-	
-✽Suplantan o poseen a la gente.
-	
-✽Convierten partes de nuestro mundo en versiones reducidas del Abismo.
-	
-✽Abren puertas al Abismo para traer más Fugados.
-	
-✽Buscan puertas del Reino.
-	
-✽Crean distorsiones en la realidad, como dimensiones de bolsillo, desde las que 
-afectan al mundo real.
-¿Qué es el Reino?
-	
-✽Un plano metafísico donde se recompensa a las personas buenas tras su muerte.
-	
-✽Una versión pasada o futura de nuestro mundo.
-	
-✽Una versión pasada o futura del Abismo.
-	
-✽Una dimensión paralela gobernada por leyes físicas completamente distintas a 
-las nuestras.
-	
-✽Nada, no existe el Reino.
-	
-✽Un mundo alienígena.
-	
-✽El sueño de un humano con poderes psíquicos.
-	
-✽El deseo de justicia y orden de la humanidad.
-	
-✽Un mundo de realidad virtual dentro de un videojuego.
-285
-•Oscuridad•
+但染污者到底是什麼？它們是陰影勝利的結果：當一個只有魔法少女才能阻止的存在被創造出來時就會出現。為此，她必須使用自己的力量來消滅它，或者恢復它們內在那個允許它們自己戰勝陰影的部分。如此一來，染污者可能是不自覺行事或被欺騙的魔法生物。這類故事的一個經典橋段是它們是取得了形體的願望或情感，使用象徵其來源的形象或物品；或者另一方面，就是單純的人類因為放任自己被慾望和情感裹挾而獲得了某種力量或能力。它們也可能是為了實現陰影計畫而被創造出來的構造物、生物或人造實體。最後，染污者也可能是敵對的魔法少女——她們並沒有屈服於陰影，但因為做事方式不同而與主角們對立，即使她們的目標是相同的。
 
-¿Por qué no interviene el Abismo directamente  
-en la búsqueda de los Fugados?
-	
-✽Lo impide un tratado de no intervención entre el Reino y el Abismo.
-	
-✽La situación en el Abismo es demasiado inestable como para preocuparse de lo 
-que pasa en nuestro mundo.
-	
-✽Los gobernantes del Abismo o los Custodios quieren ocultar que hay fugas a 
-sus habitantes.
-¿Por qué no interviene el Reino en la búsqueda  
-de los Fugados?
-	
-✽Un acuerdo entre el Reino y el Abismo lo impide.
-	
-✽Al Reino no le importa lo que pasa en nuestro mundo.
-	
-✽Las puertas entre el Reino y nuestro mundo están cerradas y nadie sabe cómo abrirlas.
-	
-✽Agentes del Reino son los responsable de las fugas en un intento de desestabi-
-lizar el Abismo.
-	
-✽El Reino está demasiado débil en este momento.
-	
-✽Sí que interviene, hay cazadores ocultos (o no) buscando a los Fugados para 
-destruirlos.
-¿Qué son los Custodios?
-	
-✽Una policía del Abismo.
-	
-✽Una policía del Reino.
-	
-✽Luchadoras que han trascendido tomando otra forma.
-	
-✽Agentes libres que actúan fuera de la ley como «cazarrecompensas».
-	
-✽Nada, no existen.
-	
-✽Una orden humana que busca nuevas candidatas para los poderes cuando una 
-de sus luchadoras cae.
-¿En qué consiste el Pacto?
-	
-✽Un clásico pacto con el demonio.
-	
-✽Una conexión psíquica entre el Custodio y las luchadoras.
-	
-✽Aceptar en tu interior a una entidad parasitaria procedente del Abismo.
-	
-✽Convertirte en un canal de energía emocional de los que te rodean.
-	
-✽Usar tu propia alma finita como combustible para tus poderes.
-	
-✽Despertar a un estado de iluminación inherente a todos los seres humanos.
-	
-✽Recibir los poderes de una luchadora moribunda o a punto de sucumbir a la 
-corrupción.
-286
-Maho Shojo
+### 魔法世界與現實世界
 
-¿Por qué las luchadoras son chicas adolescentes?
-	
-✽Porque corromper almas inocentes es un extra para los Custodios.
-	
-✽Porque solo la química particular de las mujeres adolescentes puede albergar 
-los poderes del Pacto.
-	
-✽Por tradición.
-	
-✽Una entidad albergó el poder en su interior de alguna manera.
-	
-✽Porque solo las descendientes femeninas de un largo linaje de cazadoras de 
-monstruos pueden ser elegidas para el Pacto.
-	
-✽Porque solo ellas tienen la resistencia mental para aguantar la corrupción del Pacto.
-	
-✽Porque la intensidad de las emociones de una adolescente es la energía nece-
-saria para los poderes.
-	
-✽No lo son, cualquier adolescente puede ser luchador.
-	
-✽No lo son, cualquier mujer puede ser luchadora.
-	
-✽No lo son, cualquier persona puede ser luchadora.
-	
-✽Solo ellas pueden ver a los Fugados.
-	
-✽Por simple coincidencia.
-¿Quién sabe la verdad?
-	
-✽Solo las luchadoras y unas pocas personas de confianza a las que se lo han 
-confesado.
-	
-✽Agencias gubernamentales.
-	
-✽Sociedades secretas.
-	
-✽Todo el mundo, las luchadoras son estrellas mediáticas.
-287
-•Oscuridad•
+現實世界和魔法世界既相同又相反，只被一層薄薄的面紗隔開，雙方無法互相看見，卻能透過這層面紗彼此影響。魔法世界有著自己的本質和進入方式。然而，兩者之間存在著明確的分隔，而魔法少女是為數不多的橋樑之一。
+
+魔法世界可能是一片原初的大地，事物以不同的方式發展，從而創造出一個奇幻世界。另一種情況是，它直接就是一個從現實世界的神話和民間傳說中誕生或受其啟發的奇幻世界。它可能是一個世界——隨著歷史推進、人類拋棄魔法轉向科學——在感受到現實已容不下超自然事物時尋求了庇護。也可能是由古老的魔法師、神祇或其他存在創造的維度，目的是向人類傳授魔法，或作為過去、現在或未來某種可能性的記憶。在某些情況下，它可能是一個不可能的世界——現實世界的法則在此不適用，願望和想像在這裡成為了現實；反過來說，它也可能是一個疊加的場所，在那裡人們能夠與魔法同調，存在著一座魔法學院或一片被施了魔法的森林。最後，雖然這可能不完全合適——魔法世界可能是一個人工創造物，例如電子遊戲、影集或小說——這更屬於異世界類型而非魔法少女類型，但如果它符合你們的設想，就不應該排除。
+
+一旦釐清了魔法世界的本質和可能的起源，接下來的問題就是「如何才能進入魔法世界？」通常魔法世界和現實世界雖然分離，但並非絕對隔絕；存在著不同的路徑或通道，讓像魔法少女這樣的特殊人物可以來回穿越。這些門戶通常不為現實世界的居民所知，但這種限制似乎不存在於魔法國度中——魔法世界的居民不使用它們的原因，更多是因為缺乏能力或對此不感興趣。
+
+從現實世界到魔法世界的穿越可能有許多要求：在某些設定中，只需要與另一側調和，任何相信它的人都能進入——這是一種隨著生活推進、被社會吞噬而逐漸喪失的能力。有時候，人類只有在睡眠中才能進入，而且醒來後往往忘記了所見所聞。你可以設定某種鑰匙或咒語，透過我們世界的任何門扉進入；或者作為替代方案，可以設定某些日常物品——比如衣櫃、鏡子、書本或床底下——只要滿足適當的條件就能穿越。在某些故事中，需要某種咒術或材料來創建傳送門才能通過。最後，也可能是只有魔法少女才有在兩個世界之間移動的能力。
+
+下一個問題是另一邊發生了什麼事：魔法世界的居民為什麼不能來到我們的世界？答案可以簡單地說「他們做不到」，但更有趣也更合適的做法大概是找到其他理由。一個常見的理由是他們沒有興趣——魔法世界對其居民來說已經足夠有趣，現實世界對他們毫無吸引力。另一個選項是他們認為另一邊是地獄或更糟的東西，有某種可怕的事物在那邊窺伺著他們。也許他們因為某個承諾或協議而無法看到或穿過通道。門戶的創造者是否設下了某種限制？穿越門戶是否會讓他們失去魔法本質而不願做出這種犧牲？一個值得探索的有趣元素是，也許到了那邊他們的本質會被隱藏起來，或者他們更願意對自己的來歷保密。
+
+所有這些理由可能不適用於染污者，或者恰恰是它們與陰影建立聯繫的原因。
+
+### 同伴與力量
+
+在這類故事中，被稱為同伴的生物對魔法少女而言至關重要，在許多場合它們成為護符——使魔法少女能夠變身——不可或缺的一部分。正是這些存在尋找未來的魔法少女，對她們進行某種考驗或挑戰，以確認她們具備所需的特質，然後才釋放或賦予她們力量。
+
+同伴代表著賦予魔法少女的力量，要使用這種力量就必須得到同伴的青睞和陪伴。一般來說，這個實體通常是魔法世界中某個存在的僕從或信使。它可能是魔法世界的居民，與魔法少女感到連結、被吸引或有親緣關係，願意幫助她或請求她的幫助。有時候，同伴就是魔法少女本人——或至少是她的一部分——誕生在魔法世界，如今終於與她的另一半合而為一。在其他類型的故事中，它會是一位導師或指引者，教導她魔法少女或魔法世界的奧秘，讓她在未來成為一名魔法少女。這個概念的另一種變體是，同伴的存在不是為了教導或展示魔法世界，而是為了確保她在成熟或學習完成之前不受傷害。一個可能看似抽象的想法是，同伴代表著魔法少女尚未接受的某種東西，它在那裡提醒她總有一天必須承認的事物。
+
+為了喚醒或賜予各位魔法少女力量，並創造出讓她們展現力量的護符，同伴會對她們進行某種考驗，以確認她們是否是合適的人選。這些考驗可能很複雜，甚至可能在參與者毫不知情的情況下進行。考驗中她可能展現出某種無私的美德，例如治癒一隻受傷的動物或給有需要的人食物，之後才發現她所幫助的其實是偽裝的同伴。同樣地，同伴可能設下一個考驗，讓她克服某種恐懼，例如從黑暗的地方救出某人或保護某人免受她特別害怕的東西侵害。考驗不一定要求做某件事，也可以是某種身體特徵——例如擁有一個胎記、屬於某個特定家族或在滿月之夜出生。某些同伴會尋找那些已經與魔法親近的人來賦予力量或使其覺醒——擁有千里眼天賦的女孩、曾造訪過魔法世界或能看到魔法世界元素的女孩，通常會被這些實體選中。另一種可能是同伴本身誕生於某人強烈的渴望——一個覺得自己格格不入的人。有時這種信念來自於她確信自己不屬於這裡，比如認為她的父母不是她的親生父母，她的親生父母其實是拋棄了她或讓她作為凡人被撫養的魔法生物。最後，這種信念可能是真的——未來的魔法少女確實是魔法世界居民的女兒，因為某種原因正在、或必須在現實世界中生活。
+
+還有一個問題也應該回答：為什麼似乎只有女孩才能覺醒或擁有力量？實際上，你應該參考第 28 頁的說明框來回答這個問題，但我們假設你們選擇了這類作品的傳統形式。可能是魔法只能從母親傳給女兒，或者只有她們擁有適合施展魔法的心靈。也許魔法王國只接受女孩，因此魔法少女學院只招收女性學員，或者門戶只與人類靈魂的女性部分同調。另一個選項是，並非只有女孩能夠覺醒——男孩也有自己的同伴，或者他們在覺醒或獲得力量時具有不同的性質，例如變成騎士、魔法師或怪物。也許事情就是這麼簡單：古老的法律和習俗規定只有女孩才能成為魔法少女，而男孩只能當不法者或必須尋找其他方式覺醒光明、使用魔法。最後一個選項可以搭配不存在任何限制的設定，但如果魔法少女和魔法少年之間沒有任何差別的話，這個選項最為合適。
+
+### 雙重生活
+
+在光明子女的故事中，成為魔法少女通常伴隨著一個重要的缺點：因為某種後果的存在，她們必須隱藏自己的雙重生活。當有人發現了魔法少女的身分或她自己洩露了本質時，就會帶來某種懲罰、痛苦或問題，這迫使她們必須對其他魔法存在以外的所有人保守這個秘密。
+
+這個詛咒使得魔法少女維持雙重身分變得格外困難，迫使她做出非常艱難的抉擇。這項限制的原因在於：她的學習過程通常與她的成長成熟平行進行，在她準備好將生命的兩個部分合而為一之前，被發現會帶來嚴重的後果。如果這個設定可能因為其雙重含義而造成問題，你們可以選擇忽略它，但這同時也意味著放棄了這個類型的一個經典元素。
+
+打破「不能談論魔法本質」這個禁忌的傳統懲罰或後果可以有多種表現形式。其中一個可能的後果是，發現真相的人會忘記這件事，甚至忘記關於這位魔法少女的所有記憶。請注意，雖然這看起來像是一個優勢，但你也無法向任何人傾訴你的煩惱，因為他們不會記得你告訴過他們。另一個相當嚴重的選項是魔法少女失去力量，或受到某種處分使她在一段時間內無法使用力量作為教訓。也可能是魔法少女因為不被接受而被驅逐出現實世界，或因為洩露秘密而被驅逐出魔法世界——這是一個值得探索的好選項，因為它允許魔法少女修復損害並設法解除懲罰。雖然這或許有些殘忍，但在幾乎所有採用這類世界觀的故事中，被懲罰的是魔法少女的同伴——不論是暫時的還是必須永遠離開她。魔法世界漸行漸遠的概念允許大量的長期創意，因為兩個世界之間的通道可能會消失，或者魔法世界的整個區域都可能變得完全無法進入。最後，你可以選擇更直接的變體，當她的身分被發現時會發生巨大的災變。你不應該認為這些災變只是物質性的——例如一場超級地震襲擊魔法世界或陰影突然佔據某個新地方——災變也可以是情感上的，例如某人開始憎恨魔法少女，或者她的一位家長突然消失，而這可能是永久的，也可能直到她改正為止。
+
+### 光明子女問卷
+
+**陰影是什麼？**
+
+- 被人類行為或情感所污染的地方。
+- 欺騙人類的魔法實體。
+- 我們每個人內心都有的東西，如果屈服就會釋放出最糟糕的一面。
+- 現實世界與魔法世界的不相容性。
+- 在現實世界中搗蛋的淘氣生物。
+- 創造新染污者的學校或同伴。
+
+**染污者是什麼？**
+
+- 不知道後果或被欺騙的魔法種族。
+- 取得了形體的願望和情感。
+- 屈服於陰影的人類。
+- 構造物。
+- 敵對的魔法少女。
+
+**為什麼沒有人意識到染污者的存在？**
+
+- 人們在染污者離開後就忘記了。
+- 他們的行為只影響魔法世界。
+- 非魔法人類會對他們的行為進行合理化解釋。
+- 人們確實知道，但有某種力量阻止他們直接行動。
+- 人們確實知道，但沒有人談論這件事。
+
+**染污者想做什麼？**
+
+- 滿足自己的慾望。
+- 玩樂並製造混亂與困惑。
+- 在人類世界中生活。
+- 找回失去的東西。
+- 毀滅魔法世界。
+- 毀滅現實世界。
+- 對抗魔法少女。
+
+**魔法世界是什麼？**
+
+- 一片原初的大地。
+- 從人類神話中誕生的樂園。
+- 隨著歷史推進，超自然事物避難的地方。
+- 為了教導另一種現實而創造的維度。
+- 地球的扭曲面貌，在這裡不可能的事成為可能。
+- 一個疊加的現實。
+- 人類創造的虛擬世界。
+
+**如何從現實世界進入魔法世界？**
+
+- 任何與另一側同調的人。
+- 在夢中。
+- 透過門扉，使用正確的咒語或鑰匙。
+- 透過已經同調的日常物品。
+- 透過施展傳送門。
+- 只有魔法少女能夠進入。
+
+**為什麼魔法世界的居民不來現實世界？**
+
+- 他們做不到。
+- 他們對現實世界沒有興趣。
+- 他們感到恐懼。
+- 古老的承諾或盟約。
+- 沒有問題，但他們會試圖隱藏自己的本質。
+
+**同伴是什麼？**
+
+- 與魔法少女有所連結的魔法世界居民。
+- 魔法少女誕生在魔法世界的一部分。
+- 願意教導魔法少女秘密的導師。
+- 負責保護魔法少女直到她們成熟的守護者。
+- 魔法少女尚未接受的魔法自我的具象化。
+
+**考驗的內容是什麼？**
+
+- 展現某種無私的美德。
+- 克服某個缺陷。
+- 擁有某種身體特徵。
+- 證明自己擁有魔法天賦。
+- 全心全意地渴望。
+- 不屬於這個世界。
+
+**為什麼只有青少年女孩才能通過考驗？**
+
+- 只有女孩體內蘊含魔法。
+- 魔法王國只接受女孩。
+- 只有女孩是魔法少女，男孩則是別的東西。
+- 古老的法律和習俗。
+- 沒有這種限制。
+
+**為什麼不能讓人知道真相？**
+
+- 發現秘密的人會忘記她。
+- 可能永久或暫時失去變身為魔法少女的能力。
+- 可能被永久放逐出現實世界。
+- 可能被永久放逐出魔法世界。
+- 可能失去同伴。
+- 魔法世界可能會離現實世界更遠一些。
+- 可能發生災變。
+
+## 正義騎士
+
+提到魔法少女作品，大多數人腦海中浮現的大概是穿著華麗服裝變身的少女，在魔法生物的輔助下對抗黑暗生物，並以必殺一擊將其擊敗的場景。這種對該類型的印象雖然不夠完整，但由於上世紀末所帶來的巨大影響，它已經成為一個極具標誌性的形象，很難與這個類型分開。
+
+選擇這類世界觀的條件：
+
+- 你們想要以正義之名對抗黑暗。
+- 你們想要同時經營世俗生活和魔法生活。
+- 你們想要對抗黑暗以查明其真正的意圖。
+
+### 黑暗世界與黑暗
+
+在地球附近的某處，存在著一些被稱為黑暗世界的地方——這些地方已經被剝奪了光明。在那裡，希望、愛和正義等事物已不復存在，因為它們被黑暗的慾望和自私所吞噬。正因如此，那裡要麼沒有生命，要麼存在的生命對地球的居民毫無同理心。如果有人類踏入這些世界，會覺得它們冰冷而陰暗。即使看起來並非如此，他們的內心也會如此感受。某些黑暗世界可能看似天堂，但內裡只隱藏著苦難；而另一些則是荒涼的荒原，光是看一眼就足以摧毀所有的希望。
+
+這些世界由黑暗居住和統治。黑暗可能以噩夢般的生物或類似人類但缺乏任何善良或同理心的存在出現。這些實體的目的是抵達地球，完成某個能擴展其世界的目標。
+
+這些存在通常隱藏在凡人的目光之外，尋找影響或吞噬人類的方式。就在那一刻，它們引起了光明的注意——光明迅速喚醒新的戰士來對抗它們。
+
+為了執行計畫，黑暗通常會利用自己的黑暗代理人——那些為了權力的許諾而選擇與之結盟的存在。真正的黑暗代理人在初期很少現身，因此它通常會召集數名向它宣誓某種效忠或服務的強大代理人——可能是為了實現某個承諾，或者他們被欺騙了。這些次級代理人通常必須做髒活，帶著自己的小嘍囉或生物去對抗魔法少女，以完成他們的計畫。隨著時間推移，光明的選民們最終會發現代理人的真正意圖和來歷，並試圖阻止黑暗在地球上顯現。
+
+黑暗世界的起源和本質可能是多種多樣的。一方面，它們可能是地球的平行維度——因為那裡的魔法少女未能取得勝利或從未存在過而被吞噬。它可能是遙遠過去的地球——在最初的魔法少女擊敗黑暗、播種光明之前——但它已經逃到了我們的現在。又或者相反，它可能是黑暗獲勝的未來，如今正試圖征服過去。它也可能是一個靠近地球的魔法王國，曾啟發了我們的某些神話傳說。另一方面，也許黑暗是宇宙中某處不斷擴張的有形存在，而我們的藍色星球就是名單上的下一個目標。或者，它不是來自宇宙彼端的威脅，而是源自地球上的某處——一股已經甦醒並要收回地球的原初力量。最後，它的本質可能更為抽象，棲息在某些人的心中，這些人因為某種原因被它吞噬，為黑暗散播混亂並實現其自私的目標。
+
+如果這些是黑暗的世界，那代理人又是什麼？它們的本質可能和它們的起源一樣多種多樣。它們可能是其種族的最後倖存者——與黑暗交易以避免滅絕、恢復昔日榮光或復仇的存在。它們也可能是屈服於黑暗以實現自私扭曲夢想的人類；或者是被壓抑的人類慾望的具象化，渴望滿足那些在顯現之前無法實現的事物。黑暗的追隨者可能是黑暗自身所孕育的生物，或自其起源之初就為之效力的存在，以噩夢般的形態出現在人類面前。一個不容忽視的可能性是，它們曾經是催生了人類神話傳說的存在——儘管相似程度可能有完全吻合和部分相像之分。最後，一個肯定會讓光明的女主角們深思的選項是：它們是她們在某個世界的對應存在——在那裡墮入了黑暗，或者更糟，是主動選擇了倒戈。這些黑暗魔法少女的故事就像一面鏡子，映照出她們自身的恐懼與疑惑。
+
+### 光明與衝突
+
+黑暗是人類恐懼和自私慾望的化身——嫉妒、執念、恐懼、絕望、挫折等等。光明則相反：它是希望、喜悅、友情，是在最艱難的時刻驅散烏雲、繼續前行的力量。兩者的本質既簡單又複雜，因為一方離不開另一方。當看不到光明且無法克服困境時，黑暗就會誕生；如果黑暗是傷口，那光明的缺失就是傷口感染的時候。但正如黑暗因缺乏光明而成為問題，光明也可能因為過度而落入同樣的陷阱。例如，當正義忽視了人的感受時就可能腐化；過度的愛可能蛻變為嫉妒或仇恨；希望可能讓人陷入冷漠，坐等問題自行解決；而快樂可能讓人將眼淚深深壓抑，直到誕生出比任何怪物都可怕的東西。當這種情況發生時，光明可能被誤認為黑暗。雙方各自尋找僕從，期待有朝一日無處不在。
+
+就像黑暗通過代理人行動一樣，光明也在尋找一群能將它容納於內心的少女，賦予她們接觸光明的力量，面對與黑暗對抗所帶來的危險。
+
+正如存在著黑暗世界一樣，我們也要思考：是否存在光明的國度？它可以有多種存在形式。它可能是人類豐富神話中所創造的眾多天堂之一，可能是阿卡迪亞、祭司王約翰的王國或阿斯嘉德，雖然其細節或本質可能與聖典中的記載有所不同。另一個選項是光明居住在我們現實之外一個超越時間概念的不可觸及之處。它可能是一個類似地球但由奇幻生物或童話角色所居住的魔法世界。也可能這個世界其實並不存在——每個人的心中都有一片光明的碎片，必須以自己的行為來守護。另一種可能是，曾經的光明之界如今已成為黑暗世界——因為它的騎士們不存在、沒有出現或在某種程度上失敗了。或者，它可能是人類的夢境世界——我們在睡夢中都能到達的地方。最後，它也可能是地球上未被人類觸及、保持原始純淨的地方，或是人類在很久以前將其奉為神聖的某種聖所。
+
+無論光明之界的本質是什麼，事實是它與黑暗世界似乎處於持續不斷的衝突之中，這就是雙方透過代理人和魔法少女展開對抗的原因。這場對立的起源和原因在你們的冒險中可能重要也可能不重要，它既可以是故事的背景主題，也可以是核心主線。這場對立的起因可能是光明奪走了黑暗的某樣東西，又或者黑暗感到被剝奪了什麼。也可能是野心、仇恨或其他原因驅使黑暗想要吞噬光明，使其成為唯一的存在。一個肯定值得探索的可能性是雙方都搞錯了，或者各自掌握了部分真相，而一切的起因只是因為不願傾聽對方。又或者，一切本來就是如此——因為這就是它們的本質，自古以來就是這樣，也將永遠如此，跨越時間和世界週而復始地循環。最後——這無疑是個有趣的理論——也許一切都是某個不同實體的計畫，而這場衝突只是更大拼圖的一部分（不過這種風格可能會讓故事偏離我們為 Mahō Shōjo 所推薦的日常奇幻類型）。
+
+### 使者與力量
+
+如同我們之前所討論的，當黑暗的使徒出現在世界上時，光明會派遣使者去尋找能夠阻止它們的新女英雄。使者們迅速追蹤到那些具備足夠資質與光明締結盟約的人，以此釋放隱藏在她們內心的力量。
+
+使者是一種信使兼守護者，代表著魔法少女與光明之間的紐帶，同時也是讓她們展現內在力量的催化劑。
+
+使者的外貌和來歷可以非常多樣化。一方面，它們可能是光明的侍從——也許是一個古老的宗教團體或能夠接觸光明並幫助女英雄的人類代理人。同樣地，也許前一世代或前一個世界的魔法少女在完成使命後，會留下自身的一部分來喚醒和指導下一代騎士。它們可能是構造物——例如一個活過來的布偶、一本會說話的書或其他被賦予生命以與她們交流的人造形態。另一種可能是，當魔法少女喚醒力量時，在護符形成的同時，也創造出一個代表她自身某個面向的生物陪伴她冒險。也可能是光明所居住的地方有著自己的物種，派遣小精靈、小龍、奇異的鳥兒、精靈等來陪伴她們並與她們締結盟約。
+
+盟約的本質和護符的形成可以有許多不同的表現方式，但很少會有附帶條款或缺陷。光明已經認為投身對抗黑暗本身就是足夠的犧牲，以及這一切所伴隨的一切。被選中者要成為新的魔法少女，可能需要敞開心扉，讓光明或其使者將力量的一部分注入她的內心，從而獲得魔法力量。也可能那份力量本就在她體內，而使者只是開啟她使用力量的鑰匙。使者也可能在尋找那些符合光明理念、願意成為女英雄的少女，直接請求她們宣誓保護世界免受黑暗侵害。有一種可能是使者尋找那些擁有強烈情感和深厚人際關係的少女——連接她們心靈的絲線能滋養她們的力量，使者所做的只是點燃火花，因為她們本來就注定要守護自己珍視的人。另一種可能是未來的魔法少女是另一位魔法少女的後裔，繼承了某樣東西，或者是轉世——她所做的只是接受這份傳承。
+
+一個可能存在的謎團是：為什麼是少女？在回答之前，請先參考第 28 頁的說明框。在決定了如何處理這個議題之後，你們需要了解為什麼這份責任落在了還在上學的少女們身上。這種情況的實際原因可能是光明只能在那個年齡被承載，之後心靈就會過於抗拒使用這種力量。也可能是只有年輕人未被腐化的理想才能提供締結盟約所需的力量——因為隨著成長，這種純粹會逐漸消失，從而產生將魔法用於自私目的的風險。這也可以歸結為一個信念：年輕人通常對魔法更加開放，保有想像力，這為相信魔法的成年人打開了大門，同時對無法相信的候選人關上了門。然而，所有這些也可能只是巧合——比如使者尋找年輕女孩只是因為一直以來都是這麼做的，或者當前這批魔法少女恰好滿足這些條件，實際上任何人都可以成為魔法少女。
+
+### 雙重生活
+
+當她們接受了光明的恩賜，成為正義的女英雄之後，她們也開始需要在英雄生活和普通生活之間取得平衡。因此，在她們阻止黑暗勝利的同時，還必須準備考試、維繫友情——這些朋友可能是也可能不是同為正義戰士的夥伴。
+
+這種雙重生活應該會在遊戲過程中自然浮現，因為在這類故事中，很少有人知道她們的真正身分和使命。有可能某些同學、家人或特定團體發現了魔法少女的本質和使命，但這些都是例外。然而，隨著她們擊敗越來越多的黑暗使徒，她們確實可能成為在當地有一定媒體影響力的英雄，不過這取決於一般人如何感知黑暗。這種英雄的身分帶來了她們必須應對的新責任——例如來自期待她們有所作為的社會壓力，而如果衝突是秘密進行的話，這種壓力就不會存在。
+
+正義騎士的世界觀特別適合探索魔法少女成為類似偶像現象的存在。也許在這個世界觀中，魔法少女是媒體明星——她們對抗敵人、簽名合影、擁有粉絲俱樂部。雖然這種處理方式在這個類型中並不常見，因為秘密、友情和家庭生活的主題會被部分稀釋，但某些團體可能會想要探索這個方向。
+
+### 正義騎士問卷
+
+**黑暗世界是什麼？**
+
+- 黑暗獲勝的地球平行維度。
+- 在光明尚未驅逐黑暗的遙遠過去的地球。
+- 黑暗將會勝利的未來。
+- 靠近地球的魔法王國。
+- 宇宙另一處的星球。
+- 隱藏在地球某個角落的地方。
+- 另一個人類的心中。
+
+**黑暗代理人是什麼？**
+
+- 一個滅絕種族的最後成員。
+- 將心靈出賣給黑暗的人類。
+- 某人被壓抑慾望的具象化。
+- 從黑暗中誕生的噩夢生物。
+- 人類神話傳說中的魔法存在。
+- 失敗或背叛光明的魔法少女。
+
+**誰能看到代理人？**
+
+- 所有人。
+- 任何人都能看到，但很快會忘記所發生的事。
+- 只有覺醒了光明的人。
+- 那些被魔法少女賦予手段來看見他們的人。
+- 年輕人。
+- 那些曾經歷過與他們有關的創傷經驗的人。
+
+**代理人如何干涉地球？**
+
+- 攻擊神聖場所。
+- 以黑暗之名褻瀆場所。
+- 回收強力神器。
+- 從人類心中竊取光明碎片。
+- 在人類心中播種黑暗。
+- 透過盟約實現自私的願望。
+- 讓黑暗在某個地方顯現。
+
+**光明之界在哪裡？**
+
+- 地球神話中某個天堂的具象化。
+- 超越時間和空間的地方。
+- 一個魔法世界。
+- 碎片化地存在於人類心中。
+- 已不復存在，如今是一個黑暗世界。
+- 人類的夢境世界。
+- 地球上未被觸及的原始景觀。
+- 一座被遺忘的聖所。
+
+**為什麼會有衝突？**
+
+- 光明奪走了黑暗的某樣東西。
+- 黑暗試圖吞噬光明。
+- 雙方對平衡有不同的理解。
+- 向來如此，也將永遠如此。
+- 某個更高存在的遊戲。
+
+**使者是什麼？**
+
+- 光明的僕從。
+- 前一世代魔法少女意識的一部分。
+- 為了與人類溝通而創造的構造物。
+- 魔法少女力量的物質化身。
+- 居住在光明之界的一個種族。
+
+**盟約的內容是什麼？**
+
+- 敞開心扉迎接光明，讓它的一部分留在她的內心。
+- 讓魔法少女體內的光明釋放出來，以便用來對抗黑暗。
+- 宣誓以正義和希望對抗黑暗。
+- 連接周圍的心靈以獲得力量。
+- 覺醒內心沉睡的古老傳承。
+
+**為什麼戰士們是青少年女孩？**
+
+- 賦予她們力量的光明只能容納在那樣的心靈中。
+- 成年人的理想往往不夠堅定且過於模糊。
+- 魔法只能被相信它的人使用。
+- 沒有限制，任何人都可以。
+- 一種傳統。
+- 這一代魔法少女的巧合。
+
+**誰知道真相？**
+
+- 只有戰士們和少數她們信任的人。
+- 政府機構。
+- 秘密組織。
+- 所有人，戰士們是媒體明星。
+
+## 契約傀儡
+
+這類世界觀通常強化恐怖主題。在其中，魔法少女進行著一場註定失敗、沒有未來的戰爭，被神秘的守護者所操控。這些存在將她們當作完成骯髒工作的工具，以實現願望的承諾和漂亮的話語來欺騙她們。現實卻截然不同，因為與守護者締結的盟約通常不會有好結局。
+
+選擇這類世界觀的條件：
+
+- 你們想要強化恐怖與黑暗主題。
+- 你們想要講述悲劇性和令人沮喪的故事，在其中魔法少女試圖緊抓住希望。
+- 你們想要一個模糊不清的世界，在其中所有光明終將熄滅，戰鬥只是為了知道那一天何時到來。
+
+### 深淵與逃脫者
+
+在我們的世界中遊蕩著不屬於此地的邪惡存在。它們被稱為逃脫者，雖然有許多名字：黑暗使徒、怪物、噩夢……它們都有一個共通點：不應該棲息在地球上。它們以人類為食——有時是比喻性的，有時則是字面意義上的。
+
+這些存在小心翼翼地隱藏自己，至少在計畫達到高潮之前是如此。它們的本質使它們對人類的肉眼來說是隱形的。有時只有孩童、瘋人或動物才能察覺到它們的存在。幾乎在所有情況下，看到它們就意味著為時已晚。逃脫者，顧名思義，就是逃犯。它們從深淵中逃脫——那個它們本應被永遠囚禁的地方，那裡才是它們真正歸屬之處。
+
+深淵是我們對一個噩夢般的地方的稱呼——那裡棲息著陷入無盡懲罰、痛苦和折磨循環中的可怕生物。它可能是猶太基督教或其他宗教的地獄，又或者是時間和空間上都遙遠的外星球——那裡棲息著我們的心智無法想像的外星存在。也許深淵是另一個維度——一個黑暗而扭曲的維度——像 Wi-Fi 信號一樣持續圍繞在我們周圍，疊加在我們的世界上而我們無法看到——缺乏適當的「接收器」——但它卻影響著我們的情緒。
+
+在戰役初期，角色們對那個地方及其居民的本質大概所知甚少。在那種初始的天真狀態下，用我們所熟悉的神話觀點來填補空白或許是最簡單的，然後隨著對那個地方及其居民的複雜性有更深的理解，再逐漸偏離那個觀點。
+
+最好的方式是將深淵想像成一個不同的維度，擁有與我們完全不同的物理法則。一個不像真正的場所的地方，我們所知的空間和時間在那裡毫無意義。它就像是我們世界（或另一個世界）的傅立葉轉換，如同某種輻射般環繞著我們。理解它幾乎是不可能的，因此各種神話傳說圍繞它創造了一整套文學作品，但沒有一部能真正描述它的全貌。
+
+在那個維度和我們的維度之間存在著某種連結。那裡的東西是這裡曾經存在或將會存在之物的轉化。它的居民是地球居民過去和未來的回聲——那些負面情緒使他們與那個維度同調的人。宗教試圖解釋說那些是罪人的靈魂，但實際上更像是仇恨、痛苦和折磨的能量——曾經或將會活著的存在被扭曲後的版本。
+
+逃脫者就是那個維度的居民。它們是被困在痛苦和毀滅性情緒螺旋中的存在。從它們身上產生維持宇宙凝聚所需的部分能量——又或者是供超維度存在為其機器提供動力所需的能量。當它們以某種方式穿越到我們的維度時，就像是電視信號被一個不完全合適的接收器解碼一般：它們呈現出扭曲但符合我們信仰和已知物理定律的形態，以怪物的姿態出現在我們之中。
+
+在我們的世界中，它們的純粹負面性以多種方式顯現，形成了一整套分類體系。有些是暴力的化身，造成肉體痛苦和恐怖的死亡；有些則污染心靈，植入深沉的悲傷或憤怒。它們可能是毫無智慧、完全非人化、只求吞噬生命的存在，也可能是極度邪惡但非常聰明的映射——映射著那個孕育它們的人的情緒。
+
+### 王國與條約
+
+如果深淵是一座監獄，那獄卒為什麼不來帶走逃脫者？答案可以簡單到「他們做不到」，也可以複雜到「他們不想」。解決這個問題的核心概念是：如果存在一個黑暗的維度——深淵，那就存在一個光明的維度——王國。雙方在某個時候達成了不干涉我們世界事務的協議。因此，當逃脫者來到地球時，它們正在違反不干涉條約，但它們的捕獲者也不能在不違反條約的情況下追捕和逮捕它們。
+
+我們所說的王國——如果你更喜歡的話也可以叫天國——可能有著與深淵對稱相反的本質。因此，它也是另一個外星世界或另一個維度，居住著不同但同樣可怕的存在。又或者它可能是完全不對稱的：深淵是疊加在我們世界上的維度，而王國則是我們世界的未來版本。存在這樣的選項：王國奉行嚴酷無情的正義，其居民在我們眼中同樣是怪物——只不過是美得令人目盲和瘋狂的怪物。我們可以假設王國及其居民是嚴格遵守條約的，因此不能在我們的世界中現身，但也許特殊情況可能在戰役中改變這一點。如果深淵的居民是可怕而危險的存在，那王國的居民可能更加非人且致命——是連怪物都害怕的怪物。
+
+關於王國和逃脫者，還有其他可供探索的選項。也許那個地方在不可考的年代就已經在一場內部的骨肉相殘戰爭中被摧毀了，如今只剩下廢墟和歷史的殘片，需要拼湊起來才能理解所發生的事。又或者王國和深淵其實是同一個地方——只是在兩個不同的時刻——曾經是人類守護者的存在如今成了想要摧毀人類的怪物……或者反過來也成立。同樣地，也可以簡單地設定王國及其居民對我們的世界毫不關心：兩個地方之間的門（無論是實體的還是隱喻的）在數百萬年前就已經關閉了，沒有人知道如何重新開啟。
+
+一個絕妙的想法是：王國居住著與深淵一樣可怕的怪物，但它們不是讓人產生厭惡和恐懼的感覺，而是產生壓倒性的崇敬和美感。這些存在若以真實面貌被注視，確實能讓人「因愛而死」。一個真正對稱於深淵的王國，在那裡最強烈的正面情緒——接近狂喜的狀態——已經化為實體。既然正面情緒其實比負面情緒更加強大，王國的居民便是比深淵居民強大得多的存在。
+
+就像物質和反物質一樣，王國和深淵的居民如果相遇就注定會相互湮滅，釋放出足以摧毀一切的危險能量。因此，條約保護著現實免受這些相遇的影響——因為我們的世界是兩個維度共同毗鄰的中間紐帶，是它們的居民可能相遇的場所。為了避免這種情況，王國幾乎摧毀了所有通往地球的通道，使得來到這裡幾乎不可能。然而，其中某些通道仍然可以從我們的世界被打開——有時是意外——因此某個強大的天界生物可能在特殊情況下被牽引到地球上。
+
+### 守護者與力量
+
+深淵的獄卒們絕不打算讓逃脫者在我們的世界上遊蕩，但條約阻止它們干預，所以它們需要人類代理人來完成骯髒的工作。守護者就像是深淵的警察，但在我們的世界沒有管轄權。它們唯一被允許的事情是尋找願意負責捕獲逃犯的人類。又或者，就連這一點也是被禁止的，只是少數守護者敢於犯下的唯一越界行為。
+
+守護者的基本概念是一群可怕的存在——充滿力量的瘋狂怪物——但它們盡可能地隱藏自己的本質以招募可能的代理人。這就是為什麼它們以不具威脅性的外貌出現——像是小巧可愛的寵物、不會讓人起疑心的奇幻生物。在這個偽動物形態下——每個守護者都有獨特的形態，但總是甜美而迷人——守護者尋找年輕的人類女孩與之簽訂盟約：她們承諾搜尋和捕獲逃脫者，而守護者則賦予她們這樣做的力量。
+
+當然，守護者也可以是其他的東西。它們可以是深淵中為了賞金而追捕逃脫者的自由代理人。它們可以是一個在戰士死亡或墮落時傳遞力量的人類組織。又或者，它們是一股來自王國的力量，試圖保護人類免受逃脫者的侵害。
+
+被選中執行這項任務的總是年輕女孩——幾乎還是孩子——這是遊戲（及這個類型）的慣例，當然你們可以選擇忽略它（參見第 28 頁）。但如果你們決定保留，大概會希望有一個合理的解釋。守護者只選擇在學少女來完成任務有許多可能的理由。其中最有趣的也許是：守護者說到底是一個腐化的存在，而盟約有著黑暗的一面，會消耗和腐蝕戰士。如果作為捕獲逃脫者的額外收穫，守護者摧毀了一個女孩的純真，使她成為深淵俘虜的有力候選人——那就是額外的好處。當然，解釋可以按你的意願設定得複雜或簡單。被選中的女孩可能必須屬於一個古老血脈，是王國居民或古代怪物獵人的後裔。也許某些女性特有的靈性特質是接受力量的唯一條件，或者盟約的腐化本質只能被年輕女性抵抗足夠長的時間。也許青春期身心所經歷的變化是守護者力量與人類身體結合的唯一窗口。也許一個青少年的人類情感是力量最好的通道。又或者根本沒有解釋——事情就是這樣，只因為傳統如此。
+
+以純真的腐化作為主題，對於採用這類世界觀的遊戲來說是非常合適且誘人的。在一個以苦難和痛苦的情感為能量的深淵中，將光明的存在拉入黑暗，就是為你的陣營贏得了原本是另一方完美候選人的人。
+
+### 雙重生活
+
+從接受力量的那一刻起，戰士就必須面對雙重生活。她現在是一名可怕怪物的獵手，但同時她仍然是一個與父母同住的在學少女，承受著所有這個年紀會有的一切：友情、考試、愛情等等。
+
+這種雙重生活——就像超級英雄的秘密身分一樣——將是遊戲中要探索的主題之一。最常見的情況是，在我們的世界裡，公眾輿論對怪物和戰士的存在一無所知，而保守這個秘密就成了疊加在學業、家庭關係和人際關係之上的又一重負擔——這些構成了一個青少年日常生活的各個元素。但也存在其他選項。可能有政府機構知道正在發生的事情並試圖隱瞞。或者情況可能直接是公開的，而戰士們是擁有大批粉絲、贊助商等等的偶像。
+
+如果一般大眾對正在發生的事情一無所知，保守秘密就成了故事的基本組成部分：偷偷摸摸地從家裡溜出去、編造藉口、對朋友和親人撒謊以保護他們，都將成為戰士們的日常，而任務與日常生活之間的衝突將成為故事的核心。
+
+在戰士作為媒體明星的選項中——一個類似經典超級英雄的世界，融合了 J-pop 偶像或類似的現象——如果戰士們有著被嚴密保護的秘密身分，你們仍然可以達到類似的效果。如果你們選擇讓她們公開身分，那麼保守秘密就會被公眾人物所承受的所有負擔所取代：粉絲、金錢、想利用她們名氣的人、渴望過普通生活等等。雖然我們覺得戰士作為流行明星的想法非常有吸引力，但在對抗逃脫者的戰爭中，它不是最合適的——因為它去除了部分秘密和神秘的元素——但它可能是看到一些有趣想法的機會。由於很少有人知道逃脫者的本質，因此很難決定與誰分享你的秘密。在只有碎片化且往往被扭曲的資訊的情況下試圖理解如此複雜的現實，就成了戰役的核心組成部分。
+
+### 契約傀儡問卷
+
+**深淵是什麼？**
+
+- 懲罰生前犯罪靈魂的形而上場所。
+- 棲息著超越我們理解的外星存在的外星球。
+- 由完全不同於我們的物理法則支配的平行維度。
+- 我們世界的未來。
+- 擁有心靈力量之人的慾望和恐懼的心靈投射。
+- 已經超越虛實界線的虛擬實境世界。
+- 集體潛意識。
+- 以俘虜的痛苦產生能量的電池。
+
+**逃脫者是什麼？**
+
+- 生前為惡之人死後的靈魂。
+- 負面的人類情感。
+- 創傷事件的心靈能量。
+- 覺醒了自我意識的虛構存在。
+- 外星監獄的囚犯。
+- 魔法少女的未來版本。
+
+**誰能看到逃脫者？**
+
+- 所有人。
+- 只有戰士、守護者、其他逃脫者和類似的存在。
+- 純真無邪的人。
+- 動物。
+- 有精神疾患的人。
+- 經歷過創傷事件的人。
+- 曾經臨床死亡的人。
+- 青少年。
+
+**逃脫者在地球上做什麼？**
+
+- 吞噬人類的肉體。
+- 吞噬人類的靈魂。
+- 誘發負面情緒，導致暴力和自殺。
+- 冒充或附身於人。
+- 將我們世界的部分地區變成微型深淵。
+- 打開通往深淵的門以帶來更多逃脫者。
+- 尋找通往王國的門。
+- 在現實中製造扭曲——例如口袋維度——從中影響現實世界。
+
+**王國是什麼？**
+
+- 在死後獎賞善人的形而上界域。
+- 我們世界的過去或未來版本。
+- 深淵的過去或未來版本。
+- 由完全不同於我們的物理法則支配的平行維度。
+- 不存在，沒有王國。
+- 一個外星世界。
+- 擁有心靈力量之人的夢。
+- 人類對正義與秩序的渴望。
+- 電子遊戲中的虛擬實境世界。
+
+**為什麼深淵不直接介入搜捕逃脫者？**
+
+- 王國與深淵之間的不干涉條約阻止了這一點。
+- 深淵的局勢太不穩定，無暇顧及我們世界發生的事。
+- 深淵的統治者或守護者想對其居民隱瞞有人逃脫的事實。
+
+**為什麼王國不介入搜捕逃脫者？**
+
+- 王國與深淵之間的協議阻止了這一點。
+- 王國不關心我們世界發生的事。
+- 王國與我們世界之間的門已經關閉，沒有人知道如何重新打開。
+- 王國的代理人正是逃脫事件的幕後主使，目的是動搖深淵的穩定。
+- 王國目前太過虛弱。
+- 王國確實有所介入——有（公開或秘密的）獵手在搜尋逃脫者並消滅它們。
+
+**守護者是什麼？**
+
+- 深淵的警察。
+- 王國的警察。
+- 已經蛻變為另一種形態的戰士。
+- 以「賞金獵人」身分在法律之外行動的自由代理人。
+- 不存在，沒有守護者。
+- 在戰士倒下時尋找新候選人來繼承力量的人類組織。
+
+**盟約的內容是什麼？**
+
+- 經典的與惡魔的契約。
+- 守護者與戰士之間的心靈連結。
+- 接受一個來自深淵的寄生實體進入你的體內。
+- 成為將周圍人的情感能量引導到自身的管道。
+- 用你有限的靈魂作為力量的燃料。
+- 覺醒到一種所有人類天生具有的啟蒙狀態。
+- 從一位瀕死或即將屈服於腐化的戰士那裡接受力量。
+
+**為什麼戰士們是青少年女孩？**
+
+- 因為腐化純真靈魂對守護者來說是額外的收穫。
+- 因為只有青少年女性特有的體質才能承載盟約的力量。
+- 因為傳統。
+- 某個實體以某種方式將力量蘊藏在她體內。
+- 因為只有怪物獵人漫長血脈中的女性後裔才能被選為盟約者。
+- 因為只有她們擁有足夠的精神韌性來抵抗盟約的腐化。
+- 因為青少年情感的強度是力量所需的能量。
+- 並非如此，任何青少年都可以成為戰士。
+- 並非如此，任何女性都可以成為戰士。
+- 並非如此，任何人都可以成為戰士。
+- 只有她們能看到逃脫者。
+- 純粹的巧合。
+
+**誰知道真相？**
+
+- 只有戰士們和少數她們信任的人。
+- 政府機構。
+- 秘密組織。
+- 所有人，戰士們是媒體明星。

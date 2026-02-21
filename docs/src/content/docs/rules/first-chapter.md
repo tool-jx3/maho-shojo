@@ -5,803 +5,544 @@ sidebar:
   order: 12
 ---
 
-El primer capítulo
-En cada historia tiene que darse un primer paso. Ya tenéis vuestros personajes, 
-vuestro Pacto, vuestros Movimientos… pero ¿y ahora qué? Igual que en las series, 
-en algún momento tocará empezar el primer capítulo.
-Si eres el MC, probablemente pienses: «¿Cómo voy a hacer tantos lugares, localiza-
-ciones, tramas…?». Lo primero de todo es que no te agobies. No vamos a mentirte, 
-no va a ser fácil, pero vamos a enseñarte un truco: vamos a «engañar» a los juga-
-dores para que te hagan el trabajo. Sin embargo, no te confíes, ellos no van a llevar 
-adelante la partida, solo van a darte todas las herramientas e ingredientes. Al final 
-serás tú quien coja todo eso y lo presente.
-Esta fase es similar a la labor de un mago o un ilusionista: vas a llevar una historia 
-que fluye como si todo estuviera preparado, pero, en realidad, no vas a preparar 
-nada. De hecho, ponte como reto usar solo lo que te proporciona el escenario sin 
-preparar nada de antemano.
-¿Parece complejo? ¿Intimidante? Lo es al principio, pero no te preocupes, vamos a 
-ayudarte a realizarlo. Verás como pronto tienes una historia emocionante digna de 
-cualquier manga o anime sobre magical girls.
-Preparación
-Para empezar, imprime los Libretos y ofrécelos a los jugadores. También deberías 
-aprender, o al menos entender, la dinámica de cada Arquetipo. Gracias a ello podrás 
-saber qué tipo de historias y temas son recomendables para cada uno de ellos.
-También os va a ser de ayuda tener una copia de referencia con los Movimientos y 
-reglas más importantes, gracias a la cual evitarás acudir al manual ante cualquier 
-duda. Como MC vas a encontrar muy útil disponer de una tablet o un cuaderno 
-donde anotar todo lo que suceda a partir de este momento.
-El siguiente paso es sentarse y hablar sobre lo que esperáis de la partida. Es ten-
-tador como MC empezar a trabajar y asentar elementos antes de reunirse con los 
-jugadores, pero debes evitar la tentación, caer en ella es un error. Ya llegará el 
-momento de diseñar Eclipses, ahora lo que toca es conocer a los PJ y su entorno. 
-Recuerda usar tus objetivos y principios aprendidos en el capítulo anterior para 
-guiar tu instinto (ver «Maestro de Ceremonias» en la página 194). Una vez que 
-todos entendáis qué esperáis de la partida y qué tipo de historia queréis contar, 
-deberías empezar a unir las piezas en tu mente para comenzar a poner en apuros 
-a las chicas.
-219
-•Oscuridad•
+## 第一次冒險
 
-Empezar el primer capítulo
-Ahora que ya tienes a todos sentados en la mesa (o los sofás, o los cojines…), los 
-jugadores deberían escoger sus Libretos. Trata de responder las dudas que vayan 
-surgiendo sobre la creación de personajes y las mecánicas; es mejor perder unos 
-minutos en este paso antes que interrumpir con dudas la sesión. A veces, algunos 
-jugadores tienen más problemas para sintonizar con las reglas, esto es normal, de 
-modo que tratad de ayudar entre todos cuando alguien lo pida.
-A medida que vayáis completando los personajes, anima a los jugadores a ir descri-
-biendo y pensando sus opciones mientras se mantiene comunicación constante con 
-los demás. Para saber más sobre cómo construir personajes, ve al capítulo «Crea-
-ción de personajes» en la página 26.
-Una vez que comiencen a presentarse interrumpe de manera continua con pregun-
-tas, sácales todo el jugo posible para conocer a las personas con las que se rela-
-cionan, los lugares que frecuentan, su familia, cómo van en clase… Deja claro que 
-en este punto la ambientación está abierta así que ve rellenando el mundo con las 
-ideas que te vayan proporcionando.
-Todos los personajes, sin excepción, tendrán personas importantes en su vida: compa-
-ñeros de clase, profesores, familia. Saca todos los datos que puedas, pregunta sobre tus 
-preguntas, cruza información entre personajes. Pero no hagas solo preguntas acerca 
-de los personajes, sino también sobre los lugares y cómo están relacionados los PNJ. 
-Trata de conectar todo lo posible para darle una vida que después podrás aprovechar 
-para avanzar la historia y, sobre todo, recuerda: nadie está a salvo de la Oscuridad.
-Cuando preguntes no dejes que una respuesta se quede a medias. Si el jugador no sabe 
-por dónde llevar algo, tira una piedra para hacer un derrumbe. A veces un consejo o un 
-intercambio de ideas termina en un poderoso torrente de información. Si lo que te dan 
-no te sirve de mucho, anótalo para más adelante y ataca por ahí cuando la historia lo 
-pida. Tampoco presiones, dejar algún hueco no es malo: puede ser rellenado en el futuro.
-Puedes tener también el efecto contrario con jugadores que no saben enfocar sus res-
-puestas y dan muchas ideas inconexas. Aquí necesitas realizar el movimiento contra-
-rio y concentrar sus respuestas en un único objetivo que profundice en lo que quiere 
-contar. Puede ser, por ejemplo, el club de teatro del colegio, donde la gente es extraña 
-y no se relaciona con nadie más. Si tratas de sacar rumores o especulaciones quizás 
-te estén dando material que descubrir con el avance de la historia.
-Ejemplo 1: Tras un rato pensando, Cristina ha logrado terminar a Inoue, su Guerre-
-ra. Mónica cree que es el momento de empezar con algunas preguntas.
-—Cuéntame algo sobre Inoue.
-—Bueno, está en el club de balón prisionero.
-—Bien, ¿cómo va eso, hay equipo o algo?
-220
-Maho Shojo
+每個故事都要有一個開始。你們已經有了自己的角色、盟約、動作……但接下來呢？就像動畫連續劇一樣，總有開始第一個篇章的時候。
 
-—Sí, más o menos, imagina algo como la serie de los 90 Bola de Dan.
-—Ok, ¿quiénes forman parte del equipo?
-—Son otras cinco chicas, tres de ellas son las componentes de mi «Pandilla», por 
-mi Libreto de Amistad.
-—¿Cómo se llaman?
-—Shinobu, Kotori y Kanaru. Las otras dos son la capitana del equipo, Shizuka, 
-y Hakufu.
-—¿Lleváis mucho tiempo juntas?
-—No, entré a principio de curso. El equipo estaba desesperado porque son bas-
-tante malas y de pronto un día descubrí que no se me daba nada mal. Shizuka 
-me aceptó después de superar el reto. Desde entonces, Shinobu, Kotori, Kanaru 
-y yo somos uña y carne.
-—¿Y las demás?
-—Hakufu es silenciosa, no suele hablar ni hacer mucho. Shizuka es calmada, 
-pero se nota que no le gusto.
-—¿Por qué te aceptó entonces?
-—Bueno, está harta de perder contra un equipo concreto. El equipo de la escuela Suna 
-es muy potente y lleva años machacando al nuestro. Sin embargo, es una persona 
-muy fría que antepone su honor a sus sentimientos, creo que desciende de samuráis.
-—¿Solo crees?
-—Bueno, no… Estoy segura.
-Mónica toma notas sin parar.
-—Ajá. ¿Y por qué te odia?
-—Pues porque piensa que quiero su puesto de capitana y que le he quitado a 
-algunas de sus amigas con mi talento.
-—Interesante… Vamos a hablar un poco de tu familia. ¿Dónde vive?
-—Vive en un edificio de apartamentos, la típica colmena de cientos de casas idénti-
-cas. Mis padres se endeudaron para poder tenerla en propiedad hace unos años.
-—¿Tus padres trabajan?
-—Mi madre solo a tiempo parcial, es empleada en un pastelería por las maña-
-nas. Mi padre trabaja en una vieja fábrica. No está en su mejor momento, pero 
-le permite traer dinero a casa.
-Mónica asiente antes de seguir. Apunta todo lo que le acaba de decir, pues si Cris-
-tina no quisiera que saliera en la partida no lo habría comentado.
-221
-•Oscuridad•
+如果你是主持人（MC），你可能會想：「我要怎麼做出那麼多地點、場所、劇情……？」首先，不要慌張。我們不會騙你，這不會很簡單，但我們要教你一個訣竅：我們要「騙」玩家們替你完成工作。不過也別太安心，他們不會替你推動整場遊戲，他們只是會給你所有的工具和材料。最終是你來把這一切組合起來呈現出來。
 
-¿Y la ciudad?
-Mahō Shōjo tiene como principal fuente de inspiración las historias de anime 
-y manga de magical girls. Un elemento común en estas historias es que se 
-desarrollan en localizaciones japonesas. Podrás ver que, a lo largo de los ejem-
-plos y el texto, hemos decidido seguir esta opción a modo de homenaje y de 
-simplificación, pero no te limites a ello si no quieres.
-En general, la localización y la cultura importan «poco». Los jugadores llevan 
-a chicas de entre 9 y 17 años elegidas para afrontar la Oscuridad (incluso co-
-mentamos en la página 28 que esto también puede ser modificado). Al final, lo 
-más importante es que la localización no sea especialmente grande, para que la 
-importancia la tenga el entorno cercano a los PJ. Incluso cuando sus acciones 
-salvan el mundo de la Oscuridad, parecen ser clave localizaciones como una 
-escuela o un edificio de apartamentos. Mientras aparezcan lugares de similar 
-importancia, no temas ambientar vuestras historias en ciudades medievales, 
-naves espaciales, una isla flotante con la academia de las magical girls en el 
-Pacífico, un pueblo de Los Ángeles, una metrópolis steampunk en Rusia o en 
-el Mar Menor. No os cortéis a la hora de llevar vuestras aventuras fuera del 
-archipiélago japonés.
-Pasar de una idea a algo útil
-A veces los jugadores no serán claros con sus respuestas, o lo serán pero necesita-
-rán ser refinadas. En ocasiones sus propuestas contendrán ambigüedades y puntos 
-de vista subjetivos. Por ejemplo: ¿Qué quiere decir con «estar intranquila» delante 
-de alguien? ¿Crea en todos la misma sensación? Estos elementos abstractos o rumo-
-res deben ser algo más precisos para ser usados correctamente.
-Ejemplo: Mónica pregunta:
-—¿Qué parece andar mal en la ciudad?
-—Ha aparecido una sombra desde que se terminó de construir el edificio Kasu-
-mano. De hecho, cuando se fundó aparecieron los primeros ataques y se nos 
-presentó el Custodio.
-—¿Edificio Kasumano? ¿A quién pertenece?
-—A una empresa, Kasumano, la típica corporación que tiene sus tentáculos en 
-todas partes, pero parece no dedicarse a nada.
-—¿Una gran empresa entonces?
-—Sí, de hecho las criaturas oscuras aparecen siempre donde se reparten sus 
-productos.
-222
-Maho Shojo
+這個階段就像魔術師或幻術師的工作：你要帶領一個看起來一切都事先安排好的故事，但實際上，你什麼都不需要事先準備。事實上，給自己一個挑戰——只使用場景提供的素材，不要預先準備任何東西。
 
-—¿A qué te refieres?
-—Ya sabes, las personas parecen volverse malignas cuando prueban sus cosas: 
-sus videojuegos, su comida, sus cosméticos…
-Mónica les vuelve a preguntar:
-—¿Cómo, criaturas oscuras en sus productos?
-—Sí, la primera vez que vi a una fue un chico que jugó a uno de sus juegos. Se 
-estaba convirtiendo en una sombra y me perseguía por la calle cuando encontré 
-a Nekoyu.
-—¿Cómo va eso exactamente, siempre pasa?
-—No, solo con algunos. No sé, los distinguen.
-—Pero es una gran empresa, ¿no tienen cientos de productos?
-—Sí, pero las tiendas solo se le aparecen a aquellos que pueden corromperse. 
-Los productos que venden en tiendas normales no tienen esa capacidad.
-—Un segundo, ¿dices que hay tiendas fantasma por la ciudad que dan cosas 
-que corrompen a los que las usan?
-—Sí, así es…
-Mónica apunta mientras piensa su próxima pregunta.
-—Ok, ¿habéis encontrado alguna?
-—Sí, nos conocimos las cuatro cuando encontramos la tienda de juegos. El depen-
-diente estaba corrupto, pero cuando le derrotamos tampoco averiguamos mucho.
-—¿Es posible que fuera él?
-—Sí, bueno, supongo que podría ser. Aunque no lo parecía.
-—Pero no estáis seguras, ¿cierto?
-—No, del todo seguras no creo que estemos.
-—¿Sabéis quién puede serlo?
-—La verdad es que el presidente de Kasumano tiene un aura bastante misterio-
-sa, nadie le ha visto, pero todos hablan de él.
-Puede parecer que definir tantos detalles en este momento resulte contrario a tu 
-tarea como MC, pero no es así. Recuerda los principios, para lograr sacar drama de 
-las protagonistas necesitas elementos concretos con los que poder llamar la aten-
-ción de los jugadores. Son ellos los que tienen expectativas de qué esperan ver, así 
-que usar sus guías suele ser lo mejor a la hora de trazar la historia. Aunque como 
-MC tengas la última palabra, no abuses de ella.
-223
-•Oscuridad•
+聽起來很複雜？很嚇人？一開始確實如此，但別擔心，我們會幫助你完成。你很快就會擁有一個足以媲美任何魔法少女漫畫或動畫的精彩故事。
 
-Qué hacer durante el primer capítulo
-Ahora que ya tienes unos personajes delante y unas preguntas respondidas (ya sal-
-drán más, pero asegúrate de haber hecho todas las que necesites o se te ocurran), 
-toca el momento de revelarte una verdad: no va a salir bien. Quizás no esperabas 
-una respuesta como esa, pero no quiero engañarte. Lo que vas a hacer una vez 
-empiece el primer capítulo es sobrevivir. También vamos a revelarte otra cosa: no 
-importa, nadie se va a enfadar por ello.
-Debes tener claro que, a partir de ahora, no vas a poner unos raíles y vender entra-
-das para la atracción. Ahora vais a descubrir qué pasa en el mundo de Mahō Shōjo, 
-entre todos. Lo realmente complicado va a empezar a partir de aquí. Vas a tener que 
-armar una partida completa con un puñado de respuestas, contando solo con los 
-principios y Reacciones del MC como guía. En este momento tu objetivo es saber 
-cómo encaja y funciona el mundo de los PJ y su alrededor. Empieza a apuntarlo 
-todo, cada frase, detalle, explicación y actuación entre personajes.
-Tienes que estar pendiente y preguntar sobre cada elemento, porque cuando lle-
-guen los créditos y la gente se marche a casa va a empezar el trabajo realmente 
-duro. Recuerda, no vamos a mentirte, ser MC es gratificante y da muchos poderes, 
-pero tiene responsabilidades y trabajo.
-Pero ¿cuándo me convertí en chica mágica?
-Por norma general asumimos que en la primera partida que juguéis a Mahō 
-Shōjo los personajes ya habrán creado el Pacto que les permite convertirse en 
-magical girls. La naturaleza y detalles de este evento se dejan para las pregun-
-tas y escenas retroactivas, pero quizás no se jueguen de forma tradicional. Por 
-así decirlo, es como si en una serie empezaras en el capítulo dos, dando por 
-hecho que el capítulo uno fuera la creación de personajes.
-Esta decisión ha sido tomada para que los jugadores y el MC decidan sobre la 
-naturaleza de la Oscuridad y los elementos de la ambientación. De esta manera 
-los PJ ya se conocerán, tendrán conocimiento de sus poderes y sabrán, al me-
-nos, los elementos básicos de la trama que habéis decidido durante la creación 
-de personajes y las respuestas a las preguntas del capítulo «Ambientación».
-Sin embargo, esto es solo una recomendación. Si creéis que vuestra historia se 
-enriquece por jugar este momento, adelante.
-224
-Maho Shojo
+## 準備工作
 
-¿Cómo sobrevivir a la primera sesión?
-Cuando afrontas la primera sesión de Mahō Shōjo puede parecer igual que caminar 
-por un bosque de noche. Sí, tienes un mapa y sabes dónde está el norte gracias a 
-las Reacciones y los principios, pero posiblemente necesites un poco de ayuda adi-
-cional. A continuación se indican algunos elementos clave para responder y utilizar 
-en esta primera travesía:
-	
-✽Muestra todo el color… pero también las sombras.
-	
-✽Usa la fase de creación de los PJ como punto de lanzamiento.
-	
-✽Pregunta y vuelve a preguntar.
-	
-✽Tensa las relaciones y manifiesta las obligaciones.
-	
-✽Usa los Movimientos cuando se desencadenan.
-	
-✽Ofrece una salida cuando tengan miedo.
-	
-✽Pon los focos en varios PJ.
-	
-✽Muestra la magia.
-	
-✽No olvides el conflicto entre la Luz y la Oscuridad.
-225
+首先，列印扮演書並提供給玩家。你也應該學習，或至少理解每個原型的運作方式。這樣你就能知道什麼類型的故事和主題適合他們每一個人。
 
-Muestra todo el color, pero también las sombras
-La vida de las magical girls suele ser colorida. Cada una de ellas tiene amigos, afi-
-ciones, felicidad y muchas otras cosas bellas a su alrededor. Como MC tienes que 
-poner esfuerzo en mostrar estos elementos de su día a día, como un desayuno con 
-la familia, una calle comercial, un buen rato en clase, etc.
-Este tipo de elementos mundanos refuerzan el universo de fantasía doméstica y 
-luminosa que trata de representar Mahō Shōjo, de forma que se crea un contraste 
-con los elementos más fantásticos y la Oscuridad a la que se oponen. Esto provoca-
-rá más impacto cuando muestres, por ejemplo, una web de moda recién publicada 
-que hace que con sus artículos la gente se vuelva mezquina; ese nuevo disco que 
-tiene una letra que provoca la ira de quien lo escucha o ese torneo deportivo que 
-provoca que las personas se sientan perdedoras.
-Estos elementos cotidianos tocados por la Oscuridad crearán un sentimiento más 
-cercano en los PJ sobre su labor como protectores, pues estarán protegiendo algo 
-con lo que realmente están implicados.
-Usa la fase de creación de los PJ como punto 
-de lanzamiento
-¿Recuerdas lo que hemos hablado unos párrafos atrás? Los jugadores te han tenido 
-que dar muchísima información sobre sus personajes. Si les has escuchado, ahora dis-
-pones de localizaciones, misterios, personajes y tramas incipientes dispuestas para ser 
-usadas. Piensa en todo esto como una enorme caja llena de piezas de Lego sin instruc-
-ciones. En este momento te toca a ti, como MC, decidir cómo vas a montar todo eso.
-Usa cada elemento en beneficio de la historia. Por ejemplo, quizás empiece todo con 
-Akari acorralada en el camino a casa de Yoriko o con Kiyomi entregando una carta 
-romántica al chico o chica que le gusta. Empieza con Reacciones suaves y situaciones 
-rápidas y fáciles de resolver. Como si fuera una bola de nieve, cada Movimiento y Re-
-acción te ayudarán a entender y complicar la historia y el mundo que habéis creado.
-Pregunta y vuelve a preguntar
-En tu papel de MC no te cortes en preguntar, pero no te limites a la frase más vieja 
-del rol («¿qué haces?»). Entre tus herramientas existen infinitas preguntas como: 
-¿Qué ves? ¿Cómo lo sabes? ¿De qué le conoces? ¿Qué pasó la última vez que viniste? 
-¿Por qué está tu hermana enfadada contigo?
-Pide detalles: sus habitaciones, sus mochilas, su camino de vuelta a casa… No existe 
-nada trivial, cada respuesta vale oro. Una vez lo tengas, debes refinarlo y entender 
-cómo llevarlo a la Ficción. Realiza más preguntas en cada hueco sobre el que ten-
-gas dudas. ¿Piensas que entonces estás perdiendo el control y no puedes actuar? 
-226
-Maho Shojo
+準備一份包含動作和最重要規則的參考副本也會很有幫助，這樣就不用每次有疑問時都去翻規則書。身為主持人（MC），你會發現擁有一台平板或一本筆記本來記錄從這一刻起發生的一切非常有用。
 
-No te equivoques, estás buscando tramas interesantes y elementos que usar para 
-que los PJ los sientan como suyos y se impliquen. Los jugadores van a crear las 
-piezas, el MC las va a ensamblar.
-Tensa las relaciones y manifiesta las obligaciones
-Los PJ tienen sus destinos enlazados desde la creación de personajes, pero no son 
-los únicos. Su vida se encuentra unida a la de su familia, sus amigos, sus profesores, 
-sus compañeros de clase… la mayoría esperan algo de las protagonistas. Es fácil 
-pensar que el mundo tiene que estar en constante armonía, pero nunca es así. En 
-algún momento ocurre algo y la Oscuridad parece muy interesada en buscar estas 
-conexiones con las magical girls.
-Además, cada PJ tiene obligaciones más allá de ser una elegida de la Luz. Cada una 
-de ellas tendrá compromisos, como deportes, clases particulares o exámenes, a los 
-que tendrá que prestar atención y cuidar para que todo merezca la pena.
-Luchar contra unas Muñecas debe ser igual de dramático que ir a visitar a un amigo 
-al hospital, entrenar para las finales regionales o ayudar en casa.
-Usa los Movimientos cuando se desencadenan
-Los jugadores no deberían decirte qué Movimiento quieren realizar, sino contar lo 
-que hacen para que tú lo traduzcas al sistema. Depende de ti como MC indicar qué 
-Movimiento se desencadena y quién debe tirar los dados. Nunca niegues o ignores 
-un Movimiento porque no sea «adecuado» o te venga mal; ellos son la gasolina que 
-hace que el motor de la historia avance con sus resultados. Puede llegar a pasar que 
-los jugadores eviten hacer Movimientos. No importa: si ves que agachan la cabeza 
-para esquivar el drama y se vuelven conservadores, usa Reacciones para que recu-
-peren el interés de la historia. Su vida y la Oscuridad no van a poder continuar sin 
-sus protagonistas.
-Ofrece una salida cuando tengan miedo
-A veces, los jugadores se echan para atrás y piensan que es mejor no hacer algo que 
-dijeron que iban a hacer. En ocasiones sucede que, después de decir qué hacen, se 
-vuelven conscientes del peligro. Llegará el momento en el que sus PJ se pongan ner-
-viosos y sientan miedo. Es así porque estas son armas utilizadas por la Oscuridad, 
-pero ellas deben comportarse como elegidas de la Luz.
-Como MC, intenta animar a los jugadores y sus PJ, busca aquello que les motiva y sá-
-calo a relucir. «¿Me estás diciendo en serio que la elegida por la Celestial Sword va a 
-dejar a su hermana pequeña atrapada en ese hospital corrompido por un Campeón? 
-Quizás él tenga más miedo de ti porque tienes algo especial de lo que él carece».
-227
-•Oscuridad•
+下一步是坐下來討論你們對遊戲有什麼期望。身為主持人（MC），在與玩家碰面之前就開始工作並確立要素是很誘人的，但你必須抵抗這個誘惑，屈服於它是一個錯誤。設計蝕的時機會到來，現在該做的是認識玩家角色和他們的環境。記得運用你在前一章學到的目標與原則來引導你的直覺（參見「主持人（MC）」）。一旦大家都明白了你們對遊戲的期望以及想要講述什麼類型的故事，你就應該開始在腦中拼湊這些碎片，準備給女孩們製造麻煩。
 
-Pon los focos en varios PJ
-Sí, esto quizás va un poco en contra del género, donde habitualmente la introduc-
-ción de todo el grupo se da a lo largo de varios capítulos, pero es mejor juntar a los 
-PJ lo antes posible. Aquí, todos los jugadores han venido a divertirse, por lo que haz 
-que cada uno tenga al menos una oportunidad de lucirse y ser protagonista de una 
-escena. Cada uno buscará algo diferente y tendrán distintas opiniones sobre lo que 
-es brillar. Por ejemplo, algunos esperan tener escenas personales, otros escenas 
-tristes, otros felices, otros afrontar un problema, algunos combatir con servidores 
-de la Oscuridad… Descubre qué les motiva a cada uno de ellos y ofréceselo.
-Muestra la magia
-Los PJ van a ser elegidos por la Luz para enfrentarse a la Oscuridad. Para este efec-
-to muestra cómo existen pequeños elementos mágicos que solo ellos perciben en 
-el mundo, como por ejemplo visiones o sueños. Procura siempre ser sutil para no 
-romper el escenario de fantasía doméstica en el que habitan.
-En el manga y el anime del genero mahō shōjo es común presentar un animal o 
-criatura que habla, que está representada por el Pacto, como elemento disruptor.
-Según avance la historia empieza a crear elementos cada vez más fantásticos para 
-ellas, pero procura mantener el velo. Como magical girls solo ellas tienen el privile-
-gio de presenciar esta realidad; sin embargo, también son las encargadas de prote-
-ger ambos lados del espejo de la Oscuridad.
-No olvides el conflicto entre la Luz y la Oscuridad
-No olvides mostrar un enfrentamiento contra la Oscuridad en vuestra primera se-
-sión. Este no tiene que ser necesariamente violento, pero debes dejar claro que las 
-magical girls han sido llamadas por la Luz porque existe una amenaza. La Oscuri-
-dad en algún momento tomará algo o a alguien cercano a los personajes y le dará la 
-vuelta a todo. La naturaleza de este peligro y sus objetivos serán clave para conocer 
-el plan de los Avatares y las motivaciones de los servidores de la Oscuridad.
-Las partidas únicas
-Mahō Shōjo no ha sido concebido para realizar historias y partidas que duren una 
-única sesión de juego. No obstante, muchos aficionados solo desean probarlo o 
-pasar un buen rato en una convención.
-Estos elementos anulan muchos de los trucos y herramientas dramáticas que hemos 
-explicado hasta ahora, aparte de que en partidas tan cortas algunas mecánicas (como 
-Lazos o Pactos) no funcionan de manera correcta. Sin embargo, vamos a tratar de dar 
-al MC una serie de recomendaciones para afrontar este tipo de situaciones.
-228
-Maho Shojo
+## 開始第一次冒險
 
-Ve a lo importante
-Las preguntas funcionan bien si quieres narrar durante varias sesiones. Sin embar-
-go, al estar limitado a una única sesión (que posiblemente sea de entre 3 y 5 horas) 
-deberías concentrarte en aquellas que sean especialmente jugosas.
-Además, es bueno que preguntes a los jugadores contra quién se suelen enfren-
-tar y cuáles son sus villanos y problemas habituales, como si fuera un resumen 
-de varios capítulos de una serie. Gracias a estas respuestas puedes visualizar 
-una partida única de forma similar a una OVA de un anime, una pequeña historia 
-autoconclusiva aparte de la serie regular. Algunas preguntas que te ayudarán 
-a centrar esta idea pueden ser: ¿cuáles son las principales relaciones de los 
-personajes? ¿Cómo se formaron como grupo? ¿Qué tipo de enemigos suelen 
-combatir?
-Pide a los jugadores que traten de llegar a un consenso a la hora de dar su respues-
-ta. Cuando tengas todo lo que pienses que vas a necesitar, selecciona las ideas más 
-interesantes para desarrollarlas y ponerlas en acción.
-Sin compasión
-Durante una partida de una única sesión no hay que contenerse, la vida de los per-
-sonajes debe estar en un punto de inflexión. Los problemas mundanos serán agra-
-vados de forma drástica por la influencia de los servidores de la Oscuridad. Quizás 
-se encuentren en una excursión a unos baños termales que toma un giro dramático 
-con la aparición de un Campeón.
-Durante este tipo de sesiones no te preocupes por pasarte, utiliza todo el pre-
-supuesto que quieras mediante poderosos Campeones y carismáticos Avatares 
-que sean adecuados a las respuestas de los jugadores. Ten en cuenta que los PJ 
-no se deben preocupar por cosas como Perder la Luz o el Mal de Atropos, así 
-que disponen de un montón de recursos. Como MC, incluso podrías concederles 
-algunos Avances durante la creación de personajes para tener acceso a algunos 
-trucos adicionales. Piensa siempre a lo grande, porque apenas vais a tener unas 
-pocas horas para jugar y en raras ocasiones tendrás que lidiar con las conse-
-cuencias.
-Como MC tampoco caigas en la trampa de poner solo enemigos y villanos con los 
-que pelear. Mahō Shōjo también trata sobre historias comunes y disfrutar de la 
-vida (o, bueno, sufrir por ella si es lo que le gusta al jugador). Es recomendable que 
-pienses en dos o tres escenas donde enredar a algún PNJ, como amigos y familiares. 
-Gracias a estos momentos tendrán más empatía e implicación cuando lleguen los 
-problemas.
-229
-•Oscuridad•
+現在你已經讓所有人在桌邊坐好了（或是沙發上、或是坐墊上……），玩家們應該選擇他們的扮演書。試著回答他們在角色創建和機制方面出現的疑問；在這個步驟上多花幾分鐘，總比在聚會期間被疑問打斷好。有時候，某些玩家較難掌握規則，這是正常的，所以在有人提出要求時大家互相幫忙。
 
-El final de todo
-Como último consejo como MC, queremos recordarte que en este formato de parti-
-da las cosas no empiezan, terminan. Imagina que es la culminación de 3 o 4 meses 
-de sesiones de juego, el final de un punto argumental. Pregunta a los jugadores 
-sobre sus enfrentamientos anteriores con los Campeones y el Avatar. Durante la 
-partida, evita los grandes misterios, párate un segundo a pensar que directamente 
-te has puesto a ver el último episodio de la temporada.
-Una vez termines da carpetazo a la historia, aunque, ¿quién sabe?, quizás acabe 
-todo de forma tan emocionante y dramática que volváis a jugar.
-¿Y ahora qué?
-Has logrado superar el primer capítulo. Con suerte, además habrá sido lo suficien-
-temente interesante como para que queráis probar el juego unas cuantas sesiones 
-adicionales. Como MC ahora empieza realmente la historia, pero ¿cómo preparas 
-la segunda sesión? Esta vez será más fácil. ¿Recuerdas todas esas notas que has to-
-mado? Pues ahora toca ver las decenas de localizaciones, PNJ, tramas, ambiciones, 
-romances… y darles forma.
-A medida que ordenes y saques información de tus notas, llegará el momento de 
-crear los Eclipses. Un Eclipse es el equivalente a una línea argumental de una serie, 
-dispone de su propia historia, Movimientos, Reacciones, PNJ… Debes tomar la pre-
-caución de no pensar que esto es algo prefijado, estás creando una hoja de ruta, pero 
-no pongas raíles en ella, seguramente os desviéis muchas veces al recorrerla.
-En este punto aclara la mente, respira y repite: «Lo que nunca debo perder de vista 
-es que voy a jugar para ver qué pasa, solo voy a poner mis ideas en orden y enten-
-der cómo están conectados todos los hilos de las protagonistas con la trama». Para 
-saber más de los Eclipses, cómo construirlos y en qué consisten, consulta el capítulo 
-«El Eclipse» en la página 242.
-El ejemplo largo
-Lo que vas a leer a continuación es un ejemplo de cómo transcurre un fragmento de 
-una sesión. La finalidad de esta sección es mostrar a los MC cómo se integra todo 
-lo que hemos visto a lo largo de este libro. Se ha tratado de que las Reacciones del 
-MC aparezcan de forma clara y directa, de forma que sea útil como guía, en lugar de 
-ocultarlas como debería ser en un caso real. Para ello, Mónica, la MC, ha abierto su 
-mente para que podamos leer sus pensamientos en algunos momentos concretos.
-Este fragmento pertenece a la campaña personal de Mónica, ambientada en una 
-población ficticia del sur de Japón llamada Nichinan (sí, esta población existe, pero 
-representa un pequeño puerto pesquero y aquí vamos a convertirlo en una ciudad 
-pequeña).
-230
-Maho Shojo
+隨著你們逐步完成角色，鼓勵玩家們描述和思考他們的選擇，同時與其他人保持持續的交流。要了解更多關於如何建立角色的資訊，請參閱「角色創建」章節。
 
-Antes de empezar, también será útil que conozcas a las cuatro jugadoras y sus 
-personajes:
-Esther va a llevar a Kiyomi, una Campeona con el Libreto de Amistad de Nexo de 
-corazones. Tiene una hermana pequeña y porta la Celestial Sword.
-Cristina va a llevar a Inoue, Una Guerrera con el Libreto de Amistad de Sukeban. 
-Está en el equipo de balón prisionero y, al transformarse, lleva un enorme martillo.
-Vanesa va a llevar a Akari, una Consejera con el Libreto de Amistad de Solitaria. 
-Es una estudiante de élite reservada y que vive sola, pues sus padres trabajan en 
-otro lugar.
-Ruth va a llevar a Yoriko, Una Idol con el Libreto de Amistad de Lealtad. Una chica 
-popular por su canal de Twitch que no le teme a nada.
-En la primera sesión acordaron jugar una historia de Marionetas de los Custodios.
-231
-•Oscuridad•
+一旦他們開始介紹角色，就不斷地提問打斷他們，盡可能榨取資訊來了解他們來往的人物、常去的地方、他們的家庭、學業狀況……讓大家清楚，在這個時候世界觀是開放的，所以用他們提供的想法來填充這個世界。
 
-La escena se encuentra en el clímax de una sesión de juego. Durante el transcurso 
-de esta Yoriko ha tenido problemas con algunos compañeros de clase que le han 
-estado molestando durante toda la semana. En el último encontronazo uno de ellos 
-ha aparecido cubierto con una armadura oscura y, tras derrotarlo, parece que la 
-Oscuridad se ha retirado al interior de una mochila.
-—Voy a ver qué es esa sombra —comenta Kiyomi—, esto está siendo muy extraño.
-—Bien, aparte de los libros escolares, ves una carátula negra con una pegatina 
-—le explica Mónica—. En ella pone «Videoclub Glob».
-—¿Me suena de algo? —le pregunta.
-—No, nunca has escuchado hablar de él —dice Mónica.
-—Un segundo —interrumpe Vanesa—. Déjame examinarlo.
-—Supongo que quieres usar Sabelotodo en esto, ¿cierto? Si es así, adelante.
-—Muy bien, esto es un 8. ¡Le sumo mi Reflexiva y en total es un 10! —excla-
-ma Vanesa—. Voy a seleccionar «¿Cuál es la historia de este lugar, objeto o 
-persona?».
-—Has escuchado rumores que dicen que cuando alguien está triste, preocupado 
-o, en general, se encuentra bajo de ánimos, aparece un misterioso videoclub. Al 
-entrar, su dependiente te entregará una película que hará que puedas cumplir 
-tu deseo. Sin duda este DVD proviene de allí. ¿Cómo sabes todo esto?
-—Se lo escuché a una compañera. ¿Cómo se llamaba? —Vanesa se pone a pen-
-sarlo—. Moemi, sí, una estudiante llamada Moemi.
-232
-Maho Shojo
+所有角色毫無例外地，都會有生命中重要的人：同學、老師、家人。盡可能獲取所有細節，追問你的問題，交叉比對角色之間的資訊。但不要只問關於角色的問題，也要問關於地點以及非玩家角色之間的關聯。盡量將一切連結起來，賦予它生命，之後你就能利用這些來推動故事，最重要的是記住：沒有人能逃離黑暗。
 
-—¿Qué me puedes contar de ella? —Mónica va a aprovechar para aumentar el 
-elenco de personajes gracias a esta información. Si bien ella no tenía esto pensa-
-do, está jugando a descubrir lo que pasa y no va a dejar pasar esta oportunidad.
-—Es una chica de mi clase. No he hablado nunca con ella, pero sí que recuerdo 
-que la escuché decir esto, me siento detrás de ella en clase.
-Mónica anota todo mientras piensa en una escena y confirman que van a ir a 
-buscar a su compañera. Cuando entran a clase ven a Moemi sentada. Parece 
-estar escribiendo algo.
-—Buenas, Moemi. ¿Puedo hacerte una pregunta? —le comenta Vanesa.
-—Bien. Ves que ella se gira extrañada, te ves reflejada en sus gafas antes de que 
-te responda —le describe Mónica—. «Sí. ¿Ocurre algo?».
-—Verás, me preguntaba si sabías algo del Videoclub Glob, hay muchos rumores 
-sobre él y te escuché decir algo el otro día.
-—Bueno, creo que estás tratando de influir en ella para obtener algo, eso son 
-Palabras desde el corazón.
-Vanesa piensa unos segundos qué podría contestarle para que no hubiera la 
-necesidad de desencadenar un Movimiento, pero la situación es suficientemen-
-te ambigua como para que quizás no esté dispuesta en colaborar.
-—Tengo -1 en Emocional, pero Sabelotodo me da un +1 al siguiente Movimien-
-to que esté relacionado con la respuesta. ¿Es así? —Espera hasta que Mónica 
-asiente para lanzar los dados. Por desgracia saca solo un 5.
-Es el turno de que Mónica haga una Reacción. Está pensando entre varias, pero 
-si Moemi conoce el videoclub es porque habrá estado. Se fija en ese momento en 
-Pon a inocentes en peligro, ahora tiene una idea de cómo continuar la historia.
-—Cuando empiezas a hablar de esto parece nerviosa, puedes ver que cierra el 
-cuaderno rápidamente. Solo te da tiempo a ver una palabra que te inquieta 
-sobremanera. A continuación, te dice: «Lo siento, no sé de qué me hablas. Si me 
-disculpas». Y se marcha.
-—Deberíais haber dejado esto a una profesional —interrumpe Ruth—. Serás muy 
-buena en los estudios, pero con las personas a veces te pasas de directa.
-—Pues adelante, Yoriko, mira a ver si puedes hacer algo. Estoy muy preocupada 
-—dice Vanesa.
-La jugadora de Yoriko describe cómo empieza a buscar a Moemi para intentar hablar 
-con ella. Mónica no está muy segura de qué hacer ahora, está improvisando, pero 
-tiene algunas herramientas de lo que ha ido saliendo en la partida. Tiene en mente los 
-principios del MC «Piensa también en lo que sucede fuera de plano» y «Piensa en cómo 
-233
-•Oscuridad•
+當你提問時，不要讓回答只說一半就停下。如果玩家不知道怎麼繼續發展某件事，就丟一顆石頭製造崩塌。有時候一個建議或一次想法交流會變成一股強大的資訊洪流。如果他們給你的東西用處不大，就先記下來，等故事需要時再從那裡切入。也不要施壓，留一些空白不是壞事：以後可以再填補。
 
-la Oscuridad acecha en lo cotidiano» para encontrar el camino y, a continuación, hace 
-una Reacción amparada por «Cuando no haya nada de acción o drama». Busca unos 
-segundos una Reacción que le pueda gustar a Yoriko. Ella es un personaje muy social y 
-leal. Usa su Reacción Plantea un peligro específico para el personaje.
-—Si bien no la encuentras, escuchas a un grupo de alumnas mencionar su nom-
-bre. Ves cómo entran en el baño de chicas ,y tras observar alrededor, una de 
-ellas cierra la puerta —le indica Mónica.
-—Voy a acercarme. Abro la puerta con cuidado de que no me oigan y trato de 
-escuchar qué pasa dentro —describe Ruth.
-—Bien. ¿Te importa que te descubran? —Mónica observa a Ruth y esta se lo con-
-firma—. Entonces tira Superar el peligro con Protectora.
-Ruth protesta sobre por qué ha escogido Protectora para esto. Mónica argumenta 
-que parece que está tratando de buscar y proteger a Moemi, o, al menos, que está 
-preocupada por ella. Aunque se muestra reticente termina aceptando y tira con su 
-0 de Protectora para obtener un 8.
-Mónica decide que va a hacer una Reacción suave eligiendo Diles los requisitos o 
-consecuencias y pregunta.
-—Empiezas a escuchar algo y sabes que Moemi está ahí. Parece nerviosa o 
-asustada. Podrías seguir escuchando, pero te descubrirán, o marcharte y espe-
-rar para abordarla luego. ¿Qué haces?
-Ruth decide no aceptar ninguna de las opciones, va a tomar el protagonismo.
-—Abro la puerta y entro con paso seguro. Digo: Buenas, chicas. ¿Que hacéis por 
-aquí? Oh, fíjate, Moemi, a ti te estaba buscando. ¿Pasa algo? Debéis saber que es 
-mi amiga. ¿Tenéis algún problema? Porque, si lo tenéis con ella, lo tenéis conmigo.
-Mónica está sorprendida del resultado de la Reacción, piensa que eso desde luego 
-merece activar el Movimiento Al escenario… Let’s go de la Idol y le entrega el punto 
-de Popularidad.
-—Yoriko, aquí no se te ha perdido nada. Márchate —le dice Kanzaki, la líder de 
-las chicas.
-—Bueno, tengo cosas que hablar con mi amiga Moemi. No me pienso marchar 
-—responde Yoriko.
-Mónica ve que es un momento en el que se cumple «Cuando está tan claro que te 
-sirven la oportunidad en bandeja». A continuación aplica la Reacción: Muestra 
-señales de una amenaza inminente.
-—Ves cómo, con un gesto de cabeza de Kanzaki, las chicas empiezan a rodearte. 
-¿Qué haces?
-234
-Maho Shojo
+你也可能遇到相反的情況——有些玩家不知道如何聚焦回答，給出很多不相關的想法。這時你需要做相反的事，把他們的回答集中到一個目標上，深入挖掘他們想要講述的東西。比如說，可能是學校的話劇社，那裡的人很奇怪，不跟任何人來往。如果你試著挖掘傳言或推測，他們也許正在給你隨著故事推進可以發掘的素材。
 
-—Las miro con atención, me río a carcajadas y les digo: ¿En serio queréis hacer 
-eso? Vamos, chicas, ninguna es tan estúpida como para hacerle caso a Kanzaki. 
-¿No sería mejor que os marchaseis? Voy a usar también mi popularidad para 
-hacer ¿A quién crees que elegirán? ¿Puedo?
-—Sí, todo me parece correcto —confirma Mónica, indicando que utilice 1 punto 
-de Popularidad—. La situación da un giro cuando empiezan a discutir entre ellas 
-y terminan poniéndose en tu bando, dejando sola a Kanzaki, que se ve obligada 
-a irse al ver que ha perdido la discusión.
-Ruth trata de sacarle nueva información a Moemi. Si bien podría solicitar un Mo-
-vimiento de Palabras desde el corazón, no lo cree necesario. Viendo el desenca-
-denante del Movimiento, «Cuando tienes trato con un personaje del MC al que 
-puedas influenciar y trates de obtener algo» es adecuado. Sin embargo, no está 
-tratando de obtener nada, porque Moemi está tan agradecida que no tiene proble-
-ma en contarle la verdad.
-Según relata, ella lleva un tiempo siendo acosada por las chicas de Kanzaki. Esta-
-ba tan agobiada que empezaba a pensar en hacer algo desesperado cuando, de 
-pronto, encontró el Videoclub Glob hace un par de semanas. El dueño le ofreció un 
-DVD, pero no lo ha visto, hay algo en él que la hace sentir incómoda. Después de 
-eso, Yoriko consigue que le diga dónde encontró el videoclub.
-Las chicas se encuentran al atardecer paseando por la calle que les indicó su com-
-pañera. Por desgracia para ellas, no logran ver el local al que se refería. Inoue se 
-dirige a Nekoyu para que les ayude.
-—Siento que debería estar por aquí. ¿No lo notáis? —Mónica les dice que, gra-
-cias a los sentidos del Custodio, pueden confirmar que están en lo correcto.
-—Voy a tratar de concentrarme para dejarme guiar por el Custodio —le dice 
-Vanesa a Mónica.
-—Ok, creo que para ello necesitas usar A la luz de la verdad.
-—Muy bien, eso va con Reflexiva y con esta tirada es un 10. Tengo tres pregun-
-tas, así que empiezo: ¿Qué hay aquí que no es lo que parece?
-—Ves que entre las dos casas hay una gran oscuridad concentrada que obliga a 
-apartar la mirada, por eso la mayoría la ignoran.
-—¿Qué debilidad puede usar la Oscuridad?
-—Parece que aquellos que están tristes o desesperados son atraídos a este lugar.
-—¿Qué debería preocuparme?
-—Sabes que dentro hay un poder superior a cualquier enemigo al que os hayáis 
-enfrentado hasta ahora. Entrar sin estar preparadas puede ser letal.
-235
-•Oscuridad•
+:::note[範例]
+經過一番思考後，Cristina 完成了她的角色 Inoue——一位鬥士。Mónica 覺得是時候開始提一些問題了。
 
-Akari informa de sus descubrimientos a sus compañeras cuando, de pronto, Inoue 
-se levanta y le pega una patada a la Oscuridad. Mónica lo ve claro, va a aplicar 
-Oscurece su corazón como Reacción para darles un susto:
-—Justo en el momento en el que golpeas algo en ti se preocupa, recuerdas algo 
-terrorífico de tu infancia, pero terminas recuperándote. Ante vosotras veis un 
-viejo videoclub con el cartel «Videoclub Glob». Anótate un Punto de Oscuridad.
-—Vale, eso es preocupante, pero voy a entrar —dice Cristina dudando.
-—¡Nosotras la seguimos! —exclama Esther y el resto lo confirma.
-Mónica les describe el interior del lugar, un local viejo, sucio e inquietante.
-—Veis a un dependiente que parece un hombre mayor con perilla. Os observa 
-al pasar.
-—Me acerco y me encaro con el dueño, diciéndole: «Perdone, ¿este lugar qué es? 
-Me han dicho que aquí pasan cosas raras».
-—Bien, ahí, directa al grano. Muy bien, Inoue. —Aplaude Ruth como Yoriko.
-—«Marchaos de aquí, niñas, no hay nada que os interese. Ni siquiera sé por qué 
-habéis entrado», os responde el viejo.
-—No. No me voy sin respuesta. —Mónica le comenta que haga una tirada de 
-Palabras desde el corazón si lo que busca es una revelación—. Emocional 0, así 
-que tiro los dados y…, por supuesto, un 2. Quizás no fui lo suficientemente clara, 
-pero ahora toca lanzar una piedra más grande.
-—Vuelas por los aires y te estrellas contra una estantería. Las demás veis cómo 
-de pronto el anciano se ha convertido en un ser enorme de más de trescientos 
-kilos. Tiene el pelo lacio y largo con varias calvas y una piel de color mortecina. 
-Os mira y dice: «Os advertí, niñas, quizás no me servís para mis planes, pero se-
-guro que algo podré hacer con cuatro chicas como vosotras», mientras se rela-
-me y se frota la panza. Inoue, anótate 4 Puntos de Angustia. ¿Cómo los evitas?
-—Pago 2 Puntos de Amistad. —Los resta de su ficha.
-Las chicas corren a describir sus transformaciones y Mónica les confirma que de-
-ben realizar el Movimiento de Transformación. Se dirige a Kiyomi, pues la jugado-
-ra lleva un tiempo parada y es el momento de ponerla bajo el foco:
-—Ser de poderes oscuros, escúchame. Has cometido el error de enfrentarte a la 
-elegida de la Celestial Sword, es el turno de que tu Oscuridad desaparezca aquí. 
-—Tras esta frase cumple Discurso de entrada y Mónica le entrega un Punto de 
-Luz. Esther sube su Medidor de Poder a 1. Tras esto continúa—. Me abalanzo 
-sobre él con mi espada.
-236
-Maho Shojo
+——跟我說說 Inoue 的事。
 
-En una situación normal Mónica le dejaría realizar Castigar la Oscuridad, pero ve 
-que Glob el Asqueroso tiene el Don de Olor nauseabundo.
-—Cuando te acercas hueles de pronto una enorme peste que sale de él. Si quie-
-res realmente golpearle con esa espada tendrás que Superar el peligro o vo-
-mitar. ¿Qué haces?
-—Voy a usar mi poder sobre el viento para crear un pequeño escudo que aleje 
-esa peste de mí.
-—Eso suena a que intentas controlar y dominar la situación con tus poderes, así 
-que la tirada es con Entregada.
-—Un 10, lo logro. ¿Puedo terminar de presentarle la Celestial Sword? Le voy a 
-intentar partir por la mitad desde la cabeza.
-Ahora Mónica sí le indica que use Castigar la Oscuridad y saca un 8.
-—Escojo «Haz Castigo a tu enemigo y sufre Angustia». Mi castigo es 2, 1 por 
-estar transformada y otro por la opción Por el poder de la Justicia.
-237
+——嗯，她在躲避球社。
 
-Mónica ahora debe pensar. Habitualmente con el Don (Armazón) 4 [Grasa corpo-
-ral] no le haría Castigo, pero, al haber dicho que le golpeaba en la cabeza, debe 
-hacer caso a la Ficción. Tras meditarlo piensa que la cabeza no está dentro de la 
-protección de la grasa corporal y le aplica el Castigo completo. Glob tiene un total 
-de Nivel de Oscuridad de 24 (PJ×6, 4 × 6 = 24) así que le quedan 22.
-—Muy bien, tras esto te atrapa en el aire con los brazos y empieza a apretar, te 
-hace 4 Puntos de Angustia. —Esther se quita 2 Puntos de Amistad para reducirla 
-a 0—. Estás atrapada, ¿qué haces?
-—Trato de forzar y abrir la presa a puro músculo.
-—Usa Superar el peligro con Combativa. —Por desgracia solo saca un 7 y Móni-
-ca usa la Reacción Diles los requisitos o consecuencias y pregunta—. Puedes 
-escaparte, pero sabes que sufrirás Angustia, o bien puedes decidir quedarte 
-como estás, a la espera de que otra compañera te libere.
-Esther escoge la segunda y Mónica decide mandar el foco a Vanesa.
-—Empiezo a disparar. Mi intención no es tanto dañarlo como molestarle para que 
-suelte a Kiyomi. Imagínate, como la picadura de un mosquito —dice con Akari.
-Tras confirmar que usa Superar el peligro con Reflexiva, porque es algo que re-
-quiere su inteligencia y su astucia, Akari saca un 11 en total. Le entrega un Punto de 
-Luz, que hace que suba su Nivel de Poder a 1, y suelta a Kiyomi. Aunque la intención 
-de Mónica era pasar a Cristina, de pronto Esther empieza a describir.
-—Al tocar el suelo, extiendo mi mano con la espada y concentro los poderes del 
-viento. Cuando esté listo voy a lanzarle entre los ojos el Celestial Burst.
-Esto es posible porque no existe un turno de palabra. La conversación debe surgir 
-libremente y esto ha sido adecuado. Mónica va a permitir que Kiyomi realice el Mo-
-vimiento Poder del Corazón y a continuación regresará a Inoue.
-—Eso son 7 puntos de Castigo, ahora…
-Mónica le interrumpe, baja a 15 el Nivel de Oscuridad. Debe hacer que todas las 
-chicas sean protagonistas, debe ser admiradora de los personajes.
-—Un segundo. La viñeta pasa a Inoue, que está tirada sobre una estantería 
-rota. ¿Qué haces?
-—Me levanto y me sacudo el polvo. Tras eso voy a demostrarle a ese tipo qué 
-es un golpe de verdad. —Mira a Esther—. Después de ver lo que ha hecho con el 
-Celestial Burst no voy a ser menos. Hago el gesto de lanzar una pelota al aire y 
-la bateo con mi martillo al grito de «Ice Strike!».
-—Espera, ¿cómo? Si tienes Nivel de Poder a 0 —le replica Mónica.
-—Es cierto. Vale, pues utilizo una versión reducida del poder para golpearle nor-
-mal. ¿Puedo hacerlo?
-238
-Maho Shojo
+——好的，那是什麼情況，有球隊之類的嗎？
 
-Mónica piensa que con el Tema Hielo es perfectamente posible, pero para ello ten-
-drá que realizar un Castigar la Oscuridad primero.
-—Obtengo un 11 en total gracias a mi Combativa +2. Eso es un Punto de Luz, 
-¿cierto? —Espera a que la MC le dé el ok antes de seguir—. Voy a a escoger 
-hacer Castigo a mi enemigo, que es solo 1, pero no se espera lo que ocurre a 
-continuación.
-Mónica está expectante y le sigue dando la palabra. Cristina continúa:
-—Cuando se quita la bola de nieve de los ojos solo puede ver un trozo de hielo, 
-el Ice Strike! le golpea en la cara.
-—Vale, ahora sí.
-—Hago un total de 6 de Castigo, pero uso uno de Ímpetu para que sean 9. Su 
-cuerpo es impactado por mi bola de hielo.
-Ahora sí que Mónica aplica el Don Armazón de Glob para reducirlo a 5. Baja a 10 el 
-Nivel de Oscuridad, pero debe darles una pista en la Ficción.
-—Ves que tu Ice Strike! golpea, pero la grasa de su cuerpo parece haber acol-
-chado el golpe y tu ataque rebota.
-Es el momento de usar una Reacción suave, Muestra señales de una amenaza 
-inminente. Por lo que ve, según la regla puede usarla «Cuando no haya nada de 
-acción o drama» y esto no está siendo muy dramático.
-—Cuando la bola cae al suelo y desaparece, veis como Glob saca de debajo del 
-mostrador un mayal hecho de cintas VHS y comienza a girarlo. Inoue, ¿qué 
-haces?
-—Voy a acercarme corriendo y le voy a golpear de nuevo en el estómago. No va 
-a necesitar ir al baño después. Y sí, me da igual el olor, me abalanzo tan rápido 
-que puedo ignorarlo.
-—Lo que no vas a ignorar es la tirada, pero hazla con Combativa. —Mónica ríe, 
-aún más cuando ve cómo Cristina saca un 6 en la tirada de Superar el peligro 
-y se golpea contra la mesa maldiciendo su suerte de hoy. Piensa en que no es 
-justo hacerla parecer una inútil, y va a usar Haz que su Movimiento se vuelva 
-en su contra.
-—Golpeas a Glob y le haces el Castigo, pero también ves cómo empieza a vomi-
-tar y te entierra en una montaña de casetes que salen de su cuerpo. Me temo 
-que estás atrapada.
-Tras gastar otro punto de Ímpetu, ya le quedan pocos, solo hace 4 de Castigo. Esto 
-es insuficiente para superar su Armazón, pero al menos no se siente como una 
-incompetente.
-239
-•Oscuridad•
+——有，差不多就是，想像一下像九〇年代的動畫《閃電乍現》那樣的東西。
 
-Mónica mira a Ruth para indicarle que es su momento de brillar con Yoriko.
-—Mientras está vomitando voy a subirme a su espada para golpear a Glob en 
-la base del cuello con mi naginata. Voy a aguantar la respiración para intentar 
-evitar su olor.
-Mónica ve que está usando Protectora para Superar el peligro y obtiene un 10. 
-Ahora, con su Nivel de Poder a 1, cuando está encima le indica que use Castigar la 
-Oscuridad para ver cómo Ruth saca 12 y ahora su Nivel de Poder es 2.
-—Le hago solo Castigo 1 y uso mi Ascensión +1 para subir mi Protectora. A con-
-tinuación, quiero saltar delante de él y trazar una distancia de seguridad para 
-proteger a mis compañeras.
-—Pues usa Siempre a vuestro lado.
-Mónica observa cómo vuelve a sacar otra tirada superior a 10 y le da su tercer 
-Punto de Luz, que pone su Nivel de Poder a 3, y 3 puntos de Siempre a vuestro lado.
-Con su nuevo nivel de Ascensión, Yoriko sube su Combativa.
-—Cuando la veo hacer eso, cargo la bala blanquinegra y la disparo susurrando 
-«Monochrome Shield», que le da Armadura +2 —se apresura a decir Vanesa. 
-Recordemos que Akari tiene Nivel de Poder 1, que le desbloquea su Poder del 
-corazón P.
-—Vale, veis que, usando su mayal, va a golpear a Kiyomi. Parece un poco des-
-esperado. ¿Qué hacéis?
-—Voy a tratar de parar su golpe con la Celestial Sword interponiéndola entre su 
-mayal y mi cuerpo. —Esther lanza una tirada de Superar el peligro con Protec-
-tora, pero solo obtiene un 5.
-—Vale, ves como te golpea y…
-—Espera. Gasto un punto y aparezco yo frente a él. El mayal me impacta prote-
-giendo a Kiyomi —dice Vanesa interrumpiendo a Mónica.
-—Justo a tiempo, ¿eh? Pues entonces eres tú la que te apuntas 8 de Angustia. 
-¿Cómo lo evitas?
-—Tengo Armadura 2, con un Punto de Amistad y una Consecuencia Destrozada 
-es suficiente, ¿verdad?
-—Sí. Ahora, Kiyomi ves cómo tu compañera ha interceptado algo que sabes que 
-te tocaba a ti, así que, ¿qué haces?
-—Paso rápidamente por debajo de sus brazos y voy a recoger el martillo de Inoue 
-del suelo. —Este es un detalle que Mónica va a aceptar porque no especificó que 
-quedara enterrado junto a su dueña y sabe lo que pretende Esther ahora—. Le 
-golpeo en la barbilla con el martillo y trato de decapitarle con mi espada.
-240
-Maho Shojo
+——好，球隊有哪些人？
 
-—Antes de hacer eso gasto otro punto para sumar mi Castigo al suyo, mis po-
-deres de fuego cubren las dos armas —interviene Ruth. Ahora solo le queda 1 
-punto de Siempre a vuestro lado.
-—No hacía falta ensañarse. Kiyomi, usa Castigar la Oscuridad.
-—No, porque solo me ha salido un 7. Me da igual, le golpeo aunque me lleve 
-Angustia —dice Esther un poco decepcionada—. Eso son 2 por mí y otro por el 
-fuego de Yoriko.
-Mónica confirma que Glob el Asqueroso ha sido destruido.
-—Veis que el ser explota en una lluvia de casetes, VHS, DVDs… Según lo hace, 
-lo que había en las estanterías desaparece. Sentís que la vieja Oscuridad se ha 
-marchado con el propietario del lugar.
-—Si no os importa, ¿podéis sacarme de aquí abajo? —dice Cristina—. Y, ya de 
-paso, ¿alguna me acompaña a celebrarlo?
-Tras perder 1 Punto de Luz cada una y bajar su Nivel de Poder a 0, toca pasar a la 
-próxima escena.
-Un poco después, las cuatro se encuentran tomando unos helados en una heladería 
-cercana. Felices de haber logrado su victoria, hablan sobre la serie que vieron el día 
-anterior. Mónica le indica a Cristina que sea ella la que realice la tirada del Movi-
-miento Historias de la vida. Para variar, en el día de hoy solo logra un éxito parcial 
-con un 9, cada una obtiene 1 Punto de Amistad por participar y otro como opción, 
-menos Yoriko, que en su lugar escoge desmarcarse Destrozada.
-Mónica decide usar una Reacción, pues piensa que el momento es adecuado para 
-«Cuando no haya nada de acción o drama» y se decide por Muestra señales de una 
-amenaza inminente. Se dirige a Yoriko y le dice que ve a Kanzaki como pasajera en 
-una moto. Un montón de moteros aparca frente a la heladería. Aún no lo ha visto, pero 
-sabe que el líder es el hermano de Kanzaki. ¿Viene a arreglar un tema pendiente?
-241
-•Oscuridad•
+——另外五個女生，其中三個是我友情扮演書裡「夥伴團」的成員。
+
+——她們叫什麼名字？
+
+——Shinobu、Kotori 和 Kanaru。另外兩個是隊長 Shizuka，還有 Hakufu。
+
+——你們在一起很久了嗎？
+
+——沒有，我是學期開始時加入的。球隊當時很絕望，因為她們打得相當差，然後有一天我突然發現自己打得不錯。Shizuka 在我通過挑戰後接受了我。從那以後，Shinobu、Kotori、Kanaru 和我就形影不離了。
+
+——那其他人呢？
+
+——Hakufu 很安靜，通常不太說話也不太活動。Shizuka 很沉著，但看得出來她不喜歡我。
+
+——那她為什麼接受你？
+
+——嗯，她已經受夠了輸給一支特定的隊伍。砂丘學園的隊伍非常強，多年來一直碾壓我們的隊伍。不過她是一個把榮譽放在感情之上的冷靜的人，我覺得她有武士血統。
+
+——你只是覺得？
+
+——好吧，不是……我很確定。
+
+Mónica 不停地做筆記。
+
+——嗯哼。那她為什麼討厭你？
+
+——因為她認為我想搶她的隊長位置，而且我用我的才能把她的一些朋友搶走了。
+
+——有意思……我們來聊聊你的家庭吧。她住在哪裡？
+
+——住在一棟公寓大樓裡，就是那種有上百戶一模一樣的住家的典型蜂巢式建築。我父母幾年前為了買下它借了很多錢。
+
+——你父母有在工作嗎？
+
+——我媽只做兼職，早上在一家糕餅店當店員。我爸在一家老舊的工廠工作。工廠狀況不太好，但至少能賺錢養家。
+
+Mónica 在繼續之前點了點頭。她把剛才聽到的全部記了下來，因為如果 Cristina 不想讓這些出現在遊戲裡，她就不會提到這些。
+:::
+
+:::note[城市呢？]
+Mahō Shōjo 的主要靈感來源是魔法少女的動漫和漫畫故事。這些故事的一個共同元素是它們發生在日本場景中。你會看到在整個範例和文字中，我們決定沿用這個選擇作為致敬和簡化，但如果你不想這樣做，不必受限於此。
+
+一般來說，地點和文化「不太重要」。玩家們扮演的是九到十七歲之間被選中對抗黑暗的女孩（我們甚至在角色創建章節中提到這也可以修改）。最終，最重要的是地點不要特別大，這樣重要性才會落在玩家角色身邊的環境上。即使當她們的行動拯救了世界免受黑暗威脅，像學校或公寓大樓這樣的地點似乎仍然是關鍵。只要出現類似重要性的場所，就不必害怕將你們的故事設定在中世紀城市、太空船、太平洋上漂浮的魔法少女學院之島、洛杉磯的小鎮、俄羅斯的蒸汽龐克大都市或其他任何地方。不要在把你們的冒險帶出日本群島這件事上有所顧慮。
+:::
+
+## 從想法到實用素材
+
+有時候玩家的回答不會很明確，或者雖然明確但需要進一步精煉。有時候他們的提議會包含模糊之處和主觀觀點。例如：在某人面前「感到不安」是什麼意思？這是否在所有人心中都產生同樣的感覺？這些抽象元素或傳言需要更精確才能被正確使用。
+
+:::note[範例]
+Mónica 問道：
+
+——這座城市似乎有什麼不對勁的地方？
+
+——自從霞野大樓建成以來，一股陰影就出現了。事實上，在它建立的時候就出現了第一波襲擊，守護者也在那時現身在我們面前。
+
+——霞野大樓？屬於誰的？
+
+——屬於一家公司，霞野，就是那種把觸手伸到每個角落的典型企業集團，但似乎什麼都不做。
+
+——那是一家大企業嗎？
+
+——是的，事實上黑暗生物總是出現在他們的產品散佈的地方。
+
+——你指的是？
+
+——就是你知道的，人們在使用他們的東西之後似乎會變得邪惡：他們的電玩、食物、化妝品……
+
+Mónica 再次問她們：
+
+——什麼，黑暗生物在他們的產品裡？
+
+——是的，我第一次看到的時候，是一個玩了他們遊戲的男孩。他正在變成一個陰影，在街上追我，然後我遇到了 Nekoyu。
+
+——這具體是怎麼回事，總是這樣嗎？
+
+——不，只有某些人會。我不知道，它們會識別目標。
+
+——但這是一家大企業，他們不是有數百種產品嗎？
+
+——是的，但那些店只會出現在那些可以被腐化的人面前。在一般商店販售的產品沒有那種能力。
+
+——等一下，你是說城市裡有幽靈商店，發放東西來腐化使用它們的人？
+
+——是的，就是這樣……
+
+Mónica 邊寫邊思考她的下一個問題。
+
+——好，你們有找到過嗎？
+
+——有，我們四個就是在找到那家遊戲店的時候認識的。店員已經被腐化了，但我們打敗他之後也沒查出什麼。
+
+——有沒有可能那個人就是幕後黑手？
+
+——有可能，嗯，我想他可能是。但看起來不像。
+
+——但你們不確定，對吧？
+
+——不，完全確定的話……我不覺得我們能說是。
+
+——你們知道誰可能是嗎？
+
+——老實說，霞野的社長有一種相當神祕的氣場，沒有人見過他，但所有人都在談論他。
+:::
+
+看起來在這個時候確定這麼多細節似乎與你身為主持人（MC）的任務相矛盾，但事實並非如此。記住原則，要從主角們身上挖出戲劇性，你需要具體的元素來吸引玩家的注意力。是他們對想看到什麼有所期待，所以使用他們的引導通常是勾勒故事的最佳方式。雖然身為主持人（MC）你有最終決定權，但不要濫用它。
+
+## 第一次冒險該做什麼
+
+現在你面前已經有角色和一些已回答的問題（還會有更多，但確保你已經問了所有你需要的或想到的問題），是時候向你揭露一個真相：事情不會順利進行。也許你沒有預期到這樣的回答，但我不想欺騙你。一旦第一次冒險開始，你要做的就是存活下來。我們也要告訴你另一件事：這沒關係，沒有人會因此生氣。
+
+你必須清楚，從現在開始，你不是在鋪設軌道然後販賣遊樂設施的門票。現在你們要一起去發現 Mahō Shōjo 的世界裡發生了什麼。真正困難的部分從這裡開始。你必須用一把回答拼湊出一場完整的遊戲，只以主持人（MC）的原則和反應作為引導。此刻你的目標是了解玩家角色的世界及其周遭環境如何組合和運作。開始把一切都記下來——每一句話、每個細節、每段解釋，以及角色之間的每一次互動。
+
+你必須保持警覺，詢問每一個元素，因為當結束語出現、大家各自回家之後，真正辛苦的工作才開始。記住，我們不會騙你，當主持人（MC）是很有成就感的，也賦予你很多權力，但伴隨著責任和工作。
+
+:::note[但我是什麼時候變成魔法少女的？]
+一般來說，我們假設在你們第一次玩 Mahō Shōjo 的遊戲聚會中，角色們已經訂立了讓她們變身為魔法少女的盟約。這個事件的性質和細節留給提問和回溯場景來處理，但也許不會以傳統方式進行。可以這樣理解——就像在一部連續劇中你從第二集開始看，而把第一集當作是角色創建的過程。
+
+這個決定是為了讓玩家和主持人（MC）可以決定黑暗的本質和世界觀的元素。這樣一來，玩家角色們已經互相認識，了解自己的力量，而且至少知道你們在角色創建和「世界觀」章節中的提問期間所決定的劇情基本元素。
+
+然而，這只是一個建議。如果你們認為你們的故事會因為實際遊玩這個時刻而更加豐富，那就放手去做吧。
+:::
+
+## 如何在第一次聚會中存活？
+
+當你面對 Mahō Shōjo 的第一次聚會時，可能會感覺像在夜晚的森林中行走。是的，你有地圖，也因為反應和原則知道北方在哪裡，但你可能需要一些額外的幫助。以下是一些在這次初航中可以回應和運用的關鍵要素：
+
+- **展示所有的色彩……但也展示陰暗面。**
+- **以玩家角色的創建階段作為起點。**
+- **提問，再提問。**
+- **拉緊關係，顯現義務。**
+- **當動作觸發時就使用動作。**
+- **當他們感到害怕時，提供一條出路。**
+- **將聚光燈放在多個玩家角色身上。**
+- **展示魔法。**
+- **不要忘記光明與黑暗之間的衝突。**
+
+### 展示所有的色彩，但也展示陰暗面
+
+魔法少女的生活通常是多彩的。她們每個人都有朋友、興趣、幸福和許多其他美好的事物圍繞著。身為主持人（MC），你必須努力展示她們日常生活中的這些元素，像是與家人的早餐、一條商店街、在課堂上度過的美好時光等等。
+
+這類日常元素強化了 Mahō Shōjo 試圖呈現的溫馨家庭奇幻的宇宙觀，從而與更加奇幻的元素以及她們所對抗的黑暗形成對比。當你展示以下情境時，這會產生更大的衝擊——例如一個剛發佈的時尚網站，它的商品讓人變得卑鄙；一張新唱片的歌詞讓聽到的人充滿憤怒；或是一場體育錦標賽讓人們覺得自己是失敗者。
+
+這些被黑暗觸碰的日常元素會讓玩家角色對她們作為守護者的使命產生更切身的感受，因為她們守護的是她們真正在乎的事物。
+
+### 以玩家角色的創建階段作為起點
+
+還記得我們幾段之前談過的嗎？玩家們必須給你大量關於他們角色的資訊。如果你有仔細傾聽，你現在就擁有了地點、謎團、角色和正在萌芽的劇情，準備好被使用。把這一切想像成一個裝滿了沒有說明書的樂高積木的巨大箱子。此刻輪到你，身為主持人（MC），決定要如何把這一切組裝起來。
+
+利用每一個元素來為故事服務。例如，也許一切從 Akari 在去 Yoriko 家的路上被堵住開始，或者 Kiyomi 正在遞情書給她喜歡的男孩或女孩。從溫和的反應和簡單快速解決的情境開始。就像滾雪球一樣，每一個動作和反應都會幫助你理解並使你們創建的歷史和世界變得更加複雜。
+
+### 提問，再提問
+
+身為主持人（MC），不要在提問上退縮，但也不要限於角色扮演遊戲中最古老的那句話（「你做什麼？」）。你的工具中有無數的問題，例如：你看到什麼？你怎麼知道的？你怎麼認識他的？上次你來的時候發生了什麼？為什麼你姐姐對你生氣？
+
+要求細節：她們的房間、她們的書包、她們回家的路……沒有什麼是瑣碎的，每個回答都價值連城。一旦你得到了這些，你必須精煉它並理解如何將它帶入虛構敘事中。在每個你有疑問的空白處繼續提問。你覺得這樣你就失去了掌控而無法行動嗎？不要搞錯了，你是在尋找有趣的劇情和可以使用的元素，讓玩家角色覺得那是屬於他們的並投入其中。玩家們會創造零件，主持人（MC）負責組裝。
+
+### 拉緊關係，顯現義務
+
+玩家角色從角色創建開始就命運相連，但他們不是唯一的。她們的生活與她們的家人、朋友、老師、同學的生活交織在一起……大多數人對主角們有所期待。很容易以為世界必須持續保持和諧，但事實從來不是如此。在某個時刻會發生一些事，而黑暗似乎對尋找這些與魔法少女的連結非常感興趣。
+
+此外，每個玩家角色除了身為光明的被選者之外還有其他義務。她們每個人都有承諾，例如運動、補習班或考試，需要注意和照顧，讓一切變得有意義。
+
+與人偶戰鬥應該跟去醫院探望朋友、為區域決賽訓練或在家裡幫忙一樣具有戲劇性。
+
+### 當動作觸發時就使用動作
+
+玩家不應該告訴你他們想要執行什麼動作，而是描述他們在做什麼，然後由你來將其轉化為系統。身為主持人（MC），由你來指出哪個動作被觸發了以及誰該擲骰子。永遠不要因為一個動作「不適合」或對你不利就否認或忽略它；動作是推動故事引擎前進的燃料，靠著它們的結果向前推進。可能會發生玩家避免執行動作的情況。沒關係：如果你看到他們低下頭逃避戲劇性衝突，變得保守起來，就使用反應讓他們重新對故事產生興趣。她們的生活和黑暗無法在沒有主角的情況下繼續。
+
+### 當他們感到害怕時，提供一條出路
+
+有時候，玩家會退縮，認為最好不要做他們說要做的事。有時在說出要做什麼之後，他們才意識到危險。總有一個時刻，她們的玩家角色會緊張並感到害怕。這是因為這些是黑暗使用的武器，但她們必須像光明的被選者一樣行動。
+
+身為主持人（MC），試著鼓勵玩家和他們的玩家角色，找到激勵他們的東西並讓它浮現。「你認真的嗎？被天聖之劍選中的人竟然要把她的小妹妹留在那家被首領腐蝕的醫院裡？也許他比你更害怕，因為你擁有他所沒有的特別之處。」
+
+### 將聚光燈放在多個玩家角色身上
+
+是的，這也許有點違反這個類型的慣例——在那裡通常整個團隊的介紹會分散在好幾集中——但最好盡快把玩家角色們聚在一起。在這裡，所有玩家都是來享受的，所以讓每個人至少有一次表現的機會，成為一個場景的主角。每個人會尋找不同的東西，對於什麼是閃耀也有不同的看法。例如，有些人期待個人場景，有些人想要悲傷的場景，有些人想要快樂的，有些人想面對問題，有些人想與黑暗使徒戰鬥……發現什麼能激勵他們每個人，然後提供給他們。
+
+### 展示魔法
+
+玩家角色將被光明選中來對抗黑暗。為此，展示只有她們才能在世界中察覺到的小小魔法元素，例如異象或夢境。要始終保持微妙，不要打破她們所處的家庭奇幻場景。
+
+在魔法少女類型的漫畫和動畫中，常見的是呈現一隻會說話的動物或生物，這在遊戲中由盟約來代表，作為打破日常的元素。
+
+隨著故事推進，開始為她們創造越來越奇幻的元素，但要維持那層面紗。身為魔法少女，只有她們才有特權見證這個現實；然而，她們也是負責保護鏡子兩側免受黑暗侵害的人。
+
+### 不要忘記光明與黑暗之間的衝突
+
+不要忘記在你們的第一次聚會中展示一場對抗黑暗的交鋒。這不一定要是暴力的，但你必須讓大家清楚，魔法少女被光明召喚是因為存在著威脅。黑暗在某個時刻會奪走某樣東西或某個接近角色的人，然後把一切顛覆。這個危險的本質和它的目標將是了解化身計畫和黑暗使徒動機的關鍵。
+
+## 單場遊戲
+
+Mahō Shōjo 並非設計用來進行只持續一場聚會的故事和遊戲。不過，許多愛好者只是想試試看或在展會上度過一段美好時光。
+
+這些限制會讓我們到目前為止解釋的許多技巧和戲劇工具失效，此外在這麼短的遊戲中，某些機制（如羈絆或盟約）無法正常運作。然而，我們將嘗試給主持人（MC）一些面對這類情況的建議。
+
+### 直奔重點
+
+提問在你想要進行多場聚會的敘事時效果很好。然而，在只有一場聚會的限制下（可能只有三到五小時），你應該集中在那些特別有料的問題上。
+
+此外，問問玩家們她們通常對抗什麼敵人，她們的反派和常見問題是什麼，就像是幾集連續劇的摘要一樣。透過這些回答，你可以把單場遊戲想像成類似動畫 OVA 的東西——一個獨立於正篇連續劇的自成一格小故事。一些能幫助你聚焦這個想法的問題可能是：角色的主要關係是什麼？她們是如何組成團隊的？她們通常對抗什麼類型的敵人？
+
+請玩家們在回答時盡量達成共識。當你覺得已經得到所有需要的東西後，選擇最有趣的想法來展開並付諸行動。
+
+### 毫不留情
+
+在單場聚會的遊戲中不需要手下留情，角色的生活必須處在一個轉捩點上。日常問題將因黑暗使徒的影響而被急劇加重。也許她們正在溫泉旅行，結果因為首領的出現而急轉直下。
+
+在這類聚會中，不要擔心過火，用強大的首領和有魅力的化身盡情使用你所有的預算，讓它們符合玩家的回答。要注意的是，玩家角色不需要擔心像失去光明或阿特洛波斯之禍這樣的事情，所以她們有大量的資源可用。身為主持人（MC），你甚至可以在角色創建時給她們一些成長，讓她們獲得一些額外的技巧。永遠往大處想，因為你們只有幾個小時可以玩，而且很少需要處理後果。
+
+身為主持人（MC），也不要陷入只放敵人和反派讓她們戰鬥的陷阱。Mahō Shōjo 也是關於日常故事和享受生活的（或者，嗯，如果玩家喜歡的話，為生活所苦）。建議你構思兩到三個場景來牽扯一些非玩家角色，像是朋友和家人。透過這些時刻，當問題來臨時她們會有更多的同理心和投入感。
+
+### 一切的結局
+
+作為給主持人（MC）的最後一個建議，我們想提醒你，在這種遊戲格式中，事情不是開始，而是結束。想像這是三到四個月的遊戲聚會的高潮，一個劇情節點的結局。問玩家們關於她們之前與首領和化身的交鋒。在遊戲中，避免大謎團，停下來想一想，你直接就在看本季的最後一集。
+
+完成之後，就把故事畫上句號——不過，誰知道呢？也許一切會以如此激動人心和戲劇性的方式結束，讓你們再次聚在一起玩。
+
+## 然後呢？
+
+你成功挺過了第一次冒險。如果運氣好的話，它還夠有趣，讓你們想要再多試幾場聚會。身為主持人（MC），現在故事才真正開始，但你要怎麼準備第二次聚會？這次會容易一些。還記得你做的那些筆記嗎？現在是時候整理那數十個地點、非玩家角色、劇情、野心、戀愛……並將它們塑造成形。
+
+隨著你整理和從筆記中提取資訊，創建蝕的時候就到了。一個蝕相當於一部連續劇的一條故事線，擁有自己的故事、動作、反應、非玩家角色……你必須注意不要以為這是什麼預先確定的東西，你在創建的是一張路線圖，但不要在上面鋪設軌道，你們在走的時候很可能會多次偏離。
+
+在這一點上，清空你的思緒，深呼吸，然後重複：「我絕對不能忘記的是，我是在玩遊戲來看看會發生什麼，我只是在整理我的想法，理解所有主角的線索是如何與劇情相連的。」要了解更多關於蝕、如何建構它們以及它們是什麼，請參閱「蝕」章節。
+
+## 長篇範例
+
+接下來你將閱讀的是一場聚會中一段片段如何進行的範例。這一節的目的是向主持人（MC）展示我們在本書中所講述的一切如何整合在一起。我們盡量讓主持人（MC）的反應以清楚直接的方式呈現，使其作為指引時有用，而不是像實際遊戲中那樣隱藏它們。為此，Mónica——這位主持人（MC）——打開了她的思緒，讓我們在某些具體時刻可以讀到她的想法。
+
+這段片段來自 Mónica 的個人戰役，設定在日本南部一個名為日南的虛構城鎮（沒錯，這個地方確實存在，但它是一個小漁港，在這裡我們要把它變成一座小城市）。
+
+在開始之前，認識一下四位玩家和她們的角色也會有幫助：
+
+**Esther** 將扮演 **Kiyomi**，一位勇者，友情扮演書為心之所繫。她有一個小妹妹，持有天聖之劍。
+
+**Cristina** 將扮演 **Inoue**，一位鬥士，友情扮演書為大姐頭。她在躲避球隊裡，變身後拿著一把巨大的戰錘。
+
+**Vanesa** 將扮演 **Akari**，一位參謀，友情扮演書為獨行俠。她是一個內向的菁英學生，獨自生活，因為她的父母在其他地方工作。
+
+**Ruth** 將扮演 **Yoriko**，一位偶像，友情扮演書為忠誠。一個因為 Twitch 頻道而受歡迎的女孩，什麼都不怕。
+
+在第一次聚會中，她們同意遊玩一個契約傀儡的故事。
+
+---
+
+場景處於一場遊戲聚會的高潮處。在這場聚會中，Yoriko 一直與一些在整個星期裡騷擾她的同學發生問題。在最近一次衝突中，其中一個人身覆黑暗鎧甲出現，在擊敗他之後，黑暗似乎退縮到了一個書包裡面。
+
+——我要去看看那個影子是什麼——Kiyomi 說——，這件事太奇怪了。
+
+——好的，除了課本之外，你看到一個黑色的光碟盒上面有一張貼紙——Mónica 向她解釋——。上面寫著「影碟俱樂部 Glob」。
+
+——我有沒有聽過這個名字？——她問。
+
+——沒有，你從來沒有聽過——Mónica 說。
+
+——等一下——Vanesa 打斷——。讓我來檢查一下。
+
+——我想你想對這個使用萬事通，對嗎？如果是的話，請吧。
+
+——好的，骰出 8。加上我的思慮，總共是 10！——Vanesa 喊道——。我要選擇「這個地方、物品或人物的歷史是什麼？」。
+
+——你聽過傳言說，當某人感到悲傷、擔憂或總的來說情緒低落時，一家神祕的影碟俱樂部就會出現。進入後，店員會給你一部電影，讓你能夠實現願望。這張 DVD 毫無疑問來自那裡。你是怎麼知道這些的？
+
+——我是從一個同學那裡聽來的。她叫什麼來著？——Vanesa 開始思考——。Moemi，對，一個叫 Moemi 的學生。
+
+——你能告訴我她的事嗎？——Mónica 要利用這個資訊來擴充角色陣容。雖然她沒有事先想過這些，但她正在透過遊戲來發現發生了什麼，不會放過這個機會。
+
+——她是我班上的女生。我從來沒跟她說過話，但我確實記得聽到她說過這件事，我坐在她後面。
+
+Mónica 一邊記錄一切，一邊構思一個場景，確認她們要去找這位同學。當她們走進教室時，看到 Moemi 坐在那裡，似乎正在寫什麼。
+
+——嗨，Moemi。我可以問你一個問題嗎？——Vanesa 說。
+
+——好的。你看到她驚訝地轉過身來，在她回答之前，你在她的眼鏡中看到了自己的倒影——Mónica 描述——。「可以。怎麼了？」
+
+——是這樣的，我想知道你是否知道影碟俱樂部 Glob 的事，有很多關於它的傳言，我前幾天聽到你說了些什麼。
+
+——嗯，我覺得你是在試圖影響她來獲取某些東西，那就是發自內心的話語。
+
+Vanesa 想了幾秒鐘，看有沒有什麼回答可以避免觸發動作，但情況已經足夠模稜兩可，她也許不願意配合。
+
+——我的情感是 -1，但萬事通給我下一個與回答相關的動作 +1。是這樣嗎？——她等到 Mónica 點頭後才擲骰。不幸的是，她只擲出了 5。
+
+現在輪到 Mónica 做反應了。她在幾個選項之間思考，但如果 Moemi 知道影碟俱樂部，那是因為她去過。她注意到了「讓無辜者陷入危險」，現在她有了如何繼續故事的想法。
+
+——當你開始談論這件事時，她似乎很緊張，你可以看到她迅速合上了筆記本。你只來得及看到一個讓你非常不安的字。然後她對你說：「對不起，我不知道你在說什麼。失陪了。」然後她就離開了。
+
+——你們應該把這件事交給專業人士——Ruth 打斷——。你讀書可能很厲害，但跟人打交道有時候太直接了。
+
+——那請便吧，Yoriko，看看你能不能做點什麼。我很擔心——Vanesa 說。
+
+Yoriko 的玩家描述她開始尋找 Moemi 試圖與她交談。Mónica 不太確定現在該怎麼做，她正在即興發揮，但她有一些從遊戲中浮現的工具。她想到了主持人（MC）的原則「也想想畫面之外發生的事」和「想想黑暗如何潛伏在日常中」來找到方向，然後根據「當沒有任何行動或戲劇性時」做了一個反應。她花幾秒鐘尋找一個 Yoriko 可能會喜歡的反應。她是一個非常社交化且忠誠的角色。她使用了反應：對角色提出一個特定的危險。
+
+——雖然你沒找到她，但你聽到一群女生提到了她的名字。你看到她們走進女廁所，在環顧四周之後，其中一個人把門關上了——Mónica 告訴她。
+
+——我要靠過去。我小心地打開門，不讓她們聽到，試著聽聽裡面發生什麼——Ruth 描述。
+
+——好的。你在意被發現嗎？——Mónica 觀察 Ruth，Ruth 確認了她在意——。那就擲克服危險，用保護。
+
+Ruth 抗議為什麼她選了保護來擲這個骰。Mónica 解釋說，她似乎在試圖尋找和保護 Moemi，或者至少是在為她擔心。雖然她不太情願，但最終接受了，用她 0 的保護擲出了 8。
+
+Mónica 決定做一個溫和的反應，選擇「告訴他們條件或後果，然後提問」。
+
+——你開始聽到一些聲音，知道 Moemi 在裡面。她似乎很緊張或害怕。你可以繼續聽下去，但你會被發現；或者你可以離開，等會兒再找她。你怎麼辦？
+
+Ruth 決定不接受任何一個選項，她要搶佔主動。
+
+——我推開門，大步走進去。我說：嗨，女孩們。你們在這裡做什麼呀？噢，看看，Moemi，我正好在找你。怎麼了嗎？你們要知道她是我的朋友。你們有什麼問題嗎？因為如果你們跟她有問題，就是跟我有問題。
+
+Mónica 對反應的結果感到驚訝，她覺得這完全值得觸發偶像的動作「上台……Let's go」，並給了她一點人氣值。
+
+——Yoriko，你在這裡沒什麼事。走吧——Kanzaki，那群女孩的領袖，對她說。
+
+——不好意思，我有事要跟我朋友 Moemi 談。我不打算走——Yoriko 回答。
+
+Mónica 看到這是一個符合「當機會明顯送到你面前時」的時刻。接著她使用反應：展示即將來臨的威脅跡象。
+
+——你看到隨著 Kanzaki 的一個點頭，女孩們開始圍住你。你怎麼辦？
+
+——我仔細看著她們，放聲大笑，然後對她們說：你們認真的嗎？你們要這麼做？拜託，女孩們，沒有人蠢到聽 Kanzaki 的話。你們離開不是更好嗎？我還要用我的人氣來使用「你覺得她們會選誰？」。可以嗎？
+
+——可以，一切都說得通——Mónica 確認，指示她使用一點人氣值——。局勢出現逆轉，她們開始互相爭吵，最終站到了你這邊，留下 Kanzaki 孤立無援，她看到自己輸了這場爭論後只好離開。
+
+Ruth 試著從 Moemi 那裡獲取新資訊。雖然她可以要求擲發自內心的話語，但她覺得沒有必要。看看動作的觸發條件，「當你與一個你能影響的主持人（MC）角色打交道並試圖獲取某些東西時」是適合的。然而，她並不是在試圖獲取什麼，因為 Moemi 非常感激，毫無保留地告訴她真相。
+
+據她所說，她已經被 Kanzaki 的那群女生霸凌了一段時間。她已經焦慮到開始想要做出一些絕望的事情，就在那時，大約兩週前，她發現了影碟俱樂部 Glob。老闆給了她一張 DVD，但她沒有看，那東西有某種讓她感到不舒服的氣息。之後，Yoriko 成功讓她說出了在哪裡找到那家影碟俱樂部。
+
+女孩們在傍晚時分沿著同學指的那條街散步。不幸的是，她們沒能看到她所說的那家店。Inoue 向 Nekoyu 求助。
+
+——我感覺它應該就在附近。你們感覺不到嗎？——Mónica 告訴她們，多虧了守護者的感應，她們可以確認方向沒錯。
+
+——我要試著集中精神，讓守護者引導我——Vanesa 對 Mónica 說。
+
+——好的，我覺得這需要使用真理之光下。
+
+——很好，那用思慮來擲，這次擲出 10。我有三個問題，我先問：這裡有什麼不是表面看起來那樣的東西？
+
+——你看到兩棟房子之間有一團濃縮的巨大黑暗，迫使人們移開視線，所以大多數人都忽略了它。
+
+——黑暗可以利用什麼弱點？
+
+——似乎那些悲傷或絕望的人會被吸引到這個地方。
+
+——我應該擔心什麼？
+
+——你知道裡面有一股超越你們至今遇過的任何敵人的力量。沒有準備就進去可能是致命的。
+
+Akari 把她的發現告訴了同伴們，就在這時，Inoue 突然站起來對著那團黑暗踢了一腳。Mónica 看得很清楚，她要使用「令其心靈墮入黑暗」作為反應來嚇她們一跳：
+
+——就在你踢到什麼東西的那一刻，你內心感到一陣不安，你回想起童年時一段可怕的記憶，但最終你恢復了過來。在你們面前出現了一家老舊的影碟俱樂部，招牌上寫著「影碟俱樂部 Glob」。記下一點黑暗點數。
+
+——好吧，這令人擔憂，但我要進去——Cristina 猶豫著說。
+
+——我們跟上她！——Esther 喊道，其他人也確認了。
+
+Mónica 向她們描述了店內的環境——一個又舊又髒又令人不安的店面。
+
+——你們看到一個看起來像是留著山羊鬍的老人的店員。他在你們經過的時候觀察著你們。
+
+——我走過去直接面對老闆，對他說：「不好意思，這是什麼地方？有人跟我說這裡有奇怪的事情發生。」
+
+——好，就這樣，直入主題。幹得好，Inoue。——Ruth 以 Yoriko 的身分鼓掌。
+
+——「離開這裡，小女孩們，這裡沒有你們感興趣的東西。我甚至不知道你們怎麼進來的」，老人回答你們。
+
+——不。不給我答案我不走。——Mónica 告訴她，如果她想要一個揭露的話，就擲發自內心的話語——。情感 0，所以我擲骰子……當然，擲出 2。也許我不夠直接，但現在得丟一顆更大的石頭了。
+
+——你被甩飛撞上了一面書架。其他人看到那個老人突然變成了一個超過三百公斤的巨大生物。他的頭髮又長又直，有好幾處禿斑，皮膚呈死灰色。他看著你們說：「我警告過你們了，小女孩們，也許你們對我的計畫沒什麼用處，但四個像你們這樣的女孩，我總能想到些用途」，同時舔著嘴唇拍著肚子。Inoue，記下 4 點痛苦。你怎麼避免？
+
+——我消耗 2 點友情點數。——她從角色卡上扣除了。
+
+女孩們紛紛開始描述她們的變身，Mónica 確認她們必須進行變身動作。她轉向 Kiyomi，因為這位玩家已經安靜了一陣子，現在是把她推到聚光燈下的時候了：
+
+——黑暗力量的生物，聽好了。你犯了一個錯誤，跟天聖之劍的被選者對抗。輪到你的黑暗在此消散了。——在這句話之後，她完成了「登場宣言」，Mónica 給了她一點光點。Esther 將她的能力量表提升到 1。之後她繼續——。我朝他揮舞我的劍衝過去。
+
+在一般情況下 Mónica 會讓她執行懲戒黑暗，但她注意到「噁心的 Glob」有一個名為「令人作嘔的氣味」的恩賜。
+
+——當你靠近時，你突然聞到從他身上散發出的巨大惡臭。如果你真的想用那把劍攻擊他，你必須先克服危險，不然你會吐出來。你怎麼辦？
+
+——我要用我對風的力量製造一個小護盾，把那股惡臭從我身邊擋開。
+
+——聽起來你是在試圖用你的力量控制和掌握局面，所以擲奉獻。
+
+——擲出 10，我成功了。我可以繼續把天聖之劍介紹給他嗎？我要試著從頭頂把他劈成兩半。
+
+現在 Mónica 讓她使用懲戒黑暗，她擲出了 8。
+
+——我選「對敵人造成懲罰並承受痛苦」。我的懲罰是 2，變身後 1 點加上「以正義之力」選項的 1 點。
+
+Mónica 現在必須思考。通常以堅固（護甲）4［體脂肪］的恩賜不會對他造成懲罰，但既然她說的是打頭部，就必須尊重虛構敘事。經過考慮，她認為頭部不在體脂肪的保護範圍內，對他施加了完整的懲罰。Glob 的黑暗等級總共是 24（玩家角色數 × 6，4 × 6 = 24），所以還剩 22。
+
+——好的，在這之後他在半空中用手臂抓住了你，開始擠壓。他對你造成 4 點痛苦。——Esther 消耗 2 點友情點數將痛苦減為 0——。你被困住了，你怎麼辦？
+
+——我試著用蠻力掙開束縛。
+
+——用挑戰擲克服危險。——不幸的是她只擲出了 7，Mónica 使用反應「告訴他們條件或後果，然後提問」——。你可以掙脫，但你知道你會承受痛苦；或者你可以選擇留在原處，等另一個同伴來救你。你怎麼辦？
+
+Esther 選擇了第二個選項，Mónica 決定把聚光燈轉向 Vanesa。
+
+——我開始射擊。我的意圖不是傷害他，而是騷擾他讓他放開 Kiyomi。想像一下，像蚊子叮咬一樣——Akari 說。
+
+在確認她使用思慮擲克服危險之後——因為這需要她的智慧和機智——Akari 總共擲出 11。她獲得一點光點，使她的能力等級提升到 1，並且 Kiyomi 被放開了。雖然 Mónica 本來打算轉向 Cristina，但 Esther 突然開始描述。
+
+——落地的時候，我伸出持劍的手，集中風的力量。準備好之後，我要把天聖爆裂射到他的眉心之間。
+
+這是可能的，因為沒有發言順序的限制。對話應該自然流動，而這是恰當的。Mónica 會讓 Kiyomi 執行心之力動作，然後再回到 Inoue。
+
+——那是 7 點懲罰，現在……
+
+Mónica 打斷她，將黑暗等級降到 15。她必須讓所有女孩都成為主角，她必須成為角色的粉絲。
+
+——等一下。畫面切到 Inoue，她倒在一個破碎的書架上。你要怎麼辦？
+
+——我站起來拍掉身上的灰塵。然後我要讓那個傢伙知道什麼才是真正的一擊。——她看向 Esther——。看了她用天聖爆裂做的事之後，我不能輸。我做出投球的姿勢然後用我的戰錘把它打出去，大喊「冰霜突擊！」。
+
+——等等，什麼？你的能力等級是 0 耶——Mónica 回她。
+
+——的確。好吧，那我用力量的縮減版本普通地打他。可以嗎？
+
+Mónica 覺得用冰的主題這完全可行，但為此她必須先執行一次懲戒黑暗。
+
+——多虧我 +2 的挑戰，總共擲出 11。那是一點光點，對吧？——她等主持人（MC）確認後才繼續——。我要選擇對敵人造成懲罰，雖然只有 1 點，但他不會料到接下來發生的事。
+
+Mónica 充滿期待地繼續給她發言權。Cristina 繼續：
+
+——當他從眼睛上擦掉雪球時，他只看到一塊冰——冰霜突擊！擊中了他的臉。
+
+——好的，現在才是重點。
+
+——我造成總共 6 點懲罰，但我用一點活力讓它變成 9。他的身體被我的冰球撞擊。
+
+現在 Mónica 確實要用 Glob 的堅固恩賜將其減為 5。黑暗等級降到 10，但她必須在虛構敘事中給她們一個提示。
+
+——你看到你的冰霜突擊命中了，但他身上的脂肪似乎緩衝了這一擊，你的攻擊被彈開了。
+
+是時候使用一個溫和的反應了——展示即將來臨的威脅跡象。據她所見，根據規則，她可以在「當沒有任何行動或戲劇性時」使用它，而這裡並不是特別戲劇化。
+
+——當冰球落地消失後，你們看到 Glob 從櫃檯下面拿出一把用 VHS 錄影帶做成的流星錘，開始旋轉它。Inoue，你怎麼辦？
+
+——我跑過去，再打他肚子一拳。打完之後他就不需要上廁所了。而且對，我不管那個臭味了，我衝得夠快可以忽略它。
+
+——你不能忽略的是擲骰，但用挑戰來擲。——Mónica 笑了，更讓她開心的是看到 Cristina 在克服危險的投擲中只擲出 6，然後拍桌子咒罵今天的運氣。她想著讓她看起來像個無能不太公平，她要使用「讓她的動作反噬自己」。
+
+——你打中了 Glob，也造成了懲罰，但你也看到他開始嘔吐，把你埋在一堆從他身體裡噴出的錄影帶下。恐怕你被困住了。
+
+在花了另一點活力之後，她所剩不多了，她只造成了 4 點懲罰。這不足以超越他的堅固，但至少她不會覺得自己很沒用。
+
+Mónica 看向 Ruth，示意現在是她讓 Yoriko 大放異彩的時刻。
+
+——趁他在嘔吐的時候，我要爬到他的劍上面，用我的薙刀砍他的脖子根部。我要憋住呼吸來避開他的臭味。
+
+Mónica 看到她用保護來擲克服危險，擲出了 10。現在，她的能力等級是 1，當她爬到上面後 Mónica 指示她使用懲戒黑暗，Ruth 擲出 12，她的能力等級現在是 2。
+
+——我只造成 1 點懲罰，然後我用昇華 +1 來提升我的保護。接著，我想跳到他前面拉開一段安全距離來保護我的同伴。
+
+——那就用永遠在你身邊。
+
+Mónica 看到她又擲出了一個超過 10 的結果，給了她第三點光點，將她的能力等級提升到 3，以及 3 點永遠在你身邊的點數。藉著新的昇華等級，Yoriko 提升了她的挑戰。
+
+——當我看到她那麼做的時候，我裝填黑白子彈並射出，低語著「單色護盾」，這給她護甲 +2——Vanesa 趕緊說。讓我們記住 Akari 的能力等級是 1，這解鎖了她的心之力 P。
+
+——好的，你們看到他用流星錘要打 Kiyomi。他看起來有點絕望。你們怎麼辦？
+
+——我要試著用天聖之劍擋住他的攻擊，把劍擋在流星錘和我的身體之間。——Esther 用保護擲克服危險，但只擲出了 5。
+
+——好的，你看到他打中了你然後……
+
+——等等。我花一點永遠在你身邊的點數，出現在他面前。流星錘打中了我，保護了 Kiyomi——Vanesa 打斷了 Mónica。
+
+——剛好來得及，嗯？那記下 8 點痛苦的是你。你怎麼抵消？
+
+——我有護甲 2，加上一點友情點數和一個疲憊後果就夠了，對吧？
+
+——對。現在，Kiyomi，你看到你的同伴擋下了你知道應該是打在你身上的攻擊，所以，你怎麼辦？
+
+——我快速從他的手臂下方穿過去，撿起地上 Inoue 的戰錘。——這是一個 Mónica 會接受的細節，因為她沒有指定戰錘跟它的主人一起被埋住，而且她知道 Esther 現在打算做什麼——。我用戰錘打他的下巴，然後試著用我的劍砍下他的頭。
+
+——在那之前，我花另一點永遠在你身邊的點數，把我的懲罰加到她的上面，我的火焰力量覆蓋了兩件武器——Ruth 插話。現在她只剩 1 點永遠在你身邊了。
+
+——沒必要這麼狠。Kiyomi，用懲戒黑暗。
+
+——不行，因為我只擲出了 7。無所謂，就算我要承受痛苦我也要打他——Esther 有點失望地說——。那就是我的 2 點加上 Yoriko 的火焰 1 點。
+
+Mónica 確認噁心的 Glob 已經被消滅了。
+
+——你們看到那個生物在一場錄影帶、VHS、DVD 的暴雨中爆炸……隨著它的消亡，書架上的東西也消失了。你們感覺到那股古老的黑暗已經隨著這個地方的主人一起離開了。
+
+——不介意的話，你們能把我從下面拉出來嗎？——Cristina 說——。順便問一下，有人要跟我去慶祝嗎？
+
+在每人失去一點光點並將能力等級降回 0 之後，是時候進入下一個場景了。
+
+稍後，四個人在附近的一家冰淇淋店吃冰淇淋。為勝利感到高興的她們，聊著前一天看的那部連續劇。Mónica 指示 Cristina 來擲生活故事動作。不出所料，今天她只擲出了一個部分成功——9，每個人因為參與獲得 1 點友情點數，另外再選一個選項獲得 1 點，除了 Yoriko，她選擇消除疲憊後果。
+
+Mónica 決定使用一個反應，因為她覺得這是「當沒有任何行動或戲劇性時」的適當時機，她選擇了「展示即將來臨的威脅跡象」。她轉向 Yoriko 告訴她，她看到 Kanzaki 作為乘客坐在一輛摩托車上。一群飛車黨停在冰淇淋店前面。她還不知道，但那個領頭的人是 Kanzaki 的哥哥。他是來了結一些恩怨的嗎？

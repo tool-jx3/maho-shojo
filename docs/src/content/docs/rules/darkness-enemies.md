@@ -1,728 +1,412 @@
 ---
 title: 黑暗勢力
-description: 黑暗僕從的創建與類型
+description: 黑暗使徒的創建與類型
 sidebar:
   order: 9
 ---
 
-150
-Maho Shojo
+## 黑暗使徒
 
-151
-•Oscuridad•
+黑暗是光明的對立面，也是魔法少女們的敵人。無論其真正的起源與動機為何，黑暗總能找到願意接納它的實體。正如隱藏在魔法少女心中的光明賦予她們能力一樣，黑暗也會將其恩賜授予那些追尋它的人。
 
-Servidores de La Oscuridad
-La Oscuridad es lo que se opone a la Luz y, por extensión, el enemigo de las magical 
-girls. Sin importar en realidad su origen y motivaciones, lo cierto es que de alguna 
-manera logra encontrar entidades que la acojan en su interior. Del mismo modo que 
-la Luz oculta en el corazón de las magical girls les da sus habilidades,la Oscuridad 
-concederá sus Dones a aquellos que la busquen.
-Para saber más sobre los orígenes, objetivos, motivaciones y quiénes podrían buscar 
-o pactar con la Oscuridad, consulta el capítulo «Ambientación» en la página 262).
-Este capítulo está dedicado a crear y ver cuáles son los peligros que pueden supo-
-ner los servidores de la Oscuridad, sus capacidades y sus características de juego. 
-La importancia de estas entidades puede variar mucho dependiendo del tipo de 
-Pacto y el tono de vuestras partidas. Utiliza por tanto este capítulo como una guía, 
-adaptándola a vuestras necesidades.
-En Mahō Shōjo los servidores de la Oscuridad están divididos en cuatro grandes 
-categorías de poder, de menor a mayor: Marionetas, Muñecas, Campeones y Avata-
-res. Cada una de estas categorías es flexible y representa tanto lo cerca que están 
-de la Oscuridad como la posible amenaza que suponen para los PJ. A continuación 
-explicamos en detalle todas las categorías e indicamos cómo pueden encajar en 
-cada uno de los Pactos y la Ambientación (ver capítulos «El Pacto» y «Ambienta-
-ción» para saber más sobre esto, en las páginas 173 y 262).
-Las Marionetas son las menos poderosas de todos los servidores de la Oscuridad y 
-no suelen suponer una amenaza para las magical girls, a menos que se presenten 
-en grandes números. En Hijas de la Luz pueden ser desde criaturas mágicas que no 
-entienden del todo lo que están haciendo hasta entidades nacidas de sentimientos 
-oscuros, pero que aún no han crecido lo suficiente como para representar un peli-
-gro real. En Campeonas de la Justicia podrían representar a humanos (o cualquier 
-otra raza) controlada mentalmente, o bien criaturas que han sido creadas o han de-
-cidido servir a un Avatar. En Marionetas de los Custodios suelen ser manifestacio-
-nes menores de la presencia de Campeones o de un Avatar, o incluso seres antaño 
-libres, pero que el seguir a la Oscuridad se han convertido en sombras grotescas de 
-lo que fueron alguna vez.
-Las Muñecas son las fuerzas regulares de la Oscuridad a la hora de derrotar a la 
-Luz. Si bien son débiles comparadas con una magical girl, no deben ser tratadas a 
-la ligera, pues pueden derrotar a cualquiera que se confíe. En una ambientación del 
-estilo Hijas de la Luz pueden representar las fuerzas que usa la Oscuridad y que los 
-habitantes del mundo mágico temen, o la forma corpórea de sentimientos oscuros 
-152
-Maho Shojo
+若想了解更多關於黑暗的起源、目標、動機，以及哪些人可能會追尋或與黑暗訂立契約，請參閱「世界觀」章節。
 
-que han desarrollado conciencia propia. En Campeonas de la Justicia son herra-
-mientas al servicio de los Campeones para cumplir sus propósitos, ya sean creadas 
-artificialmente o alterando alguna criatura, humanos que han aceptado la Oscuri-
-dad con algún Don con el que satisfacer los deseos o un auténtico soldado de la 
-Oscuridad dispuesto a servir órdenes. En una ambientación del estilo Marionetas 
-de los Custodios pueden ser seres menores camino de convertirse en Campeones, 
-personas que han aceptado la Oscuridad en su interior o una manifestación de la 
-voluntad de un Campeón o un Avatar.
-Los Campeones se encuentran entre la élite de los servidores de la Oscuridad y en 
-muchos aspectos son el reflejo de lo que una magical girl representa para la Luz. 
-Los Campeones suelen ser Agentes de confianza de un Avatar, pero algunos muy 
-poderosos actúan de forma independiente. En las historias de Hijas de la Luz, los 
-Campeones suelen ser los enemigos de mayor nivel a los que se enfrentarán las 
-protagonistas, siendo la manifestación de la Oscuridad en el reino mágico. También 
-pueden ser una representación de la corrupción de una zona o una Muñeca que ha 
-obtenido demasiado poder de la Oscuridad. En las aventuras del estilo Campeonas 
-de la Justicia representan a los Agentes y manos del Avatar que suelen enfrentarse 
-de forma regular a las magical girls en una especie de pulso, dejando a Muñecas y 
-Marionetas cuando las cosas van mal para poder huir. La naturaleza y motivaciones 
-de un Campeón en estas historias suelen ser únicas y raramente habrá dos iguales. 
-En las Marionetas de los Custodios los Campeones son criaturas peligrosas de 
-la Oscuridad, seres que cedieron tanto a sus emociones y deseos que quedaron 
-ligados a ellos, o bien seres oscuros que escapan o tratan de ganarse un nombre 
-fuera de las dimensiones oscuras. Algunos de los más temibles Campeones fueron 
-magical girls antes de ser retorcidos por la Oscuridad, convirtiéndolos en enemigos 
-terroríficos por aquello que pueden representar para las que les hacen frente.
-Finalmente están los Avatares, aquellos que, o bien son la propia Oscuridad, o 
-bien han sido elegidos por ella para ser su representación en el mundo. Estas en-
-tidades solo pueden ser derrotadas por grupos de magical girls suficientemente 
-preparadas y dispuestas, y es muy poco habitual que se encuentren a más de uno 
-en su carrera. Los Avatares de Hijas de la Luz no suelen aparecer, o bien la Os-
-curidad es demasiado débil como para poder crearlos, o son un concepto que no 
-tiene una encarnación. Esto es todo lo contrario a Campeonas de la Justicia, don-
-de los Avatares suelen estar presentes y actúan como enemigos finales a derrotar 
-para frustrar los planes de la Oscuridad. En Marionetas de los Custodios no son 
-tan frecuentes como en Campeonas de la Justicia, pero suelen representar a la 
-entidad que crea o ayuda a cumplir los deseos de los Campeones. Alternativamen-
-te, también pueden representar a señores de las dimensiones oscuras o incluso 
-ser un Campeón cuyo poder ha crecido tanto que supone una amenaza innegable 
-para los Custodios.
-153
-•Oscuridad•
+本章節專門介紹如何創建黑暗使徒、他們可能帶來的威脅、能力以及遊戲數值。這些存在的重要性會因盟約類型和你們的遊戲風格而有很大差異。因此，請將本章節作為指南，根據你們的需求加以調整。
 
-Creación de los servidores
-Si has tomado el papel de MC, tarde o temprano tendrás la necesidad de presentar 
-enemigos que puedan enfrentarse a las magical girls.
-Una vez tomada la decisión de crear un servidor de la Oscuridad, lo primero que 
-deberías hacer es pensar en qué tipo de peligro quieres presentar, sus poderes, 
-motivación y objetivos dentro de la Ficción. Cuando tengas esa imagen mental es 
-el momento de decidir en cuál de las cuatro categorías encaja mejor: Marioneta, 
-Muñeca, Campeón o Avatar. Al principio del capítulo hemos repasado las distintas 
-categorías y cómo suelen estar representadas dentro de la Ficción. Una vez hayas 
-tomado la decisión puedes continuar.
-El siguiente paso es pensar en el aspecto del enemigo, ya sea real o aquel que ma-
-nifiesta ante el mundo y con el que interactúa con las magical girls. En el género 
-mahō shōjo es frecuente que muchos servidores de la Oscuridad tengan un aspecto 
-humano con el que pasar desapercibidos y una forma auténtica o de batalla, similar 
-a las magical girls y su Lux Habitu. Una vez visualizado el aspecto no olvides darle 
-un nombre, ya sea su nombre real o un título por el que sea conocido.
-Lo siguiente que tienes que asignar a los servidores de la Oscuridad es un Tema, 
-que funcionará de forma similar al de los Lux Habitu de las magical girls. Algunos 
-ejemplos de Temas para los servidores de la Oscuridad pueden ser: espadas, fuego, 
-plantas, garras y colmillos, magia oscura, animales, etc. (Ver «Luz contra Oscuri-
-dad» en la página 124 para saber más sobre los Temas).
-Finalmente, cuando hayas hecho todos los pasos anteriores asígnale una serie de 
-Dones oscuros que representan los poderes, capacidades y armas que utilizarán 
-para realizar los planes de la Oscuridad y derrotar a la Luz.
-Resumen de la ficha de un servidor de la Oscuridad
-Nombre: Nombre o título por el que es conocido.
-Aspecto: Descripción del aspecto del enemigo. Puede tener más de uno si pue-
-de adoptar varias formas.
-Categoría: A cuál de las 4 categorías pertenece: Marioneta, Muñeca, Campeón 
-y Avatar.
-Tema: Apariencia, origen o naturaleza de los Dones oscuros.
-Mancha de Oscuridad: Motivaciones por las que sirve a la Oscuridad o se 
-opone a la Luz.
-Angustia: Indica el nivel de Angustia que provoca a los PJ como resultado de 
-una Reacción o Don oscuro.
-Dones oscuros: Listado de Dones oscuros que mejoran sus capacidades o pro-
-porcionan nuevas Reacciones al MC.
-Nivel de Oscuridad: Indica el Nivel de Oscuridad del servidor.
-154
-Maho Shojo
+在 Mahō Shōjo 中，黑暗使徒分為四個力量等級，由弱到強依序為：傀儡、人偶、首領和化身。每個等級都具有彈性，既代表了他們與黑暗的親近程度，也代表了他們對玩家角色可能構成的威脅。接下來我們將詳細說明所有等級，並指出它們如何融入各種盟約與世界觀（詳見「盟約」與「世界觀」章節）。
 
-Categorías
-Como hemos visto hasta ahora los servidores de la Oscuridad están divididos en 
-cuatro categorías. Cada una de ellas representa un nivel de poder y suponen un 
-reto ascendente al que se enfrentan los PJ. Por norma general, recomendamos que 
-se usen las Muñecas como enemigos habituales y los Campeones como auténticos 
-retos y rivales. Las Marionetas están pensadas para proporcionar apoyo a los dos 
-anteriores, mientras que los Avatares deberían ser usados solo cuando se pretenda 
-resolver un Eclipse o finalizar la campaña (ver «El Eclipse» en la página 242).
-155
+傀儡是所有黑暗使徒中最弱的，通常不會對魔法少女構成威脅，除非它們大量出現。在光明子女設定中，它們可以是不完全理解自己行為的魔法生物，或是由陰暗情感誕生、但尚未成長到足以構成真正危險的實體。在正義騎士設定中，它們可能代表被精神控制的人類（或其他種族），或是被創造出來、或自願效忠化身的生物。在契約傀儡設定中，它們通常是首領或化身存在的微弱顯現，甚至是曾經自由的生命，但因追隨黑暗而淪為昔日自我的怪誕陰影。
 
-Las Marionetas son las más débiles entre todos los servidores de la Oscuridad. 
-Estos enemigos suelen presentarse en grupos grandes y pueden ser derrotados 
-fácilmente por los PJ. Es muy raro que una única Marioneta ponga en problemas a 
-un grupo de magical girls, por lo que su fuerza suele venir por su número.
-A efectos de juego, el MC deberá tener en cuenta los siguientes puntos:
-No tienen Nivel de Oscuridad. Las Marionetas son derrotadas 
-conforme a las reglas indicadas en el Movimiento Básico Cas-
-tigar la Oscuridad (ver «Los Movimientos» en la página 87).
-Se presentan en grupos. Por cada Marioneta adicional que 
-forme parte de un grupo aumenta en 1 su Angustia. 
-Por ejemplo, un grupo compuesto por dos Cria-
-turas de Kasumano tendrá en total 3 de An-
-gustia. Si en algún momento se añade una 
-nueva Criatura de Kasumano, esta 
-aumentará a 4 y si una es de-
-rrotada, bajará a 2.
-No pueden tener los 
-Dones oscuros de 
-Tinieblas ni In-
-mortalidad.
-156
-Maho Shojo
+人偶是黑暗對抗光明時的常規戰力。雖然與魔法少女相比較為薄弱，但絕不能掉以輕心，因為它們能夠擊敗任何大意之人。在光明子女風格的世界觀中，它們可以代表黑暗所使用的、令魔法世界居民畏懼的力量，或是已發展出自我意識的陰暗情感的具象化身。在正義騎士設定中，它們是首領的工具，用以實現其目的——無論是被人工創造的、改造過的生物、接受了黑暗恩賜以滿足慾望的人類，還是甘願聽命的黑暗士兵。在契約傀儡風格的世界觀中，它們可能是正在成長為首領的較弱存在、已接納內心黑暗的人，或是首領或化身意志的具現化。
 
-Ejemplos de Marionetas:
-Marioneta 1:
-Nombre: Criatura de Kasumano.
-Aspecto: Parece una sombra sólida de aspecto humanoide encorvado.
-Categoría: Marioneta.
-Tema: Sombra.
-Mancha de Oscuridad: Criatura artificial al servicio del consejo del edificio Kasu-
-mano.
-Angustia: 2.
-Dones oscuros:
-Moverse entre las sombras.
-Cambiar de tamaño.
-Nivel de Oscuridad: N/A.
-Marioneta 2:
-Nombre: Melancolía del reino.
-Aspecto: Réplicas de la persona que las creó, pero cuyos ojos carecen de brillo y 
-tienen el escudo de una cadena en su frente.
-Categoría: Marioneta.
-Tema: Cadenas.
-Mancha de Oscuridad: La melancolía de haber perdido el Reino Estelar.
-Angustia: 2.
-Dones oscuros:
-Encadenar.
-(Semilla) 1 [Recuerdos melancólicos].
-Nivel de Oscuridad: N/A.
-157
-•Oscuridad•
+首領位列黑暗使徒的精英行列，在許多方面都是魔法少女之於光明的鏡像反映。首領通常是化身的心腹代理人，但也有一些極為強大的首領獨立行動。在光明子女的故事中，首領往往是主角們要面對的最高等級敵人，是黑暗在魔法王國中的具現。他們也可能代表一片區域的腐化，或是獲得了過多黑暗力量的人偶。在正義騎士風格的冒險中，首領代表化身的代理人和左右手，經常與魔法少女們正面交鋒、反覆角力，在形勢不利時留下人偶和傀儡斷後以便逃脫。在這類故事中，首領的本質和動機通常都是獨一無二的，很少有兩個相同的。在契約傀儡設定中，首領是危險的黑暗生物——他們可能是過度沉溺於自身情感和慾望而被束縛的存在，也可能是從黑暗次元逃出或試圖在外闖出名堂的暗影生物。一些最可怕的首領曾經是魔法少女，後來被黑暗扭曲，因其對抗者而言所代表的意義而成為令人恐懼的敵人。
 
-Las Muñecas son los servidores más comunes a los que se enfrentarán las magical 
-girls. Si bien una Muñeca solitaria puede poner en apuros a los PJ, son realmente 
-peligrosas cuando van acompañadas de otras Muñecas o Marionetas.
-A efectos de juego, el MC deberá tener en cuenta los siguientes puntos:
-	
-✽Su Nivel de Oscuridad debe ser como mínimo igual al número de PJ×2 y como 
-máximo el de PJ×4. Por ejemplo: un Devorador de Luz (PJ×3) enfrentándose a 
-un grupo de 2 PJ tendrá un Nivel de Oscuridad de 6 (2 × 3 = 6), mientras que si 
-se enfrenta a 4 PJ sería un total de 12 (4 × 3 = 12).
-	
-✽La característica de Angustia es de mínimo 2 y máximo 4.
-	
-✽No pueden tener los Dones oscuros de Tinieblas ni Inmortalidad.
-158
+最後是化身——他們要麼本身就是黑暗的化身，要麼被黑暗選中作為它在世間的代行者。這些存在只能被足夠強大且有備而來的魔法少女團隊擊敗，在整個生涯中遇到不止一個化身是極其罕見的事。光明子女設定中的化身通常不會出現——要麼黑暗太過虛弱無法創造它們，要麼它們只是一個沒有實體的概念。這與正義騎士恰恰相反，在那裡化身通常會親自現身，作為必須擊敗的最終敵人以挫敗黑暗的計畫。在契約傀儡設定中，化身不像正義騎士中那麼常見，但通常代表著創造或幫助實現首領願望的存在。或者，他們也可能代表暗影次元的領主，甚至是一個力量已增長到對守護者構成不可否認威脅的首領。
 
-Ejemplos de Muñecas:
-Muñeca 1:
-Nombre: Devorador de Luz.
-Aspecto: Enormes esferas con cuatro patas y una hendidura central que hace de 
-boca, la cual está repleta de dientes y lo que parece ser una especie de vórtice de 
-luz morada en su interior.
-Categoría: Muñeca.
-Tema: Devorador.
-Mancha de Oscuridad: Son enormes criaturas artificiales que devoran sentimien-
-tos positivos para dejar carcasas vacías.
-Angustia: 3.
-Dones oscuros:
-(Letal) 2 [Mandíbula].
-(Semilla) 1 [Comer sentimientos positivos].
-Hacer desaparecer la Luz.
-Rastrear sentimientos.
-Nivel de Oscuridad: PJ×3.
-Muñeca 2:
-Nombre: Corrompido por Glob.
-Aspecto: El humano al que ha poseído, sobre el que superpone la imagen del prota-
-gonista de la película que le ha corrompido.
-Categoría: Muñeca.
-Tema: Películas.
-Mancha de Oscuridad: Una emoción negativa que le llevó al videoclub de Glob el 
-Asqueroso.
-Angustia: 2.
-Dones oscuros:
-(Aquellos relacionados con la película que le corrompió).
-Nivel de Oscuridad: PJ×2.
-159
-•Oscuridad•
+## 創建黑暗使徒
 
-Los Campeones se encuentran entre los mejores sirvientes de la Oscuridad y son el 
-equivalente a las magical girls para la Luz. Cada uno de ellos ha decidido servir a 
-la Oscuridad de forma voluntaria, aunque algunos pueden haber sido engañados, 
-y esconden sus propios intereses y motivaciones. Un Campeón es un rival terrible, 
-que puede poner en apuros a grupos enteros de PJ y, por si eso fuera poco, suelen 
-tener bajo sus órdenes a Marionetas y Muñecas que les ayudan a cumplir sus pla-
-nes.
-Es habitual que los Campeones sirvan a un Avatar que les concedió su poder o que 
-hayan prometido cumplir un deseo para ellos. En algunas ocasiones una magical 
-girl podría cortar esta conexión, ya sea rompiendo el vínculo con la Oscuridad o 
-haciéndole ver el precio que tienen que pagar por sus deseos. Algunos Campeones 
-se han convertido en aliados de las magical girls, gracias a que pudieron cortar su 
-conexión con la Oscuridad.
-A efectos de juego, el MC deberá tener en cuenta los siguientes puntos:
-	
-✽Su Nivel de Oscuridad debe ser como mínimo igual al número de PJ×4 y como 
-máximo el de PJ×8.
-	
-✽La característica de Angustia es de mínimo 4 y máximo 6.
-	
-✽Pueden escoger cualquier Don oscuro.
-160
-Maho Shojo
+如果你擔任主持人（MC），遲早都需要設計能與魔法少女們交鋒的敵人。
 
-Ejemplos de Campeones:
-Campeón 1:
-Nombre: Hechicera de Llamas Oscuras.
-Aspecto: Una mujer de pelo negro bajo una túnica morada. Surgen llamas y humo 
-negro, tanto de sus ojos como de sus manos.
-Categoría: Campeón.
-Tema: Fuego de Llamas Oscuras.
-Mancha de Oscuridad: Una gran ira que la llevó a matar por primera vez.
-Angustia: 4.
-Dones oscuros:
-Clon de llamas.
-Hechizos de Llamas Oscuras.
-Invocar Ascuas de Llamas Oscuras (Crea Marionetas).
-Quemar sentimientos de corazones heridos (Crea Muñecas).
-(Letal) 2 [Conjuros de Llamas Oscuras].
-(Armazón) 2 [Colgante de llamas].
-(Semilla) 2 [Laberinto de Oscuridad].
-(Inmortalidad) 1 [Filacteria del corazón].
-Nivel de Oscuridad: PJ×5.
-Campeón 2:
-Nombre: Glob el Asqueroso.
-Aspecto: Un humano masivo de más de trescientos kilos. Tiene el pelo lacio y largo, 
-con varias calvas, y una piel de color mortecina.
-Categoría: Campeón.
-Tema: Equipo audiovisual.
-Mancha de Oscuridad: Destruir la vida de las personas como venganza de los 
-abusos que recibió.
-Angustia: 4.
-Dones oscuros:
-Invocar Muñecas (películas).
-Aumentar su tamaño.
-Olor nauseabundo.
-(Armazón) 4 [Grasa corporal].
-(Letal) 4 [Mayal de VHS].
-(Semilla) 2 [Película corrupta].
-Nivel de Oscuridad: PJ×6.
-161
-•Oscuridad•
+一旦決定創建一個黑暗使徒，首先應該思考你想呈現什麼樣的威脅——它的力量、動機和在虛構敘事中的目標。當你心中有了形象之後，就該決定它最適合四個等級中的哪一個：傀儡、人偶、首領或化身。在本章開頭我們已經回顧了各個等級以及它們在虛構敘事中通常如何呈現。做出決定後就可以繼續了。
 
-Los Campeones de la Luz y las magical girls de la Oscuridad
-En las series del género mahō shōjo suele existir el cliché de que alguien que 
-haya servido a la Oscuridad termine uniéndose a las magical girls y, a su vez, 
-haya magical girls que se convierten en sirvientes de aquellos contra los que 
-una vez combatieron.
-A veces ocurre que una magical girl ve algo en un Campeón que les hace en-
-tender que en el fondo puede ser salvado. Si es así y se esfuerza, puede ser ca-
-paz de iluminar su corazón de forma que la Oscuridad se vuelva débil, o podría 
-demostrar su error de servir a un Avatar rompiendo su vínculo. Dependiendo 
-del tipo de ambientación esto puede ser más o menos adecuado.
-Hijas de la Luz: En este tipo de ambientaciones suele ser muy frecuente que 
-los Campeones sean en realidad versiones retorcidas por la Oscuridad. Una 
-vez son derrotados, reconocen sus errores regresando al camino de la Luz.
-Campeonas de la Justicia: Algunos Campeones han sido engañados o empe-
-zaron a seguir a la Oscuridad buscando un resultado sin importar las conse-
-cuencias. En ambos casos los Campeones podrían darse cuenta de su error o 
-el engaño que ha supuesto unirse a la Oscuridad, apartándose de ese camino.
-Lo habitual en este tipo de ambientaciones es que se den cuentan de su error y 
-para repararlo deban transcender o morir. Sin embargo, también existen casos 
-en los que el antiguo Campeón se convierte en un aliado o magical girl que 
-conserva algunos de sus Dones oscuros, a los que evita recurrir o que utiliza 
-para combatir la Oscuridad.
-Marionetas de los Custodios: Una parte del drama de este tipo de ambien-
-taciones es, precisamente, la incapacidad de poder salvar a aquellos que han 
-sucumbido a la Oscuridad. Si bien es posible aliviar el dolor de algunos Cam-
-peones, es muy poco probable que abandonen el camino de la Oscuridad.
-En el otro lado están las magical girls que han hecho lo contrario, han aban-
-donado la Luz en favor de la Oscuridad. Cuando una heroína cambia de bando 
-se vuelve un espejo para los que continúan en el bando de la Luz, un recuerdo 
-constante de sus fallos y errores. En algunas ocasiones estas magical girls 
-caídas pueden tener un origen diferente, como ser una imagen artificial de los 
-miedos o la versión alternativa de otra. Los PJ suelen caer en estas situaciones 
-cuando su Nivel de Oscuridad es de 5; sin embargo, no siempre es adecuado 
-(ver «El Pacto» en la página 173).
-162
-Maho Shojo
+下一步是考慮敵人的外貌——無論是真實面貌，還是它在世間展現、與魔法少女互動時使用的外表。在魔法少女類型作品中，許多黑暗使徒擁有用以隱匿身分的人類外貌，以及一個真實或戰鬥形態，類似於魔法少女與她們的光之裝束。完成外貌設想後，別忘了為它取一個名字——無論是真名還是廣為人知的稱號。
 
-A continuación puedes ver unas breves ideas de cómo puede afectar cada tipo 
-de ambientación a las magical girls oscuras:
-Hijas de la Luz: En este tipo de ambientaciones las magical girls oscuras no 
-existen. En su lugar, este tipo de personajes puede tener dos vertientes: rivales 
-que suelen, por algún motivo, estar enfrentadas a las protagonistas, o bien 
-una manifestación de sus miedos que tienen que derrotar por algún tipo de 
-prueba. Por la propia naturaleza de estas historias, en muchas ocasiones las 
-magical girls rivales se convierten en aliadas o amigas. El motivo de esto es 
-que no existe una Oscuridad real que las hiciera oponerse a las protagonistas.
-Campeonas de la Justicia: En este tipo de historias casi siempre nos encon-
-tramos a una magical girl que cambia de bando, si bien es cierto que solo 
-brevemente, al servicio de la Oscuridad, o que empieza trabajando para ella. 
-Otra forma de presentarlas es que sean las heroínas de otros mundos o di-
-mensiones, que hace tiempo que fallaron y fueron esclavizadas por el Avatar.
-En las series de mahō shōjo podemos encontrarnos también, aunque no es 
-tan habitual, con réplicas o dobles oscuros de todas o algunas de las magical 
-girls. Este tipo de orígenes se nos presentan como auténticas copias, o bien 
-personas a las que se les han concedido poderes y habilidades similares, pero 
-con un giro siniestro.
-Marionetas de los Custodios: De forma similar a la anterior, uno de los temas 
-habituales suele ser la existencia de este tipo de Campeones. Por la propia 
-naturaleza de cómo los Custodios despiertan los poderes de una magical girl, 
-estas tienden a convertirse en criaturas oscuras como consecuencia de ello.
-163
-•Oscuridad•
+接下來需要為黑暗使徒指定一個主題，其運作方式與魔法少女光之裝束的主題類似。黑暗使徒的主題範例包括：劍、火焰、植物、爪牙、暗黑魔法、動物等（詳見「光明對抗黑暗」章節，了解更多關於主題的資訊）。
 
-No hay enemigo más temible para una magical girl 
-que un Avatar, el cual simboliza a la Oscuridad 
-tanto física como metafóricamente. Estas enti-
-dades disponen de una gran cantidad de re-
-cursos y Dones de la Oscuridad capaces de 
-derrotar sin problemas a grupos enteros de 
-magical girls, así como de llevar la Oscu-
-ridad a cualquier sitio al que se pro-
-pongan. Un avatar suele tener bajo su 
-mando a varios Campeones, Muñecas 
-y Marionetas que cumplen su volun-
-tad. Es extremadamente raro que una 
-magical girl se enfrente a más de uno 
-de ellos a lo largo de su carrera y su 
-existencia suele ser el motivo por el 
-que fue elegida para hacer un Pacto.
-Los Avatares cuentan con fuertes moti-
-vaciones y creencias que les han llevado 
-a realizar un Pacto para convertirse en uno 
-con la Oscuridad. Ansias de poder, el deseo de 
-recuperar algo extraviado, transcender la 
-muerte, cambiar el tipo, conquis-
-tar mundos, recuperar un amor 
-perdido… existen tantas moti-
-vaciones como Avatares puedas 
-imaginar.
-A efectos de juego, el MC deberá te-
-ner en cuenta los siguientes puntos:
-	
-✽
-Su Nivel de Oscuridad debe ser como mínimo 
-igual al número de PJ×6 y no existe un máximo.
-	
-✽
-La característica de Angustia es de mínimo 6 
-y máximo 8.
-	
-✽
-Debe escoger al menos un Don oscuro de In-
-mortalidad.
-164
-Maho Shojo
+最後，當你完成以上所有步驟後，為它分配一系列黑暗恩賜，代表它們用以執行黑暗計畫和對抗光明的力量、能力和武器。
 
-Ejemplos de Avatares:
-Avatar 1:
-Nombre: Presidente de Kasumano.
-Aspecto: Un hombre trajeado de negro con con un peinado clásico. Tiene una son-
-risa terrible con dientes deformados de un color amarillento. Sus manos se convier-
-ten en espadas afiladas y su postura puede deformarse como si su columna tuviera 
-decenas de articulaciones.
-Categoría: Avatar.
-Tema: Filos y cuchillas.
-Mancha de Oscuridad: Ganar poder político y enormes riquezas al esclavizar a la 
-raza humana.
-Angustia: 6.
-Dones oscuros:
-Control sobre el edificio Kasumano.
-Crear ilusiones.
-Leer sentimientos.
-Contorsionismo.
-(Semilla) 2 [Ofrecer lo que más se desea].
-(Tinieblas) 2 [Sala de Juntas].
-(Letal) 5 [Manos espada].
-(Semilla) 2 [Contrato].
-(Inmortalidad) 2 [Sala de Juntas].
-Nivel de Oscuridad: PJ×7.
-Avatar 2:
-Nombre: Princesa de Sangre.
-Aspecto: Una mujer vestida de rojo con la piel de color gris, ojos dorados y pelo 
-plateado. Cuando es vista por los mortales presenta un aspecto entre lo repulsivo y 
-lo hermoso a partes iguales. Porta una extraña máscara y una corona que le pro-
-porcionan parte de su poder.
-Categoría: Avatar.
-Tema: Sangre.
-165
-•Oscuridad•
+### 黑暗使徒的角色卡摘要
 
-Mancha de Oscuridad: Robar los sentimientos de las personas para recuperar 
-aquellos que perdió en su día.
-Angustia: 6.
-Dones oscuros:
-Movimiento sobrenatural.
-Magia de sangre.
-Crear servidor (Marionetas o Muñecas).
-Conceder poder oscuro.
-(Semilla) 1 [Susurro de odio].
-(Tinieblas) 1 [Mordedura].
-(Armazón) 4 [Escudo de sangre].
-(Letal) 4 [Espada de sangre].
-(Letal) 3 [Conjuros de sangre letal].
-(Inmortalidad) 2 [Corona de Sangre].
-Nivel de Oscuridad: PJ×9.
-Nivel de Oscuridad
-El Nivel de Oscuridad de los enemigos representa su conexión y voluntad de servir 
-a la Oscuridad. A efectos de juego es la cantidad de Castigo que pueden soportar de 
-los PJ antes de ser derrotados, salvo las Marionetas, que son derrotadas de forma 
-diferente (ver «Los Movimientos» en la página 87).
-Para saber cuál es el Nivel de Oscuridad de un servidor debe multiplicarse su valor 
-por el número de PJ que estén presentes en la mesa.
-Ejemplo 1: Para saber el Nivel de Oscuridad del Presidente de Kasumano se multi-
-plica su valor de Nivel de Oscuridad (7) por el número de PJ. La campaña la juegan 
-Kiyomi, Akari, Inoue y Yoriko (4), por lo que Mónica indica que dispone de un Nivel 
-de Oscuridad de 28 (7×4).
-Ejemplo 2: Marion quiere saber cuánto es el Nivel de Oscuridad total de un Devo-
-rador de Luz. Su partida tiene dos PJ, Natsumi y Torome, por lo que sabe que multi-
-plicando por el Nivel de Oscuridad del Devorador es un total de 6 (2×3).
-Cada vez que un servidor de la Oscuridad recibe puntos de Castigo a través de un 
-Movimiento, como Castigar la Oscuridad, resta esos puntos del Nivel de Oscuridad. 
-Si en algún momento la puntuación del servidor es igual o menor que 0, es derrota-
-do. Cuando un enemigo es derrotado, no pienses solo en su muerte o destrucción, 
-166
-Maho Shojo
+- **名稱**：它為人所知的名字或稱號。
+- **外貌**：敵人的外觀描述。如果能變換多種形態，可以有不止一種。
+- **等級**：屬於四個等級中的哪一個——傀儡、人偶、首領或化身。
+- **主題**：黑暗恩賜的外觀、來源或本質。
+- **黑暗污跡**：效忠黑暗或對抗光明的動機。
+- **痛苦**：對玩家角色施加反應或黑暗恩賜時造成的痛苦等級。
+- **黑暗恩賜**：提升其能力或為主持人（MC）提供新反應的黑暗恩賜列表。
+- **黑暗等級**：該使徒的黑暗等級。
 
-al hablar de derrotado podemos referirnos también a cosas como: ser atrapado, redi-
-mido o desterrado. Es trabajo del MC y los jugadores indicar el tono y consecuencias 
-de derrotar a un servidor de la Oscuridad (ver «Ambientación» en la página 262).
-Ejemplo: Torome logra golpear a un Devorador de Luz, su Castigo es 3. Marion com-
-prueba el Nivel de Oscuridad que le quedaba, en este caso 2, por lo que es reducido 
-por debajo de 0, quedando derrotado. A continuación, describe cómo del interior del 
-Devorador surge una luz que restaura una pequeña región del Reino de las Estrellas.
-Nivel de Angustia
-Cuando los PJ se enfrentan a un servidor de la Oscuridad se exponen a sufrir daño, 
-no solo físico, sino también emocional. Cualquiera que cuente con la Oscuridad de 
-su lado tiene la capacidad de hacer heridas físicas, como cortar la carne o romper 
-un brazo, pero también puede afectar a la mente y al corazón, despertando dudas y 
-deseos que podrían hacer rendirse a cualquiera.
-Para representar estas capacidades todos los servidores de la Oscuridad tienen la 
-característica de Angustia. Para saber más sobre cómo funciona la Angustia y sus 
-efectos ver «Luz contra Oscuridad» en la página 114.
-El Finalem y el Nivel de Oscuridad
-¿Qué pasa cuando un PJ utiliza un Finalem? Este Poder del Corazón está dis-
-ponible para cualquiera que alcance un Nivel de Poder 5 y acaba de forma 
-inmediata con todos los enemigos, derrotándolos sin importar su Nivel de Os-
-curidad (ver «Luz contra Oscuridad» en la página 135).
-Como MC, puede que pienses que no debería de ser tan fácil acabar con algu-
-nos Campeones o Avatares particularmente poderosos de forma «automática» 
-simplemente utilizando el Finalem. Si bien en Mahō Shōjo se debe asumir el 
-resultado, debéis recordar que estáis jugando para saber lo que pasa. Aquí pre-
-sentamos una regla alternativa al efecto del Finalem sobre el Nivel de Oscuridad.
-Como MC deberías evitar usar esta regla, pues para el caso de enemigos po-
-derosos capaces de soportar estos ataques fue diseñado el Don oscuro de 
-Inmortalidad. No obstante, comprendemos que puedes desear tener Avatares 
-y Campeones recurrentes que sean más resistentes a estos efectos.
-Durante una sesión, cuando un servidor de la Oscuridad es derrotado me-
-diante el Movimiento Poder del Corazón utilizando Finalem, en lugar de ser 
-derrotado logra huir de alguna manera (quizás mientras ríe, grita o dice alguna 
-frase ingeniosa). A partir de ese momento reduce en 1 o 2 el multiplicador del 
-Nivel de Oscuridad. Por ejemplo un Campeón con Nivel de Oscuridad igual a 
-PJ×6 que haya sido afectado por un Finalem, en su siguiente aparición su nue-
-vo máximo sería de PJ×4.
-167
-•Oscuridad•
+## 等級
 
-Dones oscuros
-Los poderes que da la Luz a las magical girls 
-a través de su Lux Habitu son reflejados por 
-la Oscuridad con los Dones oscuros. Es gra-
-cias a estas habilidades que los servidores 
-de la Oscuridad pueden llevar adelante sus 
-planes.
-A la hora de crear un servidor de la Oscuri-
-dad, el MC debe pensar qué Dones asignar 
-a cada uno. Gracias a ellos podrás ser rápi-
-damente consciente de las capacidades rea-
-les de cada servidor, como, por ejemplo, una 
-Marioneta que sea inmune al fuego, un Cam-
-peón que tenga una espada capaz de derro-
-tar a una magical girl o un Avatar que le robe 
-los recuerdos felices, dejando solo amargura 
-en ella.
-A continuación puedes encontrar la descrip-
-ción de los Dones y su efecto en el juego.
-Don oscuro (Reacción)
-Este tipo de Don permite realizar una Reac-
-ción específica al MC, añadiéndola a su re-
-pertorio de Reacciones (para saber más so-
-bre las Reacciones del MC ver «Maestro de 
-Ceremonias» en la página 203). Estos Dones 
-sirven como guía para saber cuáles son las 
-capacidades que tiene cada uno de los ser-
-vidores de la Oscuridad y están pensados, 
-al igual que las Reacciones, para dar inspira-
-ción a sus efectos en la Ficción.
-Algunos Dones pueden ser garras duras 
-como el acero, replicarse, leer los miedos o 
-doblegar la dimensión. Al igual que el resto 
-de sus Reacciones, el MC debe pensar en es-
-tos como palabras clave que conceden nue-
-vas herramientas dentro de la Ficción. No 
-hay una regla fija para la creación de estos 
-Dones o sobre cuántos puede disponer un 
-enemigo. Imagina un servidor que tuviera 
-168
-Maho Shojo
+如前所述，黑暗使徒分為四個等級。每個等級代表一個力量層級，構成玩家角色面臨的逐級遞升的挑戰。一般而言，我們建議以人偶作為常規敵人，首領作為真正的挑戰和勁敵。傀儡的設計用途是為前兩者提供支援，而化身應該只在計畫解決一個蝕或結束戰役時使用（詳見「蝕」章節）。
 
-un Don (Reacción) Invisibilidad: gracias a él sería invisible y los PJ deberían bus-
-car algún medio en la Ficción que permitiese localizarlo de otra forma para des-
-pués detenerlo.
-Como MC deberías usar una parte de estas Reacciones con el objetivo de darte una 
-imagen de la naturaleza de los enemigos. Algunos ejemplos claros son la invulne-
-rabilidad y las capacidades especiales. También tendrás que pensar si la criatura 
-necesita algo para poder realizarlos. ¿Quizás solo puede hacer algunos mientras 
-tenga un libro de conjuros? 
-Como pasa con los Movimientos de los PJ, debes tener en cuenta que algunos Do-
-nes solo estarán disponibles si se cumplen ciertos requisitos y condiciones. ¿Qué 
-puede haber más peligroso que un enemigo que se autodestruye en una gran explo-
-sión oscura cuando se rompe el cuerno de su frente?
-Ejemplo 1: Durante su enfrentamiento contra la Hechicera de Llamas Oscuras, 
-Inoue se ha abalanzado con su martillo contra ella, desencadenando un Movimien-
-to de Castigar la Oscuridad.
-—Oh, vaya, saco solo un 4 —se lamenta Cristina.
-—Bien, te lanzas contra ella, pero en ese momento ves cómo, de pronto, se divide 
-en dos; ambas Hechiceras parecen iguales —explica Mónica al usar el Don Clon 
-de llamas como una Reacción.
-Ejemplo 2: Durante la lucha contra Glob, Ruth ha decidido tratar de ganar la es-
-palda del Campeón saltando por encima de él, para salir del rango de acción de 
-sus mayales.
-—Muy bien, creo que eso es Superar el peligro con Reflexiva —le indica Mónica 
-como MC.
-—Fallo, no logró ni siquiera un 7 —le responde Ruth.
-—Bien. En el momento en el que te mueves alrededor, ves cómo Glob gira su 
-cabeza y escupe algo hacia uno de los pósteres del videoclub al que te diriges. 
-En ese momento ves que sus personajes surgen envueltos en un aura grisácea 
-y se dirigen a por ti. ¿Qué haces? —dice Mónica después de usar el Don Invocar 
-Muñecas (películas).
-Don oscuro (Armazón)
-Algunos servidores de la Oscuridad disponen de formas de protegerse contra el 
-Castigo producido por los PJ. Ya sea mediante una piel escamosa, una armadura o 
-escudos místicos, el Don (Armazón) les concede una resistencia adicional cuando se 
-cumple una condición específica. Por ejemplo, estar en el agua, llevar un amuleto o 
-tener a alguien en su interior. En el momento en el que esta condición no se cumple 
-ya no se puede aprovechar este Don.
-169
-•Oscuridad•
+### 傀儡
 
-La forma de apuntar este Don es: «Armazon» X [Y], siendo la X el número de pun-
-tos de Castigo que anula y la Y la condición. Ejemplos de Don:
-(Armazón) 2 [Colgante de Llamas]
-La Hechicera de Llamas Oscuras dispone de un colgante protector. Mientras lo lleva 
-puesto anula 2 puntos de Castigo recibido por parte de un PJ. Si en algún momento 
-pierde o no lleva el Colgante de Llamas pierde su efecto.
-(Armazón) 4 [Armadura]
-El servidor de la Oscuridad porta una enorme armadura que anula 4 puntos del Cas-
-tigo recibido por un PJ. La armadura tiene algunos puntos débiles que si se detectan 
-y se golpean, como, por ejemplo, la cabeza si no lleva el casco, no tendrían protección.
-Don oscuro (Letal)
-El Don (Letal) permite aumentar la característica Angustia de un servidor si logra 
-usarlo para dañar a un PJ. Este Don puede representarse con hechizos poderosos, 
-una condición (como estar en el agua), un arma, un ataque emocional, etc. El MC 
-solo debe aumentar la característica de Angustia cuando el servidor pueda sacar 
-provecho de él. Por ejemplo: Un Campeón con una espada (Letal) 2 [Espada] suma-
-rá 2 puntos a su Angustia solo en caso de golpear con ella.
-La forma de apuntar este Don es: «Letal» X [Y], siendo la X lo que se suma a la pun-
-tuación de Angustia, que aumenta al usar el poder, y la Y la condición que existe. 
-Ejemplos de Don:
-(Letal) 4 [Mayal de VHS]
-Cuando Glob el Asqueroso golpea a un PJ con uno de sus mayales de VHS, suma 4 
-a la característica Angustia.
-(Letal) 3 [Conjuros de sangre letal]
-Cuando la Princesa de Sangre se corta las muñecas para potenciar sus ataques, 
-suma 3 a la característica Angustia.
-Don oscuro (Tinieblas)
-El Don (Tinieblas) permite entregar a un PJ Puntos de Tinieblas cuando es usado 
-como una Reacción. Para saber más sobre sus efectos sobre un PJ, consulta «Luz 
-contra Oscuridad» en la página 121. Este Don representa las capacidades de un ser-
-vidor de la Oscuridad para mermar o impedir que un PJ desate todo su potencial. 
-El origen del poder puede ir desde localizaciones concretas como el sancta sanc-
-torum de un Avatar, una condición ambiental, como estar bajo la luna nueva, hasta 
-un conjuro, como los ojos corruptos de un Campeón, por poner algunos ejemplos.
-170
-Maho Shojo
+傀儡是所有黑暗使徒中最弱的。這些敵人通常以大群出現，能被玩家角色輕易擊敗。單獨一個傀儡幾乎不可能給魔法少女團隊帶來麻煩，因此它們的威脅通常來自於數量。
 
-La forma de apuntar este Don es: (Tinieblas) X [Y], siendo la X la cantidad de Puntos 
-de Tinieblas que entrega a un PJ y la Y la condición. Ejemplos de Don:
-(Tinieblas) 2 [Sala de Juntas]
-Cuando el Presidente de Kasumano lucha en su sala de juntas es capaz de reducir 
-el potencial de sus enemigos. El PJ objetivo recibe 2 Puntos de Tinieblas cuando se 
-desata este poder en la sala.
-(Tinieblas) 1 [Mordedura]
-Cuando la Princesa de Sangre muerde a un PJ extiende parte de su poder oscuro 
-para apagar la Luz creciente de su rival. Un PJ afectado por este Don consigue 1 
-Punto de Tinieblas.
-Don oscuro (Semilla)
-El Don Semilla permite a los servidores de la Oscuridad crear una mancha en el co-
-razón de un PJ, con la esperanza de oscurecerlo y apagar su Luz. Este Don se puede 
-manifestar de varias formas. Algunos ejemplos son: implantar recuerdos, provocar 
-emociones nocivas, dañar su psique o sembrar la duda en su corazón.
-La forma de apuntar este Don es: (Semilla) X [Y], siendo la X los Puntos de Oscuri-
-dad que gana el PJ y la Y la condición que existe. Ejemplos de Don:
-(Semilla) 1 [Susurro de odio]
-Cuando la Princesa de Sangre susurra en su lengua oscura al oído de una magical 
-girl, se despiertan los sentimientos de odio ocultos en su interior. Una vez afectado, 
-el PJ gana 1 Punto de Oscuridad.
-(Semilla) 2 [Laberinto de Oscuridad]
-Cuando invoca el conjuro de Laberinto de Oscuridad, introduce a la magical girl en 
-una dimensión que la fuerza a oscurecer su corazón e incrementa el miedo en ella. 
-Una vez afectado, el PJ gana 2 Puntos de Oscuridad.
-Don oscuro (Inmortalidad)
-Este Don representa la capacidad de evadir la derrota y los Poderes del Corazón co-
-nocidos como Finalem. Este Don solo suele concederse a los Avatares, aunque algunos 
-Campeones también pueden llegar a adquirirlo. Cuando un servidor de la Oscuridad con 
-este Don pierde todos sus puntos de Nivel de Oscuridad o es derrotado por un Finalem 
-del Movimiento Poder del Corazón, en lugar de ser derrotado baja en 1 la puntuación 
-de este Don y recupera todos sus puntos de Nivel de Oscuridad. Al final de la escena, si 
-lo que le proporcionaba el Don sigue existiendo en la Ficción y no ha sido derrotado, au-
-menta en 1 la puntuación del Don hasta un máximo de la puntuación original.
-171
-•Oscuridad•
+在遊戲規則方面，主持人（MC）需注意以下幾點：
 
-La forma de apuntar este Don es: (Inmortalidad) X [Y], siendo la X el número de 
-veces que se puede usar este Don y la Y la condición que debe cumplirse para tener 
-este Don. Ejemplos de Don:
-(Inmortalidad) 1 [Filacteria del corazón]
-Cuando hizo el pacto con la Oscuridad, la Hechicera de Llamas Oscuras metió su co-
-razón en un cofre mágico. Si en algún momento el cofre deja de existir y la filacteria 
-es destruida pierde este Don.
-(Inmortalidad) 2 [Corona de Sangre]
-Mientras la Princesa de Sangre tenga puesta su corona es capaz de recurrir a sus po-
-deres regeneradores. Si la corona es destruida o no tiene acceso a ella pierde este Don.
-Preguntas clave para crear
-un servidor de la Oscuridad
-Cuando hagas un servidor de la Oscuridad es interesante que trates de responder a 
-la mayor cantidad de preguntas posibles, para saber cómo crear a los enemigos que 
-se enfrentarán a los jugadores. A continuación aparecen algunas de ellas:
-	
-✽¿Cuál fue el motivo que le hizo caer en la Oscuridad?
-	
-✽¿Cuál es su mayor deseo?
-	
-✽¿Qué fue aquello que le ha motivado para enfrentarse a la Luz y combatir con-
-tra las magical girls?
-	
-✽¿Cuál es su Tema?
-	
-✽¿Cuál es su plan?
-	
-✽¿Cuál es su forma de combatir? ¿Es un poderoso hechicero o un hábil guerrero? 
-¿Quizás un líder carismático que atrae a poderosos Campeones a su lado?
-	
-✽¿Puede invocar o crear Marionetas y/o Muñecas?
-	
-✽¿Su origen es humano?
-	
-✽¿Dónde está su base de operaciones?
-	
-✽¿Cuál es su punto más fuerte? ¿Y su mayor debilidad?
-	
-✽¿Cuál es su actitud hacia las magical girls? ¿Y hacia sus propios aliados?
-	
-✽¿Cómo podría redimirse?
-	
-✽¿A qué teme más?
-	
-✽¿Quiénes podrían tener información sobre su existencia o sus orígenes?
-Tampoco tienes por qué contestar todas las preguntas de inmediato; deja algunos 
-misterios para cuando comience la historia.
-172
-Maho Shojo
+- **沒有黑暗等級。** 傀儡的擊敗方式依照基礎動作「懲戒黑暗」中的規則（詳見「動作」章節）。
+- **以群體出現。** 群體中每增加一個傀儡，其痛苦值增加 1。例如，一群由兩個卡須摩之影組成的群體，痛苦值總共為 3。如果在某個時刻加入一個新的卡須摩之影，痛苦值會升至 4；如果有一個被擊敗，則降至 2。
+- **不能擁有晦暗或不朽的黑暗恩賜。**
+
+#### 傀儡範例
+
+**傀儡 1：**
+
+- **名稱**：卡須摩之影
+- **外貌**：看起來像是一個佝僂人形的實體陰影。
+- **等級**：傀儡
+- **主題**：影子
+- **黑暗污跡**：為卡須摩大樓議會效力的人造生物。
+- **痛苦**：2
+- **黑暗恩賜**：
+  - 穿梭於影子之間
+  - 改變大小
+- **黑暗等級**：無
+
+**傀儡 2：**
+
+- **名稱**：王國的憂鬱
+- **外貌**：創造者的複製品，但雙眼毫無光彩，額頭上有鎖鏈紋章。
+- **等級**：傀儡
+- **主題**：鎖鏈
+- **黑暗污跡**：失去星辰王國的憂鬱。
+- **痛苦**：2
+- **黑暗恩賜**：
+  - 束縛
+  - （種子）1［憂鬱的記憶］
+- **黑暗等級**：無
+
+### 人偶
+
+人偶是魔法少女們最常遭遇的黑暗使徒。雖然單獨一個人偶就能讓玩家角色陷入困境，但當它們與其他人偶或傀儡同行時才是真正的危險所在。
+
+在遊戲規則方面，主持人（MC）需注意以下幾點：
+
+- **黑暗等級最低為玩家角色人數 ×2，最高為玩家角色人數 ×4。** 例如：一個吞光者（玩家角色 ×3）面對兩名玩家角色時，黑暗等級為 6（2 × 3 = 6）；若面對四名玩家角色，則為 12（4 × 3 = 12）。
+- **痛苦值最低為 2，最高為 4。**
+- **不能擁有晦暗或不朽的黑暗恩賜。**
+
+#### 人偶範例
+
+**人偶 1：**
+
+- **名稱**：吞光者
+- **外貌**：巨大的球體，四條腿，中央有一道裂縫作為嘴巴，裡面塞滿牙齒，內部似乎有某種紫色光漩渦。
+- **等級**：人偶
+- **主題**：吞噬者
+- **黑暗污跡**：吞噬正面情感以留下空殼的巨大人造生物。
+- **痛苦**：3
+- **黑暗恩賜**：
+  - （致命）2［顎口］
+  - （種子）1［吞食正面情感］
+  - 使光明消失
+  - 追蹤情感
+- **黑暗等級**：玩家角色 ×3
+
+**人偶 2：**
+
+- **名稱**：格洛布的腐化者
+- **外貌**：被附身的人類，身上疊加著腐化他的電影主角形象。
+- **等級**：人偶
+- **主題**：電影
+- **黑暗污跡**：某種負面情緒將他引到了噁心格洛布的錄影帶店。
+- **痛苦**：2
+- **黑暗恩賜**：
+  - （與腐化他的電影相關的恩賜）
+- **黑暗等級**：玩家角色 ×2
+
+### 首領
+
+首領位列黑暗最優秀的僕從之中，是光明之於魔法少女的對等存在。他們每一個都自願選擇效忠黑暗——儘管有些可能是被欺騙的——並且隱藏著各自的利益和動機。首領是可怕的勁敵，能讓整組玩家角色陷入困境；更不用說他們麾下通常還有傀儡和人偶協助執行計畫。
+
+首領通常效忠於賦予他們力量的化身，或是承諾為化身實現某個願望。在某些情況下，魔法少女可以切斷這種連結——無論是打破與黑暗的羈絆，還是讓他們看清為實現願望所付出的代價。有些首領正是因為能夠切斷與黑暗的連結，才成為了魔法少女的盟友。
+
+在遊戲規則方面，主持人（MC）需注意以下幾點：
+
+- **黑暗等級最低為玩家角色人數 ×4，最高為玩家角色人數 ×8。**
+- **痛苦值最低為 4，最高為 6。**
+- **可以選擇任何黑暗恩賜。**
+
+#### 首領範例
+
+**首領 1：**
+
+- **名稱**：暗焰女巫
+- **外貌**：一名黑髮女子，身披紫色斗篷。黑色火焰和煙霧從她的雙眼和雙手中湧出。
+- **等級**：首領
+- **主題**：暗焰之火
+- **黑暗污跡**：一股強烈的憤怒，驅使她第一次奪取了生命。
+- **痛苦**：4
+- **黑暗恩賜**：
+  - 火焰分身
+  - 暗焰咒術
+  - 召喚暗焰餘燼（創造傀儡）
+  - 燃燒受傷心靈的情感（創造人偶）
+  - （致命）2［暗焰咒語］
+  - （堅固）2［火焰墜飾］
+  - （種子）2［黑暗迷宮］
+  - （不朽）1［心臟容器］
+- **黑暗等級**：玩家角色 ×5
+
+**首領 2：**
+
+- **名稱**：噁心格洛布
+- **外貌**：一個超過三百公斤的巨型人類。頭髮稀疏油膩且很長，有幾處禿斑，皮膚呈死灰色。
+- **等級**：首領
+- **主題**：影音設備
+- **黑暗污跡**：為報復曾受到的欺凌而摧毀人們的生活。
+- **痛苦**：4
+- **黑暗恩賜**：
+  - 召喚人偶（電影）
+  - 增大體型
+  - 令人作嘔的惡臭
+  - （堅固）4［體脂肪］
+  - （致命）4［VHS 連枷］
+  - （種子）2［腐化電影］
+- **黑暗等級**：玩家角色 ×6
+
+:::note[光明的首領與黑暗的魔法少女]
+
+在魔法少女類型作品的系列中，經常出現這樣的橋段：曾效忠黑暗的人最終加入魔法少女陣營，同時也有魔法少女墮落成為她們曾經對抗的敵人的僕從。
+
+有時，魔法少女會在首領身上看到某些東西，讓她們明白對方內心深處是可以被拯救的。如果她確實付出努力，就可能照亮對方的心靈，使黑暗變得脆弱，或者證明對方效忠化身是一個錯誤，從而打破他們之間的羈絆。根據世界觀類型的不同，這種做法或多或少是合適的。
+
+**光明子女**：在這類世界觀中，首領通常是被黑暗扭曲的存在。一旦被擊敗，他們會認識到自己的錯誤，回歸光明之路。
+
+**正義騎士**：有些首領是被欺騙的，或是為了不計後果地追求某個結果而開始追隨黑暗。在這兩種情況下，首領都可能意識到自己的錯誤，或意識到加入黑暗是個騙局，從而脫離那條道路。在這類世界觀中，常見的結局是他們認識到自己的錯誤，為了彌補而選擇超越或犧牲。不過，也有前首領成為盟友或魔法少女的情況，他們保留了部分黑暗恩賜，要麼避免使用，要麼將其用於對抗黑暗。
+
+**契約傀儡**：這類世界觀的戲劇性之一，正是無法拯救那些已經屈服於黑暗之人的無力感。雖然有可能減輕某些首領的痛苦，但他們極不可能放棄黑暗之路。
+
+在另一面，有些魔法少女做了相反的選擇——她們放棄光明，投入黑暗的懷抱。當一位女英雄改換陣營，她就成為了繼續站在光明陣營者的一面鏡子，時刻提醒著她們的失敗和過錯。在某些情況下，這些墮落的魔法少女可能有不同的起源，例如她們可能是某人恐懼的人造形象，或是另一個人的替代版本。玩家角色通常在黑暗等級達到 5 時陷入這種處境；然而，這並非總是合適的（詳見「盟約」章節）。
+
+以下是各種世界觀類型如何影響暗黑魔法少女的簡要思路：
+
+**光明子女**：在這類世界觀中，暗黑魔法少女並不存在。取而代之的是兩種角色：因某些原因與主角們對立的競爭對手，或是她們必須通過某種考驗來克服的恐懼具現化。由於這類故事的本質，很多時候競爭對手型的魔法少女最終會成為盟友或朋友。原因是根本不存在真正的黑暗來使她們與主角對立。
+
+**正義騎士**：在這類故事中，幾乎總會出現一位改換陣營的魔法少女——儘管通常只是短暫地為黑暗效力，或是一開始就為黑暗工作。另一種呈現方式是她們是其他世界或次元的女英雄，早已失敗並被化身奴役。在魔法少女系列作品中，雖然不那麼常見，我們也能看到主角們全部或部分的黑暗複製品或分身。這類起源的敵人要麼是真正的複製品，要麼是被賦予了相似但帶有邪惡扭曲力量和能力的人。
+
+**契約傀儡**：與前者類似，這類首領的存在是常見的主題之一。由於守護者喚醒魔法少女力量的方式，這些魔法少女有成為暗黑生物的傾向，而這正是其代價所在。
+
+:::
+
+### 化身
+
+沒有比化身更可怕的敵人了，它在物理和隱喻意義上都象徵著黑暗。這些存在擁有大量的資源和黑暗恩賜，能夠毫不費力地擊敗整組魔法少女，並將黑暗帶到它們想去的任何地方。一個化身通常麾下有多名首領、人偶和傀儡執行其意志。魔法少女在整個生涯中面對不止一個化身是極其罕見的，而化身的存在通常就是她被選中締結盟約的原因。
+
+化身擁有強烈的動機和信念，驅使他們締結盟約，與黑暗融為一體。對權力的渴望、找回失落之物的願望、超越死亡、改變時代、征服世界、找回失去的愛……化身的動機和你能想像的一樣多。
+
+在遊戲規則方面，主持人（MC）需注意以下幾點：
+
+- **黑暗等級最低為玩家角色人數 ×6，沒有上限。**
+- **痛苦值最低為 6，最高為 8。**
+- **必須至少選擇一個不朽的黑暗恩賜。**
+
+#### 化身範例
+
+**化身 1：**
+
+- **名稱**：卡須摩社長
+- **外貌**：一名身著黑色西裝、髮型古典的男子。他有一個可怕的笑容，露出變形的黃色牙齒。他的雙手能變成鋒利的刀劍，姿態可以扭曲得彷彿脊椎有數十個關節。
+- **等級**：化身
+- **主題**：刀鋒與利刃
+- **黑暗污跡**：奴役人類以獲取政治權力和巨大財富。
+- **痛苦**：6
+- **黑暗恩賜**：
+  - 控制卡須摩大樓
+  - 製造幻象
+  - 讀取情感
+  - 柔體術
+  - （種子）2［許下最渴望之物］
+  - （晦暗）2［會議室］
+  - （致命）5［刀劍之手］
+  - （種子）2［契約書］
+  - （不朽）2［會議室］
+- **黑暗等級**：玩家角色 ×7
+
+**化身 2：**
+
+- **名稱**：鮮血公主
+- **外貌**：一名身穿紅衣、灰色皮膚、金色雙眼、銀色長髮的女子。當凡人目睹她時，她的外貌在令人厭惡和美麗之間各佔一半。她佩戴著一面奇異的面具和一頂王冠，這些為她提供了部分力量。
+- **等級**：化身
+- **主題**：鮮血
+- **黑暗污跡**：竊取人們的感情，以找回自己曾經失去的那些。
+- **痛苦**：6
+- **黑暗恩賜**：
+  - 超自然移動
+  - 血之魔法
+  - 創造使徒（傀儡或人偶）
+  - 賦予黑暗力量
+  - （種子）1［仇恨的低語］
+  - （晦暗）1［噬咬］
+  - （堅固）4［鮮血之盾］
+  - （致命）4［鮮血之劍］
+  - （致命）3［致命血咒］
+  - （不朽）2［鮮血王冠］
+- **黑暗等級**：玩家角色 ×9
+
+## 黑暗等級
+
+敵人的黑暗等級代表其與黑暗的連結以及效忠黑暗的意志。在遊戲規則上，它是敵人被擊敗前能承受的玩家角色懲罰值總量——傀儡除外，傀儡有不同的擊敗方式（詳見「動作」章節）。
+
+要計算使徒的黑暗等級，需將其數值乘以在場的玩家角色人數。
+
+**範例 1**：要計算卡須摩社長的黑暗等級，將其黑暗等級數值（7）乘以玩家角色人數。這場戰役由紀世美、燈里、井上和姬子四人遊玩，因此莫妮卡指出他的黑暗等級為 28（7 × 4）。
+
+**範例 2**：瑪莉恩想知道一個吞光者的黑暗等級總共是多少。她的遊戲有兩名玩家角色——夏海和虎目，因此她知道乘以吞光者的黑暗等級，總共是 6（2 × 3）。
+
+每當黑暗使徒透過動作（如懲戒黑暗）受到懲罰點數時，從其黑暗等級中扣除這些點數。如果使徒的分數在任何時刻等於或低於 0，則被擊敗。當敵人被擊敗時，不要只想到死亡或毀滅——被擊敗也可以意味著：被捕獲、被救贖或被放逐。判定擊敗黑暗使徒的結局基調和後果，是主持人（MC）和玩家們共同的工作（詳見「世界觀」章節）。
+
+**範例**：虎目成功擊中了一個吞光者，她的懲罰值為 3。瑪莉恩檢查吞光者剩餘的黑暗等級——此時為 2——因此降到了 0 以下，吞光者被擊敗。接著，她描述從吞光者體內湧出一道光芒，恢復了星辰王國的一小片區域。
+
+### 痛苦等級
+
+當玩家角色面對黑暗使徒時，他們會面臨傷害的風險——不僅是物理上的，也包括情感上的。任何擁有黑暗力量相助的存在都能造成物理傷害，如割傷肌膚或折斷手臂，同時也能影響心靈和內心，喚醒可能讓任何人放棄抵抗的疑慮和慾望。
+
+為了呈現這些能力，所有黑暗使徒都具有痛苦屬性。若想了解更多關於痛苦的運作方式及其效果，請參閱「光明對抗黑暗」章節。
+
+:::note[終曲與黑暗等級]
+
+當玩家角色使用終曲時會發生什麼？這個心之力在任何達到能力等級 5 的角色都可使用，能立即擊敗所有敵人，無視其黑暗等級（詳見「光明對抗黑暗」章節）。
+
+身為主持人（MC），你可能覺得不應該如此輕易地「自動」擊倒某些特別強大的首領或化身。雖然在 Mahō Shōjo 中應該接受結果，但請記住你們是在遊戲中探索接下來會發生什麼。以下是終曲對黑暗等級影響的替代規則。
+
+身為主持人（MC），你應該避免使用此規則，因為不朽的黑暗恩賜正是為了應對能承受此類攻擊的強大敵人而設計的。不過，我們理解你可能希望擁有對這些效果更具抵抗力的常態性化身和首領。
+
+在一次聚會中，當黑暗使徒透過動作心之力使用終曲被擊敗時，它不是真正被擊敗，而是以某種方式逃脫（也許是在大笑、尖叫或說出某句精彩台詞的同時）。從那一刻起，將其黑暗等級的乘數降低 1 到 2。例如，一個黑暗等級為玩家角色 ×6 的首領被終曲影響後，下次出場時的新上限為玩家角色 ×4。
+
+:::
+
+## 黑暗恩賜
+
+光明透過光之裝束賦予魔法少女的力量，黑暗則以黑暗恩賜作為對應。正是靠著這些能力，黑暗使徒才能推進他們的計畫。
+
+在創建黑暗使徒時，主持人（MC）必須考慮為每一個使徒分配什麼恩賜。藉由這些恩賜，你能迅速掌握每個使徒的真正能力——例如，一個免疫火焰的傀儡、一個擁有足以擊敗魔法少女之劍的首領，或是一個能奪走快樂記憶、只留下苦澀的化身。
+
+以下是各種恩賜的說明及其在遊戲中的效果。
+
+### 黑暗恩賜（反應）
+
+這類恩賜允許主持人（MC）執行特定的反應，將其加入反應的選項庫中（若想了解更多關於主持人反應的資訊，請參閱「主持人（MC）」章節）。這些恩賜作為指南，讓你了解每個黑暗使徒具備什麼能力，並且和反應一樣，用以啟發它們在虛構敘事中的效果。
+
+某些恩賜可以是堅如鋼鐵的利爪、自我複製、讀取恐懼或扭曲空間。和其他反應一樣，主持人（MC）應將這些視為在虛構敘事中授予新工具的關鍵詞。這些恩賜的創建沒有固定規則，敵人能擁有多少個也沒有限制。想像一個擁有（反應）隱身恩賜的使徒：藉由它，該使徒將是隱形的，玩家角色必須在虛構敘事中找到某種方法以其他方式定位它，然後才能阻止它。
+
+身為主持人（MC），你應該將一部分這類反應用於描繪敵人的本質。一些明顯的例子包括無敵和特殊能力。你還需要考慮生物是否需要某樣東西才能執行它們。也許它只有在擁有魔法書時才能施展其中一些能力？
+
+和玩家角色的動作一樣，你必須注意某些恩賜只有在滿足特定前提和條件時才可用。有什麼比一個在額頭上的角被打斷時會發出巨大暗黑爆炸自毀的敵人更危險的呢？
+
+**範例 1**：在與暗焰女巫的對決中，井上揮動她的戰鎚朝對方砸去，觸發了懲戒黑暗動作。
+
+——「唉，我只擲出了 4。」克莉絲汀娜懊惱地說。
+
+——「好吧，你朝她衝過去，但就在那一刻，你看到她突然分裂成兩個；兩個女巫看起來一模一樣。」莫妮卡解釋道，使用了火焰分身恩賜作為反應。
+
+**範例 2**：在與格洛布的戰鬥中，露絲決定從他頭頂跳過去繞到背後，以脫離他連枷的攻擊範圍。
+
+——「好的，我認為這是用思慮進行克服危險。」莫妮卡以主持人（MC）的身分指示道。
+
+——「失敗了，我連 7 都沒擲到。」露絲回答。
+
+——「好。就在你繞著他移動的時候，你看到格洛布轉過頭，朝你正前進方向的錄影帶店海報吐了些什麼。那一刻，你看到海報上的角色被灰色光環包圍著浮了出來，朝你衝過來。你怎麼做？」莫妮卡說完後，使用了召喚人偶（電影）恩賜。
+
+### 黑暗恩賜（堅固）
+
+某些黑暗使徒擁有保護自己免受玩家角色懲罰的手段。無論是透過鱗甲、盔甲還是神祕護盾，（堅固）恩賜在滿足特定條件時賦予他們額外的抗性。例如，處於水中、攜帶某個護身符、或體內吞噬了某人。當條件不再滿足時，便無法利用此恩賜。
+
+此恩賜的記錄格式為：（堅固）X［Y］，其中 X 為抵消的懲罰點數，Y 為條件。恩賜範例：
+
+**（堅固）2［火焰墜飾］**
+
+暗焰女巫擁有一個保護性墜飾。只要佩戴著它，就能抵消來自玩家角色的 2 點懲罰。如果在任何時刻失去或未佩戴火焰墜飾，則此效果消失。
+
+**（堅固）4［盔甲］**
+
+黑暗使徒穿著一套巨大的盔甲，能抵消來自玩家角色的 4 點懲罰。這套盔甲有一些弱點，如果被發現並攻擊——例如不戴頭盔時的頭部——則該部位不受保護。
+
+### 黑暗恩賜（致命）
+
+（致命）恩賜允許使徒在成功對玩家角色造成傷害時提高其痛苦屬性。此恩賜可以表現為強力咒語、特定條件（如處於水中）、武器、情感攻擊等。主持人（MC）只有在使徒能夠利用此恩賜時才應增加痛苦屬性。例如：一個擁有（致命）2［劍］的首領，只有在用劍擊中時才會將 2 點加到其痛苦值上。
+
+此恩賜的記錄格式為：（致命）X［Y］，其中 X 為加到痛苦值上的數值（使用該力量時增加），Y 為條件。恩賜範例：
+
+**（致命）4［VHS 連枷］**
+
+當噁心格洛布用他的 VHS 連枷擊中玩家角色時，其痛苦屬性增加 4。
+
+**（致命）3［致命血咒］**
+
+當鮮血公主割傷自己的手腕以強化攻擊時，其痛苦屬性增加 3。
+
+### 黑暗恩賜（晦暗）
+
+（晦暗）恩賜允許使徒在作為反應使用時給予玩家角色暗點。若想了解更多關於暗點對玩家角色的影響，請參閱「光明對抗黑暗」章節。此恩賜代表黑暗使徒削弱或阻止玩家角色釋放全部潛力的能力。力量的來源可以是特定地點（如化身的密室）、環境條件（如在新月之下），乃至一個咒語（如首領的腐化之眼），這些只是一些例子。
+
+此恩賜的記錄格式為：（晦暗）X［Y］，其中 X 為給予玩家角色的暗點數量，Y 為條件。恩賜範例：
+
+**（晦暗）2［會議室］**
+
+當卡須摩社長在他的會議室中戰鬥時，能夠削弱敵人的潛力。目標玩家角色在此力量於會議室中發動時獲得 2 暗點。
+
+**（晦暗）1［噬咬］**
+
+當鮮血公主咬傷一名玩家角色時，她會散布部分黑暗力量以熄滅對手日漸增長的光明。受此恩賜影響的玩家角色獲得 1 暗點。
+
+### 黑暗恩賜（種子）
+
+種子恩賜允許黑暗使徒在玩家角色的心中埋下一顆污點，期望藉此使其墮落、熄滅其光明。此恩賜可以透過多種方式顯現。一些例子包括：植入記憶、引發有害情緒、損傷精神，或是在心中播下懷疑的種子。
+
+此恩賜的記錄格式為：（種子）X［Y］，其中 X 為玩家角色獲得的黑暗點數，Y 為條件。恩賜範例：
+
+**（種子）1［仇恨的低語］**
+
+當鮮血公主以她的暗語在魔法少女耳邊低語時，會喚醒對方內心深處隱藏的仇恨情感。受影響的玩家角色獲得 1 黑暗點數。
+
+**（種子）2［黑暗迷宮］**
+
+當施展黑暗迷宮咒語時，將魔法少女送入一個迫使其內心墮落、加深恐懼的次元。受影響的玩家角色獲得 2 黑暗點數。
+
+### 黑暗恩賜（不朽）
+
+此恩賜代表逃脫敗北以及稱為終曲的心之力的能力。此恩賜通常只授予化身，但某些首領也可能擁有。當持有此恩賜的黑暗使徒失去所有黑暗等級點數，或是被動作心之力的終曲擊敗時，它不會被擊敗，而是將此恩賜的分數降低 1，並完全恢復其黑暗等級點數。在場景結束時，如果在虛構敘事中提供此恩賜的事物仍然存在且使徒未被擊敗，則此恩賜的分數恢復 1，最高不超過原始分數。
+
+此恩賜的記錄格式為：（不朽）X［Y］，其中 X 為此恩賜可使用的次數，Y 為擁有此恩賜的條件。恩賜範例：
+
+**（不朽）1［心臟容器］**
+
+當與黑暗訂立契約時，暗焰女巫將自己的心臟放入了一個魔法箱中。如果箱子在任何時刻不復存在、心臟容器被摧毀，她就會失去此恩賜。
+
+**（不朽）2［鮮血王冠］**
+
+只要鮮血公主戴著她的王冠，就能借助其再生力量。如果王冠被摧毀或她無法取得王冠，則失去此恩賜。
+
+## 創建黑暗使徒的關鍵問題
+
+在製作黑暗使徒時，試著回答盡可能多的問題會很有幫助，這能讓你了解如何創建將與玩家們對抗的敵人。以下是其中一些問題：
+
+- 是什麼原因讓它墮入黑暗？
+- 它最大的願望是什麼？
+- 是什麼驅使它對抗光明、與魔法少女戰鬥？
+- 它的主題是什麼？
+- 它的計畫是什麼？
+- 它的戰鬥方式是什麼？是強大的魔法師還是精練的戰士？或許是一位能吸引強大首領到身邊的魅力型領袖？
+- 它能召喚或創造傀儡和/或人偶嗎？
+- 它的起源是人類嗎？
+- 它的行動基地在哪裡？
+- 它最大的優勢是什麼？最大的弱點呢？
+- 它對魔法少女的態度如何？對自己的盟友呢？
+- 它如何才能被救贖？
+- 它最害怕的是什麼？
+- 誰可能擁有關於它的存在或起源的情報？
+
+你也不必立刻回答所有問題——留一些謎團等故事開始後再揭曉吧。

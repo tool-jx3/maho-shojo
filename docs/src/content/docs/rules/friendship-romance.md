@@ -1,788 +1,499 @@
 ---
 title: 友情與浪漫
-description: 友情劇本與浪漫劇本
+description: 友情扮演書與戀愛扮演書的規則與說明
 sidebar:
   order: 5
 ---
 
-Amistad y romance
-Libretos de Amistad
-Durante la creación de una magical girl, además de su Libreto de Arquetipo, habrá 
-que escoger un Libreto de Amistad. Una vez seleccionado, el PJ tendrá al menos un 
-Lazo con cada otro PJ con una etiqueta (ver cuadro más abajo en esta página). A con-
-tinuación podrás ver que cada Libreto indica si existen Lazos adicionales o si dispone 
-de alguna etiqueta especial, así como una serie de preguntas básicas que deberías 
-responder para conocer el origen y el motivo de los Lazos que unen a los personajes.
-Una vez completados los Lazos, obtienes un Movimiento de Amistad, así que a medida 
-que vayas logrando nuevos Avances, podrás obtener nuevos Movimientos de Amistad.
-Puedes saber más sobre los Movimientos de Amistad y los Lazos en el capítulo «Los 
-Movimientos» (página 109) y «Luz contra Oscuridad» (página 136).
-Lazos y etiquetas
-Los Lazos de Amistad indican que alguien es importante en la vida de la magi-
-cal girl. Gracias a estas personas pueden acceder a los poderes ocultos de su 
-corazón y convertirse en heroínas.
-Las etiquetas indican, a través de una palabra, por qué esa persona es impor-
-tante. Por norma general asumimos que la etiqueta base es «Amiga», pero 
-nada te impide poner la etiqueta que desees. Algunos ejemplos de etiquetas 
-serían: Amiga, Hermana, Madre, Líder del equipo, Delegada de clase, Profesor 
-favorito… no hay límite a las etiquetas que puedes poner, ya que solo indican el 
-tipo de relación que tienes con esa persona. Sin embargo, existe una pequeña 
-limitación: algunas etiquetas están pensadas para funcionar junto a algunos 
-Movimientos específicos. Si es así, deberías indicar cuál es el Lazo afectado 
-por la mecánica. Por ejemplo, el Libreto de Rivalidad etiqueta a un Lazo como 
-rival. ¿Significa entonces que no puedes tener más rivales? No, puedes etique-
-tar a otros personajes como rivales pero solo uno de ellos se considerará rival 
-a la hora de aplicar los Movimientos del Libreto de Rivalidad.
-Familia
-Para ti, tu familia es lo más importante. Tu vida gira alrededor de ellos y todo lo que 
-haces tiene como objetivo ayudarles. Te consideras el sostén que la mantiene unida 
-y no puedes permitir que le ocurra nada malo.
-62
-Maho Shojo
+## 友情扮演書
 
-Lazos: Tienes tantos Lazos como PJ+3.
-Etiquetas: Los 3 Lazos adicionales a los PJ deben tener una etiqueta que los relacio-
-ne con tu familia (madre, tío, prima, sobrino, etc.). Si alguno de los PJ también forma 
-parte de tu familia puedes asignarle una etiqueta de Familia.
-Preguntas: ¿Cómo son tus padres? ¿Cuál es su situación? ¿Tienes hermanas y her-
-manos? ¿Cómo te llevas con cada uno de ellos? Indica algún recuerdo con cada 
-miembro de tu familia.
-Mi familia es mi luz
-Cuando realizas un Movimiento Historias de la vida con al menos dos Lazos eti-
-quetados como Familia eliminas 1 Punto de Oscuridad.
-Yo protegeré a los míos
-Cuando alguien etiquetado como Familia esté en peligro suma +1 a los Movimientos 
-que tengan como objetivo ayudarle.
-Comida caliente y a la cama
-Al final de la sesión gana 1 Punto de Amistad.
-Suéltale o te la cargas
-Si alguien de tu familia está en escena y amenazas a tu enemigo con algo relaciona-
-do con ellos gana 1 Punto de Luz. Máximo una vez por escena.
-Lealtad
-Sientes que es tu responsabilidad ser una magical girl y has tomado la decisión de 
-estar al lado de las demás, por muy oscura o peligrosa que sea la situación. Nunca 
-cederás ni abandonarás a tus compañeras; todas saben sin duda que viajarías al 
-infierno por ellas.
-Lazos: Tienes tantos Lazos como PJ.
-Etiquetas: Sin etiquetas especiales.
-Preguntas: ¿Cómo fue la primera vez que conociste a cada una? ¿Qué te hizo jurar 
-que las protegerías? ¿Cómo has demostrado tu lealtad con cada una? ¿Lo saben?
-Gran corazón
-Tu límite de puntos de Amistad aumenta en +5 (15 en total).
-63
-•Luz•
+在創建魔法少女的過程中，除了原型扮演書之外，還需要選擇一本友情扮演書。選定之後，玩家角色將與每位其他玩家角色之間至少擁有一條羈絆，並附上一個標籤（請參閱本頁下方的說明框）。接下來你會看到，每本扮演書都會說明是否存在額外的羈絆，或是否具備特殊標籤，以及一系列基本問題——你應該回答這些問題，以了解連結角色之間羈絆的起源與動機。
 
-Lealtad a la causa
-Al terminar la sesión, si has participado en un Movimiento de Historias de la vida, 
-escoge dos opciones:
-	
-✽Ganas un Punto de Amistad.
-	
-✽Eliminas un Punto de Oscuridad.
-	
-✽Recuperas una Consecuencia.
-Llora conmigo
-Cuando le des palabras de ánimo a un PJ que gane Puntos de Oscuridad, gasta 1 
-Punto de Amistad: el PJ no gana esos Puntos de Oscuridad.
-Hay una parte de mí en cada corazón
-Cuando un PJ gasta 1 Punto de Amistad puedes gastarlo tú en su lugar.
-Metomentodo
-Hay algo que te impele a entrometerte en la vida de otras personas para ayudarlas, 
-¡incluso si no están de acuerdo con que lo hagas! Es tu misión estar para ellas siem-
-pre, enseñarlas y compartir vuestras vidas.
-Lazos: Tienes tantos Lazos como PJ+1.
-Etiquetas: Sin etiquetas especiales.
-Preguntas: ¿Qué te motivó a querer ayudarle? Cuenta una vez que te ayudaran a ti. 
-Comenta una vez que tu ayuda le trajo un problema.
-Según mi opinión…
-Si un PJ te pide consejo suma +1 a tu próximo Movimiento si finalmente decide 
-seguirlo.
-Si sigues mis consejos lo lograrás
-Cada vez que das un consejo a un PJ, al final de la sesión pregúntale si le ha sido 
-útil. Si responde que sí gana 1 Punto de Amistad.
-Déjame ayudarte
-Si un PJ va a realizar un Movimiento, puedes gastar 1 Punto de Amistad e indicar 
-cómo te entrometes en su acción. El PJ puede usar tus Características en lugar de 
-las suyas para ese Movimiento.
-64
-Maho Shojo
+完成羈絆設定後，你將獲得一個友情動作。隨著你獲得新的成長，你可以獲得更多友情動作。
 
-Compartir la vida
-Cuando un PJ vaya a sufrir un Mal de Atropos puedes darle todos tus Puntos de 
-Amistad y sufrirlo en su lugar.
-Nexo de corazones
-Eres una persona con un corazón tan grande que te has convertido en el centro 
-de los Lazos de muchas personas. Ya sea por tu optimismo, la luz que desprendes, 
-o tu carisma, los corazones y los hilos que los unen te han convertido en una per-
-sona muy importante para la vida de muchas personas y ellos en una parte más 
-de la tuya.
-Lazos: Tienes tantos Lazos como PJ+5.
-Etiquetas: Sin etiquetas especiales.
-Preguntas: ¿Qué es lo que hace que las personas se acerquen a ti? ¿Cómo fue la 
-primera vez que conociste a cada uno de tus Lazos?
-El poder de la amistad
-Al final de la sesión gana 1 Punto de Amistad si se ha realizado el Movimiento His-
-torias de la vida contigo presente o has mantenido una escena de intimidad con 
-algún Lazo.
-Sonrisa contagiosa
-Cada vez que se realiza un Movimiento de Historias de la vida, elige un PJ presen-
-te, incluido tú, e inmediatamente ese PJ gana 1 Punto de Amistad.
-Escuchar los corazones
-Cuando estés con un personaje con el que tengas un Lazo, gasta 1 Punto de Amistad 
-y a continuación realiza las siguientes preguntas, que deben ser respondidas con 
-sinceridad:
-	
-✽¿Tienes algún problema?
-	
-✽¿Cómo podría hacerte feliz?
-La luz nunca desaparece
-Cuando realizas un Movimiento de Historias de la vida, gasta 1 Punto de Amistad 
-para eliminar 2 Puntos de Oscuridad.
-65
-•Luz•
+關於友情動作和羈絆的詳細資訊，請參閱「動作」章節和「光明與黑暗」章節。
 
-Pura amistad
-Tienes amigas, pero hay una con la que te une algo más puro que al resto. Esa 
-persona es como una parte de ti misma que nació en un lugar distinto. Pese a estar 
-separadas, tu corazón aún lo recuerda y está conectado al suyo. Estás dispuesta a 
-hacer lo que sea por ella y a coger su mano para acompañarla a donde haga falta.
-Lazos: Tienes tantos Lazos como PJ+1.
-Etiquetas: Etiqueta un PJ como Mejor Amiga.
-Preguntas: ¿Cómo la conociste?¿Por qué ella es tan importante para ti?¿En qué te 
-gustaría parecerte a ella? ¿Qué opina ella de ti?
-Conectadas
-Tu mejor amiga y tú ganáis 1 Punto de Amistad al principio de la sesión.
-La una con la otra
-Cuando realizas un Movimiento para tratar de ayudar a tu mejor amiga, suma +1 a 
-la tirada.
-66
+:::note[羈絆與標籤]
+友情羈絆代表著某個人在魔法少女生命中的重要地位。正是因為有這些人，她們才能觸及內心深處隱藏的力量，成為英雄。
 
-Corazones unidos
-Cuando tu mejor amiga gasta 1 Punto de Amistad, puedes gastarlo tú en su lugar.
-Apoyo mutuo
-Si ambas estáis en la escena, los Puntos de Amistad absorben 4 Puntos de Angustia 
-en lugar de 2.
-Rivalidad
-Eres buena, muchos dicen que la mejor. No solo has entrenado sino que además 
-tienes talento natural gracias a tu linaje, lo que te hace pensar que eres perfecta. 
-Sin embargo, existe otra persona que hace que te sientas inferior y te supera, e 
-incluso cuando la derrotas parece que ha ganado. No lo admitirás nunca, pero, en 
-realidad, la admiras. Deseas que se fije en ti y te reconozca para poder caminar las 
-dos juntas como iguales.
-Lazos: Tienes tantos Lazos como PJ+1.
-Etiquetas: Escoge un PJ y etiquétalo como Rival.
-Preguntas: ¿Qué es lo que admiras de ella? ¿Cuál fue la primera vez que te derrotó? 
-¿Cuál fue vuestra primera impresión de la otra?
-Competidora nata
-Al final de la sesión, tu rival y tú ganáis 1 Punto de Amistad si habéis demostrado 
-algún tipo de confrontación.
-No puede ser mejor que yo
-Cuando tu rival realiza un Movimiento de Castigar la Oscuridad o Superar el peli-
-gro con un resultado de 10+, puedes sumar un +1 para superar el mismo reto.
-Obsérvame… Por favor
-Cuando gastas 1 Punto de Amistad y tu rival te está observando, ganas Castigo 
-+2 a un Movimiento de Castigar la oscuridad o Resistente +2 a una fuente de 
-Angustia.
-Seré yo quien te derrote algun día, no ellos
-Cuando tu rival reciba Angustia y tengas alguna manera de protegerla, puedes gas-
-tar 1 Punto de Amistad para recibir la Angustia en su lugar.
-67
-•Luz•
+標籤用一個詞來說明這個人為什麼重要。一般來說，我們假設基本標籤是「朋友」，但你完全可以設定任何你想要的標籤。標籤的例子包括：朋友、姐妹、母親、隊長、班長、最喜歡的老師……標籤的種類沒有限制，因為它們只是表示你與那個人之間的關係類型。然而，有一個小小的限制：某些標籤是為了配合特定動作而設計的。如果是這種情況，你應該指出哪條羈絆受到該機制的影響。例如，勁敵扮演書會將一條羈絆標記為「勁敵」。這是否意味著你不能有更多的勁敵？不，你可以將其他角色標記為勁敵，但在套用勁敵扮演書的動作時，只有其中一位會被視為勁敵。
+:::
 
--
-Senpai
-No lo buscabas pero te has convertido en el senpai de alguien. Esa persona busca tu 
-consejo y te ve como un ejemplo en todos los aspectos de la vida. Ahora te sientes 
-responsable de ella y de sus actos pero, a cambio, ver como tu aprendiz mejora día 
-a día te hace sentirte orgullosa.
-Lazos: Escoge: tener tantos Lazos como PJ+1 o tener tantos Lazos como PJ+2 (ver 
-Etiquetas).
-Etiquetas: Si tienes tantos Lazos como PJ+1, etiqueta a un PJ como Kōhai (apren-
-diz). Si tienes tantos Lazos como PJ+2, etiqueta a un PNJ como Kōhai.
-Preguntas: ¿Qué es lo que más admira de ti? ¿Qué es lo que admiras tú de ella? 
-¿Por qué aceptaste ser su mentora? ¿Cómo fue el momento en el que te pidió que 
-fueras su senpai?
-Bien hecho, kohai
-Cuando realizas un Movimiento de Historias de la vida con tu kōhai puedes elegir 
-una opción adicional.
-Debo ser un ejemplo para ella
-Si tu kōhai está presente puedes gastar 1 Punto de Amistad para mejorar una tirada 
-de 6 o menos en un 7 a 9 o un 7 a 9 a un 10+.
-Recuerda la lección
-Explica cómo ayudas a tu kōhai o describe una lección del pasado que pueda servir 
-de ayuda en este momento, a continuación gasta 1 Punto de Amistad.
-Si es un PJ puede usar tu puntuación en una Característica para resolver el próximo 
-Movimiento.
-Si es un PNJ puedes sumar +1 a tu próximo Movimiento.
-Ella es mi aprendiz
-Gasta 1 Punto de Amistad para salvar a tu kōhai de un peligro inminente. A cambio 
-recibes una Consecuencia.
-Solitaria
-Callada y tímida, eso es lo que muchos piensan de ti. La realidad es que te cuesta ex-
-presarte y no deseas cargar a los demás con tus problemas. Has tomado la decisión 
-de guardar tus sentimientos en lo más profundo de tu corazón. Sin embargo, hay 
-alguien en tu vida que guarda tus secretos y está allí cuando necesitas sincerarte.
-68
-Maho Shojo
+### 家族
 
-Lazos: Tienes tantos Lazos como PJ+1
-Etiquetas: Etiqueta uno de tus Lazos como Confidente.
-Preguntas: ¿Por qué se convirtió en tu confidente? ¿Cuál fue el primer secreto que 
-le revelaste? ¿Cuál consideras que es tu secreto más peligroso? ¿Lo sabe ella?
-Guardiana de mis secretos
-Cuando realices un Movimiento de Historias de la vida en el que solo esté tu con-
-fidente y le reveles un secreto, ambas ganáis 1 Punto de Amistad.
-Oasis en el camino
-Si le cuentas a tu confidente tus preocupaciones y te dejas animar, gasta 1 Punto de 
-Amistad. Al final de la sesión no realizas un Movimiento de Rechazar la Oscuridad 
-aunque conservas los Puntos de Oscuridad.
-Compartir cargas
-Cuando habláis tu confidente y tú de vuestras preocupaciones y problemas gasta 1 
-Punto de Amistad. A continuación elimina 2 Puntos de Oscuridad de una de las dos 
-o 1 de cada una.
-Esa persona en mi vida
-Gasta 1 Punto de Amistad para ganar 3 Puntos como si hubieras realizado un Movi-
-miento de Siempre a vuestro lado. Estos Puntos solo se pueden usar con tu confi-
-dente y no desaparecen hasta el final de la escena.
-Sororidad
-Para ti, tus amigas no son solo amigas, son hermanas. A través de ritos de amistad 
-estás unida a cada una de ellas de forma que vuestras propias almas se entrelazan. 
-Esta unión es algo metafísico, no puedes entender un mundo sin tus hermanas, 
-pues sabes que solo sois fuertes cuando estáis todas juntas.
-Lazos: Tienes tantos Lazos como PJ+2.
-Etiquetas: Etiqueta a todos tus Lazos como Hermanas.
-Preguntas: ¿Por qué consideras tan importante que estéis juntas? ¿Cuál es tu rito 
-para aceptar a alguien como una hermana? ¿Cuál fue la primera? ¿Y la última?
-Comunión
-Al inicio de la sesión obtienes 3 Puntos de Amistad. A continuación, puedes repartir 
-esos puntos como quieras entre tus hermanas.
-69
-•Luz•
+對你來說，家人是最重要的。你的生活圍繞著他們運轉，你所做的一切都是為了幫助他們。你認為自己是維繫家庭的支柱，不能容許任何壞事發生在他們身上。
 
-Mis hermanas
-Cuando una relación etiquetada como Hermana (o tú) gasta 1 Punto de Amistad, 
-cualquier otro Lazo que tengas etiquetado como Hermana puede gastarlo en su 
-lugar. La persona que gaste el Punto de Amistad debe indicar cómo la apoya o un 
-evento pasado similar en el que la apoyaran a ella.
-Agarrad mi mano, ahora adelante
-En cualquier momento durante un combate en el que pidas la ayuda de tus herma-
-nas, puedes gastar 1 Punto de Amistad. A continuación consigues 1 Punto de Luz si 
-no eres la que más Puntos de Luz tiene.
-Un alma
-Cuando realizas una ceremonia para reafirmar los vínculos entre hermanas, puedes 
-usar el Movimiento Un alma en lugar de Historias de la vida. A continuación cual-
-quier participante gasta tantos Puntos de Amistad como quiera para lograr uno de 
-los siguientes efectos:
-	
-✽Gasta 1 Punto de Amistad para eliminar 1 Punto de Oscuridad.
-	
-✽Entrega 1 Punto de Amistad a otro PJ.
-	
-✽Gasta 1 Punto de Amistad para eliminar una Consecuencia.
-Sukeban (líder de pandilla)
-Estés donde estés, ellas estarán a tu lado. Eres seguida a todas partes por tus chi-
-cas, o chicos, que te consideran la líder del grupo y un ejemplo en sus vidas. Cuando 
-te hieren, ellas saltan delante para protegerte; cuando lloras, las demás te apoyan, y 
-si se pierden, ven en ti el faro que seguir… Para ellas eres lo más valioso de sus vidas 
-y no dudarán en hacer cualquier cosa por tu felicidad y tu seguridad.
-Lazos: Tienes tantos Lazos como PJ+3.
-Etiquetas: Crea 3 PNJ y etiqueta cada Lazo como Pandilla.
-Preguntas: ¿Cómo os conocisteis? ¿Cómo sois conocidas cuando vais en grupo? 
-¿Por qué te consideran la líder? ¿Saben que eres una magical girl? ¿Qué opina tu 
-pandilla del resto de magical girls?
-¡¡¡Fiestaaa!!!
-Siempre que realizas el Movimiento Historias de la vida y están todos los miem-
-bros de la pandilla gana 1 Punto de Amistad.
-70
-Maho Shojo
+**羈絆：** 你擁有的羈絆數量等於玩家角色數 +3。
 
-Adelante, ¡por ella!
-Gasta 1 Punto de Amistad para que aparezca tu pandilla en la escena dispuesta a 
-prestarte su ayuda.
-No te preocupes, estamos aquí
-Cuando recibes Angustia o estás en peligro gasta 1 Punto de Amistad; un miem-
-bro de la pandilla sufre las consecuencias y queda incapacitado para el resto de la 
-escena.
-Juntas somos las mejores
-Cuando recibes ayuda de un Lazo etiquetado como Pandilla gasta 1 Punto de Amis-
-tad para repetir 1d6 de la tirada.
-Libretos de Romance
-Durante la creación de personajes no puede seleccionarse un Libreto de Romance. 
-Para poder escogerlo se debe iniciar una relación romántica con otro PJ o PNJ duran-
-te el transcurso de la historia, consulta «Luz contra Oscuridad» en la página 140 para 
-encontrar más detalles sobre el funcionamiento de estos Libretos. Una vez iniciado 
-un Romance, habitualmente no puede eliminarse si no es mediante una Ruptura.
-Cada Libreto de Romance tiene dos partes:
-	
-✽La primera es el Nivel de Romance, el cual puede conceder una serie de venta-
-jas y modificaciones para el personaje.
-	
-✽La segunda parte es una serie de Movimientos, los cuales muchas veces indican 
-la forma de subir o bajar el Nivel de Romance.
-La libertad de amar
-Existen tantas formas de entender el amor como personas hay sobre la tierra. 
-Si bien por comodidad para escribir se ha supuesto un tipo de relación de-
-terminada para simplificar las descripciones, nada impide a una magical girl 
-(o a cualquiera) enamorarse y que se enamoren de ella tanto hombres, como 
-mujeres, entes artificiales, alienígenas, entidades sobrenaturales… el límite 
-solo está en la imaginación de las personas sentadas a la mesa. Nadie debería 
-deciros qué tipo de relación es la correcta para poder volcar vuestro corazón.
-El mundo es demasiado complicado, pero amar no debería serlo.
-71
-•Luz•
+**標籤：** 額外的三條羈絆（超出玩家角色數的部分）必須帶有與你家人相關的標籤（母親、叔叔、表姐、姪子等）。如果某位玩家角色也是你的家人，你可以為其指定家族標籤。
 
-72
+**問題：** 你的父母是怎樣的人？他們的現況如何？你有兄弟姐妹嗎？你和他們每個人相處得如何？請說出你與每位家人的一段回憶。
 
-¿Y si no quiero el romance?
-Muchos jugadores prefieren no tener este tipo de reglas. Los motivos son muy 
-diversos: algunos se sienten muy incómodos con los sentimientos, otros inti-
-midados, a otros no les gusta que algo como esto esté reglado… existen tantos 
-motivos como personas juegan. Así que quizá os preguntéis ¿por qué incluir 
-estas reglas en vuestras partidas de Mahō Shōjo?
-Estas reglas existen porque en muchas series del género mahō shōjo es un 
-tema importante y, por tanto, creemos que debe estar representado de alguna 
-manera. Si el romance no es algo importante en vuestra historia, o no queréis 
-darle ese nivel de detalle, podéis ignorar estos Libretos.
-Amor perdido
-Una vez amaste perdidamente a alguien que ya no está. Pudo haber muerto o via-
-jado a un lugar imposible o quizás no puedas acceder a él por otro motivo, como 
-que esté con otra persona o en coma. Pese a esto, sigues teniéndolo presente en 
-tu interior y para ti nunca se ha marchado, quizás sigues con la esperanza de que 
-vuelva, porque si lo dejas ir sientes que desaparecerá u otra justificación que solo 
-tú puedes entender.
-Estado
-Nivel
-Efecto
-Superficial
-1-2
-Obtienes un Lazo etiquetado como Romance/Amor 
-verdadero
-Asentada
-3-4
-Gasta 1 un Punto de Amistad cuando rememores tu 
-amor para sumar +1 al Movimiento Perder la Luz
-Profunda
-5
-Gasta 1 Punto de Amistad cuando rememores tu 
-amor para ganar 1 Punto de Luz
-No sé si te he contado algo divertido que pasó hoy…
-Cuando relatas una vieja anécdota con tu romance o tienes una escena de intimidad 
-con él suma 1 al Nivel de Romance.
-Te has olvidado de aquella vez…
-Al final de la sesión responde a la mesa de juego si has olvidado o has podido supe-
-rar tu romance. Si la respuesta es sí pierde 1 Nivel de Romance.
-73
-•Luz•
+**我的家人就是我的光明**
+當你與至少兩條標記為家族的羈絆一起執行生活故事動作時，消除一點黑暗點數。
 
-De la negación a la aceptación
-Desencadena este Movimiento tras una Ruptura relacionada con este Libreto o si 
-tu relación es Profunda y decides cambiar de romance o abandonar este Libreto. 
-Aplica uno de los siguientes efectos.
-Si has sufrido una Ruptura debes tomar una de las siguientes decisiones:
-	
-✽No puedes volver a escoger este romance con el mismo objetivo, realiza inme-
-diatamente el Movimiento de Perder la Luz.
-	
-✽Vuelve a escoger este romance con el mismo objetivo, gana un Nivel de Oscuridad. 
-Si has desencadenado este Movimiento porque la relación es Profunda, escoge:
-	
-✽Elimina un Nivel de Oscuridad. Escoge un nuevo Libreto de Romance con Nivel 
-de Romance 1.
-	
-✽Trascender el romance, obtienes un punto de Lux est, elimina este Libreto de 
-Romance, no puedes volver a escogerlo con ese personaje.
-Amor verdadero
-El amor verdadero es una llama en ambos sentidos. Surge cuando dos personas 
-conectan sus corazones a un nivel en el que es imposible volverlos a separar. Desde 
-ese momento ambos estarán juntos por un poder que nace de su interior, dando 
-una llama inmensa a la suma de sus partes. Por desgracia, un amor así tiene sus 
-riesgos, y si en algún momento se separan algo terrible puede suceder.
-Estado
-Nivel
-Efecto
-Superficial
-1-2
-Obtienes un Lazo etiquetado como Romance/Amor 
-verdadero
-Asentada
-3-4
-Gana 1 Punto de Amistad al principio de la sesión
-Profunda
-5
-Cuando explicas cómo la unión de vuestros corazones 
-te ayuda en un momento difícil, gasta 1 Punto de 
-Amistad para reducir en 1 tu Nivel de Oscuridad
-Llama imperecedera
-Cuando tienes una escena de intimidad a solas con tu romance aumenta el Nivel de 
-Romance en 1.
-Cicatriz en el corazón
-Cuando una de las partes piense o descubra que la otra le ha mentido, traicionado, 
-o faltado a su palabra reduce en 1 el Nivel de Romance.
-74
-Maho Shojo
+**我會保護我的家人**
+當標記為家族的人陷入危險時，以幫助他為目標的動作加 +1。
 
-Tragedia
-Si hay una Ruptura, aparte de los efectos indicados, uno de los dos deberá desapa-
-recer para siempre de la vida del otro de alguna manera. El PJ jamás podrá volver a 
-tener un nuevo romance salvo Amor Perdido.
-Relación conflictiva
-La relación no funciona como debería a pesar de que ambos os atraéis. Hay algo en 
-ella que falla y os hace discutir, impidiéndoos crecer dentro de ella. Esta situación 
-os hace romper y volver una y otra vez, incluso si eso supone haceros daño. Este 
-tipo de relaciones son muy complejas, debido a que una o ambas partes aún tiene 
-que poner las cosas en orden. Solo cuando todo funcione correctamente dentro de 
-ellos sabrán si realmente merece la pena convertir su relación en otra cosa o dejarla 
-antes de hacerse más daño.
-Estado
-Nivel
-Efecto
-Superficial
-1-2
-Obtienes un Lazo etiquetado como Romance/Conflictiva
-Asentada
-3-4
-Al principio de la sesión puedes sumar +1 a Emocional y 
--1 a Reflexiva o -1 a Emocional y +1 a Reflexiva
-Profunda
-5
-Cuando te transformas obtienes Ascensión +1
-La relación es… complicada
-Si no tienes una escena violenta, discusión u otro problema con tu interés románti-
-co en la sesión baja 1 Nivel del Romance.
-Combustión del Corazón
-Cada vez que tienes una escena de Historias de la vida a solas con tu interés ro-
-mántico, añade la opción:
-	
-✽Aumentar el Romance en 1 Nivel.
-Tenemos que hablar de adónde vamos
-Cuando la relación sea Profunda, ganes 1 Nivel adicional y tengas una escena de in-
-timidad con tu romance, puedes decidir entre tener una Ruptura sin consecuencias 
-y obtener 1 punto de Lux est o cambiar este Libreto por otro diferente con el mismo 
-personaje como Lazo. A continuación pon el Medidor de Romance a 2.
-75
-•Luz•
+**吃頓熱飯然後上床睡覺**
+在聚會結束時獲得一點友情點數。
 
-Amor no correspondido
-Las relaciones no correspondidas son un tipo de relación en la cual no sientes o no 
-esperas que la otra persona sea recíproca a tus sentimientos. Quizás tu romance ya 
-sale con otra persona, puede que no le gustes o que meramente no quiera estropear 
-su amistad contigo. Sean cuales sean los motivos, eres capaz de sacar fuerzas de tu 
-corazón para conformarte solo con estar a su lado.
-Estado
-Nivel
-Efecto
-Superficial
-1-2
-Obtienes un Lazo etiquetado como Romance/No co-
-rrespondido
-Asentada
-3-4
-Cuando usas el Movimiento Historias de la vida solo 
-con tu romance ganas 1 opción adicional
-Profunda
-5
-Cuando tu romance puede verte o haces algo para 
-ayudarle suma +1 a Protectora
-Lágrimas en el corazón
-Si al final de la sesión sientes que no te has preocupado o prestado atención a tu 
-romance baja el Nivel en 1.
-Corazón sin murallas
-Cuando tienes un momento de intimidad con tu relación romántica desencadenas 
-Historias de la vida. Aumenta en 1 el Nivel de Romance.
-Una decisión: Bianca o Nera
-Cuando tienes una Ruptura con el objetivo de tu romance ignoras los efectos de la 
-Ruptura, nunca más puedes tener un romance que le tenga como objetivo salvo que 
-sea Amor perdido.
-Si tu Nivel de Romance es 5 y le confiesas tu amor, puedes gastar todos tus Puntos 
-de Amistad, mínimo 5, y escoger otro Libreto de Romance con ese personaje como 
-objetivo, manteniendo el Nivel que tenías.
-Relación a distancia
-Si bien hay algo que os separa, ya sea algo real como miles de kilómetros, un lugar 
-inaccesible (como un internado) o algo más sobrenatural como una realidad o el 
-mismísimo tiempo, habéis sido capaces de mantener vuestra relación. Este tipo de 
-relaciones son más complejas de sacar adelante, pues exigen esfuerzo y compromi-
-so por ambas partes. Solo es cuestión de tiempo encontrar el puente que permita 
-a ambos reunirse.
-76
-Maho Shojo
+**放開他，否則你就完了**
+如果你的家人在場景中，且你用與他們相關的事物威脅敵人，獲得一點光點。每個場景最多一次。
 
-Estado
-Nivel
-Efecto
-Superficial
-1-2
-Obtienes un Lazo etiquetado como Romance/A dis-
-tancia
-Asentada
-3-4
-Una vez por sesión, cuando recibes una comunicación 
-directa de tu Romance/A distancia, gasta 1 Punto de 
-Amistad para recuperar una Consecuencia.
-Profunda
-5
-Al principio de cada sesión obtienes 1 Punto de Amistad
-Llegó el correo
-Cuando logras ver o comunicarte de alguna manera con el personaje etiquetado 
-como Romance/A distancia, ganas 1 Punto de Romance.
-Te escribiré la semana que viene
-Si al final de la sesión no has intentado ponerte en contacto con tu Romance pierdes 
-1 Punto de Romance.
-Una canción que se repetirá durante siglos
-Si en algún momento tú y tu Romance lográis veros sin los impedimentos que supo-
-nían la relación a distancia, cambia este Libreto por otro con Nivel de Romance 2.
-Relación prohibida
-Por algún motivo sentís que vuestra relación debe serle oculta a todo el mundo y, 
-por ello, mantenida en secreto. El motivo puede ser muy variado: desafía un tabú 
-social o familiar, rompe alguna regla social como la relación entre un profesor con 
-su alumno, dos compañeros de trabajo, dos hermanos, etc. Este tipo de relaciones 
-no han de ser vistas como negativas, pero los participantes perciben que no sería 
-bien recibida por el mundo a su alrededor.
-Estado
-Nivel
-Efecto
-Superficial
-1-2
-Obtienes un Lazo etiquetado como Romance/Prohi-
-bido
-Asentada
-3-4
-Suma +1 a todos los Movimientos que estén orienta-
-dos a mantener el romance en secreto.
-Profunda
-5
-Las Consecuencias absorben 2 Puntos de Angustia 
-adicionales
-77
-•Luz•
+### 忠誠
 
-No me dirán lo que tengo que hacer
-Cuando te enfrentas y defiendes al Romance/Prohibido ante alguien que le esté 
-haciendo daño o criticándole, sumas 1 Punto de Romance.
-Lo mejor sería dejarlo
-Cuando dudas de la relación o la dejas de lado para hacer algo que se espera de ti, 
-pierdes 1 Punto de Romance.
-En realidad importamos nosotros
-Si tu relación llega a Profunda y ganas un Punto nuevo de Romance, decide entre 
-las siguientes opciones:
-	
-✽Es aceptada por la sociedad. Cambia el tipo de Romance por otro Libreto a Nivel 3.
-	
-✽Explica por qué no deseáis que la relación salga de este estado. Baja el Nivel de 
-Romance a 1 y gana 1 punto de Lux est.
-Romance ilusorio
-Sientes algo especial por otra persona, alguien especial y perfecto. Desde el mismo 
-momento en que este sentimiento despertó en ti sabes que la otra persona solo será 
-feliz estando contigo, aunque eso te lleve mucho tiempo y esfuerzo. Sin embargo, 
-esto es solo una ilusión, pues nada de eso existe. El motivo de esta ilusión puede 
-deberse a que sufras chūnibyō y esa persona ni siquiera exista o, si es real, no sepa 
-que existes, pero nada de esto impide que estés convencida plenamente de tu amor.
-Estado
-Nivel
-Efecto
-Superficial
-1-2
-Obtienes un Lazo etiquetado como Romance/Ilusión
-Asentada
-3-4
-Suma +1 a los Movimientos Rechazar la Oscuridad y 
-Perder la Luz
-Profunda
-5
-Gasta un Punto de Amistad cuando ganes Puntos de 
-Oscuridad, diciendo cómo será tu próximo plan con Ro-
-mance/Ilusión. Evitas ganar los Puntos de Oscuridad. 
-Ese castillo de arena
-Cuando ocurra algo que te haga dudar o te presente pruebas de que tu romance no 
-existe en realidad, la mesa te hace una pregunta: ¿Dudas de tu ilusión? Si respondes 
-que sí baja el Romance en 1 punto.
-78
-Maho Shojo
+你覺得成為魔法少女是你的責任，並且決定站在其他人身邊，無論情況多麼黑暗或危險。你永遠不會屈服也不會拋棄同伴；所有人都毫不懷疑，你會為她們赴湯蹈火。
 
-Es real, mi corazón lo siente así
-Cada vez que haces algo para defender la existencia de tu Romance en público, 
-anulando sus argumentos e indicando por qué es real, suma 1 Punto de Romance.
-En el fondo siempre lo supiste
-Cuando tienes una Ruptura no tienes consecuencias pero no puedes crear un nuevo 
-Romance ilusorio con el mismo objetivo.
-El romance en el anime
-Mahō Shōjo se inspira en numerosas obras japonesas manga y anime. Este es 
-el motivo por el que se han incluido reglas para el romance, para ayudar a ca-
-nalizar y orientar historias donde este pueda estar presente. En muchas obras 
-del género mahō shōjo, el romance es un elemento característico y común. Es 
-cierto, algunas veces esta temática romántica no es relevante en este tipo de 
-obras (o puede que ni aparezca), por lo que si no las consideras adecuadas 
-para tu mesa puedes ignorar los Libretos de Romance.
-Los Libretos de Romance no deben ser vistos como un estudio fiel al tipo de 
-relaciones reales que tenemos en nuestro día a día; sus descripciones y uso en 
-este juego están inspiradas y creadas a partir de los estereotipos propios del 
-género. Es por este motivo que deberían ser vistos como tropos del género ya 
-que, al fin y al cabo, estamos simulando una obra de Ficción, no imitando la 
-realidad.
-Cuando uséis los Libretos de Romance de este capítulo, no los veáis como elemen-
-tos monolíticos y cerrados. Como MC deberías ver el inicio de un romance y hablar 
-con el jugador sobre qué categorías encajan mejor con su visión de la relación. Para 
-ayudarte, a continuación puedes ver algunos ejemplos de relaciones junto con las 
-series de anime en las que aparecen (no todos pertenecen al género de mahō shōjo, 
-pero ayudarán a formar una idea más completa de algunos de los Libretos).
-Amor perdido: Este tipo de relaciones nos hablan de alguien que ha perdido para 
-siempre el objetivo de su amor. Este duelo puede haber sido o no por un suceso trau-
-mático, pero lo que es seguro es que el recuerdo de esta persona es imperecedero.
-Un ejemplo de estas relaciones lo podemos ver en la serie «La panda de Julia» 
-donde la propia Julia debe afrontar la muerte de Ignacio a lo largo de su trama. 
-Ella logra superarlo canalizando su pérdida como algo positivo, una vez supe-
-rado el trauma (lo que es a su vez un ejemplo de que este tipo de romance no 
-tiene por qué ser negativo).
-79
-•Luz•
+**羈絆：** 你擁有的羈絆數量等於玩家角色數。
 
-Amor verdadero: Este tipo de relación es uno de los más comunes en casi 
-cualquier cultura. En él, la pareja suele sentir una gran pasión y devoción. 
-Quizás este tipo de romance sea uno de los más sencillos a la hora de buscar 
-ejemplos por la gran cantidad de obras que lo han plasmado, sobre todo en el 
-propio género mahō shōjo.
-La relación de Usagi y Mamoru en «Sailor Moon» es de las más arquetípicas; 
-un amor que es capaz de seguirles incluso en sus reencarnaciones. Otro ejem-
-plo menos evidente al principio (pero que terminará mostrándose como tal) es 
-la relación de Takamachi Nanoha y Fate Testarossa donde nos van dando pin-
-celadas del romance en las dos primeras temporadas de «Mahō Shōjo Lyrical 
-Nanoha» para confirmarlo finalmente en su tercera parte.
-Relación conflictiva: Este tipo de relaciones son aquellas que se encuentran 
-en una especie de limbo entre estar y no estar juntos. Posiblemente, junto a las 
-historias de amor verdadero, son quizás de las más habituales. En este tipo de 
-romances ambos participantes entran y salen continuamente de la relación, la 
-cual suele tener un problema u obstáculo que impide que una o ambas partes 
-ordenen sus sentimientos.
-Uno de los ejemplos más claros de este tipo de relaciones es el de Ranma y 
-Akane en la serie «Ranma ½» donde la relación no se logra estabilizar por cul-
-pa de que ambos son demasiado orgullosos como para expresar lo que sien-
-ten. También podemos ver este tipo de romance de los propios Haruhi y Kyon 
-en «La melancolía de Haruhi Suzumiya», Sana Hidaka y Nanaka Yatsushiro 
-en «Myself; Yourself» o Sōsuke Sagara y Kaname Chidori en «Full Metal Pa-
-nic!». En todos ellos al menos una de las partes necesita poner en orden sus 
-emociones, pero mientras lo hacen muchas veces terminan haciendo sufrir o 
-confundiendo a la otra parte.
-Aparte de las emociones como impedimentos en este tipo de romances, enca-
-jaría también un obstáculo ajeno a los protagonistas, como una enfermedad. 
-Un ejemplo puede verse en la relación que mantienen Aso Renji y Shindō 
-Chihiro en «ef: A Tale of Memories» (donde, por cierto, tendríamos otra re-
-lación muy interesante que analizar, como la de Miyamura Miyako y Hirono 
-Hiro, que podría entrar en varias categorías), la cual pierde la memoria de 
-forma continua por culpa de una lesión. Chihiro solo puede recuperar sus 
-recuerdos leyendo su diario, provocando que ninguno de los dos se atreva a 
-tener una relación con el otro por miedo a que un día ella olvide para siempre 
-lo sucedido entre ambos.
-No correspondido: Este tipo de romances se da cuando el personaje está enamo-
-rado de otro sin ser correspondido (al menos románticamente). Suele darse cuan-
-do el objetivo del amor está enamorado de otro personaje o tiene una circunstan-
-cia especial que le impide estar en una relación romántica con el personaje.
-80
-Maho Shojo
+**標籤：** 無特殊標籤。
 
-Ejemplos de este tipo de romances nos los encontramos en relaciones como la de 
-Akemi Homura y Kaname Madoka, al menos en muchas de las realidades, donde 
-la misión de salvar a Madoka impide poder empezar la relación. También se da en 
-la relación entre Tsukamoto Yakumo y Harima Kenji en «School Rumble», debido 
-a que Harima está enamorado de su hermana y no se atreve a dar el paso.
-En estos formatos, este romance se da muchas veces en la figura de la amiga 
-(o amigo) de la infancia donde uno de los dos no logra dar el paso para no 
-romper esa situación idealizada. Un ejemplo claro lo vemos en la figura de 
-Sawabe Tsubaki hacia Arima Kōsei en «Your Lie in April», pues, aunque ella 
-está enamorada de él desde la infancia, teme que esto no sea recíproco, por 
-lo que prefiere seguir con la amistad, rechazando sus sentimientos propios.
-También podría desbloquearse o representar este Libreto para una relación en la 
-que existe una profunda admiración o respeto hacia otro personaje sin que exista 
-esa aspiración romántica (si bien podría llegar a darse no es su finalidad) como en 
-el caso de Kallen Kōzuki con Lelouch Lamperouge (en realidad con su alter ego 
-Zero) en «Code Geass». Sin embargo, es aconsejable que este tipo de relaciones se 
-materialicen en algún Libreto de Amistad que se considere adecuado.
-Relación a distancia: Es cierto que este tipo de relaciones no suelen estar 
-muy presentes, siendo más bien una etapa de otra relación (como en el caso 
-de «Sailor Moon» con Usagi y Mamoru en el último arco de la serie). Sin em-
-bargo, también ten en cuenta que este tipo de relaciones podrían representar 
-romances a través del tiempo y el espacio.
-Un ejemplo claro de esta relación es la de Tachibana Taki y Miyamizu Mitsuha 
-en «Your name». Lo importante de entender este tipo de relaciones es que debe 
-existir algún tipo de brecha que impide estar juntos durante mucho tiempo.
-Relación prohibida: Hay que entender que en este tipo de romances no importa 
-solo que esté «prohibida», sino que esto le importe a los involucrados. Por ejemplo, 
-en «Sailor Moon», la relación entre Kaiō Michiru y Ten’ō Haruka podría parecer in-
-apropiada a algunos grupos (al menos así fue entre las asociaciones de padres, que 
-censuraron o prohibieron la serie en algunos lugares), pero ellas no le dan impor-
-tancia, por lo que no encajaría en esta categoría. Para que una relación sea conside-
-rada relación prohibida debe existir algún motivo por el que los personajes conside-
-ren inadecuado que se haga pública, incluso aunque dicho motivo exista solo en su 
-imaginación. Puede tratarse de una distinta clase social, una aventura, la diferencia 
-de edad (como entre Tachibana Akira y Kondō Masami en «Koi wa ameagari no yō 
-ni»), o los códigos morales y de conducta de alguno de ellos.
-Un ejemplo de esta relación la vemos en los hermanos Wakatsuki en «Myself; 
-Yourself» donde, aunque casi toda la relación ocurre fuera de cámara, termi-
-narán fugándose para poder mantenerla, porque piensan que no sería acepta-
-da por el resto del pueblo.
-81
-•Luz•
+**問題：** 你第一次認識每個人是怎樣的情形？是什麼讓你發誓要保護她們？你是如何向每個人展示你的忠誠的？她們知道嗎？
 
-Si bien este tipo de relaciones son raras dentro del mahō shōjo, es muy común 
-encontrarlas en el resto del shōjo.
-Romance ilusorio: En este tipo de relación hay que entender que es producto 
-en mayor o menor medida del personaje. La persona del romance no tiene por 
-qué ser alguien real, o podría ser una idealización de otra persona. Al final, el 
-objetivo del enamoramiento es solo un producto de la imaginación, tenga o no 
-una relación real con él.
-Encontramos un ejemplo en Tsukamoto Tenma, que está enamorada de una 
-imagen idealizada de Karasuma Ooji, donde la persona real tiene poco que ver 
-con la visión que proyecta Tenma. Por otro lado, en «School days», una parte 
-importante de la relación entre Katsura Kotonoha e Itō Makoto solo existe en 
-la imaginación de Kotonoha (como bien se demuestra en el siniestro final del 
-anime). Este tipo de relación también podría representarse de manera similar 
-en los sentimientos de Misa Amane por «Kira», para la cual él es una especie 
-de dios salvador del que termina enamorándose de manera fanática.
-Arquetipos dentro de las relaciones
-Cuando hablamos de romance en el anime y el manga es casi imposible escapar de 
-las categorías de pareja. Una vez más indicamos que esto no debe ser confundido 
-con la realidad, sin embargo, creemos que es algo tan típico de este tipo de obras en 
-las que se inspira el juego que debíamos pararnos un segundo a hablaros de ellas.
-Existen innumerables categorías y subcategorías sobre estos arquetipos de 
-pareja, pero vamos a echarle un vistazo en mayor profundidad a las más comu-
-nes y populares. Esto debe ser visto solamente como una pequeña guía para 
-ayudar a interpretar o generar dinámicas habituales en el género:
-Dandere: Son personajes tímidos y callados. Aquellos con una personalidad 
-dandere tienen problemas para expresar con palabras sus sentimientos. Sin em-
-bargo, a pesar de que les cuesta expresarse, son conscientes de lo que ocurre 
-en su corazón. Pese a este defecto, saben demostrarlo mediante grandes actos.
-Hime: Los personajes con este tipo de comportamiento suelen tratar al objeto 
-de su romance como un sirviente o una herramienta. Quizás lo ame, pero no 
-quiera reconocerlo, aunque sus pequeños gestos o detalles convencerán a su 
-pareja de que hay algo más que frivolidad tras ellos.
-82
-Maho Shojo
+**寬大的胸懷**
+你的友情點數上限增加 +5（總共 15 點）。
 
-Kūdere: Este tipo de personajes suelen ser 
-indiferentes, fríos, callados y no tener senti-
-mientos. En muchos casos pueden parecer má-
-quinas ajenas a los sentimientos de los demás, 
-pero la realidad es que sus emociones están 
-ocultas en el fondo de su corazón. Aquellos 
-que logren superar el gélido caparazón encon-
-trarán una felicidad oculta que nadie más ve.
-Tsundere: Incomprendidos, solitarios, fríos, 
-incapaces de decir lo que sienten… son solo 
-algunas de las características que tienen los 
-personajes tsundere. Sin embargo, su in-
-terior es muy diferente, y lo que ocurre es 
-que temen dejar su corazón expuesto. Una 
-tsundere intentará ocultar sus verdaderas 
-emociones y sentimientos a toda costa tras 
-un escudo de violencia y lejanía emocional.
-Yandere: Los personajes yandere son lo opues-
-to a la tsundere: son personas extremadamente 
-sensibles, amables, tímidas, cariñosas, atentas… 
-hasta que llegan a la intimidad, en la que se 
-descubre que hay algo que está mal en el fon-
-do de su cabeza. Una vez desatada, la violencia 
-y la agresividad la poseen. Una yandere desea 
-probar el sabor de la sangre y ejercer la violen-
-cia contra todo aquel que le rodea, incluido su 
-amor, el cual suele mantenerse junto a ella más 
-por miedo que por amor.
-83
-•Luz•
+**忠於使命**
+在聚會結束時，如果你參與了生活故事動作，選擇兩項：
+
+- 獲得一點友情點數。
+- 消除一點黑暗點數。
+- 恢復一項後果。
+
+**與我同泣**
+當你對一位即將獲得黑暗點數的玩家角色說出鼓勵的話語時，花費一點友情點數：該玩家角色不會獲得那些黑暗點數。
+
+**我的一部分存在於每顆心中**
+當一位玩家角色花費一點友情點數時，你可以代替他花費。
+
+### 愛操心
+
+有某種力量驅使你介入他人的生活來幫助他們，即使他們並不同意你這麼做！你的使命是永遠在她們身邊，教導她們，分享彼此的生活。
+
+**羈絆：** 你擁有的羈絆數量等於玩家角色數 +1。
+
+**標籤：** 無特殊標籤。
+
+**問題：** 是什麼促使你想幫助他？說一次別人幫助過你的經歷。說一次你的幫助反而給他帶來麻煩的經歷。
+
+**依我看來……**
+如果一位玩家角色向你徵求建議，而他最終決定採納，你的下一個動作加 +1。
+
+**如果你聽從我的建議就能成功**
+每次你給一位玩家角色提供建議時，在聚會結束時問他是否有用。如果回答「是」，獲得一點友情點數。
+
+**讓我幫你**
+如果一位玩家角色即將執行一個動作，你可以花費一點友情點數並說明你如何介入他的行動。該玩家角色可以使用你的屬性來代替他自己的屬性執行該動作。
+
+**分享生活**
+當一位玩家角色即將遭受阿特洛波斯之禍時，你可以將你所有的友情點數交給他，代替他承受。
+
+### 心之所繫
+
+你是一個擁有寬大胸懷的人，已經成為許多人羈絆的中心。無論是因為你的樂觀、你散發的光芒，還是你的魅力，那些心靈與連結它們的絲線，都讓你成為許多人生命中非常重要的存在，而他們也成為你生命的一部分。
+
+**羈絆：** 你擁有的羈絆數量等於玩家角色數 +5。
+
+**標籤：** 無特殊標籤。
+
+**問題：** 是什麼讓人們親近你？你第一次認識每條羈絆的對象是怎樣的情形？
+
+**友情的力量**
+在聚會結束時，如果有人在你在場的情況下執行了生活故事動作，或你與某條羈絆進行了一段親密場景，獲得一點友情點數。
+
+**感染力十足的笑容**
+每次執行生活故事動作時，選擇一位在場的玩家角色（包括你自己），該玩家角色立即獲得一點友情點數。
+
+**傾聽心聲**
+當你與一位擁有羈絆的角色在一起時，花費一點友情點數，然後提出以下問題，對方必須誠實回答：
+
+- 你有什麼煩惱嗎？
+- 我怎樣才能讓你開心？
+
+**光明永不消逝**
+當你執行生活故事動作時，花費一點友情點數以消除兩點黑暗點數。
+
+### 純真羈絆
+
+你有很多朋友，但其中一位與你之間有著比其他人更純粹的連結。那個人就像你自己在另一個地方誕生的一部分。儘管分隔兩地，你的心仍然記得並與她的心相連。你願意為她做任何事，牽起她的手陪她去任何需要去的地方。
+
+**羈絆：** 你擁有的羈絆數量等於玩家角色數 +1。
+
+**標籤：** 將一位玩家角色標記為「最好的朋友」。
+
+**問題：** 你是怎麼認識她的？為什麼她對你如此重要？你希望在哪些方面像她？她對你有什麼看法？
+
+**心意相通**
+你的最好的朋友和你在聚會開始時各獲得一點友情點數。
+
+**你和我在一起**
+當你執行一個動作來嘗試幫助你最好的朋友時，擲骰加 +1。
+
+**心心相印**
+當你最好的朋友花費一點友情點數時，你可以代替她花費。
+
+**相互支持**
+如果你們兩人都在場景中，友情點數可以吸收四點痛苦而非兩點。
+
+### 勁敵
+
+你很厲害，很多人說你是最強的。你不僅經過訓練，還因血統而擁有天賦，這讓你覺得自己是完美的。然而，有另一個人讓你感到自卑並超越了你，即使你擊敗了她，看起來似乎也是她贏了。你永遠不會承認，但實際上你很欽佩她。你希望她注意到你、認可你，這樣你們兩人就能作為平等的對手並肩前行。
+
+**羈絆：** 你擁有的羈絆數量等於玩家角色數 +1。
+
+**標籤：** 選擇一位玩家角色並將其標記為「勁敵」。
+
+**問題：** 你欽佩她什麼？她第一次打敗你是什麼時候？你們對彼此的第一印象如何？
+
+**天生的競爭者**
+在聚會結束時，如果你和你的勁敵之間展現了某種形式的對抗，你和她各獲得一點友情點數。
+
+**她不可能比我強**
+當你的勁敵執行懲戒黑暗或克服危險動作並獲得 10+ 的結果時，你可以加 +1 來超越同一個挑戰。
+
+**看著我……拜託了**
+當你花費一點友情點數且你的勁敵正在觀察你時，對一次懲戒黑暗動作獲得懲罰 +2，或對一個痛苦來源獲得堅韌 +2。
+
+**總有一天打敗你的會是我，不是他們**
+當你的勁敵受到痛苦且你有某種方式保護她時，你可以花費一點友情點數來代替她承受痛苦。
+
+### 前輩
+
+你並非刻意為之，但你已經成為了某人的前輩。那個人尋求你的建議，在生活的各個方面都視你為榜樣。現在你覺得自己對她和她的行為負有責任，但作為回報，看著你的後輩日復一日地進步讓你感到驕傲。
+
+**羈絆：** 選擇：擁有等於玩家角色數 +1 的羈絆，或擁有等於玩家角色數 +2 的羈絆（見標籤）。
+
+**標籤：** 如果你擁有等於玩家角色數 +1 的羈絆，將一位玩家角色標記為後輩（Kōhai）。如果你擁有等於玩家角色數 +2 的羈絆，將一位非玩家角色標記為後輩。
+
+**問題：** 她最欽佩你什麼？你欽佩她什麼？你為什麼接受成為她的導師？她請求你成為她前輩的那一刻是怎樣的？
+
+**做得好，後輩**
+當你與你的後輩一起執行生活故事動作時，你可以選擇一個額外選項。
+
+**我必須成為她的榜樣**
+如果你的後輩在場，你可以花費一點友情點數將一次 6 或以下的擲骰結果提升為 7 到 9，或將 7 到 9 提升為 10+。
+
+**記住這個教訓**
+說明你如何幫助你的後輩，或描述過去的一個教訓可以在此刻派上用場，然後花費一點友情點數。
+如果對方是玩家角色，他可以使用你的一項屬性數值來執行下一個動作。
+如果對方是非玩家角色，你的下一個動作加 +1。
+
+**她是我的後輩**
+花費一點友情點數來將你的後輩從迫在眉睫的危險中拯救出來。作為代價，你承受一項後果。
+
+### 獨行俠
+
+沉默又害羞，很多人這麼認為你。但事實是你難以表達自己，不想讓別人承擔你的問題。你決定將你的感受深深埋藏在心底。然而，你的生命中有一個人守護著你的秘密，在你需要傾訴的時候陪伴著你。
+
+**羈絆：** 你擁有的羈絆數量等於玩家角色數 +1。
+
+**標籤：** 將你的一條羈絆標記為「知己」。
+
+**問題：** 他為什麼成為你的知己？你向他透露的第一個秘密是什麼？你認為最危險的秘密是什麼？他知道嗎？
+
+**我的秘密守護者**
+當你執行只有你的知己在場的生活故事動作，並向他透露一個秘密時，你們兩人各獲得一點友情點數。
+
+**旅途中的綠洲**
+如果你向知己傾訴煩惱並讓自己振作起來，花費一點友情點數。在聚會結束時，你不需要執行抵抗黑暗動作，但保留黑暗點數。
+
+**分擔重擔**
+當你和知己談論彼此的煩惱和問題時，花費一點友情點數。然後消除你們其中一人的兩點黑暗點數，或各消除一點。
+
+**生命中的那個人**
+花費一點友情點數，如同你執行了永遠在你身邊動作般獲得三點。這些點數只能用於你的知己，並且在場景結束前不會消失。
+
+### 姐妹會
+
+對你來說，你的朋友不僅僅是朋友，她們是姐妹。透過友誼的儀式，你與她們每個人緊緊相連，你們的靈魂交織在一起。這種連結是超越物質的——你無法想像沒有姐妹的世界，因為你知道只有在大家團聚時才是最強大的。
+
+**羈絆：** 你擁有的羈絆數量等於玩家角色數 +2。
+
+**標籤：** 將你所有的羈絆標記為「姐妹」。
+
+**問題：** 為什麼你認為大家在一起如此重要？你接納某人成為姐妹的儀式是什麼？誰是第一位？誰是最後一位？
+
+**共融**
+在聚會開始時獲得三點友情點數。然後，你可以將這些點數隨意分配給你的姐妹們。
+
+**我的姐妹們**
+當一條標記為姐妹的羈絆（或你自己）花費一點友情點數時，任何其他標記為姐妹的羈絆可以代替她花費。代為花費友情點數的人必須說明她如何支持對方，或描述過去類似的支持經歷。
+
+**握住我的手，一起向前**
+在戰鬥中的任何時刻，當你向姐妹們請求幫助時，你可以花費一點友情點數。如果你不是擁有最多光點的人，你獲得一點光點。
+
+**一心同體**
+當你舉行儀式重新確認姐妹之間的羈絆時，你可以使用「一心同體」動作來代替生活故事。然後任何參與者可以花費任意數量的友情點數來達成以下其中一項效果：
+
+- 花費一點友情點數以消除一點黑暗點數。
+- 將一點友情點數交給另一位玩家角色。
+- 花費一點友情點數以消除一項後果。
+
+### 大姐頭
+
+無論你在哪裡，她們都會在你身邊。你身邊總是跟著你的夥伴們，她們視你為團隊的領袖和生活中的榜樣。當你受傷時，她們會跳出來保護你；當你哭泣時，其他人會支持你；當她們迷失方向時，她們把你當作指引方向的燈塔……對她們來說，你是她們生命中最珍貴的存在，她們會毫不猶豫地為你的幸福和安全做任何事。
+
+**羈絆：** 你擁有的羈絆數量等於玩家角色數 +3。
+
+**標籤：** 創建三位非玩家角色，並將每條羈絆標記為「夥伴」。
+
+**問題：** 你們是怎麼認識的？你們一群人在外面時被怎麼稱呼？為什麼她們認為你是領袖？她們知道你是魔法少女嗎？你的夥伴們對其他魔法少女有什麼看法？
+
+**派對開始！！！**
+每當你執行生活故事動作且所有夥伴成員都在場時，獲得一點友情點數。
+
+**上吧，為了她！**
+花費一點友情點數讓你的夥伴出現在場景中，準備好為你提供幫助。
+
+**別擔心，我們在這裡**
+當你受到痛苦或陷入危險時，花費一點友情點數；一位夥伴成員承受後果，並在該場景剩餘時間內無法行動。
+
+**在一起我們就是最強的**
+當你接受標記為夥伴的羈絆的幫助時，花費一點友情點數以重擲 1d6。
+
+## 戀愛扮演書
+
+在角色創建期間不能選擇戀愛扮演書。要選擇它，必須在故事進行過程中與另一位玩家角色或非玩家角色開始一段戀愛關係，詳情請參閱「光明與黑暗」章節。一旦開始戀愛，通常只能透過決裂來結束。
+
+每本戀愛扮演書有兩個部分：
+
+- 第一部分是戀愛等級，它可以為角色提供一系列優勢和修正。
+- 第二部分是一系列動作，其中許多會指出如何提升或降低戀愛等級。
+
+:::note[愛的自由]
+世界上有多少人，就有多少種理解愛的方式。雖然為了書寫方便，我們假設了某種特定的關係類型來簡化描述，但沒有什麼能阻止一位魔法少女（或任何人）愛上男人、女人、人工智慧、外星人、超自然存在……唯一的限制只在於坐在桌邊的人們的想像力。沒有人應該告訴你們什麼類型的關係才是正確的。這個世界已經夠複雜了，但愛不應該如此。
+:::
+
+:::tip[如果我不想要戀愛呢？]
+很多玩家不想要這類規則。原因各式各樣：有些人對感情話題感到非常不自在，有些人感到害怕，有些人不喜歡這種事情被規則化……原因和人數一樣多。所以你們可能會問：為什麼要在 Mahō Shōjo 的遊戲中加入這些規則？
+
+這些規則之所以存在，是因為在許多魔法少女類型的作品中，戀愛是一個重要主題，因此我們認為它應該以某種方式被呈現。如果戀愛在你們的故事中並不重要，或你們不想賦予它那樣的細節程度，可以忽略這些扮演書。
+:::
+
+### 失去的愛
+
+你曾經瘋狂地愛過一個已經不在的人。他可能已經死去、去了一個不可能到達的地方，或者因為其他原因你無法接近他——比如他和別人在一起或陷入昏迷。儘管如此，你仍然在內心深處惦記著他，對你來說他從未離去。也許你仍然抱著他會回來的希望，因為如果你放手，你覺得他會徹底消失，又或者只有你自己才能理解的其他理由。
+
+| 狀態 | 等級 | 效果 |
+|------|------|------|
+| 淺層 | 1-2 | 獲得一條標記為戀愛／真愛的羈絆 |
+| 穩定 | 3-4 | 當你追憶你的愛時，花費一點友情點數，對失去光明動作加 +1 |
+| 深層 | 5 | 當你追憶你的愛時，花費一點友情點數以獲得一點光點 |
+
+**今天發生了一件有趣的事，不知道我有沒有跟你說過……**
+當你講述一段與你的戀人的舊趣事，或與他進行一段親密場景時，戀愛等級 +1。
+
+**你忘了那一次嗎……**
+在聚會結束時，向桌上的其他人回答你是否已經忘記或能夠超越你的戀情。如果答案是肯定的，戀愛等級 -1。
+
+**從否認到接受**
+在與此扮演書相關的決裂之後，或當你的關係處於深層且你決定更換戀愛對象或放棄此扮演書時，觸發此動作。套用以下其中一項效果：
+
+如果你經歷了決裂，你必須做出以下其中一個決定：
+
+- 你不能再以同一個對象選擇此戀愛扮演書，立即執行失去光明動作。
+- 以同一個對象重新選擇此戀愛扮演書，獲得一級黑暗等級。
+
+如果你因為關係處於深層而觸發此動作，選擇：
+
+- 消除一級黑暗等級。選擇一本新的戀愛扮演書，戀愛等級為 1。
+- 超越這段戀情，獲得一點閃耀點數，移除此戀愛扮演書，你不能再以同一角色選擇它。
+
+### 真愛
+
+真愛是雙向燃燒的火焰。它在兩個人的心靈深層連結時誕生，一旦相連便無法再分離。從那一刻起，兩人將因內心湧現的力量而在一起，為彼此的結合帶來無比巨大的光焰。不幸的是，這樣的愛有其風險，如果有朝一日他們分離，可怕的事情可能會發生。
+
+| 狀態 | 等級 | 效果 |
+|------|------|------|
+| 淺層 | 1-2 | 獲得一條標記為戀愛／真愛的羈絆 |
+| 穩定 | 3-4 | 在聚會開始時獲得一點友情點數 |
+| 深層 | 5 | 當你說明兩顆心的結合如何在困難時刻幫助你時，花費一點友情點數以降低一級黑暗等級 |
+
+**不滅之焰**
+當你與戀人獨處並擁有一段親密場景時，戀愛等級 +1。
+
+**心上的傷疤**
+當其中一方認為或發現對方欺騙、背叛或違背承諾時，戀愛等級 -1。
+
+**悲劇**
+如果發生決裂，除了上述效果外，兩人中的一方必須以某種方式永遠從另一方的生活中消失。該玩家角色永遠無法再擁有新的戀情，除了失去的愛。
+
+### 衝突
+
+這段關係並不像它應該的那樣運作，儘管你們彼此相吸。這段關係中有什麼東西出了問題，讓你們爭吵不休，阻礙你們在關係中成長。這種情況讓你們反覆分分合合，即使這意味著互相傷害。這類關係非常複雜，因為其中一方或雙方都還需要理清自己的問題。只有當一切都在內心安頓好了，他們才會知道這段關係是否值得轉化為其他形式，還是在造成更多傷害之前就此放手。
+
+| 狀態 | 等級 | 效果 |
+|------|------|------|
+| 淺層 | 1-2 | 獲得一條標記為戀愛／衝突的羈絆 |
+| 穩定 | 3-4 | 在聚會開始時，你可以將情感 +1 且思慮 -1，或情感 -1 且思慮 +1 |
+| 深層 | 5 | 當你變身時獲得昇華 +1 |
+
+**這段關係……很複雜**
+如果在本次聚會中你沒有與戀愛對象發生激烈場景、爭吵或其他問題，戀愛等級 -1。
+
+**心之燃燒**
+每次你與戀愛對象獨處進行生活故事場景時，追加以下選項：
+
+- 戀愛等級 +1。
+
+**我們需要談談我們要往哪裡去**
+當關係達到深層，你獲得額外一級戀愛等級，並與戀人進行一段親密場景時，你可以選擇：進行一次沒有後果的決裂並獲得一點閃耀點數，或將此扮演書更換為另一本不同的扮演書，以同一角色作為羈絆對象。然後將戀愛量表設為 2。
+
+### 單相思
+
+單相思是一種你不期待或感覺不到對方回應你感情的關係。也許你的戀愛對象已經和別人在一起了，可能他不喜歡你，或者他只是不想破壞與你的友誼。無論原因是什麼，你能夠從內心汲取力量，僅僅滿足於待在他身邊。
+
+| 狀態 | 等級 | 效果 |
+|------|------|------|
+| 淺層 | 1-2 | 獲得一條標記為戀愛／單相思的羈絆 |
+| 穩定 | 3-4 | 當你只與戀愛對象一起使用生活故事動作時，獲得一個額外選項 |
+| 深層 | 5 | 當你的戀愛對象能看到你或你為幫助他而做某事時，保護 +1 |
+
+**心中的淚水**
+如果在聚會結束時你覺得自己沒有關心或注意你的戀愛對象，戀愛等級 -1。
+
+**敞開心扉**
+當你與戀愛對象共度親密時刻時，觸發生活故事動作。戀愛等級 +1。
+
+**一個抉擇：Bianca 還是 Nera**
+當你與戀愛對象發生決裂時，忽略決裂的效果，你永遠不能再以他為對象擁有戀情，除非是失去的愛。
+如果你的戀愛等級為 5 且你向他告白，你可以花費你所有的友情點數（至少五點），並以該角色為對象選擇另一本戀愛扮演書，保持你原有的等級。
+
+### 遠距關係
+
+雖然有什麼東西將你們分隔——無論是現實中的數千公里、一個無法進入的地方（如寄宿學校），還是更超自然的因素如另一個現實或時間本身——你們仍然維持著這段關係。這類關係更難維繫，因為雙方都需要付出努力和承諾。找到讓兩人重聚的橋樑只是時間問題。
+
+| 狀態 | 等級 | 效果 |
+|------|------|------|
+| 淺層 | 1-2 | 獲得一條標記為戀愛／遠距的羈絆 |
+| 穩定 | 3-4 | 每次聚會一次，當你收到戀愛／遠距對象的直接訊息時，花費一點友情點數以恢復一項後果 |
+| 深層 | 5 | 在每次聚會開始時獲得一點友情點數 |
+
+**信來了**
+當你成功見到或以某種方式與標記為戀愛／遠距的角色聯繫時，獲得一點戀愛點數。
+
+**我下週會寫信給你**
+如果在聚會結束時你沒有嘗試與戀愛對象聯繫，失去一點戀愛點數。
+
+**一首將傳唱數百年的歌**
+如果在某個時刻，你和你的戀愛對象得以在沒有造成遠距關係的障礙下見面，將此扮演書更換為另一本，戀愛等級為 2。
+
+### 禁斷關係
+
+因為某些原因，你們覺得這段關係必須對所有人隱瞞，因此保持秘密。原因可能非常多樣：挑戰了社會或家庭禁忌，違反了某些社會規範——如師生之間、兩位同事之間、兩位手足之間的關係等。這類關係不應被視為負面的，但參與者覺得周圍的世界不會接受它。
+
+| 狀態 | 等級 | 效果 |
+|------|------|------|
+| 淺層 | 1-2 | 獲得一條標記為戀愛／禁斷的羈絆 |
+| 穩定 | 3-4 | 所有以維持戀情秘密為目的的動作加 +1 |
+| 深層 | 5 | 後果額外吸收兩點痛苦 |
+
+**沒有人能告訴我該怎麼做**
+當你面對某個正在傷害或批評你的戀愛／禁斷對象的人並為其辯護時，戀愛點數 +1。
+
+**也許我們最好分開**
+當你對這段關係產生懷疑，或為了做別人期望你做的事而將它擱置一旁時，戀愛點數 -1。
+
+**真正重要的是我們自己**
+如果你的關係達到深層且你獲得新的一點戀愛點數，在以下選項中做出選擇：
+
+- 被社會接受。將戀愛類型更換為另一本扮演書，等級為 3。
+- 說明你們為什麼不希望這段關係脫離目前的狀態。戀愛等級降至 1，獲得一點閃耀點數。
+
+### 虛幻愛情
+
+你對另一個人有著特別的感覺，一個特別而完美的人。從這份感情在你心中甦醒的那一刻起，你就知道對方只有和你在一起才會幸福，即使這需要你花費大量時間和精力。然而，這不過是一場幻覺，因為這一切都不存在。這份幻覺的原因可能是你患有中二病，而那個人甚至不存在；又或者如果是真實的人，他根本不知道你的存在。但這一切都不妨礙你完全堅信自己的愛。
+
+| 狀態 | 等級 | 效果 |
+|------|------|------|
+| 淺層 | 1-2 | 獲得一條標記為戀愛／幻想的羈絆 |
+| 穩定 | 3-4 | 抵抗黑暗和失去光明動作加 +1 |
+| 深層 | 5 | 當你獲得黑暗點數時，花費一點友情點數並說明你與戀愛／幻想對象的下一個計畫。避免獲得黑暗點數 |
+
+**那座沙堡**
+當發生某件讓你產生懷疑或向你呈現你的戀情其實不存在的證據時，桌上的人會問你一個問題：你懷疑你的幻想嗎？如果你回答「是」，戀愛點數 -1。
+
+**這是真的，我的心就是這麼感受的**
+每次你在公眾面前為你的戀情的存在辯護，駁斥他們的論點並說明為什麼它是真實的，戀愛點數 +1。
+
+**其實你從一開始就知道了**
+當你經歷決裂時，沒有任何後果，但你不能以同一個對象創建新的虛幻愛情。
+
+## 動畫中的戀愛
+
+:::note[類型參考]
+Mahō Shōjo 從眾多日本漫畫和動畫作品中汲取靈感。這就是為什麼加入了戀愛規則——為了幫助引導和定位可能出現戀愛元素的故事。在許多魔法少女類型的作品中，戀愛是一個標誌性的常見元素。確實，有時這種戀愛主題在此類作品中並不重要（甚至可能不會出現），所以如果你認為它不適合你的桌子，可以忽略戀愛扮演書。
+
+戀愛扮演書不應被視為對我們日常真實關係的忠實研究；它們的描述和在本遊戲中的使用靈感來自該類型的刻板印象。正因如此，它們應該被視為類型慣例——畢竟，我們在模擬一部虛構敘事作品，而非模仿現實。
+:::
+
+當你們使用本章的戀愛扮演書時，不要將它們視為一成不變的封閉體系。作為主持人（MC），你應該留意戀愛的開始，並與玩家討論哪些類別最符合他對關係的設想。為了幫助你，以下是一些關係範例以及出現這些關係的動畫作品（並非全部屬於魔法少女類型，但有助於對某些扮演書形成更完整的概念）。
+
+**失去的愛：** 這類關係講述的是某人永遠失去了自己愛慕的對象。這場喪失可能是也可能不是由創傷事件引起的，但可以確定的是，這個人的記憶是永恆的。
+
+:::tip[範例]
+在動畫《乖乖女茱莉亞》（La panda de Julia）中，茱莉亞必須在劇情中面對伊格納西奧的死亡。她成功地將自己的失去轉化為正面力量來克服這一創傷（這也是一個例子，說明這類戀情不一定是負面的）。
+:::
+
+**真愛：** 這類關係是幾乎所有文化中最常見的類型之一。在這種關係中，伴侶通常感受到巨大的熱情和奉獻。由於有大量作品描繪了這種類型，尤其是在魔法少女類型中，這也許是最容易找到例子的戀愛類型。
+
+:::tip[範例]
+《美少女戰士》中月野兔和地場衛的關係是最經典的範本——一份能跨越轉世追隨他們的愛。另一個在開始時不太明顯（但最終會展現出來）的例子是高町奈葉和菲特·泰斯塔羅莎的關係，在《魔法少女奈葉》的前兩季中給了我們戀愛的暗示，最終在第三季得到確認。
+:::
+
+**衝突：** 這類關係處於在一起與不在一起之間的某種困境中。也許與真愛故事並列，它們是最常見的類型之一。在這類戀情中，雙方不斷地進出這段關係，而這段關係通常有一個問題或障礙，阻礙一方或雙方理清自己的感情。
+
+:::tip[範例]
+這類關係最經典的例子之一是《乱馬½》中的乱馬和小茜，他們的關係因為兩人都太驕傲而無法表達自己的感受而無法穩定。我們也能在《涼宮春日的憂鬱》中的春日和阿虛、《Myself; Yourself》中的日高佐奈和八代奈奈花、《驚爆危機》中的相良宗介和千鳥要身上看到這類戀情。在所有這些例子中，至少有一方需要整理自己的情緒，但在這個過程中，他們常常讓對方受苦或感到困惑。
+
+除了情感障礙之外，這類戀情也可能涉及與主角無關的外部障礙，例如疾病。一個例子可以在《ef: A Tale of Memories》中麻生蓮治和新道千尋的關係中看到（順帶一提，其中還有另一段非常有趣的關係值得分析——宮村雅和廣野弘的關係，可以歸入多個類別），千尋因為腦部損傷而不斷失去記憶。千尋只能透過閱讀日記來恢復記憶，導致兩人都不敢與對方建立關係，因為擔心有一天她會永遠忘記彼此之間發生的一切。
+:::
+
+**單相思：** 這類戀情發生在角色愛上另一個人卻得不到回應（至少在戀愛層面上）的情況。通常發生在愛慕的對象已經愛上了另一個角色，或有某種特殊情況阻止他與該角色建立戀愛關係。
+
+:::tip[範例]
+這類戀情的例子包括曉美焰和鹿目圓之間的關係（至少在許多世界線中），拯救圓的使命阻礙了關係的開始。在《校園迷糊大王》中塚本八雲和播磨拳兒之間的關係中也能看到，因為播磨愛的是她的姐姐，而且不敢踏出那一步。
+
+在這些模式中，這種戀情常常出現在青梅竹馬的身上，其中一方為了不打破理想化的現狀而無法邁出一步。一個清楚的例子是《四月是你的謊言》中澤部椿對有馬公生的感情——雖然她從小就愛著他，但她害怕這份感情不會得到回應，所以寧可繼續保持友誼，壓抑自己的感情。
+
+這個扮演書也可以用來解鎖或呈現一種對另一個角色懷有深深敬仰或尊重但不帶戀愛意圖（儘管有可能發展為戀愛但那並非其目的）的關係，例如《Code Geass》中卡蓮·紅月對魯路修·蘭佩路基（實際上是對他的另一個身分 Zero）的關係。然而，建議這類關係應使用被認為適合的友情扮演書來呈現。
+:::
+
+**遠距關係：** 確實，這類關係在作品中並不常見，更多時候是另一段關係的某個階段（例如《美少女戰士》系列最後一季中月野兔和地場衛的情況）。然而，也請注意這類關係可以代表跨越時間和空間的戀情。
+
+:::tip[範例]
+這種關係的一個清楚例子是《你的名字》中的立花瀧和宮水三葉。理解這類關係的關鍵在於，必須存在某種阻礙雙方長時間在一起的隔閡。
+:::
+
+**禁斷關係：** 在這類戀情中，重要的不僅是它「被禁止」，而是這件事對當事人來說很重要。例如，在《美少女戰士》中，海王滿和天王遙的關係在某些群體看來可能不恰當（至少在家長協會中是這樣，他們在某些地方審查或禁播了這部作品），但她們自己並不在意，所以不適合歸入這個類別。要讓一段關係被視為禁斷關係，必須存在某些原因讓角色們認為公開是不恰當的，即使這個原因只存在於他們的想像中。原因可能是不同的社會階層、一段外遇、年齡差距（如《戀如雨止》中的橘晶和近藤正己），或其中一方的道德和行為準則。
+
+:::tip[範例]
+在《Myself; Yourself》中若月兄妹的關係中可以看到這種例子——雖然幾乎整段關係都發生在鏡頭之外，但他們最終為了維持這段關係而私奔了，因為他們認為它不會被鎮上的其他人接受。
+
+雖然這類關係在魔法少女類型中很少見，但在少女類型的其他作品中非常常見。
+:::
+
+**虛幻愛情：** 在這類關係中，你必須理解它在很大程度上是角色自己的產物。戀愛的對象不一定是真實存在的人，也可能是對另一個人的理想化。歸根結底，愛慕的對象只是想像的產物，無論他是否與現實中的某個人有關。
+
+:::tip[範例]
+我們在塚本天滿身上找到一個例子——她愛上了烏丸大路的一個理想化形象，而真實的人與天滿投射的形象大相逕庭。另一方面，在《School Days》中，桂言葉和伊藤誠之間的關係有很大一部分只存在於言葉的想像中（正如動畫那令人不寒而慄的結局所展示的那樣）。這類關係也可以用類似的方式呈現在彌海砂對「Kira」的感情上——對她來說，他是一位救世主般的神明，她最終以狂熱的方式愛上了他。
+:::
+
+## 關係中的戀愛原型
+
+當我們談論動畫和漫畫中的戀愛時，幾乎不可能不提到伴侶的類型分類。我們再次強調，這不應與現實混淆，但我們認為這在遊戲所借鑑的這類作品中是如此典型，以至於我們應該花一點時間向你們介紹。
+
+:::note[原型參考]
+存在無數的類別和子類別，但我們將更深入地了解最常見和流行的幾種。這應該僅被視為一份幫助詮釋或產生該類型常見互動模式的小指南。
+:::
+
+**無口型（Dandere）：** 害羞而沉默的角色。擁有無口型性格的角色難以用言語表達自己的感情。然而，儘管他們難以表達，但他們清楚地知道自己內心發生了什麼。儘管有這個缺點，他們知道如何透過偉大的行動來展現自己的感情。
+
+**公主型（Hime）：** 擁有這種行為模式的角色通常把戀愛對象當作僕人或工具。也許他愛著對方，但不願承認，不過他的小舉動和細節會讓對方相信在那輕浮的外表背後還有更多的東西。
+
+**冷嬌型（Kūdere）：** 這類角色通常冷漠、冰冷、沉默，看似沒有感情。很多時候，他們就像與他人感受無關的機器，但實際上他們的情感深藏在內心深處。那些能突破冰冷外殼的人，將發現一種別人看不到的隱藏幸福。
+
+**傲嬌型（Tsundere）：** 被誤解的、孤獨的、冷淡的、無法說出自己感受的……這些只是傲嬌型角色的部分特徵。然而，他們的內心非常不同——真正的問題是他們害怕暴露自己的心。傲嬌型會不惜一切代價用暴力和情感疏離的盾牌來隱藏自己真正的情感和感受。
+
+**病嬌型（Yandere）：** 病嬌型角色與傲嬌型恰恰相反：他們是極度敏感、溫柔、害羞、親切、體貼的人……直到進入親密關係後，才會發現他們的腦海深處有什麼不對勁。一旦釋放，暴力和攻擊性就會支配他們。病嬌型渴望品嚐鮮血的滋味，對周圍的一切施加暴力，包括他的愛人——而愛人通常留在他身邊更多是出於恐懼而非愛情。

@@ -5,771 +5,533 @@ sidebar:
   order: 13
 ---
 
-El Eclipse
-Eres el MC y has terminado la primera sesión. Tus amigos se han marchado y ahora 
-tienes un montón de notas frente a ti. ¿Qué haces con ellas? Ahora ha llegado el 
-momento de recoger todos esos fragmentos y unirlos para poner en peligro a los PJ. 
-Puede que seas fan de esas heroínas de la Luz, pero también querrás hacerlas sufrir, 
-verlas pelear, enamorarse, romper, reír y llorar. Deseas crear una historia para ellas 
-y necesitas construir algo que sea interesante.
-¿Parece algo complicado? En realidad no lo es, pero debes tener cuidado en este 
-momento porque tiene un truco complicado de entender al principio: no vas a tener 
-el control. Para que Mahō Shōjo y su sistema de Eclipses funcionen debes eliminar 
-la palabra «control» de tu mente, porque, si controlas, habitualmente significa que 
-no cumples tus objetivos o principios. Cada vez que te sientes a la mesa con el resto 
-de jugadores no les podrás decir qué deben hacer o adónde tienen que ir; ellos se-
-rán completamente libres de actuar.
-Cuando empiezas a construir un Eclipse de Mahō Shōjo pones lugares, personajes 
-y planes que se ejecutan de forma orgánica. A partir de ahí son los PJ los que, con 
-sus actos, desencadenan la historia. ¿Por qué? Porque si no lo haces no descubrirás 
-lo que pasa. Sin embargo, si decides tener un control absoluto te darás cuenta de 
-que ya sabes todo lo que debe pasar y para eso es mejor ponerse a ver un anime. 
-Esta es la diferencia más clara entre preparar y controlar. Por ejemplo, si un Cam-
-peón quiere despertar la Oscuridad de un compañero de clase, no determines cuán-
-do o cómo lo hará, sencillamente juégalo conforme a la coherencia del entorno y la 
-personalidad de todos los personajes involucrados.
-Con todos estos conceptos claros ya podemos empezar a ver el funcionamiento de 
-un Eclipse. Seguramente para contar una historia necesitarás una Antumbra, varios 
-Eclipses, algunas Penumbras y, además, personajes que sirvan a la Oscuridad. Este 
-esquema te será de mucha ayuda para determinar el tipo de historia o situaciones 
-que se darán. Cuando tengas los Eclipses como guía deberías ser consecuente y 
-evitar la tentación de suavizar o endurecer los acontecimientos para que se dirijan 
-hacia donde tú quieras. Si intervienes para forzar la historia, les estás robando a los 
-PJ su destino, pues nada debería estar decidido.
-Capítulos, sagas y series vs. sesiones y campañas
-Mahō Shōjo es un juego fuertemente inspirado en las obras del mismo género 
-presentes en el manga y el anime. Por este motivo, a veces usamos ese tipo de 
-terminología para hablar del tiempo de juego y la distribución del mismo. Sin 
-embargo, seguramente haga falta una pequeña explicación, sobre todo si este 
-es tu primer juego de rol.
-242
-Maho Shojo
+## 蝕
 
-Sesión: Se conoce como «sesión» al espacio de tiempo que un MC y los juga-
-dores se reúnen para jugar una parte de la historia, habitualmente entre 2 y 4 
-horas. Cada una de estas sesiones tendrá una cantidad variable de escenas y 
-raramente llevará a la conclusión de la historia.
-Campaña: Cuando se encadenan varias sesiones de juego que comparten his-
-torias y personajes, hablamos de «campaña». Una campaña está formada por 
-un número variable de sesiones. Algunos grupos prefieren jugar campañas 
-cortas de menos de una decena de sesiones, mientras otros juegan campañas 
-de años con cientos de sesiones. Cuando el MC y los jugadores se embarcan en 
-algo así resolverán varios Eclipses y participarán en tramas complejas.
-En el manga y el anime se suelen dividir las historias de forma similar:
-Capítulo: Son pequeñas historias contenidas que pueden hacer avanzar o no la 
-trama de la temporada. Un capítulo equivale a una sesión, siendo por esto que 
-cuando hablamos de la primera sesión también lo hacemos del primer capítulo.
-Temporada: A veces también conocida como «saga», contiene varios capítulos 
-con una serie de temas o villanos comunes. En Mahō Shōjo cada Eclipse suele 
-representar una temporada, aunque podría abarcar varios Eclipses y Umbras 
-pertenecientes a una Antumbra. Esta estructura equivaldría a una campaña.
-Serie: Las series ocupan varias temporadas (o campañas) que suelen tener 
-elementos comunes, como, por ejemplo, localizaciones, personajes o villanos, 
-pudiendo presentar distintos Avatares y Eclipses durante la misma.
-La Antumbra
-La Antumbra representa el plan final de la Oscuridad, llevado a cabo por un Avatar, 
-para extender su poder y extinguir la Luz. Podrías pensar que es la trama real a la 
-que los PJ se oponen. En términos de una serie de anime equivaldría al argumento 
-general de la serie.
-Cuando crees la Antumbra piensa en cómo confronta con los objetivos de los PJ. 
-Un Avatar cuyos planes no afectan a la vida de los personajes no sería interesante y 
-rompería los objetivos y principios del MC. Es por esto que una Antumbra debería 
-estar ligada a la historia de los PJ.
-Cuando crees una Antumbra:
-	
-✽Elige el tipo de Eclipse.
-	
-✽Asigna un Avatar.
-	
-✽Asigna los Campeones y personajes no jugadores implicados.
-	
-✽Elige el resultado del plan si este es completado.
-	
-✽Diseña los Movimientos personalizados que sean necesarios (si procede).
-243
-•Oscuridad•
+你是主持人（MC），第一次聚會結束了。你的朋友們已經離開，現在面前攤著一堆筆記。這些筆記要怎麼處理？是時候把所有這些片段蒐集起來，拼湊在一起，為玩家角色們製造危機了。你也許是這些光明女英雄的粉絲，但你同時也想看她們受苦、戰鬥、墜入愛河、分手、歡笑與哭泣。你渴望為她們創造一段故事，而你需要構建出有趣的東西。
 
-Ejemplo: Mónica ha terminado la primera sesión y le toca poner todas las ideas en 
-conjunto. Según lo que han comentado sus jugadoras, Nekoyu vive para enfrentar-
-se a un Avatar conocido como la Princesa de Sangre. En realidad, ninguno de los 
-PJ sabe nada aún de este ser y no les ha dicho nada después de crear el Pacto. Sin 
-embargo, las jugadoras dan algunos detalles, como que un grupo de magical girls 
-la derrotó hace 100 años. Su plan parece ser destruir las emociones humanas, las 
-cuales se dedica a robar de sus víctimas.
-Con estos datos, Mónica rellena la Antumbra: «Destruir la capacidad de sentir de 
-la raza humana». Aparentemente solo es una idea suelta, pero por ahora servirá 
-como tema para la serie.
-Crear Eclipses
-Cada Eclipse representa uno de los grandes planes del Avatar para llevar a cabo 
-la Antumbra. Por norma general, una Antumbra solo tiene un único Eclipse ejecu-
-tándose a la vez, que será sustituido por otro nuevo si el primero es detenido. Si 
-necesitas más de un Eclipse para representar el plan, hazte primero la pregunta: 
-¿Es un plan completamente diferente o es solo algo que se necesita para cumplir el 
-primero? Si la respuesta es la segunda, quizás encaje mejor como una Umbra que 
-como un Eclipse completo.
-A continuación verás los pasos para crear un Eclipse.
-Elegir el tipo de Eclipse
-Selecciona una categoría de Eclipse que encaje con los planes y naturaleza del Avatar:
-	
-✽Conquista.
-	
-✽Venganza.
-	
-✽Destrucción.
-	
-✽Ascensión.
-La categoría de Eclipse describe el objetivo final del deseo del Avatar. Como MC 
-deberás seleccionar aquella que consideres más adecuada para su plan. Una vez 
-tengas clara la categoría podrás pensar qué Reacciones y Umbras deben estar aso-
-ciadas a ella. Igual que pasa con el resto de Reacciones del capítulo «Maestro de 
-Ceremonias» de la página 203, estas deberían ser amplias, como podrás ver en los 
-ejemplos recomendados. Escoge las que consideres adecuadas, junto a Movimientos 
-específicos para los PJ (ver más en Movimientos Personalizados en la página 254).
-Un Eclipse tendrá asignados varios personajes al servicio del Avatar, conocidos 
-como Campeones. Cada uno de los Campeones ayuda de alguna forma a progresar 
-el Eclipse, pero no tienen por qué estar de acuerdo con el Avatar y sus objetivos. Al-
-gunos estarán por lealtad, mientras que otros buscarán sus propios deseos y fines 
-egoístas. Cuando asignes Campeones a un Eclipse, como MC, piensa en las relacio-
-nes que hay entre ellos y con el Avatar.
-244
-Maho Shojo
+聽起來很複雜？其實不然，但你必須在這一步謹慎行事，因為有一個一開始很難理解的訣竅：你不會掌握控制權。為了讓 Mahō Shōjo 和它的蝕系統正常運作，你必須從腦海中刪去「控制」這個詞，因為如果你試圖控制一切，通常意味著你沒有履行你的目標或原則。每次你與其他玩家們坐在桌前，你不能告訴他們應該做什麼或該去哪裡；他們完全自由地行動。
 
-Después de seleccionar el Eclipse deberías escoger la Corona. Si el Eclipse es el ob-
-jetivo final, la Corona es aquello que incitó al Avatar a ponerlo en marcha, el reflejo 
-de sus deseos y ambiciones.
-Categoría de Eclipse: Conquista
-Los Eclipses de categoría Conquista representan aquellos en los que el Avatar trata 
-de tomar el control de la Tierra o alguna dimensión mágica. Cuando ejecuta este 
-Eclipse, el plan puede ir desde dominar los corazones de los seres humanos de 
-forma que obtenga poder para gobernarlos, hasta usar un gran poder para tomar 
-el control.
-Coronas:
-Gobernar (Gobernar sobre algún lugar de la Tierra).
-Obtener poder (usar la Tierra para tomar el control de otro lugar o ascender a un 
-nivel superior).
-Puente (Usar la energía de la Tierra para viajar o crear una puerta permanente con 
-la Oscuridad).
-Someter (Crear en la Tierra un reflejo de los deseos del Avatar).
-245
+當你開始構建 Mahō Shōjo 的蝕時，你放置場景、人物和計畫，讓它們自然地展開。從那裡開始，是玩家角色們的行動推動了故事。為什麼？因為如果你不這樣做，你就無法發現接下來會發生什麼。然而，如果你決定完全掌控一切，你會發現自己已經知道所有將要發生的事——那還不如去看動畫。這就是準備與控制之間最清楚的區別。舉例來說，如果一個首領想要喚醒某個同學的黑暗面，不要決定何時或如何做到，只需根據環境的一致性和所有相關角色的性格來扮演就好。
 
-Reacciones típicas:
-Ofrecer poder a cambio de algo.
-Ascender a un mortal.
-Presentar un cabeza de turco.
-Ganar un favor.
-Cambiar la forma de llegar al objetivo.
-Formar una alianza inestable.
-Eliminar a un aliado de los PJ.
-Detrás de cada conquista solo se encuentra la destrucción de los seres humanos, ya 
-sea porque terminen siendo esclavizados por el Avatar o usados como arma contra 
-otro lugar. Las magical girls han perdido y es poco probable que en una Tierra co-
-rrompida y transformada en una nueva dimensión oscura nazca gente que pueda 
-albergar Luz pura en su interior.
-Categoría de Eclipse: Venganza
-La Venganza es un Eclipse en el que el Avatar tiene algo en contra de otra persona, 
-organización o mundo. Su intento de oscurecer la Tierra solo existe para poder sa-
-ciar ese sentimiento cruel, por el cual no dudara en destruir cualquier cosa que se 
-cruce en su camino.
-Coronas:
-Amor (Lograr el afecto).
-Indemnizar (Recuperar lo que por derecho le pertenece).
-Envidia (Arrebatar a otros aquello que por derecho no les pertenece).
-Fracaso (Recuperarse de algo negativo del pasado).
-Reacciones típicas:
-Mostrar una debilidad.
-Negociar con algo importante.
-Agotar un recurso.
-Usar una fuerza excesiva.
-Cambiar una opinión.
-Reclutar un aliado poderoso.
-Revelar un pecado del pasado.
-246
-Maho Shojo
+在這些概念都清楚之後，我們就可以開始了解蝕的運作方式。通常來說，為了講述一個故事，你會需要一個末影、數個蝕、一些半影，以及服侍黑暗的角色。這個架構對你確定故事的類型和會發生的情境非常有幫助。當你有了蝕作為指引後，你應該保持一致，避免為了讓故事走向你想要的方向而軟化或強化事件的誘惑。如果你介入強迫故事發展，你就是在剝奪玩家角色的命運，因為一切本不該被預先決定。
 
-Los Eclipses de venganza son llevados a cabo con el único objetivo de culminar un 
-profundo sentimiento de odio hacia una organización, persona o lugar. Los PJ que 
-luchan contra este tipo de Eclipse saben que, por muy buenos motivos que tenga 
-el Avatar, solo está movido por la Oscuridad. Si al final fracasan no será el fin del 
-mundo tal y como lo conocen, pero mucha gente habrá sufrido y cientos de vidas 
-serán destruidas en el camino de lograr su objetivo egoísta.
-Categoría de Eclipse: Destrucción
-Un Eclipse de Destrucción busca el final de algo. El Avatar no suele tener ningún 
-plan después de lograr sus objetivos. Los motivos pueden ser de múltiples natura-
-lezas, pero al final siempre se trata de terminar con la existencia de algo o alguien. 
-Aquello que el Avatar quiere extinguir puede tener muchas formas: una persona, 
-deidad, ciudad, la Tierra, el mundo mágico, etc.
-Coronas:
-Contención (Acabar con algo de forma que no vuelva a existir).
-Contaminar (Eliminar algo del mundo).
-Incendiar (Dejar solo ruinas y recuerdos).
-Vacío (Eliminar todo rastro de la existencia de algo).
-Reacciones típicas:
-Destruir algo importante.
-Algo pequeño pero vital para un PJ desaparece.
-Invadir un lugar.
-Abrir un pasillo a la Oscuridad.
-Conseguir aliados.
-Mostrar un arma imponente.
-Dejar una cicatriz en el mundo.
-La destrucción termina para siempre con algo. Detrás de esta acción puede haber 
-miles de motivos. Puede ser que un Avatar quiera eliminar el propio sentimiento 
-del amor porque perdió a alguien especial o que desee vengarse de un viejo rival. 
-Algunos son más ambiciosos y aspiran a cosas casi imposibles, como acabar con un 
-dios, o podrían desear que algo fuera eliminado de la existencia de forma que nadie 
-nunca lo recuerde.
-247
-•Oscuridad•
+:::note[章節、篇章與系列 vs. 聚會與戰役]
+Mahō Shōjo 是一款深受同類型漫畫和動畫作品啟發的遊戲。因此，我們有時會使用那類術語來描述遊戲時間及其分配。不過，可能需要一點解釋，尤其如果這是你第一次接觸桌上角色扮演遊戲的話。
 
-Categoría de Eclipse: Ascensión
-Un Avatar que empiece un Eclipse de Ascensión espera obtener un poder superior 
-al que ya tiene. Un objetivo tras esto puede ser superar incluso a la propia Oscuri-
-dad, mientras que otro puede ser liberar algo atrapado por el Reino o en el pasado. 
-Algunos Avatares, no obstante, empiezan este tipo de Eclipse meramente porque 
-buscan la forma de obtener nuevos poderes o recuperar otros que perdieron en el 
-pasado.
-Coronas:
-Restaurar (Recuperar algo perdido).
-Liberar (Liberar algo o a alguien).
-Deificación (Obtener un don o poder superior).
-Reacciones típicas:
-Traicionar.
-Aparece un nuevo poder.
-Revelar una pista del pasado.
-Destruir un sello.
-Lanzar toda la fuerza.
-Ofrecer un trato.
-Sacrificar algo importante.
-La Ascensión representa la ambición de los Avatares por lograr aún más poder. 
-Quizás sea porque necesita despertar o liberar algo viejo y olvidado. Otros desean 
-obtener dones ascendiendo o recuperar poderes que perdieron en antiguas batallas 
-y que necesitan para poder volver a ocupar su puesto en la Oscuridad.
-Ejemplo: Tras pensarlo y repasar todas las notas que ha tomado y pensar en la 
-Antumbra, es el momento de planear un Eclipse. Mónica piensa que la Princesa de 
-Sangre tiene en mente un Eclipse de Venganza. Define que cuando la Princesa llegó 
-a convertirse en un Avatar dejó atrás su capacidad de sentir nada. Después de ser 
-destruida hace siglos por un grupo de magical girls, se ha dado cuenta de que desea 
-recuperar sus sentimientos perdidos, que le han sido negados por su conversión en 
-Avatar. Viendo el listado de Coronas se fija en que la de Indemnizar encaja correc-
-tamente con lo que busca.
-Finalmente se dirige a sus notas y determina que el nuevo Eclipse tiene la categoría 
-de Venganza y una Corona de tipo Indemnizar.
-248
-Maho Shojo
+**聚會**：「聚會」指的是主持人（MC）與玩家們聚在一起遊玩故事一部分的時間，通常為兩到四個小時。每次聚會會包含數量不等的場景，且很少會在一次聚會中就完結整個故事。
 
-Realizar las Reacciones de peligro
-El MC debe asignar y definir las Reacciones asociadas a cada Eclipse. Si, por ejem-
-plo, decides liberar una fracción de poder de una Ascensión (Liberar) puede ser 
-que, a partir de ese momento, los sirvientes del Avatar puedan invocar su poder 
-de alguna forma. Está en tus manos el diseñar las Reacciones de forma que estén 
-disponibles junto a las Reacciones básicas si se cumplen los requisitos. Estas nue-
-vas Reacciones deben seguir tus principios, así que al ocultarlas debes justificar su 
-aparición en la Ficción de alguna forma. Si tienes dudas sobre cómo y cuándo usar 
-Movimientos, consulta el capítulo «Maestro de Ceremonias» en la página 203 para 
-más información sobre las Reacciones.
-Ejemplo: El grupo se está enfrentando a los seguidores de la Princesa de Sangre. Sus 
-adeptos siguen las siniestras órdenes de su líder. Mónica tomó la decisión de crear 
-los planes de la Princesa como un Eclipse de Venganza con la corona de Indemnizar. 
-Esta decisión hace que cuando las chicas se enfrenten a sus sirvientes, tenga las 
-Reacciones de Venganza como opciones. Algunos ejemplos de su uso podrían ser:
-Mostrar una debilidad. Por ejemplo: «Akari, cuando ves a la Hechicera de Llamas 
-Oscuras sientes una pequeña envidia. Recuerdas cuando dejaste atrás la oportuni-
-dad de ir a la escuela de élite».
-249
+**戰役**：當數次共享故事和角色的聚會串連在一起時，我們稱之為「戰役」。一個戰役由數量不等的聚會組成。有些團體偏好少於十次聚會的短戰役，也有些團體會進行持續數年、包含上百次聚會的戰役。當主持人（MC）和玩家們投入這樣的長期遊戲時，他們會解決數個蝕並參與複雜的劇情。
 
-Cambiar una opinión. Por ejemplo: «Tras liberar a Yimi de la influencia de la Oscuri-
-dad, ella abre los ojos. Algo en ella ha cambiado y ves cómo arranca de la chaqueta 
-el parche de la agencia espacial. Cuando le preguntan qué ha pasado dice que ya 
-no tiene ese sueño, de hecho ahora odia la idea de ir algun día al espacio».
-Revelar un pecado del pasado. Por ejemplo: «Kiyomi recibe una revelación al abrir 
-un viejo recuerdo de su mente. En el pasado dañó tremendamente a una persona 
-y ahora esa persona es la Samurái de Jade, una vieja amiga que tenía en el pueblo 
-donde sus padres pasaban el verano».
-Umbras
-Una vez que tengas un Eclipse en marcha, quizás necesites generar las Umbras. Las 
-Umbras son pequeños planes que ayudan a avanzar, o bien el Eclipse, o bien un 
-problema importante para los PJ. Según las Umbras sean completadas o evitadas, 
-estas pueden influir en el Eclipse, retrasando, avanzando o eliminando su progreso.
-Cada Umbra tiene un objetivo muy específico planteado a corto plazo. Estas amenazas 
-se crearán y terminarán a lo largo de la campaña. En ocasiones pueden existir algunas 
-Umbras tan complejas que tengan en su interior una o varias Penumbras, que representan 
-las varias etapas de una Umbra. De forma similar a un Eclipse con su Corona, las Umbras 
-tienen un Ímpetu, que representa el elemento más básico que las mueve hasta su final.
-Todas las Umbras están conectadas a un Eclipse. Incluso aquellas que en principio 
-parezcan independientes deben tener algún elemento que las enlace, ya sea por ser 
-las consecuencias de los avances de otras Umbras o del propio Eclipse. El motivo de 
-esta conexión se encuentra en hacer conscientes a los jugadores de los peligros que 
-supone dejar avanzar a la Oscuridad. Ni siquiera las Umbras más autosuficientes, 
-como las creadas por un Mal de Atropos, escapan de tener alguna conexión con las 
-intenciones de la Oscuridad.
-Como MC, sobre todo si eres veterano de otros juegos de rol, te puede parecer 
-muy restrictiva o mecánica la creación de estos Eclipses y Umbras. Esta impresión 
-no debe engañarte, en el fondo solo estás creando ayudas para manejar todos los 
-conceptos que necesitas para guiar la historia. De esta forma, contarás con herra-
-mientas cuando tengas que decidir cómo reaccionar a las decisiones.
-Una vez tengas diseñadas las Umbras, verás que no es más que una forma de hacer 
-que los jugadores estén pendientes continuamente de la historia, creando de esta 
-forma interés y progreso hasta que logren detener a la Oscuridad.
-Cuando crees una Umbra ten en cuenta lo siguiente:
-	
-✽Traza su conexión con el Eclipse.
-	
-✽Elige un Impulso.
-	
-✽Si es necesario, crea Penumbras.
-250
-Maho Shojo
+在漫畫和動畫中，故事通常以類似的方式劃分：
 
-Elegir el Impulso
-Cada Umbra tiene un Impulso que representa la idea más básica del elemento que 
-la hace avanzar. Escoge el Impulso entre:
-	
-✽Obtener (Lograr algún tipo de recurso).
-	
-✽Eliminar (Destruir algo o a alguien).
-	
-✽Ritual (Completar unos pasos determinados).
-	
-✽Corromper (Oscurecer el corazón de alguien).
-	
-✽Desgastar (Quitarle un recurso a los PJ).
-Este paso te puede parecer similar a elegir la categoría de un Eclipse. Como podrás 
-observar, los Impulsos representan categorías muy amplias; selecciona la que más 
-se ajuste a tu visión de la Umbra.
-Una vez tengas la Umbra, deberás trazar cuál es la conexión del Avatar y la Oscuri-
-dad con ella. Quizás el Avatar, harto de que las magical girls se entrometan en sus 
-planes, decida mandar a un Campeón a convertir a un miembro de su familia en una 
-Muñeca (Corromper) o hacer que suspenda un examen importante para arruinar 
-su futuro (Desgastar).
-Puede que no quieras asignar todas las Umbras a un Eclipse. Esto puede funcionar 
-si quieres empezar a preparar semillas para un Avatar futuro por si los PJ logran 
-derrotar al actual o si aún no sabes exactamente cómo puede estar relacionada. No 
-te preocupes por esto, ya podrás volver a conectarla si es preciso. También puede 
-ocurrir que desees meter una trama secundaria con un Campeón independiente o 
-una consecuencia de las acciones de los jugadores, como una Ruptura o un Mal de 
-Atropos.
-Crear nuevas Umbras y Penumbras
-Si observas que una Umbra necesita más Impulsos, ya sea porque algún aspecto 
-importante haya quedado sin tratar o porque se han generado nuevas líneas argu-
-mentales por las acciones de los PJ, es mejor crear una Penumbra. La creación de 
-estas Penumbras es igual que la creación de una Umbra, la diferencia es que, en 
-lugar de estar conectada al Eclipse, lo está a una Umbra.
-Si en algún momento has repasado una Umbra o una Penumbra, y observas que se 
-ha vuelto demasiado complicada o que ha tomado su propia fuerza, merece la pena 
-crear una nueva Umbra basada en ella.
-Según vayas cogiendo práctica verás que te resulta muy sencillo notar cuándo es 
-necesario generar una nueva Umbra o cuándo estas son Penumbras. Gracias a este 
-sistema verás que te resulta más sencillo organizar y localizar tus ideas.
-No te sientas obligado a añadir más Umbras si ya tienes bastantes; puedes volver a 
-este paso siempre que veas que algo no encaja bien o le falta desarrollo.
-251
-•Oscuridad•
+**章節**：是自成一體的小故事，可能會也可能不會推進本季的劇情。一個章節相當於一次聚會，因此當我們談到第一次聚會時，也就是在談第一章。
 
-Ejemplo: Cuando llega el momento de crear las Umbras, Mónica tiene ideas para 
-generar hasta tres de ellas. Por ahora estas serán suficientes y, si en el futuro lo 
-cree necesario, ya tendrá tiempo de regresar a este paso para hacer más.
-Las tres Umbras que tiene planeadas son las siguientes:
-Resucitar a su viejo General sellado para la eternidad hace cien años. Esta es una 
-Umbra con el Impulso (Obtener).
-Lograr despertar el poder completo del Ignem Grimoris. Esta es una Umbra con el 
-Impulso (Ritual).
-Usar los objetos Kasumano para hacer aflorar el lado oscuro de las personas. Esta 
-es una Umbra con el Impulso (Corromper).
-Personajes
-Después de decidir el Eclipse y las Umbras, deberías indicar los personajes que van 
-a formar parte en cada uno de ellos. No debes caer en la trampa de mencionar solo 
-al Avatar y los Campeones, piensa también en las personas normales que forman 
-parte de la vida de los PJ y que se verán afectadas directamente. Estos persona-
-jes están asociados porque provocan conflicto, teniendo en sus manos formas de 
-avanzar o parar el plan de algún modo. No debes preocuparte de poner a estos 
-personajes en el momento de crear el Eclipse, nada impide que nuevos personajes 
-se unan según vaya avanzando.
-Todos los personajes que forman parte de una Umbra o Eclipse deben tener un nombre 
-y una serie de etiquetas que te ayuden a gestionarlos. Ponerle etiquetas a un personaje 
-viene muy bien para recordar su papel y forma de actuar hacia los PJ. Si fuera necesa-
-rio podrías crear algunos Movimientos o Reacciones personalizados. ¿Quizás alguno es 
-una vieja magical girl que combatió con el Avatar en el pasado? Estos Movimientos y 
-Reacciones nuevas se añaden a los que pueden realizar tanto los jugadores como el MC.
-Cronómetro de la Oscuridad
-Según las sesiones se vayan terminando, es posible que el Eclipse o la Umbra avan-
-cen. Cada uno de estos pasos hacia delante representa que se ha logrado algún 
-objetivo para llegar a su culminación. Generar un Cronómetro de la Oscuridad te 
-proporciona una forma visual de recordar cómo de avanzados están los Eclipses, 
-Umbras y Penumbras.
-El progreso de los Cronómetros refleja lo que pasa si los PJ no les hacen caso ni tratan 
-de pararlos y cambian si logran entrometerse o desaparecen si los solucionan. Para los 
-jugadores también son una ayuda para descubrir sus prioridades; si en algún momen-
-to los descuidan, verán cómo crece la Oscuridad hasta el resultado de Oscuridad Total.
-252
-Maho Shojo
+**季**：有時也稱為「篇章」，包含數個有著共同主題或反派的章節。在 Mahō Shōjo 中，每個蝕通常代表一季，但也可能涵蓋屬於同一個末影的多個蝕和本影。這種結構等同於一個戰役。
 
-Cada vez que diseñas un nuevo Cronómetro debes dividirlo en varias partes, entre 
-2 y 6, según los pasos que hagan falta para que termine y, por tanto, para que los 
-jugadores fallen en evitarlo. Finalmente, como último paso, indica la consecuencia 
-de que llegue a su final. Cada paso representa la forma ideal de llegar a él por parte 
-del Avatar si los PJ no intervienen.
-Hazte las siguientes preguntas a la hora de rellenar el Cronómetro: ¿qué puede 
-ocurrir? ¿Qué hay en juego? ¿En qué punto puede terminar avanzando el Eclipse del 
-Avatar? A continuación puedes encontrar una pequeña sugerencia de cómo podría 
-avanzar un reloj de seis partes:
-Inicio del Eclipse (0 %): El Eclipse está empezando a desarrollarse, incluso es po-
-sible que los PJ no sean conscientes de su existencia.
-Cuarto creciente (25 %): Los primeros efectos empiezan a intuirse, quizás aún no 
-sepan las repercusiones o el objetivo final.
-Media oscuridad (50 %): Los efectos son claramente visibles, aún puede ser dete-
-nido sin repercusión, pero cada vez es más probable que haya que pagar un precio.
-Cuarto final (75 %): Las cosas empiezan a empeorar cada vez más, incluso aunque 
-logre pararse en este punto, los PJ no podrán revertir algunos de sus efectos.
-Anillo solar (90 %): Los cambios anteriores son ya permanentes y cada vez las 
-cosas van a peor. No puede ser revertido, pero aún puede evitarse que la Oscuridad 
-se anote una victoria.
-Oscuridad Total (100 %): Todo está mal, la Oscuridad ha vencido.
-Seguramente ya te habrás percatado de que los Cronómetros funcionan de forma 
-similar a un Eclipse real. Al principio la Luna solo tapa un poco del borde del Sol, 
-pero según avanza el tiempo la luz baja y la noche lo cubre todo. Una vez que se 
-llega a Oscuridad Total no hay vuelta atrás, de alguna forma la Oscuridad ha ganado 
-esa batalla.
-Ejemplo de Cronómetro: Mónica debe generar un Cronómetro para la Umbra que 
-ha diseñado, relacionada con recuperar el poder del Ignem Grimoris. Toma la deci-
-sión de que será un Cronómetro de seis partes y lo rellena de la siguiente manera.
-Despertar el poder del Ignem Grimoris:
-Inicio del Eclipse (0 %): La Princesa de Sangre envía a la Hechicera de Llamas 
-Oscuras a recuperar el Ignem Grimoris.
-Cuarto creciente (25 %): El Ignem Grimoris es recuperado en un templo de la ciu-
-dad de Nichinan.
-Media oscuridad (50 %): Deben extraerse los sentimientos del corazón de cinco 
-personas con un Lazo a una de las magical girls.
-253
-•Oscuridad•
+**系列**：系列涵蓋多個季（或戰役），通常有著共同的元素，例如場景、角色或反派，且可能在同一系列中呈現不同的化身和蝕。
+:::
 
-Cuarto final (75 %): Tras llenar el libro de los sentimientos, debe ser quemado en 
-una llama creada por madera sagrada durante una noche entera de luna nueva. El 
-libro empezará a despertar sus poderes y los viejos conjuros podrán leerse.
-Anillo solar (90 %): Una vez lleno, el libro ha de ser bañado en una lágrima de 
-cada una de las magical girls para recuperar toda la magia.
-Oscuridad Total (100 %): Con todo su poder restaurado, se lanza el hechizo defi-
-nitivo del Ignem Grimoris.
-Ten en cuenta que los avances son el comportamiento ideal de un Cronómetro. No 
-deben de ser vistos como algo inamovible ni predecible, solo es una guía de lo que 
-ocurriría si los PJ no hacen nada para evitarlo. Según evolucione la historia, realizar 
-Movimientos y Reacciones permitirá avanzar o eliminar distintos Cronómetros, o 
-puede que incluso crear nuevos. Recuerda consultar a menudo cómo están tus Cro-
-nómetros y mantenerlos actualizados para saber el estado del mundo y la trama.
-Si revisando los diferentes Cronómetros ves que ya no tienen sentido por las accio-
-nes de los PJ, corrígelos para reflejar el estado de la historia. Si el plan final de uno 
-de ellos ya es irrealizable, elimínalo.
-Movimientos personalizados
-En ocasiones puedes llegar a pensar que algunos Eclipses (o Umbras) necesitan 
-algunos Movimientos personalizados. Estos Movimientos permiten reflejar elemen-
-tos muy específicos de ese Eclipse particular.
-Existe una serie de consejos para la construcción de Movimientos nuevos. Las fór-
-mulas más habituales son:
-Un desencadenante: «Cuando pase X…».
-Un resultado: «… pasará Y». A veces se trata de una tirada, otras, solo de un re-
-sultado.
-Recuerda que si el Movimiento necesita una tirada, un 10 o más significa que las 
-cosas le salen bien al personaje jugador. Un resultado entre 7 y 9 tiene algún coste 
-o una complicación y 6 o menos activa una Reacción del MC, la cual puede venir 
-indicada en el propio Movimiento.
-Ejemplo de Movimiento con tirada: Cuando estés en el laberinto de espejos de la 
-Princesa de Sangre realiza una tirada y suma la Característica según la actitud con 
-la que estés tratando de salir.
-	10+	 Encuentras una salida.
-	 7-9	 Sigues perdida. Escoge entre encontrarte un grupo de servidores de la Prin-
-cesa o ganar un Punto de Oscuridad.
-254
-Maho Shojo
+### 末影
 
-Ejemplo de Movimiento sin tirada: Cuando Castigues la Oscuridad portando la 
-Vara de la Luz Infinita, obtienes Castigo +2.
-Puedes incluso alterar la estructura de los Movimientos Básicos y de Arquetipo:
-Maestra del fuego: Cuando desencadenas un Movimiento delante de la Hechicera 
-de Llamas Oscuras, que esté relacionado con el fuego o la Oscuridad, un resultado de 
-10 o más no genera un Punto de Luz.
-Contorsionista supremo: Cuando Castigues la Oscuridad contra el Presidente de 
-Kasumano y esté usando su don Contorsionismo, usa Reflexiva en lugar de Com-
-bativa.
-Para saber más sobre cómo escribir Movimientos personalizados de forma más 
-amplia para Mahō Shōjo (y cualquier juego que use el sistema PbtA), consulta la 
-guía de Dungeon World, que puedes descargar de forma gratuita en la web de 
-Nosolorol.
-Ejemplos de Eclipses
-A continuación, se describen tres ejemplos de Eclipses desarrollados usando todas 
-las reglas presentes en este capítulo. Los dos primeros Eclipses están ambientados 
-en la ciudad ficticia de Nichinan, al sur de la isla principal de Japón, a orillas del 
-Pacífico. El tercero representa un pequeño barrio al norte de Tokio y el reino mágico 
-conocido como Reino Estelar.
-El primero de ellos, «El retorno de la Princesa de Sangre», habla de la nueva re-
-surrección de una demiurgo que, cada cien años, trata de llevar a cabo el plan de 
-exterminar la capacidad de sentir de los humanos como castigo por haberla perdido 
-ella misma.
-El segundo, «Empresas Kasumano», consiste en un Fugado que se ha hecho con el 
-control de una empresa. Su objetivo es convertirse en una especie de dios oscuro y 
-gobernar una Tierra donde la gente solo consuma sus productos como marionetas 
-sin mente.
-El tercero, «El último brillo del Reino Estelar», habla de cómo la Oscuridad, después 
-de consumir el Reino Mágico, trata de hacer lo mismo con la Tierra. Para impedirlo, 
-su reina exiliada ha buscado heroínas que le ayuden a evitarlo y restaurar su reino.
-El retorno de la Princesa de Sangre
-Antumbra: Destruir la capacidad de sentir de la raza humana.
-Avatar: Princesa de Sangre.
-Campeones: Glob, Hechicera de Llamas Oscuras, Samurái de Jade y Mauyin.
-255
-•Oscuridad•
+末影代表黑暗的最終計畫，由一個化身執行，目的是擴張其力量並熄滅光明。你可以把它想成玩家角色所對抗的真正劇情主線。以動畫系列來說，它相當於整部系列的總綱。
 
-Eclipse: Venganza.
-Corona: Indemnizar.
-Nombre de la Umbra: Despertar el poder del Ignem Grimoris
-Impulso: Ritual.
-Personajes: Hechicera de Llamas Oscuras.
-Descripción: El Ignem Grimoris es el grimorio de un viejo Avatar con dominio com-
-pleto sobre el elemento del fuego y que fue el antepasado de la Hechicera de Llamas 
-Oscuras. La Princesa de Sangre ha tratado de conseguirlo desde que empezó su 
-ciclo de resurrección, pero hasta ahora no ha obtenido ningún resultado. Si logra 
-despertar los poderes del Ignem Grimoris, tendrá acceso a un poderoso conjuro de 
-la Oscuridad, pero de momento está oculto en un templo en la playa.
-Cronómetro de la Oscuridad:
-	
-✽Inicio del Eclipse (0 %): La Princesa de Sangre envía a la Hechicera de Llamas 
-Oscuras a recuperar el Ignem Grimoris.
-	
-✽Cuarto creciente (25 %): El Ignem Grimoris es recuperado en un templo de la 
-ciudad de Nichinan.
-	
-✽Media oscuridad (50 %): Deben extraerse los sentimientos del corazón de 
-cinco personas con un Lazo a una de las magical girls.
-	
-✽Cuarto final (75 %): Tras llenar el libro de los sentimientos, debe ser quemado 
-en una llama creada por madera sagrada durante una noche entera de luna 
-nueva. El libro empezará a despertar sus poderes y los viejos conjuros podrán 
-leerse.
-	
-✽Anillo solar (90 %): Una vez lleno, el libro ha de ser bañado en una lágrima de 
-cada una de las magical girls para recuperar toda la magia.
-	
-✽Oscuridad Total (100 %): Con todo su poder restaurado, se lanza el hechizo 
-definitivo del Ignem Grimoris.
-Movimientos personalizados:
-Sellar el grimorio: Cuando los PJ llegan a un santuario relacionado con el elemento 
-acuático y tratan de sellar el libro otros cien años: 
-Tira+Entregada
-	10+	 El libro es sellado un siglo más.
-	 7-9	 Las energías del libro crean llamas elementales de fuego oscuro para prote-
-gerlo.
-256
-Maho Shojo
+當你創建末影時，請思考它如何與玩家角色的目標相互衝突。一個計畫不影響角色生活的化身不會有趣，而且會違背主持人（MC）的目標和原則。因此，末影應該與玩家角色的故事緊密連結。
 
-Nombre de la Umbra: Liberar a Mauyin
-Impulso: Obtener.
-Personajes: La Samurái de Jade y Mauyin, el Maestro de Cadenas.
-Descripción: El Maestro de Cadenas fue asesinado y su cuerpo dividido en pedazos 
-al no poderse desterrar por completo. Él es el general de las fuerzas de la Princesa 
-de Sangre. Ahora ella ha enviado a una de sus Campeones a tratar de recuperar sus 
-servicios para esta nueva oportunidad.
-Cronómetro de la Oscuridad:
-	
-✽Inicio del Eclipse (0 %): Empiezan a buscarse las pistas para el regreso de 
-Mauyin.
-	
-✽Cuarto creciente (25 %): Se localiza un pedazo de su carne momificada.
-	
-✽Media oscuridad (50 %): Se localiza y trata de destruirse el sello que contiene 
-su alma.
-	
-✽Cuarto final (75 %): Mauyin regresa debilitado, no puede ocupar su viejo cargo.
-	
-✽Anillo solar (90 %): Los sirvientes de la Princesa se hacen con la cadena má-
-gica de Mauyin.
-	
-✽Oscuridad Total (100 %): Una vez recuperada su arma, Mauyin dispone de 
-acceso a todos sus poderes y capacidades.
-Nombre de la Umbra: El videoclub del odio
-Impulso: Corromper.
-Personajes: Glob el Asqueroso.
-Descripción: Para poder empezar a corromper el mundo, la Princesa de Sangre ha 
-logrado sacar la Oscuridad interior del dependiente de un videoclub que cometió 
-terribles pecados. Glob, gracias a los productos de la empresa Kasumano, introduce 
-un hechizo en las películas que elimina los buenos sentimientos y solo deja los malos.
-Cronómetro de la Oscuridad:
-	
-✽Inicio del Eclipse (0 %): Glob abre su tienda.
-	
-✽Cuarto creciente (25 %): Se empiezan a dar los primeros casos de corrompi-
-dos por los vídeos.
-	
-✽Media oscuridad (50 %): Un importante cargo público provoca un crimen que 
-conmociona a mucha gente.
-	
-✽Cuarto final (75 %): Varios videoclubs con material corrupto aparecen por la 
-ciudad, dirigidos por versiones menores de Glob.
-	
-✽Anillo solar (90 %): Cientos de personas corrompidas salen a la calle.
-	
-✽Oscuridad Total (100 %): Quedan pocas personas que no hayan visto los ví-
-deos y sin corromper. Las calles ya no son seguras para nadie.
-257
-•Oscuridad•
+當你創建末影時：
 
-Movimientos personalizados:
-Servir a la nueva Reina: Si una magical girl con al menos 1 Nivel de Oscuridad ve 
-un vídeo: 
-Tira+Entregada
-	10+	 Rompe el encantamiento. El PJ no puede volver a ser afectado por la cinta en 
-el resto de la escena.
-	 7-9	 Escoge una opción:
-	
-✽El PJ gana 1 Punto de Oscuridad.
-	
-✽El PJ pierde 1 Punto de Amistad.
-Empresas Kasumano
-Antumbra: Ascender a dios de la Oscuridad.
-Avatar: Presidente Kasumano.
-Campeones: El Coach y el Hombre de Negro.
-Eclipse: Ascensión.
-Corona: Deificación.
-Nombre de la Umbra: Eliminar a las chicas
-Impulso: Desgastar.
-Personajes: Hombre de Negro.
-Descripción: Encontrar todos los puntos débiles en la vida de las chicas y destruir-
-los. Despedir a sus padres, comprar sus casas o abolir sus becas. Allí donde exista 
-una debilidad en sus vidas, el Hombre de Negro aparece y aplica presión hasta 
-reventarla.
-Cronómetro de la Oscuridad:
-	
-✽Inicio del Eclipse (0 %): El Presidente Kasumano busca a las posibles magical 
-girls de la ciudad de Nichinan.
-	
-✽Cuarto creciente (25 %): La influencia de la empresa empieza a notarse en 
-algún aspecto menor de la vida de las magical girls.
-	
-✽Media oscuridad (50 %): La familia de una de las magical girls sufre un contra-
-tiempo.
-	
-✽Cuarto final (75 %): Todas las familias se encuentran con problemas de alguna 
-clase.
-	
-✽Anillo solar (90 %): Una de las familias sufre una tragedia irreparable.
-	
-✽Oscuridad Total (100 %): La vida de todas las magical girls está arruinada.
-258
-Maho Shojo
+- 選擇蝕的類型。
+- 指定一個化身。
+- 指定相關的首領和非玩家角色。
+- 選擇計畫完成時的結果。
+- 設計必要的自訂動作（如有需要）。
 
-Nombre de la Umbra:  
-El Corazón de Luz
-Impulso: Eliminar.
-Personajes: El Coach.
-Descripción: Existe un lugar en Nichinan 
-conocido como el Corazón de Luz. Este 
-lugar está imbuido con el poder supremo 
-de la Luz en el mundo. Si alguien lograra 
-corromperlo y canalizar su energía hacia 
-la Oscuridad, podría usarlo para lograr 
-un poder ilimitado.
-Cronómetro de la Oscuridad:
-	
-✽Inicio del Eclipse (0 %): Kasumano 
-busca por la ciudad dónde puede en-
-contrarse el Corazón de Luz.
-	
-✽Cuarto creciente (25 %): Kasumano 
-logra localizar una zona aproximada 
-de la ubicación del Corazón de Luz.
-	
-✽Media oscuridad (50 %): Se empie-
-za a construir la estructura que con-
-tendrá el poder del Corazón de Luz.
-	
-✽Cuarto final (75 %): Una vez cons-
-truida la estructura, empieza a cam-
-biarse la energía del Corazón de Luz 
-a la Oscuridad.
-	
-✽Oscuridad Total (100 %): El lugar 
-está preparado para el uso de su 
-poder exclusivo por las empresas 
-Kasumano.
-Movimientos personalizados:
-Ungir el poder de la gran Luz: Cuando 
-un PJ descubre la verdad tras el Corazón 
-de Luz y llega a él, obtiene:
-Cuando está transformada, tiene Casti-
-go/3 en lugar de Castigo/1.
-Un Poder del Corazón ( ) que ocupa un 
-espacio de la Forma Básica en el Nivel de 
-Poder 0.
-259
-•Oscuridad•
+:::tip[範例]
+Mónica 結束了第一次聚會，現在要把所有想法彙整在一起。根據玩家們的討論，Nekoyu 的存在是為了對抗一個被稱為血之公主的化身。事實上，沒有任何玩家角色知道這個存在的任何事情，而她在創建盟約之後也沒有向她們透露任何訊息。然而，玩家們提供了一些細節，例如一群魔法少女在一百年前打敗了她。她的計畫似乎是毀滅人類的情感，她致力於從受害者身上竊取這些情感。
 
-El último brillo del Reino Estelar
-Antumbra: Consumir la Tierra en la Oscuridad y pasar a su siguiente objetivo.
-Avatar: El rey del Vacío.
-Campeones: Devoradores de Luz y el Caballero Melancólico.
-Eclipse: Conquista.
-Corona: Puente.
-Nombre de la Umbra: Consumir la Tierra
-Impulso: Ritual.
-Personajes: Devoradores de Luz.
-Descripción: El rey del Vacío busca consumir la Luz del universo. Después de lograr 
-conquistar el Reino Estelar, su nuevo objetivo es la Tierra. Para cumplir su misión uti-
-liza a los Devoradores de Luz, seres que fueron protectores del lugar que ha conquis-
-tado y que han obtenido el poder de absorber todo aquello que hace a la Luz brillar.
-Cronómetro de la Oscuridad:
-	
-✽Inicio del Eclipse (0 %): Los primeros Devoradores de Luz acceden a la Tierra.
-	
-✽Cuarto creciente (25 %): Un lugar sagrado de la Luz en la Tierra es consumido 
-por los Devoradores de Luz.
-	
-✽Media oscuridad (50 %): Un portal entre la Tierra y el Reino Estelar se abre, 
-permitiendo que la Oscuridad se filtre.
-	
-✽Cuarto final (75 %): La gente cae en la apatía y la melancolía a medida que 
-aumenta el número de lugares de la Luz consumidos.
-	
-✽Anillo solar (90 %): Se manifiesta en la Tierra el castillo de la Oscuridad, com-
-pletando el puente entre dos mundos.
-	
-✽Oscuridad Total (100 %): La Tierra es consumida por la Oscuridad y el rey del 
-Vacío busca el siguiente refugio de la Luz.
-Movimientos personalizados:
-Luz retornada: Cada vez que un Devorador de Luz es derrotado, todo lo que con-
-sumió regresa al estado que tenía antes de su aparición.
-Nombre de la Umbra: El polvo de una estrella
-Impulso: Desgastar.
-Personajes: Devoradores de Luz y el Caballero Melancólico.
-Descripción: En los últimos latidos del Reino Estelar el rey del Vacío trata de impe-
-dir que las magical girls descubran que existe una forma de restaurarlo. Para ello, 
-260
-Maho Shojo
+根據這些資料，Mónica 填寫了末影：「毀滅人類感受情感的能力」。乍看之下只是一個零散的想法，但目前足以作為系列的主題。
+:::
 
-sus Devoradores de Luz y el Caballero Melancólico pretenden eliminar cualquier 
-rastro de su salvación.
-Cronómetro de la Oscuridad:
-	
-✽Inicio del Eclipse (0 %): El rey del Vacío empieza a proteger los puntos clave 
-del Reino Estelar.
-	
-✽Media oscuridad (50 %): Se consume gran parte del Reino Estelar por la Os-
-curidad, volviéndolo inaccesible.
-	
-✽Cuarto final (75 %): El Reino Estelar está completamente consumido, salvo el 
-Palacio.
-	
-✽Oscuridad Total (100 %): El Palacio se transforma en una parte del Castillo de 
-la Oscuridad.
-Movimientos personalizados:
-Recuerdo del pasado: Cada vez que uno de los Devoradores de Luz es derrotado, 
-deja tras de sí un fragmento de Luz cristalizada que representa una zona del Reino 
-Estelar. Este fragmento puede ser usado para restaurar el lugar que representa.
-Polvo Estelar: Si se derrota al Caballero Melancólico este retorna a su estado de 
-guardia real de la Reina Estelar y le concede a cada PJ una Forma adicional para su 
-Lux Habitu.
-PODER
-FORMA ESTELAR
-1
-Ascensión +1
-2 
-Poder del Corazón ( )
-3
-Castigo +1
-261
-•Oscuridad•
+### 創建蝕
+
+每個蝕代表化身為實現末影而制定的重大計畫之一。一般來說，一個末影同時只有一個蝕在執行中，如果第一個被阻止，就會被新的蝕取代。如果你需要多於一個蝕來呈現計畫，先問自己這個問題：這是一個完全不同的計畫，還是只是完成第一個計畫所需的步驟？如果答案是後者，也許它更適合作為本影而非完整的蝕。
+
+以下是創建蝕的步驟。
+
+#### 選擇蝕的類型
+
+選擇一個符合化身計畫與本性的蝕類別：
+
+- 征服
+- 復仇
+- 毀滅
+- 昇華
+
+蝕的類別描述了化身慾望的最終目標。身為主持人（MC），你應該選擇你認為最適合其計畫的類別。一旦確定了類別，你就可以思考哪些反應和本影應該與之關聯。就像「主持人（MC）」章節中的其他反應一樣，這些反應應該是寬泛的，你可以在推薦範例中看到。選擇你認為合適的反應，連同為玩家角色設計的特定動作（更多內容請參閱自訂動作一節）。
+
+一個蝕會被指派數個服務於化身的角色，即首領。每位首領都以某種方式幫助推進蝕的進展，但他們不一定認同化身及其目標。有些出於忠誠，有些則追求自己的慾望和自私的目的。當你將首領指派給一個蝕時，身為主持人（MC），請想想他們之間以及他們與化身之間的關係。
+
+在選擇蝕之後，你應該挑選皇冠。如果蝕是最終目標，皇冠就是驅使化身啟動它的動機，是其慾望和野心的映射。
+
+#### 蝕類別：征服
+
+征服類別的蝕代表化身試圖奪取地球或某個魔法次元控制權的計畫。當執行此蝕時，計畫的範圍可以從控制人類的心靈以獲得統治他們的力量，到使用強大的力量來奪取控制權。
+
+**皇冠：**
+
+- **統治**（統治地球上的某個地方）。
+- **獲取力量**（利用地球來奪取其他地方的控制權或提升到更高的層次）。
+- **橋樑**（利用地球的能量來旅行或創建一扇通往黑暗的永久之門）。
+- **臣服**（在地球上創造出化身慾望的映射）。
+
+**典型反應：**
+
+- 以某種交換來提供力量。
+- 讓一個凡人昇華。
+- 推出一個替罪羊。
+- 贏得一個恩惠。
+- 改變達成目標的方式。
+- 結成不穩定的同盟。
+- 消滅玩家角色的一個盟友。
+
+在每一場征服的背後，都只有人類的毀滅——無論是因為最終被化身奴役，還是被用作對付其他地方的武器。魔法少女們已經失敗，在一個墮落並被轉變為新黑暗次元的地球上，不太可能誕生能在內心孕育純粹光明的人。
+
+#### 蝕類別：復仇
+
+復仇是一種化身對某個人、組織或世界懷有怨恨的蝕。它試圖讓地球籠罩黑暗，僅僅是為了滿足那殘酷的情感，為此它會毫不猶豫地摧毀擋在路上的任何事物。
+
+**皇冠：**
+
+- **愛**（獲得愛情）。
+- **索賠**（奪回本就屬於自己的東西）。
+- **嫉妒**（從他人手中奪走不屬於他們的東西）。
+- **雪恥**（從過去的負面事件中恢復）。
+
+**典型反應：**
+
+- 展示一個弱點。
+- 用重要的事物進行談判。
+- 消耗一項資源。
+- 使用過度的力量。
+- 改變一個觀點。
+- 招募一個強大的盟友。
+- 揭露一個過去的罪過。
+
+復仇的蝕是出於對某個組織、個人或地方深刻仇恨的唯一目標而執行的。對抗這種蝕的玩家角色知道，無論化身有多麼正當的理由，它都只是被黑暗所驅使。如果她們最終失敗了，世界不會就此終結，但許多人會受苦，數百條生命會在化身追求自私目標的路上被摧毀。
+
+#### 蝕類別：毀滅
+
+毀滅的蝕追求的是某事物的終結。化身在達成目標後通常沒有進一步的計畫。動機可以是多種多樣的，但最終都是要終結某事物或某人的存在。化身想要消滅的對象可以有很多形式：一個人、一個神祇、一座城市、地球、魔法世界……等等。
+
+**皇冠：**
+
+- **封存**（以不再存在的方式終結某事物）。
+- **汙染**（從世界上消除某事物）。
+- **焚燒**（只留下廢墟和回憶）。
+- **虛空**（消除某事物存在過的所有痕跡）。
+
+**典型反應：**
+
+- 摧毀某個重要的事物。
+- 某個微小但對玩家角色至關重要的事物消失了。
+- 入侵某個地方。
+- 打開一條通往黑暗的通道。
+- 獲得盟友。
+- 展示一件令人畏懼的武器。
+- 在世界上留下一道傷疤。
+
+毀滅會永遠終結某事物。在這個行動背後可能有上千種動機。也許某個化身想要消除愛情本身這種情感，因為它失去了某個特別的人；或者它想要對一個老對手復仇。有些更具野心的化身渴望達成幾乎不可能的事，例如終結一個神，或者它們可能希望某事物從存在中被抹去，讓任何人都不再記得。
+
+#### 蝕類別：昇華
+
+啟動昇華蝕的化身期望獲得超越自身現有力量的更高力量。其背後的目標可以是甚至超越黑暗本身，也可以是解放被王國或過去所困住的事物。不過，有些化身啟動這種蝕僅僅是因為它們在尋找獲得新力量或恢復過去失去的力量的方法。
+
+**皇冠：**
+
+- **復原**（恢復失去的事物）。
+- **解放**（解放某事物或某人）。
+- **封神**（獲得更高級的恩賜或力量）。
+
+**典型反應：**
+
+- 背叛。
+- 出現一種新力量。
+- 揭示一條關於過去的線索。
+- 摧毀一個封印。
+- 傾盡全力出擊。
+- 提出一個交易。
+- 犧牲某件重要的事物。
+
+昇華代表了化身追求更多力量的野心。也許是因為它需要喚醒或解放某個古老而被遺忘的事物。其他化身渴望透過晉升來獲得恩賜，或恢復在遠古戰鬥中失去的、它們需要用來重新佔據在黑暗中地位的力量。
+
+:::tip[範例]
+在思考過並回顧了所有筆記、考慮了末影之後，是時候策劃一個蝕了。Mónica 認為血之公主心中有一個復仇之蝕的計畫。她設定當血之公主成為化身時，失去了感受一切的能力。在數世紀前被一群魔法少女消滅後，她意識到自己渴望找回因成為化身而被剝奪的失落情感。看著皇冠列表，她注意到「索賠」完全符合她所追求的。
+
+最終，她翻閱筆記，確定新的蝕屬於復仇類別，皇冠類型為索賠。
+:::
+
+### 執行危險反應
+
+主持人（MC）必須指定和定義與每個蝕相關的反應。例如，如果你決定釋放昇華（解放）的一部分力量，那麼從那一刻起，化身的僕從可能以某種方式召喚其力量。你可以自行設計這些反應，使它們在滿足條件時與基礎反應一起使用。這些新的反應必須遵循你的原則，因此在運用它們時，你必須在虛構敘事中以某種方式為其出現提供合理解釋。如果你對於如何及何時使用動作有疑問，請參閱「主持人（MC）」章節以獲得更多關於反應的資訊。
+
+:::tip[範例]
+團隊正在對抗血之公主的追隨者。她的信徒們遵循著領袖的邪惡命令。Mónica 決定將公主的計畫設定為復仇之蝕，皇冠為索賠。這個決定使得當少女們面對公主的僕從時，她可以使用復仇的反應作為選項。以下是一些使用範例：
+
+**展示一個弱點。** 例如：「Akari，當妳看到暗焰魔女時，妳感到一絲嫉妒。妳想起了自己放棄進入菁英學校機會的那一刻。」
+
+**改變一個觀點。** 例如：「在將 Yimi 從黑暗的影響中解救出來之後，她睜開了眼睛。她身上有什麼改變了，妳看到她從外套上撕下了太空署的臂章。當被問到發生了什麼事時，她說她已經不再有那個夢想了，事實上她現在厭惡有朝一日去太空的想法。」
+
+**揭露一個過去的罪過。** 例如：「Kiyomi 在翻開一段塵封的記憶時得到了一個啟示。在過去，她曾深深傷害過一個人，而那個人如今正是翡翠武士——一個她在父母度過夏天的村莊裡的舊友。」
+:::
+
+### 本影
+
+一旦你有了一個運作中的蝕，你可能需要創建本影。本影是幫助推進蝕或解決玩家角色面臨的重大問題的小型計畫。根據本影被完成或被阻止的情況，它們可以影響蝕的進程，延遲、推進或消除其進展。
+
+每個本影都有一個非常具體的短期目標。這些威脅會在戰役過程中被創建和完結。有時候，某些本影足夠複雜，其內部會包含一個或多個半影，代表本影的不同階段。與蝕和其皇冠的關係類似，本影有一個衝動，代表驅動其走向結局的最基本元素。
+
+所有本影都與一個蝕相連。即使那些乍看之下似乎獨立的本影，也必須有某個元素將其連結——無論是作為其他本影推進的後果，還是蝕本身的後果。這種連結的原因在於讓玩家們意識到放任黑暗前進的危險。即使是最獨立的本影，例如由阿特洛波斯之禍所創造的本影，也無法逃脫與黑暗意圖的某種聯繫。
+
+身為主持人（MC），尤其如果你是其他桌上角色扮演遊戲的老手，可能會覺得創建這些蝕和本影的過程非常侷限或機械化。這種印象不應該誤導你——本質上你只是在創建輔助工具，幫助你管理引導故事所需的所有概念。這樣，當你需要決定如何回應玩家的決定時，你就有了工具可以使用。
+
+一旦你設計好本影，你會發現它不過是一種讓玩家持續關注故事的方式，藉此創造興趣和進展，直到他們成功阻止黑暗。
+
+當你創建本影時，請注意以下事項：
+
+- 勾勒它與蝕的連結。
+- 選擇一個衝動。
+- 如有必要，創建半影。
+
+#### 選擇衝動
+
+每個本影都有一個衝動，代表驅動其前進的最基本概念。從以下選項中選擇衝動：
+
+- **獲取**（獲得某種資源）。
+- **消滅**（摧毀某事物或某人）。
+- **儀式**（完成特定的步驟）。
+- **墮化**（使某人的心靈陷入黑暗）。
+- **削弱**（奪走玩家角色的某項資源）。
+
+這一步可能看起來類似於選擇蝕的類別。正如你所觀察到的，衝動代表非常寬泛的類別；請選擇最符合你對本影構想的那一個。
+
+一旦有了本影，你應該勾勒出化身和黑暗與之的關聯。也許化身厭倦了魔法少女干預他的計畫，決定派一個首領去把她家人中的某人變成人偶（墮化），或者讓她在一次重要考試中不及格以毀掉她的未來（削弱）。
+
+你可能不想將所有本影都指派給同一個蝕。如果你想為未來的化身種下種子（以防玩家角色擊敗現有的化身），或者你還不確定它究竟如何關聯，這種做法是可行的。不用為此擔心，你隨時可以回來建立連結。你也可能想加入一個獨立首領的支線劇情，或者作為玩家行動的後果，例如決裂或阿特洛波斯之禍。
+
+#### 創建新的本影和半影
+
+如果你觀察到某個本影需要更多衝動——無論是因為某些重要方面未被涵蓋，還是因為玩家角色的行動產生了新的劇情線——最好創建一個半影。半影的創建方式與本影相同，差別在於它不是連結到蝕，而是連結到一個本影。
+
+如果在某個時候你回顧了一個本影或半影，發現它已經變得過於複雜或已經擁有了自身的力量，值得基於它創建一個新的本影。
+
+隨著你不斷累積經驗，你會發現很容易就能察覺何時需要創建新的本影，以及何時它們應該是半影。藉由這個系統，你會發現組織和定位你的想法變得更加容易。
+
+如果你已經有了足夠多的本影，不要覺得被迫要加更多；你隨時可以回到這一步，在你覺得某些東西不太對或缺乏發展時再做調整。
+
+:::tip[範例]
+當到了創建本影的時候，Mónica 有想法生成多達三個。目前這些就足夠了，如果將來她認為有必要，還可以隨時回到這一步來創建更多。
+
+她計畫的三個本影如下：
+
+**復活她被永久封印了一百年的舊將軍。** 這是一個衝動為「獲取」的本影。
+
+**喚醒 Ignem Grimoris 的完整力量。** 這是一個衝動為「儀式」的本影。
+
+**利用 Kasumano 的物品來引出人們的黑暗面。** 這是一個衝動為「墮化」的本影。
+:::
+
+### 角色
+
+在決定了蝕和本影之後，你應該指出將參與其中的角色。不要落入只提及化身和首領的陷阱——也要想想那些構成玩家角色日常生活、且會被直接影響的普通人。這些角色之所以被關聯是因為他們會引發衝突，手中握有以某種方式推進或阻止計畫的能力。你不必在創建蝕的當下就放入所有角色，沒有什麼能阻止新角色隨著劇情發展而加入。
+
+所有屬於某個本影或蝕的角色都應該有一個名字和一系列幫助你管理他們的標籤。為角色貼上標籤對於記住他們在玩家角色面前的角色定位和行為方式非常有用。如有必要，你可以創建一些自訂動作或反應。也許其中某人是一位曾在過去與化身戰鬥過的老魔法少女？這些新的動作和反應會加入到玩家和主持人（MC）可以執行的動作中。
+
+### 黑暗倒數鐘
+
+隨著聚會的推進，蝕或本影有可能會前進。每一個向前的步驟都代表著朝向最終完成的某個目標已經達成。生成黑暗倒數鐘為你提供了一個視覺化的方式來記住蝕、本影和半影的進展程度。
+
+倒數鐘的進展反映的是如果玩家角色不理會也不試圖阻止時會發生什麼，而如果她們成功介入就會改變，如果問題被解決就會消失。對玩家來說，它們也是發現優先順序的輔助工具；如果在某個時刻她們疏忽了，就會看到黑暗成長直到全蝕的結果。
+
+每當你設計一個新的倒數鐘時，你應該將它分為二到六個部分，取決於完成所需的步驟數量，也就是玩家未能阻止它所需的步數。最後，作為最後一步，標明它達到終點時的後果。每一步代表化身在玩家角色不介入的情況下達到該步驟的理想方式。
+
+在填寫倒數鐘時，問自己以下問題：可能會發生什麼？有什麼利害關係？化身的蝕可能會推進到哪一步？以下是一個六段式倒數鐘可能如何推進的簡要建議：
+
+**蝕的開端（0%）：** 蝕開始發展，甚至玩家角色可能還未意識到它的存在。
+
+**上弦（25%）：** 最初的影響開始隱約可見，也許她們還不知道其後果或最終目標。
+
+**半暗（50%）：** 影響已經清楚可見，仍然可以在沒有後果的情況下被阻止，但需要付出代價的可能性越來越高。
+
+**終弦（75%）：** 情況開始越來越糟，即使在此刻成功阻止，玩家角色也無法逆轉某些影響。
+
+**日環（90%）：** 先前的變化已成為永久，情況持續惡化。無法逆轉，但仍可以避免黑暗取得勝利。
+
+**全蝕（100%）：** 一切都糟糕透頂，黑暗已經獲勝。
+
+你大概已經注意到，倒數鐘的運作方式類似於真實的日蝕。一開始月亮只遮住太陽邊緣的一小部分，但隨著時間推移，光線減弱，夜幕籠罩一切。一旦到達全蝕，就沒有回頭路了——黑暗以某種形式贏得了那場戰鬥。
+
+:::tip[倒數鐘範例]
+Mónica 必須為她設計的本影——關於恢復 Ignem Grimoris 力量——生成一個倒數鐘。她決定使用一個六段式倒數鐘，並按以下方式填寫。
+
+**喚醒 Ignem Grimoris 的力量：**
+
+- **蝕的開端（0%）：** 血之公主派遣暗焰魔女去取回 Ignem Grimoris。
+- **上弦（25%）：** Ignem Grimoris 在日南市的一座神廟中被取回。
+- **半暗（50%）：** 必須從與其中一位魔法少女有羈絆的五個人的心中抽取情感。
+- **終弦（75%）：** 在將情感注滿書中後，必須在新月之夜整晚用神木燃起的火焰焚燒此書。書將開始甦醒其力量，古老的咒語將可以被閱讀。
+- **日環（90%）：** 一旦注滿，此書必須沐浴在每一位魔法少女的一滴淚水中，以恢復全部魔力。
+- **全蝕（100%）：** 全部力量復原後，Ignem Grimoris 的終極咒語被施放。
+:::
+
+請記住，這些進展是倒數鐘的理想行為。它們不應被視為不可變動或可預測的——它只是在玩家角色什麼都不做時會發生什麼的指南。隨著故事演進，執行動作和反應將允許推進或消除不同的倒數鐘，甚至可能創建新的。記得經常檢查你的倒數鐘並保持更新，以掌握世界和劇情的狀態。
+
+如果在回顧不同的倒數鐘時，你發現由於玩家角色的行動，某些已經不再合理，就修正它們以反映故事的狀態。如果其中某個的最終計畫已經不可實現，就將其刪除。
+
+### 自訂動作
+
+有時你可能會認為某些蝕（或本影）需要一些自訂動作。這些動作能夠反映特定蝕的非常具體的元素。
+
+以下是構建新動作的一系列建議。最常見的公式是：
+
+**觸發條件：**「當 X 發生時……」
+
+**結果：**「……Y 將會發生。」有時這涉及一次擲骰，有時只是一個結果。
+
+記住，如果動作需要擲骰，10 或以上意味著事情對玩家角色來說順利進行。7 到 9 的結果帶有某種代價或複雜情況，6 或以下則觸發主持人（MC）的反應——這可能在動作本身中就有標明。
+
+:::tip[含擲骰的動作範例]
+**當你在血之公主的鏡之迷宮中時**，進行一次擲骰，加上與你試圖逃離時態度相應的屬性。
+
+- **10+：** 你找到了一個出口。
+- **7-9：** 你仍然迷路了。在遭遇一群公主的僕從和獲得一點黑暗點數之間做出選擇。
+:::
+
+:::tip[不含擲骰的動作範例]
+**當你攜帶無限光之杖懲戒黑暗時**，你獲得懲罰 +2。
+:::
+
+你甚至可以改變基礎動作和原型動作的結構：
+
+**火之大師：** 當你在暗焰魔女面前觸發一個與火或黑暗相關的動作時，10 或以上的結果不會產生光點。
+
+**至尊柔術師：** 當你對 Kasumano 社長懲戒黑暗且對方正在使用其恩賜「柔術」時，使用思慮來代替挑戰。
+
+若要更深入了解如何為 Mahō Shōjo（以及任何使用 PbtA 系統的遊戲）撰寫自訂動作，請參閱 Dungeon World 的指南。
+
+## 蝕的範例
+
+以下描述了三個使用本章所有規則開發的蝕範例。前兩個蝕設定在日本主島南部太平洋沿岸的虛構城市日南。第三個代表東京北部的一個小社區以及名為星辰王國的魔法領域。
+
+第一個範例「血之公主的回歸」講述了一位造物主的再次復活。她每一百年都會試圖實施一個計畫——消滅人類感受情感的能力，作為對她自己失去這種能力的懲罰。
+
+第二個範例「Kasumano 企業」講述了一個逃脫者掌控了一家公司。他的目標是成為一種暗黑神祇，統治一個人們只像無腦傀儡般消費其產品的地球。
+
+第三個範例「星辰王國的最後光芒」講述了黑暗在吞噬魔法王國之後，試圖對地球做同樣的事。為了阻止這一切，流亡的女王尋找了能幫助她阻止此事並復興王國的女英雄們。
+
+### 血之公主的回歸
+
+**末影：** 毀滅人類感受情感的能力。
+
+**化身：** 血之公主。
+
+**首領：** Glob、暗焰魔女、翡翠武士和 Mauyin。
+
+**蝕：** 復仇。
+
+**皇冠：** 索賠。
+
+---
+
+**本影名稱：** 喚醒 Ignem Grimoris 的力量
+
+**衝動：** 儀式。
+
+**角色：** 暗焰魔女。
+
+**描述：** Ignem Grimoris 是一位對火元素擁有完全掌控力的古老化身的魔導書，而暗焰魔女正是其後裔。血之公主自從她的復活週期開始以來就一直試圖獲得它，但至今沒有任何成果。如果她能喚醒 Ignem Grimoris 的力量，她將獲得一個強大的黑暗咒語，但目前它被藏在海灘上的一座神廟中。
+
+**黑暗倒數鐘：**
+
+- **蝕的開端（0%）：** 血之公主派遣暗焰魔女去取回 Ignem Grimoris。
+- **上弦（25%）：** Ignem Grimoris 在日南市的一座神廟中被取回。
+- **半暗（50%）：** 必須從與其中一位魔法少女有羈絆的五個人的心中抽取情感。
+- **終弦（75%）：** 在將情感注滿書中後，必須在新月之夜整晚用神木燃起的火焰焚燒此書。書將開始甦醒其力量，古老的咒語將可以被閱讀。
+- **日環（90%）：** 一旦注滿，此書必須沐浴在每一位魔法少女的一滴淚水中，以恢復全部魔力。
+- **全蝕（100%）：** 全部力量復原後，Ignem Grimoris 的終極咒語被施放。
+
+**自訂動作：**
+
+**封印魔導書：** 當玩家角色抵達一座與水元素相關的聖域並嘗試將此書再封印一百年時：
+
+擲骰 + 奉獻
+
+- **10+：** 此書被再封印一個世紀。
+- **7-9：** 書中的能量創造出黑暗火焰元素來保護它。
+
+---
+
+**本影名稱：** 解放 Mauyin
+
+**衝動：** 獲取。
+
+**角色：** 翡翠武士和鎖鏈大師 Mauyin。
+
+**描述：** 鎖鏈大師被殺害，屍體被分割成碎片，因為無法將他完全驅逐。他是血之公主軍隊的將軍。現在她派出了一位首領去嘗試恢復他的服務，以把握這個新的機會。
+
+**黑暗倒數鐘：**
+
+- **蝕的開端（0%）：** 開始搜尋 Mauyin 回歸的線索。
+- **上弦（25%）：** 找到了一片他的木乃伊化血肉。
+- **半暗（50%）：** 找到並試圖摧毀封存他靈魂的封印。
+- **終弦（75%）：** Mauyin 以虛弱狀態歸來，無法恢復他的舊職位。
+- **日環（90%）：** 公主的僕從們奪取了 Mauyin 的魔法鎖鏈。
+- **全蝕（100%）：** 一旦武器被取回，Mauyin 便能使用他所有的力量和能力。
+
+---
+
+**本影名稱：** 仇恨錄影店
+
+**衝動：** 墮化。
+
+**角色：** 噁心的 Glob。
+
+**描述：** 為了開始腐化世界，血之公主成功引出了一個犯下可怕罪行的錄影店店員的內在黑暗。Glob 藉由 Kasumano 企業的產品，在影片中植入了一個咒語，消除美好的情感，只留下邪惡的部分。
+
+**黑暗倒數鐘：**
+
+- **蝕的開端（0%）：** Glob 開設了他的店鋪。
+- **上弦（25%）：** 第一批被影片腐化的案例開始出現。
+- **半暗（50%）：** 一位重要的公職人員犯下了一件震驚眾人的罪行。
+- **終弦（75%）：** 數間由 Glob 的次級版本經營的、販售腐化素材的錄影店在城市中出現。
+- **日環（90%）：** 數百名被腐化的人走上街頭。
+- **全蝕（100%）：** 幾乎沒有人還未看過影片且未被腐化。街道對任何人來說都不再安全。
+
+**自訂動作：**
+
+**臣服於新女王：** 如果一位至少擁有 1 級黑暗等級的魔法少女觀看了影片：
+
+擲骰 + 奉獻
+
+- **10+：** 打破了魔咒。該玩家角色在本場景剩餘時間內不會再受到影片影響。
+- **7-9：** 選擇一項：
+  - 該玩家角色獲得 1 點黑暗點數。
+  - 該玩家角色失去 1 點友情點數。
+
+### Kasumano 企業
+
+**末影：** 昇華為暗黑神祇。
+
+**化身：** Kasumano 社長。
+
+**首領：** 教練和黑衣人。
+
+**蝕：** 昇華。
+
+**皇冠：** 封神。
+
+---
+
+**本影名稱：** 消滅少女們
+
+**衝動：** 削弱。
+
+**角色：** 黑衣人。
+
+**描述：** 找出少女們生活中所有的弱點並摧毀它們。解僱她們的父母、買下她們的房子、取消她們的獎學金。只要她們的生活中存在弱點，黑衣人就會出現並施壓，直到將其擊碎。
+
+**黑暗倒數鐘：**
+
+- **蝕的開端（0%）：** Kasumano 社長搜尋日南市可能存在的魔法少女。
+- **上弦（25%）：** 企業的影響力開始在魔法少女生活的某些次要方面顯現。
+- **半暗（50%）：** 其中一位魔法少女的家人遭遇了意外困境。
+- **終弦（75%）：** 所有家庭都遇到了某種問題。
+- **日環（90%）：** 其中一個家庭遭受了無法挽回的悲劇。
+- **全蝕（100%）：** 所有魔法少女的生活都被毀掉了。
+
+---
+
+**本影名稱：** 光之心
+
+**衝動：** 消滅。
+
+**角色：** 教練。
+
+**描述：** 在日南有一個被稱為光之心的地方。這個地方蘊含著世界上光明的至高力量。如果有人能腐化它並將其能量引導向黑暗，就可以利用它獲得無限的力量。
+
+**黑暗倒數鐘：**
+
+- **蝕的開端（0%）：** Kasumano 在城市中搜尋光之心可能的位置。
+- **上弦（25%）：** Kasumano 成功定位了光之心的大致區域。
+- **半暗（50%）：** 開始建造將容納光之心力量的結構。
+- **終弦（75%）：** 結構建成後，開始將光之心的能量轉變為黑暗。
+- **全蝕（100%）：** 該場所已準備好供 Kasumano 企業獨享其力量。
+
+**自訂動作：**
+
+**受膏於偉大光明之力：** 當一位玩家角色發現光之心背後的真相並抵達該處時，她獲得：
+
+- 變身時擁有懲罰 3 而非懲罰 1。
+- 一個心之力（ ），佔據能力等級 0 基礎形態的一個欄位。
+
+### 星辰王國的最後光芒
+
+**末影：** 以黑暗吞噬地球，然後前往下一個目標。
+
+**化身：** 虛空之王。
+
+**首領：** 光明吞噬者和憂鬱騎士。
+
+**蝕：** 征服。
+
+**皇冠：** 橋樑。
+
+---
+
+**本影名稱：** 吞噬地球
+
+**衝動：** 儀式。
+
+**角色：** 光明吞噬者。
+
+**描述：** 虛空之王企圖吞噬宇宙的光明。在成功征服星辰王國後，他的下一個目標是地球。為了完成使命，他利用光明吞噬者——這些曾是被征服之地的守護者，如今已獲得了吸收一切讓光明閃耀之物的力量。
+
+**黑暗倒數鐘：**
+
+- **蝕的開端（0%）：** 第一批光明吞噬者進入地球。
+- **上弦（25%）：** 地球上一個光明的聖地被光明吞噬者所吞噬。
+- **半暗（50%）：** 一扇連結地球與星辰王國的傳送門開啟，讓黑暗滲入。
+- **終弦（75%）：** 隨著被吞噬的光明之地數量增加，人們陷入冷漠和憂鬱。
+- **日環（90%）：** 黑暗之城在地球上顯現，完成了兩個世界之間的橋樑。
+- **全蝕（100%）：** 地球被黑暗吞噬，虛空之王開始尋找下一個光明的避難所。
+
+**自訂動作：**
+
+**歸還的光明：** 每當一個光明吞噬者被擊敗，它所吞噬的一切都會恢復到它出現之前的狀態。
+
+---
+
+**本影名稱：** 星塵
+
+**衝動：** 削弱。
+
+**角色：** 光明吞噬者和憂鬱騎士。
+
+**描述：** 在星辰王國最後的脈搏中，虛空之王試圖阻止魔法少女們發現存在一種復原王國的方法。為此，他的光明吞噬者和憂鬱騎士打算消滅任何關於拯救之道的蹤跡。
+
+**黑暗倒數鐘：**
+
+- **蝕的開端（0%）：** 虛空之王開始守護星辰王國的關鍵據點。
+- **半暗（50%）：** 星辰王國的大部分被黑暗吞噬，變得無法進入。
+- **終弦（75%）：** 星辰王國除了宮殿外已完全被吞噬。
+- **全蝕（100%）：** 宮殿轉變為黑暗城堡的一部分。
+
+**自訂動作：**
+
+**往昔的記憶：** 每當一個光明吞噬者被擊敗，它會留下一片光之結晶碎片，代表星辰王國的一個區域。這片碎片可以用來恢復它所代表的地方。
+
+**星塵：** 如果憂鬱騎士被擊敗，他會恢復為星辰女王的皇家衛士，並賦予每位玩家角色一個額外的光之裝束形態。
+
+| 能力等級 | 星辰形態 |
+|---------|---------|
+| 1 | 昇華 +1 |
+| 2 | 心之力（ ） |
+| 3 | 懲罰 +1 |

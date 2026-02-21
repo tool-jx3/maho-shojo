@@ -1,1217 +1,752 @@
 ---
 title: 光與暗
-description: 苦惱、後果、力量計量表、心之力量、友情羈絆
+description: 痛苦、後果、能力量表、心之力、友情羈絆與戀愛關係的完整規則
 sidebar:
   order: 7
 ---
 
-Luz contra Oscuridad
-La oposición entre la Luz y la Oscuridad es la pieza fundamental en la lucha de 
-las magical girls, las cuales deben afrontar múltiples retos y peligros. A lo largo 
-de su historia podrán llegar a sufrir y pelear, pero también a construir amistades 
-y enamorarse. La llama de sus corazones alberga una poderosa Luz que las hace 
-especiales, pero también podrían llegar a aparecer semillas de Oscuridad, de las 
-que deben cuidarse.
-A lo largo de este capítulo podrás encontrar todas las reglas de Mahō Shōjo de las 
-que se hace mención en muchos Movimientos y Libretos: las Consecuencias, los 
-puntos de Oscuridad, los Puntos de Amistad, el Romance, los Temas o los poderes 
-de los Lux Habitu.
-Angustia
-A lo largo de su carrera como magical girls, vuestras protagonistas se encontrarán 
-ante peligros muy diversos, ya sea porque deban enfrentarse a un poderoso Avatar, 
-al castigo de sus padres o a los exámenes de acceso a secundaria. Cada vez que un 
-PJ se encuentre con estos peligros podrá recibir Angustia. Sería fácil confundir la 
-Angustia con «daño», sobre todo si estás acostumbrado a otros juegos de rol, pero, 
-hacerlo sería darle una visión incompleta a su significado. La Angustia es una me-
-dida abstracta que utiliza Mahō Shōjo y que representa una mezcla de daño físico, 
-mental y emocional.
-Una de las fuentes de Angustia más comunes suele darse cuando un PJ se enfren-
-ta a un servidor de la Oscuridad, desde Marionetas hasta Avatares. No obstante, 
-como hemos indicado, su origen puede estar en eventos más cotidianos, como sus-
-pender un examen, una riña de sus padres, llegar tarde a una cita, la noticia de que 
-su hermana ha tenido un accidente, una pesadilla, un castigo después de clase, un 
-recuerdo de la muerte de su madre… como consecuencia de una Reacción del MC. 
-Para más información, ve a «Maestro de Ceremonias» en la página 203.
-Durante una sesión, cuando un PJ reciba al menos 1 Punto de Angustia deberá marcar la 
-Consecuencia de Derrotada. Si no desea marcar la Consecuencia Derrotada, el jugador 
-deberá reducir la Angustia recibida a 0 mediante varias herramientas, como, por ejemplo, 
-usando Puntos de Amistad. En este capítulo hablaremos de las más habituales, pero tam-
-bién puedes acudir al cuadro «Formas de reducir la Angustia» (página 117).
-Ejemplo 1: Durante su combate contra la Samurái de Jade, Inoue recibe el impacto 
-de su katana.
-—Eso son 7 Puntos de Angustia, ¿tienes alguna forma de evitarlos o quedas 
-Derrotada? —pregunta Mónica, dirigiéndose a Cristina.
-114
-Maho Shojo
+## 光明對抗黑暗
 
-—Sí, voy a usar el Movimiento Indestructible del Libreto de Guerrera. Eso hace 
-que pueda gastar un punto de Ímpetu para evitar 8 Puntos de Angustia —le 
-dice la jugadora—. Así que cuando me golpea, si bien logra lanzarme lejos, me 
-levanto riéndome de ella y le hago un gesto con la mano.
-—Bien, ella te ve y dice: «Segundo asalto» —le responde.
-Ejemplo 2: Natsumi y su hermano han sido cazados por sus padres, al descubrir 
-que la muñeca de su madre está rota.
-—Trato de disculparme y comento que seguramente lleve así años. Mientras, 
-procuro mirar a mi hermano para que haga de cómplice —replica Vicky con su 
-personaje.
-Tras pensar un momento, Marion considera adecuado que utilice Palabras des-
-de el corazón. Vicky lanza los dados y saca un 5 en total.
-—Al mirar a tu hermano sabes que algo no va del todo bien. Tus padres se dirigen 
-a ti: «Togami confesó hace unos minutos, sabemos lo que pasó y que trataste de 
-arreglarlo para que no nos diéramos cuenta» —Marion prosigue—. Saber lo que 
-hizo tu hermano te provoca dos Puntos de Angustia, ¿cómo los evitas?
-—No quiero utilizar nada, por lo que marco Derrotada. Me iré a la cama a llorar 
-pensando en lo que ha ocurrido y por qué —responde la jugadora
-—Vale, al finalizar la escena debes realizar el Movimiento Perder la Luz. ¿Cómo 
-termina todo esto…?
-Ejemplo 3: El grupo está enfrentándose a la Hechicera de Llamas Oscuras cuando 
-esta lanza una enorme bola de fuego contra Akari. Kiyomi, tras gastar un punto que 
-tenía gracias a un Movimiento de Siempre a vuestro lado, desvía el daño hacia ella.
-—Bueno, me temo que las llamas te provocan 6 Puntos de Angustia.
-—Ok, voy a tratar de reducirlo. Si gasto un Punto de Amistad que absorbe 2 y me 
-marco la Consecuencia Cabreada son 4 más. Eso debería de ser suficiente, espero 
-que con esto Akari este a salvo —expone Esther, mientras actualiza su Libreto.
-Ejemplo 4: El día del festival escolar, Torome lo pasa en el puesto del club de man-
-ga. Se encuentra vendiendo un dōjinshi que ella misma ha dibujado, cuando se 
-acerca Okamura Anko.
-—Ves como Anko extiende su mano y empieza a mirar el dōjinshi con una mueca 
-de desprecio, casi como si le diera asco —describe Marion.
-—¿Hay algo que te moleste, Anko?—le pregunta la jugadora de Torome.
-—Demasiado vulgar, supongo que por eso no lo está comprando nadie. —Res-
-ponde Marion—. En ese momento parece que te das cuenta de que quizás sea 
-Anko la culpable de que no hayas vendido ningún ejemplar en todo el día. ¿Qué 
-haces?
-115
-•Corazón•
+光明與黑暗的對抗是魔法少女戰鬥中最根本的要素，她們必須面對各種挑戰與危險。在故事的歷程中，她們會經歷痛苦與戰鬥，但同時也能建立友誼、墜入愛河。她們心中的火焰蘊藏著強大的光明，使她們與眾不同，但黑暗的種子也可能悄然出現，她們必須加以防範。
 
-—No voy a hacer nada, voy a guardarme el orgullo porque sé que quiere sacar-
-me de mis casillas y yo soy mejor que eso, solo es cuestión de tiempo que alguien 
-lo compre.
-—Muy bien, eso parece que va ser Superar el peligro con Protectora —le indica, 
-mientras Rosalía, la jugadora de Torome, saca un 6 en total—. Si bien logras 
-superar la crítica eso no hace que te duela menos, 2 Puntos de Angustia.
-—Supongo que me ha cabreado, marco la Consecuencia Cabreada, que elimina 
-4 Puntos de Angustia, mucho más de lo que necesitaba, y me vuelvo a sentar. Sé 
-que algún día cambiará de opinión.
-Ejemplo 5: Durante su incursión en el edificio Kasumano, Yoriko está siendo des-
-bordada por Marionetas. Después de fallar un Movimiento a la hora de escapar, 
-Mónica usa una Reacción.
-—Muy bien, mientras escapas, cientos de las criaturas te acorralan, empiezan a 
-morderte y arañarte, lo que hace que tengas 5 Puntos de Angustia.
-—Bueno, afortunadamente tengo Armadura +2, así que solo me hacen 3 Pun-
-tos de Angustia. Como también tengo Resistente +1, hace que con un Punto de 
-Amistad reduzca 3 puntos en lugar de 2 por lo que, por ahora, me libro —dice 
-aliviada.
-—Como bien dices, por ahora. Sin embargo, no crees que puedas salir de aquí 
-con vida, así que, ¿qué haces?
-116
+在本章中，你將找到 Mahō Shōjo 中許多動作和扮演書所提及的所有規則：後果、黑暗點數、友情點數、戀愛、主題，以及光之裝束的力量。
 
-Formas de reducir la Angustia
-A continuación se indican algunas de las herramientas más habituales para 
-reducir la Angustia recibida que están disponibles para los personajes:
-Poderes de Lux Habitu
-	
-✤Los Poderes del Corazón Defensivos suelen mejorar o dar opciones para eli-
-minar la Angustia.
-	
-✤Los Poderes de Lux Habitu Resistencia y Armadura permiten formas de re-
-ducir la Angustia recibida.
-Movimientos
-	
-✤Muchos Libretos modifican o dan herramientas para evitar la Angustia reci-
-bida. Ejemplo: Indestructible del Libreto de Arquetipo Guerrera.
-Puntos de Amistad
-	
-✤Cada punto gastado permite reducir en 2 Puntos la Angustia recibida (puede 
-repetirse). 
-Consecuencias
-	
-✤Marcar una Consecuencia permite reducir en 4 Puntos la Angustia recibida 
-por Consecuencia marcada.
-Consecuencias
-Las Consecuencias representan estados de ánimo o físicos a los que puede llegar un 
-PJ como Consecuencia de recibir Angustia (ver página 114). En Mahō Shōjo existen 
-seis Consecuencias diferentes, que son: Destrozada, Deprimida, Atontada, Cabrea-
-da, Rechazada y Derrotada.
-Podrás saber más sobre la Consecuencia Derrotada, más adelante. Las otras cinco 
-se describen a continuación:
-	
-✽Destrozada - Combativa = Representa agotamiento o daño físico. Esto entor-
-pece a la magical girl a la hora de realizar acciones físicas de forma adecuada y 
-pierde las ganas de competir y de luchar.
-	
-✽Deprimida - Protectora = La magical girl se encuentra en un estado de melanco-
-lía, no se siente útil y desea estar sola sin contacto con los demás.
-	
-✽Atontada - Reflexiva = Representa el estrés mental de la magical girl y entorpece 
-su pensamiento, de forma que comete errores y no razona de forma adecuada.
-	
-✽Cabreada - Emocional = La magical girl no atiende a razones. Se siente enojada, 
-irascible y enfadada con todos y tiene estallidos emocionales con los que ataca 
-a los demás.
-	
-✽Rechazada - Entregada= La magical girl se siente abandonada o indigna de sus 
-poderes y empieza a dudar de ser merecedora de haber realizado el Pacto para 
-convertirse en una elegida de la Luz.
-117
-•Corazón•
+## 痛苦
 
-Cada vez que un PJ reciba Puntos de Angustia, puede decidir marcar una Con-
-secuencia para anular hasta 4 puntos. En el caso de algunos Libretos o poderes 
-del Lux Habitu, existen formas de aumentar el número de Puntos de Angustia 
-anulados.
-Mientras una Consecuencia esté marcada, resta 2 Puntos a la Característica asocia-
-da hasta que sea eliminada. Para poder eliminar una Consecuencia marcada, lo nor-
-mal es que se consiga como resultado del Movimiento Historias de la vida. Existen 
-otras maneras de desmarcar Consecuencias, como con algunos Movimientos de los 
-Libretos de Arquetipo o de Amistad.
-Cuando marques una Consecuencia debe existir una condición dentro de la Ficción 
-que lo justifique de algún modo. Es poco probable que suspender un examen deje 
-a un PJ Destrozada, pero ¿y si se debe al cansancio de haber estudiado toda la no-
-che? Recuerda comentar con el MC los motivos por los que el PJ es afectado de esta 
-forma cada vez que marques una Consecuencia.
-Ejemplo: Kiyomi ha marcado la Consecuencia de Cabreada durante un enfrenta-
-miento contra la Hechicera de Llamas Oscuras. A partir de ese momento restará -2 
-cuando haga tiradas usando la Característica de Emocional.
-Más tarde, al volver a casa, se enfrenta a sus padres, que están muy enfadados 
-porque ha llegado tarde. Buscando una excusa, trata de convencerles de que 
-no la castiguen.
-—Bueno, supongo que eso es un Movimiento de Palabras desde el corazón —
-argumenta Mónica.
-—Solo he sacado un 6, pero encima al restar -2 de estar Cabreada es un total de 
-4. Esto no es bueno, ¿verdad?
-—Eso creo. Tus padres te echan una larga charla mientras estás sentada en 
-una silla de la cocina. Cuando todo acaba algo se rompe en tu interior, recibes 
-3 puntos de Angustia.
-—Ok, voy a marcar Destrozada —le dice la jugadora de Kiyomi.
-—¿Destrozada? Espero que tengas un buen motivo para marcarte esa.
-—Nada más acabar, mientras subo las escaleras hacia mi cuarto, voy muy en-
-fadada, así que piso mal y me caigo por las escaleras —narra Esther, haciendo 
-unos gestos con las manos.
-—No voy a negar que como mínimo es original. Muy bien, continuemos —comen-
-ta Mónica, sorprendida.
-118
-Maho Shojo
+在魔法少女的生涯中，你們的主角將會面臨各式各樣的危險，無論是必須對抗一位強大的化身、承受父母的責罰，還是面對升學考試。每當一位玩家角色遭遇這些危險時，都可能受到痛苦。很容易會把痛苦與「傷害」混為一談，尤其是如果你習慣了其他角色扮演遊戲的話，但這樣理解會使其意義不完整。痛苦是 Mahō Shōjo 使用的一種抽象度量，代表著身體、精神和情感傷害的綜合體現。
 
-La Consecuencia Derrotada
-La Consecuencia Derrotada tiene efectos diferentes que las otras cinco Consecuencias 
-que hemos visto en el apartado anterior. Un PJ puede marcar esta Consecuencia en cual-
-quier momento que reciba Angustia, igual que con cualquier otra, pero al hacerlo anula 
-toda la Angustia recibida en lugar de reducir solo 4 puntos. Una vez marcada, y al con-
-trario que las demás, un PJ con la Consecuencia Derrotada no puede seguir actuando ni 
-desmarcarse en la escena, a menos que un Movimiento lo permita de forma específica.
-Una vez terminada la escena, el PJ desmarca automáticamente la Consecuencia y, a 
-continuación, se desencadena el Movimiento Perder la Luz y se aplican los resul-
-tados obtenidos (para saber más sobre este Movimiento, consulta «Los Movimien-
-tos» en la página 105).
-Una vez resuelto el Movimiento el PJ volverá a estar listo, aunque conservará el 
-resto de Consecuencias que tuviera marcadas.
-Ejemplo 1: Tras ser empujada desde lo alto de un rascacielos por un enemigo des-
-conocido, Yoriko recibe un total de 8 Puntos de Angustia. No está transformada y 
-la jugadora no quiere perder Puntos de Amistad. Además, ya tiene marcadas varias 
-Consecuencias, así que decide marcar Derrotada para anular toda la Angustia. 
-Ahora solo le queda confiar en que el resto de sus compañeras puedan enfrentarse 
-solas a la amenaza.
-Ejemplo 2: El grupo se enfrenta a la famosa Princesa de Sangre. Durante la cruen-
-ta lucha todas ellas están ya Derrotadas, por lo que temen lo que pueda pasar a 
-partir de ahí.
-—Un momento —interrumpe Esther—. Antes de que todo esté perdido le digo «No 
-puedes vencer. No mientras tengamos aún Luz en nuestro corazón».
-—Supongo que quieres usar El bien siempre triunfa, uno de los Movimientos de 
-la Campeona, ¿cierto?—trata de confirmar Mónica.
-—Así es, tiro con Emocional. —Los dados ruedan—. Bien, esto es un 8. Todas des-
-marcamos la Consecuencia Derrotada y una Consecuencia adicional.
-Medidor de Poder
-En algún momento de sus aventuras como magical girls los PJ se verán enfrentados 
-a los siervos de la Oscuridad. Según avancen en su enfrentamiento, el Medidor de 
-Poder subirá o bajará a medida que se vayan desencadenando Movimientos en la 
-escena.
-119
-•Corazón•
+最常見的痛苦來源之一，通常是玩家角色面對黑暗使徒時——從傀儡到化身皆是。然而如前所述，痛苦的根源也可能來自更日常的事件，例如考試不及格、父母爭吵、約會遲到、得知姐姐出了意外、一場噩夢、課後被罰留校、對母親去世的記憶……這些都可能作為主持人（MC）反應的後果而發生。更多資訊請參閱「主持人（MC）」章節。
 
-La primera vez que se transforma una magical girl, el medidor comienza en un 
-nivel igual a los Puntos de Luz que tenga en el momento de desencadenar el Movi-
-miento Transformación, y puede subir hasta un máximo de 5 para representar las 
-capacidades de su Lux Habitu (ver página 130). Gracias a estas capacidades irán 
-volviéndose más fuertes, rápidas y resistentes, además de poder liberar los Poderes 
-del Corazón que guardan en su interior.
-El Medidor de Poder es el mismo para cualquiera de las formas que haya adoptado 
-una magical girl. Si bien en un principio todas las magical girls solo disponen de 
-su forma Básica, algunos Libretos y Avances permiten acceder a formas de poder 
-diferentes, como pueden ser la Súper o la Triunfante, a medida que fortalecen su 
-Lux Habitu. Para saber más sobre los Avances consulta «Avance y Experiencia» en 
-la página 144.
-Cómo subir el Medidor de Poder 
-y los Puntos de Luz
-Un PJ genera un Punto de Luz cada vez que aplica el resultado de 10 o más en 
-cualquier Movimiento mientras vista su Lux Habitu. Algunos Movimientos pueden 
-modificar cómo se obtienen los Puntos de Luz, tanto los propios como los de otros 
-PJ, como, por ejemplo, el Discurso de entrada de la Campeona. Cada jugador debe 
-tener su propia reserva de Puntos de Luz diferenciada del resto de jugadores, ya 
-que se calcula de forma independiente.
-Cada vez que un PJ obtiene un nuevo Punto de Luz, primero deberá comprobar 
-si tiene algún Punto de Tinieblas; si es así no lo gana, pero a cambio elimina un 
-Punto de Tinieblas. Si no tiene Puntos de Tinieblas lo mantiene y se comprueba el 
-Medidor de Poder. Si los Puntos de Luz son superiores a su puntuación actual del 
-Medidor de Poder, sube el medidor hasta igualar los Puntos de Luz que tenga el 
-PJ en ese momento.
-Una vez ajustado el Medidor de Poder el jugador debe comprobar si tienen acceso 
-a nuevas capacidades según el Lux Habitu de su Libreto. A partir de ese momento 
-tendrá acceso a todos los poderes que se indiquen hasta su nivel del medidor. Por 
-ejemplo, si un PJ tiene acceso a la forma Súper y tiene el Medidor de Poder a 3, 
-obtiene los beneficios de los tres primeros niveles que están debajo de la forma 
-Básico y Súper.
-El MC debe tener en cuenta que el Medidor de Poder nunca baja durante la escena, 
-incluso aunque el PJ pierda Puntos de Luz, a menos que algún Movimiento indique 
-lo contrario. Una vez haya terminado la escena o el PJ deje de vestir su Lux Habitu, 
-el Medidor de Poder baja automáticamente su Nivel a 0 y elimina 1 Punto de Luz si 
-tiene al menos 1.
-120
-Maho Shojo
+在一場聚會中，當玩家角色受到至少 1 點痛苦時，必須標記落敗後果。如果不想標記落敗後果，玩家必須透過各種手段將受到的痛苦減少到 0，例如使用友情點數。本章將介紹最常用的方式，你也可以參考「減少痛苦的方法」一覽。
 
-¿Qué representa el Medidor de Poder?
-El Medidor de Poder trata de dar a los combates de Mahō Shōjo el ritmo y los 
-elementos propios de la narrativa del manga y el anime. Si observáis cualquier 
-episodio de una serie de mahō shōjo, es poco habitual que los participantes 
-realicen rápidamente sus trucos más espectaculares, ya que es más interesan-
-te si demuestran poseerlos al final.
-Es por este motivo por el que existe la limitación artificial del Medidor de Po-
-der. Piensa en todas las series del género y podrás ver que Sailor Venus parece 
-estar limitada a usar solo una vez por episodio su Love Me Chain o el Wink 
-Chain Sword (que serían Poderes del Corazón A), mientras que por otro lado, 
-Nanoha parece que, a pesar de poder terminar las batallas rápidamente, solo 
-se decide a usar el Starlight Breaker (que sería un Finalem) cuando el enemigo 
-ya está a punto de ser derrotado.
-¿Dónde está el Nivel de Poder 4?
-Seguramente te has fijado en que ningún Libreto dispone de poderes cuando 
-su Medidor de Poder ha llegado a 4. Esto no es un error y es una decisión pu-
-ramente de diseño de juego. Durante las sesiones de prueba se comprobó que, 
-una vez que se llega a Medidor de Poder 4, se está demasiado cerca de poder 
-ejecutar el Finalem. Tras muchos comentarios se observó que esta situación 
-impedía disfrutar de las ventajas que proporcionaba. Este comportamiento 
-terminó por provocar la decisión de potenciar los niveles 1 a 3 en lugar de 
-diseñar una serie de ventajas para algo cuyo impacto en el juego era mínimo.
-Puntos de Tinieblas
-A lo largo de un enfrentamiento contra los servidores de la Oscuridad es posible 
-que se generen Puntos de Tinieblas como consecuencia de las Reacciones del MC, 
-Dones oscuros o algunos Movimientos.
-Cada vez que un PJ obtiene un Punto de Tinieblas debe comprobar si tiene algún 
-Punto de Luz. Si es así, elimina el Punto de Luz y retira el Punto de Tinieblas. Si no 
-tiene ningún Punto de Luz debe anotar un Punto de Tinieblas.
-Los Puntos de Tinieblas representan los intentos de la Oscuridad por reducir o 
-contener los poderes de la Luz de las magical girls, lo que las impide desatar 
-algunas de sus herramientas más poderosas contra sus enemigos. Sin embargo, 
-los PJ que tengan el Libreto de Pacto, Marionetas de los Custodios pueden llegar 
-a utilizar en su favor las mismas herramientas de la Oscuridad (ver «El Pacto» en 
-la página 185).
-En ningún momento un PJ puede tener más de 5 Puntos de Tinieblas acumulados. Al final 
-de la escena, o cuando el PJ deja de vestir su Lux Habitu, elimina un Punto de Tinieblas.
-121
-•Corazón•
+:::note[範例 1]
+在與翡翠武士的戰鬥中，Inoue 被她的太刀擊中。
 
-Ejemplo 1: Cuando termina de transformarse ante Glob el Asqueroso, la jugadora 
-de Kiyomi le señala con el dedo y empieza a recitar un monólogo.
-—Criatura del mal nacida de la Oscuridad, tú que corrompes nuestra ciudad con 
-tus vídeos. Yo soy la elegida de la Celestial Sword, escucha mi nombre y teme 
-la Luz de mi corazón. Con el poder del viento yo te derrotaré —expone Esther.
-—Genial, estás usando el Movimiento Discurso de entrada por lo que veo, ga-
-nas un Punto de Luz.
-—Muy bien, como ahora tengo un Punto de Luz y mi Medidor de Poder es 0, lo 
-subo hasta igualarlo. Como solo tengo la forma Básica tengo acceso a mi Poder 
-del Corazón A.
-Ejemplo 2: En su enfrentamiento contra la Princesa de Sangre, Inoue está tratando 
-de esquivar unas garras que acaban de salir del suelo para intentar apresarla.
-—¡Salto muy alto para evitar que me agarren! —exclama Cristina.
-—Muy bien, eso es Superar el peligro, por la descripción creo que estas usando 
-Combativa.
-—11+2 es 13, lo consigo y además eso es un Punto de Luz. —Mónica asiente—. 
-Ahora ya llevo 3 así que como tengo acceso a mi forma Triunfante tengo todos 
-los poderes de Guerrera hasta Nivel de Poder 3, ¿me equivoco?
-—No, es así. Eso hace que tengas: Azote +1, Castigo +4, Armadura +1, Re-
-sistente +1 y tus tres Poderes del Corazón. Sin duda, eso te ayudara contra 
-este Avatar. Lo necesitabas —le responde Mónica.
-Ejemplo 3: Akari y las demás están pasando un apuro en su enfrentamiento contra 
-la Hechicera de Llamas Oscuras. Justo en un contraataque de una de sus compañe-
-ras descubren horrorizadas que acaba de impactar contra un clon de llamas que ha 
-creado como señuelo. Antes de poder descubrir dónde se encuentra, aparece por 
-sorpresa en la espalda de Akari.
-—Bien. Ves cómo la Hechicera pone las manos en tu espalda y grita «¡Prisión del 
-Corazón!». Apúntate 1 Punto de Tinieblas.
-—Vale, no tengo Puntos de Luz así que me lo quedo. ¿Puedo reaccionar?
-—Sí, claro. ¿Qué haces? —pregunta Mónica.
-—Giro sobre mis pies y salto hacia atrás alejándome de ella, mientras le descar-
-go la munición mágica de mi pistola.
-—Adelante, tira Castigar la Oscuridad con Combativa.
-—Je, saco más de 10 así que le voy a hacer Castigo/1 y gano un Punto de Luz. Es 
-una lástima, como tengo uno de Tinieblas solo puedo quitármelo.
-122
-Maho Shojo
+——那是 7 點痛苦，你有什麼方法避免嗎？還是直接落敗？——Mónica 向 Cristina 問道。
 
-Ejemplo 4: Tras acabar derrotando a uno de los guardianes del edificio Kasumano, 
-Ruth le indica a Mónica que es momento de coger el ascensor hasta la azotea. La 
-MC le informa de que eso hace que termine la escena.
-—Entonces mi Medidor de Poder pasa a ser 0 y bajo de 4 a 3 Puntos de Luz. No 
-creo que eso sea mucho problema, si hay alguna otra criatura podré disponer 
-de casi todas mis capacidades.
-Resumen de los Puntos de Luz, Puntos de Tinieblas y Nivel de Poder
-A continuación tienes un resumen de cómo se gestionan los Puntos de Luz y 
-Tinieblas, así como el Medidor de Poder.
-Puntos de Luz
-	
-✤Se obtiene un Punto cada vez que un PJ que tenga puesto su Lux Habitu 
-obtenga el resultado de 10 o más en un Movimiento.
-	
-✤Se obtiene un Punto de Luz cada vez que se realiza un Movimiento que indi-
-ca que genera un Punto de Luz.
-	
-✤Cuando se obtiene un Punto de Luz, comprueba si tienes Puntos de Tinie-
-blas. Si es así, eliminas un Punto de Tinieblas y no obtienes el Punto de Luz. 
-Si no tienes Puntos de Tinieblas, suma los Puntos de Luz a los que ya tengas.
-	
-✤Una vez termine la escena o un PJ deje de vestir el Lux Habitu, resta un 
-Punto de Luz.
-Puntos de Tinieblas
-	
-✤Se obtiene un Punto de Tinieblas cada vez que se desencadena un Movimien-
-to que indica que genera un Punto de Tinieblas.
-	
-✤Algunas Reacciones o Dones pueden hacer que un PJ obtenga Puntos de 
-Tinieblas.
-	
-✤Cuando se obtiene un Punto de Tinieblas, elimina un Punto de Luz que ten-
-gas. Si es así eliminas un Punto de Luz y no obtienes el Punto de Tinieblas. 
-Si no tienes Puntos de Luz suma los Puntos de Tinieblas a los que ya tengas.
-	
-✤Una vez termine la escena o un PJ deje de vestir el Lux Habitu, resta un Pun-
-to de Tinieblas.
-	
-✤En ningún momento un PJ puede tener más de 5 Puntos de Tinieblas acumulados.
-Medidor de Poder
-	
-✤Cuando se desencadena el Movimiento Transformación, el Medidor de Po-
-der es igual a tus Puntos de Luz actuales.
-	
-✤Cada vez que obtengas un Punto de Luz o de Tinieblas, si tienes algún Mo-
-vimientos que lo indique, comprueba el Medidor de Poder. Si este es menor 
-que tus Puntos de Luz actuales, sube el Medidor de Poder hasta igualar tus 
-Puntos de Luz.
-	
-✤Una vez termine la escena o un PJ deje de vestir el Lux Habitu, el Medidor 
-de Poder baja a 0.
-123
-•Corazón•
+——有的，我要使用鬥士扮演書中的「堅不可摧」動作。這讓我可以花費一點活力來避免 8 點痛苦——玩家回答——所以當她擊中我時，雖然她成功把我甩飛了，但我笑著站起來，對她做了個手勢。
 
-Transformación
-Cuando la mayoría de los aficionados al género de las mahō shōjo piensan en él, 
-suelen venirles a la mente los característicos vestidos que portan después de una 
-transformación y por los que son reconocibles las magical girls. Si bien es cierto que 
-este concepto puede no estar presente ni es imprescindible para las series del géne-
-ro (como hablamos en «Introducción» en la página 6), en Mahō Shōjo suponemos 
-que los personajes sí que los utilizarán. Este vestido o armadura (o combinación de 
-los dos), lo llamaremos «Lux Habitu» siempre que nos refiramos a él, aunque en 
-cada ambientación puede recibir un nombre diferente. Una vez enfundadas dentro 
-de su Lux Habitu, la manifestación física de la Luz que habita dentro de una magical 
-girl, este le permitirá utilizar sus poderes y capacidades mágicas para enfrentarse a 
-los peligros que suponen los servidores de la Oscuridad.
-Para que un PJ pueda vestir su Lux Habitu debe desencadenar el Movimiento 
-Transformación, el cual le concede los poderes indicados en el Medidor de Poder 
-de su Libreto de Arquetipo, así como libre acceso a su Tema (ver más adelante).
-A efectos de juego suponemos que un PJ solo tiene acceso a sus poderes cuando 
-viste su Lux Habitu. Sin embargo, depende de los jugadores y el MC decidir sobre 
-esto. Puede ocurrir que los Temas no sean algo que puedan ser usados sin estar 
-transformadas o que en vuestra ambientación el Lux Habitu no exista. Sin embargo, 
-a lo largo del manual no tendremos en cuenta dichas excepciones.
-Talismán de la transformación
-Para poder liberar sus poderes y vestir el Lux Habitu, las magical girls crean un 
-Talismán mediante el proceso conocido como Pacto. Este acto crea, o bien impregna 
-de poder, un objeto propiedad de la futura elegida de la Luz. Una vez en su pose-
-sión, puede utilizarlo para liberar la Luz que guarda en su corazón y obtener las 
-capacidades necesarias para enfrentarse a los servidores de la Oscuridad.
-Para poder activar el Talismán, la magical girl debe realizar una serie de palabras y 
-gestos mágicos. A continuación, la energía contenida en su interior manifestará un 
-Lux Habitu, que le da acceso a poderes y habilidades con las que superar cualquier 
-reto. Por algún motivo inexplicable, los siervos de la Oscuridad parecen bastante pa-
-cientes y pacíficos una vez que la magical girl ha comenzado a activar su Talismán.
-Tema
-El Tema es como llamamos en Mahō Shōjo a la forma en la que se manifiestan y dan 
-forma a sus habilidades los poderes de la Luz de una magical girl.
-En el juego, durante la creación de un PJ (ver «Creación de personajes» en la página 
-37) se debe escoger un Tema a la hora de crear el Lux Habitu. El Tema es un con-
-cepto que irradia las capacidades de una magical girl. Por ejemplo, si el Tema del 
-124
-Maho Shojo
+——好的，她看著你說：「第二回合。」——Mónica 回應道。
+:::
 
-Lux Habitu es el hielo, quizás pueda volar con alas de hielo o moverse rápidamente 
-creando toboganes y caminos de hielo; al enfrentarse contra un enemigo podría 
-lanzar trozos de hielo o quizás crear un arco de este material; podría también invo-
-car criaturas o crear un muro. Es aconsejable que le dediques un tiempo y hables 
-con el MC a la hora de diseñar un Tema y escoger cómo se manifestará en los dife-
-rentes Movimientos y poderes dentro de la Ficción.
-Si te has percatado de que hay muchas maneras en la Ficción de desencadenar los 
-mismos resultados, estás en lo cierto. Por ejemplo, una magical girl con el Tema 
-Fuego podría perfectamente crear un muro de fuego que proteja a una compañera 
-mientras que una con el Tema Luz podría crear un escudo protector hecho de luz, 
-y, en ambos casos, lo más probable es que se desencadene el Movimiento Siempre 
-a vuestro lado. De esta misma forma, un Tema Cadenas podría intentar atar a una 
-criatura oscura, mientras que otra con el Tema Agua invoca pequeñas hadas de 
-agua para atacar, activando ambos el Movimiento Castigar la Oscuridad.
-Las diferencias principales en muchos casos radican en el modo de afrontar el 
-reto dentro de la Ficción. De esta manera, algunos pueden tener ventajas sobre 
-otros o ser más sencillos de aplicar. Por ejemplo, una magical girl con el Tema 
-Tormenta Eléctrica podría ser inmune a la electricidad. En otro caso, una con el 
-Tema Agua tendría ventajas sobre otra con el Tema Fuego al atacar a un servidor 
-de la Oscuridad de Fuego.
-Como MC deberías tener en cuenta los Temas y la forma en que los PJ los utilizan en 
-la Ficción, como factor adicional a la hora de comprobar si son capaces de cumplir 
-los desencadenantes de un Movimiento. Gracias a estas capacidades, las magical 
-girls podrán hacer frente a situaciones que les resultarían imposibles de otra ma-
-nera.
-El motivo por el que en Mahō Shōjo el concepto de Tema es tan amplio y subjetivo 
-es para poder dar la oportunidad de imitar y gestionar cualquier tipo de habilidad 
-de una magical girl, sin importar el Nivel de Poder o las capacidades que tengan 
-sus protagonistas. No obstante, es trabajo de los jugadores y del MC conocer el 
-alcance de los Temas dentro de vuestra ambientación, pues un personaje invencible 
-y superpoderoso no es divertido para nadie. Durante el diseño del personaje, y a lo 
-largo de sus aventuras, el MC y los jugadores deberían tratar de ponerle límite a los 
-Temas, sabiendo qué es posible y qué no gracias a ellos. La comunicación es impor-
-tante para saber cuál es la intencionalidad detrás de las descripciones del jugador, 
-ya que gracias a ella es posible saber si se desencadena o no un Movimiento. Sin 
-embargo, no es necesario que creéis una lista detallada de efectos y capacidades, 
-es normal descubrir nuevos usos. En varias series del género mahō shōjo según au-
-mentan sus poderes y capacidades pueden descubrir nuevas aplicaciones y trucos 
-conforme avanza la historia. Puedes encontrar algunos consejos y preguntas útiles 
-para vuestro grupo de juego en el cuadro de texto «Cómo interactúan los Temas 
-entre Ficción y reglas» de la página 126.
-125
-•Corazón•
+:::note[範例 2]
+Natsumi 和她的哥哥被父母發現了，因為媽媽的玩偶壞了。
 
-Cómo interactúan los Temas entre Ficción y reglas
-Seguramente durante el proceso de establecer qué puede hacer un PJ con el 
-Tema de su magical girl os hagáis algunas preguntas. A continuación dispones 
-de una ayuda para que puedas llegar a un consenso como MC con el resto de 
-jugadores. Esperamos que esta guía os ayude a alcanzar un punto común so-
-bre el alcance y posibilidades de los Temas en vuestra mesa de juego.
-¿Cómo sé si puedo hacer algo o no con mi Tema?
-Cuando, durante el transcurso de una partida, tengáis alguna duda sobre si 
-algo es posible o no con un Tema, es recomendable que os hagáis una serie de 
-preguntas, listadas a continuación.
-¿Lo he hecho antes? Por ejemplo, si has congelado un lago antes con el Tema 
-Hielo, deberías poder volver a hacerlo.
-¿Cómo se manifiesta lo que quiero hacer con mi Tema? Si quieres subir a lo 
-alto de un edificio y tu tema es la Luz, ¿cómo lo consigues? Quizás para volar 
-crees una plataforma de luz, unas alas o seas capaz de teletransportarte entre 
-dos fuentes de luz.
-¿Tiene sentido lo que quiero hacer con mi Tema? Sería difícil, por ejemplo, 
-justificar cómo apagar un incendio con el Tema Fuego. Sin embargo, podrías 
-pensar en una alternativa: ¿Es posible para la magical girl controlar o absorber 
-las llamas?
-¿Tiene alguna consecuencia o requisito previo? Es posible que para aplicar 
-el Tema y lograr el efecto deseado pueda existir algún tipo de requisito. Por 
-ejemplo, para poder utilizar tu Tema Agua podrías necesitar que exista una 
-fuente de agua cerca o un objeto específico como un bastón mágico.
-¿Tiene sentido con la historia que estamos contando? Quizás entre todos 
-habéis hablado que las magical girls no vuelan o que sus poderes tienen cier-
-tas limitaciones que impiden algunos alardes de poder.
-Recuerda que, como hemos explicado, en los Temas es fácil decir siempre que 
-a nadie le gusta que un protagonista sea todopoderoso. En muchas ocasiones 
-es más divertido y crea mejores historias el tener límites y debilidades. Hablad-
-lo entre todos y llegad a un consenso para conocer el alcance de los Temas a lo 
-largo de las historias que contáis.
-¿Puede usar mi magical girl su Tema sin estar transformada?
-Respuesta rápida: No.
-Respuesta larga: Quizás.
-126
-Maho Shojo
+——我試著道歉，說那大概已經壞了好幾年了。同時我試著看向我哥哥，讓他幫我圓謊——Vicky 用她的角色回應道。
 
-Como con muchas de las limitaciones y capacidades de las magical girls y sus 
-Temas, no existe una respuesta fácil. Por norma general un PJ solo debería 
-tener acceso a los poderes estando transformado y vistiendo su Lux Habitu, 
-pues esto es lo habitual en las series del género. Sin embargo, esto no es siem-
-pre cierto y existen algunos personajes que quizás tengan acceso completo a 
-sus poderes o a versiones reducidas de los mismos sin estar transformadas.
-Una vez más, depende de la historia que queráis contar el decidir hasta qué 
-punto la transformación es necesaria para el Tema.
-Pero, ¿qué tiro?
-Si vas a asumir el papel de MC seguramente tengas la duda de qué Movimiento 
-o efectos tienen los Temas en juego. Como hemos visto en este capítulo, en 
-realidad no tienen ninguno en concreto.
-Los Temas son una forma abstracta de representar dentro de la Ficción los pode-
-res asociados a una magical girl, una herramienta que les permite desencadenar 
-otros Movimientos y, por tanto, no existe uno específico que te permita usarlo. En 
-caso de que tengas algún tipo de duda y pienses que un uso concreto tiene incer-
-tidumbre suficiente como para requerir un Movimiento, deberías utilizar Superar 
-el peligro. El atributo que deberías utilizar, como indica la descripción, depende 
-de la actitud del PJ a la hora de desencadenarlo, siendo Entregada el atributo por 
-defecto, pues representa el uso y control de una magical girl sobre sus poderes.
-Ejemplo 1: La Hechicera de Llamas Oscuras empieza a huir, convirtiéndose en un 
-murciélago de llamas negras, y se dirige a la parte superior de un edificio. Las 
-magical girls quieren empezar a perseguirla para evitar que informe a su maestro. 
-Cada una de las jugadoras describe cómo se dirigen a la parte superior del edificio:
-—Usando el poder del viento, empiezo a volar detrás de ella —describe Esther, 
-usando el Tema Viento de Kiyomi.
-—Golpeo el suelo con mi martillo, creando una rampa de hielo, y corro por ella 
-—dice Cristina, utilizando el Tema Hielo de Inoue.
-—Usaré mi control sobre los metales: toco una tapa de alcantarilla, que me ca-
-tapulta hasta la parte superior del edificio —indica Vanesa, para sortear el pro-
-blema con Akari.
-—Yo ya indiqué en su momento que no puedo volar con mi control sobre el fue-
-go, así que trato de subirme a la espalda de Kiyomi para seguir a la Hechicera 
-—dice Ruth, describiendo la limitación de Yoriko.
-Tras escuchar las descripciones Mónica se prepara para empezar a describir 
-la persecución…
-127
-•Corazón•
+思考了一會兒後，Marion 認為使用發自內心的話語是合適的。Vicky 擲骰後總共得到 5。
 
-Ejemplo 2: Durante un enfrentamiento entre Akari, Yoriko e Inoue contra la Samu-
-rái de Jade, esta desenfunda su segunda espada, creando cierto nerviosismo entre 
-los PJ.
-—Bien, voy a irme a la retaguardia y me concentro en los objetos metálicos de 
-la zona. Quiero que, si en algún momento tengo que proteger o ayudar a mis 
-compañeras, pueda utilizarlos con mi control sobre ellos —indica Vanesa.
-—Está bien, supongo que lo que quieres es ayudar a tus compañeras. Utiliza 
-Siempre a vuestro lado —dice Mónica.
-Tras lanzar los dados obtiene un total de 7 en la tirada, por lo que consigue 1 
-punto para usar en los efectos del Movimiento.
-—Mientras te concentras, la Samurái de Jade carga contra Inoue blandiendo 
-sus dos katanas, ¿qué haces? —le dice Mónica a Cristina.
-—Trato de pararla con mi martillo mientras la esquivo —replica rápidamente 
-Cristina.
-A continuación, Mónica le indica que utilice Superar el peligro, pero Vanesa le 
-interrumpe antes.
-—Uso mi control para tratar de coger una cadena o algo en el suelo, para hacer 
-tropezar a la Samurái, ¿es posible?—Mónica asiente con la cabeza—. Pues en-
-tonces hago eso y gasto 1 punto para darle un +1 al Movimiento de Inoue.
-Ejemplo 3: Natsumi y Torome han llegado al Palacio de las Estrellas en el mundo 
-mágico, donde deben buscar pistas que ayuden a la reina a restaurarlo. Mónica ha 
-descrito que el lugar provoca una sensación melancólica y que parece haber perdi-
-do todo lo que una vez lo hizo maravilloso.
-—¿Podemos ver algo inusual aquí o que nos pueda ayudar? —pregunta Rosalía.
-—No, cuando miras cada rincón solo puedes estar triste por lo que pasó aquí, 
-como si no te dejara centrarte —le indica Mónica.
-—Está bien, voy a trazar un círculo delante de mí con las manos invocando la luz 
-de las estrellas para que ilumine de nuevo la habitación.
-Mónica piensa unos segundos y no ve problema en ello. Torome tiene como 
-Tema Luz de las estrellas y es adecuado; en otras ocasiones ha usado sus po-
-deres para cosas similares. También decide que, con ello, es capaz de romper 
-parte del embrujo del lugar, para desencadenar el Movimiento A la luz de la 
-verdad.
-Ejemplo 4: Inoue está cuidando a su hermana pequeña, la cual tras un accidente 
-ha quedado en silla de ruedas y apenas sonríe. Tras tratar de animarla de distintas 
-formas, la lleva a un pequeño lago en las montañas.
-128
-Maho Shojo
+——看向你哥哥時，你知道有什麼不對勁。你的父母對你說：「Togami 幾分鐘前就坦白了，我們知道發生了什麼事，也知道你試圖修好它不讓我們發現。」——Marion 繼續說——知道你哥哥做了什麼讓你承受兩點痛苦，你要怎麼化解？
 
-—¿Puedo congelar el lago? A mi herma-
-na le encanta patinar y aunque sea con 
-la silla de ruedas me gustaría darle una 
-sorpresa —pregunta Cristina.
-—Con tus poderes de hielo creo que sí, 
-no sería difícil, pero tendrías que trans-
-formarte y tu hermana no sabe que eres 
-una magical girl —le responde Mónica.
-—No creo que haya ningún problema, des-
-de el accidente no parece ser consciente de 
-nada de lo que ocurre a su alrededor.
-Después de esconderse y usar su Tema 
-Hielo para congelar el lago vuelve junto 
-a su hermana.
-—Ves como tu hermana levanta la cabe-
-za por primera vez, se gira hacia a ti y te 
-mira fijamente —le dice Mónica.
-—Está bien, voy a ponerme los pa-
-tines que había escondido en la 
-mochila. A continuación, arrastro la 
-silla de ruedas al lago empujándola 
-mientras patino junto a ella.
-—Por primera vez desde el accidente 
-la escuchas reír, utiliza el Movimien-
-to Historias de la vida.
-Ejemplo 5: En su incursión en el edificio Kasu-
-mano, Yoriko se ve sobrepasada por decenas 
-de Marionetas y corre hacia el ascensor.
-—Mientras corro quiero trazar un sello en 
-una pared y crear un muro de fuego, para 
-ganar tiempo y huir —describe Ruth.
-Después de hablarlo con Mónica llegan a 
-la conclusión de que es posible gracias a 
-su Tema Fuego. Sin embargo, la precisión 
-y concentración necesaria no son algo 
-sencillo de conseguir en este momento, 
-por lo que deberá de utilizar el Movimien-
-to Superar el peligro con Entregada.
-129
-•Corazón•
+——我不想用任何手段，所以我標記落敗。我會回房間哭泣，思考究竟發生了什麼、為什麼會這樣——玩家回答。
 
-Ejemplo 6: Durante un enfrentamiento contra uno de los Devoradores de Luz, Nat-
-sumi empieza a realizar la danza de las flores con objetivo de acumular el Poder 
-Sagrado.
-—Como estás tratando de acumular tus poderes, realiza el Movimiento Poder Sa-
-grado (un Movimiento del Arquetipo de Sanadora) —le indica Mónica. Tras sacar 
-un 7 en total, pasa a describir cómo el Tema Flores se manifiesta en la Ficción, como 
-han hablado anteriormente en la mesa—. Poco a poco las flores empiezan a crecer y 
-en tu abanico aparece el símbolo de una flor.
-Vicky a continuación obtiene un punto de Poder Sagrado.
-Ejemplo 7: Durante su enfrentamiento contra Glob el Asqueroso, este expul-
-sa un aire tóxico para librarse de las magical girls. Después de hablarlo entre 
-todas las jugadoras y la MC, determinan que el Tema Aire de Kiyomi la vuelve 
-inmune al concentrarse un poco, despejando la zona de su alrededor. Cuando 
-Esther le pregunta a Mónica si puede extender el efecto a sus compañeras, se 
-toma la decisión de que no. Si bien sería posible cuando aumente el poder de 
-Kiyomi en el futuro, determinan que no puede extender su Tema de esa manera 
-con su forma Básica.
-Poderes del Lux Habitu
-Cuando una magical girl viste su Lux Habitu es capaz de acceder al poder de la 
-Luz oculta en su corazón. Estas capacidades están indicadas en la sección de Lux 
-Habitu de su Libreto de Arquetipo. Sin embargo, no podrán utilizar sus capacidades 
-de forma inmediata, sino que a medida que aumente el Medidor de Poder se irán 
-activando para mejorar su capacidad de enfrentarse a la Oscuridad (ver «Medidor 
-de Poder» en la página 119).
-El Lux Habitu, además, puede tener distintas formas de poder, y todas las magical 
-girls tienen acceso a su forma Básica. A medida que obtengan nuevos Avances o ad-
-quieran algunos Movimientos podrán ganar acceso a nuevas formas como la Súper 
-o la Triunfante. Los poderes obtenidos con las formas y los niveles de poder son 
-acumulativos. Por ejemplo, si un PJ tiene dos poderes de Castigo +1 se considerará 
-como Castigo +2.
-A continuación dispones de un listado con todos los poderes del Lux Habitu y sus 
-efectos en el juego:
-Armadura
-La magical girl es capaz de generar una armadura, escudos o simplemente soporta 
-mejor los ataques de la Oscuridad. Cuando se sufren Puntos de Angustia elimina 
-tantos puntos como el valor que tenga en el poder Armadura.
-Por ejemplo: una PJ con Armadura +2 que recibe 6 Puntos de Angustia, solo sufrirá 4.
-130
-Maho Shojo
+——好的，場景結束時你必須執行失去光明動作。這一切最後會怎樣結束……？
+:::
 
-Ascensión
-Una magical girl con este poder trasciende sus capacidades humanas gracias al poder 
-oculto en su corazón. Gracias a este poder es capaz de realizar mejor aquello que ya se 
-le daba bien o de superar sus propios defectos. Cuando se tiene acceso a este poder, 
-escoge una Característica. A continuación, arrastra un +1 a todos los Movimientos que 
-la empleen. Recuerda anotar en el Medidor de Poder en qué momento se activa cada 
-Característica. Por ejemplo, la forma Básica de la Idol tiene Ascensión +1 en Nivel de Po-
-der 2 y 3. Durante la creación del Lux Habitu puedes decidir que cuando se llega a Nivel 
-de Poder 2 arrastra +1 en Combativa y en el Nivel de Poder 3 en Protectora.
-Cada vez que se adquiere una nueva mejora de Ascensión se puede decidir si se 
-aplica a la misma Característica, apilando las bonificaciones, o si se prefiere escoger 
-una Característica diferente.
-Azote
-La magical girl ha logrado la capacidad de eliminar fácilmente a los servidores de la 
-Oscuridad. Cuando ataca a Marionetas y logra como resultado «Derrota Marione-
-tas», elimina tantas Marionetas adicionales como el nivel de Azote. Por ejemplo: un 
-PJ con Azote +2 eliminaría a 3 Marionetas.
-Para saber más sobre los efectos de Azote, consulta el Movimiento de Castigar la 
-Oscuridad (página 87).
-Castigo
-Los ataques de la magical girl disponen de una mayor capacidad para derrotar a los 
-seguidores de la Oscuridad y a aquellos que han forjado pactos con ella. Un PJ que 
-obtenga esta mejora realizará tantos puntos de Castigo adicionales como el total de 
-la suma de mejoras de este poder que tenga activas.
-Para saber más sobre los efectos de Castigo, consulta el Movimiento de Castigar la 
-Oscuridad (página 87).
-Finalem
-El Finalem es la representación del mayor poder de una magical girl, capaz de de-
-rrotar a cualquier servidor de la Oscuridad. Para saber más sobre los Finalem dirí-
-gete a la sección «Poderes del Corazón y Finalem» más adelante.
-Poder del Corazón
-Un Poder del Corazón es una poderosa manifestación física de los poderes de una 
-magical girl. Estas capacidades están divididas en tres categorías: Ataque (A), De-
-fensa (D) y Apoyo (P). Cada vez que una magical girl accede a ellos gracias al Me-
-didor de Poder, puede utilizarlos con el Movimiento Poder del Corazón. Para saber 
-más sobre los Poderes del Corazón y sus efectos en juego, dirígete a la sección 
-«Poderes del Corazón y Finalem» más adelante.
-131
-•Corazón•
+:::note[範例 3]
+隊伍正在與暗焰女巫對戰，她向 Akari 發射了一顆巨大的火球。Kiyomi 花費了透過永遠在你身邊動作獲得的一個點數，將傷害轉移到自己身上。
 
-Resistente
-Para una magical girl es más fácil eliminar la Angustia sufrida durante las batallas 
-contra la Oscuridad. A efectos de juego, cuando se utilizan Consecuencias y Puntos 
-de Amistad para eliminar Angustia, se elimina una cantidad de puntos adicionales 
-igual a la puntuación de Resistente.
-Por ejemplo, un PJ con Resistente +2 que sufre una Consecuencia, eliminaría 6 Pun-
-tos de Angustia en lugar de 4. También podría gastar en su lugar un Punto de Amis-
-tad, para eliminar 4 Puntos de Angustia en lugar de 2, o 2 Puntos de Amistad, para 
-un total de 8 Puntos de Angustia.
-Resumen de poderes
-	
-✤Armadura. Elimina Puntos de Angustia recibidos por un PJ.
-	
-✤Ascensión. Mejora las tiradas de una Característica.
-	
-✤Azote. Acaba con Marionetas adicionales.
-	
-✤Castigo. Aumenta los puntos de Castigo que realiza un PJ.
-	
-✤Poder del Corazón. Permite ejecutar el Movimiento Poder del Corazón.
-	
-✤Finalem. El PJ tiene acceso a su Finalem.
-	
-✤Resistente. Aumenta los Puntos de Angustia eliminados al usar Puntos de 
-Amistad y Consecuencias.
-Ejemplo 1: Esther tiene actualmente 2 Puntos en el Medidor de Poder y tiene acceso 
-a su forma Básica. Tras comprobarlo, Kiyomi tiene acceso al poder Castigo +1 y 
-puede realizar un Poder del Corazón A, su icónico Celestial Burst.
-Ejemplo 2: Inoue ha logrado subir su Nivel de Poder a 1 tras un par de Movimien-
-tos. Cristina observa que tiene acceso a la forma Súper, así que ahora dispone del 
-poder Ice Smash, su Poder del Corazón A, y de Armadura +1.
-Ejemplo 3: El Nivel de Poder de Akari ha llegado a 3 durante su enfrentamiento 
-con la Hechicera de Llamas Oscuras. Con sus Avances ha terminado obteniendo su 
-forma Triunfante por lo que tiene acceso a Azote +2, Ascensión +2 (ha decidido que 
-ambos afectarán a su característica de Combativa), Castigo +1 y Resistente +1. Por 
-si eso no fuera suficiente, tiene acceso a sus tres Poderes Corazón: Monochrome 
-Shield, Dual Pistols y Enigmatic Eyes.
-Ejemplo 4: Una vez que ha comprobado sus Puntos de Luz con su Medidor de Po-
-der, Ruth descubre que este sube a 5. Yoriko solo tiene acceso a su forma Básica 
-por lo que cuenta con Ascensión +2 (que usa para sumar +1 a Protectora y +1 a En-
-tregada) y un Poder del Corazón P.
-También tiene acceso al Scarlet Star Breaker, su Finalem, por lo que el enfren-
-tamiento está cerca de acabar.
-132
-Maho Shojo
+——嗯，恐怕火焰對你造成 6 點痛苦。
 
-Poderes del Corazón y Finalem
-Entre todos los poderes que puede manifestar una magical girl usando la Luz de 
-su corazón para combatir la Oscuridad, ninguno es comparable a los Poderes del 
-Corazón. Estas poderosas manifestaciones son la representación de su corazón en 
-el mundo. Sin embargo, el esfuerzo que supone utilizar estas capacidades hace que 
-una magical girl solo pueda usarlos en contadas ocasiones. Estos talentos están 
-divididos en dos categorías: Los Poderes del Corazón y los Finalem.
-Los Poderes del Corazón son poderosos ataques especiales, capacidades defensivas 
-extraordinarias o bendiciones y ayudas increíbles para afrontar la Oscuridad.
-Los Finalem, por otro lado, son la manifestación de poder definitiva de una magical 
-girl. Una vez invocados pueden acabar incluso con el más poderoso de los Avatares 
-de un único golpe.
-A continuación se indica cómo se crean y sus efectos en el juego.
-Poder del Corazón
-Un Poder del Corazón es una habilidad que solo puede realizarse una vez por esce-
-na, si bien los PJ pueden tener hasta tres de estos poderes.
-Para que un PJ pueda manifestarlo, el primer paso es alcanzar el Nivel de Poder co-
-rrespondiente para desbloquearlo. Una vez completado este requisito, se debe realizar 
-el Movimiento Poder del Corazón (ver «Los Movimientos» en la página 104). Para 
-cumplir el desencadenante del Movimiento, cada Poder del Corazón tiene una serie de 
-condiciones en la Ficción acordadas por el jugador y el MC durante su creación. Por 
-ejemplo, blandir una espada, recitar un conjuro, realizar unos gestos… que al finalizar 
-deberán acompañarse de un grito con el nombre del poder para que tenga efecto.
-Una vez utilizado un Poder del Corazón, este queda marcado y no podrá volver a 
-utilizarse durante el resto de la escena, aunque sí que podrán usarse el resto de 
-Poderes del Corazón que no estén marcados y a los que el jugador tenga acceso.
-Los Poderes del Corazón se dividen en tres categorías: ataque (A), defensa (D) y apo-
-yo (P). En el caso de que un Poder del Corazón del Lux Habitu esté indicado como (), 
-significa que el jugador podrá escoger la categoría que quiera a la hora de diseñarlo.
-La primera vez que un PJ gana el acceso a un nuevo Poder del Corazón, deberá 
-dedicar unos minutos a construirlo junto al MC. Una vez decididos sus efectos y 
-elegido un nombre, este nuevo poder podrá ser utilizado siempre que se acceda a él 
-a través del Medidor de Poder.
-Ejemplo 1: Durante la creación de personajes, Esther diseñó el poder Celestial 
-Burst para Kiyomi como Poder del Corazón A. Desde ese momento cada vez que el 
-medidor de Poder esté a nivel 1 tendrá acceso a este poder.
-133
-•Corazón•
+——好的，我來減輕一下。如果我花費一點友情點數吸收 2 點，再標記憤怒後果就是 4 點。這應該足夠了，希望 Akari 能因此安全——Esther 一邊更新她的扮演書一邊說道。
+:::
 
-Ejemplo 2: Vanesa desbloqueó la forma Súper con su último Avance, lo que permite 
-que, cuando tenga Nivel de Poder 2, pueda realizar un Poder del Corazón (). Desde 
-entonces no ha creado ningún nuevo poder, pero durante su combate contra Glob 
-el Asqueroso logra los requisitos necesarios para poder usarlo. Decide escoger un 
-Poder del corazón A y diseña el poder llamado Dual Pistols. A partir de ese momen-
-to cada vez que el Nivel de Poder llegue a nivel 2 tendrá acceso a él.
-Poderes preparados o poderes creados al vuelo
-En principio, cada vez que un PJ tiene posibilidades de lanzar un nuevo poder, 
-es aconsejable que el MC y el jugador dediquen unos minutos a crearlo y a 
-definirlo. No obstante, algunas personas prefieren esperar un poco y crearlos 
-cuando son realmente necesarios. Esta situación es bastante común en los man-
-gas y animes que inspiran a Mahō Shōjo. ¿Cuántas veces habéis visto ejecutar a 
-un personaje un poder especial que no sabíamos que tenía hasta ese momento? 
-Ninguna de las dos formas es mejor que la otra, el único requisito es que, una 
-vez creado, ese poder se mantendrá durante el resto de la vida del personaje.
-¿Y qué pasa si quiero cambiarlos? Algunas veces puede ocurrir que un Poder 
-del Corazón no termine de convencer al jugador, lo cual es normal y hay muchos 
-motivos para ello. Si alguien piensa que uno de los poderes que creó ha queda-
-do obsoleto o ya no es adecuado, debería hablar con el MC para saber si puede 
-sustituirlo. De hecho, es una buena oportunidad para crear alguna historia de 
-cómo ese poder ha evolucionado o por qué ya no puede utilizarlo.
-A continuación indicamos los efectos que puedes seleccionar para crear un Poder 
-del Corazón dependiendo de su categoría: 
-Poder del Corazón (A): Ataque
-Escoge un efecto:
-	
-✽Realiza tantos puntos de Castigo como 5+ Castigo del PJ.
-	
-✽Elimina tantas Marionetas como 5+ Azote.
-Ejemplo: El icónico poder de Kiyomi es el Celestial Burst, un poderoso ataque con 
-su espada que surge cuando concentra todos los poderes del aire en su hoja. Cuan-
-do lo creó, Esther se decidió por el efecto «Realiza tantos puntos de Castigo como 
-5+ Castigo del PJ». Una vez terminado, lo asignó al Nivel de Poder en la posición del 
-Poder del Corazón A.
-Poder del Corazón (D): Defensa
-Escoge un efecto:
-	
-✽Eliminar toda la Angustia recibida de un ataque.
-134
-Maho Shojo
+:::note[範例 4]
+校慶當天，Torome 在漫畫社的攤位上。她正在賣自己畫的同人誌，這時 Okamura Anko 走了過來。
 
-✽Gana el poder Armadura +2, este se añade a cualquier poder de Armadura que 
-tenga el PJ hasta el final de la escena.
-Los poderes de defensa pueden tenerte como objetivo a ti mismo o a otro PJ.
-Ejemplo: Vanesa escogió crear un Poder del Corazón D para su forma Básica de 
-Nivel de Poder 1. Decide llamar a este primer poder Monochrome Shield y darle 
-el efecto «Gana el poder Armadura +2, este se añade a cualquier poder de Arma-
-dura que tenga el PJ hasta el final de la escena». Ahora, cada vez que lo invoca 
-apunta su arma hacia ella o alguna de sus compañeras magical girls y, al grito de 
-Monochrome Shield, cuando son impactadas parece como si perdieran el color y 
-estuvieran en blanco y negro.
-Poder del Corazón (P): Apoyo
-Escoge un efecto:
-	
-✽El PJ gana Azote +2 o Castigo +2. Esto se añade a otros poderes del PJ hasta el 
-final de la escena.
-	
-✽Si el objetivo no tiene marcada la Consecuencia Derrotada, desmarca dos Con-
-secuencias. Si Derrotada está marcada, desmarca la Consecuencia Derrotada 
-y otra Consecuencia.
-Los poderes de apoyo pueden tenerte como objetivo a ti mismo o a otro PJ.
-Ejemplo: Cada vez que Yoriko llega a Nivel de Poder 1 gana el acceso a su Magic 
-Smile. En su momento Ruth diseñó el poder escogiendo «Si el objetivo no tiene mar-
-cada la Consecuencia Derrotada, desmarca dos Consecuencias. Si Derrotada está 
-marcada, desmarca la Consecuencia Derrotada y otra Consecuencia». Gracias a 
-este Poder del Corazón, cuando las cosas van mal solo debe sonreír mientras guiña 
-el ojo y lanza una flor hecha de llamas; de esa forma permite a sus compañeras 
-recuperar Consecuencias si las cosas se tuercen.
-Finalem
-De entre todos los Poderes del Corazón, ninguno es comparable al que se conoce 
-como Finalem. Su uso en juego y en la Ficción es el mismo que cualquier otro Poder 
-del Corazón: tiene un nombre, unos requisitos de invocación y se ejecuta con el 
-Movimiento Poder del Corazón.
-Una vez invocado su efecto, este es el mismo para todos los PJ; todos los enemigos 
-de la escena son derrotados, ya sea porque son destruidos o porque se elimina la 
-presencia maligna de alguna forma. Ningún sirviente de la Oscuridad es inmune a 
-esto, aunque algunos enemigos especialmente poderosos, como los Campeones o 
-los Avatares, pueden tener Dones de la Oscuridad que les ayuden a resistirlos (ver 
-«Servidores de la Oscuridad» en la página 167).
-135
-•Corazón•
+——你看到 Anko 伸出手，開始帶著輕蔑的表情翻看同人誌，彷彿覺得噁心——Marion 描述道。
 
-Después de resolver el efecto, el PJ que lo ha invocado pierde todos sus Puntos de 
-Luz y baja inmediatamente su Nivel de Poder a 3. Para finalizar, como el resto de 
-Poderes del Corazón, no podrá a volver usarse durante el resto de la escena.
-Ejemplo: Ha llegado el momento de que Inoue invoque su Finalem contra Glob 
-el Asqueroso, gracias a que ha alcanzado el Nivel de Poder 5. Tras describir 
-cómo lo invoca en la Ficción, Mónica le indica que realice el Movimiento Poder 
-del Corazón.
-—Cierro los ojos y en el videoclub empiezan a aparecer copos de nieve con una 
-ligera brisa. Mientras el suelo comienza a cubrirse de hielo sujeto el martillo 
-—describe Cristina—. De pronto, abro los ojos y al grito de «¡Zero Kelvin Ham-
-mer!» levanto el martillo, que crece hasta duplicar su tamaño original cuando el 
-hielo aumenta su volumen, y golpeo a Glob.
-—¡Impresionante! Veis como Glob el Asqueroso desaparece en una explosión 
-donde decenas de DVD, VHS, casetes y láser disc se esparcen por el videoclub 
-tras ser derrotado para siempre.
-Los Lazos de la Amistad
-Existe una leyenda en la gran mayoría de las culturas orientales. Según se cuenta, 
-las personas están destinadas a conocerse porque están unidas por hilos rojos que 
-se cosen a sus almas en el momento de nacer. Las magical girls disponen de la ca-
-pacidad innata de extraer poder de estos hilos para alimentar su corazón y, gracias 
-a ellos, pueden hacer brillar la Luz de su corazón y afrontar la Oscuridad.
-136
+——有什麼讓你不滿的嗎，Anko？——Torome 的玩家問道。
 
-En Mahō Shōjo los PJ son capaces de utilizar este poder escondido en los Lazos de 
-la Amistad representados con los Puntos de Amistad. A continuación se describe 
-cómo podemos utilizar estos Puntos de Amistad, así como las consecuencias que 
-pueden llegar a desatar.
-Los Lazos
-Los Lazos representan a las personas importantes en la vida de un PJ y de los cuales 
-las magical girls son capaces de extraer fuerzas con las que afrontar los retos a los 
-que se enfrentarán.
-Durante la creación de personajes cada jugador escoge un Libreto de Amistad y en 
-cada uno de ellos se indica cuántos Lazos tiene el personaje. Cuando un PJ asigna 
-un Lazo también deberá indicar la etiqueta que tiene, siendo lo más habitual usar 
-la etiqueta «Amistad» (ver «Amistad y Romance» en la página 62). Lógicamente, un 
-PJ puede conocer y tener amistad o relación con personas con las que no tenga un 
-Lazo. Sin embargo, solo aquellas con las que sí los tenga le ayudarán a utilizar sus 
-habilidades. Muchos Libretos de Amistad disponen de algunas etiquetas especiales, 
-como por ejemplo la confidente del Libreto Solitaria o la kōhai del Libreto Senpai. 
-Este tipo de etiquetas solo se tienen en cuenta al utilizar ciertos Movimientos de 
-Amistad, siendo consideradas un Lazo normal al resto de efectos.
-Dedicarle tiempo y atención a los Lazos es importante, pues solo puedes desenca-
-denar el Movimiento Historias de la vida cuando estás en su presencia, para poder 
-recuperar Puntos de Amistad y desmarcar Consecuencias.
-Ejemplo 1: Durante la creación de personajes Vanesa se decide por el Libreto de So-
-litaria para Akari, la magical girl que ha creado. Tras revisar el apartado Lazos, ob-
-serva que tiene tantos como PJ+1. Tras pensarlo un rato se decide por lo siguiente:
-Crea un Lazo con Kiyomi y la etiqueta como «Amiga».
-Crea un Lazo con Inoue y la etiqueta como «Amiga».
-Crea un Lazo con Yoriko y la etiqueta como «Amiga». También decide aplicarle 
-la etiqueta especial de su Libreto «Confidente».
-Crea un Lazo con su profesor particular, Daisuke, y lo etiqueta como «Profesor».
-Ejemplo 2: A la hora de escoger un Libreto de Amistad para la partida, Vicky mira 
-todas las opciones. Al final se decide por el Libreto Pura amistad. En el apartado 
-Lazos aparece PJ+1, los cuales asigna de la siguiente manera:
-Crea un Lazo con Torome y la etiqueta como «Mejor amiga».
-Crea un Lazo con su hermano mellizo Togami y lo etiqueta como «Hermano».
-137
-•Corazón•
+——太庸俗了，我想這就是為什麼沒人買吧——Marion 回應——那一刻你似乎意識到，可能就是 Anko 才是你一整天都賣不出去的罪魁禍首。你怎麼做？
 
-Mal de Atropos
-Si un PJ utiliza de forma continuada los Puntos de Amistad sin cuidar y pasar tiem-
-po con sus Lazos, podría llegar el momento en el que sean destruidos. Esta con-
-secuencia es conocida como el Mal de Atropos, llamado así por las Moiras de la 
-mitología griega, encargadas de cortar los hilos del destino.
-Si en algún momento un PJ gasta su último Punto de Amistad quedándose a 0, algo 
-se romperá en el interior de la magical girl, que sufrirá las consecuencias del Mal 
-de Atropos.
-A efectos de juego, el jugador escoge uno de los Lazos de su PJ y lo hace desapare-
-cer. Ya no podrá volver a obtener Puntos de Amistad a través del Movimiento His-
-torias de la vida con él. En la Ficción esto se refleja con un conflicto entre ambos 
-personajes. Depende del MC y del jugador decidir los motivos exactos. Algunos 
-ejemplos son que se haya mudado a otro país, que crea que el otro le ha traicionado, 
-que sus padres se hayan divorciado…, cualquier cosa que ponga fin a esa confianza 
-y esa unión que hasta ahora había existido.
-La única excepción a la hora de romper un Lazo mediante esta consecuencia es 
-que al PJ solo le quede un Lazo. Por mucho que se tuerzan las cosas, mientras la 
-Luz siga estando en su corazón, será capaz de mantener esta ultima conexión. 
-Sin embargo, a cambio de este esfuerzo, el PJ gana de forma inmediata 1 Nivel de 
-Oscuridad.
-Para finalizar, la ruptura de un Lazo tiene un pequeño efecto positivo. Cada vez que 
-un PJ sufra el Mal de Atropos obtiene de forma inmediata 5 Puntos de Amistad.
-Ejemplo: Inoue se ha visto obligada a usar su último punto de Amistad para poder 
-evitar la Angustia de uno de los ataques de Glob el Asqueroso. En ese momento debe 
-escoger uno de sus Lazos y destruirlo. Como Inoue tiene el Libreto Sukeban tiene en 
-total seis Lazos. Tras pensarlo un par de minutos, Cristina escoge el de una de sus 
-compañeras de la pandilla. Una vez destruido obtiene cinco Puntos de Amistad.
-Un par de días después descubre que Shinobu, la persona cuyo Lazo destruyó, ha 
-sido trasladada a la escuela Suga. A partir de ese momento ambas serán enemigas.
-Puntos de Amistad
-Los Lazos de la Amistad representan esos hilos invisibles que conectan a las perso-
-nas. Esta cualidad no es exclusiva de las magical girls, sin embargo solo ellas parecen 
-poder acceder a su poder mediante la Luz guardada en el interior de su corazón.
-La energía que obtienen los PJ de los Lazos es representada con los Puntos de Amis-
-tad. Los usos y reglas de los Puntos de Amistad son los siguientes, a menos que un 
-poder del Lux Habitu o Movimiento diga lo contrario:
-	
-✽La reserva máxima de amistad de un PJ es de 10.
-138
-Maho Shojo
+——我什麼都不做，我要忍住驕傲，因為我知道她想激怒我，而我比那更強，只是時間問題，一定會有人買的。
 
-✽Cualquier PJ puede usar Puntos de Amistad para reducir los Puntos de Angus-
-tia sufridos. Cuando se usan para este efecto cada Punto de Amistad utilizado 
-reduce en 2 Puntos de Angustia.
-	
-✽Como condición para activar un Movimiento. El segundo uso es como pago 
-para un Movimiento. Algunos Movimientos de Amistad o Arquetipo requieren 
-gastar un Punto de Amistad como pago por su activación.
-	
-✽Cuando un PJ gasta su último Punto de Amistad quedándose con 0 sufre el 
-efecto conocido como Mal de Atropos (página 138).
-Existen varias formas de obtener Puntos de Amistad, siendo la más habitual el re-
-sultado del Movimiento Básico Historias de la vida. Algunos Movimientos de los 
-Libretos de Arquetipo, Amistad, Romance y Pacto disponen de alternativas a la hora 
-de obtener Puntos de Amistad. Por desgracia, son demasiado extensas como para 
-hacer un listado completo.
-Ejemplo 1: Después de varias noches en vela, Akari está cada vez más preocupada 
-por cómo le está afectando la lucha. Un día se encuentra con Yoriko en el comedor y 
-empieza a hablar con ella. Le comenta cómo parece tener problemas en casa y que 
-sus estudios se están resintiendo desde que hizo el trato con el Custodio. Como Yo-
-riko es un Lazo al que ha etiquetado como «Confidente», usa el Movimiento de Soli-
-taria Compartir cargas, gasta 1 Punto de Amistad y elimina 2 Puntos de Oscuridad.
-Ejemplo 2: Nada más sentarse a la mesa Natsumi comprueba que tiene el Mo-
-vimiento de Amistad Conectadas. Como se indica en el mismo, al principio de la 
-sesión tanto ella como su «Mejor amiga» obtienen 1 Punto de Amistad.
-Tanto Natsumi como Torome, que tienen el Lazo con la etiqueta «mejor amiga», 
-suman 1 Punto de Amistad a su Libreto.
-Momento de intimidad
-Existen una serie de reglas y Movimientos que mencionan el término «mo-
-mento de intimidad» pero ¿qué es exactamente un momento de intimidad? Se 
-considera que un PJ tiene un momento de intimidad cuando tiene una escena 
-en solitario con otro personaje.
-El MC debería entender que «en solitario» no es una definición literal, es más 
-bien un momento en el que dos personajes conectan y se sienten especialmen-
-te unidos. Con esta definición nada debería impedir que, por ejemplo, se dé en 
-un lugar público, como tomando un refresco en una cafetería.
-A la hora de considerar algo un momento de intimidad se entiende que los per-
-sonajes comparten sus sentimientos y emociones. Algunos ejemplos de esto 
-son: una cita romántica, un beso en las escaleras, una comida, jugar juntos a 
-un videojuego, una conversación en un ascensor, etc. Todos ellos serán válidos 
-a la hora de cumplir el requisito de «momento de intimidad».
-139
-•Corazón•
+——好的，看來這要用保護來克服危險——Marion 說道，Torome 的玩家 Rosalía 擲骰總共得到 6——雖然你挺過了批評，但這不代表不痛，2 點痛苦。
 
-Romance
-A partir de la segunda sesión puede ocurrir que un jugador indique que quiere iniciar 
-un Romance. Para ello deberá tener una escena de intimidad con un PNJ y, a continua-
-ción, declarar que quiere empezar una relación romántica (ver cuadro «Momento de 
-intimidad» en la página 139 para saber más). Cuando finalice la escena, el jugador y 
-el MC deberán escoger el Libreto de Romance que consideren que se ajusta mejor al 
-estilo de la relación (ver «Amistad y Romance» en la página 71). Una vez selecciona-
-do, el jugador marca 2 niveles en el estado de la relación y aplica el efecto indicado. 
-Los tipos de romance
-Los Libretos de Romance tratan de representar las formas más habituales de rela-
-ciones románticas idealizadas en los animes y mangas, en los que se inspira Mahō 
-Shōjo, y poco parecidas a lo que podemos ver en la realidad. Los Libretos de Ro-
-mance disponibles en este manual son:
-	
-✽Amor perdido.
-	
-✽Amor verdadero.
-	
-✽Relación conflictiva.
-	
-✽No correspondido.
-	
-✽Relación a distancia.
-	
-✽Relación prohibida.
-	
-✽Romance ilusorio.
-Cuando un PJ inicia un Romance siempre creará un nuevo Lazo con él, como se expli-
-ca a nivel superficial en todos los Libretos. En ocasiones este Lazo puede surgir con 
-un PNJ con el que ya tiene un Lazo de Amistad. En estos casos anota un nuevo Lazo 
-con las etiquetas correspondientes, siendo esta la única forma de tener dos Lazos con 
-el mismo personaje. Los Lazos de Romance nunca pueden ser afectados por el Mal de 
-Atropos, sino que solo pueden ser rotos por una Ruptura (ver más adelante).
-Como se ha indicado en la explicación sobre cómo obtener un Libreto de Romance, 
-presuponemos que estos se darán entre PJ y PNJ. El motivo principal de esta de-
-cisión es que en algunos grupos de juego es muy incomodo introducir este tipo de 
-temas entre jugadores (de hecho en muchos lo es incluso entre PJ y PNJ). El segundo 
-motivo es que en casi todos los Libretos de Romance los sentimientos son recíprocos.
-Sin embargo, si tanto los jugadores como el MC están de acuerdo en explorar este 
-tipo de temas en su partida, deberían tener en cuenta las siguientes recomendaciones.
-Al finalizar la escena de intimidad, ambos jugadores deben estar de acuerdo en iniciar 
-una relación romántica y escoger el mismo Libreto de Romance. A continuación, cada 
-PJ deberá llevar, calcular y modificar su Nivel de Romance de forma independiente. 
-Esto es peligroso, ya que el evento de Ruptura se puede dar cuando cualquiera de las 
-dos partes llegue a 0. Al fin y al cabo una relación es un compromiso de ambos, no un 
-trabajo en solitario.
-140
-Maho Shojo
+——我想是被惹火了，我標記憤怒後果，可以消除 4 點痛苦，遠超所需，然後我重新坐下。我知道她總有一天會改變看法的。
+:::
 
-Una excepción a esto es el Libreto No co-
-rrespondido y ,también hasta cierto punto, 
-Romance ilusorio. Por su naturaleza, estos 
-Libretos no requieren que la otra parte se 
-involucre y, de hecho, lo habitual es que 
-ignore que es parte de un Romance. Sin 
-embargo, incluso en estos casos es acon-
-sejable que ambos jugadores hablen sobre 
-la situación antes de ser seleccionados.
-Ejemplo 1: Después de varios días de 
-entrenamiento, Inoue se encuentra con 
-Keisaku, un amigo de su infancia, al sa-
-lir del vestuario. Después de decidir ir 
-juntos caminando hasta casa, Cristina 
-le comenta a Mónica que le gustaría co-
-menzar un Romance con él.
-Tras hablarlo, Cristina opina que el 
-Libreto que más le pega a Inoue es el 
-de conflictiva, por lo que lo añade a su 
-Libreto de Arquetipo, deja el Nivel de 
-Romance a 2 y apunta un nuevo Lazo 
-con Keisaku al que etiqueta como Ro-
-mance/Conflictiva.
-Ejemplo 2: Después de su primer enfren-
-tamiento contra un Devorador de Luz, 
-Torome ha tenido que ser ingresada en el 
-hospital por las secuelas. Natsumi ha ido 
-cada día de la semana a verla y ahora se 
-dirige allí con una bolsa llena de bollos 
-de la pastelería de sus padres.
-Tras pasar toda la tarde con ella co-
-miendo y hablando de lo que ha suce-
-dido en clase a lo largo de la semana, 
-la jugadora de Natsumi le pregunta a 
-la MC si puede ser considerada una 
-escena de intimidad. Después de con-
-firmarlo, habla con la jugadora de To-
-rome y, tras la conversación, escoge 
-el Libreto de Romance No correspon-
-dido. Para finalizar, crea un Lazo nue-
-vo con Torome, aunque ya tenía otro, 
-llamado Romance/No correspondido.
-141
-•Corazón•
+:::note[範例 5]
+在闖入霞真野大樓的行動中，Yoriko 被傀儡們壓制了。在逃跑動作失敗後，Mónica 使用了一個反應。
 
-Avanzar en el Romance
-Todos los Libretos de Romance disponen de varios Movimientos que indican cómo 
-puede aumentar o disminuir (ver «Libretos de Romance» en la página 109). Sin em-
-bargo, no importa cuántas veces se activen estos Movimientos, al final de la sesión 
-solo puede avanzar o disminuir en un punto respecto al valor que tenía al inicio de 
-la sesión.
-Ejemplo: Keisaku se retrasa después de haber quedado en los recreativos con 
-Inoue. Tras llamar a su móvil empieza a gritarle. No le importan las excusas ni lo 
-que haya pasado, la voz y el enfado de Inoue son tales que Keisaku se apresura 
-a llegar. Después de reunirse con ella y pasar un rato juntos aplica el Movimiento 
-Historias de la vida. Una vez acabada la escena, Cristina comprueba que eso cum-
-ple con el Movimiento Combustión del Corazón, lo que hace que su Romance suba 
-de 2 a 3. Si más tarde volviera a activar Combustión del Corazón, no podría subirlo 
-a 4 porque al inicio de la sesión era solamente 2.
-La Ruptura
-El amor es una emoción de la que se pueden sacar grandes poderes, pero también 
-tiene un coste enorme cuando un corazón se rompe.
-En el momento en que el estado del Romance llega a 0 tendrá lugar una Ruptura, 
-lo que seguramente sea un elemento dramático en la vida del PJ y haga terminar la 
-relación. Este final puede presentarse de cualquier manera: una pelea, una discusión, 
-un desengaño, una infidelidad… siempre que ocurra, ambas partes acabarán dolidas.
-Cuando llegue la Ruptura debes comprobar si el Libreto de Romance tiene algún 
-tipo de Movimiento específico, si no se seguirán los siguientes pasos:
-	
-✽Se elimina el Lazo de Romance de forma similar al Mal de Atropos.
-	
-✽Se retira el Libreto de Romance.
-	
-✽El PJ gana inmediatamente 1 Nivel de Oscuridad.
-Ejemplo: Tras varias sesiones complicadas Inoue termina con Nivel de Romance 
-0. En ese mismo momento el Lazo de Romance/Conflictiva con Keisaku se parte y 
-gana 1 punto de Nivel de Oscuridad. En la escena siguiente ve a Keisaku preocupa-
-do. Le dice que su familia se marcha a Europa a trabajar y que debe cortar con ella, 
-dando por finalizada su relación.
-La Oscuridad
-La Oscuridad es la fuerza que se opone a la Luz, y se puede manifestar de cualquier 
-modo y forma. Su influencia suele hacer daño a las personas y busca extinguir la 
-Luz de aquello en lo que pone su mirada. Las magical girls son, por otro lado, las 
-que evitan que la Oscuridad lo consuma todo protegiendo la Luz, pero no son inmu-
-142
-Maho Shojo
+——好的，在你逃跑的時候，數百隻生物將你團團圍住，開始撕咬和抓傷你，造成 5 點痛苦。
 
-nes a su influencia. A veces la Oscuridad logra plantar sus semillas en su interior, 
-provocando desde que no puedan volver a acceder a la Luz de sus corazones hasta 
-convertirse en servidoras de la Oscuridad.
-En Mahō Shōjo los efectos de la Oscuridad en los PJ se representan con los Puntos 
-de Oscuridad y el Nivel de Oscuridad. Los efectos y consecuencias de estos en jue-
-go dependerán del tipo de Pacto que escojan para despertar sus poderes (ver «El 
-Pacto» en la página 173), mientras que la naturaleza y objetivos de la Oscuridad de-
-berían ser definidos como puede verse en el capítulo «Ambientación» (página 262).
-Ganar Puntos y Niveles de Oscuridad
-Todos los PJ miden la Oscuridad de dos formas: los Puntos de Oscuridad y el Nivel 
-de Oscuridad. A menos que se indique lo contrario (como, por ejemplo, una Ruptu-
-ra), cada vez que un PJ adquiera Oscuridad serán puntos de Oscuridad.
-Un PJ puede obtener Puntos de Oscuridad de la siguiente manera:
-	
-✽Cuando el PJ marca el estado Derrotada.
-	
-✽Cuando otro PJ obtiene su quinto Nivel de Oscuridad.
-	
-✽El MC usa una Reacción adecuada.
-	
-✽Cuando un servidor de la Oscuridad puede aplicar su Don (semilla).
-	
-✽Cuando un PJ tiene una Ruptura. En este caso se ganará 1 Nivel de Oscuridad.
-	
-✽El PJ sufre el «Mal de Atropos», pero solo le queda un Lazo.
-	
-✽Como consecuencia de un Movimiento de Oscuridad o de Pacto.
-Al final de cada sesión, si un PJ tiene al menos 1 Punto de Oscuridad, deberá desen-
-cadenar el Movimiento Básico Rechazar la Oscuridad, para saber las Consecuen-
-cias. En el caso de obtener un 6 o menos perderá todos sus Puntos de Oscuridad, 
-pero, a cambio, su Nivel de Oscuridad se incrementará en 1 y comprobará en el 
-Libreto de Pacto si existe algún efecto adicional.
-Si en algún momento un PJ tiene 5 o más Niveles de Oscuridad deberás comprobar 
-el Libreto de Pacto y aplicar las consecuencias.
-Ejemplo 1: Emboscada en mitad de un parque por la Hechicera de Llamas Oscuras, 
-Akari está sola. Después de tratar de enfrentarse a ella, esta usa uno de sus Dones 
-oscuros para tratar de oscurecer su corazón llevándola a un mundo ilusorio. Móni-
-ca le indica a Vanesa que se anote 1 Punto de Oscuridad.
-Ejemplo 2: Al final de la sesión Torome comprueba que tiene 6 Puntos de Oscuri-
-dad, por lo que debe realizar el Movimiento Rechazar la Oscuridad. El resultado de 
-la tirada es un 4, por lo que elimina todos los Puntos de Oscuridad y, a continuación, 
-incrementa su Nivel de Oscuridad en 1. Cuando termina, comprueba el Libreto de 
-Pacto y observa que los Pactos de Hijas de la Luz no tienen ningún efecto a menos 
-que su Nivel de Oscuridad sea 5.
-143
-•Corazón•
+——嗯，幸好我有護甲 +2，所以只受到 3 點痛苦。加上我還有堅韌 +1，使得一點友情點數可以減少 3 點而不是 2 點，所以暫時逃過一劫——她鬆了口氣說道。
+
+——如你所說，只是暫時。不過，你覺得自己可能無法活著離開這裡，那你怎麼做？
+:::
+
+### 減少痛苦的方法
+
+以下列出角色可用的幾種最常見的減少痛苦手段：
+
+**光之裝束力量**
+
+- 防禦型心之力通常能改善或提供消除痛苦的選項。
+- 光之裝束的堅韌和護甲力量提供了減少所受痛苦的方式。
+
+**動作**
+
+- 許多扮演書能修改或提供避免所受痛苦的手段。例如：鬥士原型扮演書的「堅不可摧」。
+
+**友情點數**
+
+- 每花費一點可以減少 2 點所受痛苦（可重複使用）。
+
+**後果**
+
+- 標記一個後果可以減少 4 點所受痛苦。
+
+## 後果
+
+後果代表玩家角色因承受痛苦而可能陷入的身心狀態。Mahō Shōjo 中有六種不同的後果，分別是：疲憊、沮喪、驚愕、憤怒、受挫和落敗。
+
+關於落敗後果的詳情將在後文介紹。其餘五種說明如下：
+
+- **疲憊** — 挑戰 = 代表身體疲勞或物理傷害。這會阻礙魔法少女正常進行體能行動，使她失去競爭和戰鬥的意願。
+- **沮喪** — 保護 = 魔法少女陷入憂鬱狀態，覺得自己毫無用處，只想獨處，不願與他人接觸。
+- **驚愕** — 思慮 = 代表魔法少女的精神壓力，妨礙她的思考能力，導致她犯錯且無法正常推理。
+- **憤怒** — 情感 = 魔法少女聽不進任何道理。她感到惱怒、暴躁，對所有人發火，並出現情緒失控的爆發攻擊。
+- **受挫** — 奉獻 = 魔法少女感到被拋棄或不配擁有她的力量，開始懷疑自己是否值得締結盟約成為光明的選民。
+
+每當玩家角色受到痛苦時，可以選擇標記一個後果來抵消最多 4 點。某些扮演書或光之裝束的力量可以增加被抵消的痛苦點數。
+
+當一個後果被標記時，其對應的屬性會減少 2 點，直到該後果被消除為止。要消除已標記的後果，通常需要透過生活故事動作的結果來達成。也有其他方式可以取消後果，例如某些原型扮演書或友情扮演書中的動作。
+
+當你標記一個後果時，虛構敘事中必須存在合理的理由。考試不及格不太可能讓一個玩家角色陷入疲憊，但如果是因為整夜讀書導致的體力透支呢？記得每次標記後果時都要與主持人（MC）討論玩家角色受到這種影響的原因。
+
+:::note[範例]
+Kiyomi 在與暗焰女巫的戰鬥中標記了憤怒後果。從那一刻起，她在使用情感屬性進行擲骰時將減少 -2。
+
+之後回到家，她面對非常生氣的父母，因為她回來太晚了。為了找藉口，她試圖說服他們不要處罰她。
+
+——嗯，我想這算是發自內心的話語動作——Mónica 說道。
+
+——我只擲出 6，加上憤怒的 -2 總共才 4。這不太妙，對吧？
+
+——恐怕是的。你的父母在廚房裡對坐在椅子上的你長篇大論地教訓了一番。一切結束後，你內心有什麼東西碎了，你受到 3 點痛苦。
+
+——好的，我要標記疲憊——Kiyomi 的玩家說。
+
+——疲憊？希望你有個好理由。
+
+——教訓完之後，我一邊爬樓梯回房間一邊非常生氣，結果踩空從樓梯上摔了下來——Esther 一邊比劃著手勢一邊描述。
+
+——不得不說至少很有創意。好吧，我們繼續——Mónica 驚訝地說。
+:::
+
+### 落敗後果
+
+落敗後果的效果與前面介紹的其他五種後果不同。玩家角色可以在受到痛苦的任何時候標記此後果，和其他後果一樣，但標記後會抵消所有受到的痛苦，而不僅僅是減少 4 點。一旦標記，與其他後果不同的是，處於落敗狀態的玩家角色無法繼續行動，也無法在該場景中取消標記，除非有動作明確允許。
+
+場景結束後，玩家角色自動取消落敗後果的標記，接著觸發失去光明動作，並套用其結果（更多關於此動作的資訊，請參閱「動作」章節）。
+
+動作結算完畢後，玩家角色將恢復行動能力，但仍保留其他已標記的後果。
+
+:::note[範例 1]
+被不明敵人從摩天大樓頂端推下後，Yoriko 總共受到 8 點痛苦。她沒有變身，玩家也不想消耗友情點數。此外，她已經標記了多個後果，所以她決定標記落敗來抵消所有痛苦。現在她只能相信其他同伴能夠獨自面對威脅。
+:::
+
+:::note[範例 2]
+隊伍正在與聞名遐邇的鮮血公主對戰。在殘酷的戰鬥中，她們全都已經落敗，因此擔心接下來會發生什麼。
+
+——等一下——Esther 打斷道——在一切化為烏有之前，我對她說：「你贏不了的。只要我們心中還有光明，你就贏不了。」
+
+——我猜你想使用勇者的動作之一「正義必勝」，對嗎？——Mónica 試著確認。
+
+——沒錯，我用情感擲骰。——骰子滾動——好的，擲出 8。我們全部取消落敗後果，再加一個額外後果。
+:::
+
+## 能力量表
+
+在魔法少女的冒險過程中，玩家角色遲早會面對黑暗使徒。隨著戰鬥的推進，能力量表會隨著場景中不斷觸發的動作而上升或下降。
+
+魔法少女第一次變身時，量表的起始等級等於觸發變身動作時所擁有的光點數量，最高可達 5，以代表她光之裝束的各項能力。透過這些能力，她們將變得更強、更快、更堅韌，同時能釋放內心蘊藏的心之力。
+
+能力量表對魔法少女採用的任何形態都是通用的。雖然一開始所有魔法少女都只有基礎形態，但某些扮演書和成長可以讓她們在強化光之裝束的過程中獲得不同的力量形態，例如超級形態或凱旋形態。更多關於成長的資訊，請參閱「成長與經驗」章節。
+
+### 如何提升能力量表與光點
+
+每當玩家角色穿著光之裝束時，在任何動作中擲出 10 或以上的結果，就會產生一個光點。某些動作可以改變獲得光點的方式——無論是自己的還是其他玩家角色的——例如勇者的「入場宣言」。每位玩家必須擁有自己獨立的光點儲備，與其他玩家分開計算。
+
+每當玩家角色獲得一個新的光點時，首先必須檢查是否擁有暗點；如果有，則不會獲得該光點，但可以消除一個暗點。如果沒有暗點，則保留該光點並檢查能力量表。如果光點數量超過目前的能力量表等級，則將量表提升至與當前光點數量相等。
+
+調整能力量表後，玩家必須檢查是否能根據扮演書中的光之裝束解鎖新的能力。從那一刻起，玩家角色將可以使用量表上該等級及以下的所有力量。例如，如果玩家角色可以使用超級形態且能力量表為 3，就能獲得基礎形態和超級形態前三個等級的所有效益。
+
+主持人（MC）應注意，能力量表在場景期間永遠不會下降，即使玩家角色失去光點也是如此，除非有動作另行說明。場景結束或玩家角色脫下光之裝束後，能力量表的等級自動降至 0，並在至少擁有 1 點光點的情況下消除 1 個光點。
+
+:::tip[能力量表代表什麼？]
+能力量表試圖賦予 Mahō Shōjo 的戰鬥漫畫和動畫敘事特有的節奏與元素。如果觀察任何一集魔法少女系列作品，參與者很少會立刻使出最華麗的招式，因為在最後展現才更有看頭。
+
+這就是能力量表存在這種人為限制的原因。想想所有同類型作品，你會發現 Sailor Venus 似乎每集只能使用一次她的 Love Me Chain 或 Wink Chain Sword（相當於心之力 A），而另一方面，Nanoha 雖然似乎能快速結束戰鬥，卻只在敵人即將被擊敗時才決定使用 Starlight Breaker（相當於終曲）。
+:::
+
+:::tip[能力等級 4 在哪裡？]
+你可能已經注意到，沒有任何扮演書在能力量表達到 4 時擁有力量。這不是錯誤，而是純粹的遊戲設計決策。在測試聚會中發現，一旦能力量表達到 4，就已經太接近能執行終曲的時刻了。經過大量意見回饋後，觀察到這種情況使玩家無法好好享受其帶來的優勢。這種行為最終導致了加強等級 1 到 3 的決定，而非為影響極小的等級設計一系列優勢。
+:::
+
+### 暗點
+
+在與黑暗使徒的戰鬥中，可能會因主持人（MC）的反應、黑暗恩賜或某些動作而產生暗點。
+
+每當玩家角色獲得一個暗點時，必須檢查是否擁有光點。如果有，則消除該光點並移除暗點。如果沒有任何光點，則必須記錄一個暗點。
+
+暗點代表黑暗試圖削弱或壓制魔法少女光明力量的企圖，阻止她們對敵人釋放最強大的手段。然而，擁有契約傀儡盟約扮演書的玩家角色可以反過來利用黑暗的手段（詳見「盟約」章節）。
+
+玩家角色在任何時候都不能累積超過 5 個暗點。場景結束或玩家角色脫下光之裝束時，消除一個暗點。
+
+:::note[範例 1]
+變身完畢面對噁心的 Glob 時，Kiyomi 的玩家指著他開始發表一段獨白。
+
+——邪惡的黑暗造物，你用你的影片腐蝕我們的城市。我是 Celestial Sword 的選民，聽好我的名字，畏懼我心中的光明。以風之力量，我將打倒你——Esther 宣告道。
+
+——很好，你在使用入場宣言動作，你獲得一個光點。
+
+——好的，現在我有一個光點而能力量表是 0，所以我將它提升到相等。因為我只有基礎形態，所以可以使用我的心之力 A。
+:::
+
+:::note[範例 2]
+在與鮮血公主的戰鬥中，Inoue 試圖閃避從地面冒出的爪子以避免被抓住。
+
+——我跳得超高來躲開！——Cristina 喊道。
+
+——好的，那是克服危險，根據描述我認為你使用的是挑戰。
+
+——11+2 等於 13，成功了，而且這還算一個光點。——Mónica 點頭——現在我已經累積 3 點了，因為我有凱旋形態，所以我擁有鬥士到能力等級 3 的所有力量，沒錯吧？
+
+——沒錯。這意味著你擁有：摧毀 +1、懲罰 +4、護甲 +1、堅韌 +1，以及你的三個心之力。毫無疑問，這對付這個化身會有幫助。你需要這些——Mónica 回答。
+:::
+
+:::note[範例 3]
+Akari 和其他人在與暗焰女巫的戰鬥中陷入苦戰。就在一名同伴反擊時，她們驚恐地發現攻擊打中的是女巫用火焰製造的分身誘餌。就在她們試圖找出女巫的位置時，她出其不意地出現在 Akari 背後。
+
+——好的。你看到女巫把手放在你的背上，大喊「心靈之牢！」記下 1 個暗點。
+
+——好吧，我沒有光點所以只能留著了。我可以反擊嗎？
+
+——當然可以。你要怎麼做？——Mónica 問道。
+
+——我原地旋轉然後向後跳開遠離她，同時對她傾瀉我魔法手槍的彈藥。
+
+——來吧，用挑戰擲懲戒黑暗。
+
+——嘿，我擲出超過 10，所以我要對她造成懲罰 / 1 並獲得一個光點。可惜因為我有一個暗點，所以只能把它消掉。
+:::
+
+:::note[範例 4]
+在擊敗霞真野大樓的一個守衛後，Ruth 告訴 Mónica 是時候搭電梯到天臺了。主持人（MC）告知這意味著場景結束。
+
+——那麼我的能力量表回到 0，光點從 4 降到 3。我覺得這不是什麼大問題，如果還有其他怪物的話，我幾乎可以使用所有的能力。
+:::
+
+### 光點、暗點與能力等級總覽
+
+以下是光點、暗點和能力量表的管理方式摘要。
+
+**光點**
+
+- 當穿著光之裝束的玩家角色在動作中擲出 10 或以上的結果時，獲得一個光點。
+- 當執行標明會產生光點的動作時，獲得一個光點。
+- 獲得光點時，檢查是否擁有暗點。如果有，消除一個暗點且不獲得該光點。如果沒有暗點，將光點加入已有的總數。
+- 場景結束或玩家角色脫下光之裝束時，減少一個光點。
+
+**暗點**
+
+- 當觸發標明會產生暗點的動作時，獲得一個暗點。
+- 某些反應或恩賜可以使玩家角色獲得暗點。
+- 獲得暗點時，消除一個已有的光點。如果有光點則消除一個光點且不獲得暗點。如果沒有光點，將暗點加入已有的總數。
+- 場景結束或玩家角色脫下光之裝束時，減少一個暗點。
+- 玩家角色在任何時候都不能累積超過 5 個暗點。
+
+**能力量表**
+
+- 觸發變身動作時，能力量表等於當前的光點數量。
+- 每當獲得光點或暗點時，如果有相關動作指示，檢查能力量表。如果量表低於當前光點數量，將能力量表提升至與光點相等。
+- 場景結束或玩家角色脫下光之裝束時，能力量表降至 0。
+
+## 變身
+
+當大多數魔法少女題材的愛好者想到這個類型時，腦海中通常浮現的是變身後所穿的標誌性服裝，這是辨認魔法少女的特徵。雖然這個概念在某些作品中未必存在，對該類型的作品而言也並非不可或缺（如「簡介」中所述），但在 Mahō Shōjo 中，我們假設角色會使用這些裝束。這套服裝或鎧甲（或兩者的結合），我們在提及時一律稱之為「光之裝束」，不過在每個世界觀中可能會有不同的名稱。一旦穿上光之裝束——魔法少女體內光明的實體化身——她就能運用自己的力量和魔法能力來對抗黑暗使徒所構成的威脅。
+
+為了讓玩家角色穿上光之裝束，必須觸發變身動作，這將賦予原型扮演書中能力量表所指示的力量，以及對其主題的自由使用權限（詳見後文）。
+
+就遊戲規則而言，我們假設玩家角色只有在穿著光之裝束時才能使用其力量。然而，由玩家和主持人（MC）決定此事。可能存在主題無法在未變身狀態下使用的情況，或者在你們的世界觀中光之裝束並不存在。不過，本手冊在後續內容中不會考慮這些例外情況。
+
+### 變身護符
+
+為了釋放力量並穿上光之裝束，魔法少女透過稱為盟約的過程創造護符。這個行為會創造出——或賦予力量給——一件屬於未來光明選民的物品。一旦擁有護符，她就可以用它來釋放心中蘊藏的光明，獲得對抗黑暗使徒所需的能力。
+
+為了啟動護符，魔法少女必須執行一系列咒語和魔法手勢。隨後，蘊含在她體內的能量會顯現出光之裝束，賦予她超越一切挑戰的力量和技能。出於某種難以解釋的原因，黑暗使徒似乎在魔法少女開始啟動護符後變得相當有耐心而且安靜。
+
+### 主題
+
+主題是 Mahō Shōjo 中對魔法少女的光明力量顯現方式及塑造其技能形式的稱呼。
+
+在遊戲中，創建玩家角色時（詳見「角色創建」章節），必須在創建光之裝束時選擇一個主題。主題是一個貫穿魔法少女所有能力的概念。例如，如果光之裝束的主題是冰，也許她可以用冰翼飛行，或者藉由創造冰滑道和冰路來快速移動；在面對敵人時，她可以投擲冰塊，或者也許能創造一把冰弓；她還可以召喚生物或建造冰牆。建議你花些時間，在設計主題時與主持人（MC）討論，選擇它在不同動作和力量中如何在虛構敘事裡展現。
+
+如果你已經注意到在虛構敘事中有許多方式可以觸發相同的結果，那你是對的。例如，一個火焰主題的魔法少女完全可以創造火牆來保護同伴，而一個光明主題的魔法少女可以創造光之護盾，在這兩種情況下，最可能觸發的都是永遠在你身邊動作。同樣地，一個鎖鏈主題可以嘗試捆綁一隻黑暗生物，而另一個水之主題則可以召喚小水精靈進行攻擊，兩者都會觸發懲戒黑暗動作。
+
+主要差異在許多情況下取決於在虛構敘事中應對挑戰的方式。因此，某些主題可能比其他主題更有優勢或更容易運用。例如，一個雷暴主題的魔法少女可能對電擊免疫。另一個例子是，水之主題在攻擊火焰類黑暗使徒時，會比火焰主題更具優勢。
+
+作為主持人（MC），你應該將主題以及玩家角色在虛構敘事中使用它們的方式，作為檢查他們是否能滿足動作觸發條件的額外因素。正是透過這些能力，魔法少女們才能應對在其他情況下不可能完成的任務。
+
+Mahō Shōjo 中主題概念如此廣泛和主觀的原因，是為了能夠模擬和處理魔法少女的任何類型的能力，不論能力等級或主角擁有的能力如何。然而，了解各位世界觀中主題的範圍是玩家和主持人（MC）的責任，因為一個無敵且超強的角色對任何人來說都不好玩。在角色設計過程中以及冒險的歷程中，主持人（MC）和玩家們應該試著為主題設定限制，了解什麼是可能的、什麼是不可能的。溝通很重要，因為透過溝通才能了解玩家描述背後的意圖，以及是否觸發了某個動作。然而，不必創建詳細的效果和能力列表，發現新用途是正常的。在許多魔法少女題材的作品中，隨著力量和能力的增強，她們可能在故事推進的過程中發現新的應用和技巧。你可以在「主題如何在虛構敘事與規則間互動」中找到一些對遊戲團有用的建議和問題。
+
+:::tip[主題如何在虛構敘事與規則間互動]
+在確立玩家角色的魔法少女主題能做什麼的過程中，你們肯定會有一些疑問。以下提供一份指南，幫助身為主持人（MC）的你與其他玩家達成共識。希望這份指南能幫助你們在遊戲桌上找到關於主題範圍和可能性的共同立場。
+
+**我怎麼知道我的主題能不能做某件事？**
+
+在遊戲過程中，當你們對某個主題是否能做到某件事產生疑問時，建議你們問自己以下幾個問題。
+
+**我之前做過嗎？** 例如，如果你之前曾用冰主題凍結過一座湖，你應該能再次做到。
+
+**我想用主題做的事情會如何展現？** 如果你想爬上一棟建築物而你的主題是光，你要怎麼做到？也許你可以創造一個光平臺來飛行、一對翅膀，或者在兩個光源之間瞬移。
+
+**我想用主題做的事情合理嗎？** 例如，很難解釋如何用火焰主題來滅火。但是，你可以想一個替代方案：魔法少女有沒有可能控制或吸收火焰？
+
+**有什麼前置條件嗎？** 要運用主題達到預期效果，可能需要某種前提。例如，要使用水之主題，你可能需要附近有水源或特定物品如魔法杖。
+
+**這和我們正在講述的故事合理嗎？** 也許大家已經討論過魔法少女不會飛行，或者她們的力量有某些限制，不允許展現某些強大能力。
+
+記住，正如我們所說，對於主題來說，很容易總是說「可以」，但沒有人喜歡一個全能的主角。在很多時候，有限制和弱點反而更有趣，也能創造更好的故事。大家一起討論，達成共識，了解你們故事中主題的範圍。
+
+**我的魔法少女可以在未變身時使用主題嗎？**
+
+快速回答：不行。
+
+詳細回答：也許可以。
+
+和魔法少女的許多限制與能力一樣，沒有簡單的答案。一般來說，玩家角色只有在變身並穿著光之裝束時才能使用力量，因為這是該類型作品的慣例。然而，這並非總是如此，有些角色可能在未變身時也能完整使用力量或使用削弱版本。
+
+再一次，決定變身對主題的必要程度取決於你們想講述的故事。
+
+**但是，我要擲什麼？**
+
+如果你要擔任主持人（MC），你大概會疑惑主題在遊戲中觸發什麼動作或效果。正如本章所述，它們其實沒有任何特定的效果。
+
+主題是一種在虛構敘事中表現魔法少女力量的抽象方式，是一種讓她們觸發其他動作的工具，因此沒有專門的動作來使用它。如果你對某個特定用途存有疑慮，覺得不確定性足以要求一個動作，你應該使用克服危險。根據描述所示，你應該使用的屬性取決於玩家角色觸發時的態度，而奉獻是預設屬性，因為它代表魔法少女對自身力量的使用和控制。
+:::
+
+:::note[範例 1]
+暗焰女巫開始逃跑，化身為一隻黑色火焰蝙蝠，飛向一棟建築物的頂端。魔法少女們想追上去，阻止她向主人通報。每位玩家描述自己如何前往建築物頂端：
+
+——利用風之力量，我飛著追上她——Esther 描述道，使用 Kiyomi 的風之主題。
+
+——我用鐵鎚猛擊地面，製造出一道冰坡，然後沿著它跑上去——Cristina 說道，使用 Inoue 的冰之主題。
+
+——我會用我對金屬的控制力：碰觸一個水溝蓋，讓它把我彈射到建築物頂端——Vanesa 指出，用 Akari 來解決問題。
+
+——我之前就說明過我無法用火焰控制力飛行，所以我試著爬到 Kiyomi 的背上跟著追——Ruth 描述了 Yoriko 的限制。
+
+聽完描述後，Mónica 準備開始描述追擊……
+:::
+
+:::note[範例 2]
+在 Akari、Yoriko 和 Inoue 對翡翠武士的戰鬥中，她拔出了第二把劍，在玩家角色間引起了些許緊張。
+
+——好的，我要退到後方集中精神感應區域內的金屬物體。我希望如果需要保護或幫助同伴時，能用我對金屬的控制力來利用它們——Vanesa 指出。
+
+——好的，我想你想幫助你的同伴。使用永遠在你身邊——Mónica 說。
+
+擲骰後，擲骰總計得到 7，因此她獲得 1 點用於動作效果。
+
+——當你集中精神時，翡翠武士揮舞著雙刀衝向 Inoue，你怎麼做？——Mónica 對 Cristina 說。
+
+——我用鐵鎚擋住她同時閃避——Cristina 迅速回答。
+
+接著，Mónica 指示她使用克服危險，但 Vanesa 在之前打斷了。
+
+——我要用控制力撿起地上的鎖鏈或什麼東西來絆倒武士，可以嗎？——Mónica 點了點頭——那我就這麼做，花費 1 點給 Inoue 的動作 +1。
+:::
+
+:::note[範例 3]
+Natsumi 和 Torome 來到了魔法世界中的星辰宮殿，她們需要尋找線索幫助女王修復宮殿。Mónica 描述這個地方散發著一種憂傷的感覺，彷彿失去了曾經讓它美麗的一切。
+
+——我們能看到什麼不尋常的東西或者能幫助我們的嗎？——Rosalía 問道。
+
+——不能，當你看向每個角落時，你只會為這裡曾經發生的事感到悲傷，彷彿無法讓你集中注意力——Mónica 指出。
+
+——好的，我要在自己面前用雙手畫一個圓圈，召喚星光重新照亮這個房間。
+
+Mónica 想了幾秒鐘，認為沒有問題。Torome 的主題是「星之光」，而且很合適；她之前也用過力量做類似的事。她也決定這樣做可以破除這個地方的部分詛咒，足以觸發真理之光下動作。
+:::
+
+:::note[範例 4]
+Inoue 正在照顧她的小妹妹，妹妹在一場意外後只能坐輪椅，幾乎不再露出笑容。嘗試了各種方式逗她開心後，她帶妹妹來到山中的一個小湖邊。
+
+——我可以把湖凍住嗎？我妹妹很喜歡滑冰，即使要用輪椅，我也想給她一個驚喜——Cristina 問道。
+
+——以你的冰之力量應該可以，不難，但你得變身，而你妹妹不知道你是魔法少女——Mónica 回答。
+
+——我覺得沒有問題，自從意外發生後她似乎對周圍的事都沒有意識。
+
+躲起來用冰主題凍結湖面後，她回到妹妹身邊。
+
+——你看到你妹妹第一次抬起頭，轉向你，直直地看著你——Mónica 說。
+
+——好的，我穿上藏在背包裡的溜冰鞋。然後我推著輪椅到湖面上，一邊滑冰一邊推著她。
+
+——自從意外以來第一次，你聽到她笑了。使用生活故事動作。
+:::
+
+:::note[範例 5]
+在闖入霞真野大樓的行動中，Yoriko 被數十隻傀儡壓制，朝電梯跑去。
+
+——我一邊跑一邊想在牆上畫一個封印，製造一道火牆來爭取時間逃跑——Ruth 描述道。
+
+與 Mónica 討論後，她們得出結論：透過她的火焰主題這是可能的。然而，在這種情況下所需的精確度和專注力並不容易達到，因此她需要使用奉獻來執行克服危險動作。
+:::
+
+:::note[範例 6]
+在與光之吞噬者的戰鬥中，Natsumi 開始表演花之舞蹈，目標是積蓄神聖力量。
+
+——因為你正在積蓄力量，執行神聖力量動作（聖母原型的動作）——Mónica 指示。擲出總計 7 後，開始描述花朵主題如何在虛構敘事中展現，正如之前在遊戲桌上討論過的那樣——花朵逐漸綻放，你的扇子上出現了一朵花的符號。
+
+接著 Vicky 獲得一點神聖力量。
+:::
+
+:::note[範例 7]
+在與噁心的 Glob 的戰鬥中，它噴出有毒的空氣試圖擺脫魔法少女們。所有玩家和主持人（MC）討論後，決定 Kiyomi 的空氣主題使她在稍加集中後免疫此效果，清淨了她周圍的區域。當 Esther 問 Mónica 是否可以將效果擴展到同伴們時，大家決定不行。雖然在 Kiyomi 未來力量增強後這是可能的，但她們判定在基礎形態下她無法以這種方式擴展主題。
+:::
+
+## 光之裝束力量
+
+當魔法少女穿上光之裝束時，她能夠取用隱藏在心中的光明力量。這些能力記載在原型扮演書的光之裝束區域。然而，她們不能立即使用所有能力，而是隨著能力量表的提升逐步啟用，以增強她對抗黑暗的能力（詳見「能力量表」一節）。
+
+此外，光之裝束可以擁有不同的力量形態，所有魔法少女都能使用基礎形態。隨著獲得新的成長或習得某些動作，她們可以獲得超級形態或凱旋形態等新形態。各形態和能力等級獲得的力量是累加的。例如，如果玩家角色擁有兩個懲罰 +1，則視為懲罰 +2。
+
+以下是所有光之裝束力量及其遊戲效果的列表：
+
+### 護甲
+
+魔法少女能夠產生鎧甲、盾牌，或者單純地更能承受黑暗的攻擊。當受到痛苦時，消除等同於護甲數值的點數。
+
+例如：擁有護甲 +2 的玩家角色受到 6 點痛苦時，只會承受 4 點。
+
+### 昇華
+
+擁有此力量的魔法少女憑藉心中隱藏的力量超越了她的人類能力。透過此力量，她能更出色地發揮本已擅長的事物，或克服自身的缺陷。獲得此力量時，選擇一項屬性。此後，所有使用該屬性的動作獲得 +1 加值。記得在能力量表上記錄每項屬性在何時啟用。例如，偶像的基礎形態在能力等級 2 和 3 各有一個昇華 +1。在創建光之裝束時，你可以決定在能力等級 2 時獲得挑戰 +1，在能力等級 3 時獲得保護 +1。
+
+每次獲得新的昇華提升時，可以決定是疊加到同一屬性上，還是選擇不同的屬性。
+
+### 摧毀
+
+魔法少女獲得了輕易消滅黑暗使徒的能力。攻擊傀儡並取得「擊敗傀儡」的結果時，額外消滅等同於摧毀等級的傀儡數量。例如：摧毀 +2 的玩家角色會消滅 3 隻傀儡。
+
+更多關於摧毀效果的資訊，請參閱懲戒黑暗動作。
+
+### 懲罰
+
+魔法少女的攻擊擁有更強的能力來擊敗黑暗的追隨者以及與黑暗締約者。擁有此提升的玩家角色將造成額外的懲罰點數，等於該力量所有啟用提升的總和。
+
+更多關於懲罰效果的資訊，請參閱懲戒黑暗動作。
+
+### 終曲
+
+終曲是魔法少女最強力量的體現，能夠擊敗任何黑暗使徒。更多關於終曲的資訊，請參閱後文的「心之力與終曲」章節。
+
+### 心之力
+
+心之力是魔法少女力量的強大物理化展現。這些能力分為三個類別：攻擊（A）、防禦（D）和支援（P）。每當魔法少女透過能力量表解鎖心之力時，可以使用心之力動作來發動。更多關於心之力及其遊戲效果的資訊，請參閱後文的「心之力與終曲」章節。
+
+### 堅韌
+
+魔法少女在與黑暗的戰鬥中更容易消除痛苦。就遊戲規則而言，當使用後果和友情點數來消除痛苦時，額外消除等同於堅韌數值的點數。
+
+例如，堅韌 +2 的玩家角色標記一個後果時，會消除 6 點痛苦而非 4 點。也可以改為花費一點友情點數來消除 4 點痛苦而非 2 點，或花費兩點友情點數消除共 8 點痛苦。
+
+### 力量摘要
+
+- **護甲**：消除玩家角色受到的痛苦。
+- **昇華**：改善某項屬性的擲骰。
+- **摧毀**：額外消滅傀儡。
+- **懲罰**：增加玩家角色造成的懲罰點數。
+- **心之力**：允許執行心之力動作。
+- **終曲**：玩家角色可以使用終曲。
+- **堅韌**：增加使用友情點數和後果時消除的痛苦點數。
+
+:::note[範例 1]
+Esther 目前的能力量表為 2，且可以使用基礎形態。檢查後，Kiyomi 可以使用懲罰 +1，並能發動心之力 A——她標誌性的 Celestial Burst。
+:::
+
+:::note[範例 2]
+經過幾個動作後，Inoue 的能力等級提升到 1。Cristina 注意到她可以使用超級形態，所以現在擁有 Ice Smash——她的心之力 A——以及護甲 +1。
+:::
+
+:::note[範例 3]
+在與暗焰女巫的戰鬥中，Akari 的能力等級達到了 3。透過她的成長，她最終獲得了凱旋形態，因此擁有摧毀 +2、昇華 +2（她決定兩者都影響挑戰屬性）、懲罰 +1 和堅韌 +1。如果這還不夠，她還可以使用三個心之力：Monochrome Shield、Dual Pistols 和 Enigmatic Eyes。
+:::
+
+:::note[範例 4]
+在對照光點與能力量表後，Ruth 發現量表上升到 5。Yoriko 只能使用基礎形態，因此擁有昇華 +2（她將其用於保護 +1 和奉獻 +1）以及一個心之力 P。
+
+她也可以使用 Scarlet Star Breaker——她的終曲——因此戰鬥即將結束。
+:::
+
+## 心之力與終曲
+
+在魔法少女運用心中光明來對抗黑暗所能展現的所有力量中，沒有什麼能與心之力相比。這些強大的表現是她的心在世界上的具現化。然而，使用這些能力所需的消耗意味著魔法少女只能在有限的場合使用它們。這些天賦分為兩個類別：心之力和終曲。
+
+心之力是強大的特殊攻擊、卓越的防禦能力，或面對黑暗時不可思議的祝福與助力。
+
+另一方面，終曲是魔法少女的終極力量展現。一旦發動，甚至能一擊擊敗最強大的化身。
+
+以下說明如何創建它們及其遊戲效果。
+
+### 心之力
+
+心之力是一種每場景只能使用一次的能力，但玩家角色最多可以擁有三個心之力。
+
+為了讓玩家角色發動心之力，第一步是達到對應的能力等級以解鎖它。完成此前提後，必須執行心之力動作（詳見「動作」章節）。為了滿足動作的觸發條件，每個心之力都有一系列在創建時由玩家和主持人（MC）協商的虛構敘事條件。例如，揮舞劍、詠唱咒語、做出手勢……完成後必須伴隨著大喊力量的名稱才能生效。
+
+一旦使用了某個心之力，該力量就會被標記，在該場景的剩餘時間內無法再次使用，但仍可以使用其他未標記且玩家有權使用的心之力。
+
+心之力分為三個類別：攻擊（A）、防禦（D）和支援（P）。如果光之裝束上的心之力標示為（），表示玩家在設計時可以選擇任何類別。
+
+玩家角色首次獲得新心之力時，需要花幾分鐘與主持人（MC）一起構建它。一旦決定了效果並選好名稱，這個新力量就可以在每次透過能力量表解鎖時使用。
+
+:::note[範例 1]
+在角色創建時，Esther 為 Kiyomi 設計了 Celestial Burst 作為心之力 A。從那時起，每當能力量表達到等級 1 時，她就可以使用這個力量。
+:::
+
+:::note[範例 2]
+Vanesa 在上一次成長中解鎖了超級形態，允許她在能力等級 2 時使用一個心之力（）。在那之後她沒有創建新力量，但在與噁心的 Glob 的戰鬥中達到了使用條件。她決定選擇心之力 A 並設計了名為 Dual Pistols 的力量。從此以後，每當能力等級達到 2 時，她都可以使用它。
+:::
+
+:::tip[預先準備的力量還是臨場創建的力量]
+原則上，每當玩家角色有機會發動新力量時，建議主持人（MC）和玩家花幾分鐘來創建和定義它。然而，有些人偏好等待，在真正需要時才創建。這種情況在啟發 Mahō Shōjo 的漫畫和動畫中相當常見。你們有多少次看到角色施展出一個我們之前不知道的特殊力量？兩種方式沒有優劣之分，唯一的要求是一旦創建，該力量將伴隨角色的一生。
+
+**如果我想更換呢？** 有時候心之力可能無法令玩家滿意，這很正常，原因有很多。如果有人覺得自己創建的某個力量已經過時或不再合適，應該與主持人（MC）討論是否可以替換。事實上，這是一個好機會，可以創造關於這個力量如何進化或為什麼不能再使用的故事。
+:::
+
+以下是根據類別創建心之力時可選擇的效果：
+
+### 心之力（A）：攻擊
+
+選擇一個效果：
+
+- 造成等同於 5 + 玩家角色懲罰值的懲罰點數。
+- 消滅等同於 5 + 摧毀值的傀儡。
+
+:::note[範例]
+Kiyomi 的標誌性力量是 Celestial Burst，一個強大的劍擊，在她將所有風之力量集中到劍刃上時爆發。Esther 在創建時選擇了「造成等同於 5 + 玩家角色懲罰值的懲罰點數」的效果。完成後，她將其分配到心之力 A 的能力等級位置。
+:::
+
+### 心之力（D）：防禦
+
+選擇一個效果：
+
+- 消除一次攻擊所受到的全部痛苦。
+- 獲得護甲 +2，此效果疊加到玩家角色已有的護甲上，持續到場景結束。
+
+防禦力量的目標可以是自己或其他玩家角色。
+
+:::note[範例]
+Vanesa 為基礎形態能力等級 1 創建了一個心之力 D。她將這第一個力量命名為 Monochrome Shield，賦予它「獲得護甲 +2，此效果疊加到玩家角色已有的護甲上，持續到場景結束」的效果。現在，每次她發動這個力量時，會將武器指向自己或某位魔法少女同伴，在「Monochrome Shield！」的喊聲中，當她們被擊中時看起來就像失去了色彩，變成了黑白色。
+:::
+
+### 心之力（P）：支援
+
+選擇一個效果：
+
+- 玩家角色獲得摧毀 +2 或懲罰 +2。此效果疊加到玩家角色其他力量上，持續到場景結束。
+- 如果目標未標記落敗後果，取消兩個後果的標記。如果落敗已被標記，取消落敗和另一個後果的標記。
+
+支援力量的目標可以是自己或其他玩家角色。
+
+:::note[範例]
+每當 Yoriko 達到能力等級 1 時，她就能使用 Magic Smile。Ruth 當時設計該力量時選擇了「如果目標未標記落敗後果，取消兩個後果的標記。如果落敗已被標記，取消落敗和另一個後果的標記」。多虧了這個心之力，當事情不順利時，她只需微笑著眨眼並拋出一朵火焰花；這樣就能讓她的同伴在情況惡化時恢復後果。
+:::
+
+### 終曲
+
+在所有心之力中，沒有什麼能與被稱為終曲的力量相比。它在遊戲和虛構敘事中的使用方式與其他心之力相同：有一個名稱、發動條件，並透過心之力動作來執行。
+
+一旦發動，其效果對所有玩家角色都相同；場景中的所有敵人都被擊敗，無論是被消滅還是以某種方式清除了邪惡的存在。沒有任何黑暗使徒對此免疫，不過某些特別強大的敵人，如首領或化身，可能擁有幫助他們抵抗的黑暗恩賜（詳見「黑暗使徒」章節）。
+
+效果結算後，發動終曲的玩家角色失去所有光點，能力等級立即降至 3。最後，和其他心之力一樣，在該場景的剩餘時間內無法再次使用。
+
+:::note[範例]
+時機到了，Inoue 要對噁心的 Glob 發動終曲，因為她的能力等級已達到 5。在虛構敘事中描述完發動過程後，Mónica 指示她執行心之力動作。
+
+——我閉上眼睛，錄影帶店裡開始飄起雪花，伴隨著輕柔的微風。當地面開始結冰時，我握緊鐵鎚——Cristina 描述道——突然，我睜開眼睛，在「Zero Kelvin Hammer！」的呼喊聲中舉起鐵鎚，冰層增大使鐵鎚膨脹到原來的兩倍大小，然後我砸向 Glob。
+
+——太厲害了！你們看到噁心的 Glob 在一場爆炸中消失，數十張 DVD、VHS、卡帶和雷射光碟在他被永遠打敗後散落在整個錄影帶店裡。
+:::
+
+## 友情的羈絆
+
+在絕大多數東方文化中都有一個傳說。據說，人們註定會相識，因為他們被出生時縫在靈魂上的紅線所連結。魔法少女擁有從這些紅線中汲取力量來滋養心靈的天生能力，藉此讓心中的光明閃耀，以面對黑暗。
+
+在 Mahō Shōjo 中，玩家角色能夠運用隱藏在友情羈絆中的力量，以友情點數來表現。以下將說明如何使用這些友情點數，以及它們可能引發的後果。
+
+### 羈絆
+
+羈絆代表玩家角色生命中重要的人，魔法少女能從中汲取力量來應對她們將面臨的挑戰。
+
+在角色創建時，每位玩家選擇一本友情扮演書，每本扮演書中都標示了角色擁有多少條羈絆。當玩家角色分配一條羈絆時，還必須標示其標籤，最常見的是「友情」標籤（詳見「友情與戀愛」章節）。當然，玩家角色可以認識並與沒有羈絆的人建立友誼或關係。然而，只有與之建立羈絆的人才能幫助她使用能力。許多友情扮演書擁有一些特殊標籤，例如獨行俠扮演書的「知己」或前輩扮演書的「後輩」。這類標籤僅在使用特定友情動作時才有效，在其他情況下視為普通羈絆。
+
+花時間和心力維護羈絆很重要，因為只有在羈絆對象身邊時，才能觸發生活故事動作來恢復友情點數和取消後果標記。
+
+:::note[範例 1]
+在角色創建時，Vanesa 為她創建的魔法少女 Akari 選擇了獨行俠友情扮演書。查看羈絆欄位後，她發現有「玩家角色 +1」條。思考了一會兒後，她決定如下：
+
+建立與 Kiyomi 的羈絆，標記為「朋友」。
+
+建立與 Inoue 的羈絆，標記為「朋友」。
+
+建立與 Yoriko 的羈絆，標記為「朋友」。她還決定為其加上扮演書的特殊標籤「知己」。
+
+建立與她的家教老師 Daisuke 的羈絆，標記為「老師」。
+:::
+
+:::note[範例 2]
+在選擇遊戲用的友情扮演書時，Vicky 查看了所有選項。最終她選擇了純真羈絆扮演書。在羈絆欄位中顯示「玩家角色 +1」，她如下分配：
+
+建立與 Torome 的羈絆，標記為「最好的朋友」。
+
+建立與她雙胞胎弟弟 Togami 的羈絆，標記為「弟弟」。
+:::
+
+### 阿特洛波斯之禍
+
+如果玩家角色持續使用友情點數卻不照顧和花時間陪伴她的羈絆對象，可能會到達羈絆被摧毀的時刻。這個後果被稱為阿特洛波斯之禍，以希臘神話中負責剪斷命運之線的摩伊拉三女神命名。
+
+如果在任何時候玩家角色花費了最後一點友情點數降至 0，魔法少女的內心將破碎，承受阿特洛波斯之禍的後果。
+
+就遊戲規則而言，玩家選擇其角色的一條羈絆並使其消失。該玩家角色將無法再透過生活故事動作從該羈絆獲得友情點數。在虛構敘事中，這反映為兩個角色之間的衝突。具體原因由主持人（MC）和玩家決定。一些例子包括：搬到了另一個國家、認為對方背叛了自己、父母離婚了……任何能終結之前存在的信任和聯繫的事情。
+
+透過此後果斷裂羈絆的唯一例外是玩家角色只剩一條羈絆的情況。無論事情變得多麼糟糕，只要光明仍在她心中，她就能維持這最後一條連結。然而，作為這份努力的代價，玩家角色立即獲得 1 級黑暗等級。
+
+最後，羈絆的斷裂有一個小小的正面效果。每當玩家角色遭受阿特洛波斯之禍時，立即獲得 5 點友情點數。
+
+:::note[範例]
+Inoue 被迫使用最後一點友情點數來避免噁心的 Glob 一次攻擊的痛苦。此時她必須選擇一條羈絆並摧毀它。由於 Inoue 擁有大姐頭扮演書，總共有六條羈絆。思考了幾分鐘後，Cristina 選擇了她幫派中的一位同伴。羈絆摧毀後，她獲得五點友情點數。
+
+幾天後她發現 Shinobu——她所摧毀羈絆的對象——已轉學到 Suga 學校。從那一刻起，兩人將成為敵人。
+:::
+
+### 友情點數
+
+友情的羈絆代表著連結人與人之間的無形之線。這項特質並非魔法少女獨有，但只有她們似乎能透過心中蘊藏的光明來取用其力量。
+
+玩家角色從羈絆中獲取的能量以友情點數表示。友情點數的用途和規則如下，除非光之裝束力量或動作另有說明：
+
+- 玩家角色的友情點數上限為 10。
+- 任何玩家角色都可以使用友情點數來減少所受的痛苦。用於此效果時，每使用一點友情點數減少 2 點痛苦。
+- 作為啟動動作的條件。第二種用途是作為動作的代價。某些友情或原型動作需要花費一點友情點數來啟動。
+- 當玩家角色花費最後一點友情點數降至 0 時，承受阿特洛波斯之禍的效果。
+
+獲得友情點數的方式有多種，最常見的是生活故事基礎動作的結果。某些原型、友情、戀愛和盟約扮演書的動作也提供了獲得友情點數的替代方式。可惜的是，這些方式太多，無法在此列出完整清單。
+
+:::note[範例 1]
+經過多個不眠之夜後，Akari 越來越擔心戰鬥對自己的影響。某天她在餐廳遇到了 Yoriko，開始和她聊天。她談到家裡似乎出了問題，而且自從和守護者締約後，學業也在退步。由於 Yoriko 是她標記為「知己」的羈絆，她使用獨行俠的動作「分擔重擔」，花費 1 點友情點數並消除 2 點黑暗點數。
+:::
+
+:::note[範例 2]
+剛坐到桌前，Natsumi 就確認她擁有友情動作「心意相通」。如動作所示，在聚會開始時，她和她的「最好的朋友」各獲得 1 點友情點數。
+
+Natsumi 和 Torome——兩人的羈絆都標記著「最好的朋友」——各自在扮演書上加上 1 點友情點數。
+:::
+
+:::tip[親密時刻]
+有一系列規則和動作會提到「親密時刻」一詞，但親密時刻到底是什麼？當玩家角色與另一個角色有一場單獨相處的場景時，就被視為親密時刻。
+
+主持人（MC）應理解，「單獨」並非字面意義上的定義，而更像是兩個角色產生聯繫、感到特別親近的時刻。按照這個定義，沒有什麼能阻止這種時刻發生在公共場所，例如在咖啡廳喝飲料時。
+
+在判定是否為親密時刻時，應理解為角色們正在分享彼此的感受和情感。一些例子包括：浪漫約會、在樓梯間的一個吻、一頓飯、一起打電動、電梯中的一段對話等等。這些都是滿足「親密時刻」條件的有效場景。
+:::
+
+## 戀愛
+
+從第二場聚會開始，可能會有玩家表示想要展開一段戀愛關係。為此，必須與一位非玩家角色有一場親密場景，然後宣布想要開始一段浪漫關係（更多資訊請參閱「親密時刻」說明）。場景結束後，玩家和主持人（MC）需要選擇他們認為最符合這段關係風格的戀愛扮演書（詳見「友情與戀愛」章節）。選定後，玩家在關係狀態上標記 2 個等級並套用對應效果。
+
+### 戀愛類型
+
+戀愛扮演書試圖呈現 Mahō Shōjo 所取材的動漫和漫畫中最常見的理想化浪漫關係形式，這些與現實中的關係頗為不同。本手冊中可用的戀愛扮演書包括：
+
+- 失去的愛
+- 真愛
+- 衝突
+- 單相思
+- 遠距關係
+- 禁斷關係
+- 虛幻愛情
+
+當玩家角色展開戀愛時，必定會與對方建立一條新的羈絆，正如所有扮演書中概略說明的那樣。有時這條羈絆可能與已經建立友情羈絆的非玩家角色重疊。在這種情況下，記錄一條帶有對應標籤的新羈絆，這是與同一角色擁有兩條羈絆的唯一方式。戀愛羈絆永遠不會受到阿特洛波斯之禍的影響，只能透過決裂來斷裂（詳見後文）。
+
+如同關於如何獲得戀愛扮演書的說明中所述，我們預設戀愛關係發生在玩家角色和非玩家角色之間。做出這個決定的主要原因是，在某些遊戲團中，在玩家之間引入這類主題會非常尷尬（實際上在很多團中，即使是玩家角色和非玩家角色之間也是如此）。第二個原因是，在幾乎所有戀愛扮演書中，感情都是雙向的。
+
+然而，如果玩家和主持人（MC）都同意在遊戲中探索這類主題，應該考慮以下建議。在親密場景結束時，雙方玩家都必須同意開始浪漫關係，並選擇相同的戀愛扮演書。接著，每位玩家角色必須獨立追蹤、計算和修改各自的戀愛等級。這很危險，因為任何一方的戀愛等級降至 0 時都可能觸發決裂事件。畢竟，一段關係是雙方的承諾，不是單方面的努力。
+
+單相思和——在某種程度上——虛幻愛情扮演書是例外。由於其本質，這些扮演書不需要另一方的參與，實際上，通常對方並不知道自己是戀愛關係的一部分。然而，即使在這些情況下，也建議雙方玩家在選擇前先討論這個情況。
+
+:::note[範例 1]
+經過幾天的訓練，Inoue 在更衣室出口遇到了童年好友 Keisaku。決定一起走路回家後，Cristina 告訴 Mónica 她想和他展開戀愛關係。
+
+討論後，Cristina 認為最適合 Inoue 的扮演書是衝突，因此她將其加入原型扮演書，將戀愛等級設為 2，並記錄一條與 Keisaku 的新羈絆，標記為「戀愛/衝突」。
+:::
+
+:::note[範例 2]
+在第一次與光之吞噬者的戰鬥後，Torome 因後遺症而住院。Natsumi 整週每天都去看她，現在她帶著一袋父母麵包店的麵包前往醫院。
+
+和她度過一整個下午，邊吃邊聊這週課堂上發生的事之後，Natsumi 的玩家問主持人（MC）這是否算一場親密場景。確認後，她和 Torome 的玩家交談，經過討論，她選擇了單相思戀愛扮演書。最後，她建立了一條與 Torome 的新羈絆——儘管她已經有一條了——命名為「戀愛/單相思」。
+:::
+
+### 推進戀愛
+
+所有戀愛扮演書都有多個動作指示如何提升或降低戀愛等級（詳見「戀愛扮演書」章節）。然而，無論這些動作在一場聚會中被觸發多少次，每場聚會結束時戀愛等級只能比聚會開始時的數值上升或下降一點。
+
+:::note[範例]
+Keisaku 在與 Inoue 約好在電玩中心後遲到了。打電話後她開始對他大吼。她不在乎藉口或發生了什麼事，Inoue 的聲音和怒火讓 Keisaku 趕緊跑來。見面後一起消磨了一些時光，她執行了生活故事動作。場景結束後，Cristina 確認這滿足了「心之燃燒」動作的條件，使她的戀愛從 2 上升到 3。如果之後她再次觸發「心之燃燒」，也無法將它升到 4，因為聚會開始時只有 2。
+:::
+
+### 決裂
+
+愛情是一種能汲取巨大力量的情感，但當一顆心破碎時，代價也同樣巨大。
+
+當戀愛狀態降至 0 時，就會發生決裂，這很可能成為玩家角色生活中的戲劇性元素，並終結這段關係。這個結局可以是任何形式：一場爭吵、一次爭論、一場幻滅、一次不忠……無論如何發生，雙方都會受傷。
+
+當決裂到來時，必須檢查戀愛扮演書是否有任何特定動作，如果沒有，則按照以下步驟進行：
+
+- 如同阿特洛波斯之禍一樣，移除戀愛羈絆。
+- 撤除戀愛扮演書。
+- 玩家角色立即獲得 1 級黑暗等級。
+
+:::note[範例]
+經過幾場艱難的聚會後，Inoue 的戀愛等級降到了 0。那一刻，與 Keisaku 的「戀愛/衝突」羈絆斷裂，她獲得 1 級黑暗等級。在下一個場景中，她看到 Keisaku 一臉擔憂。他告訴她，他的家人要去歐洲工作，所以必須和她分手，至此結束了他們的關係。
+:::
+
+## 黑暗
+
+黑暗是與光明對抗的力量，可以以任何方式和形式顯現。它的影響通常會傷害人們，並試圖熄滅它所注視之物的光明。另一方面，魔法少女是那些阻止黑暗吞噬一切、保護光明的人，但她們對其影響也並非免疫。有時黑暗會在她們的內心種下種子，後果從無法再次取用心中的光明，到成為黑暗的使徒。
+
+在 Mahō Shōjo 中，黑暗對玩家角色的影響以黑暗點數和黑暗等級來表示。這些在遊戲中的效果和後果取決於她們選擇的盟約類型（詳見「盟約」章節），而黑暗的本質和目標應如「世界觀」章節中所述加以定義。
+
+### 獲得黑暗點數和黑暗等級
+
+所有玩家角色以兩種方式衡量黑暗：黑暗點數和黑暗等級。除非另有說明（例如決裂），每當玩家角色獲得黑暗時，都是黑暗點數。
+
+玩家角色可以透過以下方式獲得黑暗點數：
+
+- 當玩家角色標記落敗狀態時。
+- 當其他玩家角色達到第五級黑暗等級時。
+- 主持人（MC）使用適當的反應時。
+- 當黑暗使徒能施加其恩賜（種子）時。
+- 當玩家角色經歷決裂時——此時獲得 1 級黑暗等級。
+- 玩家角色遭受阿特洛波斯之禍但只剩一條羈絆時。
+- 作為黑暗動作或盟約動作的結果。
+
+每場聚會結束時，如果玩家角色擁有至少 1 點黑暗點數，必須觸發抵抗黑暗基礎動作來得知後果。如果擲出 6 或以下，將失去所有黑暗點數，但作為代價，黑暗等級增加 1 級，並需要檢查盟約扮演書是否有任何額外效果。
+
+如果在任何時候玩家角色達到 5 級或更高的黑暗等級，必須查看盟約扮演書並套用相應後果。
+
+:::note[範例 1]
+在公園中遭暗焰女巫伏擊，Akari 落單了。試圖與之對抗後，女巫使用了一個黑暗恩賜，將她帶入一個幻境世界以腐蝕她的心靈。Mónica 告訴 Vanesa 記下 1 點黑暗點數。
+:::
+
+:::note[範例 2]
+聚會結束時，Torome 發現她有 6 點黑暗點數，因此必須執行抵抗黑暗動作。擲骰結果為 4，因此她消除所有黑暗點數，接著黑暗等級增加 1 級。完成後，她查看盟約扮演書，發現光明子女盟約在黑暗等級達到 5 之前沒有任何效果。
+:::

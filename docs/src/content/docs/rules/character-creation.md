@@ -1,614 +1,380 @@
 ---
 title: 角色創建
-description: 屬性、星座、血型、Lux Habitu
+description: 選擇原型、設定個人資料、計算屬性與設計光之裝束
 sidebar:
   order: 3
 ---
 
-Creación de personajes
-Escoger un Arquetipo y crear un personaje para una partida de Mahō Shōjo es 
-parecido a escoger el estilo de personajes que aparecerán en una serie de manga 
-o anime. Cada uno de ellos representa un tema clásico en las obras del género y 
-potencia cierto tipo de historias.
-Los Arquetipos son presentados en unas plantillas llamadas «Libretos», y hacen 
-único a cada personaje. Es aconsejable que cada jugador tenga su propio Libreto, 
-por lo que si un jugador escoge, por ejemplo, a la Guardiana, no debería ser escogi-
-da por nadie más. Los seis Libretos disponibles son: la Campeona, la Guardiana, 
-la Consejera, la Guerrera, la Idol y la Sanadora.
-Una vez escogido el tipo de magical girl que vas a interpretar, deberás tomar una 
-serie de decisiones. Al principio podrá pareceros un poco limitado, pero según 
-26
-Maho Shojo
+## 角色創建
 
-avance la historia se abrirán nuevas decisiones. Gracias a ellas será muy difícil que 
-existan dos historias iguales, incluso si se compartiera el Libreto, haciendo único 
-cada personaje.
-Ejemplo: Cuando Mónica comienza una nueva campaña de Mahō Shōjo, se reúne 
-con sus cuatro jugadoras y les pide que escojan entre los Libretos disponibles. Fi-
-nalmente, cuando cada una ha seleccionado un Libreto diferente, pueden empezar 
-a construir sus personajes.
-—Bueno, Esther, ¿cuál has escogido?
-—Me he decidido por la Campeona, que es la que más me ha llamado la atención y 
-aunque Cristina también la quería lo hemos hablado y ella ha escogido a la Guerrera.
-—Muy bien, ¿empezamos entonces a darle forma?
-27
-•Luz•
+選擇一個原型並為 Mahō Shōjo 的遊戲創建角色，就像是選擇將在一部漫畫或動畫系列中登場的角色風格。每一種原型都代表了該類型作品中的經典主題，並能推動特定類型的故事發展。
 
-Una vez que cada jugador haya elegido un Libreto, sobre todo si es la primera se-
-sión que vais a jugar, es conveniente detenerse un momento y hablar entre todos 
-algunos puntos importantes:
-	
-✽Lo primero es crear las bases de la ambientación y decidir qué vais a querer 
-jugar entre todos. Para ayudaros en este punto, en el capítulo «Ambientación» 
-de la página 262 disponéis de una serie de cuestionarios y ayudas, divididas 
-según los tres tipos de historias.
-	
-✽Escoger el tipo de Pacto que ha provocado el despertar de vuestros poderes. Más 
-adelante, en el capítulo «El Pacto» de la página 173, tenéis tres tipos de orígenes 
-diferentes, adaptados según las convenciones más habituales del género.
-	
-✽Seleccionar un Libreto de Amistad para el personaje, que indicará la forma en 
-la que su corazón se enreda con el de las personas cercanas, alimentando sus 
-poderes de magical girl (ver página 62).
-Una vez que tengáis algunas ideas clave, ya podéis empezar a dar vida a vuestra 
-nueva magical girl, dispuesta a vivir sus propias aventuras.
-Datos personales
-Una vez elegido un Libreto toca empezar el diseño del personaje. Las decisiones que 
-tomes aquí serán los cimientos de su historia y del resto del Arquetipo. Si bien esto 
-no tiene efectos mecánicos en el juego, puede tener un gran impacto en la Ficción.
-Sobre géneros y sexos
-Quizás a lo largo de este libro te asalte una pregunta, ¿solo puedo crear chicas 
-adolescentes? Es una buena pregunta. La respuesta es no, aunque necesita un 
-poco más de explicación.
-A la hora de escribir este manual en todo momento hemos supuesto que los 
-jugadores llevarán a chicas adolescentes. ¿Por qué? Pues porque es lo nor-
-mal en este tipo de obras y la forma más icónica. Dentro del mundo de juego 
-esta pregunta puede responderse de distintas formas (ver «Ambientación» 
-en la página 262), e incluso podría eliminarse dicha restricción. A lo largo de 
-las décadas hemos visto en múltiples series mangas y anime chicos mágicos, 
-chicas (o chicos) transexuales, chicos que se convierten en chica cuando se 
-transforman, una chica que se transforma en chico… Las combinaciones son 
-tan amplias como la imaginación de tu mesa de juego. Nunca dejes que otro te 
-diga lo que está bien o mal en tu mesa.
-28
-Maho Shojo
+原型以稱為「扮演書」的範本呈現，讓每個角色變得獨一無二。建議每位玩家擁有自己的扮演書，因此如果一位玩家選擇了衛士，就不應該被其他人選擇。六種可用的扮演書分別是：勇者、衛士、參謀、鬥士、偶像和聖母。
 
-Nombre
-Empieza siempre por un nombre, que será la forma con la que se dirijan a ti cuan-
-do asumas el papel de magical girl dentro del mundo de juego. Algunos jugadores 
-pueden usar el nombre como una herramienta para expresar algún elemento de la 
-ambientación, de su personalidad o de los poderes del personaje.
-Por norma general, las historias del mahō shōjo están ambientadas en Japón. Sin 
-embargo, nada te impide usar nombres que no sean propios de allí. No temas poner 
-cualquier nombre que consideréis adecuado en vuestra mesa; al fin y al cabo hay 
-una gran tradición de occidentalizar los nombres en la cultura del manga y el anime 
-de finales del siglo XX. ¿O acaso alguien conoce a Yō y Shō con unos nombres que 
-no sean Juana y Sergio?
-Estilo de vida
-Indica el poder adquisitivo y estilo de vida del personaje. En principio no hay límite 
-más allá del consenso al que lleguéis en el grupo. No existe un impacto real en las 
-estadísticas del juego, pero, desde luego, sí tendrá un impacto en la Ficción. ¿Se 
-puede seguir luchando contra la Oscuridad cuando tu familia no puede pagar el 
-alquiler? ¿Hay algo realmente complicado cuando tus padres son los dueños de 
-unos grandes almacenes? ¿Tienes que trabajar en la pastelería de tus padres al salir 
-de clase?
-Edad
-Indica la edad del personaje. Las magical girls parecen despertar en algún momento 
-entre los ocho y los diecisiete años, dependiendo del tono y la ambientación. Sin 
-embargo, nada impide que existan excepciones. Hablad entre vosotros para saber 
-qué edades son adecuadas para vuestra partida.
-Si bien la edad del personaje no tiene un impacto mecánico, sí lo tiene en la Ficción.
-Signo del zodiaco
-En muchas culturas el signo del zodiaco afecta a la vida de las personas y define 
-algunas partes de su personalidad. Este dato no tiene ningún efecto directo en el 
-juego, pero suele ser relevante en las obras de este género. Cada signo, además, 
-pertenece a un elemento concreto que ayuda a definirlo aún más con una serie de 
-características, aunque no tienen porque cumplirse.
-Algunos jugadores deciden escoger su signo al azar mientras que otros buscan que 
-coincida con la personalidad que quieren darle o refleje al personaje.
-A continuación aparece una pequeña guía con las características más habituales 
-que se asocian a los distintos signos del zodiaco.
-29
-•Luz•
+一旦選定了要扮演的魔法少女類型，你將需要做一系列的決定。起初可能會覺得選擇有些有限，但隨著故事推進，新的選項將逐漸開放。正因如此，即使共用同一本扮演書，也很難出現兩段完全相同的故事，讓每個角色都獨一無二。
 
-Características zodiacales
-Aries
-Elemento: Fuego
-Las aries son personas llenas de energía y entusiasmo, con un carácter impetuoso. 
-Destacan por ser trabajadoras, con un inquebrantable sentido del deber, dando mu-
-cho valor a su palabra, que difícilmente romperán. También suelen ser posesivas, 
-rebeldes y, debido a que son de sangre muy caliente, a veces algo agresivas.
-Tauro
-Elemento: Tierra
-Las tauro son prácticas y pacientes. Son capaces de esperar su momento con la pacien-
-cia de una montaña. Muchas tauro parecen disponer de un sentido innato para prepa-
-rar planes con antelación. En su contra está que suelen ser personas muy cabezotas y 
-sus mentes son incapaces de innovar, además de ser un poco gruñonas o rencorosas.
-Géminis
-Elemento: Aire
-El signo de los gemelos es muy apropiado para aquellas que parecen contar con 
-dos personalidades diferentes. Alguien que se esfuerce en conocer a un géminis 
-descubrirá una persona divertida capaz de sacar el lado alegre de cualquiera que 
-tenga cerca.
-Las géminis cuentan con un espíritu siempre joven que parece no morir jamás, a la 
-vez que son locuaces y amables. Por desgracia, sus virtudes pueden volverse defec-
-tos al ser tan impulsivas, charlatanas y hasta mentirosas, pues tratan de protegerse 
-dando la sensación de ser superficiales. Esta máscara les sirve para evitar acercarse 
-demasiado a los demás.
-Cáncer
-Elemento: Agua
-El más reservado de los signos del zodiaco. Las nacidas bajo él albergan desde las 
-personas más serias y aburridas a las estrellas más brillantes del cielo. Las cáncer 
-suelen tener una actitud conservadora que hace de su hogar un refugio inexpug-
-nable, en el cual se cobijan hasta perderse en su rico mundo interior. Disponen de 
-un sexto sentido para notar cuándo deben acercarse a alguien y cuándo alejarse.
-Suelen evadirse de la realidad, ser muy irritables y algo perezosas.
-30
-Maho Shojo
+:::note[範例]
+當 Mónica 開始一場新的 Mahō Shōjo 戰役時，她與四位玩家聚在一起，請她們從可用的扮演書中選擇。最後，每個人都選了不同的扮演書後，就可以開始創建角色了。
 
-Leo
-Elemento: Fuego
-Leo es el signo dominante del zodiaco, así como el león es el rey de los animales, y 
-se encuentra rigiendo sobre las otras constelaciones. Una leo nunca tiene miedo, ya 
-que sabe que el mundo puede hacerse mejor mediante sus acciones.
-Son líderes increíbles, generosas y con un espíritu inquebrantable. Por desgracia, 
-no todo en ellas es una virtud, pues sus dones suelen venir con prepotencia y com-
-portamientos infantiles cuando sus objetivos no salen como pretenden.
-Virgo
-Elemento: Tierra
-Reservadas, detallistas, perfeccionistas y con un punto de obsesión, las virgo están 
-en la continua búsqueda del orden del cosmos. Es muy habitual que sean personas 
-observadoras y serviciales, buscando siempre alguien a quien ayudar a lograr sus 
-objetivos. Esta forma de ser las hace dedicar sus vidas a los demás, aunque evitan 
-el reconocimiento por sus acciones.
-Suelen ser personas cerradas, lo que les da fama de serias y antipáticas. Además 
-su perfeccionismo suele llevarlas a dejar a medias lo que empiezan, pues creen que 
-todo puede ser mejorado.
-Libra
-Elemento: Aire
-Libra es el signo más civilizado del zodiaco. Cualquiera que nazca bajo su amparo 
-tiene el encanto, la elegancia y la capacidad social para construir. Su corazón siem-
-pre irradia una amabilidad que inspira a los demás a crear algo nuevo que mejore 
-el mundo.
-Por desgracia, no son capaces de soportar el conflicto y la barbarie, lo que las hace 
-personas indecisas ante los problemas, por lo que suelen actuar de forma superfi-
-cial sin arreglar los problemas en su raíz.
-Escorpio
-Elemento: Agua
-Las escorpio son pura intensidad emocional. En apariencia, una persona de este 
-signo parece tranquila y calculadora, pero es tan solo una barrera para contener un 
-torrente imparable.
-31
-•Luz•
+「好的，Esther，妳選了哪一個？」
 
-Afables y habladoras, nunca escapan de una discusión, pues su objetivo es tra-
-tar de encontrar los elementos razonables en todos los discursos y después 
-aconsejar a los que quieren escucharlas. Por desgracia para ellas, suelen ser 
-desconfiadas, se sienten fácilmente agredidas, y son capaces de guardar mucho 
-odio y envidia en su interior, una especie de maldición, ya que la pasión es un 
-don de extremos.
-Sagitario
-Elemento: Fuego
-Aquellas personas que nacen bajo el auspicio de sagitario son versátiles y aventu-
-reras. Una persona con esos dones tiene la capacidad de buscar la verdad sin im-
-portarle las consecuencias. Siempre tratará de embarcarse en nuevas experiencias, 
-convirtiéndolas en atletas y amantes de las emociones extremas, algo que las hace 
-ser metódicas y dedicadas en su preparación.
-Por desgracia para ellas, son personas radicales y caprichosas, incapaces de ver los 
-matices del mundo, y no saben controlar su temperamento.
-Capricornio
-Elemento: Tierra
-Estable, segura y tranquila, son algunas de las virtudes que definen a las nacidas 
-bajo el signo de Capricornio. Alguien así se muestra al mundo ambiciosa y decidida 
-a lograr grandes proezas que parecían imposibles. Suelen ser muy cuidadosas para 
-evitar cualquier fallo y eventualidad.
-Su mayor defecto suele ser el pesimismo, que les hace fallar cuando están cerca de 
-la meta. También son personas tímidas, por lo que les cuesta llegar a los demás, y 
-son capaces de albergar un gran rencor que las atrapa en el pasado, impidiéndoles 
-ver el futuro.
-Acuario
-Elemento: Aire
-Todas las acuario tienen personalidades fuertes y atractivas. Sin embargo, al 
-igual que los vientos, se dividen entre las tímidas y sensibles y las superficiales 
-y extrovertidas. Sin importar su rama, todas disponen de una gran profundidad 
-de pensamiento y buscarán la verdad, incluso sabiendo que están equivocadas. 
-Alguien bajo este auspicio recibe gran satisfacción de ayudar a los demás a cre-
-cer como personas. Lamentablemente, son tozudas y les cuesta cambiar de opi-
-nión, incluso cuando saben que están equivocadas, además se suelen comportar 
-de forma imprevisible.
-32
-Maho Shojo
+「我選了勇者，那是最吸引我的，雖然 Cristina 也想選，但我們討論過後，她選了鬥士。」
 
-Piscis
-Elemento: Agua
-Una piscis es alguien tranquila y paciente, además de empática, capaz de absorber 
-los sentimientos de otros y sentirlos como propios. Este particular don las convierte 
-en personas cariñosas y amables.
-Es muy común entre las piscis buscar a alguien con quien compartir su vida, pues su 
-capacidad empática les hace sentir que les falta una parte de sí mismas; no en vano este 
-signo son dos peces girando en círculos. Por desgracia, son un poco irresponsables y 
-les cuesta socializar, pues saben que conectar con otra persona trae consigo dosis de 
-dolor.
-Características elementales
-Fuego
-El fuego es acción e instinto, la necesidad de actuar dejándose llevar por la energía 
-de su interior. Las personas bajo el poder de los signos que forman este elemento 
-tienden a ser apasionadas, rápidas, astutas y muy independientes.
-Las personas de fuego suelen ser extrovertidas, temerarias e impasibles, además de 
-egocéntricas, arrogantes e impacientes. El optimismo es algo común en todas ellas, 
-gracias al cual suelen ignorar el pasado. No suelen ser personas con tacto pues, 
-para ellas, la pasión y los impulsos están por encima de la razón.
-Tierra
-El elemento de tierra está ligado a la percepción. Los que están bajo el poder de este 
-elemento parecen más conscientes de la realidad a su alrededor que el resto de per-
-sonas. Las magical girls bajo este elemento suelen ser de temperamento tranquilo y 
-algo introvertido, además de muy perseverantes.
-Es habitual que todos los signos de tierra tengan normas y códigos de conducta, 
-algo que les ayuda a superar cualquier obstáculo que surge en el camino gracias a la 
-voluntad por hacer lo correcto. Otra cualidad presente en ellas es que son realistas, 
-lo que les permite cosechar y disfrutar los frutos del trabajo duro.
-Aire
-El aire representa aquello que da energía y fuerza a la mente. Los signos bajo este 
-elemento disponen de amplios conocimientos y creatividad, así como la capacidad 
-de transmitirlos sin importar su forma. Una magical girl perteneciente a un signo 
-de aire actuará después de sopesar las alternativas para escoger la mejor decisión, 
-disponiendo además de una gran imaginación o cualidades artísticas.
-33
-•Luz•
+「很好，那我們開始塑造角色吧？」
+:::
 
-Por desgracia para las personas con esta cualidad elemental, el precio a pagar es 
-que su particular forma de ver el mundo, especialmente rico y bello, choca con la 
-realidad.
-Agua
-Los signos amparados bajo el elemento del agua son muy sensibles a las emociones. 
-Estas personas le dan más importancia a los sentimientos y todo lo que abordan, 
-como puede ser: la pasión, la frustración, el amor, el odio, el miedo o la dicha. Al-
-guien así no se preocupa por el mundo físico o mental, que suelen ser invadidos por 
-la emoción que irradia.
-Entre sus mayores cualidades suelen estar la empatía, la adaptabilidad y la compa-
-sión, además de ser personas románticas y espirituales. Sin embargo, tener el amparo 
-del agua también trae consigo importantes defectos, como la inestabilidad, la vulnera-
-bilidad, el miedo o la desconfianza, los cuales pueden arrastrarlas a la soledad.
-Grupo sanguíneo
-En la cultura japonesa está muy arraigada la creencia de que el grupo sanguíneo es 
-capaz de condicionar la personalidad de una persona. Este mito está especialmente 
-presente en la cultura adolescente y es un elemento que dentro de la cultura manga 
-y anime tiene especial importancia. Para representar esto, durante la creación de 
-personajes selecciona un grupo sanguíneo y, a continuación, escoge un rasgo posi-
-tivo y otro negativo para anotarlo en tu Libreto.
-34
-Maho Shojo
+一旦每位玩家選定了扮演書，特別是如果這是你們要進行的第一次聚會，最好先停下來，大家一起討論幾個重要的事項：
 
-A
-Positivos: Seria, pulcra, sensible, confiable, atenta, concienzuda, perfeccionista, 
-cautelosa y responsable.
-Negativos: Obstinada, ansiosa, reservada, intensa, nerviosa y tímida.
-B
-Positivos: Pasional, creativa, indecisa, aventurera, fuerte, alegre y curiosa.
-Negativos: Egoísta, salvaje, irresponsable, indecisa, impredecible y relajada.
-O
-Positivos: Líder, resistente, optimista, intuitiva, cautelosa y agradable.
-Negativos: Insensible, arrogante, insegura, ambiciosa, celosa, impredecible y des-
-preocupada.
-AB
-Positivos: Talentosa, excéntrica, racional, artística, sociable, diplomática, misterio-
-sa, confiable, sensible y espiritual.
-Negativos: Indecisa, impaciente, vulnerable, complicada, tímida, crítica y reservada.
-Lo más valioso del mundo
-Para todas y cada una de las magical girls existe algo en el mundo que es capaz de 
-despertar una sonrisa e iluminar su camino en los momentos más oscuros. Este ele-
-mento puede ser una persona, un objeto, una actividad… lo único importante es que 
-sea lo más valioso para ella y que, si corriera peligro, pueda motivar a luchar contra 
-la Oscuridad. No existe ningún efecto mecánico en esta elección, pero seguramente 
-ayude al MC a construir la historia.
-Ejemplo: Una vez ha seleccionado su Libreto, Esther comienza a completar los da-
-tos de su magical girl. Lo primero es escoger su nombre, decidiéndose por Kiyomi. 
-Tras consultar con el grupo, se decide que tendrá 15 años y su familia es de clase 
-media. Sus padres trabajan como funcionarios en la ciudad, así que, aunque no 
-tiene mucho dinero, tampoco tiene problemas económicos.
-Después de un rato comprobando el resto de datos personales, decide que el signo 
-Leo y el elemento fuego encajan con el tipo de personaje que tiene en la cabeza. Lo 
-siguiente es el grupo sanguíneo, para el cual no tiene ninguna duda. Kiyomi tendrá 
-el tipo A, con los rasgos sensible y obstinada.
-Ahora solo le queda escoger lo más valioso de su mundo, decidiéndose finalmente 
-por su gato, Miyu.
-35
-•Luz•
+- 首先是建立世界觀的基礎，決定大家想要一起遊玩的方向。在「世界觀」章節中，你們可以找到一系列的問卷和輔助工具，按照三種故事類型分類。
+- 選擇引發你們力量覺醒的盟約類型。在「盟約」章節中，有三種不同的起源類型，根據最常見的類型慣例來調整。
+- 為角色選擇一本友情扮演書，它將指示角色的心如何與身邊重要之人纏繞在一起，為魔法少女的力量注入能量。
 
-Calcular Características
-En cada Libreto viene indicado cómo calcular las cinco Características de una 
-magical girl. El valor de cada una de ellas determinará lo fácil o difícil, que será 
-lograr con éxito los diferentes Movimientos. Cuando crees un nuevo PJ intenta 
-mirar más allá de los valores numéricos, cada uno de ellos representa un enfo-
-que dentro del corazón del personaje. Las cinco Características usadas en Mahō 
-Shōjo son:
-	
-✽Combativa: Indica tu capacidad de luchar y superar obstáculos mediante el 
-uso de la voluntad de seguir adelante, sin importar lo difícil que sea el reto. Es 
-una extensión de la llama del conflicto que se aloja en el corazón de cada magi-
-cal girl y el uso de ella para superar una prueba.
-	
-✽Protectora: Es la compasión que cada magical girl tiene y que puede utilizar para 
-evitar que ella o los demás sufran daño. Representa la habilidad de escudar un 
-corazón, ya sea el suyo o el de otra persona, para mantenerlo a salvo.
-	
-✽Reflexiva: Es la capacidad de usar la razón por encima de los sentimientos y 
-sirve para realizar análisis y trazar planes. Representa la habilidad para llevar 
-la calma al corazón por encima de la impetuosidad e irracionalidad.
-	
-✽Emocional: La característica emocional es la propiedad dentro del corazón de 
-una magical girl que alimenta sus pasiones. Con esta capacidad es capaz de 
-usar y proyectar los sentimientos para conectar y entender las emociones de 
-los demás.
-	
-✽Entregada: Esta cualidad oculta dentro del corazón de una magical girl re-
-presenta el vínculo entre ella y sus poderes, la inocencia y la esperanza, com-
-binadas con voluntad y creencia en la fuerza de la Luz allí donde nadie la 
-encuentra. Gracias a esta cualidad, una magical girl doblegará sus poderes y 
-podrá utilizarlos.
-Durante la creación de personajes ninguna de las Características puede ser mayor 
-que +2 ni menor que -2. Una vez que se empiece a jugar, es posible que, mediante 
-los poderes del Lux Habitu y Avances, se obtengan puntuaciones superiores o infe-
-riores a esta cantidad.
-Es aconsejable que, durante la creación, se repase el listado de Movimientos y el 
-Libreto, para saber cómo afectan las Características al juego. La mayoría de ellos 
-dependen de alguna Característica específica, que puede variar gracias a algún 
-Avance o incluso no tener ninguna.
-Ejemplo: El siguiente paso para Esther es crear sus Características. Repasando el 
-Libreto de la Campeona, las Características base son: Combativa +1, Protectora 0, 
-Reflexiva -1, Emocional +1, Entregada +1. Cuando ha tomado nota, debe escoger una 
-y sumarle un +1. Si bien podría escoger reflexiva para dejarla a 0, tras pensar un 
-rato se decide por escoger Combativa. Una vez anotada su decisión, al final queda: 
-Combativa +2, Protectora 0, Reflexiva -1, Emocional +1, Entregada +1.
-36
-Maho Shojo
+一旦有了一些關鍵想法，你們就可以開始賦予新的魔法少女生命，讓她踏上自己的冒險旅程。
 
-El Lux Habitu
-Aunque no está siempre presente, cuando alguien piensa en una magical girl se-
-guramente la imagen mental venga acompañada de sus característicos vestidos (o 
-armaduras). Este traje es la manifestación física de la Luz y el poder que hay dentro 
-de su corazón. En cuanto a las reglas, este vestido es conocido como Lux Habitu 
-(aunque puede tener otro nombre dentro de vuestra ambientación) y, cuando se 
-usa, permite a una magical girl utilizar sus poderes y proezas mágicas.
-Cuando diseñes una magical girl deberías pensar cuál es el aspecto concreto de este con-
-junto. ¿Tiene falda? ¿Cambia el color del pelo? ¿Tiene algún tipo de adorno como broches, 
-cintas o diademas? Recuerda que la transformación es un elemento estético, pero es muy 
-importante en este género. En el momento en el que una magical girl se transforma y 
-viste su traje, pasa de ser una persona ordinaria a una heroína. Cuando hayas creado 
-una imagen mental de la vestimenta puedes pasar a completar algunos datos sobre él.
-Es posible que en vuestra ambientación decidáis que no existe el Lux Habitu clásico, 
-algo que era común en los orígenes del género mahō shōjo y que está resurgiendo en 
-algunas series actuales. Si habéis tomado esa decisión, tendrás que encontrar algún 
-tipo de sustituto, como, por ejemplo, un objeto mágico que cumpla la misma función. 
-Deberéis de modificar consecuentemente las opciones Título, Color, Talismán, etc., de 
-forma acorde, pero siguen funcionando igual que un Lux Habitu a efectos de juego.
-Puedes leer más sobre los Lux Habitu y su utilidad en el juego en los capítulos «Los 
-Movimientos» (página 103) y «Luz contra Oscuridad» (página 124).
-Título
-Es una práctica común en el género mahō shōjo que, junto a sus poderes, se ad-
-quiera algún tipo de sobrenombre al transformarse. Este título para algunas llega a 
-ser incluso más importante que su propio nombre. Por norma general, estos nom-
-bres son combinaciones de entre dos y tres adjetivos, a los que se suma de alguna 
-forma el nombre o tema de la magical girl. La naturaleza de este título puede tener 
-cualquier origen y pronunciarse en cualquier idioma, si bien el inglés suele ser pre-
-dominante en muchas obras.
-Nombres de ejemplo: Cutie Oracle of Fire, Star Melody Yuna, Pretty Savior Melody, 
-Star Light Flower.
-Tema
-Cada magical girl pasa a estar asociada a un tema específico en el momento que su 
-corazón despierta y realiza su primera transformación. Esto es una representación 
-física de la Luz contenida en su propio corazón, que le permite enfrentarse a la ad-
-versidad. Este poder está definido en muchas ocasiones por la personalidad de la 
-magical girl, aunque esto no es obligatorio y puede resultar divertido que no lo sea.
-37
-•Luz•
+## 個人資料
 
-La elección de un tema debería venir reflejado en todos los componentes de la 
-magical girl, como su Título, su Talismán, su Lux Habitu y, por supuesto, en sus 
-propios poderes. El tema tendrá un fuerte impacto en la Ficción, pues, por norma 
-general, esta elección afecta a toda su estética, Lux Habitu y poderes. Además 
-de poder tener efectos en la Ficción… ¿puede una magical girl con tema de fuego 
-afectar a un Campeón que está vinculado al fuego? ¿Puede una magical girl con 
-tema de electricidad ser inmune a esta? Tras elegir la estética, a continuación se 
-trata de definir cómo esta se implementa en cada una de las acciones de tu magi-
-cal girl mientras esté transformada.
-A continuación tienes una lista de los temas más comunes en las series sobre ma-
-gical girl:
-Animales (habitualmente uno concreto, como un gato o una mariposa), cadenas, 
-sueños, tierra, agua, fuego, aire, madera, metal, tiempo, cartas, corazones, flores, 
-espadas (a veces otras armas), naturaleza, luz, oscuridad (infrecuente de ver), luna, 
-arcoiris, telas, estrellas, sol o música.
-Puedes saber más sobre cómo afecta el Tema a la Ficción y su uso en el juego en el 
-capítulo «Luz contra Oscuridad» en la página 114.
-Color
-Todos los Lux Habitu de las magical girls son conocidos por su colorido. La mayoria 
-de estos vestidos combinan dos colores diferentes, como por ejemplo el amarillo y 
-el naranja o el rosa y el blanco. Elige el color exacto de tu Lux Habitu.
-Los ejemplos más comunes de colores en las series sobre magical girls son: rojo, 
-naranja, amarillo, verde, azul, morado, rosa, blanco, marrón, gris, dorado, plateado 
-y negro.
-Talismán
-El Talismán es el objeto físico que permite a una magical girl transformarse. Cuando 
-la heroína sostiene este objeto mientras se dicen las palabras mágicas suele desen-
-cadenar un Movimiento de Transformación (ver «Los Movimientos» en la página 
-103), para poder extraer la Luz de su corazón y vestir el Lux Habitu.
-Por costumbre, los talismanes de todas las magical girls suelen ser similares o al me-
-nos compartir un elemento común, por ejemplo, una piedra mágica. En este paso se-
-ría bueno que hablaráis entre todos para definirlos antes de decidir uno en particular.
-Los ejemplos más comunes de talismanes son: pendientes, anillos, broches, relojes, 
-pulseras, perfumes, varitas mágicas, piedras, móviles, etc.
-38
-Maho Shojo
+選定扮演書後，就該開始設計角色了。你在這裡做的決定將成為角色故事與原型其餘部分的基礎。雖然這些選擇在遊戲機制上沒有效果，但可能對虛構敘事產生重大影響。
 
-Medidor de Poder
-El Medidor de Poder indica los poderes y ventajas que adquiere una magical girl 
-durante un combate contra seres de la Oscuridad. Existen tres categorías de pode-
-res, vinculados a sus tres formas: Básica, Súper y Triunfante. Todas las magical girls 
-disponen al inicio de la forma Básica y podrán acceder a la Súper y a la Triunfante 
-según vayan obteniendo nuevos Avances.
-En este momento también obtendrás tu primer «Poder del Corazón», por lo que debe-
-rías dedicar unos minutos a diseñarlo (ver «Luz contra Oscuridad» en la página 133).
-Ejemplo: Ahora que tiene la base de su personaje, es momento de crear la versión ma-
-gical girl de Kiyomi. Lo primero que piensa es en el aspecto del Lux Habitu: este será un 
-vestido con falda, zapatos de bailarina y medias largas. Cuando se transforma, su pelo 
-queda recogido en dos coletas y aparece una enorme espada, casi del mismo tamaño 
-que ella. Una vez tiene una imagen mental, comienza a rellenar los apartados del Libreto.
-Como Título se decide por Celestial Sword Kiyomi, como Tema (después de pensarlo 
-un rato) escoge el viento y el color predominante de su vestido es el azul celeste.
-A continuación, habla con el resto de sus compañeras y deciden que los talismanes se-
-rán unas chapas, así que la suya tendrá impreso un gato con una espada en el fondo.
-Para finalizar, marca los poderes básicos del Medidor de Poder y crea un Poder del 
-Corazón de ataque, el Celestial Burst, un ataque especial en el que usará la espada 
-«Celestial Sword» contra los seguidores de la Oscuridad.
-Preguntar y preguntar
-Como MC, según va avanzando un jugador y completando los distintos pasos del 
-Libreto, deberías empezar a preguntar al jugador sobre su personaje. No temas reali-
-zar ninguna pregunta ni volver a preguntar sobre las cosas que necesites saber. Esto 
-es muy importante porque estas respuestas son los cimientos con los que crearás la 
-partida y diseñarás los distintos Eclipses (ver «El Eclipse» en la página 242). Otra cosa 
-que deberías procurar es que, durante toda la creación, los jugadores estén en con-
-tacto, compartan ideas, impresiones e información. Anímales incluso a volver atrás 
-y rehacer una parte del trabajo si con ello obtenéis algo más interesante y divertido.
-A continuación tienes un ejemplo de buenas preguntas que puedes realizar desde 
-el inicio de la creación de una nueva magical girl:
-¿Quién eres?
-¿Quién es tu familia?
-¿Por qué fuiste elegida?
-¿Qué tipo de poderes tienes? ¿Cómo los lograste? ¿Te has transformado ya alguna vez?
-¿Te has enfrentado ya a los Fugados? ¿Cómo fue tu primer encuentro?
-39
-•Luz•
+:::tip[關於性別]
+也許在閱讀本書的過程中你會想到一個問題：我只能創建青少女角色嗎？這是個好問題。答案是否定的，但需要多做一些解釋。
 
-Elegir Movimientos
-Todos los personajes pueden, a menos que se diga lo contrario, realizar todos los 
-Movimientos Básicos del juego. Si quieres saber más sobre ellos deberías ir al capí-
-tulo «Los Movimientos» en la página 86.
-Aparte de estos Movimientos Básicos, cada Libreto dispone de una serie de Movi-
-mientos Especiales que se añaden a su repertorio. Estos Movimientos adicionales 
-pueden representar tanto nuevos poderes como habilidades y acciones exclusivas.
-Cuando creas un personaje, en cada Libreto viene indicado con cuáles empieza; 
-por ejemplo, una Campeona empezará con Elegida por los guardianes, mientras 
-que una Guerrera lo hará con La senda de la guerrera. Algunos de estos primeros 
-Movimientos que elijas pueden afectar al estilo de juego del personaje. No deberías 
-tener miedo de cometer un error, según avances podrás escoger aquellos que no 
-seleccionaste en este paso.
-Ejemplo: Esther continúa completando el libreto de Kiyomi y es el momento de esco-
-ger sus Movimientos de Libreto. La Campeona obtiene Elegida por los Guardianes, 
-un Movimiento que representa su control y dominio de los poderes de la Luz. Cuan-
-do obtiene este Movimiento, deberá escoger entre tres opciones y Esther se decide 
-por las siguientes: Por el poder de la Justicia, Guiada por el corazón (escogiendo 
-A la luz de la verdad como Movimiento Básico) y Susurros de los Guardianes. A 
-continuación, como Campeona, obtiene también Discurso de entrada.
-Escoger el tipo de Pacto
-Una vez seleccionados los Libretos, pero antes de empezar a completarlos, sería 
-bueno que dediquéis unos minutos a decidir cuál de los tres Pactos vais a utilizar en 
-la partida. Cada uno de ellos modifica la experiencia de juego y puede afectar a la 
-forma de tratar ciertos temas y tramas. Los tres disponibles son:
-	
-✽Hijas de la Luz
-	
-✽Campeonas de la Justicia
-	
-✽Marionetas de los Custodios
-Una vez elegido uno de ellos puedes conceder a las magical girls pequeñas modi-
-ficaciones y Movimientos de Pacto. Por ejemplo, el Pacto «Campeonas de la justi-
-cia» da acceso a los Movimientos de colaboración mientras que «Marionetas de los 
-Custodios» permite utilizar los Movimientos de Oscuridad. Para saber más acude al 
-capítulo «El Pacto» de la página 173.
-40
-Maho Shojo
+在撰寫本手冊時，我們始終假設玩家將扮演青少女。為什麼呢？因為這在此類作品中是常態，也是最具代表性的形式。在遊戲世界中，這個問題可以用不同方式回答，甚至可以取消這項限制。在過去的數十年間，我們在許多漫畫和動畫系列中看過魔法少男、跨性別的少女（或少男）、變身時從男孩變成女孩的角色、從女孩變身為男孩的角色……組合的可能性和你們遊戲桌上的想像力一樣廣闊。永遠不要讓別人告訴你在你的遊戲桌上什麼是對什麼是錯。
+:::
 
-Oscuridad
-La Oscuridad representa todo aquello que 
-se opone a las magical girls, desde los celos 
-y la envidia hasta terroríficas criaturas. La 
-naturaleza exacta, así como los orígenes de 
-la Oscuridad y cómo amenaza la vida de los 
-personajes, se decide durante la construc-
-ción de la ambientación (ver página 262).
-Según avance la historia, parte de esta Os-
-curidad termina afectando a las protagonis-
-tas y teniendo efecto en su corazón. Para 
-representar esto las magical girls tendrán 
-dos puntuaciones distintas de Oscuridad, los 
-Puntos de Oscuridad y el Nivel de Oscuridad: 
-las cuales empiezan a 0.
-Para saber más sobre cómo obtener y subir 
-el Nivel de Oscuridad ver el capítulo «Luz 
-contra Oscuridad» de la página 142, y para 
-saber cuáles son sus efectos consulta el 
-Pacto correspondiente en el capítulo «El 
-Pacto» de la página 173.
-Ejemplo: Mientras han ido diseñando sus 
-personajes, Mónica, que hace de MC, y sus 
-cuatro jugadoras han estado discutiendo 
-qué tipo de ambientación y Pacto estaban 
-interesadas en escoger. Al principio Esther, 
-Cristina, Vanesa y Ruth llegaron a la con-
-clusión de que querían escoger «Mario-
-netas de los Custodios» y pusieron unas 
-pequeñas bases para poder construir sus 
-personajes, algunas de las cuales modifi-
-caron para adaptarlas a las ideas que fue-
-ron surgiendo.
-Una vez llegadas a este punto observan 
-que cada una de ellas obtiene cuatro Mo-
-vimientos de Oscuridad, si bien aún no 
-podrán utilizarlos. Cada una de ellas ano-
-ta en sus Libretos que tienen 0 Puntos de 
-Oscuridad y que su Nivel de Oscuridad es 
-también 0 antes de seguir adelante.
-41
-•Luz•
+### 姓名
 
-Libretos y Movimientos de Amistad
-Las magical girls extraen poder de su corazón, que se alimenta de las emociones y 
-los Lazos que las unen a las personas importantes de su vida. Durante la creación 
-de personajes cada jugador selecciona un Libreto de Amistad junto al de su Arque-
-tipo.
-Una vez escogido este Libreto, cada uno indica cómo se crean los Lazos de Amistad 
-y contiene una serie de preguntas que deben responderse para trazar las relaciones 
-(ver más adelante).
-Cuando hayáis respondido y anotado todas las relaciones, deberás escoger un Mo-
-vimiento del Libreto de entre los disponibles.
-Puedes saber más sobre la amistad en los capítulos «Los Movimientos» (página 109), 
-«Amistad y Romance» (página 62) y «Luz contra Oscuridad» (página 136).
-Libretos y Movimientos de Romance
-Existe algo capaz de alimentar el corazón de una magical girl aparte de la amistad: 
-el romance. El amor es capaz de desatar capacidades y poderes únicos en el corazón 
-de una magical girl. Durante la creación de personajes no tendrás acceso a estos 
-Libretos, pero una vez empecéis a jugar podrás desbloquearlos. Para saber más 
-sobre el romance y sus beneficios, mirad el capítulo «Amistad y romance» (página 71) 
-y «Luz contra Oscuridad» (página 140).
-Ejemplo: Esther está a punto de terminar el libreto de Kiyomi. Ha escogido el Libre-
-to de Amistad llamado Nexo de Corazones y selecciona el movimiento El poder de 
-la Amistad.
-42
-Maho Shojo
+總是從名字開始。在遊戲世界中扮演魔法少女時，這將是別人稱呼你的方式。有些玩家會把名字當作表達世界觀、個性或角色力量的工具。
 
-Lazos y presentación
-Cuando todo el mundo haya terminado sus Libretos toca presentarle los personajes 
-al grupo y empezar a trazar las relaciones. Cada Libreto de Amistad indica cuántas 
-y el tipo de relaciones que tiene cada magical girl. Por turnos, id respondiendo cada 
-una de las preguntas e indicando cómo están conectadas entre sí. De esta forma se irá 
-construyendo, a través de estas respuestas, la situación personal de cada uno de los 
-personajes. Durante este proceso todos los demás jugadores pueden realizar cualquier 
-pregunta para ayudar a tener una imagen más completa del personaje presentado.
-No te preocupes si a lo largo de este paso tienes que volver atrás o redefinir cualquier 
-cosa que haga falta, no deberías dejar escapar una buena idea meramente porque 
-no encaje con algo. Una vez terminado, cada personaje comienza con 5 Puntos de 
-Amistad.
-Después de este paso es el momento de que las nuevas magical girls pasen a contar 
-su propia historia, si bien quizás el MC aún necesite completar algunos puntos de 
-la ambientación para poder construir la primera sesión (para saber más dirígete a 
-«Empezar en el primer capítulo en la página 220).
-Ejemplo: Una vez han acabado, Mónica indica a Esther y a las demás que presen-
-ten sus personajes al resto del grupo. Esther llevará a la Campeona Kiyomi, Cristina 
-a la Guerrera Inoue, Vanesa a la Consejera Akari y Ruth a la Idol Yoriko. Una vez 
-presentadas una a una comprueba sus Libretos de Amistad y empiezan a respon-
-der preguntas mientras se etiquetan unas otras.
-Al terminar, Mónica les indica que se anoten cinco Puntos de Amistad.Es el momen-
-to de empezar, aunque antes Mónica necesita un poco de información adicional 
-para poder llevar a cabo la primera sesión.
-43
-•Luz•
+一般來說，魔法少女的故事都設定在日本。然而，沒有什麼能阻止你使用非日本的名字。不要害怕在你們的遊戲桌上使用任何你們認為合適的名字；畢竟在二十世紀末的漫畫和動畫文化中，有著將名字西方化的悠久傳統。或者有人知道 Yō 和 Shō 用的不是 Juana 和 Sergio 的名字嗎？
+
+### 生活方式
+
+表示角色的消費能力和生活方式。原則上除了團體達成的共識之外沒有限制。這在遊戲數值上沒有實際影響，但在虛構敘事中必定會產生影響。當你的家庭付不起房租時，還能繼續與黑暗戰鬥嗎？當你的父母是大型百貨公司的老闆時，還有什麼真的很困難嗎？你必須在放學後到父母的蛋糕店裡工作嗎？
+
+### 年齡
+
+表示角色的年齡。魔法少女似乎在八歲到十七歲之間的某個時刻覺醒，具體取決於基調和世界觀。然而，沒有什麼能阻止例外的存在。大家討論一下，看看什麼年齡適合你們的遊戲。
+
+雖然角色的年齡在機制上沒有影響，但在虛構敘事中確實有影響。
+
+### 星座
+
+在許多文化中，星座會影響人的生活並定義部分個性。這項資料在遊戲中沒有直接效果，但在此類型的作品中往往具有重要意義。每個星座還屬於一個特定的元素，能更進一步地以一系列特徵來定義它，但這些並非必須符合。
+
+有些玩家決定隨機選擇自己的星座，而有些則會尋找與想要賦予角色的個性相符或反映角色特質的星座。
+
+以下是各星座最常見的相關特徵小指南。
+
+### 星座特質
+
+#### 牡羊座
+
+**元素：火**
+
+牡羊座的人充滿能量和熱情，性格衝動。她們以勤勞著稱，擁有堅不可摧的責任感，非常重視自己的承諾，很少會食言。她們也往往具有佔有慾、叛逆，而且由於血氣方剛，有時會有些好鬥。
+
+#### 金牛座
+
+**元素：土**
+
+金牛座的人務實且有耐心，能以山一般的耐性等待自己的時機。許多金牛座似乎天生就有提前規劃的能力。缺點是她們往往非常固執，思維缺乏創新能力，而且有點愛發牢騷或記仇。
+
+#### 雙子座
+
+**元素：風**
+
+雙子的星座非常適合那些似乎擁有兩種不同性格的人。努力去了解一個雙子座的人，會發現她是個有趣的人，能讓身邊的任何人展現快樂的一面。
+
+雙子座擁有一種似乎永不消逝的青春精神，同時她們健談且友善。不幸的是，她們的優點可能變成缺點，因為她們如此衝動、饒舌甚至善於說謊——她們試圖保護自己，給人一種膚淺的印象。這層面具讓她們避免與他人過於親近。
+
+#### 巨蟹座
+
+**元素：水**
+
+十二星座中最內斂的星座。出生在此星座下的人，從最嚴肅無趣的人到天空中最閃亮的星星都有。巨蟹座通常有保守的態度，把家打造成固若金湯的避風港，在其中沉浸於自己豐富的內心世界。她們有一種第六感，知道何時該靠近某人，何時該保持距離。
+
+她們往往逃避現實、容易煩躁，而且有點懶惰。
+
+#### 獅子座
+
+**元素：火**
+
+獅子座是黃道中最具統治力的星座，正如獅子是百獸之王，主宰著其他星座。獅子座的人從不畏懼，因為她知道世界可以透過自己的行動變得更好。
+
+她們是出色的領導者，慷慨大方，擁有堅不可摧的精神。不幸的是，她們並非全是優點，因為她們的才能往往伴隨著傲慢，以及當目標未能如願時的幼稚行為。
+
+#### 處女座
+
+**元素：土**
+
+內斂、注重細節、追求完美且有些執著，處女座的人不斷追尋宇宙的秩序。她們通常是善於觀察、樂於助人的人，總是在尋找可以幫助的對象來達成目標。這種性格使她們把人生奉獻給他人，儘管她們會迴避因此而得到的認可。
+
+她們往往是封閉的人，這讓她們給人嚴肅和不友善的印象。此外，她們的完美主義往往導致半途而廢，因為她們認為一切都可以改進。
+
+#### 天秤座
+
+**元素：風**
+
+天秤座是黃道中最文明的星座。任何在其庇護下出生的人都擁有魅力、優雅和建設性的社交能力。她們的心永遠散發著一種友善，激勵他人創造改善世界的新事物。
+
+不幸的是，她們無法忍受衝突和野蠻，這讓她們在面對問題時優柔寡斷，因此往往表面處理而不觸及問題的根源。
+
+#### 天蠍座
+
+**元素：水**
+
+天蠍座是純粹的情感力量。表面上，這個星座的人看起來冷靜且善於算計，但這只是用來遏止洶湧洪流的屏障。
+
+她們親切且健談，從不逃避討論，因為她們的目標是在所有言論中找到合理的成分，然後為願意傾聽的人提供建議。不幸的是，她們往往多疑、容易感到被冒犯，能在內心深處積蓄大量的仇恨和嫉妒——這是一種詛咒，因為熱情是一種極端的天賦。
+
+#### 射手座
+
+**元素：火**
+
+出生在射手座下的人多才多藝且愛好冒險。擁有這些天賦的人有能力不顧後果地追尋真理。她們總是試圖踏上新的經歷，使她們成為運動健將和極致情感的愛好者，這也讓她們在準備方面嚴謹而專注。
+
+不幸的是，她們個性極端且任性，無法看到世界的細微差別，也不善於控制自己的脾氣。
+
+#### 摩羯座
+
+**元素：土**
+
+穩定、自信且沉著，是定義摩羯座出生者的一些美德。這樣的人向世界展示出雄心勃勃、決心完成看似不可能的偉大壯舉。她們通常非常謹慎，以避免任何失誤和意外。
+
+她們最大的缺點通常是悲觀主義，這讓她們在接近目標時失敗。她們也是害羞的人，因此難以接觸他人，而且能夠懷抱深沉的怨恨，將她們困在過去，無法看見未來。
+
+#### 水瓶座
+
+**元素：風**
+
+所有水瓶座的人都擁有強大且迷人的個性。然而，就像風一樣，她們分為害羞而敏感的一面和膚淺而外向的一面。無論屬於哪一類，她們都具有深刻的思想深度，並會追尋真理，即使知道自己是錯的。在此星座下的人能從幫助他人成長中獲得巨大的滿足感。遺憾的是，她們固執且難以改變想法，即使知道自己是錯的，而且行為往往難以預測。
+
+#### 雙魚座
+
+**元素：水**
+
+雙魚座的人安靜且有耐心，同時富有同理心，能吸收他人的感受並視為己有。這份獨特的天賦使她們成為充滿愛心且友善的人。
+
+雙魚座的人非常普遍地會尋找可以共度一生的對象，因為她們的共感能力讓她們感覺自己缺少了一部分——這個星座的象徵畢竟是兩條繞著圈游泳的魚。不幸的是，她們有些不負責任，而且不擅於社交，因為她們知道與他人建立連結也會帶來傷痛。
+
+### 元素特質
+
+#### 火
+
+火代表著行動與本能，是受內在能量驅使而行動的需要。受火象星座影響的人往往熱情、敏捷、機敏且非常獨立。
+
+火象的人通常外向、大膽且冷靜，同時也自我中心、傲慢且沒有耐心。樂觀是她們的共同特點，也正因此她們往往忽略過去。她們通常不擅長察言觀色，因為對她們而言，熱情和衝動凌駕於理性之上。
+
+#### 土
+
+土元素與感知相連。受此元素支配的人似乎比其他人更能意識到周遭的現實。受此元素影響的魔法少女通常性格沉穩、有些內向，而且非常堅韌。
+
+所有土象星座通常都有規範和行為準則，這幫助她們憑藉做正確事情的意志力克服途中的任何障礙。她們的另一個特質是務實，這讓她們能夠收穫並享受辛勤工作的成果。
+
+#### 風
+
+風代表著賦予心靈能量和力量的事物。受此元素影響的星座擁有廣泛的知識和創造力，以及無論以何種形式傳達它們的能力。屬於風象星座的魔法少女會在權衡各種選擇後再做出最佳決定，同時還擁有豐富的想像力或藝術才能。
+
+不幸的是，對於擁有這種元素特質的人來說，代價是她們獨特的世界觀——尤其豐富而美麗——與現實產生衝突。
+
+#### 水
+
+受水元素庇護的星座對情感非常敏感。這些人更重視感受和她們所面對的一切，例如：熱情、挫折、愛、恨、恐懼或喜悅。這樣的人不在意物質或精神世界，因為這些往往被她們散發的情感所淹沒。
+
+她們最大的優點通常包括同理心、適應力和同情心，而且她們是浪漫且具有靈性的人。然而，受水元素庇護也帶來了重要的缺點，如不穩定、脆弱、恐懼或不信任，這些可能會將她們拖入孤獨。
+
+### 血型
+
+在日本文化中，血型能影響一個人性格的信念根深蒂固。這個迷思在青少年文化中尤為盛行，在漫畫和動畫文化中也特別重要。為了表現這一點，在角色創建時選擇一個血型，然後各選一個正面和負面的特質記錄在你的扮演書上。
+
+#### A 型
+
+**正面特質：** 認真、整潔、敏感、可靠、細心、謹慎、完美主義、慎重、負責。
+
+**負面特質：** 固執、焦慮、內向、偏執、緊張、害羞。
+
+#### B 型
+
+**正面特質：** 熱情、有創意、果斷、愛冒險、堅強、開朗、好奇。
+
+**負面特質：** 自私、粗野、不負責任、猶豫不決、難以預測、散漫。
+
+#### O 型
+
+**正面特質：** 領導力強、堅韌、樂觀、直覺敏銳、謹慎、和善。
+
+**負面特質：** 冷漠、傲慢、沒安全感、野心勃勃、嫉妒、難以預測、漫不經心。
+
+#### AB 型
+
+**正面特質：** 才華洋溢、獨特、理性、有藝術感、善於社交、圓滑、神祕、可靠、敏感、靈性。
+
+**負面特質：** 猶豫不決、沒耐心、脆弱、複雜、害羞、吹毛求疵、內向。
+
+### 最珍貴的寶物
+
+對每一位魔法少女而言，世界上都存在著某樣事物，能在最黑暗的時刻喚起笑容、照亮前路。這個元素可以是一個人、一件物品、一項活動……唯一重要的是它對她來說最為珍貴，而且如果它面臨危險，能激勵她挺身對抗黑暗。這個選擇沒有任何機制效果，但一定能幫助主持人（MC）建構故事。
+
+:::note[範例]
+選定扮演書後，Esther 開始填寫她的魔法少女資料。首先是選擇名字，她決定叫 Kiyomi。與團隊商量後，她決定角色 15 歲，家庭是中產階級。她的父母在城裡當公務員，所以雖然沒有很多錢，也不會有經濟問題。
+
+在查看完其他個人資料後，她決定獅子座和火元素與她心目中的角色類型相符。接下來是血型，她毫不猶豫。Kiyomi 的血型是 A 型，特質為敏感和固執。
+
+現在只剩下選擇她的最珍貴的寶物，最後她選了她的貓——Miyu。
+:::
+
+## 計算屬性
+
+每本扮演書中都會說明如何計算魔法少女的五項屬性。每項屬性的值將決定成功完成各種動作的難易程度。當你創建新的玩家角色時，試著看看數值背後的意義——每一個都代表著角色心中的一個面向。Mahō Shōjo 使用的五項屬性為：
+
+- **挑戰：** 表示你奮戰並透過堅持不懈的意志力克服障礙的能力，無論挑戰有多困難。它是每位魔法少女心中衝突之火的延伸，以及運用這份力量去通過考驗的能力。
+- **保護：** 是每位魔法少女所擁有的慈悲心，能用來避免自己或他人受到傷害。它代表守護一顆心的能力——無論是自己的還是他人的——使其安然無恙。
+- **思慮：** 是以理性凌駕於感情之上的能力，用於分析和制定計劃。它代表在衝動和非理性之上，為心靈帶來冷靜的能力。
+- **情感：** 情感屬性是魔法少女心中滋養熱情的特質。藉由這項能力，她能運用並投射情感，去連結和理解他人的情緒。
+- **奉獻：** 這項隱藏在魔法少女心中的特質，代表她與自身力量之間的聯繫——天真與希望，結合意志與對光明力量的信念，在無人能找到光明之處堅持信念。正是這項特質，讓魔法少女能夠駕馭並使用她的力量。
+
+在角色創建時，任何屬性都不得高於 +2 或低於 -2。一旦開始遊戲，可能會透過光之裝束的力量和成長，獲得超過或低於此數值的分數。
+
+建議在創建時，瀏覽一下動作列表和扮演書，了解屬性如何影響遊戲。大多數動作都取決於某項特定屬性，而這些屬性可能因某項成長而改變，甚至可能不需要任何屬性。
+
+:::note[範例]
+Esther 的下一步是計算她的屬性。查閱勇者的扮演書，基礎屬性為：挑戰 +1、保護 0、思慮 -1、情感 +1、奉獻 +1。記錄完畢後，她必須選擇其中一項並加上 +1。雖然她可以選擇思慮使其變為 0，但經過一番思考後，她決定選擇挑戰。記下決定後，最終結果為：挑戰 +2、保護 0、思慮 -1、情感 +1、奉獻 +1。
+:::
+
+## 光之裝束
+
+雖然並非時刻存在，但當人們想到魔法少女時，腦海中浮現的形象大概會伴隨著她們標誌性的服裝（或鎧甲）。這套服裝是光明與其內心力量的物理顯現。在規則方面，這套服裝被稱為光之裝束（Lux Habitu）——雖然在你們的世界觀中可能有其他名稱——穿上它之後，魔法少女就能使用她的力量和魔法技藝。
+
+設計魔法少女時，你應該思考這套裝束的具體外觀。有裙子嗎？頭髮會變色嗎？有什麼裝飾品，比如胸針、緞帶或頭飾？記住，變身是一個美學要素，但在這個類型中非常重要。當魔法少女變身穿上裝束的那一刻，她從一個普通人變成了女英雄。當你在腦海中構想好服裝的形象後，就可以開始填寫一些相關資料。
+
+在你們的世界觀中，也可能決定不存在經典的光之裝束——這在魔法少女類型的起源時期很常見，在某些現代作品中也正在復興。如果做了這樣的決定，你需要找到某種替代品，例如具有相同功能的魔法物品。你們需要相應地修改稱號、色彩、護符等選項，但在遊戲效果上仍然與光之裝束相同。
+
+你可以在「動作」和「光明對抗黑暗」章節中了解更多關於光之裝束及其在遊戲中用途的內容。
+
+### 稱號
+
+在魔法少女類型中，獲得力量的同時也會在變身時獲得某種別名，這是常見的做法。對某些人來說，這個稱號甚至比自己的名字更加重要。一般來說，這些名字由兩到三個形容詞組合而成，再加上魔法少女的名字或主題。稱號的來源可以是任何事物，可以用任何語言發音，雖然在許多作品中英語往往占主導地位。
+
+**範例名稱：** Cutie Oracle of Fire、Star Melody Yuna、Pretty Savior Melody、Star Light Flower。
+
+### 主題
+
+每位魔法少女在她的心覺醒並進行第一次變身的那一刻，就會與一個特定的主題產生連結。這是她心中所蘊含的光明的物理表現，讓她能夠面對逆境。這股力量在很多情況下由魔法少女的個性所定義，但這並非必要條件，不一致的話也可能很有趣。
+
+主題的選擇應該反映在魔法少女的所有組成要素中，如她的稱號、護符、光之裝束，當然還有她的力量本身。主題將對虛構敘事產生強烈影響，因為一般而言，這個選擇會影響她的整體美學、光之裝束和力量。此外，它還可能在虛構敘事中產生效果……一個以火為主題的魔法少女能影響一個與火有關聯的首領嗎？一個以電為主題的魔法少女能免疫電擊嗎？在確定美學之後，接下來要定義這個主題如何在你的魔法少女變身期間的每一個行動中體現。
+
+以下是魔法少女系列中最常見的主題列表：
+
+動物（通常是某種特定動物，如貓或蝴蝶）、鎖鏈、夢境、大地、水、火、空氣、木、金屬、時間、卡牌、心型、花朵、劍（有時是其他武器）、自然、光、黑暗（較少見）、月亮、彩虹、布料、星星、太陽或音樂。
+
+你可以在「光明對抗黑暗」章節中了解更多關於主題如何影響虛構敘事及其在遊戲中的使用方式。
+
+### 色彩
+
+所有魔法少女的光之裝束都以其繽紛的色彩聞名。大多數服裝會搭配兩種不同的顏色，例如黃色和橘色，或粉紅色和白色。選擇你的光之裝束的確切顏色。
+
+魔法少女系列中最常見的顏色範例有：紅色、橘色、黃色、綠色、藍色、紫色、粉紅色、白色、棕色、灰色、金色、銀色和黑色。
+
+### 護符
+
+護符是讓魔法少女得以變身的實體物品。當女英雄握著這個物品並說出魔法咒語時，通常會觸發變身動作，從心中提取光明並穿上光之裝束。
+
+按照慣例，所有魔法少女的護符通常是相似的，或至少共享一個共同元素，例如一顆魔法石。在這個步驟中，最好大家一起討論，在決定個別護符之前先確定共同要素。
+
+最常見的護符範例有：耳環、戒指、胸針、手錶、手環、香水、魔法棒、寶石、手機等。
+
+### 能力量表
+
+能力量表顯示魔法少女在對抗黑暗勢力的戰鬥中獲得的力量和優勢。力量分為三個等級，對應三種形態：基礎形態、超級形態和凱旋形態。所有魔法少女一開始都擁有基礎形態，隨著獲得新的成長，才能使用超級形態和凱旋形態。
+
+此時你也會獲得第一個「心之力」，因此你應該花幾分鐘來設計它（參見「光明對抗黑暗」章節）。
+
+:::note[範例]
+有了角色的基礎之後，是時候創建 Kiyomi 的魔法少女版本了。她首先想到的是光之裝束的外觀：這將是一件帶裙子的洋裝、芭蕾舞鞋和長襪。變身時，她的頭髮會紮成兩條馬尾，並出現一把巨大的劍，幾乎和她一樣大。有了腦海中的形象後，她開始填寫扮演書的各項內容。
+
+稱號她選了 Celestial Sword Kiyomi；主題（經過一番思考後）選了風；服裝的主色調是天藍色。
+
+接著，她和其他夥伴討論後決定護符是徽章，所以她的徽章上會印著一隻背景有劍的貓。
+
+最後，她勾選了能力量表的基礎形態力量，並創建了一個攻擊型的心之力——Celestial Burst，一個使用「Celestial Sword」對抗黑暗追隨者的特殊攻擊。
+:::
+
+## 多多提問
+
+作為主持人（MC），隨著玩家逐步完成扮演書的各個步驟，你應該開始向玩家詢問關於角色的問題。不要害怕提出任何問題，也不要猶豫重新詢問你需要了解的事情。這一點非常重要，因為這些回答是你創建遊戲和設計各種蝕的基石。另一件你應該確保的事是，在整個創建過程中，玩家之間保持溝通，分享想法、印象和資訊。甚至鼓勵他們回頭修改某些部分，如果這樣做能得到更有趣、更好玩的結果。
+
+以下是一些你從創建新魔法少女之初就可以提出的好問題範例：
+
+- 你是誰？
+- 你的家人是誰？
+- 你為什麼被選中？
+- 你有什麼樣的力量？你是怎麼獲得的？你已經變身過了嗎？
+- 你已經對抗過逃脫者了嗎？你的第一次遭遇是什麼樣的？
+
+## 選擇動作
+
+所有角色都可以——除非另有說明——執行遊戲中的所有基礎動作。如果你想了解更多，請參閱「動作」章節。
+
+除了這些基礎動作外，每本扮演書還有一系列加入其技能庫的特殊動作。這些額外動作可以代表新的力量、技能和專屬行動。
+
+當你創建角色時，每本扮演書會指明角色起始擁有哪些動作；例如，勇者會以「守護者所選之人」開始，而鬥士則以「鬥士之道」開始。你最初選擇的某些動作可能會影響角色的遊玩風格。你不應該害怕犯錯，隨著角色成長，你可以選擇這一步中未選取的動作。
+
+:::note[範例]
+Esther 繼續完成 Kiyomi 的扮演書，現在該選擇扮演書動作了。勇者獲得「守護者所選之人」，這個動作代表她對光明力量的掌控和駕馭。獲得此動作時，她必須在三個選項中做選擇，Esther 選了以下幾項：「以正義之力」、「由心指引」（選擇「真理之光下」作為基礎動作）和「守護者的低語」。接著，作為勇者，她還獲得了「登場宣言」。
+:::
+
+## 選擇盟約類型
+
+選定扮演書之後但開始填寫之前，最好花幾分鐘時間決定要在遊戲中使用三種盟約中的哪一種。每一種都會改變遊戲體驗，並可能影響處理某些主題和情節的方式。三種可用的盟約是：
+
+- 光明子女
+- 正義騎士
+- 契約傀儡
+
+選定其中一種後，你可以授予魔法少女小幅修改和盟約動作。例如，「正義騎士」盟約提供合作動作的使用權限，而「契約傀儡」盟約則允許使用黑暗動作。若要了解更多，請參閱「盟約」章節。
+
+## 黑暗
+
+黑暗代表一切與魔法少女對立的事物，從嫉妒和猜忌到恐怖的怪物。黑暗的確切性質、其起源，以及它如何威脅角色的生活，都在建構世界觀時決定。
+
+隨著故事推進，部分黑暗會開始影響主角們，對她們的內心產生作用。為了表現這一點，魔法少女會有兩種不同的黑暗數值——黑暗點數和黑暗等級——兩者起始均為 0。
+
+若要了解更多關於如何獲取和提升黑暗等級的資訊，請參閱「光明對抗黑暗」章節；若要了解其效果，請查閱對應盟約的「盟約」章節。
+
+:::note[範例]
+在設計角色的過程中，擔任主持人（MC）的 Mónica 和她的四位玩家一直在討論她們有興趣選擇什麼樣的世界觀和盟約。起初，Esther、Cristina、Vanesa 和 Ruth 得出結論，她們想選「契約傀儡」，並建立了一些基礎來構建角色，其中一些後來根據新出現的想法進行了修改。
+
+到了這一步，她們注意到每個人都獲得了四個黑暗動作，雖然目前還不能使用。每個人都在扮演書上記下自己有 0 點黑暗點數，黑暗等級也是 0，然後繼續前進。
+:::
+
+## 友情扮演書與友情動作
+
+魔法少女從心中汲取力量，而心靈則由情感和連結她們與生命中重要之人的羈絆所滋養。在角色創建時，每位玩家會在原型扮演書之外選擇一本友情扮演書。
+
+選定這本扮演書後，其中會說明如何創建友情羈絆，並包含一系列必須回答的問題，用來勾勒角色之間的關係（見下方說明）。
+
+當你們回答並記錄好所有關係後，你需要從扮演書的可用選項中選擇一個動作。
+
+你可以在「動作」、「友情與戀愛」和「光明對抗黑暗」等章節中了解更多關於友情的內容。
+
+## 戀愛扮演書與戀愛動作
+
+除了友情之外，還有另一種能滋養魔法少女內心的事物：戀愛。愛情能在魔法少女心中釋放獨特的能力和力量。在角色創建時你還無法使用這些扮演書，但一旦開始遊戲就能解鎖它們。若要了解更多關於戀愛及其益處，請參閱「友情與戀愛」和「光明對抗黑暗」章節。
+
+:::note[範例]
+Esther 即將完成 Kiyomi 的扮演書。她選擇了名為「心之所繫」的友情扮演書，並選取了「友情之力」動作。
+:::
+
+## 羈絆與角色介紹
+
+當所有人都完成扮演書後，就該向團隊介紹角色並開始建立關係了。每本友情扮演書會指出每位魔法少女擁有的關係數量和類型。輪流回答每個問題，說明彼此之間如何連結。透過這些回答，每位角色的個人狀況將逐漸成形。在這個過程中，其他所有玩家都可以提出任何問題，以幫助更完整地了解被介紹的角色。
+
+如果在這個步驟中需要回頭修改任何內容，不必擔心。你不應該僅僅因為某個好點子與已有設定不符就放棄它。完成後，每個角色以 5 點友情點數開始。
+
+在這個步驟之後，新的魔法少女就可以開始講述自己的故事了。不過，主持人（MC）可能還需要完善世界觀的某些內容，以便構建第一次聚會（若要了解更多，請參閱「展開第一章」章節）。
+
+:::note[範例]
+完成後，Mónica 讓 Esther 和其他人向團隊介紹各自的角色。Esther 將扮演勇者 Kiyomi、Cristina 扮演鬥士 Inoue、Vanesa 扮演參謀 Akari、Ruth 扮演偶像 Yoriko。逐一介紹完畢後，她們查看自己的友情扮演書，開始回答問題並互相標註。
+
+結束時，Mónica 告訴她們記下五點友情點數。該開始了——不過在此之前，Mónica 還需要一些額外資訊來進行第一次聚會。
+:::

@@ -5,1006 +5,478 @@ sidebar:
   order: 11
 ---
 
-Maestro de Ceremonias
-Bienvenido al capítulo del Maestro de Ceremonias (o MC), que en otros juegos 
-suele ser conocido como Dungeon Master (DM) o Director de Juego (DJ). Cuando 
-os reunís para jugar una partida de Mahō Shōjo, uno de los jugadores tendrá que 
-asumir esta responsabilidad en la partida. Puesto que estás leyendo este capítulo 
-vamos a suponer que ese puesto va a recaer en ti, pues seamos sinceros, los que van 
-a asumir el rol de PJ nunca llegan a esta parte de los libros.
-Este capítulo tiene como objetivo ayudarte a asumir tus responsabilidades como 
-MC y gestionar tu papel a lo largo de las sesiones, llenando las aventuras de las 
-magical girls que encarnarán los jugadores.
-Durante cada sesión de juego, los jugadores te irán indicando qué hacen sus per-
-sonajes, cuáles son sus acciones y qué sentimientos tienen. Según avance el tiempo 
-irán progresando en la historia, triunfando o cediendo a la Oscuridad. Durante esta 
-tarea cada jugador encarna un PJ en forma de magical girl, mientras que tú, como 
-MC, te encargarás del resto del mundo, al cual deberás dar vida. No es una tarea 
-fácil, pero, como todo, según practiques irás mejorando.
-Para poder realizar tu tarea deberás escuchar a los jugadores e indicarles las con-
-secuencias de sus acciones. A lo largo de cada sesión ellos te dirán qué acciones 
-toman sus PJ, mientras que tú deberás responder con el mundo a ellas. Parte de tu 
-objetivo, como MC, es llevarlas a lugares emocionantes donde pongan a prueba sus 
-habilidades y emociones, sobreponiendo su Luz a la Oscuridad.
-Otra gran responsabilidad que tienes que asumir como MC es que todos, incluido 
-tú, debéis disfrutar. La historia que estáis narrando en vuestra mesa os pertenece 
-a todos. Sí, quizás tengas el mejor de los asientos, pero no debes abusar del poder 
-que hemos puesto en ti. A tu disposición están los amigos, familiares, siervos de 
-la Oscuridad, sueños, deseos, pesadillas, ilusiones… miles de herramientas con el 
-objetivo de hacer la historia emocionante; asegúrate de que las usas para algo que 
-merece la pena ser contado. Si eres cruel y abusas de tus responsabilidades solo 
-serás un tirano y a tus jugadores les dará lo mismo, pues perderán el interés. Por 
-otro lado, si dejas que crezcan sin problemas, las vidas de los PJ carecerán de drama 
-y emoción. Como MC debes encontrar un equilibrio entre lo que das y quitas: ese 
-es el secreto de Mahō Shōjo.
-194
-Maho Shojo
+## 主持人（MC）
 
-Ser el Maestro de Ceremonias
-A lo largo de este capítulo supondremos dos cosas: que vas a asumir el papel de MC y 
-que estás familiarizado con todos los elementos del juego. Estos últimos no tienes por 
-qué haberlos memorizado, pero sí entender cómo funcionan a lo largo de una sesión 
-de juego. Si no estás seguro, quizás te venga bien repasar algunos elementos de los 
-capítulos anteriores. Repasa las zonas donde tengas dudas, una vez comprendidas, 
-todo lo que vamos a tratar a partir de ahora te resultará más familiar.
-Como MC, lo primero que debes entender para poder llevar a cabo tu papel son los 
-objetivos, principios y las Reacciones, gracias a los cuales podrás agitar y mover la 
-historia que van a vivir los PJ. Estas claves no deben perderse de vista, ya que gra-
-cias a ellas volverás las aventuras de las magical girls más interesantes, generando 
-drama y avanzando la narración.
-Una vez que termines esa primera parte, toca ver varias reglas para gestionar a los 
-servidores de la Oscuridad, tratar con los Arquetipos de los personajes, recomen-
-daciones para hacer avanzar la historia y trucos que lo harán más fácil. Todo ello 
-se convertirá en una piedra angular que, a medida que interiorices y cojas práctica, 
-verás que es muy sencillo de aplicar en la mesa.
-Objetivos
-Como MC, cuando narres deberías tener los 3 siguientes siguientes apartados siem-
-pre presentes:
-	
-✽Mostrar la Luz y también la Oscuridad.
-	
-✽Mantener la vida de las magical girls fuera de control y en constante cambio.
-	
-✽Jugar para descubrir lo que pasa.
-Cuando presentas una historia en Mahō Shōjo, como MC tienes que remarcar tanto 
-la Luz como la Oscuridad presente en la vida de los PJ. Las magical girls son criaturas 
-nacidas de la Luz y sus poderes provienen de ella, por lo que tratan de mantener su 
-entorno en dicha Luz. Sentimientos positivos como la amistad, la superación, la felici-
-dad, los buenos recuerdos, etc., son opuestos a la Oscuridad. Esta, por su lado, trata 
-de corromper y apagar todo ello, trayendo melancolía, tristeza, celos, odio, estanca-
-miento…, de forma que las magical girls pierdan el ímpetu por proteger y ayudar.
-Como MC debes asumir que los PJ nunca harán avanzar la historia, pues en su 
-naturaleza está el mantener sus vidas bajo control. Es por este motivo que debes 
-azotar la tranquilidad para que sea emocionante, ponlas en un aprieto con sus es-
-tudios, haz que sus amigas tengan problemas personales y, por supuesto, que la 
-Oscuridad haga notar su presencia de vez en cuando.
-Para finalizar, trata de huir de los guiones y olvídate de conducir a los PJ a tra-
-vés de ellos. Debes dejar que la historia fluya por sí misma, escena a escena. 
-195
-•Oscuridad•
+歡迎來到主持人（MC）的章節，在其他遊戲中通常被稱為地城主持人（DM）或遊戲導演（DJ）。當你們聚在一起玩 Mahō Shōjo 時，其中一位玩家必須在遊戲中承擔這個職責。既然你正在閱讀這個章節，我們就假設這個位子會落在你身上——畢竟說實話，那些要扮演玩家角色的人通常不會讀到書的這個部分。
 
-Para ayudarte en esta tarea existen los principios. Gracias a ellos podrás tener ayu-
-da, pero debes tener cuidado para evitar construir raíles (decidiendo los resultados 
-de antemano) que arrebaten la historia a los PJ haciendo que ya no sientan que les 
-pertenece. Como MC, al dirigir Mahō Shōjo tienes que estar dispuesto a aceptar la 
-lógica de la Ficción, sea cual sea el resultado. Al principio puede parecer complejo, 
-o incluso una locura, pero debes dejarte espacio para descubrir qué pasa a conti-
-nuación según el fluir de la historia. Igual que al navegar por un río, déjate llevar 
-por la corriente en lugar de obligar al río a cambiar el flujo. Todo esto puede parecer 
-abrumador, pero merecerá la pena.
-Siempre has de decir…
-Durante una sesión de Mahō Shōjo, en varias ocasiones encontrarás una encruci-
-jada de la que no sabrás cómo salir. Estarás atrapado y dudarás, es normal, pero 
-recuerda mirar tu brújula y esta te dirá hacia dónde debes ir. Para ello, cada vez que 
-dudes sigue los siguientes principios:
-	
-✽Lo que los principios te piden.
-	
-✽Lo que las reglas te piden.
-	
-✽Lo que la historia te pide.
-	
-✽Lo que la honestidad te pide.
-Los principios básicos son, junto a las reglas, los cimientos sobre los que debes 
-construir la historia que estáis narrando en vuestra mesa de juego. Si en algún mo-
-mento piensas que los estás forzando o tienes dudas, detente un segundo, respira, 
-échales un vistazo e intenta volver a seguirlos. Si un personaje sufre daño, lo sufre; 
-si la tirada falla, se acepta. Es duro e incluso puede parecer que es malo para la his-
-toria, pero debes contenerte y seguir por ahí por mucho que duela. Cuando hagas 
-este esfuerzo seguramente te sorprenderá lo lejos que habéis llegado.
-Durante la historia, ella misma te pedirá que hagas cosas, de hecho te las gritará. 
-Esa persona que están ignorando quizás se acerque a la Oscuridad, ese lugar que 
-parece tan agradable será probablemente su objetivo; esa asignatura tan com-
-plicada requerirá un examen… serán muchas las formas en las que la vida de los 
-PJ será afectada. Sin embargo, también habrá cosas que salgan bien: esa amiga 
-a la que apoyaron encontrará la Luz, ayudar a una compañera a estudiar llevará a 
-aprobar ese examen clave y afrontar la Oscuridad traerá la Luz que no debería ha-
-berse perdido. Lograr superar a la Oscuridad solo merece la pena cuando puedes 
-ver la Luz, mientras que la Oscuridad solo es relevante cuando afecta a algo que 
-queremos.
-Pero ¿cómo pueden funcionar todos estos principios? Solo lo hacen cuando los 
-jugadores saben que tú únicamente les responderás la verdad, así que sé generoso 
-con ella. No puedes guardarte cosas como el aspecto de una habitación o los ges-
-tos de un PNJ para ti. Tú eres los sentidos en el mundo del juego: si alguien está 
-196
-Maho Shojo
+本章的目標是幫助你承擔起 MC 的職責，在整個聚會過程中管理好你的角色，為玩家所扮演的魔法少女們的冒險注入生命。
 
-enamorado de un PJ, que se note; si alguien alberga un gran odio, prepáralos. Por 
-mucho que te tiente el trucar una decisión, un Movimiento, una Reacción o tratar 
-de ocultar información que se han ganado solo porque «no es el momento», no lo 
-hagas nunca. Sé siempre claro, directo y honesto.
-Los principios básicos
-Si los objetivos son la brújula y las Reacciones los vehículos, los principios re-
-presentan los caminos. Aunque no son reglas, son igualmente importantes, pues 
-representan las buenas prácticas y directrices que te ayudarán a dar sabor y 
-mostrar los temas de Mahō Shōjo. Cada uno de ellos te ayudará a detectar y 
-crear las señales que te proporciona la Ficción para recorrer la historia. Como 
-MC, síguelas sin dudar y verás cómo todo empieza a fluir y tu trabajo se vuelve 
-mucho más sencillo.
-	
-✽Dirígete a los personajes, no a los jugadores.
-	
-✽Haz que tus reacciones sean fluidas.
-	
-✽Dale un nombre a cada persona.
-	
-✽Haz preguntas y usa las respuestas.
-	
-✽Hazte admirador de los personajes.
-	
-✽Comienza y termina en la Ficción.
-	
-✽Piensa también en lo que sucede fuera de plano.
-	
-✽Piensa en cómo la Oscuridad acecha en lo cotidiano.
-	
-✽La Luz y la Oscuridad son fuerzas opuestas.
-	
-✽Fantasía doméstica contra alta fantasía.
-	
-✽Que a veces parezca que las magical girls han destruido la Oscuridad.
-	
-✽Que los villanos sean memorables.
-Dirígete a los personajes, no a los jugadores
-Los jugadores no son los que están delante de un servidor de la Oscuridad a punto 
-de asesinar a su mejor amiga ni tampoco están paseando por una calle viendo esca-
-parates con sus compañeras. Son los PJ, las magical girls que interpretan los juga-
-dores, las que viven esas situaciones, así que es a ellas a las que debes dirigirte. De 
-esta forma siempre di: «Inoue, ¿cómo vas a enfrentarte a esta criatura?» en lugar 
-de: «Cristina, ¿qué hace Inoue para evitar que esa criatura consuma a su víctima?». 
-Llamar a los jugadores por los nombres de sus personajes motiva a los jugadores a 
-pensar, hablar y actuar como ellos.
-Para reforzar este principio di claramente lo que ven y oyen los personajes. Por 
-ejemplo, «Akari, cuando te dan el examen con un nuevo 10 sientes que alguien te 
-apuñala con la mirada» en lugar de: «Cris, tu compañera está alimentado su envidia 
-cuando ve sus propias notas sobre la mesa». Entrega la información como si el pro-
-pio jugador estuviera en la escena.
-197
-•Oscuridad•
+在每次遊戲聚會中，玩家會告訴你他們的角色做了什麼、採取了什麼行動、有什麼樣的感受。隨著時間推移，他們會在故事中前進，取得勝利或是屈服於黑暗。在這個過程中，每位玩家扮演一位魔法少女形態的玩家角色，而你作為 MC，則負責世界的其餘部分，賦予它生命。這不是一件容易的事，但跟所有事情一樣，隨著練習你會越來越進步。
 
-Haz que tus Reacciones sean fluidas
-Cuando hagas una Reacción nunca se lo digas directamente a los jugadores. Pro-
-cura evitar decir una frase como «Ahora voy a separaros» mientras buscas una 
-víctima para esa Reacción. No, sabemos que puedes hacerlo mejor.
-Piensa en las Reacciones como cuando vas a ver a un ilusionista: aunque sepas que 
-hay truco, la magia solo se rompe si te dicen cuál es. Para lograr este efecto haz 
-como ellos; cuando quieres hacer algo a la derecha haz que miren a la izquierda. 
-Procura dejar que la Ficción oculte las pruebas por ti, haz que la Reacción fluya de 
-forma natural por la escena. Por ejemplo: «Kiyomi, cuando tratas de poner a salvo 
-a esas personas y las apartas, notas algo sobre ti. Un esclavo de la Reina de Sangre 
-cae y te pega un mordisco. Entonces notas cómo un veneno empieza a recorrer 
-tu cuerpo…» en lugar de decirles que estás usando la Reacción «Crea angustia en 
-ellas». Otro ejemplo de situación podría ser: «Yoriko, cuando empiezas a hablar 
-con ese chico en el pasillo, de pronto notas que una compañera se acerca a toda 
-velocidad y empieza a gritarte. Está furiosa porque te has acercado demasiado a su 
-novio y no parece que pretenda parar hasta que te humille. ¿Qué haces?» en lugar 
-de «Muestra señales de una amenaza inminente».
-Dale un nombre a cada persona
-Todo el mundo tiene una historia, cada PNJ se vuelve importante en el mismo mo-
-mento que un PJ se acerca a ellos por primera vez. Para el corazón de una magical 
-girl es importante cada persona que conoce, de otro modo no se hubiera acercado a 
-ella. Como MC nunca dejes de apuntar nombres; para ayudarte es aconsejable que 
-tengas un listado de nombres «de reserva» por si los necesitas.
-Para cada PNJ al que le pongas un nombre piensa también en motivaciones y deta-
-lles. Para ello no dudes en preguntar a los jugadores y usar sus ideas y respuestas. 
-Esto último es importante; cuando un jugador se implica y ve que sus preguntas 
-afectan a la Ficción también crea vínculos. ¡Te estarán regalando cientos de semillas 
-de historias con las que generar drama!
-Gracias a este principio, aquella chica que estaba allí no es solo alguien sin nombre 
-que practica voleibol en el gimnasio. Al contrario, ella será Ino, una chica que tiene 
-problemas porque acaba de llegar a la ciudad. Si un personaje tiene algún diálogo y 
-cierto grado de implicación con un personaje, aunque solo sea durante un momen-
-to, mételo en tus planes. Enriquece el mundo de los PJ con un plantel de PNJ con 
-los que puedan interactuar.
-Haz preguntas y usa las respuestas
-Desde el momento en que un jugador presenta a su PJ, empieza a preguntar y nunca 
-pares. Algunas de las más básicas pueden ser: ¿Por qué vives en esta ciudad? ¿Cómo 
-son tus padres? ¿Has usado alguna vez tus poderes? ¿Sabes que los tienes? Pero no 
-198
-Maho Shojo
+為了完成你的任務，你需要傾聽玩家並告知他們行動的後果。在每次聚會中，他們會告訴你玩家角色採取了什麼行動，而你則需要以世界的反應來回應。作為 MC，你的部分目標是引領她們前往令人激動的境地，考驗她們的能力與情感，讓她們的光明凌駕於黑暗之上。
 
-te quedes ahí, pregunta sobre cualquier 
-cosa que puedas sentir que llama a una 
-historia: Esa chica que me dices a la que 
-dejaste de hablar, ¿por qué fue? Tu her-
-mana a la que hace tiempo que no ves, 
-¿qué sucedió? Presiona a los jugadores 
-preguntando sobre las respuestas hasta 
-que consigas algo que usar.
-Cada respuesta que obtengas se con-
-vierte en un tesoro que deberás utilizar 
-para construir la Ficción basada en las 
-respuestas, integrando y componiendo 
-mentalmente el escenario para los PJ. Si 
-es necesario, usa cualquier herramien-
-ta, taladra y cava en el pasado, presen-
-te y personalidad de cada PJ en busca 
-de información. Tantea sus temores y 
-deseos para encontrar aquello que les 
-interesa proteger para evitar que la Os-
-curidad se lo arrebate.
-Conforme vayas haciendo preguntas, 
-intenta detallar cada contribución. Si, 
-por ejemplo, alguien te dice que acaba 
-de cambiarse de colegio, prueba a son-
-sacarle quiénes eran sus viejas amigas 
-para que vuelvan, indaga en sus moti-
-vos y úsalos a tu favor para enriquecer 
-la historia y crear drama.
-Hazte admirador 
-de los personajes
-Hacer sufrir y poner en problemas a los 
-PJ no es igual que matarlos y hacer su 
-vida insoportable. Nadie quiere estar 
-cada minuto atormentado, eso es abuso 
-o algo peor. Ser admirador de los PJ es 
-querer verlos brillar. Usa ese truco para 
-salvar el día o verles derrotar el mal con 
-un brazo roto después de presenciar 
-cómo casi muere alguien importante.
-199
+作為 MC，你還有一個重大的責任——包括你在內的所有人都應該樂在其中。你們在桌上共同講述的故事屬於所有人。是的，或許你擁有最好的位子，但你不應該濫用我們賦予你的權力。你手邊有朋友、家人、黑暗使徒、夢想、願望、噩夢、幻象……數以千計的工具，其目的都是讓故事變得精彩；請確保你將它們用在值得訴說的事情上。如果你殘忍地濫用你的職責，你只會成為一個暴君，而你的玩家終將漠不關心，因為他們會失去興趣。另一方面，如果你讓他們毫無阻礙地成長，玩家角色的生活將缺乏戲劇性和激情。作為 MC，你必須在給予和剝奪之間找到平衡——這就是 Mahō Shōjo 的祕訣。
 
-Es tu tarea ponerlos en situaciones difíciles que los desafíen. Haz que pongan en 
-juego sus vidas y sus corazones de verdad, pon en peligro a las personas importan-
-tes de su entorno, pon a prueba sus sueños, juega con sus emociones… pero cuando 
-lo hagas, hazlo para verlos levantarse y triunfar o ver cómo afrontan la situación de 
-la forma más dramática posible. Como MC, debes evitar la tentación de agredirlos 
-solo para verlos sufrir y fracasar.
-Cuando ataques los sueños y seres queridos de un PJ, evita arrebatarle aquello 
-que hace su vida interesante. Como MC medita sobre las implicaciones que puede 
-suponer la pérdida y proporciónales una oportunidad de salvarlo.
-Lo mismo se aplica a los éxitos. Si un PJ trabaja duro para derrotar a un Avatar o 
-ayudar a su hermano mayor con sus problemas, no les arranques sus victorias.
-Comienza y termina en la Ficción
-Como MC debes seguir las herramientas que nos entrega la Ficción. Si un PJ 
-declara que va a tratar de saltar unos pocos metros no tendría que haber pro-
-blema. Sin embargo, ¿qué pasaría si su pierna está rota? Ten presente siempre 
-la Ficción para decidir si algo es o no posible. ¿Un Avatar es inmune a los golpes 
-físicos? En ese caso, para poder desencadenar un Movimiento de Castigar la 
-Oscuridad tendrá que hacerse por medios mágicos. ¿Uno de los PJ está dema-
-siado preocupado por algo y no deja de remarcarlo mientras está saliendo con 
-las demás? Quizás tengas que plantearte si pueden activar un Movimiento de 
-Historias de la vida.
-Una vez paréis para comprobar los Movimientos, regresa siempre a la Ficción con el 
-resultado, sea el que sea. Gracias a este método, tarde o temprano volverás a llegar 
-a un momento en el que decidir si la Ficción desencadena un Movimiento, repitien-
-do el ciclo como el día sigue a la noche y la noche al día.
-Piensa también en lo que sucede fuera de plano
-No te quedes solo con las situaciones que existen en escena. Sí, es cierto que esta 
-es importante, porque es donde están las protagonistas, pero todos los demás PNJ 
-tienen una vida. Por ejemplo, el romance de un PJ puede estar esperándolo mien-
-tras cumple un castigo de sus padres. Un Campeón o Avatar puede avanzar su plan 
-tranquilamente mientras todas están en el cumpleaños de una compañera a la que 
-tratan de subir el ánimo.
-Como MC ten presente siempre qué decisiones ocurren «fuera de plano». Transmi-
-te la sensación a los jugadores de que el mundo está vivo y que cuando toman una 
-decisión el mundo reacciona a ella.
-200
-Maho Shojo
+## 擔任主持人（MC）
 
-Piensa en cómo la Oscuridad 
-acecha en lo cotidiano
-Las magical girls son la encarnación de la Luz y tienden a proteger su entorno para 
-que esta triunfe. Sin embargo, si han despertado sus poderes es porque existe la 
-amenaza de la Oscuridad. Por algún motivo las personas pueden caer en sus manos, 
-tanto de forma inconsciente como voluntaria. Por ejemplo, en una chica enamora-
-da de un chico pueden aflorar sentimientos de celos, un simple videoclub puede 
-afectar con sus películas a las mentes de las personas o una cámara de fotos puede 
-poseer a aquellos a los que fotografía cambiando sus almas.
-La Oscuridad en Mahō Shōjo es algo más que criaturas llegadas de estrellas lejanas 
-o entidades infernales (aunque sean formas que pueden tomar); su poder reside en 
-afectar a las cosas más cotidianas. Cuando describas escenarios y PNJ hazte una 
-pregunta: ¿Cómo les afectaría la Oscuridad? Una inocente peluquería podría ser un 
-lugar que acentuara la soberbia y la vanidad hasta el punto en el que sus clientes 
-despreciaran a los demás solo por su aspecto exterior. Cuando esto ocurre, es el 
-momento de que los PJ entren en acción.
-La Luz y la Oscuridad son fuerzas opuestas
-Este principio puede ser considerado una ampliación del anterior; sin embargo, 
-como MC debes tener presente que la Luz y la Oscuridad son fuerzas necesarias y 
-a la vez antagónicas. A lo largo de las historias que juguéis en Mahō Shōjo ambas 
-deben estar presentes, aunque en algunas ambientaciones pueden tener diferentes 
-niveles de protagonismo (ver «Ambientación» en la página 262).
-La Luz representa sentimientos como la alegría, la amistad, el amor, la esperanza, 
-las ganas de superación, el luchar cuando las cosas están perdidas, la entrega, el 
-altruismo… todas las personas albergan estos sentimientos en mayor o menor me-
-dida, pudiendo despertarse con ayuda incluso cuando parecen haberse perdido.
-La Oscuridad representa lo contrario: odio, celos, vanidad, obsesiones, rendirse a 
-los miedos, egoísmo, abusar del débil, instinto depredador… sentimientos que, al 
-igual que la Luz, se encuentran en todas las personas y que suelen aparecer cuando 
-se toman decisiones fáciles o atajos.
-Sin embargo, ambas se encuentran en equilibrio y pueden llegar a unirse en sus 
-extremos. ¿Qué ocurre si confundimos la justicia con la venganza? ¿Existe el valor 
-sin miedo? Al final todo depende de decisiones en momentos clave. Cómo se toman 
-estas decisiones es lo que crea a las magical girls y a los servidores de la Oscuridad. 
-201
-•Oscuridad•
+在本章中，我們假定兩件事：你將擔任 MC 的角色，而且你已經熟悉遊戲的所有要素。這些要素你不需要全部背下來，但你需要理解它們在一次遊戲聚會中如何運作。如果你不確定，或許可以先複習一下前幾章的某些內容。回顧你有疑問的部分，一旦理解之後，接下來我們要討論的一切都會讓你感到更加熟悉。
 
-Muchos Avatares y Campeones fueron en sus orígenes personas que, ante una di-
-ficultad, cedieron a sus deseos y tomaron decisiones egoístas pese a tener buenas 
-intenciones. Mientras, en el otro lado, una magical girl no cederá para obtener algo 
-si esto supone el sufrimiento de las personas cercanas a ella, asumiendo las conse-
-cuencias de sus decisiones sin tomar atajos.
-Fantasía doméstica contra alta fantasía
-En la mayoría de obras del género mahō shōjo el mundo parece ajeno a la magia y a 
-los conflictos entre la Luz y la Oscuridad. Es por este motivo que sus habitantes van 
-al colegio, trabajan por el día, desayunan, practican algún deporte, etc., pero todo 
-ello sin recurrir a la magia y desconociendo a los servidores de la Oscuridad. Bajo 
-estas circunstancias las magical girls parecen ser solo parte de rumores o cuentos, 
-pasan desapercibidas o sus acciones se olvidan cuando pasa el peligro.
-A este tipo de fantasía se la conoce como «fantasía doméstica», donde transcurren 
-la mayoría de historias de Mahō Shōjo por defecto. Este aspecto mundano crea un 
-gran contraste con el mundo mágico al que pertenecen los PJ, lleno de elementos 
-sobrenaturales. Es por ello que donde alguien ve una lavadora puede haber una en-
-trada al mundo mágico, un lanzapelotas de tenis podría convertirse en una Muñeca 
-y la trastienda de un videoclub podría ser la guarida de la Oscuridad.
-Como MC debes crear contraste entre los dos mundos, siendo los PJ el enlace entre 
-ambos. Cuando no visten su Lux Habitu sus preocupaciones serán ensayar con una 
-guitarra, ir a hacer la compra, visitar una librería con una amiga o no dormirse en 
-clase, en definitiva, acciones cotidianas y costumbristas. Esto contrastará con el 
-mundo mágico que las reclama, habitualmente para combatir la Oscuridad, don-
-de los elementos fantásticos o de ciencia ficción empiezan a aparecer. Cuando se 
-transforman y visten su Lux Habitu podrían viajar entre dimensiones, al espacio, 
-visitar palacios hechos de luz o de cristal, conocer criaturas mágicas como hadas o 
-dragones, hablar con kamis o enfrentarse a los servidores de la Oscuridad.
-Este contraste ayuda a los PJ a distinguir claramente entre estos dos aspectos y a 
-sentir el conflicto que surge al tratar de vivir ambas vidas, tan común en las series 
-de mahō shōjo.
-Como MC, deberías tratar de crear esta diferencia incluso si no tomáis como re-
-ferencia ambientaciones contemporáneas. Si decidís ambientar vuestras partidas 
-de Mahō Shōjo en una tierra de fantasía o un entorno de ciencia ficción, deberías 
-crear también ese tipo de contrastes. Por ejemplo, una ciudad del siglo xxii donde 
-quizás la normalidad tecnológica se opone a elementos mágicos y primitivos. Por 
-otro lado, es posible que en una ciudad medieval con murallas, la normalidad sea 
-la sociedad ordenada de dentro, que se opone a un mundo salvaje y desconocido.
-202
-Maho Shojo
+作為 MC，要勝任這個角色，你首先需要理解目標、原則和反應，透過它們你才能推動和搖撼玩家角色即將經歷的故事。這些要點不能忽視，因為正是有了它們，你才能讓魔法少女的冒險更加精彩，製造戲劇衝突並推動敘事前進。
 
-Que se note que las magical girls han vencido 
-a la Oscuridad
-Cuando los PJ solo se enfrentan a la Oscuridad sin un final y sin sentir que sus 
-acciones importan terminarán entrando en la apatía. Es por este motivo que sus 
-victorias deben notarse, arreglando las cosas cuando venzan a la Oscuridad.
-Cada vez que hacen retroceder a los sirvientes de la Oscuridad, al menos durante 
-un tiempo, la gente parece mejorar sus vidas y todo parece recuperar la tranquili-
-dad que había, pero con un nuevo halo de optimismo. Con cada una de las victorias 
-debería venir una recompensa, ya habrá tiempo de que la Oscuridad vuelva. Porque 
-sí, vuelve. Con el tiempo aparecerá un nuevo Campeón o el Avatar pondrá en mar-
-cha un nuevo plan, pero, por ahora, son ellas las que han vencido.
-Que los villanos sean memorables
-En algún momento los PJ deberán asumir su papel de magical girls y enfrentarse a 
-los servidores de la Oscuridad. Al principio estos enemigos seguramente sean solo 
-Marionetas y Muñecas, seres con motivaciones y deseos muy sencillos. Sin embar-
-go, con el tiempo se encontrarán con los Campeones y Avatares, los cuales deberían 
-ser memorables y recordados. No temas trabajar sobre las personalidades y moti-
-vaciones de estos últimos, creando vínculos con los PJ y el mundo que los rodea. 
-Esfuérzate todo lo que puedas para evitar que sean solo uno más para los jugadores 
-cuando cuenten sus aventuras.
-Utiliza a los Campeones y Avatares para mostrar caminos y lecciones a los PJ. Mu-
-chos de ellos empezaron siendo humanos (o algo similar) que creían que estaban 
-haciendo lo correcto, pero se desviaron para abrazar la Oscuridad. Puedes diseñar-
-los incluso como una especie de reflejo oscuro, como por ejemplo un Campeón que 
-decidiera acudir a la Oscuridad para proteger y salvar a sus seres queridos.
-Como MC ten en cuenta que la mayoría de los PJ solo se enfrentarán a uno o dos 
-Avatares en su carrera, lo último que quieres es que se conviertan solo en una 
-muesca y se olviden de ellos al día siguiente.
-Las Reacciones
-Ahora que conoces los principios es el momento de ver las Reacciones. Puedes pen-
-sar en ellas como tus herramientas para influir en la historia y agitar las cosas para 
-poner en marcha a los PJ. Cuando utilices las Reacciones ten siempre presentes tus 
-objetivos y principios, ya que si alguna vez te surgen dudas sobre cuándo y cómo 
-usarlas, ellos te ayudarán.
-203
-•Oscuridad•
+一旦完成這第一部分，接下來要了解管理黑暗使徒的各種規則、處理角色原型的建議、推進故事的方法以及各種讓一切變得更輕鬆的技巧。這一切都將成為基石，隨著你的內化和練習，你會發現它在桌上其實非常容易應用。
 
-Las Reacciones son el equivalente a los Movimientos de los PJ, pero tienen algunas 
-diferencias. Puedes ver los Movimientos como los elementos que usan los jugado-
-res para mover a sus PJ por la historia, mientras que las Reacciones son la forma en 
-la que un MC reacciona a dichos Movimientos y a la Ficción generada.
-El motivo por el que estas acciones del MC son conocidas como Reacciones es por-
-que habitualmente la parte activa será encarnada por los PJ, por lo que tu trabajo es 
-reaccionar a ellos e indicar cómo avanza la Ficción. No pienses que tienes que usar 
-tus Reacciones para derrotar a los PJ, aunque esto puede pasar, sino para llevar la 
-historia a lugares interesantes y emocionantes.
-Cuándo usar una Reacción
-Ahora te preguntarás: ¿cuándo hago una Reacción? La respuesta rápida es que cuan-
-do quieras. Sin embargo, existen tres situaciones clave para que entren en juego:
-	
-✽Cuando no haya nada de acción o drama.
-	
-✽Cuando se falle una tirada.
-	
-✽Cuando está tan claro que te sirven la oportunidad en bandeja.
-Recuerda que, como MC, tendrás que mantener la historia siempre en movimiento. Si en 
-algún momento la Ficción se estanca o se vuelve aburrida, es momento de activar una 
-Reacción. Para ello te recomendamos que siempre que la uses para tratar de arrancar la 
-historia o centrar la Ficción, te limites a realizar una Reacción suave. Este uso por norma 
-general solo crea un punto de referencia para que los jugadores se centren de nuevo en 
-la Ficción. Si ves que la historia sigue sin ponerse de nuevo en marcha es aconsejable lan-
-zar piedras cada vez más grandes en forma de Reacciones duras hasta que surta efecto.
-A la hora de realizar sus Movimientos, los jugadores muchas veces fallan las tiradas. 
-Las Reacciones que realices en estas circunstancias deberían fluir con la Ficción. 
-Esto es así porque, al igual que los jugadores encadenan Movimientos en la Ficción, 
-tú deberías cumplir con el ejemplo (ver «Los Movimientos» en la página 86). Incluso 
-consiguiendo éxitos parciales, como los resultados de entre 7 y 9 en un Movimiento, 
-que a veces marcan qué consecuencias tendrán, eres tú el encargado de moldear la 
-escena con tus Reacciones.
-Por último, ten en cuenta que como MC representas también los planes de la Oscu-
-ridad y aquellos que la sirven. Si en algún momento un jugador ignora las señales 
-de peligro, decide exponer su corazón o enfrentarse a un enemigo al que no puede 
-derrotar, es hora de poner la máquina en marcha. Usa la dureza que creas necesaria 
-y trata de tantear lo que busca el jugador; muchas veces él mismo te habrá dado 
-señales de hacia qué dirección espera dirigir la trama.
-En cada momento en el que puedas hacer una Reacción, pregúntate antes: «¿Estoy 
-siguiendo mis objetivos y principios?». Si la respuesta es no, quizás debas contener-
-te y no aplicar una Reacción.
-204
-Maho Shojo
+### 目標
 
-Reacciones suaves y duras
-Las Reacciones no deberían ser usadas para castigar a los jugadores o para causar 
-grandes cambios en la Ficción, al contrario, deben usarse como consecuencia de las 
-acciones de los PJ y para agitar las aguas. Por este motivo, como MC debes hacerte 
-una pregunta: ¿Cuánto quiero empujar la historia? Para esto existen Reacciones 
-suaves y Reacciones duras.
-Las Reacciones suaves tienen como objetivo dar una advertencia a los jugadores. 
-Las Reacciones duras son aquellas que tienen un fuerte impacto y pueden cambiar 
-la naturaleza de la escena.
-No existe una regla clara sobre cuándo aplicar una Reacción suave y cuándo una 
-dura. Lo único que podemos indicar es que debes guiarte por lo que crees correcto 
-y aplicarlo a tus objetivos y principios. Si sigues teniendo dudas, consulta la Ficción, 
-muchas veces la propia historia te sugerirá qué es lo que necesitas.
-Ejemplo 1 de Reacciones suaves: Estás comprobando los expedientes del edificio 
-Kasumano. De pronto te das cuenta de que no se escucha ruido alguno. En la pe-
-numbra te parece distinguir unos ojos, como si las sombras estuvieran vivas, ¿qué 
-haces?
-Ejemplo 2 de Reacciones suaves: Al devolver la pelota para eliminar a una jugado-
-ra del equipo rival, ves que otra jugadora salta a por ella. Después de realizar una 
-voltereta, se catapulta con un salto y notas que te observa. La pelota sale dispara-
-da hacia ti, ¿qué haces?
-Ejemplo 3 de Reacciones suaves: Ves como Keisaku se acerca hacia ti por la calle; 
-parece un poco atontado y tiene los ojos en blanco. Algo no va bien y, de pronto, 
-te das cuenta de que te va a golpear con algo que se materializa en su mano, ¿qué 
-haces?
-Ejemplo 1 de Reacciones duras: Estás comprobando los expedientes del edificio 
-Kasumano. De pronto te das cuenta de que no se escucha ruido alguno. Al observar 
-la Oscuridad ves cómo se abalanza una de las sombras hacia ti. Te hace 2 puntos 
-de Angustia.
-Ejemplo 2 de Reacciones duras: Al devolver la pelota para eliminar a una jugadora 
-del equipo rival, ves que otra jugadora salta a por ella. Después de realizar una 
-voltereta, se catapulta con un salto y te lanza la pelota. Cuando te golpea, sabes 
-que has sido eliminada.
-Ejemplo 3 de Reacciones duras: Ves como Keisaku se acerca hacia ti por la calle; 
-parece un poco atontado y tiene los ojos en blanco. Algo no va bien y te golpea 
-con un objeto que te deja inconsciente. Al despertar notas que estás en la parte de 
-atrás de una tienda, con decenas de VHS y DVD tirados por el suelo y donde de las 
-paredes cuelgan pósters de películas antiguas.
-205
-•Oscuridad•
+作為 MC，在進行敘事時，你應該始終牢記以下三個要點：
 
-Reacciones básicas
-A continuación, se indica el conjunto de Reacciones básicas de las que dispone el 
-MC. También se indican unas pautas y consejos para su uso:
-	
-✽Utiliza una Reacción de un servidor de la Oscuridad, escenario, persona o Eclipse.
-	
-✽Sepáralas.
-	
-✽Muestra señales de una amenaza inminente.
-	
-✽Haz que su Movimiento se vuelva en su contra.
-	
-✽Plantea un peligro específico para el personaje.
-	
-✽Ofrece una oportunidad con un coste.
-	
-✽Pon a inocentes en peligro.
-	
-✽Diles los requisitos o consecuencias y pregunta.
-	
-✽Introduce a alguien nuevo.
-	
-✽Avanza un Eclipse en curso.
-	
-✽Crea Angustia en sus vidas.
-	
-✽Oscurece su corazón.
-Utiliza una Reacción de un servidor de la Oscuridad, 
-escenario, persona o Eclipse
-Junto con las Reacciones básicas, como MC puedes disponer de conjuntos adicio-
-nales de Reacciones. Algunos ejemplos son Dones de los servidores de la Oscuri-
-dad, escenarios, Eclipses o algunos personajes.
-206
+- 展現光明，也展現黑暗。
+- 讓魔法少女的生活失控且不斷變化。
+- 抱著「看看會發生什麼」的心態去遊戲。
 
-Para saber más sobre estas Reacciones y cómo se generan ve a los capítulos «Servi-
-dores de la Oscuridad» en la página 168 y «El Eclipse» en la página 254. Cuando uti-
-lices estas Reacciones, ten en cuenta que están diseñadas para centrar la atención 
-en aquello a lo que pertenecen y tratar de enfocar la Ficción en ello.
-Ejemplo 1: De pronto, veis cómo varias Ascuas de Llamas Oscuras se abalanzan 
-sobre Akari y su Lux Habitu empieza a arder. ¡Akari, ves cómo estás rodeada de 
-llamas y empiezas a quemarte! ¿Qué haces?
-Ejemplo 2: Los llantos y susurros de aquellos que vieron caer el castillo de las es-
-trellas impregnan el lugar, llenándolo de melancolía sobre momentos nunca vividos. 
-Obtenéis 1 Punto de Oscuridad.
-Ejemplo 3: Cuando entras en el ascensor del edificio Kasumano y pulsas el botón 
-de la azotea, ves cómo la puerta se abre de repente. Al hacerlo, tienes ante ti un 
-portal oscuro del que surge una voz, no reconoces el idioma. Tras unos segundos 
-vuelve a pronunciar las mismas palabras, ¿qué haces?
-Sepáralas
-La mayor fuerza de las magical girls proviene de su unión. Gracias a su amistad y 
-trabajo en equipo pueden afrontar la Oscuridad y cualquier reto que se les ponga 
-por delante. Cuando separas a los PJ logras dividir esa fuerza, llevándolas a un te-
-rreno en el que tienen desventaja y donde aumentan sus problemas.
-Ejemplo 1: Durante su combate contra unos Vampiros de la Sangre.
-—Veis cómo dos de ellos se abalanzan sobre Kiyomi y la apresan. Después la 
-lanzan por la ventana y uno de ellos se interpone para que no podáis reuniros.
-Ejemplo 2: Mientras estáis en el festival, de pronto notas que has perdido de vista 
-a Torome entre la multitud. Justo en ese momento alguien te agarra del hombro y 
-te arrastra detrás de un puesto…
-Ejemplo 3: En plena incursión a una sucursal de empresas Kasumano:
-—Veis cómo Inoue desaparece tras atravesar la puerta. No queda rastro alguno 
-de ella. Mientras, Inoue, te encuentras en mitad de una llanura. No ves estrella 
-alguna, pero hay un ojo en el cielo que te observa, ¿qué haces?
-Muestra señales de una amenaza inminente
-Muestra elementos dentro y fuera de escena que resalten el mal. Un Avatar dando 
-órdenes a sus Marionetas, la fría mirada de un profesor, un cambio en la actitud 
-de una madre. También pueden ser algo más directo, como ver la Oscuridad en los 
-ojos de un Campeón o sentirse observadas desde la lejanía. De uno u otro modo, 
-deberías lograr que los PJ se sientan vulnerables e inseguros.
-207
-•Oscuridad•
+當你在 Mahō Shōjo 中呈現一個故事時，作為 MC，你需要強調玩家角色生活中存在的光明和黑暗。魔法少女是光明誕生的存在，她們的力量源自於光明，因此她們努力維護周遭環境的光明。友情、自我超越、幸福、美好回憶等正面情感，都與黑暗對立。而黑暗則試圖腐蝕並熄滅這一切，帶來憂鬱、悲傷、嫉妒、仇恨、停滯……使魔法少女失去保護和幫助他人的動力。
 
-Ejemplo 1: Ves cómo de la mochila de Keisaku asoma una cinta de vídeo antigua. 
-Si bien no reconoces exactamente qué película es, sientes un cosquilleo al notar que 
-tiene una pegatina en la que pone «Videoclub Glob».
-Ejemplo 2: En el momento de entrar por la puerta observas que tu hermana Nao se 
-encuentra en estado de shock. En sus manos sostiene una carta. Cuando te escu-
-cha entrar gira la cabeza y su mirada está descompuesta, ¿qué haces?
-Ejemplo 3: A Inoue le recorre una mala sensación por la espalda. En una sucursal 
-bancaria se ve cómo un abogado pone el sello de empresas Kasumano sobre la 
-hipoteca de su casa.
-Haz que su Movimiento se vuelva en su contra
-¿Conoces la frase «ten cuidado con lo que deseas, se puede convertir en realidad»? 
-Es más real de lo que parece y, bien utilizado, puede ser un recurso muy valioso. 
-Como MC debes tener presente que fallar no es lo mismo que fracasar; solo signifi-
-ca que las cosas no salen como pensabas. En ocasiones es mejor utilizar la técnica 
-de que algo demasiado bueno debe ser malo. Un ataque muy potente que daña a 
-otra persona, un trabajo demasiado brillante que acaba con una acusación de pla-
-gio… Piensa cómo algo que parece demasiado bueno podría hacer a alguien sufrir 
-por ello (y, si es posible, que esa víctima no sea un PJ).
-Ejemplo 1: Con un golpe de la Celestial Sword logras derrotar y desposeer a Ino. 
-Lamentablemente, tras caer al suelo compruebas que parece herida; la sangre em-
-pieza a brotar de su cabeza y no parece recuperar la consciencia.
-Ejemplo 2: Natsumi, has conseguido la beca que pediste. No tendrás que volver a 
-preocuparte por los estudios. Por desgracia, al leer la carta descubres que si la acep-
-tas deberás mudarte a la otra punta del país y abandonar todo lo que te importa.
-Ejemplo 3: Después de varias noches en vela, el estudio de Inoue parece estar 
-dando sus frutos y logra aprobar el examen. Por desgracia, todos se extrañan ante 
-esta repentina mejora en sus notas y empiezan a escucharse rumores de que real-
-mente ha copiado. La cosa parece ir a peor cuando, de pronto, Inoue recibe una 
-citación para el Comité de Disciplina.
-Plantea un peligro específico para el personaje
-La Ficción creada en torno a cada PJ da numerosas herramientas para usar en su 
-contra. Algunos ejemplos son: relaciones, romances, exámenes, compromisos fa-
-miliares, etc. Usa todo lo que te den para crear conflictos personalizados. Estas 
-Reacciones son perfectas para generar drama y como consecuencias del descuido 
-de los Lazos. Recuérdales por qué se están enfrentando a la Oscuridad y qué deben 
-proteger.
-208
-Maho Shojo
+作為 MC，你必須認知到玩家角色永遠不會主動推動故事前進，因為維持生活的穩定是她們的天性。正因如此，你必須打破平靜來製造刺激——在她們的課業上製造麻煩，讓她們的朋友遇到個人問題，當然還要讓黑暗不時顯露它的存在。
 
-Ejemplo 1: Inoue ve a sus padres llorando en la cocina al llegar a casa. Cuando 
-se acerca a ver qué pasa ve una carta de embargo tirada en el suelo. El sello de 
-Kasumano viene acompañado de un aviso: tienen veinte días para dejar la casa o 
-serán desahuciados.
-Ejemplo 2: Frente a Natsumi se presenta un extenso lecho de rosas y espinas vene-
-nosas para pasar y llegar al centro del bosque, donde se esconde uno de los Devo-
-radores de Luz. Solo ella con su Tema Flores puede atravesarlo y devolver la Luz de 
-nuevo a esa zona del Reino de las Estrellas.
-Ejemplo 3: La criada de Akari llega con buenas noticias: alguien importante ha 
-venido a verla. Al reunirse le comentan que gracias a su talento ha sido aceptada 
-en una prestigiosa escuela de élite. Esta tiene una serie de horarios muy estrictos 
-que le exigen ser internada.
-Ofrece una oportunidad con un coste
-Algunas veces, la salida de un problema está metiéndose en otro distinto. Incluso 
-la mejor idea puede tener un coste y unas consecuencias que deben ser aceptadas 
-para poder salir de la situación y afrontar el nuevo problema.
-Como MC debes ser lo más honesto que puedas con los tratos. El jugador ha de 
-saber todas las partes del acuerdo para valorar si exponer a su PJ al nuevo peligro. 
-Otra forma de negociar puede ser que, en lugar de pedirle algo para obtener su 
-objetivo, tenga que enfrentarse a un nuevo problema, ya sea inmediato o futuro.
-Ejemplo 1: Kiyomi trata de evitar una bola de llamas invocada por la Hechicera 
-de Llamas Oscuras. Sin embargo, Mónica también le indica que si hace eso dejará 
-desprotegida a Yoriko, que será impactada por el conjuro.
-Ejemplo 2: Cuando Torome logra por fin ganar las postales exclusivas de Kanaka-
-na descubre una mirada de envidia en el resto de sus compañeras.
-Ejemplo 3: Yoriko logra convencer al encargado de que le permita pasar a la tras-
-tienda del videoclub Glob. Sin embargo, le dice que solo puede ella. Si decide pasar 
-se separará de sus compañeras Akari y Kiyomi.
-Pon a inocentes en peligro
-Esta Reacción debe ser usada con precaución. Como elegidas de la Luz, las magical 
-girls deberían preocuparse por no tener víctimas colaterales. A veces este tipo de 
-Reacciones tendrán como efecto que un PJ gane Angustia o Puntos de Oscuridad.
-Existen muchas formas de que un inocente esté en peligro, no tiene por qué ser ata-
-cado o secuestrado por una Muñeca o un Campeón exclusivamente. Muchas otras 
-situaciones, como ser insultados, perder el autobús, que desaparezcan sus zapati-
-llas de la taquilla o ser castigado después de clase, también pueden ser situaciones 
-«peligrosas» para los inocentes.
-209
-•Oscuridad•
+最後，盡量避免照本宣科，忘掉引導玩家角色沿著預設劇本行進的想法。你應該讓故事自行流動，一個場景接著一個場景。
 
-Ejemplo 1: Si bien logras evitar el balón dirigido a ti, este golpea directamente la 
-cara de tu compañera. No necesitas darte la vuelta para saber que se ha roto su 
-nariz, el crujido es suficiente.
-Ejemplo 2: Cuando tratáis de abrir el libro que encontrasteis en el Reino de las 
-Estrellas, algo suena en el exterior. Por la ventana puede verse como un Devorador 
-de Luz se traga al hermano de Natsumi, Togami.
-Ejemplo 3: Cuando la Samurái de Jade golpea contra la pared, la corta limpiamen-
-te. La pared del edificio empieza a derrumbarse cuando escucháis a alguien gritar 
-en la segunda planta. Si nadie actúa seguramente pase algo malo, ¿qué hacéis?
-Diles los requisitos o Consecuencias y pregunta
-Cuando un PJ trate de lograr algo, como MC deberías ser claro sobre las Conse-
-cuencias, informando de los costes. Procura siempre puntualizar el efecto negativo 
-de sus acciones, haciéndoles incluso dudar de sus actos, igual que la Oscuridad 
-insufla el miedo a su alrededor.
-Por la naturaleza de estas Reacciones suelen ser habitualmente suaves.
-Ejemplo 1: Glob no parece interesado en vosotras; aunque os ha visto aparenta 
-ignoraros. Sin embargo, parece estar encantando nuevas películas. Podéis marcha-
-ros y volver preparadas, aunque eso supondría que alguien sea influido otra vez. 
-Por otro lado, si atacáis ahora, él sabe perfectamente que estáis allí.
-Ejemplo 2: Os dais cuenta de que, si ayudáis a Yakumo a evitar que su club cierre, 
-seguramente os meteréis en problemas. Según los rumores, el consejo escolar lleva 
-años detrás de esto y, por tanto, podríais sufrir consecuencias y lograr su enemis-
-tad. ¿Seguís adelante con el plan?
-Ejemplo 3: Puedes arrebatarle el Ignem Grimoris a la Hechicera mientras esté col-
-gado de su cinturón. Sin embargo, algo te dice que las energías tenebrosas trata-
-rán de contaminar tu corazón. ¿Quieres seguir intentándolo a cambio de 3 puntos 
-de Oscuridad?
-Introduce a alguien nuevo
-Siempre hay nuevas personas que se unen a la historia, ya sea como amigos o como 
-enemigos. Las nuevas incorporaciones al elenco son peligrosas. ¿Son siervos de la 
-Oscuridad? ¿Un posible amigo o un aliado? Un compañero nuevo puede descubrir-
-se como un nuevo Campeón o uno viejo disfrazado. Un Avatar puede ser depuesto 
-por otro más poderoso tras una serie de fracasos. De igual manera, pueden apare-
-cer nuevos aliados, nuevas amistades, posibles intereses románticos, compañeros 
-de clase, magical girls que han sentido la Oscuridad desde otro lugar o incluso un 
-ser mágico dispuesto a luchar junto a los PJ.
-210
-Maho Shojo
+為了在這項任務中幫助你，原則應運而生。有了它們你就能獲得協助，但你必須小心，避免架設軌道（事先決定結果），從而奪走屬於玩家角色的故事，讓他們不再感覺故事屬於自己。作為 MC，在主持 Mahō Shōjo 時，你必須願意接受虛構敘事的邏輯，無論結果如何。起初這可能看似複雜，甚至瘋狂，但你必須給自己留下空間，隨著故事的流動去發現接下來會發生什麼。就像在河上航行一樣，讓水流帶著你前進，而不是強迫河流改變方向。這一切可能看起來令人生畏，但絕對值得。
 
-Cuando presentes a alguien no cierres del todo sus características, pregunta a 
-los jugadores y deja que la Ficción te diga exactamente cuál es la naturaleza del 
-nuevo personaje.
-Ejemplo 1: La capitana del equipo llega al vestuario del club de balón prisionero. A 
-su lado hay una chica de aspecto occidental con el pelo rubio.
-—Buenas noticias, chicas. Como por arte de magia ha aparecido una nueva in-
-tegrante del equipo para cubrir la última baja. Se llama Kirino Lange y viene de 
-Estados Unidos, ha llegado esta mañana.
-Ejemplo 2: Cuando llega la segunda hora, la tutora entra en clase acompañada de 
-una nueva alumna. Lleva un parche en su ojo derecho y se presenta como Nakiri 
-Mikako. A continuación, se dirige al asiento que hay detrás de Natsumi, el único 
-que queda libre.
-Ejemplo 3: No lográis evitar que la Samurái de Jade llegue al templo de la calle 
-principal. Corta el sello milenario con su espada y empieza a formarse el temible 
-ser conocido como Mauyin, el Maestro de las Cadenas. Vuestros peores miedos se 
-confirman con la resurrección del temido general de la Princesa de Sangre.
-Avanza un Eclipse en curso
-La Oscuridad tiene sus planes y no va a detenerlos. Cuando se derrota a un Campeón, 
-el Avatar parece buscar a otro que tome su lugar, pues siempre hay alguien dispuesto a 
-hacer un trato a cambio del poder para satisfacer sus deseos. Por otro lado, cuando los 
-PJ no intervienen su plan progresa y extiende la Oscuridad a su alrededor.
-Esta Reacción hace avanzar un Eclipse hacia su siguiente etapa (ver «El Eclipse» en 
-la página 242). Cuando esto ocurra muestra a los PJ las consecuencias de dicho acto.
-Ejemplo 1: Veis atónitas cómo, de pronto, el alma de un inocente se introduce en el 
-Ignem Grimoris de la Hechicera de Llamas Oscuras antes de desaparecer.
-A continuación, la MC avanza el Eclipse a su siguiente etapa. Ahora la Princesa 
-de Sangre ya se encuentra más cerca de alcanzar su oscuro objetivo.
-Ejemplo 2: Por desgracia, llegáis demasiado tarde. El ser sin rostro logra abrir un 
-vórtice de la Oscuridad. Ahora los Devoradores de Luz pueden acceder del mundo 
-mágico al mundo real. Marion avanza el Eclipse un paso hasta su siguiente etapa.
-Ejemplo 3: Aunque habéis logrado escapar de la trastienda del videoclub de Glob, 
-algo no anda bien. Decenas de sus cintas están repartidas por la ciudad. No sa-
-béis del todo la naturaleza de su plan, pero algo os dice que avanza a buen ritmo.
-Mónica espera que tras esa Reacción suave los PJ reaccionen, o si no tendrá 
-que avanzar el Eclipse.
-211
-•Oscuridad•
+### 你應該永遠說的是……
 
-Crear Angustia en sus vidas
-Causar Angustia es la forma más fácil y directa de llamar la atención. En Mahō 
-Shōjo los PJ son muy vulnerables a ella porque merma sus recursos, creando de 
-forma colateral varias complicaciones en sus vidas.
-Cuando causas Angustia piensa en su origen. Por ejemplo, cuando esta proviene de 
-un servidor de la Oscuridad debería originarse en la característica que lo une a la 
-Oscuridad. Sin embargo, no es la única forma de que un PJ sufra Angustia; eventos 
-como suspender un examen, una pelea con su madre, un grupo de matones que la 
-acorralan… Hay muchos peligros capaces de angustiar un corazón.
-Cuando utilices este tipo de Reacciones y pienses en el valor de Angustia (y no esté 
-definido como en el caso de un servidor de la Oscuridad), tendría que estar entre 2 
-para situaciones leves y 8 para las realmente traumáticas.
-Ejemplo 1: Yoriko ha sido apresada por una de las cuatro cadenas místicas de 
-Mauyin. Sus compañeras no están logrando liberarla del siniestro general, que la 
-aprieta con fuerza. Las cadenas parecen afectar, no solo a su cuerpo, sino a su 
-propio corazón, y le provocan 9 puntos de Angustia.
-Ejemplo 2: Mientras discute por el móvil con su hermana, Torome olvida una bolsa 
-con algunas cosas importantes en el tren. Al salir y darse cuenta aumenta su ansie-
-dad recibiendo 4 puntos de Angustia.
-Ejemplo 3: La hermana de Kiyomi entra en su cuarto. Está harta de cubrirla cada 
-vez que desaparece y de mentir a sus padres. Tras un rato insultándose y tirándose 
-unos libros a la cabeza, se va enfadada dando un portazo. Kiyomi sabe que lo que 
-hace no está bien, pero duda si debería revelarle el secreto a su hermana. Mónica 
-le indica que se apunte 2 puntos de Angustia.
-Oscurece su corazón
-Si bien el corazón de una magical girl alberga Luz y son muy resistentes a la Oscu-
-ridad, lo cierto es que nada te impide colocar algunas semillas en su interior. Según 
-se enfrenten a los servidores de la Oscuridad, visiten otras dimensiones, encuen-
-tren nuevos problemas en su vida, etc. Poco a poco podrán caer en emociones de la 
-Oscuridad como el rencor, el odio, los celos o el miedo. Cada vez que se cede o se 
-toma el camino fácil, la Oscuridad deja algo en su interior que amenaza con crecer.
-Como MC esta Reacción se usa cuando notes que la magical girl pueda albergar algo 
-contrario a la Luz, agotando su corazón. La cantidad de Puntos de Oscuridad que en-
-tregues debería ser 1 o, como mucho, 2 puntos, siendo una excepción algunos Dones 
-de la Oscuridad (ver «Servidores de la Oscuridad» en la página 170).
-Las consecuencias de la Oscuridad en los PJ vienen definidas por su tipo de Pacto 
-(ver «El Pacto» en la página 173).
-212
-Maho Shojo
+在 Mahō Shōjo 的聚會中，你會多次遇到不知該如何脫身的岔路口。你會陷入困境、猶豫不決——這是正常的。但請記得看看你的指南針，它會告訴你該往哪裡走。為此，每當你猶豫時，遵循以下原則：
 
-Ejemplo 1: Tras ver la resurrección de Mau-
-yin, Kiyomi confiesa su terror. Explica que 
-esto le hace cuestionarse si están haciendo 
-lo correcto. Mónica le indica que esas dudas 
-empiezan a cristalizar en su corazón y se 
-anota 2 Puntos de Oscuridad.
-Ejemplo 2: Durante un examen de historia, 
-Natsumi opta por copiar usando una chule-
-ta para no afrontar el suspenso. La MC de-
-cide aplicar una Reacción de «Oscurecer su 
-corazón» entregando 1 Punto de Oscuridad.
-Ejemplo 3: Akari decide rechazar la opor-
-tunidad de su vida para seguir luchando 
-contra la Oscuridad. Si bien ella sabe que 
-es lo correcto, también le crea cierta me-
-lancolía no ir a la escuela de élite con la 
-que siempre soñó. Mónica le consulta si de 
-verdad eso está pesando en su corazón y, 
-tras confirmarlo, le indica que se apunte 1 
-Punto de Oscuridad.
-Después de cada Reacción: 
-«¿Qué haces?»
-Siempre que una Reacción termina debes 
-devolver el protagonismo a un PJ. La forma 
-más fácil y directa de hacerlo es a través de 
-la pregunta más vieja de los juegos de rol: 
-¿qué haces?
-Esta pregunta no se hace al azar y exis-
-te con un objetivo: dejar las cosas claras 
-y centrar el foco en la decisión de los ju-
-gadores. Una vez que se pregunta deben 
-decidir cómo quieren afrontar la nueva 
-situación. En algunas ocasiones el jugador 
-no sabrá que hacer, pues estará sorprendi-
-do. Si es así, dale tiempo. No obstante, si 
-ves que titubea demasiado o que el ritmo 
-de la historia se resiente, encadena nuevas 
-Reacciones para eliminar el tapón y que la 
-Ficción reanude su ritmo.
-213
-•Oscuridad•
+- 原則要求你做的。
+- 規則要求你做的。
+- 故事要求你做的。
+- 誠實要求你做的。
 
-Encadenar Movimientos y Reacciones
-Durante una sesión de Mahō Shōjo pronto descubrirás que el juego funciona con la 
-alternancia entre el MC y los jugadores, al igual que un partido de baloncesto o de 
-tenis. A medida que avancéis juntos en la historia, los Movimientos serán seguidos 
-de Reacciones y estas de nuevos Movimientos de forma fluida.
-Lo ideal sería que a lo largo de una escena todas las partes hayan intervenido unas 
-cuantas veces, o al menos hayan tenido su oportunidad. Sin embargo, en Mahō Shōjo 
-no existe una regla clara ni, como en otros juegos, un sistema de iniciativas. Esta si-
-tuación crea en el MC una responsabilidad adicional, ya que tendrá que ser justo y 
-dar a cada PJ las mismas oportunidades de brillar a medida que avance la historia.
-Los personajes no jugadores
-En Mahō Shōjo la gestión de los Personajes no Jugadores (PNJ) es fácil: les das 
-un nombre, una motivación y algo que la Oscuridad podría aprovechar para tomar 
-su corazón. A continuación, lo describes al presentarlo ante los jugadores y listo. 
-No hay fichas, solo necesitas un lugar para apuntar todo lo anterior y actualizarlo 
-según avance la historia y averigüéis (tanto el MC como los jugadores) cómo evo-
-luciona.
-Cuando ya tengas varios PNJ quizás sería bueno disponer de un cuadro de relacio-
-nes y notas sobre sus intervenciones con los PJ, además de si estos tienen algún 
-tipo de Lazo o Romance con ellos.
-Manchas de Oscuridad
-Una parte importante que debes pensar sobre cada PNJ (o preguntar a los jugado-
-res) es cuál sería la forma en que la Oscuridad podría afectarles. Recuerda que en 
-Mahō Shōjo los PJ luchan, no tanto contra criaturas oscuras y monstruos, sino para 
-proteger y hacer mejor su entorno.
-Para poner estos temas en juego cada PNJ debería tener un problema, deseo o 
-tentación que lo pueda llevar a la Oscuridad y que los PJ tratarán de solucionar. 
-Cuando pienses en él, ya sea con la participación de los jugadores o no, procura que 
-sea algo simple. Si el PNJ gana protagonismo o avanza la historia, este te dirá exac-
-tamente cómo se manifiesta en detalle; recuerda que como MC uno de tus Objetivos 
-es «jugar para descubrir lo que pasa».
-Algunos ejemplos de estos deseos pueden ser: ganar un campeonato, programar 
-un videojuego, conseguir amigos, ayudar a su familia, volver a ver a un viejo com-
-pañero… De hecho, si pueden parecer inocentes o incluso triviales, será mucho más 
-interesante cuando la Oscuridad los retuerza. También estará al alcance de los PJ 
-que puedan marcar la diferencia en sus vidas.
-214
-Maho Shojo
+基本原則與規則一起，構成了你們在遊戲桌上共同講述的故事的基礎。如果你在某個時刻覺得自己在勉強或有疑問，請停下來一秒鐘，深呼吸，看看原則然後試著重新遵循它們。如果角色受到了傷害，就是受了傷；如果擲骰失敗了，就接受。這很殘酷，甚至可能看起來對故事不利，但你必須克制自己並堅持下去，無論多麼痛苦。當你做出這番努力時，你很可能會驚訝於你們走了多遠。
 
-La Ruptura y el Mal de Atropos
-Como se pudo ver en el capítulo «Luz contra Oscuridad» en las páginas 138-142, 
-existen dos Reacciones especiales: la Ruptura y el Mal de Atropos. Ambas se des-
-encadenan cuando se cumplen unos requisitos específicos por parte de los PJ y que 
-reproducimos aquí para tu comodidad.
-Estas dos Reacciones suponen cambios traumáticos en la vida de los PJ y, al contra-
-rio que el resto de Reacciones básicas, sus efectos pueden tardar un poco en apare-
-cer. Si eres el MC no confundas esto con «guardarte» una Reacción, trata siempre 
-de aplicarla tan pronto como te permita la Ficción.
-La Ruptura
-La Reacción conocida como Ruptura tiene lugar cuando un PJ no escucha su cora-
-zón y rompe su Lazo con un Romance. Cuando esto ocurre, puede haber cientos 
-de resultados, como, por ejemplo, que la pareja muera, que se vaya a otro país muy 
-lejos, decida salir con otra persona, etc.
-Algunos Libretos de Romance disponen de sus propios Movimientos que alteran la 
-Ruptura, pero, por norma general, una persona no puede volver a crear un Lazo de 
-Romance con un personaje con el que haya tenido esta Reacción.
-A efectos de juego, una Ruptura ocurre cuando el medidor de Romance llega a 0 
-puntos, momento en el cual se comprueba si el Libreto tiene alguna excepción antes 
-de que el MC ejecute la escena de Ruptura.
-El Mal de Atropos
-El Mal de Atropos sucede cada vez que un PJ gasta su último Punto de Amistad, 
-dejando su reserva a 0. En ese instante uno de sus Lazos se romperá, un acto que 
-hace que dos personas se separen a un nivel casi esencial.
-Cuando tengas que utilizar una Reacción de Mal de Atropos como MC, la manera 
-más sencilla es eliminar a la otra persona de la historia; sin embargo, esto es abu-
-rrido y puede ser imposible en algunas situaciones. Es posible que el Lazo roto per-
-tenezca a un PJ o que existan otros PJ, que aún mantengan sus Lazos con ese PNJ, 
-eso sin contar que no es la forma más interesante de usar esta herramienta. Piensa 
-en los motivos que hacen que dos personas que antes estaban unidas dejen de 
-hablarse y sean incapaces de seguir confiando la una en la otra. Algunos ejemplos 
-son: que descubran que tienen ideas irreconciliables, que tengan miedo, que una de 
-ellas se sienta traicionada, que los rumores la hayan contaminado… seguro que tú 
-has tenido personas con las que te ha pasado lo mismo, viejos amigos con los que la 
-relación se enfrió y las cosas ya no eran iguales.
-215
-•Oscuridad•
+在故事進行中，故事本身會要求你做一些事情，事實上它會大聲地呼喊。那個被忽視的人或許正走向黑暗，那個看似安逸的地方很可能就是目標；那門困難的課程需要一場考試……玩家角色的生活會以許多方式受到影響。然而，也會有好事發生：那位曾被支持的朋友會找到光明，幫助同學學習會帶來通過關鍵考試的結果，面對黑暗則會帶回本不該失去的光明。戰勝黑暗只有在你能看見光明時才有價值，而黑暗只有在它影響到我們珍視的事物時才具意義。
 
-Más allá de los Libretos
-Cuando los jugadores se reparten los Libretos de Arquetipo en la creación de perso-
-najes, como MC deberías prestar un poco de atención a los motivos por los que los 
-seleccionaron. Cada Libreto suele contar de forma inconsciente qué tipo de aventu-
-ras espera ver cada jugador.
-Por ejemplo, cuando alguien escoge a la Guerrera querrá combates complejos en 
-los que lucirse, mientras que el que se decide por la Idol seguramente buscará más 
-relaciones sociales con los PNJ. Una vez que tienes claro el objetivo de los PJ, debes 
-preparar los cebos para introducirlos en la historia, dándoles la oportunidad de 
-enfatizar esos elementos; que los aprovechen o no depende de ellos.
-Otro momento en el que los jugadores te darán información es cuando escojan los 
-Libretos de Amistad y los Movimientos. Seguramente los objetivos e historias que 
-quiere vivir un jugador sean muy diferentes si escoge el Libreto de Familia antes 
-que el de Sukeban.
-Finalmente, extrae toda la información posible de las conversaciones que hay en 
-la mesa; los jugadores suelen expresar entre ellos sus aspiraciones y expectativas. 
-Si te paras un rato a escucharles encontrarás auténticas minas de oro en forma de 
-historias que pueden resultar interesantes y emocionantes.
-Todos estos consejos te ayudarán a visualizar escenas y retos para cada jugador; 
-lánzate a usarlas siempre que puedas, pero no olvides ser siempre fiel a tus princi-
-pios y objetivos. Si haces bien tu labor verás que todos regresan. Al fin y a cabo, ¿a 
-quién no le gustan las historias llenas de drama y tragedia?
-A continuación vamos a revisar cada uno de los Arquetipos para ayudarte a ver qué 
-tipo de historias y elementos pueden estar detrás de cada elección.
-La Campeona
-Ella es la elegida, y ha sido bendecida para ser la más poderosa de las magical girls, 
-la primera entre iguales. Cuando una Campeona está en juego deberían crearse his-
-torias sobre el origen de su poder excepcional, pero también con la duda constante 
-de si una Campeona nace o se hace. Quizás el poder de la Campeona provenga del 
-esfuerzo y la dedicación y no sea algo que le ha sido regalado al azar. Este tipo de 
-cuestiones suelen ser vibrantes y emocionantes de responder.
-Gran parte de las capacidades de la Campeona la vuelven un Arquetipo equilibrado 
-capaz de disfrutar todo tipo de retos e historias.
-Si bien es un objetivo tentador, deberías evitar ir específicamente contra la Campeo-
-na, dedícate a tentarla y a ponerla en tesituras difíciles para que se vea recompen-
-sada por no ceder ante la Oscuridad.
-216
-Maho Shojo
+但所有這些原則如何才能發揮作用呢？只有當玩家知道你永遠只會告訴他們真相時，它們才能運作——所以請慷慨地對待真相。你不能把房間的樣貌或非玩家角色的表情藏起來據為己有。你就是遊戲世界中的感官：如果有人愛上了某個玩家角色，就讓這一點顯而易見；如果有人懷著深深的恨意，就讓他們有所準備。無論你多想動手腳——篡改一個決定、一個動作、一個反應，或是隱瞞他們理應獲得的資訊，僅僅因為「時機不對」——永遠不要這麼做。始終保持清晰、直接和誠實。
 
-La Consejera
-La Consejera es un personaje cerebral, así que es probable que un jugador que de-
-cida cogerla como Arquetipo espere misterios y pruebas de lógica. Es necesario que 
-crees encuentros con alternativas al combate, o bien que este tenga alguna ventaja 
-si se hace una estrategia antes de afrontarlo.
-Los Movimientos y capacidades de una Consejera le permiten disponer de herra-
-mientas con las que dar la vuelta a una situación o incluso diseñar un plan alterna-
-tivo de forma retroactiva.
-En la parte social es donde la consejera muestra sus carencias. Sin embargo, es un 
-gran personaje de apoyo que puede disfrutar con un estilo de «poder tras el trono». 
-Como MC trata de hacer lucir a la Consejera demostrando que realmente puede 
-estar un paso por delante de los problemas que encuentre.
-La Guardiana
-Aquellos jugadores que escogen a la Guardiana tienen ante sí un escudo que se 
-interpone ante la Oscuridad. Este estilo de personaje crece y brilla en la adversidad, 
-cuando puede ayudar a todas sus compañeras, por lo que suelen preferir historias 
-de compañerismo y superación personal.
-En juego, una Guardiana es un personaje de apoyo, que debe esperar su momento 
-para sobresalir. Es ideal para proteger y evitar que el resto de PJ sufran demasiados 
-daños o reveses, tanto físicos como sociales.
-Si quieres explotar las preguntas sobre la naturaleza de estos personajes deberías ale-
-jarlas del grupo tanto como acercarlas, de forma que vean su fuerza en las demás, pero 
-también intentando crecer por sí mismas. Trata de no abusar de este defecto, nadie 
-desea escoger una Guardiana para estar siempre sola y sin nadie a quien proteger.
-La Guerrera
-Las Guerreras son personajes activos capaces de superar cualquier cosa que se 
-les ponga por delante con determinación y potencia física, emocional o espiritual. 
-Un jugador que escoja a una Guerrera busca retos que pueda afrontar de cara, sin 
-miedo ni subterfugios.
-Este Libreto tiene dos ramas claras: una es como un enorme martillo o una espada tan 
-afilada que es capaz de cortar cualquier cosa; la otra es alguien capaz de sentir la esce-
-na, dando órdenes y consejos que desatan el potencial de aquellas personas cercanas.
-Como MC es aconsejable llevarla a situaciones extremas y salvajes, mientras la re-
-tas para que no pueda solucionarlo todo con una carga frontal contra sus proble-
-mas, ya que su poder abrumador suele ser capaz de superar cualquier desafío.
-217
-•Oscuridad•
+### 基本原則
 
-La Idol
-Este Arquetipo demuestra el interés por las escenas 
-sociales más que por cualquier otra para demostrar 
-sus capacidades y potencial. Un jugador que escoja 
-este Arquetipo intentará ser siempre el centro de 
-atención y relacionarse con cualquiera.
-Gracias a sus Movimientos y a su talento, una Idol 
-es capaz de hacerse rápidamente con las riendas 
-sociales, creando conexiones e impulsando nue-
-vas dinámicas dentro de los grupos. Esto último 
-debería ser usado para enriquecer a los PNJ y 
-crear tramas interesantes dentro de la historia.
-No obstante, el mundo no debería ser una alfom-
-bra roja para la Idol, aunque tampoco deberías qui-
-tarle a sus fans o evitar que pueda hacer escenas 
-sociales, pues perdería su esencia. Es por ello por 
-lo que deberías usar su arma contra ella, de forma 
-que pueda incluso brillar más utilizando rivales, 
-enemigos, rumores… La vida social activa tiene un 
-montón de elementos que hacen que una Idol luz-
-ca su corona a la vez que sufre por mantenerla.
-La Sanadora
-La Sanadora es muy parecida a la Guardiana, en el 
-sentido de que es un personaje que brilla más cuan-
-do hay otros cerca de ella. Su vocación es ayudar a 
-los demás curando los daños de las consecuencias 
-de sus acciones. Los jugadores que escogen este Ar-
-quetipo habitualmente disfrutan poniéndole solu-
-ción a un problema, curando y sanando las heridas.
-El talento de una Sanadora es, por un lado, rediri-
-gir las consecuencias y, por el otro, solucionarlas, 
-aunque eso suponga salir malparada en el proce-
-so. Por desgracia, incluso más que una Guardia-
-na, una Sanadora queda deslucida si se encuentra 
-en solitario, por lo que debería evitarse.
-Si un jugador decide tomar el papel de una Sana-
-dora casi te está pidiendo que la hagas sufrir, que 
-la pongas en aprietos y dilemas en los que salvar 
-a alguien sea clave. Pero recuerda la trampa: tam-
-bién quieren ganar, aunque sea a costa de ellas 
-mismas, por lo que no le pidas ningún imposible.
-218
-Maho Shojo
+如果目標是指南針、反應是載具，那原則就代表道路。雖然它們不是規則，但同等重要，因為它們代表著良好的實踐和準則，幫助你為 Mahō Shōjo 增添風味並展現其主題。每一條原則都會幫助你察覺並創造虛構敘事提供的線索，引領你穿越故事。作為 MC，毫不猶豫地遵循它們，你會看到一切開始順暢運作，你的工作也變得輕鬆許多。
+
+- 對角色說話，而不是對玩家。
+- 讓你的反應自然流暢。
+- 為每個人取一個名字。
+- 提出問題並運用答案。
+- 成為角色的粉絲。
+- 從虛構敘事開始，也在虛構敘事中結束。
+- 也要想想畫面之外發生的事。
+- 想想黑暗如何潛伏在日常之中。
+- 光明與黑暗是對立的力量。
+- 家常奇幻對比高度奇幻。
+- 要讓人感覺到魔法少女確實擊退了黑暗。
+- 讓反派令人印象深刻。
+
+#### 對角色說話，而不是對玩家
+
+面對黑暗使徒正要殺害最好朋友的不是玩家，走在街上和同伴一起逛櫥窗的也不是玩家。是玩家角色——是玩家所扮演的魔法少女在經歷這些情境，所以你應該對她們說話。因此，你應該說：「井上，妳打算怎麼對付這隻怪物？」而不是：「克莉絲汀娜，井上要怎麼阻止那隻怪物吞噬受害者？」用角色的名字稱呼玩家，能激勵玩家以角色的身分來思考、說話和行動。
+
+為了強化這個原則，請清楚地描述角色看到和聽到的一切。例如：「明里，當你拿到考卷上又一個 10 分時，你感覺到有人用目光刺穿你」，而不是：「克里斯，你的同學看到桌上自己的成績後，嫉妒之心開始滋長。」像角色本人就在場景中那樣傳達資訊。
+
+#### 讓你的反應自然流暢
+
+當你使用反應時，永遠不要直接告訴玩家。盡量避免說出「現在我要把你們分開」之類的話，然後再尋找反應的對象。不，我們知道你可以做得更好。
+
+把反應想像成觀看魔術表演：即使你知道有機關，魔法只有在告訴你機關是什麼時才會破滅。要達到這個效果，就像魔術師一樣做——當你想在右邊做事時，讓觀眾看向左邊。讓虛構敘事為你掩蓋痕跡，讓反應在場景中自然流動。例如：「清美，當你試圖把那些人帶到安全的地方並將他們拉開時，你注意到身上有異樣。血之女王的一個奴僕倒下來咬了你一口。然後你感覺到一股毒素開始在你體內蔓延……」而不是告訴他們你正在使用「對她們造成痛苦」的反應。另一個例子：「依子，當你開始在走廊跟那個男生說話時，突然你注意到一個同學飛速衝過來開始對你大吼。她對你靠近她男友非常憤怒，看起來不打算停下來直到把你羞辱一番。你怎麼做？」而不是「顯示即將到來的威脅訊號」。
+
+#### 為每個人取一個名字
+
+每個人都有自己的故事。每個非玩家角色在玩家角色第一次接近他們的那一刻就變得重要了。對於一個魔法少女的心靈來說，她認識的每一個人都很重要，否則她就不會去接近對方。作為 MC，永遠不要停止記錄名字；為了幫助自己，建議你準備一份「備用」名單以備不時之需。
+
+對於每一個你賦予名字的非玩家角色，也要思考他們的動機和細節。為此，不要猶豫地向玩家提問並採用他們的想法和回答。最後這一點很重要——當一位玩家參與其中並看到自己的回答影響了虛構敘事時，他們也會建立起連結。他們將會送給你成百上千的故事種子，讓你用來製造戲劇衝突！
+
+正因為這個原則，那個站在那裡的女孩不只是某個在體育館打排球的無名路人。相反，她會是伊野，一個因為剛搬到這座城市而遇到困難的女孩。如果一個角色與另一個角色有了任何對話和一定程度的互動，哪怕只是片刻，就把他納入你的計畫中。用豐富的非玩家角色陣容充實玩家角色的世界，讓他們能夠與之互動。
+
+#### 提出問題並運用答案
+
+從玩家介紹角色的那一刻起，就開始提問，而且永遠不要停。一些最基本的問題可以是：你為什麼住在這座城市？你的父母是什麼樣的人？你用過你的力量嗎？你知道自己擁有這些力量嗎？但不要止步於此，對任何你覺得可能引出一個故事的事情都要追問：你提到的那個你不再跟她說話的女孩，是因為什麼？你好久沒見到的姐姐，發生了什麼事？對玩家持續追問，直到你挖掘到可以使用的素材。
+
+你得到的每一個回答都會成為寶藏，你必須用它們來建構基於這些回答的虛構敘事，在心中整合並構思玩家角色的舞台。如有必要，動用一切工具，深挖每個玩家角色的過去、現在和個性以尋找資訊。試探他們的恐懼和渴望，找出他們想要保護的東西，以免黑暗將其奪走。
+
+隨著你不斷提問，試著讓每一個貢獻都更加具體。例如，如果有人告訴你他們剛轉學，試著套出他們以前的老朋友是誰，這樣那些人就可以回來；探究他們的動機，並利用這些來豐富故事和製造戲劇衝突。
+
+#### 成為角色的粉絲
+
+讓玩家角色受苦和陷入麻煩，不等於殺死她們、讓她們的生活變得無法忍受。沒有人願意每分每秒都受折磨，那是虐待或更糟的事情。做玩家角色的粉絲，就是想看到她們閃耀。用那個絕招在斷了一隻手臂、親眼目睹重要之人差點死去之後拯救世界——或是看她們擊敗邪惡。
+
+你的任務是把她們放入具有挑戰性的困境中。讓她們真正地賭上生命和內心，將她們身邊重要的人置於險境，考驗她們的夢想，玩弄她們的情感……但當你這樣做時，要為了看到她們站起來勝利，或是看她們以最具戲劇性的方式面對困境。作為 MC，你必須抵抗僅僅為了看她們痛苦和失敗而攻擊她們的誘惑。
+
+當你攻擊玩家角色的夢想和摯愛之人時，避免奪走使她們生活有趣的事物。作為 MC，請深思失去可能帶來的影響，並給予她們拯救的機會。
+
+同樣的道理也適用於成功。如果一個玩家角色努力擊敗了一個化身，或是幫助她的兄長解決了問題，不要剝奪她們的勝利。
+
+#### 從虛構敘事開始，也在虛構敘事中結束
+
+作為 MC，你應該遵循虛構敘事提供的工具。如果一個玩家角色宣稱要跳過幾公尺的距離，應該不成問題。但如果她的腿斷了呢？永遠將虛構敘事牢記在心，以此來判斷某件事是否可能。一個化身對物理攻擊免疫嗎？那麼要觸發懲戒黑暗的動作，就必須透過魔法手段來實現。某個玩家角色在和大家外出時因為某件事太過擔心，一直在強調？也許你需要考慮她們是否能觸發生活故事的動作。
+
+每當你們停下來確認動作時，無論結果如何，都要回到虛構敘事中。透過這個方法，遲早你會再次來到一個需要判斷虛構敘事是否觸發了某個動作的時刻，就這樣循環往復，如同白天接著黑夜，黑夜接著白天。
+
+#### 也要想想畫面之外發生的事
+
+不要只關注場景中存在的情況。是的，場景很重要，因為那是主角們所在之處，但所有其他非玩家角色都有自己的生活。例如，一個玩家角色的戀人可能正在等待，而玩家角色正在被父母禁足。一個首領或化身可以在所有人都在參加同學生日派對、試圖為她提振精神的時候，悄悄推進他的計畫。
+
+作為 MC，永遠記住那些「畫面之外」發生的決定。傳達給玩家一種世界是活生生的感覺，當他們做出決定時，世界也會對此做出反應。
+
+#### 想想黑暗如何潛伏在日常之中
+
+魔法少女是光明的化身，傾向於保護周遭環境以使光明獲勝。然而，如果她們喚醒了自己的力量，那是因為黑暗的威脅確實存在。出於某種原因，人們可能落入黑暗之手，無論是無意識地還是自願地。例如，一個愛上男孩的女孩可能會萌生嫉妒之情；一間平凡的錄影帶出租店可能透過它的電影影響人們的心智；一台相機可能附身於被拍攝的人，改變他們的靈魂。
+
+Mahō Shōjo 中的黑暗不僅僅是來自遙遠星辰的生物或地獄實體（儘管它們可以採取這些形式）；它的力量在於影響最日常的事物。當你描述場景和非玩家角色時，問自己一個問題：黑暗會如何影響他們？一間無害的美髮店可能是一個助長傲慢和虛榮的地方，嚴重到其顧客僅因外表就鄙視他人。當這種情況發生時，就是玩家角色該出手的時候了。
+
+#### 光明與黑暗是對立的力量
+
+這個原則可以被視為前一個原則的延伸；然而，作為 MC，你必須認識到光明和黑暗是既必要又對立的力量。在你們玩 Mahō Shōjo 的故事中，兩者都必須存在，儘管在某些世界觀中它們可能有不同程度的戲份。
+
+光明代表的情感有：喜悅、友情、愛、希望、自我超越的渴望、在一切看似失去時的奮戰、奉獻、利他主義……所有人都在不同程度上懷有這些情感，即使看似已經消失，在幫助下仍可以被喚醒。
+
+黑暗代表相反的一面：仇恨、嫉妒、虛榮、執念、屈服於恐懼、自私、欺凌弱者、掠奪本能……這些情感同樣存在於所有人心中，通常在人們選擇捷徑或走容易的路時出現。
+
+然而，兩者處於平衡狀態，在極端處甚至可能合而為一。如果我們把正義和復仇搞混了會怎樣？沒有恐懼的勇氣真的存在嗎？最終一切都取決於關鍵時刻的抉擇。如何做出這些抉擇，正是造就魔法少女和黑暗使徒的分水嶺。
+
+許多化身和首領原本是普通人（或類似的存在），在面臨困難時屈服於慾望，儘管出於善意卻做出了自私的決定。而在另一邊，魔法少女不會為了獲得什麼而讓身邊的人受苦，她會承擔自己決定的後果，不走捷徑。
+
+#### 家常奇幻對比高度奇幻
+
+在大多數魔法少女類型的作品中，世界似乎與魔法以及光明與黑暗之間的衝突毫無關聯。正因如此，居民們上學、白天工作、吃早餐、從事某種運動等等，但這一切都不涉及魔法，也對黑暗使徒一無所知。在這種情況下，魔法少女似乎只存在於謠言或傳說中，不被注意到，或是當危險過去後，她們的行動就被遺忘了。
+
+這種類型的奇幻被稱為「家常奇幻」，Mahō Shōjo 的大部分故事預設都發生在這種背景下。這種日常的面向與玩家角色所屬的魔法世界形成強烈對比，那裡充滿了超自然元素。因此，一般人看到的洗衣機可能是通往魔法世界的入口，一台網球發球機可能變成一具人偶，而錄影帶出租店的後室可能就是黑暗的巢穴。
+
+作為 MC，你必須在兩個世界之間製造對比，而玩家角色就是連結兩者的橋梁。當她們沒有穿著光之裝束時，她們的煩惱會是練習吉他、去購物、和朋友逛書店、或者不要在課堂上睡著——總之就是日常生活中的平凡活動。這與召喚她們的魔法世界形成鮮明對比，在那裡通常是為了對抗黑暗，奇幻或科幻的元素開始出現。當她們變身並穿上光之裝束時，她們可能穿越維度、前往太空、拜訪由光或水晶構成的宮殿、遇見精靈或龍等魔法生物、與神靈交談，或是面對黑暗使徒。
+
+這種對比幫助玩家角色清楚地區分這兩個面向，並感受到試圖同時過兩種生活所產生的衝突——這在魔法少女系列作品中非常常見。
+
+作為 MC，即使你們沒有選擇當代背景，你也應該努力營造這種差異。如果你們決定將 Mahō Shōjo 的遊戲設定在奇幻大陸或科幻環境中，你也應該創造類似的對比。例如，在一座二十二世紀的城市裡，日常的科技可能與魔法和原始的元素形成對立。另一方面，在一座有城牆的中世紀城市中，日常可能是牆內有秩序的社會，與之對立的則是牆外狂野未知的世界。
+
+#### 要讓人感覺到魔法少女確實擊退了黑暗
+
+當玩家角色只是不斷面對黑暗卻看不到盡頭、感覺自己的行動毫無意義時，他們最終會陷入冷漠。正因如此，她們的勝利必須被感受到——當她們戰勝黑暗時，事情要得到改善。
+
+每當她們擊退黑暗的爪牙，至少在一段時間內，人們的生活似乎變得更好，一切似乎恢復了原有的寧靜，但帶著一層新的樂觀光芒。每一次勝利都應該伴隨著獎勵——黑暗回歸的時間自然會到來。因為是的，它會回來。隨著時間推移，一個新的首領會出現，或者化身會啟動新的計畫，但現在，是她們贏了。
+
+#### 讓反派令人印象深刻
+
+在某個時刻，玩家角色必須承擔起魔法少女的角色，面對黑暗使徒。起初，這些敵人很可能只是傀儡和人偶——動機和慾望都很簡單的存在。然而，隨著時間推移，她們會遇到首領和化身，而這些角色應該是令人難忘的。不要害怕花心思塑造這些角色的個性和動機，建立他們與玩家角色及周遭世界的連結。盡你所能避免讓他們在玩家講述冒險故事時只是又一個路人甲。
+
+利用首領和化身向玩家角色展示道路和教訓。他們中的許多人最初是普通人（或類似的存在），以為自己在做正確的事，卻偏離了軌道去擁抱黑暗。你甚至可以把他們設計成某種黑暗鏡像——例如，一個為了保護和拯救所愛之人而投向黑暗的首領。
+
+作為 MC，請記住大部分玩家角色在整個生涯中只會面對一到兩個化身，你最不希望的就是他們只變成一個記號，隔天就被遺忘。
+
+## 反應
+
+現在你已經了解了原則，是時候來看看反應了。你可以把它們想像成你影響故事和攪動局面以推動玩家角色行動的工具。當你使用反應時，始終牢記你的目標和原則，因為如果你對何時及如何使用它們產生疑問，目標和原則會幫助你。
+
+反應相當於玩家角色的動作，但有一些差異。你可以把動作視為玩家用來推動他們的玩家角色在故事中前進的元素，而反應則是 MC 回應這些動作和所產生的虛構敘事的方式。
+
+MC 的這些行動之所以被稱為反應，是因為通常主動的一方是玩家角色，所以你的工作是對他們做出反應並指示虛構敘事如何推進。不要把你的反應想成是用來擊敗玩家角色的工具——雖然這種情況可能發生——而是把故事帶往有趣且令人激動之處的手段。
+
+### 何時使用反應
+
+現在你會問：我什麼時候該使用反應？快速的回答是——隨時你想用都可以。然而，有三個關鍵時機特別適合讓它們登場：
+
+- 當沒有任何動作或戲劇衝突時。
+- 當擲骰失敗時。
+- 當時機再明顯不過，簡直是送上門來的機會。
+
+記住，作為 MC，你必須讓故事始終保持運轉。如果在某個時刻虛構敘事停滯或變得無聊，就是啟動反應的時候了。為此，我們建議每當你使用反應來啟動故事或聚焦虛構敘事時，先限定自己使用柔性反應。這種用法通常只是創造一個參考點，讓玩家重新集中在虛構敘事上。如果你發現故事仍然無法重新啟動，建議投出越來越大的石頭——以硬性反應的形式——直到產生效果。
+
+在執行動作時，玩家經常會擲骰失敗。你在這些情況下使用的反應應該與虛構敘事自然銜接。這是因為，就像玩家在虛構敘事中串連動作一樣，你也應該以身作則。即使是部分成功，例如動作擲骰結果為 7 到 9 之間有時會標明特定後果，但你仍然是負責用反應塑造場景的人。
+
+最後，請記住作為 MC，你也代表著黑暗的計畫和那些為黑暗效力之人。如果在某個時刻，一個玩家忽視了危險的訊號、決定敞開心扉、或是面對一個無法擊敗的敵人，就是啟動引擎的時候了。使用你認為必要的力度，試著揣摩玩家在追求什麼；很多時候玩家自己早已給出了他們期望故事走向的暗示。
+
+每次你能夠使用反應的時刻，先問自己：「我是否遵循了我的目標和原則？」如果答案是否定的，或許你應該克制自己，不要使用反應。
+
+### 柔性反應和硬性反應
+
+反應不應該被用來懲罰玩家或在虛構敘事中造成巨大變化；相反，它們應該作為玩家角色行動的後果以及攪動局面的工具。因此，作為 MC，你必須問自己一個問題：我想推動故事多少？為此存在柔性反應和硬性反應。
+
+柔性反應的目標是向玩家發出警告。硬性反應則是那些具有強烈衝擊、可能改變場景性質的反應。
+
+對於何時使用柔性反應、何時使用硬性反應，沒有明確的規則。我們唯一能說的是，你應該遵循自己認為正確的判斷，並將其應用於你的目標和原則。如果你仍然有疑問，參考虛構敘事——很多時候故事本身會告訴你需要什麼。
+
+**柔性反應範例一：**你正在檢查霞間大廈的檔案。突然你發現周圍沒有任何聲音。在昏暗中你似乎分辨出一雙眼睛，好像影子活了過來——你怎麼做？
+
+**柔性反應範例二：**當你把球打回去淘汰對方隊伍的一名選手時，你看到另一名選手跳起來接球。在做了一個翻滾動作後，她彈跳起來，你注意到她正盯著你。球如子彈般朝你飛來——你怎麼做？
+
+**柔性反應範例三：**你看到景作沿著街道朝你走來；他看起來有點恍惚，眼白翻起。有什麼不對勁，突然間你意識到他要用一個在手中具現化的東西打你——你怎麼做？
+
+**硬性反應範例一：**你正在檢查霞間大廈的檔案。突然你發現周圍沒有任何聲音。當你望向黑暗時，看到一個影子朝你撲過來。它對你造成 2 點痛苦。
+
+**硬性反應範例二：**當你把球打回去淘汰對方隊伍的一名選手時，你看到另一名選手跳起來接球。在做了一個翻滾動作後，她彈跳起來朝你投球。球擊中你時，你知道自己已經被淘汰了。
+
+**硬性反應範例三：**你看到景作沿著街道朝你走來；他看起來有點恍惚，眼白翻起。有什麼不對勁，他用一個物品擊中你，讓你失去了意識。當你醒來時，你發現自己在一家店的後面，地上散落著數十捲 VHS 和 DVD，牆上掛著老電影的海報。
+
+### 基礎反應
+
+以下列出 MC 可用的基礎反應，同時附上使用的指引和建議：
+
+- 使用黑暗使徒、場景、人物或蝕的反應。
+- 拆散她們。
+- 顯示即將到來的威脅訊號。
+- 讓她們的動作反噬自身。
+- 提出針對角色的特定危險。
+- 提供有代價的機會。
+- 讓無辜者陷入危險。
+- 告知條件或後果，然後提問。
+- 引入新角色。
+- 推進進行中的蝕。
+- 在她們的生活中製造痛苦。
+- 使她們的心靈蒙上陰影。
+
+#### 使用黑暗使徒、場景、人物或蝕的反應
+
+除了基礎反應之外，作為 MC，你還可以使用額外的反應組合。一些例子包括黑暗使徒的黑暗恩賜、場景、蝕或某些角色的反應。
+
+要了解更多關於這些反應以及它們如何產生的資訊，請參閱「黑暗使徒」和「蝕」章節。當你使用這些反應時，請記住它們的設計目的是將注意力集中在它們所屬的事物上，並試圖將虛構敘事的焦點導向那裡。
+
+**範例一：**突然間，你們看到幾團黑暗火焰的餘燼撲向明里，她的光之裝束開始燃燒。明里，妳看到自己被火焰包圍、開始灼傷！妳怎麼做？
+
+**範例二：**那些目睹星辰城堡傾覆之人的哭泣和低語瀰漫此地，充滿了對從未經歷過之時光的哀愁。你們獲得 1 點黑暗點數。
+
+**範例三：**當你走進霞間大廈的電梯按下頂樓的按鈕時，你看到門突然打開。門開之後，你面前出現一個黑暗的傳送門，傳來一個聲音——你聽不懂那是什麼語言。幾秒鐘後，它又說了同樣的話——你怎麼做？
+
+#### 拆散她們
+
+魔法少女最大的力量來自她們的團結。透過友情和團隊合作，她們能夠面對黑暗和任何擺在面前的挑戰。當你拆散玩家角色時，你就分散了那股力量，把她們帶到處於劣勢、問題增加的境地。
+
+**範例一：**在與血之吸血鬼的戰鬥中。
+——你們看到其中兩個撲向清美並抓住了她。然後他們把她從窗戶扔了出去，另一個擋在中間不讓你們會合。
+
+**範例二：**當你們在祭典上時，你突然發現你在人群中失去了友芽的蹤影。就在這時，有人抓住你的肩膀，把你拖到一個攤位後面……
+
+**範例三：**在突入霞間企業分部的行動中：
+——你們看到井上穿過門後消失了。沒有留下任何她的痕跡。與此同時，井上，妳發現自己在一片平原中央。看不到任何星星，但天空中有一隻眼睛正在注視著妳——妳怎麼做？
+
+#### 顯示即將到來的威脅訊號
+
+在場景內外展示突顯邪惡的元素。一個化身在命令他的傀儡、一位教授冰冷的目光、一位母親態度的轉變。也可以更直接，例如在首領的眼中看到黑暗、或是感覺到從遠處被監視。無論用哪種方式，你都應該讓玩家角色感到脆弱和不安。
+
+**範例一：**你看到景作書包裡露出一捲老式錄影帶。雖然你無法確切辨認是什麼電影，但你注意到上面有一張貼紙寫著「Glob 錄影帶出租店」時，感到一陣刺痛。
+
+**範例二：**推開門走進去的瞬間，你看到你的姐姐奈央一臉呆滯。她手中握著一封信。當她聽到你進來時轉過頭來，她的表情崩潰了——你怎麼做？
+
+**範例三：**井上的背脊竄過一股不祥的感覺。在一家銀行分行裡，一位律師將霞間企業的印章蓋在她家的抵押貸款文件上。
+
+#### 讓她們的動作反噬自身
+
+你知道「小心你所許的願望，因為它可能成真」這句話嗎？它比看起來更真實，善加利用可以成為非常有價值的手段。作為 MC，你必須記住失敗不等於徹底失敗——它只意味著事情沒有按照預想的方式發展。有時候更好的做法是運用「太好的事情必有蹊蹺」的技巧。一次傷及他人的強力攻擊、一份太過出色而遭到抄襲指控的作業……想想一件看似太美好的事情可能如何讓某人因此受苦（如果可能的話，讓受害者不是玩家角色本人）。
+
+**範例一：**你用天劍的一擊成功擊敗並驅除了伊野身上的附身。不幸的是，當她倒地後你發現她似乎受了傷；鮮血開始從她頭部流出，她看起來沒有恢復意識。
+
+**範例二：**夏海，妳拿到了申請的獎學金。妳不用再為學業擔心了。不幸的是，當妳讀信時發現如果接受的話，妳必須搬到全國的另一端，離開一切妳在乎的人。
+
+**範例三：**經過好幾個通宵達旦的學習，井上的努力似乎有了回報，成功通過了考試。不幸的是，所有人都對她成績的突然提升感到驚訝，開始傳出她其實是作弊的謠言。情況似乎越來越糟，突然間，井上收到了紀律委員會的傳喚。
+
+#### 提出針對角色的特定危險
+
+圍繞每個玩家角色建構的虛構敘事提供了大量可以用來對付她們的工具。一些例子包括：人際關係、戀情、考試、家庭承諾等。利用他們給你的一切來創造個人化的衝突。這些反應非常適合製造戲劇衝突，也是忽視羈絆的後果。提醒她們為什麼要對抗黑暗，以及她們需要保護什麼。
+
+**範例一：**井上回到家時看到父母在廚房裡哭泣。當她走近查看發生了什麼事時，看到一封查封信掉在地上。霞間的印章旁附著一則通知：他們有二十天的時間搬離這棟房子，否則將被強制驅逐。
+
+**範例二：**夏海面前是一大片佈滿毒刺的玫瑰花叢，她必須穿過它才能抵達森林中心——那裡躲著一隻吞光者。只有她以花卉為主題的力量才能穿越，將光明重新帶回星之王國的這個地區。
+
+**範例三：**明里的女僕帶來了好消息：有一位重要人物來看她。見面時對方告訴她，憑藉她的才華，她已被一所名門私校錄取。但這所學校有著非常嚴格的時間表，要求她必須住校。
+
+#### 提供有代價的機會
+
+有時候，解決一個問題的出路就是跳入另一個不同的問題。即使最好的主意也可能有代價和後果，必須接受才能脫離當前的困境並面對新的問題。
+
+作為 MC，你在交易中應該盡可能誠實。玩家必須了解協議的所有條件，才能評估是否要讓他的玩家角色暴露在新的危險中。另一種談判方式是，不要求他們付出什麼來換取目標，而是讓他們面對一個新問題——無論是立即的還是未來的。
+
+**範例一：**清美試圖閃避黑暗火焰魔女召喚的火球。然而，莫妮卡也告訴她，如果這樣做的話，依子就會失去保護，被法術擊中。
+
+**範例二：**當友芽終於贏得了 Kanakana 的限量明信片時，她發現其他同學投來了嫉妒的目光。
+
+**範例三：**依子成功說服了店員讓她進入 Glob 錄影帶出租店的後室。然而，店員說只能她一個人進去。如果她決定進去，就會和同伴明里與清美分開。
+
+#### 讓無辜者陷入危險
+
+這個反應必須謹慎使用。作為光明的選民，魔法少女應該關心避免無辜者受到連帶傷害。有時這類反應的效果是讓玩家角色獲得痛苦或黑暗點數。
+
+無辜者陷入危險有很多形式，不一定非得是被人偶或首領攻擊或綁架。許多其他情況也可以是對無辜者來說「危險的」——比如被羞辱、趕不上公車、鞋子從置物櫃裡消失、或是放學後被留校處罰。
+
+**範例一：**雖然你成功躲開了飛向你的球，但它直接砸中了你同學的臉。你不需要回頭看就知道她的鼻子碎了——那清脆的響聲就夠說明一切了。
+
+**範例二：**當你們試圖打開在星之王國找到的那本書時，外面傳來一陣聲響。從窗戶望出去，可以看到一隻吞光者正在吞噬夏海的弟弟斗上。
+
+**範例三：**當翡翠武士猛擊牆壁時，她俐落地切開了它。大廈的牆壁開始崩塌，你們聽到二樓有人在尖叫。如果沒人行動，很可能會發生不好的事——你們怎麼做？
+
+#### 告知條件或後果，然後提問
+
+當一個玩家角色試圖達成某件事時，作為 MC，你應該清楚地說明後果，告知代價。盡量指出他們行動的負面效果，甚至讓他們對自己的行為產生猶豫——就像黑暗在周圍散播恐懼一樣。
+
+由於這些反應的性質，它們通常是柔性的。
+
+**範例一：**Glob 似乎對你們不感興趣；雖然他看到了你們，但裝作視而不見。不過他似乎正在對新的電影施法。你們可以撤退，回去準備好再來，但那意味著又會有人被影響。另一方面，如果你們現在攻擊，他完全知道你們就在那裡。
+
+**範例二：**你們意識到，如果你們幫助藥雲阻止他的社團被解散，很可能會惹上麻煩。據傳聞，學生會已經追查此事好幾年了，因此你們可能會面臨後果並招來他們的敵意。你們要繼續這個計畫嗎？
+
+**範例三：**你可以趁著火焰之書掛在魔女腰帶上的時候將它奪走。然而，有什麼在告訴你，那些幽暗的能量會試圖侵蝕你的心靈。你願意以 3 點黑暗點數為代價繼續嘗試嗎？
+
+#### 引入新角色
+
+總會有新的人物加入故事——無論是作為朋友還是敵人。新加入的成員是危險的。他們是黑暗的爪牙嗎？潛在的朋友還是盟友？一個新的同伴可能被揭露為一個新的首領，或是一個偽裝的舊敵。一個化身可能在一連串失敗後被另一個更強大的取代。同樣地，也可能出現新的盟友、新的友情、可能的戀愛對象、新同學、從別處感知到黑暗的魔法少女，甚至是一個願意與玩家角色並肩作戰的魔法生物。
+
+當你介紹某人時，不要完全封死他們的特質，向玩家提問並讓虛構敘事告訴你新角色的真正本質。
+
+**範例一：**躲避球隊的隊長走進了更衣室。她身邊有一個西方面孔、金髮的女孩。
+——好消息，女孩們。像變魔術似的，冒出了一位新隊員來填補上次的缺額。她叫桐野・蘭格，來自美國，今天早上剛到。
+
+**範例二：**第二節課開始時，班導帶著一名新同學走進教室。她的右眼戴著眼罩，自我介紹為名切美加子。接著她走向夏海身後的座位——唯一剩下的空位。
+
+**範例三：**你們沒能阻止翡翠武士抵達大街上的神社。她用劍斬斷了千年封印，被稱為魔冥——鎖鏈之主的可怕存在開始成形。你們最擔心的事隨著血之公主那位令人恐懼的將軍復活而得到證實。
+
+#### 推進進行中的蝕
+
+黑暗有自己的計畫，而且不會停下來。當一個首領被擊敗時，化身似乎會尋找另一個人取代他的位置，因為總有人願意為了滿足慾望而做一筆交易以換取力量。另一方面，當玩家角色沒有介入時，他們的計畫就會進展，黑暗就會向四周蔓延。
+
+這個反應使一個蝕推進到它的下一個階段。當這種情況發生時，向玩家角色展示該行為的後果。
+
+**範例一：**你們驚愕地看到，突然間一個無辜者的靈魂被吸入黑暗火焰魔女的火焰之書中，然後消失了。
+接著 MC 將蝕推進到下一階段。現在血之公主已經更接近達成她的黑暗目標了。
+
+**範例二：**不幸的是，你們來得太晚了。無面者成功開啟了黑暗的漩渦。現在吞光者可以從魔法世界進入現實世界了。Marion 將蝕推進一步到下一階段。
+
+**範例三：**雖然你們成功逃離了 Glob 錄影帶出租店的後室，但有些不對勁。他的數十捲錄影帶散布在城市各處。你們不完全了解他計畫的全貌，但有什麼在告訴你們它正順利推進。
+莫妮卡期望在這個柔性反應之後玩家角色會做出回應，否則她將不得不推進蝕。
+
+#### 在她們的生活中製造痛苦
+
+造成痛苦是引起注意最簡單直接的方式。在 Mahō Shōjo 中，玩家角色對痛苦非常脆弱，因為它會消耗她們的資源，並連帶地在生活中製造各種麻煩。
+
+當你造成痛苦時，想想它的來源。例如，當痛苦來自黑暗使徒時，它應該源於將該使徒與黑暗連結的特質。然而，這不是玩家角色遭受痛苦的唯一方式；考試不及格、和母親吵架、一群霸凌者把她堵在角落……有許多危險能夠讓一顆心感到痛苦。
+
+當你使用這類反應並思考痛苦值時（如果不是像黑暗使徒那樣有預設值的話），應該在 2（輕微情況）到 8（真正創傷性的情況）之間。
+
+**範例一：**依子被魔冥的四條神祕鎖鏈之一束縛住了。她的同伴們無法從這位陰險的將軍手中解救她，他用力勒緊。鎖鏈似乎不僅影響著她的身體，還侵蝕著她的內心，對她造成了 9 點痛苦。
+
+**範例二：**當友芽在手機上和她姐姐吵架時，她把一袋重要的東西忘在了電車上。下車後意識到時，她的焦慮感加劇，承受了 4 點痛苦。
+
+**範例三：**清美的姐姐衝進她的房間。她受夠了每次清美消失時都要替她掩護、對父母撒謊。在互相辱罵、扔了幾本書之後，她氣沖沖地摔門離去。清美知道自己做的不對，但她猶豫著是否該把祕密告訴姐姐。莫妮卡告訴她記下 2 點痛苦。
+
+#### 使她們的心靈蒙上陰影
+
+雖然魔法少女的心中懷有光明，而且她們對黑暗有很強的抵抗力，但沒有什麼能阻止你在她們心中埋下一些種子。當她們面對黑暗使徒、造訪其他維度、在生活中遇到新的問題時，她們可能逐漸陷入怨恨、仇恨、嫉妒或恐懼等黑暗的情緒。每一次屈服或選擇捷徑，黑暗都會在她們內心留下一些威脅著要成長的東西。
+
+作為 MC，當你注意到魔法少女可能懷有與光明相悖的東西、她的心靈正在耗竭時，就使用這個反應。你給予的黑暗點數應該是 1 點，最多 2 點，某些黑暗恩賜除外。
+
+玩家角色身上的黑暗後果由他們的盟約類型決定。
+
+**範例一：**在目睹魔冥復活之後，清美坦承了她的恐懼。她表示這讓她開始質疑她們是否在做正確的事。莫妮卡告訴她，這些疑慮開始在她心中凝結，她記下了 2 點黑暗點數。
+
+**範例二：**在一次歷史考試中，夏海選擇用小抄作弊來避免不及格。MC 決定使用「使她們的心靈蒙上陰影」的反應，給予 1 點黑暗點數。
+
+**範例三：**明里決定放棄她一生的機會，繼續與黑暗戰鬥。雖然她知道這是正確的，但她也因為無法前往她夢寐以求的名門學校而感到幾分惆悵。莫妮卡問她這件事是否真的壓在她心上，在確認之後，告訴她記下 1 點黑暗點數。
+
+### 每次反應之後：「你怎麼做？」
+
+每當一個反應結束時，你必須把主導權交還給玩家角色。最簡單直接的方式就是透過角色扮演遊戲中最古老的那個問題：你怎麼做？
+
+這個問題不是隨機提出的，它帶有一個目的：把事情說清楚並將焦點集中在玩家的決定上。一旦提出這個問題，他們必須決定如何面對新的局面。有時候玩家會不知所措，因為他們感到驚訝。如果是這樣，給他們時間。不過，如果你發現他們猶豫太久或故事的節奏受到影響，就串連新的反應來消除阻塞，讓虛構敘事恢復節奏。
+
+### 串連動作和反應
+
+在 Mahō Shōjo 的聚會中，你很快就會發現遊戲是透過 MC 和玩家之間的交替來運作的，就像一場籃球或網球比賽。隨著你們一起在故事中前進，動作之後是反應，反應之後又是新的動作，如此流暢地進行。
+
+理想情況下，在一個場景中，所有參與方都至少介入了幾次，或者至少有機會這樣做。然而，在 Mahō Shōjo 中，沒有明確的規則，也不像其他遊戲那樣有先攻系統。這種情況給 MC 帶來了額外的責任——你必須公平，在故事推進的過程中給予每個玩家角色同等的表現機會。
+
+## 非玩家角色
+
+在 Mahō Shōjo 中，非玩家角色的管理很簡單：給他們一個名字、一個動機，以及一個黑暗可能藉以奪取其心靈的弱點。接著，在向玩家介紹時加以描述就完成了。不需要角色表，你只需要一個地方記下上述資訊，並隨著故事進展和你們（MC 和玩家）發現角色如何演變而更新。
+
+當你累積了幾個非玩家角色之後，或許可以準備一張關係圖和他們與玩家角色互動的筆記，以及他們之間是否存在任何羈絆或戀愛關係。
+
+### 黑暗污跡
+
+你需要為每個非玩家角色思考（或向玩家詢問）的一個重要部分是：黑暗可能以什麼方式影響他們。記住，在 Mahō Shōjo 中，玩家角色所對抗的不僅僅是黑暗的怪物和生物，更是在保護和改善她們的周遭環境。
+
+為了將這些主題納入遊戲，每個非玩家角色都應該有一個可能將他們引向黑暗的問題、慾望或誘惑，而玩家角色會試圖解決這些問題。當你思考這些時——無論有沒有玩家的參與——盡量讓它保持簡單。如果非玩家角色獲得了更多戲份或故事因此推進，他自己會告訴你具體的細節如何展現；記住，作為 MC，你的目標之一是「抱著看看會發生什麼的心態去遊戲」。
+
+這些慾望的一些例子可能包括：贏得一場錦標賽、開發一款電子遊戲、交到朋友、幫助家人、重新見到一位老同伴……事實上，如果它們看起來很無害甚至很平凡，當黑暗將它們扭曲時反而會更加有趣。玩家角色也可以在他們的生活中發揮關鍵作用。
+
+## 決裂和阿特洛波斯之禍
+
+如同在「光明對抗黑暗」章節中所見，存在兩種特殊的反應：決裂和阿特洛波斯之禍。它們在玩家角色滿足特定條件時觸發，在此為你方便而重述。
+
+這兩種反應意味著玩家角色生活中的創傷性變化，而且與其他基礎反應不同，它們的效果可能需要一段時間才會顯現。如果你是 MC，不要把這誤解為「保留」一個反應——始終盡快在虛構敘事允許的情況下使用它。
+
+### 決裂
+
+名為決裂的反應發生在玩家角色沒有聆聽自己的心聲、斷裂了與戀人的羈絆時。當這種情況發生時，可能有許多種結果——例如，戀人可能死去、搬到遙遠的國度、決定和別人交往等。
+
+某些戀愛扮演書有自己的動作可以改變決裂，但一般規則是，一個角色無法與曾經觸發過這個反應的對象重新建立戀愛羈絆。
+
+在遊戲規則上，決裂發生在戀愛量表降到 0 點時。此時先檢查戀愛扮演書是否有任何例外，然後 MC 才執行決裂場景。
+
+### 阿特洛波斯之禍
+
+阿特洛波斯之禍發生在每當玩家角色用完最後一個友情點數、將儲備降至 0 時。那一瞬間，她的一個羈絆將會斷裂——這種行為使兩個人在近乎本質的層面上分離。
+
+當你作為 MC 必須使用阿特洛波斯之禍的反應時，最簡單的方法是將另一個人從故事中移除；然而，這很無趣，而且在某些情況下可能是不可能的。那個斷裂的羈絆可能屬於另一個玩家角色，或者可能還有其他玩家角色仍然與那個非玩家角色保持著羈絆——更不用說這也不是使用這個工具最有趣的方式。想想是什麼原因讓兩個曾經親密的人不再說話、無法再互相信任。一些例子包括：發現他們有無法調和的觀念、感到恐懼、其中一方覺得被背叛了、謠言已經汙染了關係……你一定也有過類似的經歷，有些老朋友之間的關係冷卻了，一切都不再相同。
+
+## 超越扮演書
+
+當玩家在角色創建時分配原型扮演書時，作為 MC 你應該稍微注意他們選擇的原因。每本扮演書通常會不自覺地透露出每位玩家期望看到什麼樣的冒險。
+
+例如，選擇鬥士的人會想要複雜的戰鬥讓他們大展身手，而選擇偶像的人則可能更看重與非玩家角色的社交互動。一旦你清楚了玩家角色的目標，就要準備好誘餌將它們引入故事中，給他們機會強調那些元素——他們是否把握住則取決於他們自己。
+
+玩家提供資訊的另一個時刻是選擇友情扮演書和動作時。如果一個玩家選擇了家族而不是大姐頭，他們想要體驗的目標和故事很可能大不相同。
+
+最後，從桌上的對話中盡可能多地提取資訊；玩家通常會在彼此之間表達他們的願望和期望。如果你花一點時間傾聽，你會發現真正的金礦——那些可能有趣且令人激動的故事。
+
+所有這些建議都能幫助你為每位玩家構想場景和挑戰；儘管去使用它們，但不要忘記始終忠於你的原則和目標。如果你把工作做好，你會看到所有人都會回來。畢竟，誰不喜歡充滿戲劇和悲劇的故事呢？
+
+接下來我們要逐一審視每個原型，幫助你了解每種選擇背後可能隱藏著什麼樣的故事和元素。
+
+### 勇者
+
+她是被選中的人，受祝福成為最強大的魔法少女——同儕之首。當一位勇者在場時，應該圍繞著她超凡力量的起源創造故事，但也伴隨著一個持續的疑問：勇者是天生的還是後天造就的。也許勇者的力量來自努力和奉獻，而不是隨機獲得的禮物。這類問題往往充滿活力且令人興奮。
+
+勇者的大部分能力使她成為一個平衡型原型，能夠享受各種類型的挑戰和故事。
+
+雖然這是個誘人的目標，但你應該避免專門針對勇者——而是去誘惑她，把她放入困難的抉擇中，讓她因為不屈服於黑暗而獲得回報。
+
+### 參謀
+
+參謀是一個智慧型角色，所以選擇這個原型的玩家可能期待謎團和邏輯挑戰。你需要創造有替代戰鬥方案的遭遇，或者讓戰鬥在事先制定策略的情況下佔有優勢。
+
+參謀的動作和能力讓她擁有能夠扭轉局面甚至制定追溯性替代計畫的工具。
+
+在社交方面是參謀較為薄弱的地方。然而，她是一個出色的輔助角色，可以享受「幕後操控者」的風格。作為 MC，試著讓參謀展現她確實能比遇到的問題領先一步的能力。
+
+### 衛士
+
+選擇衛士的玩家面前是一面擋在黑暗之前的盾牌。這種類型的角色在逆境中成長和閃耀，當她能幫助所有同伴時，所以他們往往偏好同伴情誼和個人成長的故事。
+
+在遊戲中，衛士是一個輔助型角色，需要等待時機才能大放異彩。她非常適合保護其他玩家角色免受太多物理或社交方面的傷害或挫折。
+
+如果你想要探索這些角色本質的問題，你應該既讓她們遠離團隊也讓她們靠近團隊，讓她們在同伴身上看到自己的力量，但也嘗試獨自成長。注意不要過度利用這個弱點——沒有人會想選一個衛士然後總是獨自一人、沒有任何人可以保護。
+
+### 鬥士
+
+鬥士是積極主動的角色，能夠以決心和體力、情感或精神上的力量克服擺在面前的一切。選擇鬥士的玩家追求可以正面迎擊的挑戰，不靠恐懼也不靠詭計。
+
+這本扮演書有兩條清晰的路線：一條是如同一把巨大的戰錘或一柄能斬斷萬物的利劍；另一條是一個能夠感知場景、發號施令和給予建議來釋放周圍人潛能的角色。
+
+作為 MC，建議將她帶入極端和狂野的情境，同時挑戰她讓她無法只用正面衝鋒來解決一切問題，因為她壓倒性的力量通常能夠克服任何挑戰。
+
+### 偶像
+
+這個原型展現的是對社交場景的興趣，而非其他方面——用以展示她的能力和潛力。選擇這個原型的玩家會試圖始終成為關注的焦點，與任何人建立關係。
+
+藉由她的動作和才華，一位偶像能夠迅速掌握社交的主導權，建立人脈並在群體中推動新的動態。這些應該被用來豐富非玩家角色和在故事中創造有趣的情節線。
+
+然而，世界不應該是偶像的紅毯，但你也不應該奪走她的粉絲或阻止她進行社交場景，否則她會失去本質。因此，你應該用她的武器來對付她——利用競爭對手、敵人、謠言……活躍的社交生活有大量元素能讓偶像在保衛皇冠的同時因維護它而受苦。
+
+### 聖母
+
+聖母與衛士非常相似，都是在有他人在身邊時更能閃耀的角色。她的志業是幫助他人，治癒其行動後果所帶來的傷害。選擇這個原型的玩家通常享受解決問題、治療和撫平傷痛的過程。
+
+聖母的才能一方面在於轉移後果，另一方面在於解決後果——即使這意味著在過程中自己受傷。不幸的是，比起衛士更甚，聖母在獨處時會失去光彩，所以應該避免讓她落單。
+
+如果一個玩家決定扮演聖母，他幾乎就是在請求你讓她受苦、讓她陷入拯救某人至關重要的困境和兩難。但記住這個陷阱：他們也想要贏——即使是以犧牲自己為代價——所以不要向她們提出不可能的任務。
