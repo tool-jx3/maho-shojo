@@ -109,8 +109,8 @@
     "notes": "戀愛關係扮演書"
   },
   "Libreto de Pacto": {
-    "zh": "契約扮演書",
-    "notes": "契約類型扮演書"
+    "zh": "盟約扮演書",
+    "notes": "盟約類型扮演書"
   },
   "Familia": {
     "zh": "家族",
@@ -254,7 +254,7 @@
   },
   "Castigo": {
     "zh": "懲罰",
-    "notes": "對黑暗勢力造成的傷害值"
+    "notes": "光之裝束力量：對黑暗勢力造成的傷害值"
   },
   "Medidor de Poder": {
     "zh": "能力量表",
@@ -301,7 +301,7 @@
     "notes": "六種狀態異常，每種可吸收 4 點痛苦"
   },
   "Destrozada": {
-    "zh": "破碎",
+    "zh": "疲憊",
     "notes": "後果狀態：物理傷害"
   },
   "Deprimida": {
@@ -309,7 +309,7 @@
     "notes": "後果狀態：精神低落"
   },
   "Atontada": {
-    "zh": "恍惚",
+    "zh": "驚愕",
     "notes": "後果狀態：意識模糊"
   },
   "Cabreada": {
@@ -317,7 +317,7 @@
     "notes": "後果狀態：情緒暴怒"
   },
   "Rechazada": {
-    "zh": "被拒",
+    "zh": "受挫",
     "notes": "後果狀態：被社會排斥"
   },
   "Derrotada": {
@@ -333,7 +333,7 @@
     "notes": "基礎動作：用情感說服或影響他人"
   },
   "A la luz de la verdad": {
-    "zh": "在真理之光下",
+    "zh": "真理之光下",
     "notes": "基礎動作：調查與發現真相"
   },
   "Siempre a vuestro lado": {
@@ -361,32 +361,32 @@
     "notes": "基礎動作：獲取經驗值"
   },
   "Pacto": {
-    "zh": "契約",
+    "zh": "盟約",
     "notes": "魔法少女與光之力量的約定"
   },
   "Hijas de la Luz": {
     "zh": "光明子女",
-    "notes": "契約類型：溫馨奇幻風格"
+    "notes": "盟約類型：溫馨奇幻風格"
   },
   "Campeonas de la Justicia": {
     "zh": "正義騎士",
-    "notes": "契約類型：經典戰鬥風格"
+    "notes": "盟約類型：經典戰鬥風格"
   },
   "Marionetas de los Custodios": {
     "zh": "契約傀儡",
-    "notes": "契約類型：黑暗恐怖風格"
+    "notes": "盟約類型：黑暗恐怖風格"
   },
   "Acompañante": {
     "zh": "同伴",
-    "notes": "光明子女契約的魔法夥伴"
+    "notes": "光明子女盟約的魔法夥伴"
   },
   "Enviado": {
     "zh": "使者",
-    "notes": "正義騎士契約的光之使者"
+    "notes": "正義騎士盟約的光之使者"
   },
   "Custodio": {
     "zh": "守護者",
-    "notes": "守護者的傀儡契約的操控者"
+    "notes": "守護者的傀儡盟約的操控者"
   },
   "Oscuridad": {
     "zh": "黑暗",
@@ -429,28 +429,28 @@
     "notes": "敵人服從黑暗的動機"
   },
   "Dones oscuros": {
-    "zh": "暗之恩賜",
+    "zh": "黑暗恩賜",
     "notes": "敵人的特殊能力總稱"
   },
   "Armazón": {
-    "zh": "護甲",
-    "notes": "暗之恩賜：減少受到懲罰值的防禦"
+    "zh": "堅固",
+    "notes": "黑暗恩賜：減少受到懲罰值的防禦"
   },
   "Letal": {
     "zh": "致命",
-    "notes": "暗之恩賜：增加造成痛苦值"
+    "notes": "黑暗恩賜：增加造成痛苦值"
   },
   "Tinieblas": {
     "zh": "晦暗",
-    "notes": "暗之恩賜：獲得暗點"
+    "notes": "黑暗恩賜：獲得暗點"
   },
   "Semilla": {
     "zh": "種子",
-    "notes": "暗之恩賜：在目標心中種下黑暗種子"
+    "notes": "黑暗恩賜：在目標心中種下黑暗種子"
   },
   "Inmortalidad": {
     "zh": "不朽",
-    "notes": "暗之恩賜：使敵人極難被消滅"
+    "notes": "黑暗恩賜：使敵人極難被消滅"
   },
   "Avance": {
     "zh": "成長",
@@ -473,11 +473,11 @@
     "notes": "主要冒險/劇情弧"
   },
   "Antumbra": {
-    "zh": "本影",
+    "zh": "末影",
     "notes": "最終計劃，整體劇情主線"
   },
   "Umbra": {
-    "zh": "影",
+    "zh": "本影",
     "notes": "Eclipse 的子計劃/支線"
   },
   "Penumbra": {
@@ -513,7 +513,7 @@
     "notes": "遊戲設定的總稱"
   },
   "La Sombra": {
-    "zh": "影",
+    "zh": "陰影",
     "notes": "光之女兒設定中對黑暗的稱呼"
   },
   "Los Manchados": {
@@ -557,23 +557,23 @@
     "notes": "軍師原型的調查能力"
   },
   "Poder Sagrado": {
-    "zh": "神聖之力",
+    "zh": "神聖力量",
     "notes": "治癒者原型的蓄力能力"
   },
   "Aegis del Alma": {
-    "zh": "靈魂之盾",
+    "zh": "心靈之盾",
     "notes": "守衛原型的防禦能力"
   },
   "Ímpetu": {
-    "zh": "衝勁",
+    "zh": "活力",
     "notes": "戰士原型的特殊資源點數"
   },
   "Puntos de Popularidad": {
-    "zh": "人氣點數",
+    "zh": "人氣值",
     "notes": "偶像原型的特殊資源"
   },
   "Lo más valioso del mundo": {
-    "zh": "世界上最珍貴的事物",
+    "zh": "最珍貴的寶物",
     "notes": "角色創建時設定的核心價值"
   },
   "Sesión": {
@@ -593,7 +593,7 @@
     "notes": "地球上的光明聖地"
   },
   "Dandere": {
-    "zh": "沉默寡言型",
+    "zh": "無口型",
     "notes": "戀愛性格原型（保留日語標註）"
   },
   "Hime": {
@@ -601,7 +601,7 @@
     "notes": "戀愛性格原型"
   },
   "Kūdere": {
-    "zh": "冷淡型",
+    "zh": "冷嬌型",
     "notes": "戀愛性格原型（保留日語標註）"
   },
   "Tsundere": {
