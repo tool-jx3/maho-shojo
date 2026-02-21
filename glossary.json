@@ -1,6 +1,615 @@
 {
   "_meta": {
-    "description": "術語表 - 英文遊戲術語對照繁體中文翻譯",
-    "updated": ""
+    "description": "術語表 - 西班牙語遊戲術語對照繁體中文翻譯",
+    "updated": "2026-02-21",
+    "source": "MAHO_SHOJO_RN022_EBOOK"
+  },
+  "Movimiento": {
+    "zh": "動作",
+    "notes": "PbtA 核心機制，角色在敘事中觸發的行動"
+  },
+  "Movimientos Básicos": {
+    "zh": "基礎動作",
+    "notes": "所有角色共有的基本動作"
+  },
+  "Reacción": {
+    "zh": "反應",
+    "notes": "MC 的回應動作，類似 PbtA 的 MC Moves"
+  },
+  "Desencadenante": {
+    "zh": "觸發條件",
+    "notes": "動作的觸發條件（trigger）"
+  },
+  "Ficción": {
+    "zh": "虛構敘事",
+    "notes": "共同構建的故事現實"
+  },
+  "Escena": {
+    "zh": "場景",
+    "notes": "故事的基本單位"
+  },
+  "Maestro de Ceremonias": {
+    "zh": "主持人（MC）",
+    "notes": "遊戲主持人，相當於 GM"
+  },
+  "PJ": {
+    "zh": "玩家角色",
+    "notes": "Personaje Jugador 的縮寫"
+  },
+  "PNJ": {
+    "zh": "非玩家角色",
+    "notes": "Personaje No Jugador 的縮寫"
+  },
+  "Características": {
+    "zh": "屬性",
+    "notes": "角色的五項基本能力值"
+  },
+  "Combativa": {
+    "zh": "挑戰",
+    "notes": "攻擊與直面衝突的能力"
+  },
+  "Protectora": {
+    "zh": "保護",
+    "notes": "保護他人與防禦的能力"
+  },
+  "Reflexiva": {
+    "zh": "思慮",
+    "notes": "分析與思考的能力"
+  },
+  "Emocional": {
+    "zh": "情感",
+    "notes": "感受與社交互動的能力"
+  },
+  "Entregada": {
+    "zh": "奉獻",
+    "notes": "使用與掌控魔法力量的能力"
+  },
+  "Arquetipo": {
+    "zh": "原型",
+    "notes": "角色職業/類型的總稱"
+  },
+  "La Campeona": {
+    "zh": "勇者",
+    "notes": "平衡型戰士，正義的代言人"
+  },
+  "La Consejera": {
+    "zh": "參謀",
+    "notes": "智慧型角色，善於分析策略"
+  },
+  "La Guardiana": {
+    "zh": "衛士",
+    "notes": "防禦型角色，保護同伴"
+  },
+  "La Guerrera": {
+    "zh": "鬥士",
+    "notes": "攻擊型角色，強大的戰鬥力"
+  },
+  "La Idol": {
+    "zh": "偶像",
+    "notes": "社交型角色，善於人際關係"
+  },
+  "La Sanadora": {
+    "zh": "聖母",
+    "notes": "輔助型角色，治癒與支援"
+  },
+  "Libreto": {
+    "zh": "扮演書",
+    "notes": "PbtA 的 playbook 概念"
+  },
+  "Libreto de Arquetipo": {
+    "zh": "原型扮演書",
+    "notes": "角色職業扮演書"
+  },
+  "Libreto de Amistad": {
+    "zh": "友情扮演書",
+    "notes": "友誼關係扮演書"
+  },
+  "Libreto de Romance": {
+    "zh": "戀愛扮演書",
+    "notes": "戀愛關係扮演書"
+  },
+  "Libreto de Pacto": {
+    "zh": "契約扮演書",
+    "notes": "契約類型扮演書"
+  },
+  "Familia": {
+    "zh": "家族",
+    "notes": "友情扮演書：如家人般的深厚羈絆"
+  },
+  "Lealtad": {
+    "zh": "忠誠",
+    "notes": "友情扮演書：堅定不移的忠誠友情"
+  },
+  "Metomentodo": {
+    "zh": "愛操心",
+    "notes": "友情扮演書：愛管閒事、熱心的朋友"
+  },
+  "Nexo de corazones": {
+    "zh": "心之所繫",
+    "notes": "友情扮演書：心靈相通的深層連結"
+  },
+  "Pura amistad": {
+    "zh": "純真羈絆",
+    "notes": "友情扮演書：最純粹的友誼關係"
+  },
+  "Rivalidad": {
+    "zh": "勁敵",
+    "notes": "友情扮演書：亦敵亦友的競爭關係"
+  },
+  "Senpai": {
+    "zh": "前輩",
+    "notes": "友情扮演書：前輩/後輩的崇敬關係"
+  },
+  "Solitaria": {
+    "zh": "獨行俠",
+    "notes": "友情扮演書：獨來獨往的孤獨角色"
+  },
+  "Sororidad": {
+    "zh": "姐妹會",
+    "notes": "友情扮演書：如姊妹般的緊密友誼"
+  },
+  "Sukeban": {
+    "zh": "大姐頭",
+    "notes": "友情扮演書：不良少女的義氣友情"
+  },
+  "Amor perdido": {
+    "zh": "失去的愛",
+    "notes": "戀愛扮演書：失去愛人的悲傷戀情"
+  },
+  "Amor verdadero": {
+    "zh": "真愛",
+    "notes": "戀愛扮演書：經典的真愛關係"
+  },
+  "Relación conflictiva": {
+    "zh": "衝突",
+    "notes": "戀愛扮演書：反覆進出的矛盾戀情"
+  },
+  "Amor no correspondido": {
+    "zh": "單相思",
+    "notes": "戀愛扮演書：單方面的暗戀"
+  },
+  "Relación a distancia": {
+    "zh": "遠距關係",
+    "notes": "戀愛扮演書：因距離分隔的戀情"
+  },
+  "Relación prohibida": {
+    "zh": "禁斷關係",
+    "notes": "戀愛扮演書：不被接受的祕密戀情"
+  },
+  "Romance ilusorio": {
+    "zh": "虛幻愛情",
+    "notes": "戀愛扮演書：存在於幻想中的戀情"
+  },
+  "Lazos": {
+    "zh": "羈絆",
+    "notes": "角色之間的關係連結"
+  },
+  "Etiqueta": {
+    "zh": "標籤",
+    "notes": "羈絆的描述標記"
+  },
+  "Puntos de Amistad": {
+    "zh": "友情點數",
+    "notes": "友情扮演書的資源點數"
+  },
+  "Puntos de Romance": {
+    "zh": "戀愛點數",
+    "notes": "戀愛扮演書的資源點數"
+  },
+  "Nivel de Romance": {
+    "zh": "戀愛等級",
+    "notes": "戀愛關係的深度等級"
+  },
+  "Ruptura": {
+    "zh": "決裂",
+    "notes": "戀愛關係的斷裂"
+  },
+  "Mal de Atropos": {
+    "zh": "阿特洛波斯之禍",
+    "notes": "羈絆永久斷裂的嚴重後果"
+  },
+  "Lux Habitu": {
+    "zh": "光之裝束",
+    "notes": "魔法少女變身後的戰鬥服（保留拉丁語名稱）"
+  },
+  "Forma Básica": {
+    "zh": "基礎形態",
+    "notes": "光之裝束的初始形態"
+  },
+  "Forma Súper": {
+    "zh": "超級形態",
+    "notes": "光之裝束的進階形態"
+  },
+  "Forma Triunfante": {
+    "zh": "凱旋形態",
+    "notes": "光之裝束的最終形態"
+  },
+  "Forma Corrupta": {
+    "zh": "墮落形態",
+    "notes": "受暗影影響的特殊形態（Custodios 契約）"
+  },
+  "Talismán": {
+    "zh": "護符",
+    "notes": "魔法少女的變身道具"
+  },
+  "Tema": {
+    "zh": "主題",
+    "notes": "魔法少女的力量主題（如火、冰、風等）"
+  },
+  "Título": {
+    "zh": "稱號",
+    "notes": "變身後的魔法少女稱號"
+  },
+  "Color": {
+    "zh": "色彩",
+    "notes": "角色的代表顏色"
+  },
+  "Transformación": {
+    "zh": "變身",
+    "notes": "變身為魔法少女的動作/基礎動作名稱"
+  },
+  "Angustia": {
+    "zh": "痛苦",
+    "notes": "抽象的傷害值（含物理、精神、情感）"
+  },
+  "Castigo": {
+    "zh": "懲罰",
+    "notes": "對黑暗勢力造成的傷害值"
+  },
+  "Medidor de Poder": {
+    "zh": "能力量表",
+    "notes": "追蹤力量等級 0-5 的計量表"
+  },
+  "Nivel de Poder": {
+    "zh": "能力等級",
+    "notes": "能力量表上的當前等級"
+  },
+  "Puntos de Luz": {
+    "zh": "光點",
+    "notes": "提升能力等級的光明點數"
+  },
+  "Puntos de Tinieblas": {
+    "zh": "暗點",
+    "notes": "黑暗面的能力點數"
+  },
+  "Poder del Corazón": {
+    "zh": "心之力",
+    "notes": "強大的特殊攻擊/防禦/支援能力，也是基礎動作名稱"
+  },
+  "Finalem": {
+    "zh": "終曲",
+    "notes": "最強必殺技，可一擊擊敗敵人（保留拉丁語名稱）"
+  },
+  "Armadura": {
+    "zh": "護甲",
+    "notes": "光之裝束力量：減少受到的痛苦值"
+  },
+  "Ascensión": {
+    "zh": "昇華",
+    "notes": "光之裝束力量：提升某項屬性；也是 Eclipse 類型之一"
+  },
+  "Azote": {
+    "zh": "摧毀",
+    "notes": "光之裝束力量：一次消滅多個傀儡"
+  },
+  "Resistente": {
+    "zh": "堅韌",
+    "notes": "光之裝束力量：增強消除痛苦值的效率"
+  },
+  "Consecuencia": {
+    "zh": "後果",
+    "notes": "六種狀態異常，每種可吸收 4 點痛苦"
+  },
+  "Destrozada": {
+    "zh": "破碎",
+    "notes": "後果狀態：物理傷害"
+  },
+  "Deprimida": {
+    "zh": "沮喪",
+    "notes": "後果狀態：精神低落"
+  },
+  "Atontada": {
+    "zh": "恍惚",
+    "notes": "後果狀態：意識模糊"
+  },
+  "Cabreada": {
+    "zh": "憤怒",
+    "notes": "後果狀態：情緒暴怒"
+  },
+  "Rechazada": {
+    "zh": "被拒",
+    "notes": "後果狀態：被社會排斥"
+  },
+  "Derrotada": {
+    "zh": "落敗",
+    "notes": "後果狀態：被擊敗"
+  },
+  "Castigar la Oscuridad": {
+    "zh": "懲戒黑暗",
+    "notes": "基礎動作：攻擊黑暗勢力的戰鬥動作"
+  },
+  "Palabras desde el corazón": {
+    "zh": "發自內心的話語",
+    "notes": "基礎動作：用情感說服或影響他人"
+  },
+  "A la luz de la verdad": {
+    "zh": "在真理之光下",
+    "notes": "基礎動作：調查與發現真相"
+  },
+  "Siempre a vuestro lado": {
+    "zh": "永遠在你身邊",
+    "notes": "基礎動作：支援與保護同伴"
+  },
+  "Superar el peligro": {
+    "zh": "克服危險",
+    "notes": "基礎動作：面對危險與障礙的通用動作"
+  },
+  "Historias de la vida": {
+    "zh": "生活故事",
+    "notes": "基礎動作：日常生活互動"
+  },
+  "Perder la Luz": {
+    "zh": "失去光明",
+    "notes": "基礎動作：受到黑暗侵蝕"
+  },
+  "Rechazar la Oscuridad": {
+    "zh": "抵抗黑暗",
+    "notes": "基礎動作：對抗黑暗侵蝕（每場次結束時觸發）"
+  },
+  "Lux est!": {
+    "zh": "閃耀時刻！",
+    "notes": "基礎動作：獲取經驗值"
+  },
+  "Pacto": {
+    "zh": "契約",
+    "notes": "魔法少女與光之力量的約定"
+  },
+  "Hijas de la Luz": {
+    "zh": "光明子女",
+    "notes": "契約類型：溫馨奇幻風格"
+  },
+  "Campeonas de la Justicia": {
+    "zh": "正義騎士",
+    "notes": "契約類型：經典戰鬥風格"
+  },
+  "Marionetas de los Custodios": {
+    "zh": "契約傀儡",
+    "notes": "契約類型：黑暗恐怖風格"
+  },
+  "Acompañante": {
+    "zh": "同伴",
+    "notes": "光明子女契約的魔法夥伴"
+  },
+  "Enviado": {
+    "zh": "使者",
+    "notes": "正義騎士契約的光之使者"
+  },
+  "Custodio": {
+    "zh": "守護者",
+    "notes": "守護者的傀儡契約的操控者"
+  },
+  "Oscuridad": {
+    "zh": "黑暗",
+    "notes": "遊戲中的邪惡力量總稱"
+  },
+  "Luz": {
+    "zh": "光明",
+    "notes": "遊戲中的正義力量總稱"
+  },
+  "Servidores de la Oscuridad": {
+    "zh": "黑暗使徒",
+    "notes": "敵人的總稱"
+  },
+  "Marioneta": {
+    "zh": "傀儡",
+    "notes": "最弱的敵人類型，群體出現"
+  },
+  "Muñeca": {
+    "zh": "人偶",
+    "notes": "常規敵人類型"
+  },
+  "Campeón": {
+    "zh": "首領",
+    "notes": "精英敵人，黑暗的代理人"
+  },
+  "Avatar": {
+    "zh": "化身",
+    "notes": "最強敵人，黑暗的終極存在"
+  },
+  "Nivel de Oscuridad": {
+    "zh": "黑暗等級",
+    "notes": "敵人的生命值/力量等級；角色的墮落程度"
+  },
+  "Puntos de Oscuridad": {
+    "zh": "黑暗點數",
+    "notes": "角色累積的黑暗侵蝕點數"
+  },
+  "Mancha de Oscuridad": {
+    "zh": "黑暗污跡",
+    "notes": "敵人服從黑暗的動機"
+  },
+  "Dones oscuros": {
+    "zh": "暗之恩賜",
+    "notes": "敵人的特殊能力總稱"
+  },
+  "Armazón": {
+    "zh": "護甲",
+    "notes": "暗之恩賜：減少受到懲罰值的防禦"
+  },
+  "Letal": {
+    "zh": "致命",
+    "notes": "暗之恩賜：增加造成痛苦值"
+  },
+  "Tinieblas": {
+    "zh": "晦暗",
+    "notes": "暗之恩賜：獲得暗點"
+  },
+  "Semilla": {
+    "zh": "種子",
+    "notes": "暗之恩賜：在目標心中種下黑暗種子"
+  },
+  "Inmortalidad": {
+    "zh": "不朽",
+    "notes": "暗之恩賜：使敵人極難被消滅"
+  },
+  "Avance": {
+    "zh": "成長",
+    "notes": "角色成長的總稱"
+  },
+  "Avance menor": {
+    "zh": "基礎成長",
+    "notes": "較小的角色提升"
+  },
+  "Avance mayor": {
+    "zh": "進階成長",
+    "notes": "重要的角色提升"
+  },
+  "Puntos de Lux est": {
+    "zh": "閃耀點數",
+    "notes": "經驗值點數"
+  },
+  "Eclipse": {
+    "zh": "蝕",
+    "notes": "主要冒險/劇情弧"
+  },
+  "Antumbra": {
+    "zh": "本影",
+    "notes": "最終計劃，整體劇情主線"
+  },
+  "Umbra": {
+    "zh": "影",
+    "notes": "Eclipse 的子計劃/支線"
+  },
+  "Penumbra": {
+    "zh": "半影",
+    "notes": "Umbra 的更細分支線"
+  },
+  "Corona": {
+    "zh": "皇冠",
+    "notes": "Eclipse 背後的驅動欲望"
+  },
+  "Impulso": {
+    "zh": "衝動",
+    "notes": "Umbra 的驅動力"
+  },
+  "Cronómetro de la Oscuridad": {
+    "zh": "黑暗倒數鐘",
+    "notes": "追蹤劇情進展的視覺工具"
+  },
+  "Conquista": {
+    "zh": "征服",
+    "notes": "Eclipse 類型"
+  },
+  "Venganza": {
+    "zh": "復仇",
+    "notes": "Eclipse 類型"
+  },
+  "Destrucción": {
+    "zh": "毀滅",
+    "notes": "Eclipse 類型"
+  },
+  "Ambientación": {
+    "zh": "世界觀",
+    "notes": "遊戲設定的總稱"
+  },
+  "La Sombra": {
+    "zh": "影",
+    "notes": "光之女兒設定中對黑暗的稱呼"
+  },
+  "Los Manchados": {
+    "zh": "染污者",
+    "notes": "光之女兒設定中對黑暗使徒的稱呼"
+  },
+  "Mundo Mágico": {
+    "zh": "魔法世界",
+    "notes": "光之女兒設定中的異世界"
+  },
+  "Mundo Real": {
+    "zh": "現實世界",
+    "notes": "人類居住的世界"
+  },
+  "Los Mundos de la Oscuridad": {
+    "zh": "黑暗世界",
+    "notes": "正義鬥士設定中的黑暗領域"
+  },
+  "Los Agentes de la Oscuridad": {
+    "zh": "黑暗代理人",
+    "notes": "正義鬥士設定中對黑暗使徒的稱呼"
+  },
+  "Abismo": {
+    "zh": "深淵",
+    "notes": "守護者的傀儡設定中的黑暗監獄"
+  },
+  "Fugados": {
+    "zh": "逃脫者",
+    "notes": "守護者的傀儡設定中對黑暗使徒的稱呼"
+  },
+  "El Reino": {
+    "zh": "王國",
+    "notes": "守護者的傀儡設定中的光之領域"
+  },
+  "Tratado": {
+    "zh": "條約",
+    "notes": "王國與深淵之間的不干涉協定"
+  },
+  "Sabelotodo": {
+    "zh": "萬事通",
+    "notes": "軍師原型的調查能力"
+  },
+  "Poder Sagrado": {
+    "zh": "神聖之力",
+    "notes": "治癒者原型的蓄力能力"
+  },
+  "Aegis del Alma": {
+    "zh": "靈魂之盾",
+    "notes": "守衛原型的防禦能力"
+  },
+  "Ímpetu": {
+    "zh": "衝勁",
+    "notes": "戰士原型的特殊資源點數"
+  },
+  "Puntos de Popularidad": {
+    "zh": "人氣點數",
+    "notes": "偶像原型的特殊資源"
+  },
+  "Lo más valioso del mundo": {
+    "zh": "世界上最珍貴的事物",
+    "notes": "角色創建時設定的核心價值"
+  },
+  "Sesión": {
+    "zh": "聚會",
+    "notes": "一次遊戲聚會（2-4 小時）"
+  },
+  "Campaña": {
+    "zh": "戰役",
+    "notes": "多聚會組成的長期故事"
+  },
+  "Oscuridad Total": {
+    "zh": "全蝕",
+    "notes": "黑暗倒數鐘的最終階段，黑暗勝利"
+  },
+  "Corazón de Luz": {
+    "zh": "光之心",
+    "notes": "地球上的光明聖地"
+  },
+  "Dandere": {
+    "zh": "沉默寡言型",
+    "notes": "戀愛性格原型（保留日語標註）"
+  },
+  "Hime": {
+    "zh": "公主型",
+    "notes": "戀愛性格原型"
+  },
+  "Kūdere": {
+    "zh": "冷淡型",
+    "notes": "戀愛性格原型（保留日語標註）"
+  },
+  "Tsundere": {
+    "zh": "傲嬌型",
+    "notes": "戀愛性格原型（保留日語標註）"
+  },
+  "Yandere": {
+    "zh": "病嬌型",
+    "notes": "戀愛性格原型（保留日語標註）"
   }
 }

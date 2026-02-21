@@ -1,7 +1,7 @@
 {
   "_meta": {
     "description": "風格決定記錄 - 翻譯用語選擇與原因",
-    "updated": ""
+    "updated": "2026-02-21"
   },
   "translation_mode": {
     "mode": null,
@@ -16,5 +16,26 @@
       }
     },
     "reason": ""
+  },
+  "theme": {
+    "mode": "dark",
+    "palette": "dark",
+    "overlay_opacity": 0.7
+  },
+  "images": {
+    "hero": "page001_img02.jpeg",
+    "background": "page001_img00.jpeg",
+    "og": "page001_img02.jpeg"
+  },
+  "colors": {
+    "primary_h": 280,
+    "secondary_h": 320,
+    "tertiary_h": 0,
+    "quaternary_h": 260,
+    "note_h": 330
+  },
+  "source_language": {
+    "decision": "西班牙語",
+    "reason": "原書為西班牙語出版，由 Nosolorol Ediciones 發行"
   }
 }

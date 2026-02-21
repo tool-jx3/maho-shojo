@@ -42,33 +42,33 @@
 
      ============================================ */
 
-  /* 背景色 HSL - 調整 --bg-l 可調暗背景 */
-  --bg-h: 224;
+  /* 背景色 HSL - 暗黑紫色系 */
+  --bg-h: 280;
   --bg-s: 25%;
   --bg-l: 6%;
 
-  /* 主色 HSL - 連結、按鈕、強調 */
-  --color-primary-h: 217;
+  /* 主色 HSL - 紫色，連結、按鈕、強調 */
+  --color-primary-h: 280;
   --color-primary-s: 91%;
   --color-primary-l: 60%;
 
-  /* 次要色 HSL - 成功、正向提示 */
-  --color-secondary-h: 142;
+  /* 次要色 HSL - 洋紅 */
+  --color-secondary-h: 320;
   --color-secondary-s: 71%;
   --color-secondary-l: 45%;
 
-  /* 第三色 HSL - 警告、危險提示 */
+  /* 第三色 HSL - 血紅，警告、危險提示 */
   --color-tertiary-h: 0;
   --color-tertiary-s: 84%;
   --color-tertiary-l: 60%;
 
-  /* 第四色 HSL - 注意、次要強調 */
-  --color-quaternary-h: 25;
-  --color-quaternary-s: 95%;
+  /* 第四色 HSL - 暗紫，注意、次要強調 */
+  --color-quaternary-h: 260;
+  --color-quaternary-s: 85%;
   --color-quaternary-l: 53%;
 
-  /* 備註色 HSL - 紫色提示框 */
-  --color-note-h: 270;
+  /* 備註色 HSL - 粉紅提示框 */
+  --color-note-h: 330;
   --color-note-s: 91%;
   --color-note-l: 60%;
 
@@ -176,11 +176,11 @@ html {
    2. 取消下方註解 */
 body {
   background-color: var(--sl-color-black);
-  /* background-image: url('/bg.jpg');
+  background-image: url('/bg.jpg');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
-  background-repeat: no-repeat; */
+  background-repeat: no-repeat;
 }
 
 /* 全頁暗色覆蓋層（配合背景圖使用） */

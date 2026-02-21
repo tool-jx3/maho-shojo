@@ -1,6 +1,6 @@
-# game-doc-template
+# maho-shojo
 
-PDF 遊戲規則文件轉換成繁體中文 Markdown 文件網站。
+MAHO SHOJO（魔法少女）PDF 遊戲規則翻譯專案。
 
 ## Immutable Laws
 

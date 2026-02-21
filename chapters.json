@@ -1,0 +1,105 @@
+{
+  "source": "data/markdown/MAHO_SHOJO_RN022_EBOOK_pages.md",
+  "output_dir": "docs/src/content/docs",
+  "clean_patterns": [
+    "\\(Order #\\d+\\)"
+  ],
+  "chapters": {
+    "rules": {
+      "title": "規則",
+      "order": 1,
+      "files": {
+        "index": {
+          "title": "魔法少女",
+          "description": "魔法少女 TRPG 規則書",
+          "pages": [292, 292],
+          "order": 0
+        },
+        "introduction": {
+          "title": "介紹",
+          "description": "遊戲簡介與 PbtA 系統說明",
+          "pages": [8, 13],
+          "order": 1
+        },
+        "fundamentals": {
+          "title": "基礎規則",
+          "description": "場景、虛構敘事、動作與擲骰",
+          "pages": [14, 27],
+          "order": 2
+        },
+        "character-creation": {
+          "title": "角色創建",
+          "description": "屬性、星座、血型、Lux Habitu",
+          "pages": [28, 45],
+          "order": 3
+        },
+        "archetypes": {
+          "title": "原型劇本",
+          "description": "六大魔法少女原型",
+          "pages": [46, 63],
+          "order": 4
+        },
+        "friendship-romance": {
+          "title": "友情與浪漫",
+          "description": "友情劇本與浪漫劇本",
+          "pages": [64, 85],
+          "order": 5
+        },
+        "moves": {
+          "title": "動作",
+          "description": "基礎動作、友情動作、浪漫動作、原型動作、契約動作",
+          "pages": [86, 115],
+          "order": 6
+        },
+        "light-vs-darkness": {
+          "title": "光與暗",
+          "description": "苦惱、後果、力量計量表、心之力量、友情羈絆",
+          "pages": [116, 145],
+          "order": 7
+        },
+        "advancement": {
+          "title": "成長與經驗",
+          "description": "Lux Est 點數與進階",
+          "pages": [146, 151],
+          "order": 8
+        },
+        "darkness-enemies": {
+          "title": "黑暗勢力",
+          "description": "黑暗僕從的創建與類型",
+          "pages": [152, 174],
+          "order": 9
+        },
+        "pacts": {
+          "title": "契約",
+          "description": "三大契約體系",
+          "pages": [175, 195],
+          "order": 10
+        },
+        "mc-guide": {
+          "title": "主持人指南",
+          "description": "MC 的原則、反應與技巧",
+          "pages": [196, 220],
+          "order": 11
+        },
+        "first-chapter": {
+          "title": "第一次冒險",
+          "description": "準備與進行第一次遊戲",
+          "pages": [221, 243],
+          "order": 12
+        },
+        "eclipse": {
+          "title": "蝕",
+          "description": "冒險模組的設計與範例",
+          "pages": [244, 263],
+          "order": 13
+        },
+        "setting": {
+          "title": "世界觀",
+          "description": "三大契約的世界設定",
+          "pages": [264, 289],
+          "order": 14
+        }
+      }
+    }
+  }
+}

@@ -9,7 +9,7 @@ import starlight from '@astrojs/starlight';
 
 const SITE_CONFIG = {
 	// 網站標題（顯示在導航列）
-	title: '遊戲名稱',
+	title: '魔法少女',
 	// 預設語言
 	defaultLocale: 'zh-TW',
 	localeLabel: '繁體中文',
@@ -84,28 +84,8 @@ export default defineConfig({
 			// ============================================
 			sidebar: [
 				{
-					label: '快速參考',
-					autogenerate: { directory: 'reference' },
-				},
-				{
-					label: '核心規則',
+					label: '規則書',
 					autogenerate: { directory: 'rules' },
-				},
-				{
-					label: '角色',
-					autogenerate: { directory: 'characters' },
-				},
-				{
-					label: '物品與裝備',
-					autogenerate: { directory: 'items' },
-				},
-				{
-					label: '世界設定',
-					autogenerate: { directory: 'world' },
-				},
-				{
-					label: '主持人指南',
-					autogenerate: { directory: 'guides' },
 				},
 			],
 			customCss: ['./src/styles/custom.css'],

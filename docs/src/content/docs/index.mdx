@@ -1,18 +1,17 @@
 ---
-title: 遊戲名稱
-description: 您的遊戲文件說明
+title: Mahō Shōjo
+description: 魔法少女 TRPG 規則書繁體中文翻譯
 template: splash
 hero:
-  tagline: 您的遊戲標語
-  # TODO: 取消註解並替換為您的 hero 圖片
-  # image:
-  #   file: ../../assets/hero.jpg
+  tagline: 魔法少女 TRPG ─ Powered by the Apocalypse
+  image:
+    file: ../../assets/hero.jpg
   actions:
     - text: 開始閱讀
-      link: /rules/
+      link: /rules/introduction/
       icon: right-arrow
-    - text: 快速參考
-      link: /reference/
+    - text: 角色創建
+      link: /rules/character-creation/
       icon: document
       variant: minimal
 ---
@@ -21,27 +20,23 @@ import { Card, CardGrid, LinkCard } from '@astrojs/starlight/components';
 
 ## 遊戲簡介
 
-{/* TODO: 在這裡描述您的遊戲 */}
-
-在這裡描述您的遊戲。說明遊戲的核心概念、背景設定、以及玩家可以期待的體驗。
+Mahō Shōjo 是一款以魔法少女為主題的桌上角色扮演遊戲，使用 PbtA（Powered by the Apocalypse）系統。玩家扮演擁有強大力量的魔法少女，在日常生活中維繫友情與羈絆，同時對抗來自黑暗的威脅。
 
 ## 快速導航
 
 <CardGrid>
-	<LinkCard title="核心規則" href="/rules/" description="學習遊戲的基本機制與規則。" />
-	<LinkCard title="角色" href="/characters/" description="創建角色的指南與選項。" />
-	<LinkCard title="物品與裝備" href="/items/" description="遊戲中可用的物品與裝備。" />
-	<LinkCard title="世界設定" href="/world/" description="探索遊戲的背景世界。" />
+	<LinkCard title="基礎規則" href="/rules/fundamentals/" description="場景、虛構敘事、動作與擲骰的核心機制。" />
+	<LinkCard title="角色創建" href="/rules/character-creation/" description="屬性、星座、血型與 Lux Habitu。" />
+	<LinkCard title="原型劇本" href="/rules/archetypes/" description="六大魔法少女原型：鬥士、軍師、守衛、戰士、偶像、治癒師。" />
+	<LinkCard title="動作一覽" href="/rules/moves/" description="基礎動作、友情動作、浪漫動作與原型動作。" />
 </CardGrid>
 
 ---
 
 ## 關於本站
 
-{/* TODO: 修改以下內容 */}
-
-本站使用 [Starlight](https://starlight.astro.build/) 建置，基於 [game-doc-template](https://github.com/your-username/game-doc-template) 模板。
+本站為 Mahō Shōjo 規則書的非官方繁體中文翻譯，原作由 Rubén Saldaña 著作，Nosolorol Ediciones 出版。
 
 :::caution[聲明]
-在這裡加入您的版權聲明或免責條款。
+本翻譯僅供個人學習與遊戲使用。所有權利歸原作者與出版社所有。
 :::
