@@ -710,6 +710,11 @@ span.toggle.sl-flex,
   background: var(--sl-color-gray-5) !important;
 }
 
+.right-sidebar a[aria-current="true"] {
+  background: var(--color-primary-glow) !important;
+  color: var(--color-primary) !important;
+}
+
 /* ============================================
    工具類別
    ============================================ */
