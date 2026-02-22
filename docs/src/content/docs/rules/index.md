@@ -5,29 +5,22 @@ sidebar:
   order: 0
 ---
 
-www.nosolorol.com
-¡Campeona, Consejera y Guardiana!
-¡Guerrera, Idol y Sanadora!
-¡Hijas de la Luz!
-Con Mahō Shōjo, tú y tu grupo podréis contar historias sobre chicas que albergan 
-un gran poder en su interior, capaz de cambiar el mundo que les rodea. Este juego de 
-rol os permitirá vivir vuestras propias historias del género magical girl, igual que en 
-las series de manga y anime.
-Todo es mejor cuando tú eres la protagonista de la historia, luchas contra la 
-adversidad, vives tu propio romance o disfrutas de las pequeñas maravillas de una 
-vida cotidiana… ¡Todo eso mientras tratas de entender tus nuevos poderes!
-Mahō Shōjo te ofrece:
-Pautas para crear a tu magical girl a partir de los grandes arquetipos del género 
-e infinidad de variables para personalizarla y convertirla en un personaje único.
-Sistemas para explorar lazos de amistad y romance entre los personajes e 
-involucrarlos en la partida de manera emocionante.
-Un sistema de juego basado en movimientos narrativos específicos del género, 
-para que las sesiones sean siempre vibrantes y tengan un sabor único.
-Consejos y pautas para generar a los servidores de la oscuridad que pondrán a 
-prueba la luz que hay en vuestras magical girls.
-Tres enfoques distintos para tus historias que reflejan las principales variables 
-del género y su evolución.
-Innumerables y útiles consejos para preparar las sesiones con el mínimo esfuerzo 
-y espectaculares resultados.
-¿Serás una Campeona de la Justicia o una Marioneta de la Oscuridad?
-Juega para descubrirlo con Mahō Shōjo.
+勇者、參謀與衛士！
+鬥士、偶像與聖母！
+光明的子女們！
+
+透過 Mahō Shōjo，你和你的團隊將能講述關於那些內心蘊藏著強大力量、足以改變周遭世界的少女們的故事。這款桌上角色扮演遊戲將讓你們體驗屬於自己的魔法少女類型故事，就如同漫畫和動畫系列一般。
+
+當你是故事的主角時，一切都會更加美好——對抗逆境、經歷屬於自己的浪漫、享受日常生活中的小小奇蹟……同時還要試著理解你的新力量！
+
+Mahō Shōjo 為你提供：
+
+- 以此類型的經典原型為基礎創建你的魔法少女的指引，以及無數的變數讓她成為獨一無二的角色。
+- 探索角色之間友情與浪漫羈絆的系統，讓他們以令人激動的方式融入遊戲。
+- 基於此類型專屬敘事動作的遊戲系統，確保每次遊戲都充滿活力且風味獨特。
+- 創建黑暗使徒的建議與指引，他們將考驗你們魔法少女心中的光明。
+- 三種不同的故事取向，反映此類型的主要變體及其演變。
+- 無數實用的建議，讓你以最少的準備達到最壯觀的效果。
+
+你會成為正義的勇者，還是黑暗的傀儡？
+來玩 Mahō Shōjo，一探究竟。
