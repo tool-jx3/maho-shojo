@@ -37,5 +37,10 @@
   "source_language": {
     "decision": "西班牙語",
     "reason": "原書為西班牙語出版，由 Nosolorol Ediciones 發行"
+  },
+  "angustia": {
+    "decision": "傷痛",
+    "alternatives": ["痛苦"],
+    "reason": "「痛苦」一般性太強，易與敘事中的一般性描述混淆；「傷痛」更明確指涉遊戲機制中的抽象傷害值"
   }
 }
