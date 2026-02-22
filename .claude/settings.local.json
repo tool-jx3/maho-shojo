@@ -7,7 +7,9 @@
       "Bash(cd:*)",
       "Bash(head:*)",
       "Bash(python:*)",
-      "Bash(tail:*)"
+      "Bash(tail:*)",
+      "Bash(python --version 2>/dev/null || python3 --version 2>/dev/null || py --version 2>/dev/null)",
+      "Bash(uv run:*)"
     ]
   }
 }
