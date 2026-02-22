@@ -225,7 +225,7 @@
     "notes": "光之裝束的最終形態"
   },
   "Forma Corrupta": {
-    "zh": "墮落形態",
+    "zh": "腐化形態",
     "notes": "受暗影影響的特殊形態（Custodios 契約）"
   },
   "Talismán": {
@@ -619,5 +619,161 @@
   "Yandere": {
     "zh": "病嬌型",
     "notes": "戀愛性格原型（保留日語標註）"
+  },
+  "Discurso de entrada": {
+    "zh": "出場宣言",
+    "notes": "勇者原型的招牌動作"
+  },
+  "Genio": {
+    "zh": "天才",
+    "notes": "參謀原型的招牌動作"
+  },
+  "Escudo de Luz": {
+    "zh": "光之盾",
+    "notes": "衛士原型的招牌動作組"
+  },
+  "La senda de la guerrera": {
+    "zh": "戰士之道",
+    "notes": "鬥士原型的招牌動作組"
+  },
+  "Superestrella": {
+    "zh": "超級巨星",
+    "notes": "偶像原型的招牌動作"
+  },
+  "Al escenario… Let's go": {
+    "zh": "登上舞台……Let's go",
+    "notes": "偶像原型的登場演出動作"
+  },
+  "Martirio": {
+    "zh": "殉難",
+    "notes": "聖母原型的招牌動作"
+  },
+  "Alivio": {
+    "zh": "撫慰",
+    "notes": "聖母原型神聖力量的效果選項"
+  },
+  "Inicio del Eclipse": {
+    "zh": "蝕的開端",
+    "notes": "黑暗倒數鐘第一階段（0%）"
+  },
+  "Primer cuarto": {
+    "zh": "上弦",
+    "notes": "黑暗倒數鐘第二階段（25%）"
+  },
+  "Medio": {
+    "zh": "半暗",
+    "notes": "黑暗倒數鐘第三階段（50%）"
+  },
+  "Último cuarto": {
+    "zh": "終弦",
+    "notes": "黑暗倒數鐘第四階段（75%）"
+  },
+  "Anillo": {
+    "zh": "日環",
+    "notes": "黑暗倒數鐘第五階段（90%）"
+  },
+  "Luchador": {
+    "zh": "搏鬥",
+    "notes": "同伴戰鬥屬性（光明子女盟約）"
+  },
+  "Astuto": {
+    "zh": "機智",
+    "notes": "同伴戰鬥屬性（光明子女盟約）"
+  },
+  "Escolta": {
+    "zh": "護衛",
+    "notes": "同伴戰鬥屬性（光明子女盟約）"
+  },
+  "Torpeza": {
+    "zh": "笨拙",
+    "notes": "同伴戰鬥屬性：負面特性（光明子女盟約）"
+  },
+  "Reacciones suaves": {
+    "zh": "柔性反應",
+    "notes": "MC 較溫和的回應手段"
+  },
+  "Reacciones duras": {
+    "zh": "硬性反應",
+    "notes": "MC 較強硬的回應手段"
+  },
+  "Superficial": {
+    "zh": "表面",
+    "notes": "戀愛等級 1-2 的狀態"
+  },
+  "Asentada": {
+    "zh": "穩定",
+    "notes": "戀愛等級 3-4 的狀態"
+  },
+  "Profunda": {
+    "zh": "深刻",
+    "notes": "戀愛等級 5 的狀態"
+  },
+  "Shinyū": {
+    "zh": "摯友",
+    "notes": "光明子女盟約動作（日語：摯友）"
+  },
+  "Forma Custodio": {
+    "zh": "契約形態",
+    "notes": "契約傀儡盟約的特殊變身形態"
+  },
+  "Finalem oscuro": {
+    "zh": "黑暗終曲",
+    "notes": "契約傀儡盟約的黑暗版終曲"
+  },
+  "Movimientos de Colaboración": {
+    "zh": "合作動作",
+    "notes": "正義騎士盟約的協力動作類別"
+  },
+  "Movimientos de Oscuridad": {
+    "zh": "黑暗動作",
+    "notes": "契約傀儡盟約的墮落動作類別"
+  },
+  "Obtener": {
+    "zh": "獲取",
+    "notes": "本影衝動類型"
+  },
+  "Eliminar": {
+    "zh": "消滅",
+    "notes": "本影衝動類型"
+  },
+  "Ritual": {
+    "zh": "儀式",
+    "notes": "本影衝動類型"
+  },
+  "Corromper": {
+    "zh": "墮化",
+    "notes": "本影衝動類型"
+  },
+  "Desgastar": {
+    "zh": "削弱",
+    "notes": "本影衝動類型"
+  },
+  "Poder del Corazón (A)": {
+    "zh": "心之力 A（攻擊型）",
+    "notes": "攻擊型心之力"
+  },
+  "Poder del Corazón (D)": {
+    "zh": "心之力 D（防禦型）",
+    "notes": "防禦型心之力"
+  },
+  "Poder del Corazón (P)": {
+    "zh": "心之力 P（支援型）",
+    "notes": "支援型心之力"
+  },
+  "Kōhai": {
+    "zh": "後輩",
+    "notes": "前輩扮演書中的對應角色（保留日語標註）"
+  },
+  "Confidente": {
+    "zh": "知心人",
+    "notes": "獨行俠扮演書的羈絆標籤"
+  },
+  "Pandilla": {
+    "zh": "夥伴",
+    "notes": "大姐頭扮演書的羈絆標籤"
+  },
+  "Nivel de Angustia": {
+    "zh": "痛苦等級",
+    "notes": "黑暗使徒的痛苦承受能力等級"
   }
 }
