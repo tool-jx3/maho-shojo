@@ -1,7 +1,7 @@
 {
   "_meta": {
     "description": "術語表 - 西班牙語遊戲術語對照繁體中文翻譯",
-    "updated": "2026-02-21",
+    "updated": "2026-02-23T14:46:13+00:00",
     "source": "MAHO_SHOJO_RN022_EBOOK"
   },
   "Movimiento": {
@@ -968,5 +968,233 @@
     "zh": "傷痛等級",
     "is_term": true,
     "notes": "黑暗使徒的傷痛承受能力等級"
+  },
+  "Kiyomi": {
+    "zh": "清美",
+    "status": "approved",
+    "is_term": true
+  },
+  "Akari": {
+    "zh": "明里",
+    "status": "approved",
+    "is_term": true
+  },
+  "Inoue": {
+    "zh": "井上",
+    "status": "approved",
+    "is_term": true
+  },
+  "Yoriko": {
+    "zh": "依子",
+    "status": "approved",
+    "is_term": true
+  },
+  "Natsumi": {
+    "zh": "夏美",
+    "status": "approved",
+    "is_term": true
+  },
+  "Torome": {
+    "zh": "登呂美",
+    "status": "approved",
+    "is_term": true
+  },
+  "Togami": {
+    "zh": "戶上",
+    "status": "approved",
+    "is_term": true,
+    "notes": "NPC 名字"
+  },
+  "Nao": {
+    "zh": "奈緒",
+    "status": "approved",
+    "is_term": true,
+    "notes": "NPC 名字"
+  },
+  "Kanzaki": {
+    "zh": "神崎",
+    "status": "approved",
+    "is_term": true,
+    "notes": "NPC 名字"
+  },
+  "Moemi": {
+    "zh": "萌美",
+    "status": "approved",
+    "is_term": true,
+    "notes": "NPC 名字"
+  },
+  "Gamagōri": {
+    "zh": "蒲郡",
+    "status": "approved",
+    "is_term": true,
+    "notes": "NPC 名字"
+  },
+  "Makoto": {
+    "zh": "誠",
+    "status": "approved",
+    "is_term": true,
+    "notes": "NPC 名字"
+  },
+  "Taro": {
+    "zh": "太郎",
+    "status": "approved",
+    "is_term": true,
+    "notes": "NPC 名字"
+  },
+  "Koji": {
+    "zh": "浩二",
+    "status": "approved",
+    "is_term": true,
+    "notes": "NPC 名字"
+  },
+  "Tatsuya": {
+    "zh": "達也",
+    "status": "approved",
+    "is_term": true,
+    "notes": "NPC 名字"
+  },
+  "Sakai": {
+    "zh": "酒井",
+    "status": "approved",
+    "is_term": true,
+    "notes": "NPC 名字"
+  },
+  "Sekai": {
+    "zh": "酒井",
+    "status": "approved",
+    "is_term": true,
+    "notes": "NPC 名字"
+  },
+  "Kisaragi": {
+    "zh": "如月",
+    "status": "approved",
+    "is_term": true,
+    "notes": "NPC 名字"
+  },
+  "Hiroyuki Inumuta": {
+    "zh": "犬牟田博之",
+    "status": "approved",
+    "is_term": true,
+    "notes": "NPC 名字"
+  },
+  "Daisuke": {
+    "zh": "大輔",
+    "status": "approved",
+    "is_term": true,
+    "notes": "NPC 名字"
+  },
+  "Okamura Anko": {
+    "zh": "岡村杏子",
+    "status": "approved",
+    "is_term": true,
+    "notes": "NPC 名字"
+  },
+  "Keisaku": {
+    "zh": "啟作",
+    "status": "approved",
+    "is_term": true,
+    "notes": "NPC 名字"
+  },
+  "Shinobu": {
+    "zh": "忍",
+    "status": "approved",
+    "is_term": true,
+    "notes": "NPC 名字"
+  },
+  "Kotori": {
+    "zh": "琴里",
+    "status": "approved",
+    "is_term": true,
+    "notes": "NPC 名字"
+  },
+  "Kanaru": {
+    "zh": "奏",
+    "status": "approved",
+    "is_term": true,
+    "notes": "NPC 名字"
+  },
+  "Shizuka": {
+    "zh": "靜香",
+    "status": "approved",
+    "is_term": true,
+    "notes": "NPC 名字"
+  },
+  "Hakufu": {
+    "zh": "伯符",
+    "status": "approved",
+    "is_term": true,
+    "notes": "NPC 名字"
+  },
+  "Suga": {
+    "zh": "須賀",
+    "status": "approved",
+    "is_term": true,
+    "notes": "NPC 名字"
+  },
+  "Miyu": {
+    "zh": "美由",
+    "status": "approved",
+    "is_term": true,
+    "notes": "NPC 名字"
+  },
+  "Emoto Saki": {
+    "zh": "江本咲",
+    "status": "approved",
+    "is_term": true,
+    "notes": "盟約角色名字"
+  },
+  "Nekoyu": {
+    "zh": "貓貓優",
+    "status": "approved",
+    "is_term": true,
+    "notes": "盟約角色名字"
+  },
+  "Kanan": {
+    "zh": "花南",
+    "status": "approved",
+    "is_term": true,
+    "notes": "盟約角色名字"
+  },
+  "Ahruwo": {
+    "zh": "阿爾沃",
+    "status": "approved",
+    "is_term": true,
+    "notes": "盟約角色名字"
+  },
+  "Mauyin": {
+    "zh": "魔殷",
+    "status": "approved",
+    "is_term": true,
+    "notes": "敵對角色名字"
+  },
+  "Ignem Grimoris": {
+    "zh": "焰靈魔典",
+    "status": "approved",
+    "is_term": true,
+    "notes": "敵對角色名字"
+  },
+  "Kanakana": {
+    "zh": "花花",
+    "status": "approved",
+    "is_term": true,
+    "notes": "敵對角色名字"
+  },
+  "Glob": {
+    "zh": "格洛布",
+    "status": "approved",
+    "is_term": true,
+    "notes": "敵對角色名字"
+  },
+  "Kurogane Sarah": {
+    "zh": "黑鐵莎拉",
+    "status": "approved",
+    "is_term": true,
+    "notes": "花花的好朋友，虛構動畫角色"
+  },
+  "Anko": {
+    "zh": "杏子",
+    "status": "approved",
+    "is_term": true,
+    "notes": "岡村杏子的簡稱，對話中使用"
   }
 }
