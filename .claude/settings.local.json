@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cd /d/Code/trpg-doc/maho-shojo && uv run python scripts/term_read.py --json 2>&1)",
+      "Bash(cd /d/Code/trpg-doc/maho-shojo && uv pip install jsonschema 2>&1)",
+      "Bash(cd /d/Code/trpg-doc/maho-shojo && uv sync 2>&1)",
+      "Bash(cd /d/Code/trpg-doc/maho-shojo/scripts && uv add jsonschema 2>&1)",
+      "Bash(cd /d/Code/trpg-doc/maho-shojo && uv run --project scripts python scripts/term_read.py --json 2>&1)",
+      "Bash(cd /d/Code/trpg-doc/maho-shojo && PYTHONIOENCODING=utf-8 uv run --project scripts python scripts/term_read.py --json 2>&1)",
+      "Bash(cd /d/Code/trpg-doc/maho-shojo && PYTHONIOENCODING=utf-8 uv run --project scripts python scripts/validate_glossary.py 2>&1)",
+      "Bash(cd /d/Code/trpg-doc/maho-shojo && PYTHONIOENCODING=utf-8 uv run --project scripts python scripts/term_read.py --root docs/src/content/docs --json 2>&1)",
+      "Bash(cd /d/Code/trpg-doc/maho-shojo && PYTHONIOENCODING=utf-8 uv run --project scripts python scripts/term_read.py --root docs/src/content/docs --fail-on-forbidden 2>&1)"
+    ]
+  }
+}
