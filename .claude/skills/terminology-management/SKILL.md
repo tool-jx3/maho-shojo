@@ -1,6 +1,6 @@
 ---
 name: terminology-management
-description: 術語表管理與一致性檢查。Use when managing glossary, checking term consistency, or making terminology decisions.
+description: 術語互動管理與一致性檢查。Use when creating/editing glossary terms, reading terms with site-wide validation, or making terminology decisions.
 ---
 
 # Terminology Management
@@ -22,17 +22,53 @@ Location: `glossary.json` (project root)
 }
 ```
 
+## Interactive Workflow (Required)
+
+When this skill is invoked, always run this loop:
+
+1. **Generate candidates**: run `term_generate.py` on target corpus.
+2. **CAL first for unmanaged terms**: run `term_edit.py --cal --term "<term>"` before editing.
+3. **Classify term candidates**: decide whether each candidate is a real game term or normal prose.
+   - If `style-decisions.json -> proper_nouns.mode != keep_original`, any proper noun that appears `>=2` times must be classified as a managed term.
+4. **Edit termbase**: add/update/disable terms with reasons via `term_edit.py`.
+5. **Read and validate**: run `term_read.py` to report missing/forbidden/unknown terms.
+
+Important:
+- If a term is already marked as managed in `glossary.json`, `term_edit.py --cal` skips full-site search for that term.
+- For unmanaged terms, editing requires `--cal` first unless `--force` is explicitly used.
+- Re-run full-site search only when content fingerprint changes.
+- Term matching backend:
+  - Prefer `spaCy` lemma matching when installed.
+  - Fallback to `inflect`-based singular/plural matching when `spaCy` is unavailable.
+
+## Suggested Script Contract
+
+Use script-driven operations under `scripts/`:
+
+- `term-edit`: interactive create/update for glossary entries
+- `term-generate`: discover high-frequency term candidates from docs
+- `term-read`: load glossary + validate usage with cached index
+
+Example invocation pattern:
+
+```bash
+uv run python scripts/term_read.py
+uv run python scripts/term_generate.py --min-frequency 2
+uv run python scripts/term_edit.py --term "Stress" --cal
+uv run python scripts/term_edit.py --term "Stress" --set-zh "壓力" --status approved --mark-term
+```
+
 ## Operations
 
 ### Add Term
 
 1. Check if term exists in glossary
-2. If new, add with translation and context notes
+2. If new, run `--cal` first, then add with translation and context notes
 3. Update all existing documents with new term
 
 ### Check Consistency
 
-Scan all `.md` files in `docs/src/content/docs/`:
+Run `term_read.py` on all `.md` files in target root:
 
 1. Extract English terms (capitalized words, quoted terms)
 2. Cross-reference with `glossary.json`
@@ -91,6 +127,6 @@ Location: `style-decisions.json` (project root)
 | Category | Handling |
 |----------|----------|
 | Core mechanics | Must be consistent, add to glossary first |
-| Proper nouns | Check official translations, record decision |
+| Proper nouns | If `proper_nouns.mode != keep_original` and frequency `>=2`, must be added to glossary and managed consistently; check official translations and record decision |
 | Flavor text | More flexible, prioritize readability |
 | UI/System terms | Match Starlight conventions |
