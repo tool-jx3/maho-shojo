@@ -144,6 +144,8 @@ Read in this order:
 
 ### 3. Sentence-Level Review
 
+**IMPORTANT: Process files sequentially, one at a time. Do NOT review multiple files in parallel.**
+
 For each target file, keep an **in-session tally** (discarded at session end):
 
 ```
@@ -151,6 +153,16 @@ session_tally = {}   # { "<candidate-id>": { accepted: 0, rejected: 0, examples:
 ```
 
 This tally is only used within the current session to update `candidates{}` and `preferences{}` at the end.
+
+#### Session Log Directory
+
+Before starting review, create `./retranslate-result/` directory if not exists.
+
+For each review session, create a timestamped log file:
+- Path: `./retranslate-result/<file-slug>_<timestamp>.md`
+- Example: `./retranslate-result/rules-combat_2026-02-24T11-09-21.md`
+
+Write each suggestion to the log file in real-time (immediately when presenting to user, before they respond).
 
 #### 3.1 Parse Document Structure
 
@@ -178,6 +190,32 @@ Pre-fill display:
 
 When a sentence can be improved:
 
+**Step 1: Write to log file first**
+
+Append to `./retranslate-result/<session-file>.md`:
+
+```markdown
+## Line 42
+
+**原文 (Page 15):**
+> When you attack an enemy, roll 2d6.
+
+**目前譯文:**
+> 當你攻擊敵人時，擲 2d6。
+
+**建議譯文:**
+> 當你攻擊敵人時，投擲 2d6。
+
+**問題類型:** naturalness  
+**說明:** 動詞「擲」可改為更自然的「投擲」
+
+**決策:** _(pending)_
+
+---
+```
+
+**Step 2: Present to user**
+
 ```
 📍 rules/combat.md, Line 42
 📄 原文 (Page 15): "When you attack an enemy, roll 2d6."
@@ -189,9 +227,19 @@ When a sentence can be improved:
   [y] 接受  [n] 保留  [e] 自訂  [s] 跳過
 ```
 
-#### 3.4 Update Session Tally (Not the File)
+#### 3.4 Update Session Tally and Log (Not the File)
 
 After each user response:
+
+**First: Update the log file**
+
+Replace `**決策:** _(pending)_` with:
+- `y` → `**決策:** ✅ 接受`
+- `n` → `**決策:** ❌ 保留`
+- `e` → `**決策:** ✏️ 自訂: "<user's custom text>"`
+- `s` → `**決策:** ⏭️ 跳過`
+
+**Then: Update session tally (in-memory only)**
 
 - `y` (accepted) → `session_tally[id].accepted += 1`; save example if < 2 stored
 - `n` (rejected) → `session_tally[id].rejected += 1`; optionally ask brief reason
@@ -266,12 +314,35 @@ Run `/retranslate --prune` to clean up stale candidates:
 
 ### 10. Session Summary
 
+At the end of the session, write a summary section to the log file:
+
+```markdown
+---
+
+# 審閱摘要
+
+- **審閱時間:** 2026-02-24 11:09
+- **審閱句子:** 42 句
+- **建議項目:** 8 項
+- **接受:** 6 項
+- **拒絕:** 2 項
+- **自訂:** 0 項
+- **跳過:** 0 項
+
+## 偏好更新
+- 更新：「投擲」偏好（信心度 75% → 83%）
+- 晉升：術語括注 → style-decisions.json ✓
+```
+
+Then show to user:
+
 ```
 ## 重譯完成
 
 ### 審閱統計
 - 檔案：rules/combat.md
 - 審閱句子：42 句 ／ 建議：8 項 ／ 接受：6 ／ 拒絕：2
+- 📝 紀錄已存至：./retranslate-result/rules-combat_2026-02-24T11-09-21.md
 
 ### 偏好更新
 - 更新：「投擲」偏好（信心度 75% → 83%）

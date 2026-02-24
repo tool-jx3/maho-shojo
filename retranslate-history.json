@@ -10,7 +10,10 @@
       "accepted": 1,
       "rejected": 0,
       "examples": [
-        { "before": "擲骰＋情感：", "after": "擲骰+情感：" }
+        {
+          "before": "擲骰＋情感：",
+          "after": "擲骰+情感："
+        }
       ]
     },
     "remove_unused_abbreviations": {
@@ -19,7 +22,10 @@
       "accepted": 1,
       "rejected": 0,
       "examples": [
-        { "before": "玩家角色（以下簡稱 PC）", "after": "玩家角色" }
+        {
+          "before": "玩家角色（以下簡稱 PC）",
+          "after": "玩家角色"
+        }
       ]
     },
     "campaign_terminology": {
@@ -28,7 +34,22 @@
       "accepted": 1,
       "rejected": 0,
       "examples": [
-        { "before": "長期遊戲", "after": "長期戰役" }
+        {
+          "before": "長期遊戲",
+          "after": "長期戰役"
+        }
+      ]
+    },
+    "roll_modifier_wording": {
+      "description": "「擲骰＿＿+N」修飾語統一使用「擲骰追加」而非「擲骰加」",
+      "change_type": "consistency",
+      "accepted": 1,
+      "rejected": 0,
+      "examples": [
+        {
+          "before": "擲骰加 +1",
+          "after": "擲骰追加 +1"
+        }
       ]
     }
   },
@@ -38,90 +59,99 @@
       "change_type": "terminology",
       "pattern": "dice rolling verbs",
       "preferred": "擲出 / 擲骰",
-      "over": ["骰出", "投擲（骰子語境）"],
+      "over": [
+        "骰出",
+        "投擲（骰子語境）"
+      ],
       "accepted": 5,
       "rejected": 0,
       "confidence": 1.0,
       "examples": [
-        { "before": "骰出了 11", "after": "擲出了 11" },
-        { "before": "克服危險的投擲中", "after": "克服危險的擲骰中" }
+        {
+          "before": "骰出了 11",
+          "after": "擲出了 11"
+        },
+        {
+          "before": "克服危險的投擲中",
+          "after": "克服危險的擲骰中"
+        }
       ],
       "promoted_to_style_decisions": false
     }
   },
   "file_reviews": {
-    "rules/moves.md": {
-      "last_reviewed": "2026-02-24T00:00:00Z",
-      "review_count": 1,
-      "sentences_reviewed": 0
-    },
-    "rules/first-chapter.md": {
-      "last_reviewed": "2026-02-24T00:00:00Z",
-      "review_count": 1,
-      "sentences_reviewed": 0
-    },
-    "rules/archetypes.md": {
-      "last_reviewed": "2026-02-24T00:00:00Z",
+    "rules/index.md": {
+      "last_reviewed": "2026-02-24T19:35:08Z",
       "review_count": 1,
       "sentences_reviewed": 0
     },
     "rules/introduction.md": {
-      "last_reviewed": "2026-02-24T00:00:00Z",
-      "review_count": 1,
-      "sentences_reviewed": 0
-    },
-    "rules/eclipse.md": {
-      "last_reviewed": "2026-02-24T00:00:00Z",
-      "review_count": 1,
-      "sentences_reviewed": 0
-    },
-    "rules/light-vs-darkness.md": {
-      "last_reviewed": "2026-02-24T00:00:00Z",
-      "review_count": 1,
-      "sentences_reviewed": 0
-    },
-    "rules/pacts.md": {
-      "last_reviewed": "2026-02-24T00:00:00Z",
-      "review_count": 1,
+      "last_reviewed": "2026-02-24T19:35:08Z",
+      "review_count": 2,
       "sentences_reviewed": 0
     },
     "rules/fundamentals.md": {
-      "last_reviewed": "2026-02-24T00:00:00Z",
-      "review_count": 1,
+      "last_reviewed": "2026-02-24T19:35:08Z",
+      "review_count": 2,
       "sentences_reviewed": 0
     },
     "rules/character-creation.md": {
-      "last_reviewed": "2026-02-24T00:00:00Z",
-      "review_count": 1,
+      "last_reviewed": "2026-02-24T19:35:08Z",
+      "review_count": 2,
+      "sentences_reviewed": 0
+    },
+    "rules/archetypes.md": {
+      "last_reviewed": "2026-02-24T19:35:08Z",
+      "review_count": 2,
       "sentences_reviewed": 0
     },
     "rules/friendship-romance.md": {
-      "last_reviewed": "2026-02-24T00:00:00Z",
+      "last_reviewed": "2026-02-24T19:35:08Z",
+      "review_count": 2,
+      "sentences_reviewed": 0
+    },
+    "rules/moves.md": {
+      "last_reviewed": "2026-02-24T19:35:08Z",
+      "review_count": 2,
+      "sentences_reviewed": 0
+    },
+    "rules/light-vs-darkness.md": {
+      "last_reviewed": "2026-02-24T19:35:08Z",
+      "review_count": 2,
+      "sentences_reviewed": 0
+    },
+    "rules/advancement.md": {
+      "last_reviewed": "2026-02-24T19:35:08Z",
       "review_count": 1,
       "sentences_reviewed": 0
     },
     "rules/darkness-enemies.md": {
-      "last_reviewed": "2026-02-24T00:00:00Z",
-      "review_count": 1,
+      "last_reviewed": "2026-02-24T19:35:08Z",
+      "review_count": 2,
+      "sentences_reviewed": 0
+    },
+    "rules/pacts.md": {
+      "last_reviewed": "2026-02-24T19:35:08Z",
+      "review_count": 2,
       "sentences_reviewed": 0
     },
     "rules/mc-guide.md": {
-      "last_reviewed": "2026-02-24T00:00:00Z",
-      "review_count": 1,
+      "last_reviewed": "2026-02-24T19:35:08Z",
+      "review_count": 2,
       "sentences_reviewed": 0
     },
-    "rules/the-world.md": {
-      "last_reviewed": "2026-02-24T00:00:00Z",
-      "review_count": 1,
+    "rules/first-chapter.md": {
+      "last_reviewed": "2026-02-24T19:35:08Z",
+      "review_count": 2,
       "sentences_reviewed": 0
     },
-    "rules/advanced.md": {
-      "last_reviewed": "2026-02-24T00:00:00Z",
-      "review_count": 1,
+    "rules/eclipse.md": {
+      "last_reviewed": "2026-02-24T19:35:08Z",
+      "review_count": 2,
       "sentences_reviewed": 0
     },
-    "rules/scenario.md": {
-      "last_reviewed": "2026-02-24T00:00:00Z",
+    "rules/setting.md": {
+      "last_reviewed": "2026-02-24T19:35:08Z",
       "review_count": 1,
       "sentences_reviewed": 0
     }
