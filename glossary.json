@@ -1196,5 +1196,149 @@
     "status": "approved",
     "is_term": true,
     "notes": "岡村杏子的簡稱，對話中使用"
+  },
+  "Mónica": {
+    "zh": "Mónica",
+    "status": "approved",
+    "is_term": true,
+    "notes": "玩家名字，擔任 MC（主持人），保持外文格式"
+  },
+  "Marion": {
+    "zh": "Marion",
+    "status": "approved",
+    "is_term": true,
+    "notes": "玩家名字，擔任 MC（主持人），保持外文格式"
+  },
+  "Esther": {
+    "zh": "Esther",
+    "status": "approved",
+    "is_term": true,
+    "notes": "玩家名字，扮演清美（勇者），保持外文格式"
+  },
+  "Cristina": {
+    "zh": "Cristina",
+    "status": "approved",
+    "is_term": true,
+    "notes": "玩家名字，扮演井上（鬥士），保持外文格式"
+  },
+  "Vanesa": {
+    "zh": "Vanesa",
+    "status": "approved",
+    "is_term": true,
+    "notes": "玩家名字，扮演明里（參謀），保持外文格式"
+  },
+  "Ruth": {
+    "zh": "Ruth",
+    "status": "approved",
+    "is_term": true,
+    "notes": "玩家名字，扮演依子（偶像），保持外文格式"
+  },
+  "Rosalía": {
+    "zh": "Rosalía",
+    "status": "approved",
+    "is_term": true,
+    "notes": "玩家名字，扮演登呂美，保持外文格式"
+  },
+  "Vicky": {
+    "zh": "Vicky",
+    "status": "approved",
+    "is_term": true,
+    "notes": "玩家名字，扮演夏美，保持外文格式"
+  },
+  "Sofía": {
+    "zh": "Sofía",
+    "status": "approved",
+    "is_term": true,
+    "notes": "玩家名字，扮演秋子（正義騎士戰役範例），保持外文格式"
+  },
+  "Abie": {
+    "zh": "Abie",
+    "status": "approved",
+    "is_term": true,
+    "notes": "玩家名字，扮演菖蒲（正義騎士戰役範例），保持外文格式"
+  },
+  "Akiko": {
+    "zh": "秋子",
+    "status": "approved",
+    "is_term": true,
+    "notes": "魔法少女角色（正義騎士戰役範例）"
+  },
+  "Ayame": {
+    "zh": "菖蒲",
+    "status": "approved",
+    "is_term": true,
+    "notes": "魔法少女角色（正義騎士戰役範例）"
+  },
+  "Kazen": {
+    "zh": "風斬",
+    "status": "approved",
+    "is_term": true,
+    "notes": "邪惡精靈 NPC（正義騎士戰役範例）"
+  },
+  "Book Heart": {
+    "zh": "心之書",
+    "status": "approved",
+    "is_term": true,
+    "notes": "秋子的同伴名稱，暱稱小簿"
+  },
+  "Hechicera de Llamas Oscuras": {
+    "zh": "暗焰女巫",
+    "status": "approved",
+    "is_term": true,
+    "notes": "首領等級敵人"
+  },
+  "Glob el Asqueroso": {
+    "zh": "噁心格洛布",
+    "status": "approved",
+    "is_term": true,
+    "notes": "首領等級敵人，格洛布的全名稱號"
+  },
+  "Samurái de Jade": {
+    "zh": "翡翠武士",
+    "status": "approved",
+    "is_term": true,
+    "notes": "首領等級敵人"
+  },
+  "Presidente de Kasumano": {
+    "zh": "霞野社長",
+    "status": "approved",
+    "is_term": true,
+    "notes": "化身等級敵人"
+  },
+  "Princesa de Sangre": {
+    "zh": "血之公主",
+    "status": "approved",
+    "is_term": true,
+    "notes": "化身等級敵人"
+  },
+  "Maestro de las Cadenas": {
+    "zh": "鎖鏈大師",
+    "status": "approved",
+    "is_term": true,
+    "notes": "魔殷的稱號"
+  },
+  "Devorador de Luz": {
+    "zh": "吞光者",
+    "status": "approved",
+    "is_term": true,
+    "notes": "人偶等級敵人範例"
+  },
+  "Criatura de Kasumano": {
+    "zh": "霞野之影",
+    "status": "approved",
+    "is_term": true,
+    "notes": "傀儡等級敵人範例"
+  },
+  "Melancolía del reino": {
+    "zh": "王國的憂鬱",
+    "status": "approved",
+    "is_term": true,
+    "notes": "傀儡等級敵人範例"
+  },
+  "Corrompido por Glob": {
+    "zh": "格洛布的腐化者",
+    "status": "approved",
+    "is_term": true,
+    "notes": "人偶等級敵人範例"
   }
 }
