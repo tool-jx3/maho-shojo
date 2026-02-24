@@ -75,7 +75,7 @@ This keeps the file **permanently small** regardless of how many sessions have r
       "review_count": 2,
       "issues_found": 8,
       "changes_applied": 6,
-      "sentences_reviewed": 42,
+      "paragraphs_reviewed": 42,
       "last_section_reviewed": "## 傷害與治療",
       "resume_from": null
     }
@@ -141,7 +141,7 @@ Read in this order:
 2. `glossary.json` → approved terminology
 3. `style-decisions.json` → translation policies
 4. **Target file**: current Chinese translation
-5. **Original file**: English source via `chapters.json` page mapping
+5. **Original file**: source text via `chapters.json` page mapping (language determined by `style-decisions.json` → `source_language`)
    - Read `chapters.json` → find `pages: [start, end]` for target file
    - Extract matching `<!-- PAGE N -->` blocks from `data/markdown/<name>_pages.md`
    - Fallback: proceed without original if unavailable (show warning)
@@ -183,8 +183,8 @@ Before starting sentence-level review, build a structural alignment between the 
 - This is the Spanish source text for this chapter
 
 **Step 2: Build Heading Map**
-- From the translated `.md` file, collect all `##` / `###` headings
-- From the source text, find corresponding Spanish headings (match by structural position + glossary-assisted confirmation)
+- From the translated `.md` file, collect all `##` / `###` / `####` headings
+- From the source text, find corresponding source headings (match by structural position + glossary-assisted confirmation)
 - Produce a heading-level mapping: `{ zh_heading → es_heading }`
 
 **Step 3: Paragraph Pairing**
@@ -201,7 +201,7 @@ Before starting sentence-level review, build a structural alignment between the 
     }
   ]
   ```
-- Translated paragraphs with no source equivalent (e.g., Starlight components, translator notes) → mark as `source: null`, skip during comparison
+- **`source: null` (skip)**: Only for content with genuinely no source equivalent — translator-added navigation links, cross-reference notes, or purely structural Starlight markup (e.g., empty `:::` wrappers). **Do NOT mark `:::note`/`:::tip` content as `source: null`** — the text inside these wrappers typically has a source equivalent (e.g., `:::note[範例一]` corresponds to `Ejemplo 1:` in source) and must be compared normally.
 - Source paragraphs missing from translated text → flag as potential omissions
 
 **Design Rationale:**
@@ -235,6 +235,8 @@ Write each suggestion to the log file in real-time (immediately when presenting 
    - Line in YAML frontmatter `description:` → **Flexible** (promotional)
    - Paragraph after "---" divider at file start → **Flexible** (back cover)
    - Header text contains "動作", "基礎", "進階" → **Strict**
+   - `####` sub-headings under `### 基礎成長` / `### 進階成長` (or equivalent advancement/mechanic sections) → **Strict** (these describe concrete game rules even without keywords)
+   - `rules/` path + paragraph outside `:::note`/`:::tip`/`>` → at least **Moderate**, upgrade to **Strict** if describing procedures or restrictions
 
 When in doubt, treat as **Moderate** (balance between strict and flexible).
 
@@ -319,18 +321,23 @@ Append to `./retranslate-result/<session-file>.md`:
 ---
 ```
 
-**Step 2: Present to user**
+**Step 2: Present to user via `AskUserQuestion`**
+
+Format the question text with context, then use structured options:
 
 ```
-📍 rules/combat.md, Line 42
-📄 原文 (Page 15): "When you attack an enemy, roll 2d6."
+question: "Line 42：[naturalness] 動詞「擲」→「投擲」
+原文: When you attack an enemy, roll 2d6.
+目前: 當你攻擊敵人時，擲 2d6。
+建議: 當你攻擊敵人時，投擲 2d6。"
 
-目前譯文: "當你攻擊敵人時，擲 2d6。"
-建議譯文: "當你攻擊敵人時，投擲 2d6。"
-問題: [naturalness] 動詞「擲」可改為更自然的「投擲」
-
-  [y] 接受  [n] 保留  [e] 自訂  [s] 跳過
+options:
+  - [y] 接受   — 套用建議譯文
+  - [n] 保留   — 維持目前譯文
+  - [e] 自訂   — 提供其他譯法（使用者透過 Other 輸入）
 ```
+
+The `[s] 跳過` case is handled by user selecting "Other" and typing "skip", or simply by the agent advancing without tally update when the user dismisses.
 
 #### 3.5 Update Session Tally and Log (Not the File)
 
@@ -351,6 +358,10 @@ Replace `**決策:** _(pending)_` with:
 - `e` (custom) → `session_tally[id].accepted += 1`; save custom result as example
 - `s` (skip) → no tally update
 
+**When NOT to update tally:**
+- `change_type == "terminology"` AND the issue is a one-off glossary mismatch (wrong term used for a specific glossary entry) → do NOT create a tally entry. These are corrected in-place and will not recur, so they are not meaningful as learnable patterns.
+- Only create tally entries for **recurring stylistic patterns** (naturalness, clarity, consistency) that may appear across multiple files.
+
 ### 4. Apply Revisions
 
 After completing a file, apply all accepted/custom changes using the `edit` tool, in line-number order.
@@ -358,8 +369,10 @@ After completing a file, apply all accepted/custom changes using the `edit` tool
 ### 5. Run Terminology Check
 
 ```bash
-uv run python scripts/term_read.py
+PYTHONIOENCODING=utf-8 uv run python scripts/term_read.py
 ```
+
+> **Windows note**: Without `PYTHONIOENCODING=utf-8`, the script may crash on non-ASCII source terms (e.g., Spanish characters) due to `cp950` encoding.
 
 If new terms found, invoke `terminology-management` skill.
 
@@ -373,7 +386,7 @@ After completing each file review, update the file's metadata:
   "review_count": 3,
   "issues_found": 8,
   "changes_applied": 6,
-  "sentences_reviewed": 42,
+  "paragraphs_reviewed": 42,
   "last_section_reviewed": "## 傷害與治療",
   "resume_from": null
 }
@@ -385,11 +398,11 @@ After completing each file review, update the file's metadata:
 - `issues_found`: Number of suggestions presented to user in this session
 - `changes_applied`: Number of suggestions accepted/custom-edited by user in this session
 
-- `sentences_reviewed`: Total paragraphs reviewed in Strategy A (cumulative across sessions; 0 for other strategies)
+- `paragraphs_reviewed`: Total paragraphs reviewed in Strategy A (cumulative across sessions; 0 for other strategies)
 - `last_section_reviewed`: Heading of the last section reviewed (for resume display; `null` if not applicable)
 - `resume_from`: Index into `alignment[]` for next resume point; `null` = review complete
 
-Only `review_count` and `sentences_reviewed` increment across sessions. `issues_found` and `changes_applied` reflect current session only.
+Only `review_count` and `paragraphs_reviewed` increment across sessions. `issues_found` and `changes_applied` reflect current session only.
 
 ### 7. Flush Session Tally (End of Session)
 
@@ -500,10 +513,12 @@ A true paragraph-by-paragraph review comparing every translated paragraph agains
    - 無對應原文（跳過）：3 段（Starlight 組件）
    - 潛在遺漏：1 段
    ```
-3. Ask user to choose:
-   - `[c]` 繼續逐段審閱
-   - `[b]` 改用 Strategy B（目標式）
-   - `[d]` 改用 Strategy C（歷史驅動）
+3. **Conditional confirmation** — only ask user to choose if alignment reveals concerns:
+   - Potential omissions > 0, OR total paragraphs > 200 → ask:
+     - `[c]` 繼續逐段審閱
+     - `[b]` 改用 Strategy B（目標式）
+     - `[d]` 改用 Strategy C（歷史驅動）
+   - Otherwise → proceed directly to Phase 2 (user already chose Strategy A)
 
 #### Phase 2: Sequential Section-by-Section Review
 
@@ -531,7 +546,7 @@ Process each entry in `alignment[]` sequentially:
 #### Phase 3: Completion
 
 1. Clear `resume_from` (set to `null`) — review is complete
-2. Update `sentences_reviewed` with total paragraphs reviewed
+2. Update `paragraphs_reviewed` with total paragraphs reviewed
 3. Update `last_section_reviewed` with final section heading
 4. Proceed to **Step 4** (apply revisions)
 
@@ -597,6 +612,7 @@ Only propose changes when:
 /retranslate docs/src/content/docs/rules/basic.md
 /retranslate rules
 /retranslate all
+/retranslate --resume
 /retranslate --prune
 ```
 

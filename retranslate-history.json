@@ -83,81 +83,81 @@
     "rules/index.md": {
       "last_reviewed": "2026-02-24T19:35:08Z",
       "review_count": 1,
-      "sentences_reviewed": 0
+      "paragraphs_reviewed": 0
     },
     "rules/introduction.md": {
       "last_reviewed": "2026-02-24T19:35:08Z",
       "review_count": 2,
-      "sentences_reviewed": 0
+      "paragraphs_reviewed": 0
     },
     "rules/fundamentals.md": {
       "last_reviewed": "2026-02-24T19:35:08Z",
       "review_count": 2,
-      "sentences_reviewed": 0
+      "paragraphs_reviewed": 0
     },
     "rules/character-creation.md": {
       "last_reviewed": "2026-02-24T19:35:08Z",
       "review_count": 2,
-      "sentences_reviewed": 0
+      "paragraphs_reviewed": 0
     },
     "rules/archetypes.md": {
       "last_reviewed": "2026-02-24T19:35:08Z",
       "review_count": 2,
-      "sentences_reviewed": 0
+      "paragraphs_reviewed": 0
     },
     "rules/friendship-romance.md": {
       "last_reviewed": "2026-02-24T19:35:08Z",
       "review_count": 2,
-      "sentences_reviewed": 0
+      "paragraphs_reviewed": 0
     },
     "rules/moves.md": {
       "last_reviewed": "2026-02-24T19:35:08Z",
       "review_count": 2,
-      "sentences_reviewed": 0
+      "paragraphs_reviewed": 0
     },
     "rules/light-vs-darkness.md": {
       "last_reviewed": "2026-02-24T19:35:08Z",
       "review_count": 2,
-      "sentences_reviewed": 0
+      "paragraphs_reviewed": 0
     },
     "rules/advancement.md": {
       "last_reviewed": "2026-02-24T16:30:00Z",
       "review_count": 2,
       "issues_found": 2,
       "changes_applied": 2,
-      "sentences_reviewed": 42,
+      "paragraphs_reviewed": 42,
       "last_section_reviewed": ":::tip[光之裝束的提升]",
       "resume_from": null
     },
     "rules/darkness-enemies.md": {
       "last_reviewed": "2026-02-24T19:35:08Z",
       "review_count": 2,
-      "sentences_reviewed": 0
+      "paragraphs_reviewed": 0
     },
     "rules/pacts.md": {
       "last_reviewed": "2026-02-24T19:35:08Z",
       "review_count": 2,
-      "sentences_reviewed": 0
+      "paragraphs_reviewed": 0
     },
     "rules/mc-guide.md": {
       "last_reviewed": "2026-02-24T19:35:08Z",
       "review_count": 2,
-      "sentences_reviewed": 0
+      "paragraphs_reviewed": 0
     },
     "rules/first-chapter.md": {
       "last_reviewed": "2026-02-24T19:35:08Z",
       "review_count": 2,
-      "sentences_reviewed": 0
+      "paragraphs_reviewed": 0
     },
     "rules/eclipse.md": {
       "last_reviewed": "2026-02-24T19:35:08Z",
       "review_count": 2,
-      "sentences_reviewed": 0
+      "paragraphs_reviewed": 0
     },
     "rules/setting.md": {
       "last_reviewed": "2026-02-24T19:35:08Z",
       "review_count": 1,
-      "sentences_reviewed": 0
+      "paragraphs_reviewed": 0
     }
   }
 }
