@@ -1,0 +1,95 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.com/schemas/retranslate-history.schema.json",
+  "title": "Retranslate History",
+  "description": "聚合式偏好紀錄，不儲存原始逐句決策",
+  "type": "object",
+  "required": ["_meta", "candidates", "preferences", "file_reviews"],
+  "properties": {
+    "_meta": {
+      "type": "object",
+      "required": ["description", "updated"],
+      "properties": {
+        "description": { "type": "string" },
+        "updated": { "type": "string" }
+      },
+      "additionalProperties": true
+    },
+    "candidates": {
+      "type": "object",
+      "description": "尚未達到晉升門檻的候選偏好（accepted < 3）",
+      "additionalProperties": {
+        "type": "object",
+        "required": ["description", "change_type", "accepted", "rejected", "examples"],
+        "properties": {
+          "description": { "type": "string" },
+          "change_type":  { "type": "string", "enum": ["terminology", "naturalness", "clarity", "accuracy"] },
+          "accepted":     { "type": "integer", "minimum": 0 },
+          "rejected":     { "type": "integer", "minimum": 0 },
+          "examples": {
+            "type": "array",
+            "maxItems": 2,
+            "items": {
+              "type": "object",
+              "required": ["before", "after"],
+              "properties": {
+                "before": { "type": "string" },
+                "after":  { "type": "string" }
+              },
+              "additionalProperties": false
+            }
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "preferences": {
+      "type": "object",
+      "description": "已確認的偏好規則（confidence ≥ 0.75，accepted ≥ 3）",
+      "additionalProperties": {
+        "type": "object",
+        "required": ["description", "change_type", "accepted", "rejected", "confidence", "examples", "promoted_to_style_decisions"],
+        "properties": {
+          "description":                  { "type": "string" },
+          "change_type":                  { "type": "string", "enum": ["terminology", "naturalness", "clarity", "accuracy"] },
+          "pattern":                      { "type": "string" },
+          "preferred":                    { "type": "string" },
+          "over":                         { "type": "array", "items": { "type": "string" } },
+          "accepted":                     { "type": "integer", "minimum": 0 },
+          "rejected":                     { "type": "integer", "minimum": 0 },
+          "confidence":                   { "type": "number", "minimum": 0, "maximum": 1 },
+          "examples": {
+            "type": "array",
+            "maxItems": 2,
+            "items": {
+              "type": "object",
+              "required": ["before", "after"],
+              "properties": {
+                "before": { "type": "string" },
+                "after":  { "type": "string" }
+              },
+              "additionalProperties": false
+            }
+          },
+          "promoted_to_style_decisions":  { "type": "boolean" }
+        },
+        "additionalProperties": false
+      }
+    },
+    "file_reviews": {
+      "type": "object",
+      "description": "每個檔案的審閱歷史摘要",
+      "additionalProperties": {
+        "type": "object",
+        "required": ["last_reviewed", "review_count", "sentences_reviewed"],
+        "properties": {
+          "last_reviewed":      { "type": "string", "format": "date-time" },
+          "review_count":       { "type": "integer", "minimum": 0 },
+          "sentences_reviewed": { "type": "integer", "minimum": 0 }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}
