@@ -697,12 +697,17 @@
   "El poder de la Luz": {
     "zh": "聖光",
     "is_term": true,
-    "notes": "參謀原型的特殊能力"
+    "notes": "聖母原型的特殊能力"
+  },
+  "Escudo de Luz (Sanadora)": {
+    "zh": "光之護盾",
+    "is_term": true,
+    "notes": "聖母原型神聖力量的效果選項：抵消 5 點傷痛或拯救 NPC（與衛士的「光之盾」同名消歧）"
   },
   "Sabelotodo": {
     "zh": "萬事通",
     "is_term": true,
-    "notes": "軍師原型的調查能力"
+    "notes": "參謀原型的調查能力"
   },
   "Poder Sagrado": {
     "zh": "神聖力量",

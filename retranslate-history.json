@@ -101,9 +101,13 @@
       "paragraphs_reviewed": 0
     },
     "rules/archetypes.md": {
-      "last_reviewed": "2026-02-24T19:35:08Z",
-      "review_count": 2,
-      "paragraphs_reviewed": 0
+      "last_reviewed": "2026-02-24T20:00:00Z",
+      "review_count": 3,
+      "issues_found": 2,
+      "changes_applied": 1,
+      "paragraphs_reviewed": 150,
+      "last_section_reviewed": "## 聖母（La Sanadora sheet）",
+      "resume_from": null
     },
     "rules/friendship-romance.md": {
       "last_reviewed": "2026-02-24T19:35:08Z",

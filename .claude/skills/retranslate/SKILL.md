@@ -203,6 +203,7 @@ Before starting sentence-level review, build a structural alignment between the 
   ```
 - **`source: null` (skip)**: Only for content with genuinely no source equivalent — translator-added navigation links, cross-reference notes, or purely structural Starlight markup (e.g., empty `:::` wrappers). **Do NOT mark `:::note`/`:::tip` content as `source: null`** — the text inside these wrappers typically has a source equivalent (e.g., `:::note[範例一]` corresponds to `Ejemplo 1:` in source) and must be compared normally.
 - Source paragraphs missing from translated text → flag as potential omissions
+- **`low_priority` paragraphs**: Template/fill-in-the-blank fields (e.g., `姓名：＿＿＿＿`, `年齡：＿＿＿`) that consist only of labels + blank spaces. These are still compared but with reduced scrutiny — only flag if a label is mistranslated or missing, not for formatting or style differences.
 
 **Design Rationale:**
 - Heading anchors (not line numbers): translated files have restructured layout, removed PAGE markers
@@ -220,6 +221,15 @@ For each review session, create a timestamped log file:
 
 Write each suggestion to the log file in real-time (immediately when presenting to user, before they respond).
 
+**Clean section recording**: At the end of the session log (before the summary), record sections that had no issues. This provides evidence that those sections were actually reviewed (not skipped):
+```markdown
+## 無問題章節
+以下章節經逐段比對，未發現需修改之處：
+- ## 偶像（La Idol）— 6 段
+- ## 偶像（La Idol sheet）— 22 段
+- …
+```
+
 #### 3.1 Parse Document Structure
 
 1. **Skip**: YAML frontmatter, code blocks, dice notation (2d6, 1d20+3), raw URLs
@@ -236,6 +246,7 @@ Write each suggestion to the log file in real-time (immediately when presenting 
    - Paragraph after "---" divider at file start → **Flexible** (back cover)
    - Header text contains "動作", "基礎", "進階" → **Strict**
    - `####` sub-headings under `### 基礎成長` / `### 進階成長` (or equivalent advancement/mechanic sections) → **Strict** (these describe concrete game rules even without keywords)
+   - **Character sheet data sections** (archetype playbooks): paragraphs under `## <原型名稱>` headings that contain dice syntax (`2d6`, `1d20`), numeric stat tables, Light Costume tables (`光之裝束`), advancement lists (`成長`), or move descriptions with mechanical effects → **Strict** (these are game data, not prose)
    - `rules/` path + paragraph outside `:::note`/`:::tip`/`>` → at least **Moderate**, upgrade to **Strict** if describing procedures or restrictions
 
 When in doubt, treat as **Moderate** (balance between strict and flexible).
@@ -275,6 +286,29 @@ Glossary: "正義騎士" (Campeonas de la Justicia)
 
 建議: 保留詩意或套用 glossary？[保留 / 套用]
 ```
+
+#### 3.2.1 Glossary Notes Validation
+
+While reviewing each section, **cross-check glossary `notes` fields** against the actual source context:
+
+1. When encountering a glossary term in the translated text, verify that the term's `notes` field in `glossary.json` correctly describes its usage context (e.g., correct archetype attribution, correct game mechanic category)
+2. **Common errors to catch**:
+   - Wrong archetype attribution (e.g., notes say "參謀" but term belongs to "聖母")
+   - Outdated context description after glossary restructuring
+   - Missing notes for terms that need disambiguation
+3. **If a notes error is found**: correct it silently via direct edit to `glossary.json` — no user prompt needed for notes-only fixes. Record the correction in the session log under a `## Glossary 更新` section.
+
+#### 3.2.2 Homonymous Source Terms (同名異義)
+
+When the same source-language term refers to **different game elements** (e.g., "Escudo de Luz" is both the Guardian's signature ability and a Healer sacred power effect):
+
+1. **Check glossary** for existing disambiguation entries (e.g., `Escudo de Luz (Sanadora)`)
+2. **If translator already disambiguated** (e.g., 「光之盾」 vs 「光之護盾」) but glossary has no matching entry:
+   - Present as a `[g] glossary` decision (see Step 3.4) — keep translation, add glossary entry with `(<context>)` suffix
+3. **If translator did NOT disambiguate** (both rendered identically):
+   - Propose disambiguation with distinct Chinese terms
+   - Explain which game element each refers to
+4. **Glossary entry format** for disambiguation: `"<Source Term> (<Archetype/Context>)"` → distinct `zh` value
 
 #### 3.3 Check Against History Before Proposing
 
@@ -334,8 +368,11 @@ question: "Line 42：[naturalness] 動詞「擲」→「投擲」
 options:
   - [y] 接受   — 套用建議譯文
   - [n] 保留   — 維持目前譯文
+  - [g] glossary — 保留譯文，新增/更新 glossary 條目
   - [e] 自訂   — 提供其他譯法（使用者透過 Other 輸入）
 ```
+
+Use `[g]` when the translation is correct but glossary needs a new disambiguation entry or notes correction (see Step 3.2.1).
 
 The `[s] 跳過` case is handled by user selecting "Other" and typing "skip", or simply by the agent advancing without tally update when the user dismisses.
 
@@ -348,6 +385,7 @@ After each user response:
 Replace `**決策:** _(pending)_` with:
 - `y` → `**決策:** ✅ 接受`
 - `n` → `**決策:** ❌ 保留`
+- `g` → `**決策:** 📖 glossary 更新: "<description of glossary change>"`
 - `e` → `**決策:** ✏️ 自訂: "<user's custom text>"`
 - `s` → `**決策:** ⏭️ 跳過`
 
@@ -355,11 +393,13 @@ Replace `**決策:** _(pending)_` with:
 
 - `y` (accepted) → `session_tally[id].accepted += 1`; save example if < 2 stored
 - `n` (rejected) → `session_tally[id].rejected += 1`; optionally ask brief reason
+- `g` (glossary) → no tally update; add/update glossary entry directly (see Step 5)
 - `e` (custom) → `session_tally[id].accepted += 1`; save custom result as example
 - `s` (skip) → no tally update
 
 **When NOT to update tally:**
 - `change_type == "terminology"` AND the issue is a one-off glossary mismatch (wrong term used for a specific glossary entry) → do NOT create a tally entry. These are corrected in-place and will not recur, so they are not meaningful as learnable patterns.
+- `[g] glossary` decisions → no tally update. These are glossary maintenance actions, not translation pattern learning.
 - Only create tally entries for **recurring stylistic patterns** (naturalness, clarity, consistency) that may appear across multiple files.
 
 ### 4. Apply Revisions
@@ -369,12 +409,21 @@ After completing a file, apply all accepted/custom changes using the `edit` tool
 ### 5. Run Terminology Check
 
 ```bash
-PYTHONIOENCODING=utf-8 uv run python scripts/term_read.py
+PYTHONIOENCODING=utf-8 uv run --with jsonschema python scripts/term_read.py
 ```
 
 > **Windows note**: Without `PYTHONIOENCODING=utf-8`, the script may crash on non-ASCII source terms (e.g., Spanish characters) due to `cp950` encoding.
 
 If new terms found, invoke `terminology-management` skill.
+
+**Glossary edit boundary — when to edit directly vs. delegate:**
+
+| Action | Method | Rationale |
+|--------|--------|-----------|
+| Fix `notes` field (typo, wrong archetype) | Direct edit to `glossary.json` | Metadata-only, no term change |
+| Add disambiguation entry (e.g., `Escudo de Luz (Sanadora)`) | Direct edit to `glossary.json` | New entry with known zh/notes, no decision needed |
+| Change a term's `zh` value | `terminology-management` skill | Affects all files; needs consistency check |
+| Add a brand-new unmanaged term | `terminology-management` skill | Requires evidence calculation and user decision |
 
 ### 6. Update `file_reviews` (End of Each File)
 
@@ -502,17 +551,30 @@ Ask user to choose at session start:
 
 A true paragraph-by-paragraph review comparing every translated paragraph against its Spanish source.
 
+**Expectation Setting（Strategy A 選定後、Phase 1 開始前向使用者顯示）：**
+- 每段都會與西文原文逐一比對，無問題的段落會靜默略過
+- 僅有建議時才打斷使用者
+- 支援中途切換至 Strategy B/C/D
+- 支援 `[q]` 中斷 + `/retranslate --resume` 續審
+
 #### Phase 1: Structural Alignment
 
 1. Execute **Step 3.0** to build `alignment[]`
-2. Display alignment summary to user:
+2. Display alignment summary to user, including a per-section table:
    ```
    📊 對齊摘要：
    - 章節數：8
    - 段落配對數：42
    - 無對應原文（跳過）：3 段（Starlight 組件）
    - 潛在遺漏：1 段
+
+   | # | 章節 | 段落數 | 語境 |
+   |---|------|--------|------|
+   | 1 | 基本動作（Acciones Básicas） | 12 | Strict |
+   | 2 | 範例（Ejemplo） | 5 | Moderate |
+   | … | … | … | … |
    ```
+   The context type column reflects the **dominant** context detected for each section per Step 3.1 heuristics.
 3. **Conditional confirmation** — only ask user to choose if alignment reveals concerns:
    - Potential omissions > 0, OR total paragraphs > 200 → ask:
      - `[c]` 繼續逐段審閱
@@ -549,12 +611,6 @@ Process each entry in `alignment[]` sequentially:
 2. Update `paragraphs_reviewed` with total paragraphs reviewed
 3. Update `last_section_reviewed` with final section heading
 4. Proceed to **Step 4** (apply revisions)
-
-**Expectation Setting（審閱開始前向使用者顯示）：**
-- 小型檔案（<100 段）：約需較長互動時間，每段都會比對
-- 支援中途切換至 Strategy B/C/D
-- 支援 `[q]` 中斷 + `/retranslate --resume` 續審
-- 無問題的段落會靜默略過，僅有建議時才打斷使用者
 
 ### Strategy B: Targeted
 
