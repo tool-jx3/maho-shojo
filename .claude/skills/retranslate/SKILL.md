@@ -71,9 +71,10 @@ This keeps the file **permanently small** regardless of how many sessions have r
   },
   "file_reviews": {
     "rules/combat.md": {
-      "last_reviewed": "2026-02-24T00:00:00Z",
+      "last_reviewed": "2026-02-24T11:09:21Z",
       "review_count": 2,
-      "sentences_reviewed": 42
+      "issues_found": 8,
+      "changes_applied": 6
     }
   }
 }
@@ -144,7 +145,18 @@ Read in this order:
 
 ### 3. Sentence-Level Review
 
-**IMPORTANT: Process files sequentially, one at a time. Do NOT review multiple files in parallel.**
+**IMPORTANT: Process files sequentially, one at a time.**
+
+**CRITICAL: Do NOT use the following for file review:**
+- ❌ `task` tool with any agent type (explore/task/general-purpose)
+- ❌ Parallel tool calls to read/analyze multiple files
+- ❌ Any form of concurrent file processing
+
+**REQUIRED: Review files one-by-one using direct tools:**
+- ✅ `view` tool to read file content
+- ✅ `grep` tool for pattern detection
+- ✅ `ask_user` tool for user decisions
+- ✅ Process File 1 → complete → File 2 → complete → ...
 
 For each target file, keep an **in-session tally** (discarded at session end):
 
@@ -160,16 +172,67 @@ Before starting review, create `./retranslate-result/` directory if not exists.
 
 For each review session, create a timestamped log file:
 - Path: `./retranslate-result/<file-slug>_<timestamp>.md`
-- Example: `./retranslate-result/rules-combat_2026-02-24T11-09-21.md`
+- Example: `./retranslate-result/rules-combat_2026-02-24T11-09-21Z.md`
+- Timestamp format: `YYYY-MM-DDTHH-mm-ssZ` (UTC, ISO 8601)
+- File slug: replace `/` with `-` (e.g., `rules/combat.md` → `rules-combat`)
 
 Write each suggestion to the log file in real-time (immediately when presenting to user, before they respond).
 
 #### 3.1 Parse Document Structure
 
 1. **Skip**: YAML frontmatter, code blocks, dice notation (2d6, 1d20+3), raw URLs
-2. **Review**: paragraphs, list items, table cells
 
-#### 3.2 Check Against History Before Proposing
+2. **Review with Context Awareness**:
+   - **Strict context**: paragraphs under `##` headers containing "規則", "動作", "機制", "檢定"
+   - **Flexible context**: paragraphs in `:::note[]`, `:::tip[]`, blockquotes `>`, poem-like formatting
+   - **Moderate context**: everything else (examples, descriptions, tables)
+
+3. **Context Detection Heuristics**:
+   - File path contains `rules/` → default to **Moderate**
+   - Line contains "例如", "範例", "Example" → **Moderate**
+   - Line in YAML frontmatter `description:` → **Flexible** (promotional)
+   - Paragraph after "---" divider at file start → **Flexible** (back cover)
+   - Header text contains "動作", "基礎", "進階" → **Strict**
+
+When in doubt, treat as **Moderate** (balance between strict and flexible).
+
+#### 3.2 Context-Aware Glossary Application
+
+**IMPORTANT: Apply glossary terms according to context priority:**
+
+| Context Type | Glossary Priority | Rationale |
+|--------------|-------------------|-----------|
+| **Rules text** (mechanics, procedures) | 🔴 **Strict** | Consistency critical for gameplay |
+| **Examples** (gameplay scenarios) | 🟡 **Moderate** | Balance clarity + natural dialogue |
+| **Flavor text** (quotes, poems, songs) | 🟢 **Flexible** | Preserve literary/poetic intent |
+| **Back cover** (promotional copy) | 🟢 **Flexible** | Marketing tone > strict terminology |
+| **Character dialogue** | 🟡 **Moderate** | Consider character voice |
+
+**When glossary conflicts with context:**
+1. **Strict context** → Always use glossary term, flag if awkward
+2. **Moderate context** → Prefer glossary, but allow natural phrasing
+3. **Flexible context** → Preserve original intent, note glossary exists
+
+**Example:**
+```
+❌ 封底文案：「正義的勇者」→「正義騎士」
+   理由：詩意宣傳文案，保留原文感
+   
+✅ 規則說明：「正義的勇者」→「正義騎士」
+   理由：遊戲機制術語，必須一致
+```
+
+When presenting a glossary-based suggestion in **flexible context**, add a note:
+```
+📍 Line 25 [Flavor text - 封底文案]
+目前譯文: "正義的勇者"
+Glossary: "正義騎士" (Campeonas de la Justicia)
+問題: [terminology] 與 glossary 不符，但此為宣傳文案
+
+建議: 保留詩意或套用 glossary？[保留 / 套用]
+```
+
+#### 3.3 Check Against History Before Proposing
 
 Before generating a suggestion, check `preferences` and `candidates`:
 
@@ -260,15 +323,24 @@ If new terms found, invoke `terminology-management` skill.
 
 ### 6. Update `file_reviews` (End of Each File)
 
+After completing each file review, update the file's metadata:
+
 ```json
 "rules/combat.md": {
-  "last_reviewed": "<ISO timestamp>",
+  "last_reviewed": "2026-02-24T11:09:21Z",
   "review_count": 3,
-  "sentences_reviewed": 42
+  "issues_found": 8,
+  "changes_applied": 6
 }
 ```
 
-Only `review_count` and `sentences_reviewed` increment. No per-sentence data stored.
+**Field definitions:**
+- `last_reviewed`: ISO 8601 timestamp in UTC (format: `YYYY-MM-DDTHH:MM:SSZ`)
+- `review_count`: Total number of times this file has been reviewed (increment by 1)
+- `issues_found`: Number of suggestions presented to user in this session
+- `changes_applied`: Number of suggestions accepted/custom-edited by user in this session
+
+Only `review_count` increments across sessions. `issues_found` and `changes_applied` reflect current session only.
 
 ### 7. Flush Session Tally (End of Session)
 
@@ -314,15 +386,14 @@ Run `/retranslate --prune` to clean up stale candidates:
 
 ### 10. Session Summary
 
-At the end of the session, write a summary section to the log file:
+At the end of the session, write a summary section to the **last file's log** or create a separate `session-summary_<timestamp>.md`:
 
 ```markdown
 ---
 
 # 審閱摘要
 
-- **審閱時間:** 2026-02-24 11:09
-- **審閱句子:** 42 句
+- **審閱時間:** 2026-02-24T11:09:21Z
 - **建議項目:** 8 項
 - **接受:** 6 項
 - **拒絕:** 2 項
@@ -341,8 +412,8 @@ Then show to user:
 
 ### 審閱統計
 - 檔案：rules/combat.md
-- 審閱句子：42 句 ／ 建議：8 項 ／ 接受：6 ／ 拒絕：2
-- 📝 紀錄已存至：./retranslate-result/rules-combat_2026-02-24T11-09-21.md
+- 建議：8 項 ／ 接受：6 ／ 拒絕：2
+- 📝 紀錄已存至：./retranslate-result/rules-combat_2026-02-24T11-09-21Z.md
 
 ### 偏好更新
 - 更新：「投擲」偏好（信心度 75% → 83%）
@@ -358,12 +429,63 @@ Then show to user:
 
 Ask user to choose at session start:
 
-| Strategy | Scope | Best for |
-|----------|-------|---------|
-| **A: Full Review** | Every sentence | 首次審閱、關鍵文件 |
-| **B: Targeted** | 術語 + 清晰度，略過次要風格 | 大型文件快速 QA |
-| **C: History-Driven** | 僅套用已學偏好，不提新建議 | 大批量套用既有規則 |
-| **D: Terminology-Only** | 僅 `term_read.py` 術語檢查 | 翻譯後即時驗證 |
+| Strategy | Actual Process | Best for |
+|----------|----------------|----------|
+| **A: Full Review** | Pattern scan (grep) + selective sentence review for flagged issues | 首次審閱、關鍵文件 |
+| **B: Targeted** | 術語 (glossary) + 清晰度 only, skip style/naturalness | 大型文件快速 QA |
+| **C: History-Driven** | 僅套用已學 preferences，不提新建議 | 大批量套用既有規則 |
+| **D: Terminology-Only** | 僅 `term_read.py` + glossary cross-check | 翻譯後即時驗證 |
+
+### Strategy A: Full Review (Realistic Definition)
+
+**NOT a true sentence-by-sentence review** due to cost/time constraints. Instead:
+
+1. **Pattern Detection** (fast)
+   - grep for known issues: `＋`, `骰出`, `投擲`, `殉道`, etc.
+   - Check glossary term presence via PowerShell queries
+   - Scan for dice verb consistency
+
+2. **Spot Sampling** (selective)
+   - Read 10-20% of content via `view` for accuracy check
+   - Focus on: rule mechanics, key terminology, examples
+   - Compare against source pages (if available)
+
+3. **Issue Presentation** (thorough)
+   - Present ALL detected issues to user
+   - For each: show context, suggest fix, ask decision
+   - Track in session tally
+
+**Expectation Setting:**
+- Large files (>500 lines): Pattern-first approach
+- Small files (<200 lines): More thorough sampling
+- Will NOT catch every subtle naturalness issue
+- Trades exhaustiveness for practical completion
+
+### Strategy B: Targeted
+
+Focus ONLY on:
+- ✅ Glossary term mismatches
+- ✅ Obvious clarity issues (e.g., missing negation)
+- ❌ Skip: naturalness, style preferences, word choice
+
+Use when: time-limited, or file already reviewed before
+
+### Strategy C: History-Driven
+
+Apply ONLY existing preferences with `confidence >= 0.75`:
+- No new suggestions generated
+- Batch-apply known patterns
+- Ask user once per pattern type
+
+Use when: bulk-updating many files with learned rules
+
+### Strategy D: Terminology-Only
+
+1. Run `term_read.py` to find undefined terms
+2. Cross-check all glossary entries appear correctly
+3. No translation quality review
+
+Use when: just translated, want quick term validation
 
 ---
 
@@ -371,10 +493,20 @@ Ask user to choose at session start:
 
 Only propose changes when:
 - ✅ Improvement is clear and measurable
-- ✅ Aligns with `glossary.json` / `style-decisions.json`
+- ✅ Aligns with `glossary.json` / `style-decisions.json` **in appropriate context**
 - ✅ Original meaning is preserved or clarified
 - ✅ Not already a promoted permanent rule
 - ❌ Not pure personal preference with no justification
+- ❌ Not glossary-forcing in flavor text without user consent
+
+**Context-Specific Quality Bar:**
+
+| Change Type | Strict Context | Flexible Context |
+|-------------|----------------|------------------|
+| Glossary mismatch | Always propose | Ask user preference |
+| Naturalness | Propose if awkward | Propose only if confusing |
+| Consistency | Always propose | Propose if pattern exists |
+| Accuracy | Always propose | Always propose |
 
 ---
 
