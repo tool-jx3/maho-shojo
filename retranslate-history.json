@@ -121,9 +121,13 @@
       "sentences_reviewed": 0
     },
     "rules/advancement.md": {
-      "last_reviewed": "2026-02-24T19:35:08Z",
-      "review_count": 1,
-      "sentences_reviewed": 0
+      "last_reviewed": "2026-02-24T16:30:00Z",
+      "review_count": 2,
+      "issues_found": 2,
+      "changes_applied": 2,
+      "sentences_reviewed": 42,
+      "last_section_reviewed": ":::tip[光之裝束的提升]",
+      "resume_from": null
     },
     "rules/darkness-enemies.md": {
       "last_reviewed": "2026-02-24T19:35:08Z",

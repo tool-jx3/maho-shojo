@@ -74,7 +74,10 @@ This keeps the file **permanently small** regardless of how many sessions have r
       "last_reviewed": "2026-02-24T11:09:21Z",
       "review_count": 2,
       "issues_found": 8,
-      "changes_applied": 6
+      "changes_applied": 6,
+      "sentences_reviewed": 42,
+      "last_section_reviewed": "## 傷害與治療",
+      "resume_from": null
     }
   }
 }
@@ -153,10 +156,14 @@ Read in this order:
 - ❌ Any form of concurrent file processing
 
 **REQUIRED: Review files one-by-one using direct tools:**
-- ✅ `view` tool to read file content
-- ✅ `grep` tool for pattern detection
-- ✅ `ask_user` tool for user decisions
+- ✅ `Read` tool to read file content
+- ✅ `Grep` tool for pattern detection
+- ✅ `AskUserQuestion` tool for user decisions
 - ✅ Process File 1 → complete → File 2 → complete → ...
+
+**Review Mode（由 Strategy 選擇決定）：**
+- **Strategy A**：逐段完整審閱 — 依序處理 alignment[] 中的每個段落配對
+- **Strategy B/C/D**：目標式審閱 — 僅處理符合篩選條件的段落
 
 For each target file, keep an **in-session tally** (discarded at session end):
 
@@ -165,6 +172,41 @@ session_tally = {}   # { "<candidate-id>": { accepted: 0, rejected: 0, examples:
 ```
 
 This tally is only used within the current session to update `candidates{}` and `preferences{}` at the end.
+
+#### 3.0 Structural Alignment
+
+Before starting sentence-level review, build a structural alignment between the source text and translated text:
+
+**Step 1: Extract Source Text**
+- Read `chapters.json` → find `pages: [start, end]` for the target file
+- From `data/markdown/<name>_pages.md`, extract content between `<!-- PAGE start -->` and `<!-- PAGE end -->` markers
+- This is the Spanish source text for this chapter
+
+**Step 2: Build Heading Map**
+- From the translated `.md` file, collect all `##` / `###` headings
+- From the source text, find corresponding Spanish headings (match by structural position + glossary-assisted confirmation)
+- Produce a heading-level mapping: `{ zh_heading → es_heading }`
+
+**Step 3: Paragraph Pairing**
+- Using headings as anchors, pair paragraphs within each section by sequential order
+- Output an `alignment[]` list:
+  ```json
+  [
+    {
+      "index": 0,
+      "zh_heading": "## 基本動作",
+      "es_heading": "## Acciones Básicas",
+      "zh_paragraphs": ["當你投擲 2d6 時……"],
+      "es_paragraphs": ["Cuando tiras 2d6..."]
+    }
+  ]
+  ```
+- Translated paragraphs with no source equivalent (e.g., Starlight components, translator notes) → mark as `source: null`, skip during comparison
+- Source paragraphs missing from translated text → flag as potential omissions
+
+**Design Rationale:**
+- Heading anchors (not line numbers): translated files have restructured layout, removed PAGE markers
+- Paragraph (not sentence) as smallest comparison unit: Chinese does not split sentences by spaces; paragraphs typically contain 1-3 sentences and are the most reliable alignment unit
 
 #### Session Log Directory
 
@@ -249,7 +291,7 @@ Pre-fill display:
 是否套用？[Y/n]
 ```
 
-#### 3.3 Propose Improvements
+#### 3.4 Propose Improvements
 
 When a sentence can be improved:
 
@@ -290,7 +332,7 @@ Append to `./retranslate-result/<session-file>.md`:
   [y] 接受  [n] 保留  [e] 自訂  [s] 跳過
 ```
 
-#### 3.4 Update Session Tally and Log (Not the File)
+#### 3.5 Update Session Tally and Log (Not the File)
 
 After each user response:
 
@@ -330,7 +372,10 @@ After completing each file review, update the file's metadata:
   "last_reviewed": "2026-02-24T11:09:21Z",
   "review_count": 3,
   "issues_found": 8,
-  "changes_applied": 6
+  "changes_applied": 6,
+  "sentences_reviewed": 42,
+  "last_section_reviewed": "## 傷害與治療",
+  "resume_from": null
 }
 ```
 
@@ -340,7 +385,11 @@ After completing each file review, update the file's metadata:
 - `issues_found`: Number of suggestions presented to user in this session
 - `changes_applied`: Number of suggestions accepted/custom-edited by user in this session
 
-Only `review_count` increments across sessions. `issues_found` and `changes_applied` reflect current session only.
+- `sentences_reviewed`: Total paragraphs reviewed in Strategy A (cumulative across sessions; 0 for other strategies)
+- `last_section_reviewed`: Heading of the last section reviewed (for resume display; `null` if not applicable)
+- `resume_from`: Index into `alignment[]` for next resume point; `null` = review complete
+
+Only `review_count` and `sentences_reviewed` increment across sessions. `issues_found` and `changes_applied` reflect current session only.
 
 ### 7. Flush Session Tally (End of Session)
 
@@ -431,35 +480,66 @@ Ask user to choose at session start:
 
 | Strategy | Actual Process | Best for |
 |----------|----------------|----------|
-| **A: Full Review** | Pattern scan (grep) + selective sentence review for flagged issues | 首次審閱、關鍵文件 |
+| **A: Full Review** | 逐段完整審閱 — 每段與西文原文逐一比對 | 首次深度審閱、關鍵規則文件 |
 | **B: Targeted** | 術語 (glossary) + 清晰度 only, skip style/naturalness | 大型文件快速 QA |
 | **C: History-Driven** | 僅套用已學 preferences，不提新建議 | 大批量套用既有規則 |
 | **D: Terminology-Only** | 僅 `term_read.py` + glossary cross-check | 翻譯後即時驗證 |
 
-### Strategy A: Full Review (Realistic Definition)
+### Strategy A: Full Review（逐段完整審閱）
 
-**NOT a true sentence-by-sentence review** due to cost/time constraints. Instead:
+A true paragraph-by-paragraph review comparing every translated paragraph against its Spanish source.
 
-1. **Pattern Detection** (fast)
-   - grep for known issues: `＋`, `骰出`, `投擲`, `殉道`, etc.
-   - Check glossary term presence via PowerShell queries
-   - Scan for dice verb consistency
+#### Phase 1: Structural Alignment
 
-2. **Spot Sampling** (selective)
-   - Read 10-20% of content via `view` for accuracy check
-   - Focus on: rule mechanics, key terminology, examples
-   - Compare against source pages (if available)
+1. Execute **Step 3.0** to build `alignment[]`
+2. Display alignment summary to user:
+   ```
+   📊 對齊摘要：
+   - 章節數：8
+   - 段落配對數：42
+   - 無對應原文（跳過）：3 段（Starlight 組件）
+   - 潛在遺漏：1 段
+   ```
+3. Ask user to choose:
+   - `[c]` 繼續逐段審閱
+   - `[b]` 改用 Strategy B（目標式）
+   - `[d]` 改用 Strategy C（歷史驅動）
 
-3. **Issue Presentation** (thorough)
-   - Present ALL detected issues to user
-   - For each: show context, suggest fix, ask decision
-   - Track in session tally
+#### Phase 2: Sequential Section-by-Section Review
 
-**Expectation Setting:**
-- Large files (>500 lines): Pattern-first approach
-- Small files (<200 lines): More thorough sampling
-- Will NOT catch every subtle naturalness issue
-- Trades exhaustiveness for practical completion
+Process each entry in `alignment[]` sequentially:
+
+1. **Check resume checkpoint**: if `resume_from` exists in `file_reviews`, skip entries with `index < resume_from`
+2. **Display current section heading** as navigation landmark:
+   ```
+   ── 章節 3/8：基本動作（Acciones Básicas）──
+   ```
+3. **For each paragraph pair** `(zh_para, es_para)`:
+   - Apply **Step 3.1** (parse document structure, determine context type)
+   - Apply **Step 3.2** (context-aware glossary check)
+   - Apply **Step 3.3** (check against history)
+   - Analyze translation quality: accuracy, terminology compliance, naturalness
+   - **Issues found** → execute **Step 3.4** to present suggestion and wait for user decision
+   - **No issues** → advance silently
+4. **After each section completes**: save `resume_from = next_index` to `file_reviews`
+5. **User enters `[q]`**: interrupt, save progress, display resume info:
+   ```
+   💾 進度已儲存：章節 3/8（基本動作）
+   下次執行 /retranslate --resume 可從此處繼續
+   ```
+
+#### Phase 3: Completion
+
+1. Clear `resume_from` (set to `null`) — review is complete
+2. Update `sentences_reviewed` with total paragraphs reviewed
+3. Update `last_section_reviewed` with final section heading
+4. Proceed to **Step 4** (apply revisions)
+
+**Expectation Setting（審閱開始前向使用者顯示）：**
+- 小型檔案（<100 段）：約需較長互動時間，每段都會比對
+- 支援中途切換至 Strategy B/C/D
+- 支援 `[q]` 中斷 + `/retranslate --resume` 續審
+- 無問題的段落會靜默略過，僅有建議時才打斷使用者
 
 ### Strategy B: Targeted
 
