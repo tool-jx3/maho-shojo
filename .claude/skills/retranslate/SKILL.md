@@ -175,39 +175,31 @@ This tally is only used within the current session to update `candidates{}` and 
 
 #### 3.0 Structural Alignment
 
-Before starting sentence-level review, build a structural alignment between the source text and translated text:
+Run the alignment script:
 
-**Step 1: Extract Source Text**
-- Read `chapters.json` → find `pages: [start, end]` for the target file
-- From `data/markdown/<name>_pages.md`, extract content between `<!-- PAGE start -->` and `<!-- PAGE end -->` markers
-- This is the Spanish source text for this chapter
+```bash
+PYTHONIOENCODING=utf-8 uv run python scripts/retranslate_align.py --target <target-file>
+```
 
-**Step 2: Build Heading Map**
-- From the translated `.md` file, collect all `##` / `###` / `####` headings
-- From the source text, find corresponding source headings (match by structural position + glossary-assisted confirmation)
-- Produce a heading-level mapping: `{ zh_heading → es_heading }`
+Parse the JSON output to obtain `alignment[]`, `stats`, and `meta`.
 
-**Step 3: Paragraph Pairing**
-- Using headings as anchors, pair paragraphs within each section by sequential order
-- Output an `alignment[]` list:
-  ```json
-  [
-    {
-      "index": 0,
-      "zh_heading": "## 基本動作",
-      "es_heading": "## Acciones Básicas",
-      "zh_paragraphs": ["當你投擲 2d6 時……"],
-      "es_paragraphs": ["Cuando tiras 2d6..."]
-    }
-  ]
-  ```
-- **`source: null` (skip)**: Only for content with genuinely no source equivalent — translator-added navigation links, cross-reference notes, or purely structural Starlight markup (e.g., empty `:::` wrappers). **Do NOT mark `:::note`/`:::tip` content as `source: null`** — the text inside these wrappers typically has a source equivalent (e.g., `:::note[範例一]` corresponds to `Ejemplo 1:` in source) and must be compared normally.
-- Source paragraphs missing from translated text → flag as potential omissions
-- **`low_priority` paragraphs**: Template/fill-in-the-blank fields (e.g., `姓名：＿＿＿＿`, `年齡：＿＿＿`) that consist only of labels + blank spaces. These are still compared but with reduced scrutiny — only flag if a label is mistranslated or missing, not for formatting or style differences.
+**Verify:**
+- `stats.unmatched_sections` > 0 → inspect and manually verify unmatched headings
+- Display alignment summary table to user (from stats + alignment context types)
 
-**Design Rationale:**
-- Heading anchors (not line numbers): translated files have restructured layout, removed PAGE markers
-- Paragraph (not sentence) as smallest comparison unit: Chinese does not split sentences by spaces; paragraphs typically contain 1-3 sentences and are the most reliable alignment unit
+The script handles: source text extraction from `chapters.json` + page markers, heading map construction via reverse glossary lookup, paragraph pairing by sequential order, context detection (Strict/Moderate/Flexible), and low-priority template field detection.
+
+**Output schema key fields per alignment entry:**
+- `zh_heading` / `es_heading`: matched headings (`es_heading: null` = unmatched)
+- `zh_paragraphs` / `es_paragraphs`: paragraph lists for comparison
+- `context`: Strict / Moderate / Flexible
+- `low_priority`: true for template/fill-in-the-blank sections
+- `zh_lines`: `[start, end]` line numbers in the translated file
+
+**Interpretation notes:**
+- `es_heading: null` + `es_paragraphs: []` = no source equivalent found (translator-added content, or glossary gap)
+- `low_priority: true` = template fields — still compare but with reduced scrutiny (only flag mistranslated/missing labels)
+- `:::note`/`:::tip` content inside asides is marked `context: Flexible` but still paired with source text normally
 
 #### Session Log Directory
 
@@ -559,7 +551,7 @@ A true paragraph-by-paragraph review comparing every translated paragraph agains
 
 #### Phase 1: Structural Alignment
 
-1. Execute **Step 3.0** to build `alignment[]`
+1. Run `retranslate_align.py` to build `alignment[]`
 2. Display alignment summary to user, including a per-section table:
    ```
    📊 對齊摘要：

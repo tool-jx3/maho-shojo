@@ -91,9 +91,13 @@
       "paragraphs_reviewed": 0
     },
     "rules/fundamentals.md": {
-      "last_reviewed": "2026-02-24T19:35:08Z",
-      "review_count": 2,
-      "paragraphs_reviewed": 0
+      "last_reviewed": "2026-02-25T10:18:46Z",
+      "review_count": 3,
+      "issues_found": 1,
+      "changes_applied": 1,
+      "paragraphs_reviewed": 106,
+      "last_section_reviewed": "### 為什麼要玩？",
+      "resume_from": null
     },
     "rules/character-creation.md": {
       "last_reviewed": "2026-02-24T19:35:08Z",
