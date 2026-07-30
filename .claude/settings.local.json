@@ -14,7 +14,8 @@
       "Bash(wc:*)",
       "Bash(python:*)",
       "Bash(cd /d/Code/trpg-doc/maho-shojo && PYTHONIOENCODING=utf-8 uv run python scripts/retranslate_align.py --target docs/src/content/docs/rules/fundamentals.md 2>&1)",
-      "Bash(uv run:*)"
+      "Bash(uv run:*)",
+      "WebSearch"
     ]
   }
 }
