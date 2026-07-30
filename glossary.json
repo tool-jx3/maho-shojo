@@ -1,7 +1,7 @@
 {
   "_meta": {
     "description": "術語表 - 西班牙語遊戲術語對照繁體中文翻譯",
-    "updated": "2026-02-23T14:46:13+00:00",
+    "updated": "2026-07-30T12:03:40+00:00",
     "source": "MAHO_SHOJO_RN022_EBOOK"
   },
   "Movimiento": {
@@ -1345,5 +1345,37 @@
     "status": "approved",
     "is_term": true,
     "notes": "人偶等級敵人範例"
+  },
+  "El poder de la elegida": {
+    "zh": "天選之力",
+    "notes": "勇者原型的每場聚會一次動作；與「受眷顧者」（Elegida por los Guardianes）為不同動作",
+    "status": "approved",
+    "is_term": true,
+    "forbidden": [
+      "揀選者之力"
+    ]
+  },
+  "elegida de la Luz": {
+    "zh": "光明的受選者",
+    "notes": "光明陣營對魔法少女的稱呼（散文用語）",
+    "status": "approved",
+    "is_term": true,
+    "forbidden": [
+      "光明的被選者",
+      "光明的選民",
+      "選民"
+    ]
+  },
+  "Celestial Sword": {
+    "zh": "天聖之劍",
+    "notes": "範例角色清美的護符（劍）名稱；每頁首次出現以 <ruby> 標註英文原名，後續僅用中文",
+    "status": "approved",
+    "is_term": true
+  },
+  "Celestial Burst": {
+    "zh": "天聖爆裂",
+    "notes": "範例角色清美的標誌性心之力 A（風之劍擊）；每頁首次出現以 <ruby> 標註英文原名，後續僅用中文",
+    "status": "approved",
+    "is_term": true
   }
 }

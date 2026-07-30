@@ -42,5 +42,10 @@
     "decision": "傷痛",
     "alternatives": ["痛苦"],
     "reason": "「痛苦」一般性太強，易與敘事中的一般性描述混淆；「傷痛」更明確指涉遊戲機制中的抽象傷害值"
+  },
+  "ruby_annotation": {
+    "decision": "每頁首次出現時以 <ruby> 標註英文原名，後續僅用中文譯名",
+    "alternatives": ["全部出現處都標註", "整站只標註一次", "不標註"],
+    "reason": "範例角色的護符與招式等英文專有名詞譯成中文後，讀者仍需對照原名；每頁首次標註可兼顧可對照性與散文可讀性。Astro Markdown 支援行內 HTML，格式為 <ruby>中文<rp>（</rp><rt>English</rt><rp>）</rp></ruby>"
   }
 }
