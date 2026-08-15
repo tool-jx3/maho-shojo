@@ -38,6 +38,14 @@ const DISCLAIMER = '非官方繁體中文翻譯｜原作 Rubén Saldaña・Nosol
 
 const CHAPTER_NAMES = ['開場', '第一章', '第二章', '第三章', '結尾'];
 
+// 轉場流星群：o=垂直偏移(vmin)、s=大小倍率、d=延遲(s)、dur=時長(s)
+const SSTARS = [
+	{ o: 0, s: 1, d: 0, dur: 0.8 }, // 主星
+	{ o: -16, s: 0.5, d: 0.1, dur: 0.85 },
+	{ o: 10, s: 0.38, d: 0.18, dur: 0.9 },
+	{ o: 22, s: 0.3, d: 0.26, dur: 0.85 },
+];
+
 // 星光粒子（固定座標，deterministic）
 const STARS = [
 	[8, 12, 2, 0], [22, 78, 3, 1.2], [35, 30, 2, 2.1], [48, 85, 2, 0.6],
@@ -147,6 +155,10 @@ const STARS = [
 				<footer class="disclaimer">{DISCLAIMER}</footer>
 			</section>
 
+			<div class="sstar" id="sstar" aria-hidden="true">
+				{SSTARS.map((s) => <i style={`--o:${s.o}vmin;--s:${s.s};--d:${s.d}s;--dur:${s.dur}s`}></i>)}
+			</div>
+
 			<nav class="dots" aria-label="章節">
 				{CHAPTER_NAMES.map((n, i) => (
 					<button class={i === 0 ? 'dot active' : 'dot'} type="button" data-i={i} aria-label={n}>✦</button>
@@ -184,6 +196,29 @@ const STARS = [
 				setSub(0);
 			}
 
+			const sstar = document.getElementById('sstar');
+			const STAR_DIRS = { 2: 'dir-a', 3: 'dir-b', 4: 'dir-c' };
+			let transitioning = false;
+
+			// 流星轉場：往場景 2／3／4 各由不同方向的流星劃過，中點時切換場景
+			function goto(n) {
+				n = Math.max(0, Math.min(n, last));
+				if (n === current || transitioning) return;
+				const dir = STAR_DIRS[n];
+				if (reduced || !dir || !sstar) {
+					show(n);
+					return;
+				}
+				transitioning = true;
+				// 注意：不可用 className 整段覆寫，會洗掉 Astro 的 scoped class 導致樣式失效
+				sstar.classList.add('run', dir);
+				setTimeout(() => show(n), 400);
+				setTimeout(() => {
+					sstar.classList.remove('run', 'dir-a', 'dir-b', 'dir-c');
+					transitioning = false;
+				}, 1150);
+			}
+
 			// 下一拍：在盟約章內先推進分幕，其餘情況推進場景
 			function next() {
 				if (pactScene instanceof HTMLElement && scenes[current] === pactScene) {
@@ -193,7 +228,7 @@ const STARS = [
 						return;
 					}
 				}
-				if (current < last) show(current + 1);
+				goto(current + 1);
 			}
 
 			// 自動推進：data-subfinal 結束推進分幕、data-final 結束進入下一景
@@ -209,7 +244,7 @@ const STARS = [
 					return;
 				}
 				if (!t.hasAttribute('data-final')) return;
-				if (current < last) show(current + 1);
+				goto(current + 1);
 			});
 
 			// 點擊任意處跳至下一拍（連結、按鈕、指示點除外）
@@ -219,12 +254,12 @@ const STARS = [
 				next();
 			});
 
-			document.getElementById('skip')?.addEventListener('click', () => show(last));
-			dots.forEach((d) => d.addEventListener('click', () => show(Number(d.dataset.i))));
+			document.getElementById('skip')?.addEventListener('click', () => goto(last));
+			dots.forEach((d) => d.addEventListener('click', () => goto(Number(d.dataset.i))));
 
 			document.addEventListener('keydown', (e) => {
 				if (e.key === 'ArrowRight' || e.key === ' ') next();
-				if (e.key === 'ArrowLeft') show(current - 1);
+				if (e.key === 'ArrowLeft') goto(current - 1);
 			});
 
 			// 減少動態偏好：不自動播放，直接顯示內容供手動翻頁
@@ -542,6 +577,69 @@ const STARS = [
 				position: absolute; bottom: 3.4rem; left: 0; right: 0;
 				color: var(--ink-dim); font-size: 0.72rem; letter-spacing: 0.08em;
 				animation: rise 1s ease-out 2.2s backwards;
+			}
+
+			/* ---------- 流星轉場 ---------- */
+			/* 方向由外層旋轉決定，流星一律沿自身 X 軸由 +85vmax 滑向 -85vmax */
+			.sstar {
+				position: absolute; inset: 0;
+				display: none; pointer-events: none; z-index: 20;
+			}
+			.sstar.run { display: block; }
+			.sstar.dir-a { transform: rotate(-35deg); }   /* 右上 → 左下 */
+			.sstar.dir-b { transform: rotate(-145deg); }  /* 左上 → 右下 */
+			.sstar.dir-c { transform: rotate(145deg); }   /* 左下 → 右上 */
+			.sstar i {
+				position: absolute; top: calc(50% + var(--o, 0vmin)); left: 50%;
+				width: 46vmax; height: 3px;
+				margin: -1.5px 0 0 -23vmax;
+				opacity: calc(0.45 + var(--s, 1) * 0.55);
+				border-radius: 999px;
+				background: linear-gradient(
+					to right,
+					#fffdf4,
+					rgba(255, 228, 158, 0.95) 5%,
+					rgba(255, 214, 138, 0.4) 30%,
+					transparent 75%
+				);
+				box-shadow: 0 0 12px rgba(255, 220, 150, 0.8);
+			}
+			.sstar i::before {
+				content: ''; position: absolute;
+				left: -5px; top: 50%; margin-top: -5px;
+				width: 10px; height: 10px; border-radius: 50%;
+				background: #fff;
+				box-shadow: 0 0 18px 6px rgba(255, 235, 180, 0.9);
+			}
+			.sstar i::after {
+				content: ''; position: absolute;
+				left: 0; top: 50%; transform: translateY(-50%);
+				width: 100%; height: 14vmin; border-radius: 50%;
+				background: linear-gradient(to right, rgba(255, 240, 200, 0.22), transparent 70%);
+				filter: blur(12px);
+			}
+			.sstar.run i { animation: sstar-run var(--dur, 0.8s) ease-in-out var(--d, 0s) both; }
+			@keyframes sstar-run {
+				from { transform: translateX(85vmax) scale(var(--s, 1)); }
+				to { transform: translateX(-85vmax) scale(var(--s, 1)); }
+			}
+			/* 淺色底時流星改深紫，否則金白色看不見 */
+			body.light .sstar i {
+				background: linear-gradient(
+					to right,
+					#6c48d8,
+					rgba(124, 91, 214, 0.9) 5%,
+					rgba(124, 91, 214, 0.35) 30%,
+					transparent 75%
+				);
+				box-shadow: 0 0 12px rgba(108, 72, 216, 0.6);
+			}
+			body.light .sstar i::before {
+				background: #5d3fc0;
+				box-shadow: 0 0 18px 6px rgba(124, 91, 214, 0.75);
+			}
+			body.light .sstar i::after {
+				background: linear-gradient(to right, rgba(124, 91, 214, 0.18), transparent 70%);
 			}
 
 			/* ---------- 跳過與指示點 ---------- */
