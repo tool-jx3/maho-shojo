@@ -281,10 +281,12 @@ const STARS = [
 				});
 			}
 
-			// 終幕：六星以 FLIP 飛往總覽色條的展開位置，抵達後換裝、色條掃開
+			// 終幕：六星（固定定位分身）飛往色條起點後不停頓，繼續往內劃過色條寬度、
+			// 與色條掃開同步（星星是劃開色條的筆尖），劃到底淡出
 			function finale() {
 				if (!(archScene instanceof HTMLElement)) return;
 				if (Number(archScene.dataset.sub || '0') !== 7) return;
+				const stage = document.getElementById('stage');
 				const stars = [...archScene.querySelectorAll('.gstar')].sort(
 					(a, b) => Number(a.dataset.k) - Number(b.dataset.k),
 				);
@@ -296,19 +298,39 @@ const STARS = [
 				stars.forEach((star, k) => {
 					const from = starRects[k];
 					const t = slotRects[k];
-					// 目標：色條掃開的起點邊緣（偶數靠左、奇數靠右，與掃入方向一致）
-					const tx = (k % 2 === 0 ? t.left + 12 : t.right - 12) - (from.left + from.width / 2);
-					const ty = t.top + t.height / 2 - (from.top + from.height / 2);
-					star.animate(
-						[{ transform: 'translate(0, 0)' }, { transform: `translate(${tx}px, ${ty}px) scale(1.25)` }],
-						{ duration: 500, delay: 100 + k * 40, easing: 'cubic-bezier(0.4, 0, 0.2, 1)', fill: 'forwards' },
+					const cx = from.left + from.width / 2;
+					const cy = from.top + from.height / 2;
+					// 色條掃開起點與終點（偶數左→右、奇數右→左，與掃入方向一致）
+					const ox = k % 2 === 0 ? t.left + 12 : t.right - 12;
+					const ex = k % 2 === 0 ? t.right - 12 : t.left + 12;
+					const ty = t.top + t.height / 2;
+					const fly = document.createElement('span');
+					fly.className = 'gstar-fly';
+					fly.textContent = '✦';
+					const cs = getComputedStyle(star);
+					fly.style.left = `${from.left}px`;
+					fly.style.top = `${from.top}px`;
+					fly.style.fontSize = cs.fontSize;
+					fly.style.color = cs.color;
+					stage?.appendChild(fly);
+					star.style.visibility = 'hidden';
+					fly.animate(
+						[
+							{ transform: 'translate(0, 0) scale(1)', opacity: 1 },
+							{ transform: `translate(${ox - cx}px, ${ty - cy}px) scale(1.25)`, opacity: 1, offset: 0.5 },
+							{ transform: `translate(${ex - cx}px, ${ty - cy}px) scale(0.7)`, opacity: 0 },
+						],
+						{ duration: 1000, delay: k * 80, easing: 'ease-in-out', fill: 'forwards' },
 					);
 				});
+				// 星星劃過起點的瞬間換裝，色條以相同節奏（0.08s 間隔）跟著星星展開
 				setTimeout(() => {
 					if (Number(archScene.dataset.sub || '0') !== 7) return;
 					archScene.classList.add('finale-bars');
-					stars.forEach((star) => star.getAnimations().forEach((a) => a.cancel()));
-				}, 950);
+				}, 500);
+				setTimeout(() => {
+					document.querySelectorAll('.gstar-fly').forEach((el) => el.remove());
+				}, 1600);
 			}
 
 			function setSub(sc, n) {
@@ -343,8 +365,12 @@ const STARS = [
 				});
 				if (archScene instanceof HTMLElement) {
 					archScene.classList.remove('finale-bars', 'measuring');
-					archScene.querySelectorAll('.gstar').forEach((el) => el.getAnimations().forEach((a) => a.cancel()));
+					archScene.querySelectorAll('.gstar').forEach((el) => {
+						el.style.visibility = '';
+						el.getAnimations().forEach((a) => a.cancel());
+					});
 				}
+				document.querySelectorAll('.gstar-fly').forEach((el) => el.remove());
 				applyTone();
 				updateShelf();
 			}
@@ -641,6 +667,12 @@ const STARS = [
 				0% { transform: scale(0.6); }
 				60% { transform: scale(1.6); }
 				100% { transform: scale(1); }
+			}
+			/* 終幕飛行用的星星分身（固定定位，不受版面換裝影響）。
+			   注意：此元素由 JS 動態建立、沒有 Astro scoped class，必須用 :global 宣告 */
+			:global(.gstar-fly) {
+				position: fixed; z-index: 15; pointer-events: none;
+				text-shadow: 0 0 14px currentColor;
 			}
 			/* 總覽：六星飛抵後展開成六色條，交錯掃入 */
 			.overview { display: none; }
