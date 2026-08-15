@@ -243,15 +243,25 @@ const STARS = [
 					return;
 				}
 				transitioning = true;
-				// 注意：不可用 className 整段覆寫，會洗掉 Astro 的 scoped class 導致樣式失效
-				sstar.classList.add('run', dir);
-				// 扮演書→盟約（往場景 3）改用六色扮演書流星群
-				sstar.classList.toggle('arch', n === 3);
-				setTimeout(() => show(n), 400);
+				// 扮演書→盟約且正在總覽幕：色條先收闔（約 0.65 秒）再放流星
+				const sc = scenes[current];
+				const recap =
+					n === 3 && current === 2 && sc instanceof HTMLElement && Number(sc.dataset.sub || '0') === subLastOf(sc)
+						? sc.querySelector('.bars-recap')
+						: null;
+				if (recap) recap.classList.add('closing');
 				setTimeout(() => {
-					sstar.classList.remove('run', 'arch', 'dir-a', 'dir-b', 'dir-c');
-					transitioning = false;
-				}, 1300);
+					// 注意：不可用 className 整段覆寫，會洗掉 Astro 的 scoped class 導致樣式失效
+					sstar.classList.add('run', dir);
+					// 扮演書→盟約（往場景 3）改用六色扮演書流星群
+					sstar.classList.toggle('arch', n === 3);
+					setTimeout(() => show(n), 400);
+					setTimeout(() => {
+						sstar.classList.remove('run', 'arch', 'dir-a', 'dir-b', 'dir-c');
+						if (recap) recap.classList.remove('closing');
+						transitioning = false;
+					}, 1300);
+				}, recap ? 650 : 0);
 			}
 
 			// 下一拍：在含分幕的場景內先推進分幕，其餘情況推進場景
@@ -545,6 +555,13 @@ const STARS = [
 			.bars-recap .bar { animation-delay: calc(0.1s + var(--i) * 0.1s); }
 			.bars-recap .bar > * { animation-delay: calc(0.4s + var(--i) * 0.1s); }
 			.bars-recap .bar::after { animation-delay: calc(0.45s + var(--i) * 0.1s); }
+			/* 收闔：離開扮演書章時，色條依進場反方向逐條摺回，再化作六色流星 */
+			.bars-recap.closing .bar {
+				animation: bar-out 0.45s cubic-bezier(0.6, 0, 0.8, 0.4) calc(var(--i) * 0.07s) both;
+			}
+			@keyframes bar-out {
+				to { transform: scaleX(0); }
+			}
 
 			.bar h3 {
 				color: #fff; font-size: clamp(1.05rem, 3.2vw, 1.45rem);
