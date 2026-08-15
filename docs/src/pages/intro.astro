@@ -1,0 +1,584 @@
+---
+// ============================================
+// 序章頁文案資料區
+// 想調整任何文字，改這裡即可，不需動下方版面與動畫
+// ============================================
+
+const TITLE_CHARS = '魔法少女';
+const SUBTITLE = '魔法少女 TRPG・Powered by the Apocalypse';
+
+const VERSES = ['勇者、參謀與衛士！', '鬥士、偶像與聖母！', '光明的子女們！'];
+const INTRO_MAIN =
+	'與夥伴一同講述屬於你們的魔法少女故事——對抗逆境、經歷浪漫、享受日常的小小奇蹟，同時試著理解心中甦醒的力量。';
+const INTRO_META = 'PbtA 敘事系統・2d6・2–6 人';
+
+const ARCHETYPES = [
+	{ name: '勇者', move: '受眷顧者', desc: '內心蘊藏巨大潛能，與眾人分享光明的均衡主角。', color: '#e0526b' },
+	{ name: '參謀', move: '天才', desc: '理性至上、先動腦再出手的定海神針。', color: '#5b6ee8' },
+	{ name: '衛士', move: '光之盾', desc: '化身盾牌守護眾人，逆境中愈發堅強。', color: '#3fbf8a' },
+	{ name: '鬥士', move: '戰士之道', desc: '正面迎擊黑暗、不拐彎抹角的行動派。', color: '#f2793f' },
+	{ name: '偶像', move: '超級巨星', desc: '以熱情與人氣為力量的眾人焦點。', color: '#f278b8' },
+	{ name: '聖母', move: '聖光', desc: '與光明深刻連結、不可或缺的支援核心。', color: '#e8c86a' },
+];
+
+const PACTS = [
+	{ name: '光明子女', tone: '經典・日常', desc: '開啟兩個世界之門的鑰匙，著重日常與羈絆的經典故事。', color: '#ffd98a' },
+	{ name: '正義騎士', tone: '王道・戰鬥', desc: '為光明之名而戰，「每週怪物」式的王道節奏。', color: '#7fb8f2' },
+	{ name: '契約傀儡', tone: '現代・陰暗', desc: '與造物締結契約，在陰暗掙扎中避免成為自己所對抗的存在。', color: '#9b6ee8' },
+];
+const FINAL_QUESTION = '你會成為正義的勇者，還是黑暗的傀儡？';
+
+const ENDING_TITLE = '來玩 Mahō Shōjo，一探究竟。';
+const ENDING_LINKS = [
+	{ text: '開始閱讀規則 →', href: '/rules/introduction/', primary: true },
+	{ text: '角色創建', href: '/rules/character-creation/', primary: false },
+	{ text: '回到文件站', href: '/', primary: false },
+];
+const DISCLAIMER = '非官方繁體中文翻譯｜原作 Rubén Saldaña・Nosolorol Ediciones';
+
+const CHAPTER_NAMES = ['開場', '第一章', '第二章', '第三章', '結尾'];
+
+// 星光粒子（固定座標，deterministic）
+const STARS = [
+	[8, 12, 2, 0], [22, 78, 3, 1.2], [35, 30, 2, 2.1], [48, 85, 2, 0.6],
+	[55, 15, 3, 1.8], [67, 62, 2, 0.3], [78, 22, 2, 2.6], [88, 70, 3, 1.5],
+	[15, 50, 2, 3.0], [42, 55, 2, 0.9], [62, 40, 2, 2.4], [93, 38, 2, 0.4],
+	[5, 88, 2, 1.1], [70, 90, 2, 2.9], [28, 8, 2, 1.7], [84, 8, 2, 0.8],
+];
+---
+
+<html lang="zh-TW">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta name="robots" content="noindex, nofollow" />
+		<title>魔法少女──序章</title>
+	</head>
+	<body>
+		<main class="magia" id="stage">
+			<div class="gtone" aria-hidden="true"></div>
+			<div class="stars" aria-hidden="true">
+				{STARS.map(([x, y, s, d]) => (
+					<span style={`left:${x}%;top:${y}%;width:${s}px;height:${s}px;animation-delay:${d}s`} />
+				))}
+			</div>
+
+			<button id="skip" type="button">跳過 ≫</button>
+
+			<!-- 場景 0：開場動畫 -->
+			<section class="scene scene-open active" data-chapter="0">
+				<div class="mcircle">
+					<div class="ring ring1"></div>
+					<div class="ring ring2"></div>
+					<div class="core"></div>
+				</div>
+				<p class="romaji">Mahō Shōjo</p>
+				<h1 class="title">
+					{TITLE_CHARS.split('').map((c, i) => (
+						<span class="char" style={`--i:${i}`}>{c}</span>
+					))}
+				</h1>
+				<p class="sub">{SUBTITLE}</p>
+				<i class="flash" data-final></i>
+			</section>
+
+			<!-- 場景 1：第一章「光明的子女們」 -->
+			<section class="scene scene-verse" data-chapter="1">
+				<div class="verse">
+					{VERSES.map((v, i) => (
+						<p class="verse-line" style={`--i:${i}`}>{v}</p>
+					))}
+				</div>
+				<p class="divider" aria-hidden="true">✦</p>
+				<p class="main-text">{INTRO_MAIN}</p>
+				<p class="meta-text">{INTRO_META}</p>
+				<i class="hold" data-final style="animation-duration:9.5s"></i>
+			</section>
+
+			<!-- 場景 2：第二章「六大原型」 -->
+			<section class="scene scene-arch" data-chapter="2">
+				<h2 class="scene-h">六大原型</h2>
+				<div class="cards">
+					{ARCHETYPES.map((a, i) => (
+						<article class="card" style={`--ac:${a.color};--i:${i}`}>
+							<h3>{a.name}</h3>
+							<p class="move">招牌動作・{a.move}</p>
+							<p class="desc">{a.desc}</p>
+						</article>
+					))}
+				</div>
+				<i class="hold" data-final style="animation-duration:9s"></i>
+			</section>
+
+			<!-- 場景 3：第三章「盟約」（分幕：標題消散 → 三種盟約各自登場 → 問句） -->
+			<section class="scene scene-pact" data-chapter="3" data-sub="0">
+				{PACTS.map((_, i) => <div class={`tone tone-${i + 1}`} aria-hidden="true"></div>)}
+				<div class="pact-phase" data-phase="0">
+					<h2 class="pact-word">盟約</h2>
+					<i class="hold" data-subfinal style="animation-duration:4.2s"></i>
+				</div>
+				{PACTS.map((p, i) => (
+					<div class="pact-phase" data-phase={i + 1} style={`--pc:${p.color}`}>
+						<h3 class="pact-name">{p.name}</h3>
+						<p class="pact-tone">{p.tone}</p>
+						<p class="pact-desc">{p.desc}</p>
+						<i class="hold" data-subfinal style="animation-duration:6.5s"></i>
+					</div>
+				))}
+				<div class="pact-phase" data-phase="4">
+					<p class="question">{FINAL_QUESTION}</p>
+					<i class="hold" data-final style="animation-duration:5s"></i>
+				</div>
+			</section>
+
+			<!-- 場景 4：結尾首頁 -->
+			<section class="scene scene-home" data-chapter="4">
+				<div class="mcircle mcircle-bg" aria-hidden="true">
+					<div class="ring ring1"></div>
+					<div class="ring ring2"></div>
+				</div>
+				<h2 class="ending">{ENDING_TITLE}</h2>
+				<p class="tagline">{SUBTITLE}</p>
+				<nav class="actions">
+					{ENDING_LINKS.map((l) => (
+						<a class={l.primary ? 'btn btn-primary' : 'btn'} href={l.href}>{l.text}</a>
+					))}
+				</nav>
+				<footer class="disclaimer">{DISCLAIMER}</footer>
+			</section>
+
+			<nav class="dots" aria-label="章節">
+				{CHAPTER_NAMES.map((n, i) => (
+					<button class={i === 0 ? 'dot active' : 'dot'} type="button" data-i={i} aria-label={n}>✦</button>
+				))}
+			</nav>
+		</main>
+
+		<script>
+			const scenes = [...document.querySelectorAll('.scene')];
+			const dots = [...document.querySelectorAll('.dot')];
+			const last = scenes.length - 1;
+			const reduced = matchMedia('(prefers-reduced-motion: reduce)').matches;
+			const pactScene = document.querySelector('.scene-pact');
+			const pactLast = pactScene ? pactScene.querySelectorAll('.pact-phase').length - 1 : 0;
+			let current = 0;
+
+			// 淺色調：場景 1、2 與盟約章前兩幕（盟約標題、光明子女）為淺色，
+			// 之後隨正義騎士、契約傀儡逐漸轉暗回夜色
+			function applyTone() {
+				const sub = pactScene instanceof HTMLElement ? Number(pactScene.dataset.sub || '0') : 0;
+				const light = current === 1 || current === 2 || (current === 3 && sub <= 1);
+				document.body.classList.toggle('light', light);
+			}
+
+			function setSub(n) {
+				if (pactScene instanceof HTMLElement) pactScene.dataset.sub = String(n);
+				applyTone();
+			}
+
+			function show(n) {
+				current = Math.max(0, Math.min(n, last));
+				scenes.forEach((s, i) => s.classList.toggle('active', i === current));
+				dots.forEach((d, i) => d.classList.toggle('active', i === current));
+				document.body.classList.toggle('at-end', current === last);
+				setSub(0);
+			}
+
+			// 下一拍：在盟約章內先推進分幕，其餘情況推進場景
+			function next() {
+				if (pactScene instanceof HTMLElement && scenes[current] === pactScene) {
+					const s = Number(pactScene.dataset.sub || '0');
+					if (s < pactLast) {
+						setSub(s + 1);
+						return;
+					}
+				}
+				if (current < last) show(current + 1);
+			}
+
+			// 自動推進：data-subfinal 結束推進分幕、data-final 結束進入下一景
+			document.addEventListener('animationend', (e) => {
+				if (reduced) return;
+				const t = e.target;
+				if (!(t instanceof HTMLElement) || t.closest('.scene') !== scenes[current]) return;
+				if (t.hasAttribute('data-subfinal')) {
+					if (pactScene instanceof HTMLElement) {
+						const s = Number(pactScene.dataset.sub || '0');
+						if (s < pactLast) setSub(s + 1);
+					}
+					return;
+				}
+				if (!t.hasAttribute('data-final')) return;
+				if (current < last) show(current + 1);
+			});
+
+			// 點擊任意處跳至下一拍（連結、按鈕、指示點除外）
+			document.getElementById('stage')?.addEventListener('click', (e) => {
+				const t = e.target;
+				if (t instanceof HTMLElement && t.closest('a, button')) return;
+				next();
+			});
+
+			document.getElementById('skip')?.addEventListener('click', () => show(last));
+			dots.forEach((d) => d.addEventListener('click', () => show(Number(d.dataset.i))));
+
+			document.addEventListener('keydown', (e) => {
+				if (e.key === 'ArrowRight' || e.key === ' ') next();
+				if (e.key === 'ArrowLeft') show(current - 1);
+			});
+
+			// 減少動態偏好：不自動播放，直接顯示內容供手動翻頁
+			if (reduced) show(0);
+		</script>
+
+		<style>
+			:root {
+				--night: #12102a;
+				--night-2: #1d1640;
+				--star: #ffd98a;
+				--ink: #f4eefe;
+				--ink-dim: #b9aed6;
+			}
+			* { margin: 0; padding: 0; box-sizing: border-box; }
+			html, body { height: 100%; }
+			body {
+				background: radial-gradient(ellipse at 50% 30%, var(--night-2), var(--night) 70%);
+				color: var(--ink);
+				font-family: 'Segoe UI', 'Noto Sans TC', 'Microsoft JhengHei', system-ui, sans-serif;
+				overflow: hidden;
+			}
+			.magia { position: fixed; inset: 0; }
+
+			/* ---------- 全域色調（場景 1、2 與盟約前段的淺色） ---------- */
+			.gtone {
+				position: absolute; inset: 0; opacity: 0; pointer-events: none;
+				background: radial-gradient(ellipse at 50% 30%, #fbf3e6, #e9def4 72%);
+				transition: opacity 1.2s ease;
+			}
+			/* 進入淺色段落時瞬間切換（承接開場白光）；離開時緩慢淡出轉暗 */
+			body.light .gtone { opacity: 1; transition-duration: 0s; }
+			body.light { --ink: #2f2444; --ink-dim: #6d5f8a; --star: #a97e12; }
+			body.light .verse-line { text-shadow: 0 0 12px rgba(176, 130, 20, 0.25); }
+			body.light .card { background: color-mix(in srgb, var(--ac) 10%, rgba(255, 255, 255, 0.55)); }
+			body.light .card h3 { filter: saturate(1.2) brightness(0.72); }
+			body.light .pact-word { text-shadow: 0 0 20px rgba(176, 130, 20, 0.4); }
+			body.light .pact-name { color: #a06d0e; text-shadow: 0 0 18px rgba(176, 130, 20, 0.35); }
+			body.light #skip { border-color: rgba(47, 36, 68, 0.35); }
+			body.light .dot { color: rgba(47, 36, 68, 0.3); }
+
+			/* ---------- 星光粒子 ---------- */
+			.stars { position: absolute; inset: 0; pointer-events: none; }
+			.stars span {
+				position: absolute; border-radius: 50%;
+				background: var(--star);
+				box-shadow: 0 0 6px 1px rgba(255, 217, 138, 0.7);
+				animation: twinkle 3.2s ease-in-out infinite;
+			}
+			@keyframes twinkle {
+				0%, 100% { opacity: 0.15; transform: scale(0.7); }
+				50% { opacity: 0.9; transform: scale(1); }
+			}
+
+			/* ---------- 場景共通 ---------- */
+			.scene {
+				position: absolute; inset: 0;
+				display: none;
+				flex-direction: column; align-items: center; justify-content: center;
+				gap: 1rem; padding: 2rem 1.25rem 4.5rem;
+				text-align: center; overflow-y: auto;
+				cursor: pointer;
+			}
+			.scene.active { display: flex; }
+			.scene-h {
+				font-size: clamp(1.6rem, 4.5vw, 2.4rem);
+				letter-spacing: 0.35em; text-indent: 0.35em;
+				color: var(--star); font-weight: 600;
+				animation: rise 0.8s ease-out 0.2s backwards;
+			}
+			.hold { position: absolute; opacity: 0; animation: holdanim linear both; pointer-events: none; }
+			@keyframes holdanim { from { opacity: 0; } to { opacity: 0; } }
+			@keyframes rise {
+				from { opacity: 0; transform: translateY(18px); }
+				to { opacity: 1; transform: translateY(0); }
+			}
+
+			/* ---------- 魔法陣 ---------- */
+			.mcircle {
+				position: relative;
+				width: min(64vmin, 380px); aspect-ratio: 1;
+				animation: bloom 2s ease-out backwards;
+			}
+			@keyframes bloom {
+				from { opacity: 0; transform: scale(0.1) rotate(-120deg); }
+				to { opacity: 1; transform: scale(1) rotate(0deg); }
+			}
+			.ring { position: absolute; border-radius: 50%; }
+			.ring1 {
+				inset: 0;
+				border: 1px solid rgba(255, 217, 138, 0.85);
+				box-shadow: 0 0 28px rgba(255, 217, 138, 0.28), inset 0 0 28px rgba(255, 217, 138, 0.16);
+				animation: spin 28s linear infinite;
+			}
+			.ring1::before {
+				content: ''; position: absolute; inset: 5%;
+				border: 1px dashed rgba(255, 217, 138, 0.5); border-radius: 50%;
+			}
+			.ring2 {
+				inset: 15%;
+				border: 2px solid rgba(244, 238, 254, 0.32);
+				animation: spin-rev 40s linear infinite;
+			}
+			.ring2::before, .ring2::after {
+				content: '✦'; position: absolute; color: var(--star);
+				font-size: 0.9rem; text-shadow: 0 0 8px var(--star);
+			}
+			.ring2::before { top: -0.6rem; left: 50%; transform: translateX(-50%); }
+			.ring2::after { bottom: -0.6rem; left: 50%; transform: translateX(-50%); }
+			.core {
+				position: absolute; inset: 42%;
+				border-radius: 50%;
+				background: radial-gradient(circle, rgba(255, 217, 138, 0.9), rgba(255, 217, 138, 0) 70%);
+				animation: pulse 2.6s ease-in-out infinite;
+			}
+			@keyframes spin { to { transform: rotate(360deg); } }
+			@keyframes spin-rev { to { transform: rotate(-360deg); } }
+			@keyframes pulse {
+				0%, 100% { transform: scale(0.85); opacity: 0.7; }
+				50% { transform: scale(1.1); opacity: 1; }
+			}
+
+			/* ---------- 場景 0：開場 ---------- */
+			.scene-open { gap: 0.4rem; }
+			.scene-open .mcircle { position: absolute; z-index: -1; opacity: 0.55; }
+			.romaji {
+				font-family: Georgia, 'Times New Roman', serif;
+				font-style: italic; letter-spacing: 0.3em;
+				color: var(--ink-dim); font-size: clamp(1rem, 3vw, 1.3rem);
+				animation: rise 0.9s ease-out 1.2s backwards;
+			}
+			.title { display: flex; gap: 0.35em; font-weight: 700; }
+			.char {
+				font-size: clamp(2.6rem, 10vw, 4.6rem);
+				color: var(--ink);
+				text-shadow: 0 0 18px rgba(255, 217, 138, 0.65), 0 0 42px rgba(255, 217, 138, 0.35);
+				animation: char-in 0.7s cubic-bezier(0.2, 0.8, 0.3, 1.2) calc(1.9s + var(--i) * 0.3s) backwards;
+			}
+			@keyframes char-in {
+				from { opacity: 0; transform: translateY(26px) scale(1.5); filter: blur(6px); }
+				to { opacity: 1; transform: translateY(0) scale(1); filter: blur(0); }
+			}
+			.sub {
+				color: var(--ink-dim); letter-spacing: 0.14em;
+				font-size: clamp(0.8rem, 2.4vw, 1rem);
+				animation: rise 0.9s ease-out 3.4s backwards;
+			}
+			.flash {
+				position: absolute; inset: 0; background: #fbf3e6;
+				opacity: 0; pointer-events: none;
+				animation: flash 0.9s ease-in 5.6s forwards;
+			}
+			@keyframes flash {
+				from { opacity: 0; }
+				to { opacity: 1; }
+			}
+
+			/* ---------- 場景 1：詩句 ---------- */
+			.verse-line {
+				font-size: clamp(1.35rem, 5vw, 2.1rem);
+				font-weight: 600; letter-spacing: 0.22em;
+				line-height: 2;
+				text-shadow: 0 0 14px rgba(255, 217, 138, 0.4);
+				animation: rise 1s ease-out calc(0.4s + var(--i) * 1.2s) backwards;
+			}
+			.divider { color: var(--star); animation: rise 0.8s ease-out 4s backwards; }
+			.main-text {
+				max-width: 34em; line-height: 2;
+				color: var(--ink); font-size: clamp(0.95rem, 2.8vw, 1.1rem);
+				animation: rise 1.2s ease-out 4.6s backwards;
+			}
+			.meta-text {
+				color: var(--star); letter-spacing: 0.18em;
+				font-size: clamp(0.8rem, 2.4vw, 0.95rem);
+				animation: rise 1s ease-out 5.8s backwards;
+			}
+
+			/* ---------- 場景 2：原型卡 ---------- */
+			.cards {
+				display: grid; grid-template-columns: repeat(3, minmax(0, 1fr));
+				gap: clamp(0.6rem, 2vw, 1.1rem);
+				width: min(880px, 100%);
+			}
+			.card {
+				border: 1px solid color-mix(in srgb, var(--ac) 55%, transparent);
+				border-radius: 12px;
+				padding: clamp(0.7rem, 2vw, 1.1rem);
+				background: color-mix(in srgb, var(--ac) 10%, rgba(255, 255, 255, 0.03));
+				box-shadow: 0 0 18px color-mix(in srgb, var(--ac) 22%, transparent);
+				animation: card-in 0.6s ease-out calc(0.9s + var(--i) * 0.4s) backwards;
+			}
+			@keyframes card-in {
+				from { opacity: 0; transform: translateY(20px) scale(0.92); }
+				to { opacity: 1; transform: translateY(0) scale(1); }
+			}
+			.card h3 {
+				color: var(--ac); font-size: clamp(1.1rem, 3.4vw, 1.5rem);
+				letter-spacing: 0.28em; text-indent: 0.28em;
+				text-shadow: 0 0 12px color-mix(in srgb, var(--ac) 60%, transparent);
+			}
+			.card .move {
+				margin-top: 0.3rem;
+				color: var(--ink-dim); font-size: clamp(0.7rem, 2vw, 0.8rem); letter-spacing: 0.08em;
+			}
+			.card .desc {
+				margin-top: 0.45rem; line-height: 1.7;
+				font-size: clamp(0.75rem, 2.2vw, 0.9rem); color: var(--ink);
+			}
+
+			/* ---------- 場景 3：盟約（分幕） ---------- */
+			/* 色調層：隨分幕交叉淡入（1 暖光／2 晴空／3 暗紫） */
+			.tone {
+				position: absolute; inset: 0; opacity: 0;
+				transition: opacity 1.2s ease; pointer-events: none;
+			}
+			/* 漸暗曲線：淺色 → 暖光（亮）→ 暮空（中）→ 暗紫 → 夜色 */
+			.tone-1 { background: radial-gradient(ellipse at 50% 35%, #ffe9c4, #e8c98f 78%); }
+			.tone-2 { background: radial-gradient(ellipse at 50% 35%, #47749f, #16263f 78%); }
+			.tone-3 { background: radial-gradient(ellipse at 50% 35%, #3d2064, #130a21 78%); }
+			.scene-pact[data-sub='1'] .tone-1 { opacity: 1; }
+			.scene-pact[data-sub='2'] .tone-2 { opacity: 1; }
+			.scene-pact[data-sub='3'] .tone-3 { opacity: 1; }
+			.scene-pact[data-sub='4'] .tone-3 { opacity: 0.45; }
+
+			.pact-phase {
+				display: none; position: relative;
+				flex-direction: column; align-items: center; gap: 0.7rem;
+			}
+			.scene-pact[data-sub='0'] [data-phase='0'],
+			.scene-pact[data-sub='1'] [data-phase='1'],
+			.scene-pact[data-sub='2'] [data-phase='2'],
+			.scene-pact[data-sub='3'] [data-phase='3'],
+			.scene-pact[data-sub='4'] [data-phase='4'] { display: flex; }
+
+			.pact-word {
+				font-size: clamp(2.2rem, 8vw, 3.6rem); font-weight: 700;
+				color: var(--star);
+				letter-spacing: 0.5em; text-indent: 0.5em;
+				text-shadow: 0 0 26px rgba(255, 217, 138, 0.6);
+				animation:
+					word-in 1.2s ease-out 0.3s backwards,
+					dissolve 1.4s ease-in 2.6s forwards;
+			}
+			@keyframes word-in {
+				from { opacity: 0; letter-spacing: 1em; filter: blur(8px); }
+			}
+			@keyframes dissolve {
+				to { opacity: 0; letter-spacing: 1.1em; filter: blur(12px); transform: scale(1.12); }
+			}
+			.pact-name {
+				font-size: clamp(1.8rem, 6.5vw, 3rem); font-weight: 700;
+				color: var(--pc);
+				letter-spacing: 0.3em; text-indent: 0.3em;
+				text-shadow: 0 0 22px color-mix(in srgb, var(--pc) 65%, transparent);
+				animation: rise 1s ease-out 0.5s backwards;
+			}
+			.pact-tone {
+				color: var(--ink-dim); letter-spacing: 0.3em; text-indent: 0.3em;
+				font-size: clamp(0.8rem, 2.4vw, 0.95rem);
+				animation: rise 1s ease-out 1.2s backwards;
+			}
+			.pact-desc {
+				max-width: 30em; line-height: 2;
+				font-size: clamp(0.95rem, 2.8vw, 1.15rem);
+				animation: rise 1.2s ease-out 1.9s backwards;
+			}
+			.question {
+				font-size: clamp(1.05rem, 3.6vw, 1.5rem); font-weight: 600;
+				letter-spacing: 0.1em;
+				color: var(--star);
+				text-shadow: 0 0 16px rgba(255, 217, 138, 0.55);
+				animation: glow-in 1.6s ease-out 0.5s backwards;
+			}
+			@keyframes glow-in {
+				from { opacity: 0; letter-spacing: 0.45em; filter: blur(4px); }
+				to { opacity: 1; letter-spacing: 0.1em; filter: blur(0); }
+			}
+
+			/* ---------- 場景 4：結尾 ---------- */
+			.scene-home { cursor: default; }
+			.mcircle-bg {
+				position: absolute; z-index: -1; opacity: 0.16;
+				width: min(90vmin, 560px);
+				animation: none;
+			}
+			.ending {
+				font-size: clamp(1.5rem, 5vw, 2.3rem); font-weight: 700;
+				letter-spacing: 0.12em;
+				text-shadow: 0 0 20px rgba(255, 217, 138, 0.5);
+				animation: rise 1s ease-out 0.3s backwards;
+			}
+			.tagline {
+				color: var(--ink-dim); letter-spacing: 0.14em;
+				font-size: clamp(0.8rem, 2.4vw, 0.95rem);
+				animation: rise 1s ease-out 1s backwards;
+			}
+			.actions {
+				display: flex; flex-wrap: wrap; gap: 0.8rem; justify-content: center;
+				margin-top: 0.8rem;
+				animation: rise 1s ease-out 1.6s backwards;
+			}
+			.btn {
+				display: inline-block; padding: 0.65rem 1.5rem;
+				border: 1px solid rgba(255, 217, 138, 0.6); border-radius: 999px;
+				color: var(--ink); text-decoration: none;
+				letter-spacing: 0.1em; font-size: clamp(0.85rem, 2.6vw, 1rem);
+				transition: background 0.25s, box-shadow 0.25s, transform 0.25s;
+			}
+			.btn:hover { box-shadow: 0 0 16px rgba(255, 217, 138, 0.4); transform: translateY(-2px); }
+			.btn-primary {
+				background: linear-gradient(135deg, rgba(255, 217, 138, 0.92), rgba(242, 120, 184, 0.85));
+				border-color: transparent; color: #241536; font-weight: 700;
+			}
+			.disclaimer {
+				position: absolute; bottom: 3.4rem; left: 0; right: 0;
+				color: var(--ink-dim); font-size: 0.72rem; letter-spacing: 0.08em;
+				animation: rise 1s ease-out 2.2s backwards;
+			}
+
+			/* ---------- 跳過與指示點 ---------- */
+			#skip {
+				position: absolute; top: 1rem; right: 1.2rem; z-index: 10;
+				background: none; border: 1px solid rgba(244, 238, 254, 0.35); border-radius: 999px;
+				color: var(--ink-dim); font-size: 0.8rem; letter-spacing: 0.1em;
+				padding: 0.35rem 0.9rem; cursor: pointer;
+				transition: color 0.25s, border-color 0.25s;
+			}
+			#skip:hover { color: var(--star); border-color: var(--star); }
+			body.at-end #skip { display: none; }
+			.dots {
+				position: absolute; bottom: 1.1rem; left: 0; right: 0; z-index: 10;
+				display: flex; gap: 0.9rem; justify-content: center;
+			}
+			.dot {
+				background: none; border: none; cursor: pointer;
+				color: rgba(244, 238, 254, 0.3); font-size: 0.85rem;
+				transition: color 0.25s, transform 0.25s, text-shadow 0.25s;
+			}
+			.dot:hover { color: var(--ink-dim); }
+			.dot.active {
+				color: var(--star); transform: scale(1.35);
+				text-shadow: 0 0 10px var(--star);
+			}
+
+			/* ---------- RWD ---------- */
+			@media (max-width: 640px) {
+				.cards { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+			}
+
+			/* ---------- 減少動態 ---------- */
+			@media (prefers-reduced-motion: reduce) {
+				*, *::before, *::after { animation: none !important; transition: none !important; }
+				.flash { display: none; }
+			}
+		</style>
+	</body>
+</html>
