@@ -299,7 +299,10 @@ const STARS = [
 			body.light .pact-word { text-shadow: 0 0 20px rgba(176, 130, 20, 0.4); }
 			body.light .pact-name { color: #a06d0e; text-shadow: 0 0 18px rgba(176, 130, 20, 0.35); }
 			body.light #skip { border-color: rgba(47, 36, 68, 0.35); }
-			body.light .dot { color: rgba(47, 36, 68, 0.3); }
+			/* 淺色底時章節指示星改深紫（含 hover 與當前章）；背景轉暗即自動回復原本淺色 */
+			body.light .dot { color: rgba(74, 47, 143, 0.45); }
+			body.light .dot:hover { color: #5d3fc0; }
+			body.light .dot.active { color: #4a2f8f; text-shadow: 0 0 10px rgba(93, 63, 192, 0.55); }
 
 			/* ---------- 星光粒子 ---------- */
 			.stars { position: absolute; inset: 0; pointer-events: none; }
