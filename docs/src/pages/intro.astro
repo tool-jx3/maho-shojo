@@ -712,14 +712,18 @@ const STARS = [
 			.stage-spot {
 				position: relative;
 				display: grid; place-items: center;
-				height: clamp(200px, 32vh, 280px);
-				flex: 1; max-width: 640px; min-width: 0;
+				height: clamp(220px, 34vh, 300px);
+				flex: 1; max-width: 780px; min-width: 0;
 			}
-			.stage-spot .spot { grid-area: 1 / 1; display: none; width: 100%; }
-			.stage-spot .spot.on { display: block; }
+			/* 面板一律撐滿舞台固定高度，內容垂直置中——六本高度一致 */
+			.stage-spot .spot {
+				grid-area: 1 / 1; display: none; width: 100%; height: 100%;
+				flex-direction: column; justify-content: center; align-items: center;
+			}
+			.stage-spot .spot.on { display: flex; }
 			/* 退場：反向往入場方向摺回（同時點亮該側幽靈星） */
 			.stage-spot .spot.out {
-				display: block; z-index: 1; pointer-events: none;
+				display: flex; z-index: 1; pointer-events: none;
 				animation: spot-fold 0.45s cubic-bezier(0.6, 0, 0.8, 0.4) both;
 			}
 			@keyframes spot-fold {
