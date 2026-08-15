@@ -13,13 +13,44 @@ const INTRO_MAIN =
 const INTRO_META = 'PbtA 敘事系統・2d6・2–6 人';
 
 // 配色取自規則書各原型標題字（color→color2 為色塊漸層兩端）
+// desc＝總覽色條的一句話；intro＝聚光燈單獨呈現時的完整介紹（取材自規則書原型章）
 const ARCHETYPES = [
-	{ name: '勇者', move: '受眷顧者', desc: '內心蘊藏巨大潛能，與眾人分享光明的主角。', color: '#4790aa', color2: '#26607b' }, // La Campeona 藍綠
-	{ name: '參謀', move: '天才', desc: '理性至上、先動腦再出手的謀士。', color: '#7c34a6', color2: '#45175e' }, // La Consejera 深紫
-	{ name: '衛士', move: '光之盾', desc: '化身盾牌守護眾人，逆境中愈發堅強。', color: '#8f3da0', color2: '#c22f57' }, // La Guardiana 紫→緋紅
-	{ name: '鬥士', move: '戰士之道', desc: '正面迎擊黑暗、不拐彎抹角的行動派。', color: '#d63a4a', color2: '#2b9e8f' }, // La Guerrera 紅→藍綠
-	{ name: '偶像', move: '超級巨星', desc: '以熱情與人氣為力量的眾人焦點。', color: '#d066c0', color2: '#8f4b9e' }, // La Idol 粉紫
-	{ name: '聖母', move: '聖光', desc: '與光明深刻連結、不可或缺的支援核心。', color: '#97b0cd', color2: '#52719c' }, // La Sanadora 銀藍
+	{
+		name: '勇者', move: '受眷顧者',
+		desc: '內心蘊藏巨大潛能，與眾人分享光明的主角。',
+		intro: '因心中蘊藏的巨大潛能而被選中，傳說中最強的魔法少女。她永遠相信他人，毫不猶豫走上對抗黑暗之路——因為與夥伴同行，才能把內心的光分享給全世界。',
+		color: '#4790aa', color2: '#26607b',
+	}, // La Campeona 藍綠
+	{
+		name: '參謀', move: '天才',
+		desc: '理性至上、先動腦再出手的謀士。',
+		intro: '不被情緒牽著走，永遠把理性放在首位。她研究黑暗、擬定策略、預見一切，是維繫團隊凝聚與專注的中樞——只是當感情介入時，天才也會犯錯。',
+		color: '#7c34a6', color2: '#45175e',
+	}, // La Consejera 深紫
+	{
+		name: '衛士', move: '光之盾',
+		desc: '化身盾牌守護眾人，逆境中愈發堅強。',
+		intro: '下定決心阻止世界的苦難，挺身化為眾人之盾。你永遠可以信賴她會在那裡，伸出手讓你重新站起；而她也將學會，守護世界的重擔不必獨自承受。',
+		color: '#8f3da0', color2: '#c22f57',
+	}, // La Guardiana 紫→緋紅
+	{
+		name: '鬥士', move: '戰士之道',
+		desc: '正面迎擊黑暗、不拐彎抹角的行動派。',
+		intro: '以最直接的方式迎擊黑暗，不耍花招、不拐彎抹角。她的果斷與魅力激勵著身邊所有人全力以赴——雖然那份驕傲，偶爾也讓她顯得笨拙。',
+		color: '#d63a4a', color2: '#2b9e8f',
+	}, // La Guerrera 紅→藍綠
+	{
+		name: '偶像', move: '超級巨星',
+		desc: '以熱情與人氣為力量的眾人焦點。',
+		intro: '站在聚光燈下的眾人焦點，敏銳得超乎表面。她的力量源自強烈的情感，能理解他人所忽視的心緒——以熱情為動力，即使在最絕望的時刻也能歌唱著取勝。',
+		color: '#d066c0', color2: '#8f4b9e',
+	}, // La Idol 粉紫
+	{
+		name: '聖母', move: '聖光',
+		desc: '與光明深刻連結、不可或缺的支援核心。',
+		intro: '擁有深刻連結內心與光明的豐富靈魂，沉穩寧靜、知道何時該行動。她以微笑守望夥伴，在朋友們面對黑暗時，成為不可或缺的支柱——即使重擔總是獨自承受。',
+		color: '#97b0cd', color2: '#52719c',
+	}, // La Sanadora 銀藍
 ];
 
 const PACTS = [
@@ -131,7 +162,7 @@ const STARS = [
 								<article class={i % 2 ? 'spot spot-r' : 'spot'} style={`--ac:${a.color};--ac2:${a.color2}`}>
 									<h3>{a.name}</h3>
 									<p class="move">{a.move}</p>
-									<p class="desc">{a.desc}</p>
+									<p class="desc">{a.intro}</p>
 								</article>
 							))}
 						</div>
@@ -155,7 +186,7 @@ const STARS = [
 				</div>
 				{ARCHETYPES.map((_, i) => (
 					<div class="sub-phase" data-phase={i + 1}>
-						<i class="hold" data-subfinal style="animation-duration:4s"></i>
+						<i class="hold" data-subfinal style="animation-duration:6s"></i>
 					</div>
 				))}
 				<div class="sub-phase" data-phase="7">
