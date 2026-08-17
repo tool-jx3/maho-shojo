@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-470 -260 940 620" width="940" height="620">
+  <defs><linearGradient id="hg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f68cc4"/><stop offset="1" stop-color="#7c5bd6"/></linearGradient><linearGradient id="cg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f4d582"/><stop offset="1" stop-color="#cf9b2e"/></linearGradient><linearGradient id="sg-0" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#4790aa"/><stop offset="1" stop-color="#26607b"/></linearGradient><linearGradient id="sg-2" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#8f3da0"/><stop offset="1" stop-color="#c22f57"/></linearGradient><linearGradient id="sg-4" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#d066c0"/><stop offset="1" stop-color="#8f4b9e"/></linearGradient><linearGradient id="sg-1" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7c34a6"/><stop offset="1" stop-color="#45175e"/></linearGradient><linearGradient id="sg-3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#d63a4a"/><stop offset="1" stop-color="#2b9e8f"/></linearGradient><linearGradient id="sg-5" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#97b0cd"/><stop offset="1" stop-color="#52719c"/></linearGradient></defs>
+  <polygon points="-285.0,-121.0 -278.4,-101.6 -259.0,-95.0 -278.4,-88.4 -285.0,-69.0 -291.6,-88.4 -311.0,-95.0 -291.6,-101.6" fill="url(#sg-0)" opacity="1.0"/><polygon points="-345.0,25.0 -339.9,39.9 -325.0,45.0 -339.9,50.1 -345.0,65.0 -350.1,50.1 -365.0,45.0 -350.1,39.9" fill="url(#sg-2)" opacity="1.0"/><polygon points="-265.0,162.0 -259.1,179.1 -242.0,185.0 -259.1,190.9 -265.0,208.0 -270.9,190.9 -288.0,185.0 -270.9,179.1" fill="url(#sg-4)" opacity="1.0"/><polygon points="285.0,-121.0 291.6,-101.6 311.0,-95.0 291.6,-88.4 285.0,-69.0 278.4,-88.4 259.0,-95.0 278.4,-101.6" fill="url(#sg-1)" opacity="1.0"/><polygon points="345.0,25.0 350.1,39.9 365.0,45.0 350.1,50.1 345.0,65.0 339.9,50.1 325.0,45.0 339.9,39.9" fill="url(#sg-3)" opacity="1.0"/><polygon points="265.0,162.0 270.9,179.1 288.0,185.0 270.9,190.9 265.0,208.0 259.1,190.9 242.0,185.0 259.1,179.1" fill="url(#sg-5)" opacity="1.0"/>
+  <g transform="translate(0,20)">
+<path d="M 2,-128 C 20,-148 42,-150 54,-136 C 64,-124 64,-100 54,-80" fill="none" stroke="#a87b1c" stroke-width="16" stroke-linecap="round"/>
+<path d="M -2,-128 C -20,-148 -42,-150 -54,-136 C -64,-124 -64,-100 -54,-80" fill="none" stroke="#a87b1c" stroke-width="16" stroke-linecap="round"/>
+<path d="M 1,-116 C 12,-126 24,-122 27,-108 C 29,-94 25,-82 19,-74" fill="none" stroke="#a87b1c" stroke-width="14" stroke-linecap="round"/>
+<path d="M -1,-116 C -12,-126 -24,-122 -27,-108 C -29,-94 -25,-82 -19,-74" fill="none" stroke="#a87b1c" stroke-width="14" stroke-linecap="round"/>
+<path d="M 0,-74 L 0,-150" fill="none" stroke="#a87b1c" stroke-width="17" stroke-linecap="round"/>
+<path d="M 2,-128 C 20,-148 42,-150 54,-136 C 64,-124 64,-100 54,-80" fill="none" stroke="url(#cg)" stroke-width="11" stroke-linecap="round"/>
+<path d="M -2,-128 C -20,-148 -42,-150 -54,-136 C -64,-124 -64,-100 -54,-80" fill="none" stroke="url(#cg)" stroke-width="11" stroke-linecap="round"/>
+<path d="M 1,-116 C 12,-126 24,-122 27,-108 C 29,-94 25,-82 19,-74" fill="none" stroke="url(#cg)" stroke-width="9" stroke-linecap="round"/>
+<path d="M -1,-116 C -12,-126 -24,-122 -27,-108 C -29,-94 -25,-82 -19,-74" fill="none" stroke="url(#cg)" stroke-width="9" stroke-linecap="round"/>
+<path d="M 0,-74 L 0,-150" fill="none" stroke="url(#cg)" stroke-width="12" stroke-linecap="round"/>
+<path d="M -13,-176 A 16 16 0 1 0 13,-176 A 14 14 0 0 1 -13,-176 Z" fill="url(#cg)" stroke="#a87b1c" stroke-width="3.5" stroke-linejoin="round"/>
+<polygon points="0.0,-220.0 3.6,-209.6 14.0,-206.0 3.6,-202.4 0.0,-192.0 -3.6,-202.4 -14.0,-206.0 -3.6,-209.6" fill="url(#cg)" opacity="1.0" stroke="#a87b1c" stroke-width="3" stroke-linejoin="round"/>
+<defs><radialGradient id="gemg" cx="0.35" cy="0.3" r="0.95"><stop offset="0" stop-color="#b6a9e3"/><stop offset="0.5" stop-color="#5d3fc0"/><stop offset="1" stop-color="#38257c"/></radialGradient></defs>
+<rect x="-58" y="-76" width="116" height="24" rx="9" fill="url(#cg)" stroke="#a87b1c" stroke-width="4"/>
+<ellipse cx="0" cy="-64" rx="6.5" ry="9" fill="url(#gemg)" stroke="#a87b1c" stroke-width="3"/>
+<circle cx="-30" cy="-64" r="4.5" fill="url(#gemg)" stroke="#a87b1c" stroke-width="2.5"/>
+<circle cx="30" cy="-64" r="4.5" fill="url(#gemg)" stroke="#a87b1c" stroke-width="2.5"/>
+<ellipse cx="-2" cy="-68" rx="2.6" ry="3.8" transform="rotate(-22 -2 -68)" fill="#fff" opacity="0.85"/>
+<circle cx="-31.5" cy="-65.5" r="1.7" fill="#fff" opacity="0.85"/>
+<circle cx="28.5" cy="-65.5" r="1.7" fill="#fff" opacity="0.85"/>
+</g>
+  <path d="M 0,90 C 0,35 -48,-5 -95,-5 C -150,-5 -178,42 -178,82 C -178,155 -85,222 0,285 C 85,222 178,155 178,82 C 178,42 150,-5 95,-5 C 48,-5 0,35 0,90 Z" fill="url(#hg)" stroke="#e5b04c" stroke-width="12"/>
+  <g transform="rotate(-7)" font-family="'Brush Script MT','Segoe Script',cursive" font-weight="bold" text-anchor="middle" fill="#ffffff" stroke="#8547b8" stroke-width="9" paint-order="stroke" stroke-linejoin="round"><text x="0" y="118" font-size="96">Mahō</text><text x="6" y="212" font-size="96">Shōjo</text></g>
+</svg>
