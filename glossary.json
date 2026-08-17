@@ -1,7 +1,7 @@
 {
   "_meta": {
     "description": "術語表 - 西班牙語遊戲術語對照繁體中文翻譯",
-    "updated": "2026-07-30T12:03:40+00:00",
+    "updated": "2026-08-17T17:46:08+00:00",
     "source": "MAHO_SHOJO_RN022_EBOOK"
   },
   "Movimiento": {
@@ -180,7 +180,7 @@
     "notes": "友情扮演書：獨來獨往的孤獨角色"
   },
   "Sororidad": {
-    "zh": "姐妹會",
+    "zh": "姊妹會",
     "is_term": true,
     "notes": "友情扮演書：如姊妹般的緊密友誼"
   },
@@ -701,8 +701,8 @@
   },
   "Escudo de Luz (Sanadora)": {
     "zh": "光之護盾",
-    "is_term": true,
-    "notes": "聖母原型神聖力量的效果選項：抵消 5 點傷痛或拯救 NPC（與衛士的「光之盾」同名消歧）"
+    "is_term": false,
+    "notes": "消歧條目：聖母神聖力量的效果選項，原書用詞同為「Escudo de Luz」，與衛士招牌動作分譯為「光之護盾」；不參與語料比對"
   },
   "Sabelotodo": {
     "zh": "萬事通",
@@ -752,7 +752,7 @@
   "Corazón de Luz": {
     "zh": "光之心",
     "is_term": true,
-    "notes": "地球上的光明聖地"
+    "notes": "地球上的光明聖地；亦為勇者進階動作名（archetypes、advancement，同名同譯）"
   },
   "Dandere": {
     "zh": "無口型",
@@ -792,7 +792,7 @@
   "Escudo de Luz": {
     "zh": "光之盾",
     "is_term": true,
-    "notes": "衛士原型的招牌動作組"
+    "notes": "衛士原型的招牌動作組；聖母神聖力量選項同名，該處譯「光之護盾」（見 Escudo de Luz (Sanadora) 條）"
   },
   "La senda de la guerrera": {
     "zh": "戰士之道",
@@ -824,22 +824,22 @@
     "is_term": true,
     "notes": "黑暗倒數鐘第一階段（0%）"
   },
-  "Primer cuarto": {
+  "Cuarto creciente": {
     "zh": "上弦",
     "is_term": true,
     "notes": "黑暗倒數鐘第二階段（25%）"
   },
-  "Medio": {
+  "Media oscuridad": {
     "zh": "半暗",
     "is_term": true,
     "notes": "黑暗倒數鐘第三階段（50%）"
   },
-  "Último cuarto": {
+  "Cuarto final": {
     "zh": "終弦",
     "is_term": true,
     "notes": "黑暗倒數鐘第四階段（75%）"
   },
-  "Anillo": {
+  "Anillo solar": {
     "zh": "日環",
     "is_term": true,
     "notes": "黑暗倒數鐘第五階段（90%）"
@@ -932,7 +932,7 @@
   "Corromper": {
     "zh": "墮化",
     "is_term": true,
-    "notes": "本影衝動類型"
+    "notes": "本影衝動類型；聖母神聖力量選項的 Corromper 另譯「腐化」（見 Corromper (Poder Sagrado) 條）"
   },
   "Desgastar": {
     "zh": "削弱",
@@ -960,7 +960,7 @@
     "notes": "前輩扮演書中的對應角色（保留日語標註）"
   },
   "Confidente": {
-    "zh": "知心人",
+    "zh": "知己",
     "is_term": true,
     "notes": "獨行俠扮演書的羈絆標籤"
   },
@@ -1192,9 +1192,8 @@
   },
   "Kurogane Sarah": {
     "zh": "黑鐵莎拉",
-    "status": "approved",
-    "is_term": true,
-    "notes": "花花的好朋友，虛構動畫角色"
+    "is_term": false,
+    "notes": "花花的好朋友，虛構動畫角色；原書唯一出現處於 PDF 抽取文本中遭斷字（Kuro-gane），無法自動比對，不參與語料比對"
   },
   "Anko": {
     "zh": "杏子",
@@ -1377,5 +1376,1741 @@
     "notes": "範例角色清美的標誌性心之力 A（風之劍擊）；每頁首次出現以 <ruby> 標註英文原名，後續僅用中文",
     "status": "approved",
     "is_term": true
+  },
+  "fantasía doméstica": {
+    "zh": "日常奇幻",
+    "notes": "類型定位詞（introduction、pacts、first-chapter）；D1 定案",
+    "status": "approved",
+    "is_term": true
+  },
+  "dimensión": {
+    "zh": "次元",
+    "notes": "魔法／現實位面語境用詞（setting、mc-guide）；D2 定案",
+    "status": "approved",
+    "is_term": true
+  },
+  "Reino de las Estrellas": {
+    "zh": "星之王國",
+    "notes": "專名（mc-guide、darkness-enemies、pacts、moves）；D3 定案；原書亦作 Reino Estelar",
+    "status": "approved",
+    "is_term": true
+  },
+  "Reino Estelar": {
+    "zh": "星之王國",
+    "notes": "Reino de las Estrellas 的原書變體寫法（eclipse、moves、darkness-enemies）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Reina de las Estrellas": {
+    "zh": "星之女王",
+    "notes": "江本咲的稱號（pacts、moves）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Reina Estelar": {
+    "zh": "星之女王",
+    "notes": "Reina de las Estrellas 的原書變體寫法（eclipse）",
+    "status": "approved",
+    "is_term": true
+  },
+  "categoría": {
+    "zh": "階級",
+    "notes": "敵人強度分級（darkness-enemies、pacts）；D5 定案",
+    "status": "approved",
+    "is_term": true
+  },
+  "Señora de la Oscuridad": {
+    "zh": "黑暗女君",
+    "notes": "黑暗動作：契約傀儡盟約・偶像（pacts）；D14 定案",
+    "status": "approved",
+    "is_term": true
+  },
+  "Vencemos unidas o caemos juntas": {
+    "zh": "同進同退",
+    "notes": "盟約動作：正義騎士（pacts）；D15 定案",
+    "status": "approved",
+    "is_term": true
+  },
+  "Aegis Oscuro": {
+    "zh": "黑暗心盾",
+    "notes": "黑暗動作：契約傀儡盟約・衛士（pacts）；D16 定案",
+    "status": "approved",
+    "is_term": true
+  },
+  "Transferir el dolor": {
+    "zh": "轉移痛苦",
+    "notes": "契約傀儡盟約動作的效果選項（pacts）；D18 定案",
+    "status": "approved",
+    "is_term": true
+  },
+  "Intuición de Inquisidor": {
+    "zh": "審問者直覺",
+    "notes": "盟約動作：契約傀儡（pacts）；D17 定案",
+    "status": "approved",
+    "is_term": true
+  },
+  "Oneira": {
+    "zh": "歐涅拉",
+    "notes": "專名：昔日的光明王國，花南的效忠對象（pacts）；D20 定案",
+    "status": "approved",
+    "is_term": true
+  },
+  "Deificación": {
+    "zh": "成神",
+    "notes": "皇冠（eclipse）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Contorsionismo": {
+    "zh": "柔體術",
+    "notes": "黑暗恩賜：霞野社長（darkness-enemies、eclipse）",
+    "status": "approved",
+    "is_term": true
+  },
+  "El polvo de una estrella": {
+    "zh": "一顆星星的塵埃",
+    "notes": "本影名（eclipse）；與自訂動作「星塵」（Polvo Estelar）分譯",
+    "status": "approved",
+    "is_term": true
+  },
+  "castillo de las estrellas": {
+    "zh": "星之城堡",
+    "notes": "地點（mc-guide）；原書唯一出現處於 PDF 抽取文本中遭斷字（es-trellas），無法自動比對，不參與語料比對",
+    "is_term": false
+  },
+  "Palacio de las Estrellas": {
+    "zh": "星之宮殿",
+    "notes": "地點（light-vs-darkness）",
+    "status": "approved",
+    "is_term": true
+  },
+  "edificio Kasumano": {
+    "zh": "霞野大樓",
+    "notes": "地點（fundamentals、moves、light-vs-darkness、first-chapter 等多章）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Videoclub Glob": {
+    "zh": "格洛布錄影帶出租店",
+    "notes": "地點（mc-guide、first-chapter、moves 等）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Erradicador": {
+    "zh": "根除者",
+    "notes": "專名：正義騎士範例中被封印的存在（pacts）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Lazos rojos de la amistad": {
+    "zh": "紅色友情之線",
+    "notes": "盟約動作：光明子女（pacts）",
+    "status": "approved",
+    "is_term": true
+  },
+  "La pureza de la juventud": {
+    "zh": "青春之純粹",
+    "notes": "盟約動作：光明子女（pacts；江本咲的盟約優勢；moves 章亦引用）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Corazones enredados": {
+    "zh": "心心相繫",
+    "notes": "盟約動作：光明子女（pacts）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Colección de cromos": {
+    "zh": "收藏卡冊",
+    "notes": "盟約動作：光明子女（pacts）",
+    "status": "approved",
+    "is_term": true
+  },
+  "La amistad es lo más valioso del mundo": {
+    "zh": "友情是世界上最珍貴的寶物",
+    "notes": "盟約動作：光明子女（pacts）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Forma de combate del Acompañante": {
+    "zh": "同伴的戰鬥形態",
+    "notes": "盟約動作：光明子女（pacts）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Compartir el poder": {
+    "zh": "分享力量",
+    "notes": "合作動作：正義騎士（pacts）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Yo te apoyaré siempre": {
+    "zh": "我會永遠支持你",
+    "notes": "合作動作：正義騎士（pacts；moves 章亦引用）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Un poco de mi fuerza": {
+    "zh": "我的一份力量",
+    "notes": "合作動作：正義騎士（pacts）",
+    "status": "approved",
+    "is_term": true
+  },
+  "¡Ves como eres la mejor!": {
+    "zh": "看吧，你果然是最棒的！",
+    "notes": "合作動作：正義騎士（pacts）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Regio": {
+    "zh": "聖域",
+    "notes": "盟約動作：正義騎士（pacts；元素使者的盟約優勢）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Nuestro poder es tuyo": {
+    "zh": "我們的力量歸於你",
+    "notes": "盟約動作：正義騎士（pacts）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Algo más que un equipo": {
+    "zh": "不只是一個團隊",
+    "notes": "盟約動作：正義騎士（pacts）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Ayuda de la Luz": {
+    "zh": "光明之助",
+    "notes": "盟約動作：正義騎士（pacts；花南的盟約優勢）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Compartir la Luz": {
+    "zh": "分享光明",
+    "notes": "盟約動作：正義騎士（pacts）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Conectadas": {
+    "zh": "心意相通",
+    "notes": "友情動作：純真羈絆（friendship-romance）；正義騎士合作動作同名，譯「心靈連線」（見 Conectadas (Pacto) 條）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Conectadas (Pacto)": {
+    "zh": "心靈連線",
+    "notes": "消歧條目：正義騎士合作動作（pacts），原書用詞同為 Conectadas，不參與語料比對",
+    "is_term": false
+  },
+  "Forma oscura": {
+    "zh": "黑暗形態",
+    "notes": "黑暗動作：契約傀儡盟約・勇者（pacts）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Corazón egoísta": {
+    "zh": "自私之心",
+    "notes": "黑暗動作：契約傀儡盟約（pacts）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Marca de la Oscuridad": {
+    "zh": "黑暗印記",
+    "notes": "黑暗動作：契約傀儡盟約（pacts）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Talento oscuro": {
+    "zh": "黑暗才能",
+    "notes": "黑暗動作：契約傀儡盟約（pacts）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Traición": {
+    "zh": "背叛",
+    "notes": "黑暗動作：契約傀儡盟約（pacts）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Consciencia inhumana": {
+    "zh": "非人意識",
+    "notes": "黑暗動作：契約傀儡盟約（pacts）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Una mente superior entre seres inferiores": {
+    "zh": "凡人之上的至高心智",
+    "notes": "黑暗動作：契約傀儡盟約（pacts）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Alimentarse del dolor": {
+    "zh": "以痛為食",
+    "notes": "黑暗動作：契約傀儡盟約（pacts）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Armadura de Oscuridad": {
+    "zh": "黑暗護甲",
+    "notes": "黑暗動作：契約傀儡盟約（pacts）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Ideales confundidos": {
+    "zh": "混亂的理想",
+    "notes": "黑暗動作：契約傀儡盟約（pacts）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Arma de los señores oscuros": {
+    "zh": "黑暗領主之武器",
+    "notes": "黑暗動作：契約傀儡盟約（pacts）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Sacar la Oscuridad que se tiene dentro": {
+    "zh": "釋放內在的黑暗",
+    "notes": "黑暗動作：契約傀儡盟約（pacts）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Recurrir a las emociones más oscuras": {
+    "zh": "訴諸最黑暗的情感",
+    "notes": "黑暗動作：契約傀儡盟約（pacts）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Regeneración oscura": {
+    "zh": "黑暗重生",
+    "notes": "黑暗動作：契約傀儡盟約（pacts）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Personalidad tóxica": {
+    "zh": "毒性人格",
+    "notes": "黑暗動作：契約傀儡盟約・偶像（pacts；moves 章亦引用）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Reina entre plebeyos": {
+    "zh": "眾生之上的女王",
+    "notes": "黑暗動作：契約傀儡盟約（pacts）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Diosa oscura": {
+    "zh": "黑暗女神",
+    "notes": "黑暗動作：契約傀儡盟約（pacts）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Magia impura": {
+    "zh": "不淨之魔法",
+    "notes": "黑暗動作：契約傀儡盟約・聖母（pacts）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Ceder a otro poder": {
+    "zh": "屈從於另一種力量",
+    "notes": "黑暗動作：契約傀儡盟約（pacts）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Bruja oscura": {
+    "zh": "黑暗女巫",
+    "notes": "黑暗動作：契約傀儡盟約（pacts）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Seguidora de la Oscuridad": {
+    "zh": "黑暗追隨者",
+    "notes": "黑暗動作：契約傀儡盟約（pacts）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Regeneración": {
+    "zh": "再生",
+    "notes": "盟約動作：契約傀儡（pacts）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Poder del Custodio": {
+    "zh": "監護者之力",
+    "notes": "盟約動作：契約傀儡（pacts；moves 章亦引用）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Armas y hechizos del abismo": {
+    "zh": "深淵的武器與法術",
+    "notes": "盟約動作：契約傀儡（pacts）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Cárcel oscura": {
+    "zh": "黑暗牢獄",
+    "notes": "盟約動作：契約傀儡（pacts）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Portales oscuros": {
+    "zh": "黑暗傳送門",
+    "notes": "盟約動作：契約傀儡（pacts）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Mi familia es mi luz": {
+    "zh": "我的家人就是我的光明",
+    "notes": "友情動作：家族（friendship-romance）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Yo protegeré a los míos": {
+    "zh": "我會保護我的家人",
+    "notes": "友情動作：家族（friendship-romance；moves 章亦引用）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Comida caliente y a la cama": {
+    "zh": "吃頓熱飯然後上床睡覺",
+    "notes": "友情動作：家族（friendship-romance）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Suéltale o te la cargas": {
+    "zh": "放開他，否則你就完了",
+    "notes": "友情動作：家族（friendship-romance）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Gran corazón": {
+    "zh": "寬大的胸懷",
+    "notes": "友情動作：忠誠（friendship-romance）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Lealtad a la causa": {
+    "zh": "忠於使命",
+    "notes": "友情動作：忠誠（friendship-romance）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Llora conmigo": {
+    "zh": "與我同泣",
+    "notes": "友情動作：忠誠（friendship-romance）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Hay una parte de mí en cada corazón": {
+    "zh": "我的一部分存在於每顆心中",
+    "notes": "友情動作：忠誠（friendship-romance）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Según mi opinión…": {
+    "zh": "依我看來……",
+    "notes": "友情動作：愛操心（friendship-romance）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Si sigues mis consejos lo lograrás": {
+    "zh": "如果你聽從我的建議就能成功",
+    "notes": "友情動作：愛操心（friendship-romance）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Déjame ayudarte": {
+    "zh": "讓我幫你",
+    "notes": "友情動作：愛操心（friendship-romance）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Compartir la vida": {
+    "zh": "分享生活",
+    "notes": "友情動作：愛操心（friendship-romance）",
+    "status": "approved",
+    "is_term": true
+  },
+  "El poder de la amistad": {
+    "zh": "友情的力量",
+    "notes": "友情動作：心之所繫（friendship-romance、moves；character-creation 泛稱語境作「友情之力」）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Sonrisa contagiosa": {
+    "zh": "感染力十足的笑容",
+    "notes": "友情動作：心之所繫（friendship-romance）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Escuchar los corazones": {
+    "zh": "傾聽心聲",
+    "notes": "友情動作：心之所繫（friendship-romance）",
+    "status": "approved",
+    "is_term": true
+  },
+  "La luz nunca desaparece": {
+    "zh": "光明永不消逝",
+    "notes": "友情動作：心之所繫（friendship-romance）；與勇者動作「內心的光永不消逝」不同條",
+    "status": "approved",
+    "is_term": true
+  },
+  "La una con la otra": {
+    "zh": "你和我在一起",
+    "notes": "友情動作：純真羈絆（friendship-romance）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Corazones unidos": {
+    "zh": "心心相印",
+    "notes": "友情動作：純真羈絆（friendship-romance）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Apoyo mutuo": {
+    "zh": "相互支持",
+    "notes": "友情動作：純真羈絆（friendship-romance）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Competidora nata": {
+    "zh": "天生的競爭者",
+    "notes": "友情動作：勁敵（friendship-romance）",
+    "status": "approved",
+    "is_term": true
+  },
+  "No puede ser mejor que yo": {
+    "zh": "她不可能比我強",
+    "notes": "友情動作：勁敵（friendship-romance）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Obsérvame… Por favor": {
+    "zh": "看著我……拜託了",
+    "notes": "友情動作：勁敵（friendship-romance）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Seré yo quien te derrote algun día, no ellos": {
+    "zh": "總有一天打敗你的會是我，不是他們",
+    "notes": "友情動作：勁敵（friendship-romance）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Bien hecho, kohai": {
+    "zh": "做得好，後輩",
+    "notes": "友情動作：前輩（friendship-romance）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Debo ser un ejemplo para ella": {
+    "zh": "我必須成為她的榜樣",
+    "notes": "友情動作：前輩（friendship-romance）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Recuerda la lección": {
+    "zh": "記住這個教訓",
+    "notes": "友情動作：前輩（friendship-romance）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Ella es mi aprendiz": {
+    "zh": "她是我的後輩",
+    "notes": "友情動作：前輩（friendship-romance）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Guardiana de mis secretos": {
+    "zh": "我的祕密守護者",
+    "notes": "友情動作：獨行俠（friendship-romance）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Oasis en el camino": {
+    "zh": "旅途中的綠洲",
+    "notes": "友情動作：獨行俠（friendship-romance）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Compartir cargas": {
+    "zh": "分擔重擔",
+    "notes": "友情動作：獨行俠（friendship-romance；light-vs-darkness 亦引用）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Esa persona en mi vida": {
+    "zh": "生命中的那個人",
+    "notes": "友情動作：獨行俠（friendship-romance）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Comunión": {
+    "zh": "共融",
+    "notes": "友情動作：姊妹會（friendship-romance）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Mis hermanas": {
+    "zh": "我的姊妹們",
+    "notes": "友情動作：姊妹會（friendship-romance）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Agarrad mi mano, ahora adelante": {
+    "zh": "握住我的手，一起向前",
+    "notes": "友情動作：姊妹會（friendship-romance）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Un alma": {
+    "zh": "一心同體",
+    "notes": "友情動作：姊妹會（friendship-romance）",
+    "status": "approved",
+    "is_term": true
+  },
+  "¡¡¡Fiestaaa!!!": {
+    "zh": "派對開始！！！",
+    "notes": "友情動作：大姐頭（friendship-romance）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Adelante, ¡por ella!": {
+    "zh": "上吧，為了她！",
+    "notes": "友情動作：大姐頭（friendship-romance）",
+    "status": "approved",
+    "is_term": true
+  },
+  "No te preocupes, estamos aquí": {
+    "zh": "別擔心，我們在這裡",
+    "notes": "友情動作：大姐頭（friendship-romance）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Juntas somos las mejores": {
+    "zh": "在一起我們就是最強的",
+    "notes": "友情動作：大姐頭（friendship-romance）",
+    "status": "approved",
+    "is_term": true
+  },
+  "No sé si te he contado algo divertido que pasó hoy…": {
+    "zh": "今天發生了一件有趣的事，不知道我有沒有跟你說過……",
+    "notes": "戀愛動作：失去的愛（friendship-romance）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Te has olvidado de aquella vez…": {
+    "zh": "你忘了那一次嗎……",
+    "notes": "戀愛動作：失去的愛（friendship-romance）",
+    "status": "approved",
+    "is_term": true
+  },
+  "De la negación a la aceptación": {
+    "zh": "從否認到接受",
+    "notes": "戀愛動作：失去的愛（friendship-romance）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Llama imperecedera": {
+    "zh": "不滅之焰",
+    "notes": "戀愛動作：真愛（friendship-romance）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Cicatriz en el corazón": {
+    "zh": "心上的傷疤",
+    "notes": "戀愛動作：真愛（friendship-romance）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Tragedia": {
+    "zh": "悲劇",
+    "notes": "戀愛動作：真愛（friendship-romance）",
+    "status": "approved",
+    "is_term": true
+  },
+  "La relación es… complicada": {
+    "zh": "這段關係……很複雜",
+    "notes": "戀愛動作：衝突（friendship-romance；moves 章亦引用）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Combustión del Corazón": {
+    "zh": "心之燃燒",
+    "notes": "戀愛動作：衝突（friendship-romance；light-vs-darkness 亦引用）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Tenemos que hablar de adónde vamos": {
+    "zh": "我們需要談談我們要往哪裡去",
+    "notes": "戀愛動作：衝突（friendship-romance）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Lágrimas en el corazón": {
+    "zh": "心中的淚水",
+    "notes": "戀愛動作：單相思（friendship-romance）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Corazón sin murallas": {
+    "zh": "敞開心扉",
+    "notes": "戀愛動作：單相思（friendship-romance 定義章）；moves 章引用處作「不設防的心」，待統一",
+    "status": "approved",
+    "is_term": true
+  },
+  "Una decisión: Bianca o Nera": {
+    "zh": "一個抉擇：Bianca 還是 Nera",
+    "notes": "戀愛動作：單相思（friendship-romance）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Llegó el correo": {
+    "zh": "信來了",
+    "notes": "戀愛動作：遠距關係（friendship-romance）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Te escribiré la semana que viene": {
+    "zh": "我下週會寫信給你",
+    "notes": "戀愛動作：遠距關係（friendship-romance）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Una canción que se repetirá durante siglos": {
+    "zh": "一首將傳唱數百年的歌",
+    "notes": "戀愛動作：遠距關係（friendship-romance）",
+    "status": "approved",
+    "is_term": true
+  },
+  "No me dirán lo que tengo que hacer": {
+    "zh": "沒有人能告訴我該怎麼做",
+    "notes": "戀愛動作：禁斷關係（friendship-romance）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Lo mejor sería dejarlo": {
+    "zh": "也許我們最好分開",
+    "notes": "戀愛動作：禁斷關係（friendship-romance）",
+    "status": "approved",
+    "is_term": true
+  },
+  "En realidad importamos nosotros": {
+    "zh": "真正重要的是我們自己",
+    "notes": "戀愛動作：禁斷關係（friendship-romance）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Ese castillo de arena": {
+    "zh": "那座沙堡",
+    "notes": "戀愛動作：虛幻愛情（friendship-romance）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Es real, mi corazón lo siente así": {
+    "zh": "這是真的，我的心就是這麼感受的",
+    "notes": "戀愛動作：虛幻愛情（friendship-romance）",
+    "status": "approved",
+    "is_term": true
+  },
+  "En el fondo siempre lo supiste": {
+    "zh": "其實你從一開始就知道了",
+    "notes": "戀愛動作：虛幻愛情（friendship-romance）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Mejor Amiga": {
+    "zh": "最好的朋友",
+    "notes": "羈絆標籤：純真羈絆（friendship-romance、light-vs-darkness）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Hermana": {
+    "zh": "姊妹",
+    "notes": "羈絆標籤：姊妹會（friendship-romance）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Medidor de Romance": {
+    "zh": "戀愛量表",
+    "notes": "機制詞（friendship-romance、moves、mc-guide）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Movimiento de Amistad": {
+    "zh": "友情動作",
+    "notes": "機制詞（friendship-romance、advancement、moves 等）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Movimientos Especiales": {
+    "zh": "特殊動作",
+    "notes": "機制詞（character-creation、archetypes）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Movimientos de Libreto": {
+    "zh": "扮演書動作",
+    "notes": "機制詞（character-creation）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Movimientos de Pacto": {
+    "zh": "盟約動作",
+    "notes": "機制詞（character-creation、pacts、moves）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Lazos de Amistad": {
+    "zh": "友情羈絆",
+    "notes": "機制詞（character-creation、light-vs-darkness、friendship-romance）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Por el poder de la Justicia": {
+    "zh": "以正義之力",
+    "notes": "原型選項：勇者「受眷顧者」（archetypes、character-creation、moves）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Guiada por el corazón": {
+    "zh": "心之引導",
+    "notes": "原型選項：勇者「受眷顧者」（archetypes、character-creation）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Susurros de los Guardianes": {
+    "zh": "守護者的低語",
+    "notes": "原型選項：勇者「受眷顧者」（archetypes、character-creation）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Elegancia Divina": {
+    "zh": "神聖優雅",
+    "notes": "原型選項：勇者「受眷顧者」（archetypes）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Salvadora": {
+    "zh": "救世主",
+    "notes": "原型選項：勇者「受眷顧者」（archetypes）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Indómita": {
+    "zh": "不屈",
+    "notes": "原型選項：勇者「受眷顧者」（archetypes）",
+    "status": "approved",
+    "is_term": true
+  },
+  "La Luz nunca desaparece del corazón": {
+    "zh": "內心的光永不消逝",
+    "notes": "原型動作：勇者（archetypes）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Primera entre iguales": {
+    "zh": "同儕之首",
+    "notes": "原型動作：勇者（archetypes）",
+    "status": "approved",
+    "is_term": true
+  },
+  "El bien siempre triunfa": {
+    "zh": "正義必勝",
+    "notes": "原型動作：勇者（archetypes、light-vs-darkness）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Jamás estoy sola": {
+    "zh": "我從不孤單",
+    "notes": "原型動作：勇者（archetypes）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Tramas dentro de la trama": {
+    "zh": "計中計",
+    "notes": "原型動作：參謀（archetypes）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Agendas y listas de la compra": {
+    "zh": "日常記事與購物清單",
+    "notes": "原型動作：參謀（archetypes）",
+    "status": "approved",
+    "is_term": true
+  },
+  "La razón sobre el corazón": {
+    "zh": "理性凌駕感性",
+    "notes": "原型動作：參謀（archetypes）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Pragmática": {
+    "zh": "務實主義",
+    "notes": "原型動作：參謀（archetypes）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Puntillosa": {
+    "zh": "一絲不苟",
+    "notes": "原型動作：參謀（archetypes）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Asistencia remota": {
+    "zh": "遠端支援",
+    "notes": "原型動作：參謀（archetypes）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Llave de los secretos": {
+    "zh": "祕密之鑰",
+    "notes": "原型動作：參謀（archetypes）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Pasar al anonimato": {
+    "zh": "隱身匿跡",
+    "notes": "原型動作：參謀（archetypes）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Yo sufriré por ti": {
+    "zh": "由我代受苦痛",
+    "notes": "原型動作：衛士（archetypes）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Bajo mi protección": {
+    "zh": "在我的庇護下",
+    "notes": "原型動作：衛士（archetypes）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Hoy cocino yo": {
+    "zh": "今天我來煮飯",
+    "notes": "原型動作：衛士（archetypes）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Ni te atrevas a tocarla": {
+    "zh": "休想碰她",
+    "notes": "原型動作：衛士（archetypes）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Ella nos protege, nos toca a nosotras": {
+    "zh": "她守護我們，輪到我們了",
+    "notes": "原型動作：衛士（archetypes）",
+    "status": "approved",
+    "is_term": true
+  },
+  "No volveré a fallar": {
+    "zh": "我不會再失敗了",
+    "notes": "原型動作：衛士（archetypes）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Estamos juntas en esto": {
+    "zh": "我們同在",
+    "notes": "原型動作：衛士（archetypes）",
+    "status": "approved",
+    "is_term": true
+  },
+  "¿Tienes algún problema con mis amigas?": {
+    "zh": "你對我的朋友有意見嗎？",
+    "notes": "原型動作：衛士（archetypes）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Corazón desatado": {
+    "zh": "狂野之心",
+    "notes": "原型動作：鬥士（archetypes）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Arma en el corazón": {
+    "zh": "心中之刃",
+    "notes": "原型動作：鬥士（archetypes）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Estratega nata": {
+    "zh": "天生戰略家",
+    "notes": "原型動作：鬥士（archetypes）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Mano de la Justicia": {
+    "zh": "正義之拳",
+    "notes": "原型動作：鬥士（archetypes）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Indestructible": {
+    "zh": "堅不可摧",
+    "notes": "原型動作：鬥士（archetypes、light-vs-darkness）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Mi voluntad todo lo puede": {
+    "zh": "我的意志無所不能",
+    "notes": "原型動作：鬥士（archetypes）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Yo soy tu rival": {
+    "zh": "你的對手是我",
+    "notes": "原型動作：鬥士（archetypes）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Todas a una": {
+    "zh": "同心協力",
+    "notes": "原型動作：鬥士（archetypes）",
+    "status": "approved",
+    "is_term": true
+  },
+  "La vida es una batalla": {
+    "zh": "人生即是戰場",
+    "notes": "原型動作：鬥士（archetypes）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Quiero dar las gracias a mis fans": {
+    "zh": "我要感謝我的粉絲",
+    "notes": "原型動作：偶像（archetypes）",
+    "status": "approved",
+    "is_term": true
+  },
+  "¿A quién crees que elegirán?": {
+    "zh": "你認為他們會選誰？",
+    "notes": "原型動作：偶像（archetypes）",
+    "status": "approved",
+    "is_term": true
+  },
+  "No controlo mis sentimientos, ¿vale?": {
+    "zh": "我無法壓抑我的感情，好嗎？",
+    "notes": "原型動作：偶像（archetypes）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Todo esto es tan aburrido… ¡Vamos a animarlo!": {
+    "zh": "這一切好無聊……來讓氣氛熱鬧起來吧！",
+    "notes": "原型動作：偶像（archetypes）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Mi público lo pide": {
+    "zh": "觀眾正這麼期待著",
+    "notes": "原型動作：偶像（archetypes）",
+    "status": "approved",
+    "is_term": true
+  },
+  "¿No os fijasteis en cómo se miraban?": {
+    "zh": "你們沒注意到他們看彼此的神情嗎？",
+    "notes": "原型動作：偶像（archetypes）",
+    "status": "approved",
+    "is_term": true
+  },
+  "No seas tímida, ¿conoces a…?": {
+    "zh": "別害羞，你認識……嗎？",
+    "notes": "原型動作：偶像（archetypes）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Sí, soy yo…": {
+    "zh": "沒錯，這就是我……",
+    "notes": "原型動作：偶像（archetypes）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Bendecir ataque": {
+    "zh": "祝福攻擊",
+    "notes": "聖母原型：神聖力量相關選項（archetypes）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Apoyo sagrado": {
+    "zh": "神聖支援",
+    "notes": "聖母原型：神聖力量相關選項（archetypes）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Encadenar la Oscuridad": {
+    "zh": "束縛黑暗",
+    "notes": "聖母原型：神聖力量相關選項（archetypes）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Sanar": {
+    "zh": "療癒",
+    "notes": "聖母原型：神聖力量相關選項（archetypes）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Vida de virtud": {
+    "zh": "生活美德",
+    "notes": "原型動作：聖母（archetypes）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Ver el alma en los ojos": {
+    "zh": "靈魂之窗",
+    "notes": "原型動作：聖母（archetypes）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Siempre se puede ser mejor": {
+    "zh": "永遠可以更好",
+    "notes": "原型動作：聖母（archetypes）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Intuición y corazonada": {
+    "zh": "直覺與預感",
+    "notes": "原型動作：聖母（archetypes）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Nunca rendirse": {
+    "zh": "永不放棄",
+    "notes": "原型動作：聖母（archetypes）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Ya pasó, todo irá mejor mañana": {
+    "zh": "沒事了，明天一切都會好起來",
+    "notes": "原型動作：聖母（archetypes）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Guardián de Oscuridad": {
+    "zh": "黑暗守衛",
+    "notes": "專名：星之女王範例中的敵人（moves）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Scarlet Light": {
+    "zh": "Scarlet Light",
+    "notes": "依子的魔法少女稱號（moves，保留英文）",
+    "status": "approved",
+    "is_term": true,
+    "keep_english": true
+  },
+  "White Lux Shōjo": {
+    "zh": "White Lux Shōjo",
+    "notes": "夏美的魔法少女稱號（moves，保留英文）",
+    "status": "approved",
+    "is_term": true,
+    "keep_english": true
+  },
+  "Kanakana Heart": {
+    "zh": "Kanakana Heart",
+    "notes": "登呂美的終曲名（moves，保留英文）",
+    "status": "approved",
+    "is_term": true,
+    "keep_english": true
+  },
+  "Torochan": {
+    "zh": "Torochan",
+    "notes": "登呂美的暱稱（moves，保留羅馬字）",
+    "status": "approved",
+    "is_term": true,
+    "keep_english": true
+  },
+  "Mundo de la Luz": {
+    "zh": "光明之界",
+    "notes": "世界觀專名（setting）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Conflicto": {
+    "zh": "衝突",
+    "notes": "世界觀術語：光與暗的對抗（setting 對照框）",
+    "status": "approved",
+    "is_term": true
+  },
+  "mundo mundano": {
+    "zh": "世俗世界",
+    "notes": "世界觀別稱：現實世界（setting）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Ino": {
+    "zh": "伊野",
+    "notes": "NPC 名字（mc-guide）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Kirino Lange": {
+    "zh": "桐野・蘭格",
+    "notes": "NPC 名字（mc-guide）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Nakiri Mikako": {
+    "zh": "名切美加子",
+    "notes": "NPC 名字（mc-guide）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Vampiros de la Sangre": {
+    "zh": "血之吸血鬼",
+    "notes": "敵人：血之公主麾下（mc-guide）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Ascuas de Llamas Oscuras": {
+    "zh": "暗焰餘燼",
+    "notes": "敵人：暗焰女巫麾下傀儡（darkness-enemies「召喚暗焰餘燼」用此形；mc-guide 敘述句作「黑暗火焰的餘燼」）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Yakumo": {
+    "zh": "八雲",
+    "notes": "NPC 名字（mc-guide）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Reina de Sangre": {
+    "zh": "血之公主",
+    "notes": "mc-guide 一處的原書變體，全站統一譯「血之公主」（見 Princesa de Sangre）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Gobernar": {
+    "zh": "統治",
+    "notes": "皇冠（eclipse）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Obtener poder": {
+    "zh": "獲取力量",
+    "notes": "皇冠（eclipse）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Puente": {
+    "zh": "橋樑",
+    "notes": "皇冠（eclipse）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Someter": {
+    "zh": "臣服",
+    "notes": "皇冠（eclipse）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Amor": {
+    "zh": "愛",
+    "notes": "皇冠（eclipse）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Indemnizar": {
+    "zh": "索賠",
+    "notes": "皇冠（eclipse）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Envidia": {
+    "zh": "嫉妒",
+    "notes": "皇冠（eclipse）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Fracaso": {
+    "zh": "雪恥",
+    "notes": "皇冠（eclipse）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Contención": {
+    "zh": "封存",
+    "notes": "皇冠（eclipse）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Contaminar": {
+    "zh": "汙染",
+    "notes": "皇冠（eclipse）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Incendiar": {
+    "zh": "焚燒",
+    "notes": "皇冠（eclipse）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Vacío": {
+    "zh": "虛空",
+    "notes": "皇冠（eclipse）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Restaurar": {
+    "zh": "復原",
+    "notes": "皇冠（eclipse）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Liberar": {
+    "zh": "解放",
+    "notes": "皇冠（eclipse）",
+    "status": "approved",
+    "is_term": true
+  },
+  "el rey del Vacío": {
+    "zh": "虛空之王",
+    "notes": "專名：化身（eclipse）",
+    "status": "approved",
+    "is_term": true
+  },
+  "el Caballero Melancólico": {
+    "zh": "憂鬱騎士",
+    "notes": "專名：化身（eclipse）",
+    "status": "approved",
+    "is_term": true
+  },
+  "El Coach": {
+    "zh": "教練",
+    "notes": "專名：化身範例（eclipse）",
+    "status": "approved",
+    "is_term": true
+  },
+  "el Hombre de Negro": {
+    "zh": "黑衣人",
+    "notes": "專名（eclipse）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Yimi": {
+    "zh": "Yimi",
+    "notes": "專名（eclipse，保留原文）",
+    "status": "approved",
+    "is_term": true,
+    "keep_english": true
+  },
+  "Nichinan": {
+    "zh": "日南",
+    "notes": "地名：戰役舞台城鎮（eclipse、first-chapter）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Castillo de la Oscuridad": {
+    "zh": "黑暗城堡",
+    "notes": "地點（eclipse）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Sellar el grimorio": {
+    "zh": "封印魔導書",
+    "notes": "自訂動作（eclipse）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Servir a la nueva Reina": {
+    "zh": "臣服於新女王",
+    "notes": "自訂動作（eclipse）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Ungir el poder de la gran Luz": {
+    "zh": "受膏於偉大光明之力",
+    "notes": "自訂動作（eclipse）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Luz retornada": {
+    "zh": "歸還的光明",
+    "notes": "自訂動作（eclipse）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Recuerdo del pasado": {
+    "zh": "往昔的記憶",
+    "notes": "自訂動作（eclipse）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Polvo Estelar": {
+    "zh": "星塵",
+    "notes": "自訂動作（eclipse）；與本影名「一顆星星的塵埃」分譯",
+    "status": "approved",
+    "is_term": true
+  },
+  "Maestra del fuego": {
+    "zh": "火之大師",
+    "notes": "自訂動作（eclipse）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Contorsionista supremo": {
+    "zh": "至尊柔體術師",
+    "notes": "自訂動作（eclipse）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Vara de la Luz Infinita": {
+    "zh": "無限光之杖",
+    "notes": "裝備：自訂動作相關（eclipse）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Forma Estelar": {
+    "zh": "星辰形態",
+    "notes": "特殊形態（eclipse）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Moverse entre las sombras": {
+    "zh": "穿梭於影子之間",
+    "notes": "黑暗恩賜（darkness-enemies）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Cambiar de tamaño": {
+    "zh": "改變大小",
+    "notes": "黑暗恩賜（darkness-enemies）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Encadenar": {
+    "zh": "束縛",
+    "notes": "黑暗恩賜（darkness-enemies）；與聖母選項「束縛黑暗」不同條",
+    "status": "approved",
+    "is_term": true
+  },
+  "Hacer desaparecer la Luz": {
+    "zh": "使光明消失",
+    "notes": "黑暗恩賜（darkness-enemies）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Rastrear sentimientos": {
+    "zh": "追蹤情感",
+    "notes": "黑暗恩賜（darkness-enemies）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Clon de llamas": {
+    "zh": "火焰分身",
+    "notes": "黑暗恩賜（darkness-enemies）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Hechizos de Llamas Oscuras": {
+    "zh": "暗焰咒術",
+    "notes": "黑暗恩賜（darkness-enemies）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Invocar Ascuas de Llamas Oscuras": {
+    "zh": "召喚暗焰餘燼",
+    "notes": "黑暗恩賜（darkness-enemies）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Quemar sentimientos de corazones heridos": {
+    "zh": "燃燒受傷心靈的情感",
+    "notes": "黑暗恩賜（darkness-enemies）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Invocar Muñecas (películas)": {
+    "zh": "召喚人偶（電影）",
+    "notes": "黑暗恩賜（darkness-enemies）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Aumentar su tamaño": {
+    "zh": "增大體型",
+    "notes": "黑暗恩賜（darkness-enemies）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Olor nauseabundo": {
+    "zh": "令人作嘔的惡臭",
+    "notes": "黑暗恩賜：噁心格洛布（darkness-enemies；first-chapter 作「令人作嘔的氣味」）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Control sobre el edificio Kasumano": {
+    "zh": "控制霞野大樓",
+    "notes": "黑暗恩賜（darkness-enemies）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Crear ilusiones": {
+    "zh": "製造幻象",
+    "notes": "黑暗恩賜（darkness-enemies）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Leer sentimientos": {
+    "zh": "讀取情感",
+    "notes": "黑暗恩賜（darkness-enemies）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Movimiento sobrenatural": {
+    "zh": "超自然移動",
+    "notes": "黑暗恩賜（darkness-enemies）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Magia de sangre": {
+    "zh": "血之魔法",
+    "notes": "黑暗恩賜（darkness-enemies）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Crear servidor": {
+    "zh": "創造使徒",
+    "notes": "黑暗恩賜（darkness-enemies）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Conceder poder oscuro": {
+    "zh": "賦予黑暗力量",
+    "notes": "黑暗恩賜（darkness-enemies）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Recuerdos melancólicos": {
+    "zh": "憂鬱的記憶",
+    "notes": "帶數值恩賜條件（darkness-enemies）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Mandíbula": {
+    "zh": "顎口",
+    "notes": "帶數值恩賜條件（darkness-enemies）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Comer sentimientos positivos": {
+    "zh": "吞食正面情感",
+    "notes": "帶數值恩賜條件（darkness-enemies）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Conjuros de Llamas Oscuras": {
+    "zh": "暗焰咒語",
+    "notes": "帶數值恩賜條件（darkness-enemies）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Colgante de Llamas": {
+    "zh": "火焰墜飾",
+    "notes": "帶數值恩賜條件（darkness-enemies）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Laberinto de Oscuridad": {
+    "zh": "黑暗迷宮",
+    "notes": "帶數值恩賜條件（darkness-enemies）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Filacteria del corazón": {
+    "zh": "心臟容器",
+    "notes": "帶數值恩賜條件（darkness-enemies）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Grasa corporal": {
+    "zh": "體脂肪",
+    "notes": "帶數值恩賜條件（darkness-enemies）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Mayal de VHS": {
+    "zh": "VHS 連枷",
+    "notes": "帶數值恩賜條件（darkness-enemies）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Película corrupta": {
+    "zh": "腐化電影",
+    "notes": "帶數值恩賜條件（darkness-enemies）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Ofrecer lo que más se desea": {
+    "zh": "許下最渴望之物",
+    "notes": "帶數值恩賜條件（darkness-enemies）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Sala de Juntas": {
+    "zh": "會議室",
+    "notes": "帶數值恩賜條件（darkness-enemies）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Manos espada": {
+    "zh": "刀劍之手",
+    "notes": "帶數值恩賜條件（darkness-enemies）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Contrato": {
+    "zh": "契約書",
+    "notes": "帶數值恩賜條件（darkness-enemies）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Susurro de odio": {
+    "zh": "仇恨的低語",
+    "notes": "帶數值恩賜條件（darkness-enemies）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Mordedura": {
+    "zh": "噬咬",
+    "notes": "帶數值恩賜條件（darkness-enemies）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Escudo de sangre": {
+    "zh": "鮮血之盾",
+    "notes": "帶數值恩賜條件（darkness-enemies）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Espada de sangre": {
+    "zh": "鮮血之劍",
+    "notes": "帶數值恩賜條件（darkness-enemies）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Conjuros de sangre letal": {
+    "zh": "致命血咒",
+    "notes": "帶數值恩賜條件（darkness-enemies）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Corona de Sangre": {
+    "zh": "鮮血王冠",
+    "notes": "帶數值恩賜條件（darkness-enemies）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Sombra": {
+    "zh": "影子",
+    "notes": "黑暗使徒主題（darkness-enemies）；與 La Sombra＝陰影不同條",
+    "status": "approved",
+    "is_term": true
+  },
+  "Cadenas": {
+    "zh": "鎖鏈",
+    "notes": "黑暗使徒主題（darkness-enemies）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Devorador": {
+    "zh": "吞噬者",
+    "notes": "黑暗使徒主題（darkness-enemies）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Películas": {
+    "zh": "電影",
+    "notes": "黑暗使徒主題（darkness-enemies）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Fuego de Llamas Oscuras": {
+    "zh": "暗焰之火",
+    "notes": "黑暗使徒主題（darkness-enemies）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Equipo audiovisual": {
+    "zh": "影音設備",
+    "notes": "黑暗使徒主題（darkness-enemies）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Filos y cuchillas": {
+    "zh": "刀鋒與利刃",
+    "notes": "黑暗使徒主題（darkness-enemies）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Sangre": {
+    "zh": "鮮血",
+    "notes": "黑暗使徒主題（darkness-enemies）",
+    "status": "approved",
+    "is_term": true
+  },
+  "garras y colmillos": {
+    "zh": "利爪與尖牙",
+    "notes": "黑暗使徒主題（darkness-enemies）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Prisión del Corazón": {
+    "zh": "心靈之牢",
+    "notes": "敵方招式（light-vs-darkness）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Luz de las estrellas": {
+    "zh": "星之光",
+    "notes": "登呂美的主題（light-vs-darkness）",
+    "status": "approved",
+    "is_term": true
+  },
+  "escuela Suna": {
+    "zh": "砂丘學園",
+    "notes": "學校名（first-chapter）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Ice Strike!": {
+    "zh": "冰霜突擊",
+    "notes": "井上的心之力招式（first-chapter，首次出現以 ruby 標註英文原名）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Monochrome Shield": {
+    "zh": "單色護盾",
+    "notes": "明里的心之力（first-chapter，首次出現以 ruby 標註英文原名；light-vs-darkness 章保留英文）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Bola de Dan": {
+    "zh": "鬥球小子彈平",
+    "notes": "戲仿動畫名（first-chapter）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Origen del Pacto": {
+    "zh": "盟約的起源",
+    "notes": "機制總稱（introduction）",
+    "status": "approved",
+    "is_term": true
+  },
+  "monstruo de la semana": {
+    "zh": "每週一怪物",
+    "notes": "類型語彙（introduction、pacts）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Movimiento de Avance": {
+    "zh": "進階動作",
+    "notes": "機制詞（archetypes、advancement）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Corromper (Poder Sagrado)": {
+    "zh": "腐化",
+    "notes": "消歧條目：聖母神聖力量的效果選項（archetypes），與本影衝動 Corromper＝墮化分譯（D19）；原書用詞同為 Corromper，不參與語料比對",
+    "is_term": false
   }
 }

@@ -7,6 +7,7 @@ import hashlib
 import json
 import re
 from collections import Counter, defaultdict
+from functools import lru_cache
 from json import JSONDecodeError
 from pathlib import Path
 from typing import Any
@@ -43,6 +44,21 @@ INDEX_CACHE = CACHE_DIR / "index.json"
 CANDIDATE_CACHE = CACHE_DIR / "candidates.json"
 
 WORD_RE = re.compile(r"[A-Za-z][A-Za-z0-9'_-]{2,}")
+# Typographic apostrophe variants seen in PDF-extracted text (e.g. "Let´s",
+# "Let’s") mapped to ASCII "'" so tokenization and matching are stable.
+# All replacements are 1:1 so character offsets stay valid.
+CHAR_EQUIVALENTS = str.maketrans({
+    "’": "'",  # ’ right single quotation mark
+    "‘": "'",  # ‘ left single quotation mark
+    "´": "'",  # ´ acute accent used as apostrophe
+    "ʼ": "'",  # ʼ modifier letter apostrophe
+})
+
+
+def normalize_chars(text: str) -> str:
+    return text.translate(CHAR_EQUIVALENTS)
+
+
 STOPWORDS = {
     "the", "and", "for", "with", "that", "this", "from", "are", "you", "your",
     "not", "can", "all", "any", "into", "use", "using", "each", "when", "then",
@@ -207,6 +223,7 @@ def _doc_key(text: str) -> str:
 def parse_doc(text: str) -> Doc:
     if not SPACY_AVAILABLE:
         raise RuntimeError("spaCy is not available")
+    text = normalize_chars(text)
     key = _doc_key(text)
     cached = _DOC_CACHE.get(key)
     if cached is not None:
@@ -216,12 +233,31 @@ def parse_doc(text: str) -> Doc:
     return doc
 
 
+@lru_cache(maxsize=None)
+def _singular_norm(norm: str) -> str:
+    """Conservatively singularize a normalized token.
+
+    The lightweight lookup lemmatizer leaves words outside its English table
+    untouched (e.g. Spanish nouns like "Puntos"), so plural glossary keys fail
+    to match singular corpus text. Fall back to inflect; applied symmetrically
+    to both term and content tokens, so matching stays consistent.
+    """
+    if not INFLECT_AVAILABLE or INFLECT is None:
+        return norm
+    if len(norm) < 3 or not norm.isalpha():
+        return norm
+    singular = INFLECT.singular_noun(norm)
+    if isinstance(singular, str) and singular and singular.lower() != norm:
+        return singular.lower()
+    return norm
+
+
 def _normalized_tokens(doc: Doc) -> list[dict[str, Any]]:
     tokens: list[dict[str, Any]] = []
     for tok in doc:
         if tok.is_space or tok.is_punct:
             continue
-        norm = (tok.lemma_ or tok.lower_).lower()
+        norm = _singular_norm((tok.lemma_ or tok.lower_).lower())
         tokens.append(
             {
                 "norm": norm,
@@ -277,8 +313,8 @@ def _term_pattern_inflect(term: str) -> re.Pattern[str]:
 
 def find_term_spans(content: str, term: str) -> list[tuple[int, int]]:
     if not SPACY_AVAILABLE:
-        pattern = _term_pattern_inflect(term)
-        return [(m.start(), m.end()) for m in pattern.finditer(content)]
+        pattern = _term_pattern_inflect(normalize_chars(term))
+        return [(m.start(), m.end()) for m in pattern.finditer(normalize_chars(content))]
 
     term_norms = _term_norms(term)
     if not term_norms:
