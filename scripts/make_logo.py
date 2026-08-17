@@ -2,6 +2,7 @@
 # requires-python = ">=3.11"
 # dependencies = [
 #   "resvg-py>=0.1",
+#   "pillow>=10.0",
 # ]
 # ///
 """Mahō Shōjo 透明底 logo 產生器。
@@ -29,6 +30,15 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 OUT_SVG = ROOT / "docs" / "public" / "logo.svg"
 PNG_WIDTHS = [1024, 512]  # 產出的 PNG 寬度（檔名 logo-{寬}.png）
+
+# OG 社群預覽圖（1200×630、不透明）：夜色紫底＋淡星＋logo 置中
+OUT_OG = ROOT / "docs" / "public" / "og-image.jpg"
+OG_BG_A = "#241b4e"   # 背景放射漸層中心
+OG_BG_B = "#12102a"   # 背景放射漸層邊緣（同 intro theme-color）
+OG_STARS = [  # 背景淡星 (x, y, 大小, 透明度)
+    (90, 80, 10, 0.5), (200, 540, 8, 0.4), (1110, 100, 12, 0.5), (1040, 560, 9, 0.45),
+    (60, 330, 7, 0.35), (1150, 330, 8, 0.35), (320, 60, 7, 0.4), (880, 580, 7, 0.4),
+]
 
 HEART_A = "#f68cc4"       # 愛心漸層上端（粉）
 HEART_B = "#7c5bd6"       # 愛心漸層下端（紫）
@@ -128,7 +138,8 @@ def crown():
     return "\n".join(out)
 
 
-def build():
+def content():
+    """回傳 (defs, body)：logo 的漸層定義與圖形內容（座標系：心形上緣附近為原點）。"""
     grads = [
         f'<linearGradient id="hg" x1="0" y1="0" x2="0" y2="1">'
         f'<stop offset="0" stop-color="{HEART_A}"/><stop offset="1" stop-color="{HEART_B}"/></linearGradient>',
@@ -150,12 +161,31 @@ def build():
         f'<text x="0" y="118" font-size="96">Mahō</text>'
         f'<text x="6" y="212" font-size="96">Shōjo</text></g>'
     )
-    return f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="-470 -260 940 620" width="940" height="620">
-  <defs>{"".join(grads)}</defs>
-  {"".join(stars)}
+    body = f"""{"".join(stars)}
   {crown()}
   <path d="{HEART}" fill="url(#hg)" stroke="{HEART_STROKE}" stroke-width="12"/>
-  {text}
+  {text}"""
+    return "".join(grads), body
+
+
+def build():
+    defs, body = content()
+    return f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="-470 -260 940 620" width="940" height="620">
+  <defs>{defs}</defs>
+  {body}
+</svg>"""
+
+
+def build_og():
+    """1200×630 社群預覽圖：夜色紫底＋淡星＋logo 置中。"""
+    defs, body = content()
+    bg_stars = "".join(star(x, y, r, "#ffd98a", op) for x, y, r, op in OG_STARS)
+    return f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>{defs}<radialGradient id="ogbg" cx="0.5" cy="0.42" r="0.75">
+    <stop offset="0" stop-color="{OG_BG_A}"/><stop offset="1" stop-color="{OG_BG_B}"/></radialGradient></defs>
+  <rect width="1200" height="630" fill="url(#ogbg)"/>
+  {bg_stars}
+  <g transform="translate(600,280) scale(0.85)">{body}</g>
 </svg>"""
 
 
@@ -168,10 +198,18 @@ print("saved", OUT_SVG)
 # PNG 渲染（resvg；透明底、系統字型）
 # ============================================
 
+import io
+
 import resvg_py
+from PIL import Image
 
 for w in PNG_WIDTHS:
     png = bytes(resvg_py.svg_to_bytes(svg_string=svg, width=w, cursive_family="Brush Script MT"))
     out = OUT_SVG.parent / f"logo-{w}.png"
     out.write_bytes(png)
     print("saved", out, f"{len(png)} bytes")
+
+# OG 社群預覽圖（JPEG、不透明）
+og_png = bytes(resvg_py.svg_to_bytes(svg_string=build_og(), width=1200, cursive_family="Brush Script MT"))
+Image.open(io.BytesIO(og_png)).convert("RGB").save(OUT_OG, quality=90)
+print("saved", OUT_OG)
