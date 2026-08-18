@@ -58,6 +58,24 @@
 | D24 | C 級 248 筆本輪**不處理** | 報告留存備查，日後潤稿參考 |
 | D25 | 星辰城堡／星辰宮殿＝**星之城堡／星之宮殿** | 依 D3 命名家族（de las Estrellas）延伸 |
 | D26 | 跨章名稱分裂以定義章收斂 | 敞開心扉、友情的力量、令人作嘔的惡臭、暗焰餘燼 |
+| D27 | cambiar el tipo＝**扭轉時間** | darkness-enemies B6：採 tiempo 筆誤讀法，「改變自身形體」→「扭轉時間」 |
+| D28 | crea los deseos＝**種下願望** | darkness-enemies B7：採「創造願望」讀法，「創造首領、或幫助其實現願望」→「在首領心中種下願望、或幫助其實現願望」 |
+| D29 | intensa＝**偏激** | character-creation A4：使用者定案，「情感濃烈」→「偏激」 |
+| D30 | 受眷顧者選項名＝**維持現況** | character-creation／archetypes B1：「以正義之力」「心之引導」不改，兩詞待入 glossary |
+| D31 | escuela Suna＝**須賀學校** | first-chapter B4：視 Suna 為 Suga 誤植，與 moves 章統一；glossary 同步 |
+| D32 | Bola de Dan＝**《鬥球兒彈平》** | first-chapter B5：改用台灣通行譯名；glossary 同步 |
+| D33 | machacando＝**痛宰** | first-chapter B8：「碾壓」→「多年來一直痛宰我們」 |
+| D34 | Contorsionismo＝**柔體術**（維持） | eclipse B5：不再改動，維持柔體術／至尊柔體術師 |
+| D35 | 心之力（ ）＝**維持空括號＋譯註** | eclipse B8：經比對原書即為空括號 |
+| D36 | al ocultarlas＝**隱而不宣** | eclipse B6：改為「由於你將它們隱而不宣，因此必須……」 |
+| D37 | index 結尾＝**正義的騎士** | index B1：與盟約專名「正義騎士」刻意區隔（加「的」），保留呼應與對仗（推翻 D4） |
+| D38 | index 開場＝**光明的子女們！** | index B2：同 D37 原則，與盟約專名「光明子女」區隔 |
+| D39 | monstruo de la semana＝**本週主打怪** | introduction B2：introduction／pacts 兩處與 glossary 同步（原「每週一怪物」） |
+| D40 | DM／DJ＝**地下城主（DM）或遊戲主持人（GM）** | mc-guide B7：DJ 改用台灣圈內通行的 GM |
+| D41 | exponer su corazón＝**不設防地交出真心** | mc-guide B9：採候選 2，並避開動作名「敞開心扉」撞名 |
+| D42 | mientras cumple＝**PC 被禁足**讀法 | mc-guide B8：改為「戀人在畫面之外等著她，而她本人正被父母禁足」，與下句 NPC／PC 對照一致 |
+| D43 | Señora de la Oscuridad＝**黑暗主宰** | pacts B3：推翻 D14「黑暗女君」，避開與前一動作「眾生之上的女王」(Reina) 的頭銜重疊；glossary 同步 |
+| D44 | luchadora＝**戰士**（維持） | setting B6：契約傀儡節維持「戰士」，不改用魔法少女／少女戰士 |
 
 ## 注意事項（執行 agent 必讀）
 

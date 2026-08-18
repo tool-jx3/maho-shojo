@@ -1,7 +1,7 @@
 {
   "_meta": {
     "description": "術語表 - 西班牙語遊戲術語對照繁體中文翻譯",
-    "updated": "2026-08-17T17:46:08+00:00",
+    "updated": "2026-08-18T12:30:25+00:00",
     "source": "MAHO_SHOJO_RN022_EBOOK"
   },
   "Movimiento": {
@@ -1420,8 +1420,8 @@
     "is_term": true
   },
   "Señora de la Oscuridad": {
-    "zh": "黑暗女君",
-    "notes": "黑暗動作：契約傀儡盟約・偶像（pacts）；D14 定案",
+    "zh": "黑暗主宰",
+    "notes": "黑暗動作：契約傀儡盟約・偶像（pacts）；D43 改名（原 D14 黑暗女君），避開前一動作「眾生之上的女王」(Reina) 撞名",
     "status": "approved",
     "is_term": true
   },
@@ -3067,8 +3067,8 @@
     "is_term": true
   },
   "escuela Suna": {
-    "zh": "砂丘學園",
-    "notes": "學校名（first-chapter）",
+    "zh": "須賀學校",
+    "notes": "學校名（first-chapter）；源文 Suna 視為 Suga 誤植，與 moves 章「須賀學校」統一（D31）",
     "status": "approved",
     "is_term": true
   },
@@ -3085,8 +3085,8 @@
     "is_term": true
   },
   "Bola de Dan": {
-    "zh": "鬥球小子彈平",
-    "notes": "戲仿動畫名（first-chapter）",
+    "zh": "鬥球兒彈平",
+    "notes": "戲仿動畫名（first-chapter）；採台灣通行譯名《鬥球兒彈平》（D32）",
     "status": "approved",
     "is_term": true
   },
@@ -3097,8 +3097,8 @@
     "is_term": true
   },
   "monstruo de la semana": {
-    "zh": "每週一怪物",
-    "notes": "類型語彙（introduction、pacts）",
+    "zh": "本週主打怪",
+    "notes": "類型語彙（introduction、pacts）；台灣動漫圈說法（D39）",
     "status": "approved",
     "is_term": true
   },
