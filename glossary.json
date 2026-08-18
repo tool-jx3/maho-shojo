@@ -752,7 +752,7 @@
   "Corazón de Luz": {
     "zh": "光之心",
     "is_term": true,
-    "notes": "地球上的光明聖地；亦為勇者進階動作名（archetypes、advancement，同名同譯）"
+    "notes": "地球上的光明聖地；亦為勇者進階動作名（archetypes、advancement，同名同譯）；亦為勇者原型的進階動作名（archetypes、advancement 兩章）。"
   },
   "Dandere": {
     "zh": "無口型",
@@ -1682,7 +1682,7 @@
     "is_term": true
   },
   "Regeneración oscura": {
-    "zh": "黑暗重生",
+    "zh": "黑暗再生",
     "notes": "黑暗動作：契約傀儡盟約（pacts）",
     "status": "approved",
     "is_term": true
@@ -2634,7 +2634,7 @@
     "is_term": true
   },
   "Contaminar": {
-    "zh": "汙染",
+    "zh": "污染",
     "notes": "皇冠（eclipse）",
     "status": "approved",
     "is_term": true
