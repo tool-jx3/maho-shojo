@@ -186,6 +186,27 @@ for _t, _body in sections(LVD, 2):
         if _p:
             CONS_INFO['落敗'] = {'attribute': '', 'text': re.sub(r'\[(.+?)\]\(.+?\)', r'\1', _p[0])}
 
+# ---------------- 心之力與終曲（light-vs-darkness.md） ----------------
+HEART = {}
+for _t, _body in sections(LVD, 2):
+    if _t != '心之力與終曲':
+        continue
+    for _sub, _sec in sections(_body, 3):
+        m = re.match(r'^心之力（([ADP])）', _sub)
+        key = m.group(1) if m else ('finalem' if _sub == '終曲' else None)
+        if not key:
+            continue
+        effects, para = [], []
+        for _l in _sec:
+            x = _l.strip()
+            if x.startswith(':::'):
+                break
+            if x.startswith('- '):
+                effects.append(re.sub(r'\[(.+?)\]\(.+?\)', r'\1', x[2:].strip()))
+            elif x and not x.startswith('選擇一個效果'):
+                para.append(re.sub(r'\[(.+?)\]\(.+?\)', r'\1', x))
+        HEART[key] = {'title': _sub, 'effects': effects, 'note': '\n'.join(para).strip()}
+
 # ---------------- 原型扮演書 ----------------
 ARCH = read('archetypes.md')
 intro_secs = dict(sections(sections(ARCH, 2)[0][1], 3))
@@ -332,7 +353,7 @@ for t, b in sections(mv['基礎動作'], 3):
 
 data = {'playbooks': playbooks, 'friendship': friendship, 'romance': romance,
         'pacts': pacts, 'basicMoves': basic_moves, 'attributeKeys': ATTR_KEYS,
-        'consequenceInfo': CONS_INFO}
+        'consequenceInfo': CONS_INFO, 'heartPowers': HEART}
 os.makedirs('docs/src/data', exist_ok=True)
 io.open('docs/src/data/rules.json', 'w', encoding='utf-8').write(
     json.dumps(data, ensure_ascii=False, indent=2) + '\n')

@@ -101,6 +101,7 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 			};
 			let S = structuredClone(BLANK);
 			let ADV_OPEN = []; // 成長卡的展開狀態，僅存在於瀏覽期間，不寫入存檔或網址
+			const STEP_OPEN = {}; // 各建立步驟的展開狀態，重繪時要保留
 
 			const playbook = () => RULES.playbooks.find((p) => p.name === S.pb) || null;
 			const pact = () => RULES.pacts.find((p) => p.name === S.pact) || null;
@@ -121,6 +122,14 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 					out[b.k] += b.d;
 				});
 				return out;
+			}
+
+			// 能力量表：規則「如果光點數量超過目前的能力量表等級，則將量表提升至與當前光點數量相等」
+			// （量表在場景中不會下降，所以只往上提；被黑暗女神取代時改用暗點計算）
+			function syncPowerLevel() {
+				const driver = luxView().replace ? S.tenebrae || 0 : S.light || 0;
+				const target = Math.min(5, driver);
+				if (target > (S.power || 0)) S.power = target;
 			}
 
 			// 依「已完成」的成長紀錄套用效果：屬性、動作、形態、招牌額外選項
@@ -421,7 +430,8 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 			const POWER_KEYS = ['護甲', '昇華', '摧毀', '懲罰', '堅韌'];
 			function luxPowers() {
 				const lv = luxView();
-				const sum = { 護甲: 0, 昇華: 0, 摧毀: 0, 懲罰: 0, 堅韌: 0 };
+				// 規則（懲戒黑暗）：「變身後的玩家角色基礎造成的懲罰點數和摧毀點數為：懲罰/1 和摧毀/0」
+				const sum = { 護甲: 0, 昇華: 0, 摧毀: 0, 懲罰: 1, 堅韌: 0 };
 				const hearts = [];
 				let finalem = false;
 				const take = (cell) => {
@@ -586,7 +596,11 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 			}
 			function section(title, hint) {
 				const d = el('details', 'step');
-				d.open = true;
+				const key = title.split('・')[0];
+				d.open = STEP_OPEN[key] !== false;
+				d.addEventListener('toggle', () => {
+					STEP_OPEN[key] = d.open;
+				});
 				const s = el('summary');
 				s.appendChild(el('span', 'stitle', title));
 				if (hint) s.appendChild(el('span', 'shint', hint));
@@ -683,10 +697,17 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 						const cell = el('div', 'attrcell');
 						cell.appendChild(el('span', 'akey', k));
 						cell.appendChild(el('b', 'aval', sign(fa[k])));
+						// 建立時的調整不得讓屬性超出 -2 ～ +2；成長帶來的加值另計，可突破到 +3
+						const manual = (S.bumps || []).reduce((n, b) => n + (b.k === k && !b.fromAdv ? b.d : 0), 0);
+						const base = fa[k] - (S.bumps || []).reduce((n, b) => n + (b.k === k ? b.d : 0), 0);
 						const ctrl = el('div', 'actrl');
 						[-1, 1].forEach((delta) => {
+							const next = base + manual + delta;
+							const blocked = next > 2 || next < -2;
 							const b = el('button', 'tiny');
 							b.type = 'button';
+							b.disabled = blocked;
+							b.title = blocked ? '建立時任何屬性不得高於 +2 或低於 -2' : '';
 							b.textContent = delta > 0 ? '＋' : '−';
 							b.addEventListener('click', () => {
 								S.bumps = S.bumps || [];
@@ -716,7 +737,9 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 						d.appendChild(chips);
 					}
 					d.appendChild(
-						el('p', 'note dim', '建立時任何屬性不得高於 +2 或低於 -2；成長與光之裝束力量可突破此限制。')
+						el('p', 'note dim',
+							'建立時任何屬性不得高於 +2 或低於 -2，超過的加減按鈕會停用；' +
+							'成長（上限 +3）與光之裝束的昇華可突破此限制，兩者都不受這裡的按鈕限制。')
 					);
 					root.appendChild(d);
 				}
@@ -1038,6 +1061,13 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 					const g = el('div', 'fgrid');
 					g.appendChild(field('能力等級', numInput('power', 0, 5)));
 					d.appendChild(g);
+					const driverName = luxView().replace ? '暗點' : '光點';
+					const driverVal = luxView().replace ? S.tenebrae || 0 : S.light || 0;
+					d.appendChild(
+						el('p', 'note dim',
+							'能力等級會自動跟著' + driverName + '提升（目前 ' + driverName + ' ' + driverVal + '），' +
+							'量表在場景中不會下降，所以只會往上調；場景結束或脫下光之裝束時請自行歸 0。')
+					);
 					const formNote = el('p', 'note');
 					formNote.textContent =
 						'形態：基礎形態　超級形態 ' + (S.superForm ? '✓ 已解鎖' : '✗ 未解鎖') +
@@ -1050,6 +1080,9 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 
 					d.appendChild(el('p', 'note', '目前解鎖的力量（能力等級 ' + S.power + ' 及以下，所有已解鎖形態累加）'));
 					d.appendChild(powerSummary(false));
+					d.appendChild(
+						el('p', 'note dim', '變身後的基礎值為懲罰 1、摧毀 0，量表與加值都疊加在這之上。')
+					);
 
 					// 量表以外的加值來源
 					const srcs = grantSources();
@@ -1123,12 +1156,13 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 					}
 
 					const hUnlocked = luxPowers().hearts.length;
-					const hMade = (S.hearts || []).filter((h) => h.name || h.effect).length;
+					const hMade = (S.hearts || []).filter((h) => h.name || h.effect || h.rule).length;
 					d.appendChild(
 						el('p', 'note' + (hMade > hUnlocked ? ' warn' : ''),
 							'心之力（能力量表已解鎖 ' + hUnlocked + ' 個，目前填寫 ' + hMade + ' 個）')
 					);
 					(S.hearts || []).forEach((h, i) => {
+						const wrap = el('div', 'heartitem');
 						const row = el('div', 'heartrow');
 						const n = el('input');
 						n.type = 'text';
@@ -1171,16 +1205,46 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 						row.appendChild(sel);
 						row.appendChild(eff);
 						row.appendChild(del);
-						d.appendChild(row);
+						wrap.appendChild(row);
+
+						// 規則效果：各類別各有一組可選效果，建立時擇一
+						const hp = (RULES.heartPowers || {})[h.cat];
+						if (hp) {
+							wrap.appendChild(el('p', 'note dim', hp.title + '：選擇一個效果'));
+							const opts = el('div', 'pactrow wrapy');
+							hp.effects.forEach((t) => {
+								const on = h.rule === t;
+								const b = el('button', 'pactbtn' + (on ? ' on' : ''));
+								b.type = 'button';
+								b.textContent = t;
+								b.addEventListener('click', () => {
+									h.rule = on ? '' : t;
+									render();
+								});
+								opts.appendChild(b);
+							});
+							wrap.appendChild(opts);
+							if (hp.note) wrap.appendChild(el('p', 'note dim', hp.note));
+						}
+						d.appendChild(wrap);
 					});
 					const add = el('button', 'small');
 					add.type = 'button';
 					add.textContent = '＋ 新增心之力';
+					add.disabled = (S.hearts || []).length >= 3;
+					add.title = add.disabled ? '規則：玩家角色最多只能擁有三個心之力' : '';
 					add.addEventListener('click', () => {
-						S.hearts.push({ name: '', cat: 'A', effect: '' });
+						S.hearts.push({ name: '', cat: 'A', effect: '', rule: '' });
 						render();
 					});
 					d.appendChild(add);
+					d.appendChild(
+						el('p', 'note dim',
+							'心之力每場景各只能使用一次，最多三個；需先由能力量表解鎖對應等級才能發動。' +
+							(RULES.heartPowers && RULES.heartPowers.finalem
+								? '　終曲：' + RULES.heartPowers.finalem.note.split('\n').slice(1).join(' ')
+								: ''))
+					);
 					root.appendChild(d);
 				}
 
@@ -1195,11 +1259,29 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 					g.appendChild(field('玩家角色人數', numInput('players', 1, 8)));
 					d.appendChild(g);
 					const need = (S.players || 4) + doneAdvCount();
-					const gate = el('p', 'note' + (S.shine >= need ? ' ok' : ''));
+					const ready = S.shine >= need;
+					const gate = el('p', 'note' + (ready ? ' ok' : ''));
 					gate.textContent =
-						'觸發門檻：玩家角色人數 + 已獲得成長次數 = ' + need +
-						'　目前 ' + S.shine + (S.shine >= need ? '　✓ 可執行「閃耀時刻！」' : '　尚未達成');
+						'觸發門檻：玩家角色人數 + 已獲得成長次數 = ' + need + '　目前 ' + S.shine +
+						(ready ? '　✓ 已達成' : '　尚未達成');
 					d.appendChild(gate);
+					if (ready) {
+						// 規則：「獲得成長後，清除盟約扮演書上所有的閃耀點數。」
+						const blocked = S.advances.some((a) => !a.done);
+						const go = el('button', 'small primary');
+						go.type = 'button';
+						go.textContent = '執行「閃耀時刻！」';
+						go.disabled = blocked;
+						go.title = blocked ? '請先完成上一次成長的處理項目' : '新增一次成長並把盟約閃耀點數歸零';
+						go.addEventListener('click', () => {
+							ADV_OPEN[S.advances.length] = true;
+							S.advances.push({ opt: '', detail: '', done: false });
+							S.shine = 0;
+							render();
+						});
+						d.appendChild(go);
+						d.appendChild(el('p', 'note dim', '會新增一次成長，並依規則把盟約閃耀點數歸零。'));
+					}
 
 					// 成長紀錄
 					S.advances.forEach((a, idx) => {
@@ -1609,14 +1691,19 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 					(lv.extra ? '　' + lv.extra.name + '：已取得' : '') +
 					(lv.replace ? '　※ 量表已由「' + lv.replace.name + '」取代，使用暗點計算等級' : ''));
 				p1.appendChild(
-					sheetBlock('光之裝束・能力量表', [tbl, luxNote, powerSummary(true), el('p', 'tiny-note', '目前解鎖的力量（各形態與各等級累加）')])
+					sheetBlock('光之裝束・能力量表', [tbl, luxNote, powerSummary(true), el('p', 'tiny-note', '目前解鎖的力量（變身後基礎為懲罰 1、摧毀 0，各形態與各等級累加）')])
 				);
 
-				const hearts = (S.hearts || []).filter((h) => h.name || h.effect);
+				const hearts = (S.hearts || []).filter((h) => h.name || h.effect || h.rule);
 				if (hearts.length) {
 					p1.appendChild(
 						sheetBlock('心之力', [
-							moveList(hearts.map((h) => ({ name: '（' + h.cat + '）' + (h.name || '未命名'), text: h.effect }))),
+							moveList(
+								hearts.map((h) => ({
+									name: '（' + h.cat + '）' + (h.name || '未命名'),
+									text: [h.rule, h.effect].filter(Boolean).join('\n'),
+								}))
+							),
 						])
 					);
 				}
@@ -1778,6 +1865,7 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 			}
 
 			function render() {
+				syncPowerLevel();
 				applyAdvances();
 				renderBuilder();
 				renderSheet();
@@ -2074,6 +2162,7 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 			.sublist summary { cursor: pointer; color: var(--ink-dim); font-size: .85rem; }
 			button:disabled { opacity: .45; cursor: not-allowed; }
 
+			.heartitem { border-left: 2px solid var(--line); padding-left: .5rem; margin-bottom: .5rem; }
 			.heartrow { display: grid; grid-template-columns: 1fr 7rem 1.4fr auto; gap: .35rem; align-items: center; }
 			.heartrow input, .heartrow select { padding: .3rem .5rem; border-radius: 8px; border: 1px solid var(--line); background: #171233; }
 
