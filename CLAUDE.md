@@ -83,6 +83,7 @@ MAHO SHOJO（魔法少女）PDF 遊戲規則翻譯專案。
 - **Frontend**: Astro 5 + Starlight (bun/npm)
 - **Scripts**: Python 3.11+ (uv)
 - **PDF Processing**: markitdown, pymupdf
+- **Search**: Pagefind + custom zh-TW segmentation layer (`docs/search/`, see its README)
 
 ### Key Paths
 
@@ -90,6 +91,7 @@ MAHO SHOJO（魔法少女）PDF 遊戲規則翻譯專案。
 | ------------------------------------------------ | -------------------------------------------------- |
 | `docs/`                                          | Astro documentation site                           |
 | `docs/src/content/docs/`                         | Markdown content                                   |
+| `docs/search/`                                   | zh-TW search enhancement (build post-process)      |
 | `scripts/`                                       | Python processing scripts                          |
 | `data/pdfs/`                                     | Source PDF files                                   |
 | `data/markdown/`                                 | Extracted Markdown                                 |

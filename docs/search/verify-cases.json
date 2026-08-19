@@ -1,0 +1,11 @@
+{
+  "_comment": "本專案語料（31 頁規則書）的驗收查詢集，欄位說明見 README.md。min/max 取 2026-08-19 實測健康值的容許範圍（約六至七成下限、兩三成上限餘裕）。",
+  "cases": [
+    { "query": "主持人", "min": 9, "max": 18, "first": "/rules/mc-guide/$" },
+    { "query": "基礎動作", "min": 6, "max": 12, "first": "/rules/moves/$" },
+    { "query": "契約傀儡", "min": 5, "max": 10, "first": "/rules/pacts/$" },
+    { "query": "黑暗點數", "min": 6, "max": 13 }
+  ],
+  "expansion": "點數",
+  "icu": { "query": "不要慌張", "min": 1, "max": 5 }
+}
