@@ -92,9 +92,11 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 				power: 1, superForm: false, triumphForm: false, sigExtra: 0,
 				hearts: [{ name: '', cat: 'A', effect: '' }],
 				advMoves: [], shine: 0, players: 4, advances: [],
-				light: 0, dark: 0, darkLv: 0, cons: [], bonds: '', notes: '',
+				light: 0, tenebrae: 0, dark: 0, darkLv: 0, amity: 0, romLv: 0, impetus: 0, popularity: 0,
+				cons: [], bonds: '', notes: '',
 			};
 			let S = structuredClone(BLANK);
+			let ADV_OPEN = []; // 成長卡的展開狀態，僅存在於瀏覽期間，不寫入存檔或網址
 
 			const playbook = () => RULES.playbooks.find((p) => p.name === S.pb) || null;
 			const pact = () => RULES.pacts.find((p) => p.name === S.pact) || null;
@@ -240,6 +242,9 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 			}
 
 			const doneAdvCount = () => S.advances.filter((a) => a.done).length;
+			// 偶像人氣值上限：一般為 1，取得「登上舞台……Let's go」MAX+ 成長後為 3
+			const popularityMax = () =>
+				S.advances.some((a) => a.done && a.opt && a.opt.indexOf('MAX+') >= 0) ? 3 : 1;
 			// 盟約動作／盟約優勢：建立時 1 項，第六次成長再 1 項
 			const pactPickLimit = () => (doneAdvCount() >= 6 ? 2 : 1);
 			// 友情動作：建立時 1 個；光明子女盟約動作「友情是世界上最珍貴的寶物」再 +1
@@ -434,6 +439,7 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 							S.cons = [];
 							// 以下都綁定原型扮演書，換書後必須一併清除
 							S.advances = [];
+							ADV_OPEN = [];
 							S.darkMoves = [];
 							S.superForm = false;
 							S.triumphForm = false;
@@ -892,16 +898,24 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 					S.advances.forEach((a, idx) => {
 						const isAdvanced = idx >= 5; // 第 6 次起為進階成長
 						const pool = isAdvanced ? pb.advancedAdvances : pb.basicAdvances;
-						const card = el('div', 'advcard' + (a.done ? ' done' : ''));
-						const head = el('div', 'advhead');
+						const card = el('details', 'advcard' + (a.done ? ' done' : ''));
+						card.open = ADV_OPEN[idx] === undefined ? !a.done : ADV_OPEN[idx];
+						card.addEventListener('toggle', () => {
+							ADV_OPEN[idx] = card.open;
+						});
+						const head = el('summary', 'advhead');
 						head.appendChild(el('b', null, '第 ' + (idx + 1) + ' 次成長'));
 						head.appendChild(el('span', 'tagtype', isAdvanced ? '進階成長' : '基礎成長'));
+						if (a.opt) head.appendChild(el('span', 'advsum', a.opt));
 						const del = el('button', 'tiny');
 						del.type = 'button';
 						del.textContent = '✕';
 						del.title = '刪除這次成長';
-						del.addEventListener('click', () => {
+						del.addEventListener('click', (ev) => {
+							ev.preventDefault();
+							ev.stopPropagation();
 							S.advances.splice(idx, 1);
+							ADV_OPEN.splice(idx, 1);
 							applyAdvances();
 							render();
 						});
@@ -1045,6 +1059,7 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 					add.disabled = pending || poolFull;
 					add.title = pending ? '請先完成上一次成長的處理項目' : poolFull ? '此類成長的欄位已全部勾選' : '';
 					add.addEventListener('click', () => {
+						ADV_OPEN[S.advances.length] = true;
 						S.advances.push({ opt: '', detail: '', done: false });
 						render();
 					});
@@ -1074,9 +1089,21 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 					const d = section('9・狀態與後果');
 					const g = el('div', 'fgrid');
 					g.appendChild(field('光點', numInput('light', 0, 20)));
+					g.appendChild(field('暗點', numInput('tenebrae', 0, 5)));
+					g.appendChild(field('友情點數', numInput('amity', 0, 10)));
 					g.appendChild(field('黑暗點數', numInput('dark', 0, 20)));
 					g.appendChild(field('黑暗等級', numInput('darkLv', 0, 5)));
+					if (romBook()) g.appendChild(field('戀愛等級', numInput('romLv', 0, 5)));
+					if (S.pb === '鬥士') g.appendChild(field('活力', numInput('impetus', 0, 20)));
+					if (S.pb === '偶像') g.appendChild(field('人氣值', numInput('popularity', 0, popularityMax())));
 					d.appendChild(g);
+					d.appendChild(
+						el('p', 'note dim',
+							'暗點與光點互相抵銷，上限 5；場景結束或脫下光之裝束時減少 1 點。友情點數上限 10，歸零會觸發阿特洛波斯之禍。')
+					);
+					if (S.light > 0 && S.tenebrae > 0) {
+						d.appendChild(el('p', 'note warn', '光點與暗點不會同時存在，請依規則互相抵銷。'));
+					}
 					d.appendChild(el('p', 'note', '後果'));
 					const box = el('div', 'checklist compact');
 					pb.consequences.concat(['落敗']).forEach((c, i) => {
@@ -1263,9 +1290,14 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 				// 狀態
 				const st = el('div', 'status');
 				st.appendChild(kv('光點', String(S.light)));
+				st.appendChild(kv('暗點', S.tenebrae + ' / 5'));
+				st.appendChild(kv('友情點數', S.amity + ' / 10'));
 				st.appendChild(kv('黑暗點數', String(S.dark)));
 				st.appendChild(kv('黑暗等級', String(S.darkLv)));
 				st.appendChild(kv('閃耀點數', S.shine + ' / ' + ((S.players || 4) + S.advances.length)));
+				if (romBook()) st.appendChild(kv('戀愛等級', S.romLv + ' / 5'));
+				if (S.pb === '鬥士') st.appendChild(kv('活力', String(S.impetus)));
+				if (S.pb === '偶像') st.appendChild(kv('人氣值', S.popularity + ' / ' + popularityMax()));
 				const consAll = pb.consequences.concat(['落敗']);
 				const cbox = el('div', 'cons');
 				consAll.forEach((c, i) => {
@@ -1415,6 +1447,7 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 				try {
 					const obj = JSON.parse(await f.text());
 					S = Object.assign(structuredClone(BLANK), obj);
+					ADV_OPEN = [];
 					render();
 					toast('已匯入 ' + f.name);
 				} catch (err) {
@@ -1433,10 +1466,14 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 					toast('複製失敗，請手動複製網址列');
 				}
 			});
-			$('#btn-print').addEventListener('click', () => window.print());
+			// window.print() 會同步阻塞，直接寫在事件處理內會被計入 INP；改為讓瀏覽器先完成這一幀
+			$('#btn-print').addEventListener('click', () => {
+				requestAnimationFrame(() => setTimeout(() => window.print(), 0));
+			});
 			$('#btn-reset').addEventListener('click', () => {
 				if (!confirm('確定要清空目前的角色卡？')) return;
 				S = structuredClone(BLANK);
+				ADV_OPEN = [];
 				history.replaceState(null, '', location.pathname);
 				render();
 			});
@@ -1447,6 +1484,7 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 				if (m) {
 					try {
 						S = Object.assign(structuredClone(BLANK), await decodeState(m[1]));
+						ADV_OPEN = [];
 					} catch (e) {
 						toast('網址中的角色資料無法解讀，已開新卡');
 					}
@@ -1629,7 +1667,10 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 				width: .62em; height: .62em; border: 1px solid currentColor;
 				border-radius: 2px; display: inline-block; box-sizing: border-box;
 			}
-			.bx.on { background: currentColor; }
+			.bx.on {
+				background: currentColor;
+				-webkit-print-color-adjust: exact; print-color-adjust: exact;
+			}
 			ul.advboxlist .boxrow { color: var(--star); }
 			.advboxes.sheet > .advboxcol > b { font-size: 9.5pt; color: #4a2a6b; }
 			.advboxes.sheet ul.advboxlist li { font-size: 9pt; color: #43385e; }
@@ -1641,7 +1682,16 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 				background: rgba(23, 18, 51, .6); display: flex; flex-direction: column; gap: .4rem;
 			}
 			.advcard.done { border-left-color: #8ce0b0; opacity: .92; }
-			.advhead { display: flex; align-items: center; gap: .5rem; }
+			.advhead { display: flex; align-items: center; gap: .5rem; cursor: pointer; list-style: none; }
+			.advhead::-webkit-details-marker { display: none; }
+			.advhead::before {
+				content: '▸'; color: var(--star); font-size: .8rem; transition: transform .15s;
+			}
+			details.advcard[open] > .advhead::before { transform: rotate(90deg); }
+			.advsum {
+				font-size: .78rem; color: var(--ink-dim);
+				overflow: hidden; text-overflow: ellipsis; white-space: nowrap; max-width: 14em;
+			}
 			.advhead b { font-size: .9rem; }
 			.tagtype {
 				font-size: .72rem; padding: .05rem .5rem; border-radius: 999px;
@@ -1723,6 +1773,10 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 			@page { size: A4; margin: 12mm; }
 			@media print {
 				body { background: #fff; color: #000; }
+				/* 勾選方框、量表底色等都必須照樣印出來，否則紙本看不出勾了什麼 */
+				.bx, .bx.on, .lux tr.on td, .consitem {
+					-webkit-print-color-adjust: exact; print-color-adjust: exact;
+				}
 				.no-print, .topbar, .foot, .toast { display: none !important; }
 				.wrap { display: block; padding: 0; max-width: none; }
 				.preview { position: static; }
