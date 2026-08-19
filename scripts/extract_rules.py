@@ -42,7 +42,7 @@ def bold_blocks(lines):
         elif name is not None:
             buf.append(l)
     flush()
-    return [power_grants(split_table(b)) for b in out if b['name']]
+    return [split_options(power_grants(split_table(b))) for b in out if b['name']]
 
 POWER_KEYS = ['護甲', '昇華', '摧毀', '懲罰', '堅韌']
 POWER_RE = re.compile(r'(護甲|昇華|摧毀|懲罰|堅韌)\s*\+\s*(\d+)')
@@ -68,6 +68,26 @@ def power_grants(block):
     else:
         mode = 'conditional'
     block['powerGrants'] = {'mode': mode, 'items': items}
+    return block
+
+def split_options(block):
+    """把「從清單中選擇三項效果」這種內嵌選單抽成結構化的 options。
+
+    目前只有聖母的「神聖力量」是這種形狀：說明後接一串 `- **名稱**：效果`。
+    """
+    text = block.get('text') or ''
+    m = re.search(r'選擇(三|3)項效果', text)
+    if not m:
+        return block
+    opts = [{'name': o.group(1).strip(), 'text': o.group(2).strip()}
+            for o in re.finditer(r'^\s*-\s*\*\*(.+?)\*\*[：:]\s*(.*)$', text, re.M)]
+    if len(opts) < 2:
+        return block
+    block['options'] = opts
+    block['chooseCount'] = 3
+    block['text'] = re.sub(r'^\s*-\s*\*\*.+?\*\*[：:].*$', '', text, flags=re.M)
+    block['text'] = re.sub(r'\n{3,}', '\n\n', block['text']).strip()
+    block['text'] = re.sub(r'\n*(同時獲得|也獲得)[：:]\s*$', '', block['text']).strip()
     return block
 
 def split_table(block):
@@ -232,7 +252,9 @@ def pb_list(lines):
     for t, b in sections(lines, 3):
         tags = next((re.sub(r'^\*\*標籤：\*\*\s*', '', l.strip()) for l in b
                      if l.strip().startswith('**標籤：**')), '')
-        out.append({'name': t, 'tags': tags, 'moves': bold_blocks(b)})
+        bonds = next((re.sub(r'^\*\*羈絆：\*\*\s*', '', l.strip()) for l in b
+                      if l.strip().startswith('**羈絆：**')), '')
+        out.append({'name': t, 'tags': tags, 'bonds': bonds, 'moves': bold_blocks(b)})
     return out
 friendship = pb_list(fr['友情扮演書'])
 romance = pb_list(fr['戀愛扮演書'])
@@ -276,9 +298,27 @@ for t, b in sections(PA, 2):
     for k in dark:
         tag_tables(dark[k])
 
+    # 黑暗等級 5 的後果：三種盟約各不相同，散落在該盟約的段落中
+    lv5, grab = [], False
+    for l in b:
+        x = l.strip()
+        if not x:
+            continue
+        if x.startswith('#'):
+            grab = False
+            continue
+        if '黑暗等級 5' in x or '黑暗等級達到 5' in x:
+            lv5.append(re.sub(r'\[(.+?)\]\(.+?\)', r'\1', x.lstrip('- ')))
+            grab = x.endswith('：') or x.endswith(':')
+            continue
+        if grab and x.startswith('- '):
+            lv5.append(re.sub(r'\[(.+?)\]\(.+?\)', r'\1', x[2:].strip()))
+        else:
+            grab = False
+
     pacts.append({'name': t.replace('盟約：', ''), 'moves': moves, 'coopMoves': coop,
                   'darkMoves': dark, 'darkRules': rules, 'advantages': adv,
-                  'advantageIntro': intro})
+                  'advantageIntro': intro, 'darkLevel5': lv5})
 
 # ---------------- 基礎動作 ----------------
 MV = read('moves.md')
