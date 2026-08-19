@@ -2143,12 +2143,6 @@
     "status": "approved",
     "is_term": true
   },
-  "Movimientos Especiales": {
-    "zh": "特殊動作",
-    "notes": "機制詞（character-creation、archetypes）",
-    "status": "approved",
-    "is_term": true
-  },
   "Movimientos de Libreto": {
     "zh": "扮演書動作",
     "notes": "機制詞（character-creation）",
@@ -3112,5 +3106,11 @@
     "zh": "腐化",
     "notes": "消歧條目：聖母神聖力量的效果選項（archetypes），與本影衝動 Corromper＝墮化分譯（D19）；原書用詞同為 Corromper，不參與語料比對",
     "is_term": false
+  },
+  "Movimiento Especial": {
+    "zh": "特殊動作",
+    "notes": "機制詞（character-creation、archetypes）",
+    "status": "approved",
+    "is_term": true
   }
 }
