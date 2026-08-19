@@ -271,6 +271,24 @@ for title, body in sections(ARCH, 2):
                 c = c.replace('○', '').strip()
                 if c: cons.append(c)
     sh, basic_adv, adv_adv, mode = sub.get('閃耀時刻！', []), [], [], None
+    def adv_effect(text, desc):
+        """把成長項目歸類成頁面要套用的效果。"""
+        if '提升一項屬性' in text:
+            return 'attr3' if '上限 3' in text else 'attr2'
+        if text.endswith('進階動作'):
+            return 'advMove'
+        if '友情扮演書動作' in text:
+            return 'frMove'
+        if '超級形態' in text:
+            return 'super'
+        if '凱旋形態' in text:
+            return 'triumph'
+        if '在角色建立時未選取的' in desc:
+            return 'sigChoice'   # 參謀天才／衛士光之盾／鬥士戰士之道：補選當初沒選的那一項
+        if '額外選擇尚未選取的' in desc:
+            return 'sigExtra3'   # 勇者受眷顧者／聖母神聖力量：多三個選項
+        return 'other'
+
     def adv_desc(text, kind):
         table = ADV_DESC.get(kind, {})
         if text in table:
@@ -288,8 +306,9 @@ for title, body in sections(ARCH, 2):
             m = re.match(r'^(○+)\s*', item)
             boxes = len(m.group(1)) if m else 1
             text = item[m.end():].strip() if m else item
+            desc = adv_desc(text, mode)
             (basic_adv if mode == 'b' else adv_adv).append(
-                {'text': text, 'boxes': boxes, 'desc': adv_desc(text, mode)})
+                {'text': text, 'boxes': boxes, 'desc': desc, 'effect': adv_effect(text, desc)})
     intro = [x.strip() for x in intro_secs.get(title, []) if x.strip() and not x.startswith('#')]
     playbooks.append({
         'name': title,
@@ -314,7 +333,27 @@ def pb_list(lines):
                      if l.strip().startswith('**標籤：**')), '')
         bonds = next((re.sub(r'^\*\*羈絆：\*\*\s*', '', l.strip()) for l in b
                       if l.strip().startswith('**羈絆：**')), '')
-        out.append({'name': t, 'tags': tags, 'bonds': bonds, 'moves': bold_blocks(b)})
+        questions = next((re.sub(r'^\*\*問題：\*\*\s*', '', l.strip()) for l in b
+                          if l.strip().startswith('**問題：**')), '')
+        # 標題後、第一個粗體區塊之前的說明文字
+        intro = []
+        for l in b:
+            x = l.strip()
+            if x.startswith('**') or x.startswith('|') or x.startswith(':::'):
+                break
+            if x:
+                intro.append(x)
+        # 戀愛量表（狀態／等級／效果）
+        levels = []
+        for l in b:
+            x = l.strip()
+            if not x.startswith('|') or set(x.replace('|', '').strip()) <= set(':- '):
+                continue
+            c = [y.strip() for y in x.strip('|').split('|')]
+            if len(c) == 3 and c[1] != '等級':
+                levels.append({'state': c[0], 'level': c[1], 'effect': c[2]})
+        out.append({'name': t, 'tags': tags, 'bonds': bonds, 'questions': questions,
+                    'intro': ' '.join(intro), 'levels': levels, 'moves': bold_blocks(b)})
     return out
 friendship = pb_list(fr['友情扮演書'])
 romance = pb_list(fr['戀愛扮演書'])
