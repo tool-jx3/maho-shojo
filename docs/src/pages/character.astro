@@ -87,10 +87,11 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 				v: 1, pb: '', name: '', life: '', age: '',
 				title: '', theme: '', color: '', talisman: '', zodiac: '', blood: '', treasure: '',
 				attrSet: 0, bumps: [], sig: [],
-				pact: '', pactMoves: [], fr: '', frMoves: [], rom: '', romMoves: [],
-				power: 1, superForm: false, triumphForm: false,
+				pact: '', pactMoves: [], pactAdv: [], darkMoves: [],
+				fr: '', frMoves: [], rom: '', romMoves: [],
+				power: 1, superForm: false, triumphForm: false, sigExtra: 0,
 				hearts: [{ name: '', cat: 'A', effect: '' }],
-				advMoves: [], shine: 0, advances: [],
+				advMoves: [], shine: 0, players: 4, advances: [],
 				light: 0, dark: 0, darkLv: 0, cons: [], bonds: '', notes: '',
 			};
 			let S = structuredClone(BLANK);
@@ -114,6 +115,37 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 					out[b.k] += b.d;
 				});
 				return out;
+			}
+
+			// 依「已完成」的成長紀錄套用效果：屬性、動作、形態、招牌額外選項
+			function applyAdvances() {
+				const pb = playbook();
+				if (!pb) return;
+				S.bumps = (S.bumps || []).filter((b) => !b.fromAdv);
+				S.advMoves = [];
+				S.frMoves = (S.frMoves || []).filter((i) => !S.advances.some((a) => a.done && a.opt.indexOf('友情扮演書動作') >= 0));
+				S.superForm = false;
+				S.triumphForm = false;
+				S.sigExtra = 0;
+				S.advances.forEach((a) => {
+					if (!a.done || !a.opt) return;
+					if (a.opt.indexOf('提升一項屬性') >= 0 && a.detail) {
+						S.bumps.push({ k: a.detail, d: 1, fromAdv: true });
+					} else if (a.opt.indexOf('進階動作') >= 0 && a.detail !== '') {
+						const i = parseInt(a.detail, 10);
+						if (!isNaN(i) && !S.advMoves.includes(i)) S.advMoves.push(i);
+					} else if (a.opt.indexOf('友情扮演書動作') >= 0 && a.detail !== '') {
+						const i = parseInt(a.detail, 10);
+						if (!isNaN(i) && !S.frMoves.includes(i)) S.frMoves.push(i);
+					} else if (a.detail === 'super') {
+						S.superForm = true;
+					} else if (a.detail === 'triumph') {
+						S.superForm = true;
+						S.triumphForm = true;
+					} else if (a.detail === 'sig3') {
+						S.sigExtra += 3;
+					}
+				});
 			}
 
 			// ========== 網址序列化（純前端，無後端） ==========
@@ -383,14 +415,16 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 					const sig = pb.signature;
 					const d = section('4・' + pb.signatureName, sig.mode === 'options' ? '選擇三個選項' : '');
 					if (sig.mode === 'options') {
+						const cap = sig.chooseCount + (S.sigExtra || 0);
+						if (S.sigExtra) d.appendChild(el('p', 'note ok', '成長已解鎖額外 ' + S.sigExtra + ' 個選項（可選 ' + cap + ' 項）'));
 						d.appendChild(
 							checkList(
 								sig.options,
 								(i) => S.sig.includes(i),
 								(i, on) => {
 									if (on) {
-										if (S.sig.length >= sig.chooseCount) {
-											toast('最多選擇 ' + sig.chooseCount + ' 項');
+										if (S.sig.length >= cap) {
+											toast('最多選擇 ' + cap + ' 項');
 											return;
 										}
 										S.sig.push(i);
@@ -443,30 +477,103 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 						b.addEventListener('click', () => {
 							S.pact = S.pact === p.name ? '' : p.name;
 							S.pactMoves = [];
+							S.pactAdv = [];
+							S.darkMoves = [];
 							render();
 						});
 						row.appendChild(b);
 					});
 					d.appendChild(row);
+
 					const pc = pact();
 					if (pc) {
-						(pc.advantages || []).forEach((a) => {
-							if (a.text) d.appendChild(el('p', 'note', a.text.replace(/\[(.+?)\]\(.+?\)/g, '$1')));
-						});
-						const list = pc.moves.length ? pc.moves : (pc.darkMoves[S.pb] || []);
-						if (list.length) {
-							d.appendChild(el('p', 'note', pc.moves.length ? '盟約動作：' : S.pb + '黑暗動作：'));
+						(pc.advantageIntro || []).forEach((x) =>
+							d.appendChild(el('p', 'note', x.replace(/\[(.+?)\]\(.+?\)/g, '$1')))
+						);
+
+						// 盟約優勢：契約傀儡為可選清單（建立時 1 項，第六次成長再 1 項）
+						if ((pc.advantages || []).length) {
+							d.appendChild(el('p', 'note', '盟約優勢（最多 2 項）'));
 							d.appendChild(
 								checkList(
-									list,
-									(i) => S.pactMoves.includes(i),
+									pc.advantages.map((a) => ({
+										name: a.name,
+										text: a.formTable
+											? a.text + '\n能力量表：' + a.formTable.map((r) => r.level + '　' + r.effect).join('｜')
+											: a.text,
+									})),
+									(i) => S.pactAdv.includes(i),
 									(i, on) => {
-										if (on) S.pactMoves.push(i);
-										else S.pactMoves = S.pactMoves.filter((x) => x !== i);
+										if (on) {
+											if (S.pactAdv.length >= 2) {
+												toast('盟約優勢最多 2 項');
+												return;
+											}
+											S.pactAdv.push(i);
+										} else S.pactAdv = S.pactAdv.filter((x) => x !== i);
 									}
 								)
 							);
 						}
+
+						// 盟約動作：光明子女／正義騎士
+						if ((pc.moves || []).length) {
+							d.appendChild(el('p', 'note', '盟約動作（建立時 1 項，第六次成長再 1 項）'));
+							d.appendChild(
+								checkList(
+									pc.moves,
+									(i) => S.pactMoves.includes(i),
+									(i, on) => {
+										if (on) {
+											if (S.pactMoves.length >= 2) {
+												toast('盟約動作最多 2 項');
+												return;
+											}
+											S.pactMoves.push(i);
+										} else S.pactMoves = S.pactMoves.filter((x) => x !== i);
+									}
+								)
+							);
+						}
+
+						// 合作動作：正義騎士（全隊共用，僅供查閱）
+						if ((pc.coopMoves || []).length) {
+							const det = el('details', 'sublist');
+							const sm = el('summary');
+							sm.textContent = '合作動作（全隊共用，共 ' + pc.coopMoves.length + ' 項）';
+							det.appendChild(sm);
+							pc.coopMoves.forEach((m) => {
+								const g = el('div', 'granted');
+								g.appendChild(el('b', null, m.name));
+								g.appendChild(el('p', null, m.text));
+								det.appendChild(g);
+							});
+							d.appendChild(det);
+						}
+
+						// 黑暗動作：契約傀儡，依原型，每獲得 1 級黑暗等級選 1 項
+						const dm = (pc.darkMoves || {})[S.pb] || [];
+						if (dm.length) {
+							d.appendChild(
+								el('p', 'note', S.pb + '黑暗動作（每獲得 1 級黑暗等級選 1 項，目前黑暗等級 ' + S.darkLv + '）')
+							);
+							d.appendChild(
+								checkList(
+									dm,
+									(i) => S.darkMoves.includes(i),
+									(i, on) => {
+										if (on) {
+											if (S.darkMoves.length >= S.darkLv) {
+												toast('黑暗等級 ' + S.darkLv + '：最多可選 ' + S.darkLv + ' 項黑暗動作');
+												return;
+											}
+											S.darkMoves.push(i);
+										} else S.darkMoves = S.darkMoves.filter((x) => x !== i);
+									}
+								)
+							);
+						}
+
 						if ((pc.darkRules || []).length) {
 							const ul = el('ul', 'rules');
 							pc.darkRules.forEach((r) => ul.appendChild(el('li', null, r.replace(/\[(.+?)\]\(.+?\)/g, '$1'))));
@@ -519,29 +626,16 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 					const d = section('7・光之裝束', '能力等級 ' + S.power);
 					const g = el('div', 'fgrid');
 					g.appendChild(field('能力等級', numInput('power', 0, 5)));
-					const sup = el('label', 'check inline');
-					const cs = el('input');
-					cs.type = 'checkbox';
-					cs.checked = !!S.superForm;
-					cs.addEventListener('change', () => {
-						S.superForm = cs.checked;
-						render();
-					});
-					sup.appendChild(cs);
-					sup.appendChild(el('span', null, '已解鎖超級形態'));
-					const tri = el('label', 'check inline');
-					const ct = el('input');
-					ct.type = 'checkbox';
-					ct.checked = !!S.triumphForm;
-					ct.addEventListener('change', () => {
-						S.triumphForm = ct.checked;
-						render();
-					});
-					tri.appendChild(ct);
-					tri.appendChild(el('span', null, '已解鎖凱旋形態'));
-					g.appendChild(sup);
-					g.appendChild(tri);
 					d.appendChild(g);
+					const formNote = el('p', 'note');
+					formNote.textContent =
+						'形態：基礎形態　超級形態 ' + (S.superForm ? '✓ 已解鎖' : '✗ 未解鎖') +
+						'　凱旋形態 ' + (S.triumphForm ? '✓ 已解鎖' : '✗ 未解鎖');
+					d.appendChild(formNote);
+					d.appendChild(el('p', 'note dim', '形態由步驟 8 的成長解鎖，不在此手動勾選。'));
+					const pcForm = pact();
+					const cForm = pcForm && (pcForm.advantages || []).find((a, i) => a.formTable && S.pactAdv.includes(i));
+					if (cForm) d.appendChild(el('p', 'note ok', '已取得盟約優勢「' + cForm.name + '」：角色卡會額外列出該形態的能力量表。'));
 
 					d.appendChild(el('p', 'note', '心之力'));
 					(S.hearts || []).forEach((h, i) => {
@@ -600,30 +694,177 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 					root.appendChild(d);
 				}
 
-				// 8. 成長
+				// 8. 成長（閃耀時刻！）
 				{
-					const d = section('8・閃耀時刻！', '已標記 ' + S.shine);
-					d.appendChild(field('已標記格數', numInput('shine', 0, 20)));
-					d.appendChild(el('p', 'note', '基礎成長'));
-					const ul = el('ul', 'rules');
-					pb.basicAdvances.forEach((x) => ul.appendChild(el('li', null, x)));
-					d.appendChild(ul);
-					d.appendChild(el('p', 'note', '進階成長（取得第五次成長後開放）'));
-					const ul2 = el('ul', 'rules');
-					pb.advancedAdvances.forEach((x) => ul2.appendChild(el('li', null, x)));
-					d.appendChild(ul2);
+					const done = S.advances.filter((a) => a.done).length;
+					const d = section('8・成長（閃耀時刻！）', '已完成 ' + done + ' 次');
 
-					d.appendChild(el('p', 'note', pb.name + '進階動作'));
-					d.appendChild(
-						checkList(
-							pb.advanceMoves,
-							(i) => S.advMoves.includes(i),
-							(i, on) => {
-								if (on) S.advMoves.push(i);
-								else S.advMoves = S.advMoves.filter((x) => x !== i);
+					// 閃耀點數門檻
+					const g = el('div', 'fgrid');
+					g.appendChild(field('盟約閃耀點數', numInput('shine', 0, 40)));
+					g.appendChild(field('玩家角色人數', numInput('players', 1, 8)));
+					d.appendChild(g);
+					const need = (S.players || 4) + S.advances.length;
+					const gate = el('p', 'note' + (S.shine >= need ? ' ok' : ''));
+					gate.textContent =
+						'觸發門檻：玩家角色人數 + 已獲得成長次數 = ' + need +
+						'　目前 ' + S.shine + (S.shine >= need ? '　✓ 可執行「閃耀時刻！」' : '　尚未達成');
+					d.appendChild(gate);
+
+					// 成長紀錄
+					S.advances.forEach((a, idx) => {
+						const isAdvanced = idx >= 5; // 第 6 次起為進階成長
+						const pool = isAdvanced ? pb.advancedAdvances : pb.basicAdvances;
+						const card = el('div', 'advcard' + (a.done ? ' done' : ''));
+						const head = el('div', 'advhead');
+						head.appendChild(el('b', null, '第 ' + (idx + 1) + ' 次成長'));
+						head.appendChild(el('span', 'tagtype', isAdvanced ? '進階成長' : '基礎成長'));
+						const del = el('button', 'tiny');
+						del.type = 'button';
+						del.textContent = '✕';
+						del.title = '刪除這次成長';
+						del.addEventListener('click', () => {
+							S.advances.splice(idx, 1);
+							render();
+						});
+						head.appendChild(del);
+						card.appendChild(head);
+
+						// 選擇成長項目
+						const sel = el('select');
+						const ph = el('option', null, '── 選擇成長項目 ──');
+						ph.value = '';
+						sel.appendChild(ph);
+						pool.forEach((opt) => {
+							const o = el('option', null, opt);
+							o.value = opt;
+							if (a.opt === opt) o.selected = true;
+							sel.appendChild(o);
+						});
+						sel.disabled = !!a.done;
+						sel.addEventListener('change', () => {
+							a.opt = sel.value;
+							a.detail = '';
+							render();
+						});
+						card.appendChild(sel);
+
+						// 依成長項目給出對應的處理控制項
+						if (a.opt) {
+							const opt = a.opt;
+							const detailWrap = el('div', 'advdetail');
+							const setDetail = (v) => {
+								a.detail = v;
+								render();
+							};
+							if (opt.indexOf('提升一項屬性') >= 0) {
+								const cap = opt.indexOf('3') >= 0 ? 3 : 2;
+								const fa = finalAttrs();
+								const row = el('div', 'pactrow');
+								ATTRS.forEach((k) => {
+									const full = fa[k] >= cap && a.detail !== k;
+									const b = el('button', 'pactbtn' + (a.detail === k ? ' on' : ''));
+									b.type = 'button';
+									b.disabled = !!a.done || full;
+									b.textContent = k + ' ' + sign(fa[k]) + (full ? '（已達上限）' : '');
+									b.addEventListener('click', () => setDetail(k));
+									row.appendChild(b);
+								});
+								detailWrap.appendChild(el('p', 'note dim', '選擇要 +1 的屬性（此項上限 ' + cap + '）'));
+								detailWrap.appendChild(row);
+							} else if (opt.indexOf('進階動作') >= 0) {
+								const row = el('div', 'pactrow wrapy');
+								pb.advanceMoves.forEach((m, mi) => {
+									const taken = S.advMoves.includes(mi) && a.detail !== String(mi);
+									const b = el('button', 'pactbtn' + (a.detail === String(mi) ? ' on' : ''));
+									b.type = 'button';
+									b.disabled = !!a.done || taken;
+									b.textContent = m.name + (taken ? '（已取得）' : '');
+									b.addEventListener('click', () => setDetail(String(mi)));
+									row.appendChild(b);
+								});
+								detailWrap.appendChild(el('p', 'note dim', '選擇一個進階動作'));
+								detailWrap.appendChild(row);
+							} else if (opt.indexOf('友情扮演書動作') >= 0) {
+								const fb = frBook();
+								if (!fb) {
+									detailWrap.appendChild(el('p', 'note warn', '請先在步驟 6 選擇友情扮演書'));
+								} else {
+									const row = el('div', 'pactrow wrapy');
+									fb.moves.forEach((m, mi) => {
+										const taken = S.frMoves.includes(mi) && a.detail !== String(mi);
+										const b = el('button', 'pactbtn' + (a.detail === String(mi) ? ' on' : ''));
+										b.type = 'button';
+										b.disabled = !!a.done || taken;
+										b.textContent = m.name + (taken ? '（已取得）' : '');
+										b.addEventListener('click', () => setDetail(String(mi)));
+										row.appendChild(b);
+									});
+									detailWrap.appendChild(el('p', 'note dim', fb.name + '：選擇一個動作'));
+									detailWrap.appendChild(row);
+								}
+							} else if (opt.indexOf('超級形態') >= 0) {
+								const okPrereq = idx >= 2; // 需已有 2 次成長，最早第 3 次
+								detailWrap.appendChild(
+									el('p', 'note' + (okPrereq ? ' dim' : ' warn'),
+										okPrereq ? '完成後解鎖超級形態。' : '需先取得 2 次成長，最早可在第 3 次成長時選擇。')
+								);
+								if (okPrereq && !a.detail) a.detail = 'super';
+							} else if (opt.indexOf('凱旋形態') >= 0) {
+								const hasSuper = S.superForm || S.advances.some((x, i) => i !== idx && x.done && x.detail === 'super');
+								detailWrap.appendChild(
+									el('p', 'note dim',
+										hasSuper ? '完成後解鎖凱旋形態。' : '尚未擁有超級形態，依規則本次改為取得超級形態。')
+								);
+								a.detail = hasSuper ? 'triumph' : 'super';
+							} else if (opt.indexOf('額外選項') >= 0) {
+								detailWrap.appendChild(el('p', 'note dim', '完成後可在步驟 4 再選 3 個選項。'));
+								if (!a.detail) a.detail = 'sig3';
+							} else {
+								if (!a.detail) a.detail = 'ok';
 							}
-						)
-					);
+							card.appendChild(detailWrap);
+						}
+
+						// 完成勾選：未填妥處理項目不能完成
+						const doneRow = el('label', 'check inline');
+						const cb = el('input');
+						cb.type = 'checkbox';
+						cb.checked = !!a.done;
+						cb.disabled = !a.opt || !a.detail;
+						cb.addEventListener('change', () => {
+							a.done = cb.checked;
+							applyAdvances();
+							render();
+						});
+						doneRow.appendChild(cb);
+						doneRow.appendChild(
+							el('span', null, a.done ? '已完成處理' : !a.opt ? '請先選擇成長項目' : !a.detail ? '請完成上方處理項目' : '標記為已完成')
+						);
+						card.appendChild(doneRow);
+						d.appendChild(card);
+					});
+
+					const pending = S.advances.some((a) => !a.done);
+					const add = el('button', 'small');
+					add.type = 'button';
+					add.textContent = '＋ 新增一次成長';
+					add.disabled = pending;
+					add.title = pending ? '請先完成上一次成長的處理項目' : '';
+					add.addEventListener('click', () => {
+						S.advances.push({ opt: '', detail: '', done: false });
+						render();
+					});
+					d.appendChild(add);
+					if (pending) d.appendChild(el('p', 'note warn', '上一次成長尚未處理完成，無法再升下一級。'));
+
+					// 目前已取得的進階動作一覽（唯讀，由成長流程產生）
+					if (S.advMoves.length) {
+						d.appendChild(el('p', 'note', '已取得的' + pb.name + '進階動作'));
+						const ul3 = el('ul', 'rules');
+						S.advMoves.forEach((i) => pb.advanceMoves[i] && ul3.appendChild(el('li', null, pb.advanceMoves[i].name)));
+						d.appendChild(ul3);
+					}
 					root.appendChild(d);
 				}
 
@@ -740,11 +981,36 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 				info.appendChild(c2);
 				p1.appendChild(sheetBlock('個人資料與變身', [info]));
 
-				// 能力量表
+				// 盟約與扮演書（即使沒有勾選動作也一定出現在列印內容中）
+				const books = el('div', 'cols2');
+				const bl = el('div');
+				bl.appendChild(kv('盟約', S.pact));
+				const fbSheet = frBook();
+				bl.appendChild(kv('友情扮演書', fbSheet ? fbSheet.name : ''));
+				const br = el('div');
+				const rbSheet = romBook();
+				br.appendChild(kv('戀愛扮演書', rbSheet ? rbSheet.name : ''));
+				br.appendChild(kv('成長次數', String(S.advances.filter((a) => a.done).length)));
+				books.appendChild(bl);
+				books.appendChild(br);
+				const bookExtras = [books];
+				if (fbSheet && fbSheet.tags) bookExtras.push(el('p', 'tiny-note', '友情標籤：' + fbSheet.tags));
+				p1.appendChild(sheetBlock('盟約與扮演書', bookExtras));
+
+				// 能力量表（若盟約優勢帶有額外形態，多一欄）
+				const pcSheet = pact();
+				const extraForm = pcSheet
+					? (pcSheet.advantages || []).find((a, i) => a.formTable && (S.pactAdv || []).includes(i))
+					: null;
+				const extraByLevel = {};
+				if (extraForm) extraForm.formTable.forEach((r) => (extraByLevel[r.level] = r.effect));
+
 				const tbl = el('table', 'lux');
 				const thead = el('thead');
 				const htr = el('tr');
-				['等級', '基礎形態', '超級形態', '凱旋形態'].forEach((h) => htr.appendChild(el('th', null, h)));
+				const heads = ['等級', '基礎形態', '超級形態', '凱旋形態'];
+				if (extraForm) heads.push(extraForm.name);
+				heads.forEach((h) => htr.appendChild(el('th', null, h)));
 				thead.appendChild(htr);
 				tbl.appendChild(thead);
 				const tb = el('tbody');
@@ -754,13 +1020,15 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 					tr.appendChild(el('td', null, r.basic));
 					tr.appendChild(el('td', S.superForm ? '' : 'lock', r.super || '—'));
 					tr.appendChild(el('td', S.triumphForm ? '' : 'lock', r.triumph || '—'));
+					if (extraForm) tr.appendChild(el('td', null, extraByLevel[r.level] || '—'));
 					tb.appendChild(tr);
 				});
 				tbl.appendChild(tb);
 				const luxNote = el('p', 'tiny-note',
 					'能力等級 ' + S.power +
 					'　超級形態：' + (S.superForm ? '已解鎖' : '未解鎖') +
-					'　凱旋形態：' + (S.triumphForm ? '已解鎖' : '未解鎖'));
+					'　凱旋形態：' + (S.triumphForm ? '已解鎖' : '未解鎖') +
+					(extraForm ? '　' + extraForm.name + '：已取得' : ''));
 				p1.appendChild(sheetBlock('光之裝束・能力量表', [tbl, luxNote]));
 
 				const hearts = (S.hearts || []).filter((h) => h.name || h.effect);
@@ -777,7 +1045,7 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 				st.appendChild(kv('光點', String(S.light)));
 				st.appendChild(kv('黑暗點數', String(S.dark)));
 				st.appendChild(kv('黑暗等級', String(S.darkLv)));
-				st.appendChild(kv('閃耀時刻！', String(S.shine)));
+				st.appendChild(kv('閃耀點數', S.shine + ' / ' + ((S.players || 4) + S.advances.length)));
 				const consAll = pb.consequences.concat(['落敗']);
 				const cbox = el('div', 'cons');
 				consAll.forEach((c, i) => {
@@ -810,13 +1078,30 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 					);
 				}
 				const pc = pact();
-				if (pc && S.pactMoves.length) {
-					const list = pc.moves.length ? pc.moves : pc.darkMoves[S.pb] || [];
-					p2.appendChild(
-						sheetBlock(pc.name + '・' + (pc.moves.length ? '盟約動作' : '黑暗動作'), [
-							moveList(S.pactMoves.map((i) => list[i]).filter(Boolean)),
-						])
-					);
+				if (pc) {
+					if ((S.pactAdv || []).length) {
+						p2.appendChild(
+							sheetBlock(pc.name + '・盟約優勢', [
+								moveList(
+									S.pactAdv
+										.map((i) => pc.advantages[i])
+										.filter(Boolean)
+										.map((a) => ({ name: a.name, text: a.text }))
+								),
+							])
+						);
+					}
+					if (S.pactMoves.length && pc.moves.length) {
+						p2.appendChild(
+							sheetBlock(pc.name + '・盟約動作', [moveList(S.pactMoves.map((i) => pc.moves[i]).filter(Boolean))])
+						);
+					}
+					const dmList = (pc.darkMoves || {})[S.pb] || [];
+					if ((S.darkMoves || []).length && dmList.length) {
+						p2.appendChild(
+							sheetBlock(S.pb + '黑暗動作', [moveList(S.darkMoves.map((i) => dmList[i]).filter(Boolean))])
+						);
+					}
 				}
 				const fb = frBook();
 				if (fb && S.frMoves.length) {
@@ -825,6 +1110,27 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 				const rb = romBook();
 				if (rb && S.romMoves.length) {
 					p2.appendChild(sheetBlock('戀愛・' + rb.name, [moveList(S.romMoves.map((i) => rb.moves[i]).filter(Boolean))]));
+				}
+
+				const doneAdv = S.advances.filter((a) => a.done);
+				if (doneAdv.length) {
+					const ul = el('ul', 'mlist compact');
+					doneAdv.forEach((a, i) => {
+						const li = el('li');
+						let detail = '';
+						if (a.opt.indexOf('提升一項屬性') >= 0) detail = a.detail + ' +1';
+						else if (a.opt.indexOf('進階動作') >= 0) detail = (pb.advanceMoves[a.detail] || {}).name || '';
+						else if (a.opt.indexOf('友情扮演書動作') >= 0) {
+							const fbx = frBook();
+							detail = fbx ? (fbx.moves[a.detail] || {}).name || '' : '';
+						} else if (a.detail === 'super') detail = '超級形態';
+						else if (a.detail === 'triumph') detail = '凱旋形態';
+						else if (a.detail === 'sig3') detail = '額外三個選項';
+						li.appendChild(el('b', null, '第 ' + (i + 1) + ' 次：' + a.opt));
+						if (detail) li.appendChild(el('span', null, detail));
+						ul.appendChild(li);
+					});
+					p2.appendChild(sheetBlock('成長紀錄', [ul]));
 				}
 
 				const basics = el('ul', 'mlist compact');
@@ -1048,6 +1354,30 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 			.granted { border-left: 2px solid var(--star); padding-left: .6rem; }
 			.granted b { font-size: .9rem; }
 			.granted p { color: var(--ink-dim); font-size: .82rem; white-space: pre-line; }
+
+			.note.ok { color: #8ce0b0; }
+			.note.warn { color: #ffb3c7; }
+			.advcard {
+				border: 1px solid var(--line); border-left: 3px solid var(--accent);
+				border-radius: 10px; padding: .5rem .7rem; margin-bottom: .5rem;
+				background: rgba(23, 18, 51, .6); display: flex; flex-direction: column; gap: .4rem;
+			}
+			.advcard.done { border-left-color: #8ce0b0; opacity: .92; }
+			.advhead { display: flex; align-items: center; gap: .5rem; }
+			.advhead b { font-size: .9rem; }
+			.tagtype {
+				font-size: .72rem; padding: .05rem .5rem; border-radius: 999px;
+				border: 1px solid var(--line); color: var(--ink-dim);
+			}
+			.advhead .tiny { margin-left: auto; }
+			.advcard select {
+				width: 100%; padding: .3rem .5rem; border-radius: 8px;
+				border: 1px solid var(--line); background: #171233;
+			}
+			.advdetail { display: flex; flex-direction: column; gap: .3rem; }
+			.sublist { border: 1px dashed var(--line); border-radius: 10px; padding: .4rem .6rem; }
+			.sublist summary { cursor: pointer; color: var(--ink-dim); font-size: .85rem; }
+			button:disabled { opacity: .45; cursor: not-allowed; }
 
 			.heartrow { display: grid; grid-template-columns: 1fr 7rem 1.4fr auto; gap: .35rem; align-items: center; }
 			.heartrow input, .heartrow select { padding: .3rem .5rem; border-radius: 8px; border: 1px solid var(--line); background: #171233; }

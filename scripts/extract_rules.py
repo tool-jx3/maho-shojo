@@ -158,10 +158,33 @@ for t, b in sections(PA, 2):
         dark[st.replace('黑暗動作', '')] = bold_blocks(sb)
     rules = [re.sub(r'^\s*-\s*', '', l).strip() for l in sub.get('黑暗', []) if l.strip().startswith('- ')]
     adv = bold_blocks(sub.get('盟約優勢', []))
+    intro = []
     if not adv:
-        adv = [{'name': '', 'text': x.strip()} for x in sub.get('盟約優勢', []) if x.strip()]
+        intro = [x.strip() for x in sub.get('盟約優勢', []) if x.strip()]
+    else:
+        # 粗體區塊之前的說明文字
+        for x in sub.get('盟約優勢', []):
+            if re.match(r'^\*\*.+\*\*\s*$', x.strip()): break
+            if x.strip(): intro.append(x.strip())
+    # 優勢內若含表格（契約傀儡的「契約形態」能力量表），單獨抽出
+    for a in adv:
+        rows, body = [], []
+        for line in a['text'].split('\n'):
+            ln = line.strip()
+            if ln.startswith('|') and not ln.startswith('|:'):
+                cells = [c.strip() for c in ln.strip('|').split('|')]
+                if len(cells) == 2 and cells[0].isdigit():
+                    rows.append({'level': int(cells[0]), 'effect': cells[1]})
+                    continue
+                if len(cells) == 2:  # 表頭
+                    continue
+            body.append(line)
+        if rows:
+            a['formTable'] = rows
+            a['text'] = '\n'.join(body).strip()
     pacts.append({'name': t.replace('盟約：', ''), 'moves': moves, 'coopMoves': coop,
-                  'darkMoves': dark, 'darkRules': rules, 'advantages': adv})
+                  'darkMoves': dark, 'darkRules': rules, 'advantages': adv,
+                  'advantageIntro': intro})
 
 # ---------------- 基礎動作 ----------------
 MV = read('moves.md')
