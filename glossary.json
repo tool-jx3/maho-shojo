@@ -317,7 +317,7 @@
   "Castigo": {
     "zh": "懲罰",
     "is_term": true,
-    "notes": "光之裝束力量：對黑暗勢力造成的傷害值"
+    "notes": "光之裝束力量：對黑暗使徒造成的傷害。原書 Castigo 兼作屬性名與點數單位，中譯分譯——屬性值作「懲罰值」（原文 Castigo／puntuación de Castigo），造成的點數作「懲罰點數」（原文 puntos de Castigo）"
   },
   "Medidor de Poder": {
     "zh": "能力量表",
@@ -362,7 +362,7 @@
   "Azote": {
     "zh": "摧毀",
     "is_term": true,
-    "notes": "光之裝束力量：一次消滅多個傀儡"
+    "notes": "光之裝束力量：一次消滅多個傀儡。與 Castigo 同例分譯——屬性值作「摧毀值」，造成的點數作「摧毀點數」（原文 puntos de Azote）"
   },
   "Resistente": {
     "zh": "堅韌",
@@ -752,7 +752,7 @@
   "Corazón de Luz": {
     "zh": "光之心",
     "is_term": true,
-    "notes": "地球上的光明聖地；亦為勇者進階動作名（archetypes、advancement，同名同譯）"
+    "notes": "地球上的光明聖地；亦為勇者進階動作名（archetypes、advancement，同名同譯）；亦為勇者原型的進階動作名（archetypes、advancement 兩章）。"
   },
   "Dandere": {
     "zh": "無口型",
@@ -1682,7 +1682,7 @@
     "is_term": true
   },
   "Regeneración oscura": {
-    "zh": "黑暗重生",
+    "zh": "黑暗再生",
     "notes": "黑暗動作：契約傀儡盟約（pacts）",
     "status": "approved",
     "is_term": true
@@ -2140,12 +2140,6 @@
   "Movimiento de Amistad": {
     "zh": "友情動作",
     "notes": "機制詞（friendship-romance、advancement、moves 等）",
-    "status": "approved",
-    "is_term": true
-  },
-  "Movimientos Especiales": {
-    "zh": "特殊動作",
-    "notes": "機制詞（character-creation、archetypes）",
     "status": "approved",
     "is_term": true
   },
@@ -2634,7 +2628,7 @@
     "is_term": true
   },
   "Contaminar": {
-    "zh": "汙染",
+    "zh": "污染",
     "notes": "皇冠（eclipse）",
     "status": "approved",
     "is_term": true
@@ -2719,8 +2713,8 @@
     "is_term": true
   },
   "Ungir el poder de la gran Luz": {
-    "zh": "受膏於偉大光明之力",
-    "notes": "自訂動作（eclipse）",
+    "zh": "沐浴偉大光明之力",
+    "notes": "自訂動作（eclipse）；原文 ungir 為宗教「膏抹」義，中譯採意象較通順的「沐浴」",
     "status": "approved",
     "is_term": true
   },
@@ -3112,5 +3106,11 @@
     "zh": "腐化",
     "notes": "消歧條目：聖母神聖力量的效果選項（archetypes），與本影衝動 Corromper＝墮化分譯（D19）；原書用詞同為 Corromper，不參與語料比對",
     "is_term": false
+  },
+  "Movimiento Especial": {
+    "zh": "特殊動作",
+    "notes": "機制詞（character-creation、archetypes）",
+    "status": "approved",
+    "is_term": true
   }
 }
