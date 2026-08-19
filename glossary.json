@@ -317,7 +317,7 @@
   "Castigo": {
     "zh": "懲罰",
     "is_term": true,
-    "notes": "光之裝束力量：對黑暗勢力造成的傷害值"
+    "notes": "光之裝束力量：對黑暗使徒造成的傷害。原書 Castigo 兼作屬性名與點數單位，中譯分譯——屬性值作「懲罰值」（原文 Castigo／puntuación de Castigo），造成的點數作「懲罰點數」（原文 puntos de Castigo）"
   },
   "Medidor de Poder": {
     "zh": "能力量表",
@@ -362,7 +362,7 @@
   "Azote": {
     "zh": "摧毀",
     "is_term": true,
-    "notes": "光之裝束力量：一次消滅多個傀儡"
+    "notes": "光之裝束力量：一次消滅多個傀儡。與 Castigo 同例分譯——屬性值作「摧毀值」，造成的點數作「摧毀點數」（原文 puntos de Azote）"
   },
   "Resistente": {
     "zh": "堅韌",
@@ -2713,8 +2713,8 @@
     "is_term": true
   },
   "Ungir el poder de la gran Luz": {
-    "zh": "受膏於偉大光明之力",
-    "notes": "自訂動作（eclipse）",
+    "zh": "沐浴偉大光明之力",
+    "notes": "自訂動作（eclipse）；原文 ungir 為宗教「膏抹」義，中譯採意象較通順的「沐浴」",
     "status": "approved",
     "is_term": true
   },
