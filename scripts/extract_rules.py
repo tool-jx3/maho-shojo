@@ -151,6 +151,27 @@ def parse_signature(body):
     return {'mode': 'moves', 'granted': granted, 'chooseFrom': choose,
             'chooseCount': cc, 'chooseLabel': choose_label}
 
+def parse_adjust(note):
+    """把扮演書的屬性分配說明轉成可驗證的規則。
+
+    無法辨識時回傳 None，頁面會退回不限制的自由調整。
+    """
+    n = (note or '').strip()
+    if not n:
+        return None
+    m = re.search(r'將\s*\+3\s*加到一項屬性上、將\s*\+2\s*和\s*\+1\s*分別加到兩項屬性上，'
+                  r'或將\s*\+1\s*加到三項屬性上（任一屬性上限為\s*\+(\d)）', n)
+    if m:
+        return {'mode': 'spread', 'options': [[3], [2, 1], [1, 1, 1]], 'cap': int(m.group(1))}
+    if re.search(r'將一個\s*0\s*改為\s*\+1，另一個\s*0\s*改為\s*-1', n):
+        return {'mode': 'zeroSwap'}
+    m = re.search(r'將\s*1\s*點加到([\u4e00-\u9fff]+)、([\u4e00-\u9fff]+)或([\u4e00-\u9fff]+)上', n)
+    if m:
+        return {'mode': 'points', 'total': 1, 'only': [m.group(1), m.group(2), m.group(3)]}
+    if re.search(r'將\s*\+1\s*加到一項屬性上', n):
+        return {'mode': 'points', 'total': 1}
+    return None
+
 def parse_attributes(body):
     rows, header = [], None
     for l in body:
@@ -164,12 +185,14 @@ def parse_attributes(body):
     if header and header[0] == '' and rows:  # 組合表
         sets = [{'label': r[0], 'values': dict(zip(ATTR_KEYS, [num(v) for v in r[1:6]]))}
                 for r in rows if len(r) >= 6]
-        return {'mode': 'sets', 'sets': sets, 'note': note.strip()}
+        return {'mode': 'sets', 'sets': sets, 'note': note.strip(),
+                'adjust': parse_adjust(note)}
     for r in rows:
         if len(r) == 5:
             return {'mode': 'fixed', 'values': dict(zip(ATTR_KEYS, [num(v) for v in r])),
-                    'note': note.strip()}
-    return {'mode': 'fixed', 'values': {k: 0 for k in ATTR_KEYS}, 'note': note.strip()}
+                    'note': note.strip(), 'adjust': parse_adjust(note)}
+    return {'mode': 'fixed', 'values': {k: 0 for k in ATTR_KEYS}, 'note': note.strip(),
+            'adjust': parse_adjust(note)}
 
 # ---------------- 成長類型說明（advancement.md「成長類型」） ----------------
 ADV = read('advancement.md')

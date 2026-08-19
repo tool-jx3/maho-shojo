@@ -93,7 +93,7 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 				pact: '', pactMoves: [], pactAdv: [], darkMoves: [], lostCoop: [],
 				fr: '', frMoves: [], rom: '', romMoves: [],
 				power: 1, superForm: false, triumphForm: false, sigExtra: 0,
-				powerPick: {}, powerOn: [], ascension: {}, attrPick: {},
+				powerPick: {}, powerOn: [], ascension: {}, attrPick: {}, attrPlan: '', freeAttr: false,
 				hearts: [{ name: '', cat: 'A', effect: '' }],
 				advMoves: [], shine: 0, players: 4, advances: [],
 				light: 0, tenebrae: 0, dark: 0, darkLv: 0, amity: 5, romLv: 0, impetus: 0, popularity: 0,
@@ -109,6 +109,52 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 			const romBook = () => RULES.romance.find((p) => p.name === S.rom) || null;
 
 			// 依扮演書計算最終屬性（基礎／組合 + 加值）
+			// 建立時的分配規則（各扮演書的屬性說明）：判斷這一次加減是否被規則允許
+			// points   ── 可分配的 +1 點數（聖母限保護／思慮／情感）
+			// zeroSwap ── 一個 0 改 +1，另一個 0 改 -1（鬥士）
+			// spread   ── 先選一種分配方式，再依該方式配點（偶像）
+			function adjustBlockReason(adj, k, delta, parts, free) {
+				const pt = parts[k];
+				const next = pt.base + pt.manual + delta;
+				if (next > 2 || next < -2) return '建立時任何屬性不得高於 +2 或低於 -2';
+				if (free) return '';
+				const plus = ATTRS.reduce((n, x) => n + Math.max(parts[x].manual, 0), 0);
+				const minus = ATTRS.reduce((n, x) => n + Math.min(parts[x].manual, 0), 0);
+				if (adj.mode === 'points') {
+					if (delta < 0) return '這本扮演書只能加點，不能扣點';
+					if (adj.only && adj.only.indexOf(k) < 0) return '只能加在' + adj.only.join('、') + '上';
+					if (plus >= adj.total) return '可分配的點數已用完（共 ' + adj.total + ' 點）';
+					return '';
+				}
+				if (adj.mode === 'zeroSwap') {
+					if (pt.base !== 0) return '只能調整基礎值為 0 的屬性';
+					if (pt.manual !== 0) return '這項屬性已經調整過了';
+					if (delta > 0 && plus >= 1) return '只能有一項 0 改為 +1';
+					if (delta < 0 && minus <= -1) return '只能有一項 0 改為 -1';
+					return '';
+				}
+				if (adj.mode === 'spread') {
+					if (delta < 0) return '這本扮演書只能加點，不能扣點';
+					const plan = (adj.options || []).find((o) => o.join('/') === S.attrPlan);
+					if (!plan) return '請先選擇一種分配方式';
+					if (pt.base + pt.manual + delta > (adj.cap ?? 2))
+						return '任一屬性上限為 +' + (adj.cap ?? 2);
+					// 已分配的各項加值必須符合所選方式
+					const used = ATTRS.map((x) => parts[x].manual).filter((v) => v > 0).sort((x, y) => y - x);
+					const after = ATTRS.map((x) => (x === k ? parts[x].manual + delta : parts[x].manual))
+						.filter((v) => v > 0)
+						.sort((x, y) => y - x);
+					const want = plan.slice().sort((x, y) => y - x);
+					if (after.length > want.length) return '這種分配方式只能加在 ' + want.length + ' 項屬性上';
+					for (let i = 0; i < after.length; i++) {
+						if (after[i] > want[i]) return '這種分配方式的配額為 ' + want.join('、');
+					}
+					if (used.length && after.join() === used.join()) return '';
+					return '';
+				}
+				return '';
+			}
+
 			// 屬性的組成：扮演書基礎值、建立時的調整、成長、永久提升屬性的黑暗動作。
 			// 昇華不在其中——規則寫的是「所有使用該屬性的動作獲得 +1 加值」，是擲骰加值而非屬性值。
 			function attrParts() {
@@ -723,6 +769,43 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 
 					const parts = attrParts();
 					const asc = S.ascension || {};
+					const adj = a.adjust; // 這本扮演書的建立分配規則（沒有就不限制）
+					const free = !adj || S.freeAttr;
+
+					// 偶像：先選一種分配方式
+					if (adj && adj.mode === 'spread' && !S.freeAttr) {
+						const row = el('div', 'pactrow');
+						adj.options.forEach((o) => {
+							const key = o.join('/');
+							const on = S.attrPlan === key;
+							const b = el('button', 'pactbtn' + (on ? ' on' : ''));
+							b.type = 'button';
+							b.textContent = o.map((v) => '+' + v).join(' 和 ') + (o.length > 1 ? '（' + o.length + ' 項）' : '（1 項）');
+							b.addEventListener('click', () => {
+								if (!on) {
+									S.attrPlan = key;
+									S.bumps = (S.bumps || []).filter((x) => x.fromAdv); // 換方式時清掉已配的點
+								} else S.attrPlan = '';
+								render();
+							});
+							row.appendChild(b);
+						});
+						d.appendChild(row);
+					}
+
+					// 目前的分配狀況
+					if (adj && !S.freeAttr) {
+						const plus = ATTRS.reduce((n, x) => n + Math.max(parts[x].manual, 0), 0);
+						const minus = ATTRS.reduce((n, x) => n + Math.min(parts[x].manual, 0), 0);
+						let txt = '';
+						if (adj.mode === 'points') txt = '已分配 ' + plus + ' / ' + adj.total + ' 點';
+						else if (adj.mode === 'zeroSwap')
+							txt = '0 改為 +1：' + (plus ? '已指定' : '未指定') + '　0 改為 -1：' + (minus ? '已指定' : '未指定');
+						else if (adj.mode === 'spread')
+							txt = S.attrPlan ? '分配方式 ' + S.attrPlan.split('/').map((v) => '+' + v).join('、') + '　已分配 ' + plus + ' 點' : '尚未選擇分配方式';
+						d.appendChild(el('p', 'note' + (txt.indexOf('未') < 0 ? ' ok' : ''), txt));
+					}
+
 					const table = el('div', 'attrrow');
 					ATTRS.forEach((k) => {
 						const pt = parts[k];
@@ -740,15 +823,12 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 						[-1, 1].forEach((delta) => {
 							const next = pt.base + pt.manual + delta;
 							const undo = (S.bumps || []).some((b) => b.k === k && !b.fromAdv && b.d === delta * -1);
-							const blocked = !undo && (next > 2 || next < -2);
+							const reason = undo ? '' : adjustBlockReason(adj, k, delta, parts, free);
+							const blocked = !undo && !!reason;
 							const b = el('button', 'tiny');
 							b.type = 'button';
 							b.disabled = blocked;
-							b.title = blocked
-								? '建立時任何屬性不得高於 +2 或低於 -2'
-								: undo
-									? '取消一項已加的 ' + k + ' ' + sign(delta * -1)
-									: '';
+							b.title = blocked ? reason : undo ? '取消一項已加的 ' + k + ' ' + sign(delta * -1) : '';
 							b.textContent = delta > 0 ? '＋' : '−';
 							b.addEventListener('click', () => {
 								S.bumps = S.bumps || [];
@@ -764,6 +844,20 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 						table.appendChild(cell);
 					});
 					d.appendChild(table);
+
+					{
+						const lab = el('label', 'check inline');
+						const cb = el('input');
+						cb.type = 'checkbox';
+						cb.checked = !!S.freeAttr;
+						cb.addEventListener('change', () => {
+							S.freeAttr = cb.checked;
+							render();
+						});
+						lab.appendChild(cb);
+						lab.appendChild(el('span', null, '自由調整（編輯遊戲中的角色時使用，僅保留 -2 ～ +2 的建立限制）'));
+						d.appendChild(lab);
+					}
 
 					const manualBumps = (S.bumps || []).map((b, i) => ({ b, i })).filter((x) => !x.b.fromAdv);
 					if (manualBumps.length) {
@@ -784,7 +878,8 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 					}
 					d.appendChild(
 						el('p', 'note dim',
-							'建立時任何屬性不得高於 +2 或低於 -2，超過的加減按鈕會停用（按反向鍵可取消已加的調整）。' +
+							'加減按鈕依這本扮演書的分配規則限制，超出時會停用並說明原因（按反向鍵可取消已加的調整）。' +
+							'建立時任何屬性不得高於 +2 或低於 -2。' +
 							'成長「提升一項屬性」上限 +3、契約傀儡的「黑暗印記」與「非人意識」上限 +4，' +
 							'兩者都另計、不受這裡的按鈕限制。昇華是「使用該屬性的動作 +1」的擲骰加值，規則沒有上限，也不改變屬性值本身。')
 					);
