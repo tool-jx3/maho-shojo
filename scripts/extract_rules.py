@@ -1,0 +1,191 @@
+# -*- coding: utf-8 -*-
+"""從 docs/src/content/docs/rules/*.md 抽出角色卡建立頁所需的規則資料。"""
+import io, json, re, os
+
+R = 'docs/src/content/docs/rules/'
+ATTR_KEYS = ['挑戰', '保護', '思慮', '情感', '奉獻']
+PLAYBOOK_NAMES = ['勇者', '參謀', '衛士', '鬥士', '偶像', '聖母']
+
+def read(fn):
+    t = io.open(R + fn, encoding='utf-8').read()
+    if t.startswith('---'):
+        t = t.split('---', 2)[2]
+    return t.split('\n')
+
+def sections(lines, level):
+    pref = '#' * level + ' '
+    out, cur, buf = [], None, []
+    for l in lines:
+        if l.startswith(pref) and not l.startswith(pref + '#'):
+            if cur is not None: out.append((cur, buf))
+            cur, buf = l[len(pref):].strip(), []
+        elif cur is not None:
+            buf.append(l)
+    if cur is not None: out.append((cur, buf))
+    return out
+
+def num(s):
+    s = s.strip().replace('+', '')
+    return int(s) if re.fullmatch(r'-?\d+', s) else 0
+
+def bold_blocks(lines):
+    """**名稱** 起始的區塊；「**選擇…：**」視為分隔標記。"""
+    out, name, buf = [], None, []
+    def flush():
+        if name is not None:
+            out.append({'name': name, 'text': '\n'.join(buf).strip()})
+    for l in lines:
+        s = l.strip()
+        m = re.match(r'^\*\*(.+?)\*\*\s*$', s)
+        if m:
+            flush(); name, buf = m.group(1), []
+        elif name is not None:
+            buf.append(l)
+    flush()
+    return [b for b in out if b['name']]
+
+def parse_signature(body):
+    """回傳 {mode, ...}。"""
+    text = '\n'.join(body)
+    opts = [{'name': m.group(1).strip(), 'text': m.group(2).strip()}
+            for m in re.finditer(r'^\s*-\s*\*\*(.+?)\*\*[：:]\s*(.*)$', text, re.M)]
+    if opts and '選擇三個選項' in text:
+        # 「同時獲得：」之後的粗體區塊
+        tail = text.split('同時獲得：', 1)[1] if '同時獲得：' in text else ''
+        return {'mode': 'options', 'chooseCount': 3, 'options': opts,
+                'granted': bold_blocks(tail.split('\n'))}
+    blocks = bold_blocks(body)
+    granted, choose, choose_label, cc = [], [], None, 0
+    bucket = granted
+    for b in blocks:
+        m = re.match(r'^選擇(一項|其一|一個)(.*?)[：:]?$', b['name'])
+        if m:
+            choose_label = b['name'].rstrip('：:')
+            cc = 1
+            bucket = choose
+            continue
+        bucket.append(b)
+    return {'mode': 'moves', 'granted': granted, 'chooseFrom': choose,
+            'chooseCount': cc, 'chooseLabel': choose_label}
+
+def parse_attributes(body):
+    rows, header = [], None
+    for l in body:
+        s = l.strip()
+        if not s.startswith('|') or s.startswith('|:'): continue
+        cells = [c.strip() for c in s.strip('|').split('|')]
+        if any(k in cells for k in ATTR_KEYS): header = cells; continue
+        rows.append(cells)
+    note = ' '.join(x.strip() for x in body
+                    if x.strip() and not x.strip().startswith('|') and '選擇一組' not in x)
+    if header and header[0] == '' and rows:  # 組合表
+        sets = [{'label': r[0], 'values': dict(zip(ATTR_KEYS, [num(v) for v in r[1:6]]))}
+                for r in rows if len(r) >= 6]
+        return {'mode': 'sets', 'sets': sets, 'note': note.strip()}
+    for r in rows:
+        if len(r) == 5:
+            return {'mode': 'fixed', 'values': dict(zip(ATTR_KEYS, [num(v) for v in r])),
+                    'note': note.strip()}
+    return {'mode': 'fixed', 'values': {k: 0 for k in ATTR_KEYS}, 'note': note.strip()}
+
+# ---------------- 原型扮演書 ----------------
+ARCH = read('archetypes.md')
+intro_secs = dict(sections(sections(ARCH, 2)[0][1], 3))
+
+playbooks = []
+for title, body in sections(ARCH, 2):
+    if title not in PLAYBOOK_NAMES: continue
+    subs = sections(body, 3)
+    sub = dict(subs)
+    sig_title, sig_body = subs[0]
+    lux = []
+    for l in sub.get('光之裝束力量', []):
+        s = l.strip()
+        if s.startswith('|') and not s.startswith('|:'):
+            c = [x.strip() for x in s.strip('|').split('|')]
+            if len(c) == 4 and c[0].isdigit():
+                lux.append({'level': int(c[0]), 'basic': c[1], 'super': c[2], 'triumph': c[3]})
+    cons = []
+    for l in sub.get('後果', []):
+        s = l.strip()
+        if s.startswith('|') and not s.startswith('|:'):
+            for c in s.strip('|').split('|'):
+                c = c.replace('○', '').strip()
+                if c: cons.append(c)
+    sh, basic_adv, adv_adv, mode = sub.get('閃耀時刻！', []), [], [], None
+    for l in sh:
+        if '基礎成長' in l: mode = 'b'; continue
+        if '進階成長' in l: mode = 'a'; continue
+        if l.strip().startswith('- '):
+            (basic_adv if mode == 'b' else adv_adv).append(re.sub(r'^\s*-\s*', '', l).strip())
+    intro = [x.strip() for x in intro_secs.get(title, []) if x.strip() and not x.startswith('#')]
+    playbooks.append({
+        'name': title,
+        'signatureName': sig_title,
+        'signature': parse_signature(sig_body),
+        'attributes': parse_attributes(sub.get('屬性', [])),
+        'lux': lux,
+        'consequences': cons,
+        'basicAdvances': basic_adv,
+        'advancedAdvances': adv_adv,
+        'advanceMoves': bold_blocks(sub.get('進階動作', [])),
+        'intro': intro[0] if intro else '',
+    })
+
+# ---------------- 友情／戀愛扮演書 ----------------
+FR = read('friendship-romance.md')
+fr = dict(sections(FR, 2))
+def pb_list(lines):
+    out = []
+    for t, b in sections(lines, 3):
+        tags = next((re.sub(r'^\*\*標籤：\*\*\s*', '', l.strip()) for l in b
+                     if l.strip().startswith('**標籤：**')), '')
+        out.append({'name': t, 'tags': tags, 'moves': bold_blocks(b)})
+    return out
+friendship = pb_list(fr['友情扮演書'])
+romance = pb_list(fr['戀愛扮演書'])
+
+# ---------------- 盟約 ----------------
+PA = read('pacts.md')
+pacts = []
+for t, b in sections(PA, 2):
+    if not t.startswith('盟約：'): continue
+    sub = dict(sections(b, 3))
+    moves = bold_blocks(sub.get('盟約動作', []))
+    coop = bold_blocks(sub.get('合作動作', []))
+    dark = {}
+    for st, sb in sections(sub.get('黑暗動作', []), 4):
+        dark[st.replace('黑暗動作', '')] = bold_blocks(sb)
+    rules = [re.sub(r'^\s*-\s*', '', l).strip() for l in sub.get('黑暗', []) if l.strip().startswith('- ')]
+    adv = bold_blocks(sub.get('盟約優勢', []))
+    if not adv:
+        adv = [{'name': '', 'text': x.strip()} for x in sub.get('盟約優勢', []) if x.strip()]
+    pacts.append({'name': t.replace('盟約：', ''), 'moves': moves, 'coopMoves': coop,
+                  'darkMoves': dark, 'darkRules': rules, 'advantages': adv})
+
+# ---------------- 基礎動作 ----------------
+MV = read('moves.md')
+mv = dict(sections(MV, 2))
+basic_moves = []
+for t, b in sections(mv['基礎動作'], 3):
+    trig = next((l.strip().strip('*') for l in b if l.strip().startswith('**當')), '')
+    m = re.search(r'擲骰\s*\+\s*([\u4e00-\u9fff]+)', '\n'.join(b))
+    attr = m.group(1) if m else ''
+    basic_moves.append({'name': t, 'trigger': trig, 'attribute': attr})
+
+data = {'playbooks': playbooks, 'friendship': friendship, 'romance': romance,
+        'pacts': pacts, 'basicMoves': basic_moves, 'attributeKeys': ATTR_KEYS}
+os.makedirs('docs/src/data', exist_ok=True)
+io.open('docs/src/data/rules.json', 'w', encoding='utf-8').write(
+    json.dumps(data, ensure_ascii=False, indent=2) + '\n')
+
+for p in playbooks:
+    s = p['signature']
+    print('%-3s attr=%-5s sig=%-7s granted=%d choose=%d/%s advMoves=%d lux=%d cons=%d' % (
+        p['name'], p['attributes']['mode'],
+        s['mode'], len(s.get('granted') or []), len(s.get('chooseFrom') or s.get('options') or []),
+        s.get('chooseCount'), len(p['advanceMoves']), len(p['lux']), len(p['consequences'])))
+print('friendship', [(f['name'], len(f['moves'])) for f in friendship])
+print('romance', [(r['name'], len(r['moves'])) for r in romance])
+print('pacts', [(p['name'], len(p['moves']), len(p['coopMoves']), {k: len(v) for k, v in p['darkMoves'].items()}, len(p['advantages'])) for p in pacts])
+print('basicMoves', [(m['name'], m['attribute']) for m in basic_moves])

@@ -1,0 +1,1128 @@
+---
+// ============================================
+// 角色卡建立頁（純前端，無後端）
+// 規則資料由 scripts/extract_rules.py 從 rules/*.md 抽出至 src/data/rules.json
+// ============================================
+import rules from '../data/rules.json';
+
+const THEMES = ['動物', '鎖鏈', '夢境', '大地', '水', '火', '空氣', '木', '金屬', '時間', '卡牌', '心形', '花朵', '劍', '自然', '光', '黑暗', '月亮', '彩虹', '布料', '星星', '太陽', '音樂'];
+const COLORS = ['紅色', '橘色', '黃色', '綠色', '藍色', '紫色', '粉紅色', '白色', '棕色', '灰色', '金色', '銀色', '黑色'];
+const TALISMANS = ['耳環', '戒指', '胸針', '手錶', '手環', '香水', '魔法棒', '寶石', '手機'];
+const ZODIACS = ['牡羊座', '金牛座', '雙子座', '巨蟹座', '獅子座', '處女座', '天秤座', '天蠍座', '射手座', '摩羯座', '水瓶座', '雙魚座'];
+const BLOODS = ['A 型', 'B 型', 'AB 型', 'O 型'];
+const HEART_CATS = [
+	{ key: 'A', label: '攻擊（A）' },
+	{ key: 'D', label: '防禦（D）' },
+	{ key: 'P', label: '支援（P）' },
+	{ key: 'F', label: '終曲' },
+];
+
+const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
+---
+
+<html lang="zh-TW">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta name="robots" content="noindex, nofollow" />
+		<title>魔法少女──角色卡建立</title>
+		<meta name="description" content="Mahō Shōjo 魔法少女 TRPG 角色卡建立工具——選擇扮演書與盟約，即時預覽並列印 A4 角色卡，支援 JSON 與網址分享。" />
+		<link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+		<meta name="theme-color" content="#12102a" />
+		<meta property="og:title" content="魔法少女──角色卡建立" />
+		<meta property="og:description" content="選擇扮演書與盟約，即時預覽並列印 A4 角色卡，支援 JSON 與網址分享。" />
+		<meta property="og:type" content="website" />
+		<meta property="og:image" content="/og-image.jpg" />
+	</head>
+	<body>
+		<script type="application/json" id="rules-data" set:html={JSON.stringify(rules)}></script>
+		<script type="application/json" id="opts-data" set:html={JSON.stringify(OPTIONS)}></script>
+
+		<header class="topbar no-print">
+			<div class="brand">
+				<a class="home" href="/" title="回到文件站">✦</a>
+				<h1>角色卡建立</h1>
+				<span class="sub">Mahō Shōjo・魔法少女</span>
+			</div>
+			<div class="tools">
+				<button type="button" id="btn-import">匯入 JSON</button>
+				<button type="button" id="btn-export">匯出 JSON</button>
+				<button type="button" id="btn-share">複製分享網址</button>
+				<button type="button" id="btn-print" class="primary">列印／PDF</button>
+				<button type="button" id="btn-reset" class="ghost">重設</button>
+				<input type="file" id="file-input" accept="application/json,.json" hidden />
+			</div>
+		</header>
+
+		<p class="toast no-print" id="toast" role="status" aria-live="polite"></p>
+
+		<main class="wrap">
+			<section class="builder no-print" id="builder" aria-label="建立步驟"></section>
+			<section class="preview" aria-label="角色卡預覽">
+				<div class="sheet" id="sheet"></div>
+			</section>
+		</main>
+
+		<footer class="foot no-print">
+			<span>資料只存在你的瀏覽器與網址中，不會上傳任何伺服器。</span>
+			<a href="/rules/character-creation/">角色建立規則 →</a>
+		</footer>
+
+		<script>
+			// ========== 資料載入 ==========
+			const RULES = JSON.parse(document.getElementById('rules-data').textContent);
+			const OPTS = JSON.parse(document.getElementById('opts-data').textContent);
+			const ATTRS = RULES.attributeKeys;
+			const $ = (s, r) => (r || document).querySelector(s);
+			const el = (tag, cls, txt) => {
+				const n = document.createElement(tag);
+				if (cls) n.className = cls;
+				if (txt != null) n.textContent = txt;
+				return n;
+			};
+			const sign = (n) => (n > 0 ? '+' + n : String(n));
+
+			// ========== 狀態 ==========
+			const BLANK = {
+				v: 1, pb: '', name: '', life: '', age: '',
+				title: '', theme: '', color: '', talisman: '', zodiac: '', blood: '', treasure: '',
+				attrSet: 0, bumps: [], sig: [],
+				pact: '', pactMoves: [], fr: '', frMoves: [], rom: '', romMoves: [],
+				power: 1, superForm: false, triumphForm: false,
+				hearts: [{ name: '', cat: 'A', effect: '' }],
+				advMoves: [], shine: 0, advances: [],
+				light: 0, dark: 0, darkLv: 0, cons: [], bonds: '', notes: '',
+			};
+			let S = structuredClone(BLANK);
+
+			const playbook = () => RULES.playbooks.find((p) => p.name === S.pb) || null;
+			const pact = () => RULES.pacts.find((p) => p.name === S.pact) || null;
+			const frBook = () => RULES.friendship.find((p) => p.name === S.fr) || null;
+			const romBook = () => RULES.romance.find((p) => p.name === S.rom) || null;
+
+			// 依扮演書計算最終屬性（基礎／組合 + 加值）
+			function finalAttrs() {
+				const pb = playbook();
+				const out = {};
+				ATTRS.forEach((k) => (out[k] = 0));
+				if (!pb) return out;
+				const a = pb.attributes;
+				const base = a.mode === 'sets' ? (a.sets[S.attrSet] || a.sets[0]).values : a.values;
+				ATTRS.forEach((k) => (out[k] = base[k] ?? 0));
+				(S.bumps || []).forEach((b) => {
+					if (out[b.k] == null) return;
+					out[b.k] += b.d;
+				});
+				return out;
+			}
+
+			// ========== 網址序列化（純前端，無後端） ==========
+			const b64e = (bytes) => {
+				let s = '';
+				bytes.forEach((b) => (s += String.fromCharCode(b)));
+				return btoa(s).replace(/\+/g, '-').replace(/\//g, '_').replace(/=+$/, '');
+			};
+			const b64d = (str) => {
+				const s = atob(str.replace(/-/g, '+').replace(/_/g, '/'));
+				const out = new Uint8Array(s.length);
+				for (let i = 0; i < s.length; i++) out[i] = s.charCodeAt(i);
+				return out;
+			};
+			async function encodeState() {
+				const json = JSON.stringify(S);
+				const raw = new TextEncoder().encode(json);
+				if (typeof CompressionStream === 'function') {
+					const cs = new CompressionStream('deflate-raw');
+					const buf = await new Response(
+						new Blob([raw]).stream().pipeThrough(cs)
+					).arrayBuffer();
+					return 'z' + b64e(new Uint8Array(buf));
+				}
+				return 'p' + b64e(raw);
+			}
+			async function decodeState(str) {
+				const kind = str[0];
+				const bytes = b64d(str.slice(1));
+				let raw = bytes;
+				if (kind === 'z') {
+					const ds = new DecompressionStream('deflate-raw');
+					const buf = await new Response(
+						new Blob([bytes]).stream().pipeThrough(ds)
+					).arrayBuffer();
+					raw = new Uint8Array(buf);
+				}
+				return JSON.parse(new TextDecoder().decode(raw));
+			}
+
+			let urlTimer = null;
+			function syncURL() {
+				clearTimeout(urlTimer);
+				urlTimer = setTimeout(async () => {
+					try {
+						const code = await encodeState();
+						history.replaceState(null, '', '#c=' + code);
+					} catch (e) {
+						/* 忽略：網址同步失敗不影響編輯 */
+					}
+				}, 300);
+			}
+
+			function toast(msg) {
+				const t = $('#toast');
+				t.textContent = msg;
+				t.classList.add('show');
+				setTimeout(() => t.classList.remove('show'), 2400);
+			}
+
+			// ========== 小工具：建立表單控制項 ==========
+			function field(label, node) {
+				const w = el('label', 'field');
+				w.appendChild(el('span', 'flabel', label));
+				w.appendChild(node);
+				return w;
+			}
+			function textInput(key, ph) {
+				const i = el('input');
+				i.type = 'text';
+				i.value = S[key] || '';
+				if (ph) i.placeholder = ph;
+				i.addEventListener('input', () => {
+					S[key] = i.value;
+					renderSheet();
+					syncURL();
+				});
+				return i;
+			}
+			function comboInput(key, list, ph) {
+				const wrap = el('span', 'combo');
+				const i = el('input');
+				i.type = 'text';
+				i.value = S[key] || '';
+				i.setAttribute('list', 'dl-' + key);
+				if (ph) i.placeholder = ph;
+				const dl = el('datalist');
+				dl.id = 'dl-' + key;
+				list.forEach((v) => {
+					const o = el('option');
+					o.value = v;
+					dl.appendChild(o);
+				});
+				i.addEventListener('input', () => {
+					S[key] = i.value;
+					renderSheet();
+					syncURL();
+				});
+				wrap.appendChild(i);
+				wrap.appendChild(dl);
+				return wrap;
+			}
+			function numInput(key, min, max) {
+				const i = el('input', 'num');
+				i.type = 'number';
+				i.min = String(min);
+				i.max = String(max);
+				i.value = String(S[key] ?? 0);
+				i.addEventListener('input', () => {
+					const v = Math.max(min, Math.min(max, parseInt(i.value || '0', 10)));
+					S[key] = v;
+					renderSheet();
+					syncURL();
+				});
+				return i;
+			}
+			function checkList(items, isOn, onToggle, opts) {
+				const box = el('div', 'checklist' + (opts && opts.compact ? ' compact' : ''));
+				items.forEach((it, idx) => {
+					const row = el('label', 'check');
+					const cb = el('input');
+					cb.type = 'checkbox';
+					cb.checked = isOn(idx);
+					cb.addEventListener('change', () => {
+						onToggle(idx, cb.checked);
+						render();
+					});
+					row.appendChild(cb);
+					const body = el('span', 'ctext');
+					body.appendChild(el('b', null, it.name || ''));
+					if (it.text) body.appendChild(el('span', 'cdesc', it.text));
+					row.appendChild(body);
+					box.appendChild(row);
+				});
+				return box;
+			}
+			function section(title, hint) {
+				const d = el('details', 'step');
+				d.open = true;
+				const s = el('summary');
+				s.appendChild(el('span', 'stitle', title));
+				if (hint) s.appendChild(el('span', 'shint', hint));
+				d.appendChild(s);
+				return d;
+			}
+
+			// ========== 建立面板 ==========
+			function renderBuilder() {
+				const root = $('#builder');
+				root.textContent = '';
+				const pb = playbook();
+
+				// 1. 扮演書
+				{
+					const d = section('1・原型扮演書', pb ? pb.name : '尚未選擇');
+					const grid = el('div', 'pbgrid');
+					RULES.playbooks.forEach((p) => {
+						const b = el('button', 'pbcard' + (S.pb === p.name ? ' on' : ''));
+						b.type = 'button';
+						b.appendChild(el('b', null, p.name));
+						b.appendChild(el('span', 'pbmove', p.signatureName));
+						b.appendChild(el('span', 'pbdesc', p.intro.slice(0, 60)));
+						b.addEventListener('click', () => {
+							if (S.pb === p.name) return;
+							S.pb = p.name;
+							S.attrSet = 0;
+							S.bumps = [];
+							S.sig = [];
+							S.advMoves = [];
+							S.cons = [];
+							render();
+						});
+						grid.appendChild(b);
+					});
+					d.appendChild(grid);
+					root.appendChild(d);
+				}
+				if (!pb) return;
+
+				// 2. 個人資料與變身
+				{
+					const d = section('2・個人資料與變身');
+					const g = el('div', 'fgrid');
+					g.appendChild(field('姓名', textInput('name')));
+					g.appendChild(field('生活型態', textInput('life', '學生、打工族……')));
+					g.appendChild(field('年齡', textInput('age')));
+					g.appendChild(field('稱號', textInput('title', 'Star Melody Yuna')));
+					g.appendChild(field('主題', comboInput('theme', OPTS.THEMES)));
+					g.appendChild(field('色彩', comboInput('color', OPTS.COLORS)));
+					g.appendChild(field('護符', comboInput('talisman', OPTS.TALISMANS)));
+					g.appendChild(field('星座', comboInput('zodiac', OPTS.ZODIACS)));
+					g.appendChild(field('血型', comboInput('blood', OPTS.BLOODS)));
+					g.appendChild(field('最珍貴的寶物', textInput('treasure')));
+					d.appendChild(g);
+					root.appendChild(d);
+				}
+
+				// 3. 屬性
+				{
+					const a = pb.attributes;
+					const d = section('3・屬性', a.mode === 'sets' ? '選擇一組並調整' : '基礎值加調整');
+					if (a.mode === 'sets') {
+						const row = el('div', 'setrow');
+						a.sets.forEach((st, i) => {
+							const b = el('button', 'setbtn' + (S.attrSet === i ? ' on' : ''));
+							b.type = 'button';
+							b.appendChild(el('b', null, st.label));
+							b.appendChild(
+								el('span', null, ATTRS.map((k) => k + ' ' + sign(st.values[k])).join('　'))
+							);
+							b.addEventListener('click', () => {
+								S.attrSet = i;
+								render();
+							});
+							row.appendChild(b);
+						});
+						d.appendChild(row);
+					}
+					if (a.note) d.appendChild(el('p', 'note', a.note));
+
+					const fa = finalAttrs();
+					const table = el('div', 'attrrow');
+					ATTRS.forEach((k) => {
+						const cell = el('div', 'attrcell');
+						cell.appendChild(el('span', 'akey', k));
+						cell.appendChild(el('b', 'aval', sign(fa[k])));
+						const ctrl = el('div', 'actrl');
+						[-1, 1].forEach((delta) => {
+							const b = el('button', 'tiny');
+							b.type = 'button';
+							b.textContent = delta > 0 ? '＋' : '−';
+							b.addEventListener('click', () => {
+								S.bumps = S.bumps || [];
+								S.bumps.push({ k, d: delta });
+								render();
+							});
+							ctrl.appendChild(b);
+						});
+						cell.appendChild(ctrl);
+						table.appendChild(cell);
+					});
+					d.appendChild(table);
+
+					if ((S.bumps || []).length) {
+						const chips = el('div', 'chips');
+						S.bumps.forEach((b, i) => {
+							const c = el('button', 'chip');
+							c.type = 'button';
+							c.textContent = b.k + ' ' + sign(b.d) + ' ✕';
+							c.title = '移除這項調整';
+							c.addEventListener('click', () => {
+								S.bumps.splice(i, 1);
+								render();
+							});
+							chips.appendChild(c);
+						});
+						d.appendChild(chips);
+					}
+					d.appendChild(
+						el('p', 'note dim', '建立時任何屬性不得高於 +2 或低於 -2；成長與光之裝束力量可突破此限制。')
+					);
+					root.appendChild(d);
+				}
+
+				// 4. 招牌動作
+				{
+					const sig = pb.signature;
+					const d = section('4・' + pb.signatureName, sig.mode === 'options' ? '選擇三個選項' : '');
+					if (sig.mode === 'options') {
+						d.appendChild(
+							checkList(
+								sig.options,
+								(i) => S.sig.includes(i),
+								(i, on) => {
+									if (on) {
+										if (S.sig.length >= sig.chooseCount) {
+											toast('最多選擇 ' + sig.chooseCount + ' 項');
+											return;
+										}
+										S.sig.push(i);
+									} else S.sig = S.sig.filter((x) => x !== i);
+								}
+							)
+						);
+						(sig.granted || []).forEach((m) => {
+							const g = el('div', 'granted');
+							g.appendChild(el('b', null, '同時獲得：' + m.name));
+							g.appendChild(el('p', null, m.text));
+							d.appendChild(g);
+						});
+					} else {
+						(sig.granted || []).forEach((m) => {
+							const g = el('div', 'granted');
+							g.appendChild(el('b', null, m.name));
+							g.appendChild(el('p', null, m.text));
+							d.appendChild(g);
+						});
+						if ((sig.chooseFrom || []).length) {
+							d.appendChild(el('p', 'note', sig.chooseLabel || '選擇一項：'));
+							d.appendChild(
+								checkList(
+									sig.chooseFrom,
+									(i) => S.sig.includes(i),
+									(i, on) => {
+										if (on) {
+											if (S.sig.length >= (sig.chooseCount || 1)) {
+												S.sig = [];
+											}
+											S.sig.push(i);
+										} else S.sig = S.sig.filter((x) => x !== i);
+									}
+								)
+							);
+						}
+					}
+					root.appendChild(d);
+				}
+
+				// 5. 盟約
+				{
+					const d = section('5・盟約', S.pact || '尚未選擇');
+					const row = el('div', 'pactrow');
+					RULES.pacts.forEach((p) => {
+						const b = el('button', 'pactbtn' + (S.pact === p.name ? ' on' : ''));
+						b.type = 'button';
+						b.textContent = p.name;
+						b.addEventListener('click', () => {
+							S.pact = S.pact === p.name ? '' : p.name;
+							S.pactMoves = [];
+							render();
+						});
+						row.appendChild(b);
+					});
+					d.appendChild(row);
+					const pc = pact();
+					if (pc) {
+						(pc.advantages || []).forEach((a) => {
+							if (a.text) d.appendChild(el('p', 'note', a.text.replace(/\[(.+?)\]\(.+?\)/g, '$1')));
+						});
+						const list = pc.moves.length ? pc.moves : (pc.darkMoves[S.pb] || []);
+						if (list.length) {
+							d.appendChild(el('p', 'note', pc.moves.length ? '盟約動作：' : S.pb + '黑暗動作：'));
+							d.appendChild(
+								checkList(
+									list,
+									(i) => S.pactMoves.includes(i),
+									(i, on) => {
+										if (on) S.pactMoves.push(i);
+										else S.pactMoves = S.pactMoves.filter((x) => x !== i);
+									}
+								)
+							);
+						}
+						if ((pc.darkRules || []).length) {
+							const ul = el('ul', 'rules');
+							pc.darkRules.forEach((r) => ul.appendChild(el('li', null, r.replace(/\[(.+?)\]\(.+?\)/g, '$1'))));
+							d.appendChild(ul);
+						}
+					}
+					root.appendChild(d);
+				}
+
+				// 6. 友情與戀愛扮演書
+				{
+					const d = section('6・友情與戀愛扮演書');
+					const mk = (label, listKey, bookKey, movesKey, books) => {
+						d.appendChild(el('p', 'note', label));
+						const row = el('div', 'pactrow wrapy');
+						books.forEach((p) => {
+							const b = el('button', 'pactbtn' + (S[bookKey] === p.name ? ' on' : ''));
+							b.type = 'button';
+							b.textContent = p.name;
+							b.addEventListener('click', () => {
+								S[bookKey] = S[bookKey] === p.name ? '' : p.name;
+								S[movesKey] = [];
+								render();
+							});
+							row.appendChild(b);
+						});
+						d.appendChild(row);
+						const book = books.find((x) => x.name === S[bookKey]);
+						if (book) {
+							if (book.tags) d.appendChild(el('p', 'note dim', '標籤：' + book.tags));
+							d.appendChild(
+								checkList(
+									book.moves,
+									(i) => S[movesKey].includes(i),
+									(i, on) => {
+										if (on) S[movesKey].push(i);
+										else S[movesKey] = S[movesKey].filter((x) => x !== i);
+									}
+								)
+							);
+						}
+					};
+					mk('友情扮演書', 'fr', 'fr', 'frMoves', RULES.friendship);
+					mk('戀愛扮演書', 'rom', 'rom', 'romMoves', RULES.romance);
+					root.appendChild(d);
+				}
+
+				// 7. 光之裝束與心之力
+				{
+					const d = section('7・光之裝束', '能力等級 ' + S.power);
+					const g = el('div', 'fgrid');
+					g.appendChild(field('能力等級', numInput('power', 0, 5)));
+					const sup = el('label', 'check inline');
+					const cs = el('input');
+					cs.type = 'checkbox';
+					cs.checked = !!S.superForm;
+					cs.addEventListener('change', () => {
+						S.superForm = cs.checked;
+						render();
+					});
+					sup.appendChild(cs);
+					sup.appendChild(el('span', null, '已解鎖超級形態'));
+					const tri = el('label', 'check inline');
+					const ct = el('input');
+					ct.type = 'checkbox';
+					ct.checked = !!S.triumphForm;
+					ct.addEventListener('change', () => {
+						S.triumphForm = ct.checked;
+						render();
+					});
+					tri.appendChild(ct);
+					tri.appendChild(el('span', null, '已解鎖凱旋形態'));
+					g.appendChild(sup);
+					g.appendChild(tri);
+					d.appendChild(g);
+
+					d.appendChild(el('p', 'note', '心之力'));
+					(S.hearts || []).forEach((h, i) => {
+						const row = el('div', 'heartrow');
+						const n = el('input');
+						n.type = 'text';
+						n.placeholder = '名稱（例：天聖爆裂）';
+						n.value = h.name || '';
+						n.addEventListener('input', () => {
+							h.name = n.value;
+							renderSheet();
+							syncURL();
+						});
+						const sel = el('select');
+						OPTS.HEART_CATS.forEach((c) => {
+							const o = el('option', null, c.label);
+							o.value = c.key;
+							if (h.cat === c.key) o.selected = true;
+							sel.appendChild(o);
+						});
+						sel.addEventListener('change', () => {
+							h.cat = sel.value;
+							renderSheet();
+							syncURL();
+						});
+						const eff = el('input');
+						eff.type = 'text';
+						eff.placeholder = '效果';
+						eff.value = h.effect || '';
+						eff.addEventListener('input', () => {
+							h.effect = eff.value;
+							renderSheet();
+							syncURL();
+						});
+						const del = el('button', 'tiny');
+						del.type = 'button';
+						del.textContent = '✕';
+						del.addEventListener('click', () => {
+							S.hearts.splice(i, 1);
+							render();
+						});
+						row.appendChild(n);
+						row.appendChild(sel);
+						row.appendChild(eff);
+						row.appendChild(del);
+						d.appendChild(row);
+					});
+					const add = el('button', 'small');
+					add.type = 'button';
+					add.textContent = '＋ 新增心之力';
+					add.addEventListener('click', () => {
+						S.hearts.push({ name: '', cat: 'A', effect: '' });
+						render();
+					});
+					d.appendChild(add);
+					root.appendChild(d);
+				}
+
+				// 8. 成長
+				{
+					const d = section('8・閃耀時刻！', '已標記 ' + S.shine);
+					d.appendChild(field('已標記格數', numInput('shine', 0, 20)));
+					d.appendChild(el('p', 'note', '基礎成長'));
+					const ul = el('ul', 'rules');
+					pb.basicAdvances.forEach((x) => ul.appendChild(el('li', null, x)));
+					d.appendChild(ul);
+					d.appendChild(el('p', 'note', '進階成長（取得第五次成長後開放）'));
+					const ul2 = el('ul', 'rules');
+					pb.advancedAdvances.forEach((x) => ul2.appendChild(el('li', null, x)));
+					d.appendChild(ul2);
+
+					d.appendChild(el('p', 'note', pb.name + '進階動作'));
+					d.appendChild(
+						checkList(
+							pb.advanceMoves,
+							(i) => S.advMoves.includes(i),
+							(i, on) => {
+								if (on) S.advMoves.push(i);
+								else S.advMoves = S.advMoves.filter((x) => x !== i);
+							}
+						)
+					);
+					root.appendChild(d);
+				}
+
+				// 9. 狀態
+				{
+					const d = section('9・狀態與後果');
+					const g = el('div', 'fgrid');
+					g.appendChild(field('光點', numInput('light', 0, 20)));
+					g.appendChild(field('黑暗點數', numInput('dark', 0, 20)));
+					g.appendChild(field('黑暗等級', numInput('darkLv', 0, 5)));
+					d.appendChild(g);
+					d.appendChild(el('p', 'note', '後果'));
+					const box = el('div', 'checklist compact');
+					pb.consequences.concat(['落敗']).forEach((c, i) => {
+						const row = el('label', 'check');
+						const cb = el('input');
+						cb.type = 'checkbox';
+						cb.checked = (S.cons || []).includes(i);
+						cb.addEventListener('change', () => {
+							S.cons = S.cons || [];
+							if (cb.checked) S.cons.push(i);
+							else S.cons = S.cons.filter((x) => x !== i);
+							render();
+						});
+						row.appendChild(cb);
+						row.appendChild(el('span', 'ctext', c));
+						box.appendChild(row);
+					});
+					d.appendChild(box);
+					const ta = el('textarea');
+					ta.rows = 3;
+					ta.placeholder = '羈絆與角色介紹……';
+					ta.value = S.bonds || '';
+					ta.addEventListener('input', () => {
+						S.bonds = ta.value;
+						renderSheet();
+						syncURL();
+					});
+					d.appendChild(field('羈絆／備註', ta));
+					root.appendChild(d);
+				}
+			}
+
+			// ========== 角色卡預覽（A4） ==========
+			function sheetBlock(title, nodes) {
+				const b = el('div', 'blk');
+				b.appendChild(el('h3', null, title));
+				nodes.forEach((n) => b.appendChild(n));
+				return b;
+			}
+			function kv(k, v) {
+				const r = el('div', 'kv');
+				r.appendChild(el('span', 'k', k));
+				r.appendChild(el('span', 'v', v || '—'));
+				return r;
+			}
+			function moveList(items) {
+				const ul = el('ul', 'mlist');
+				items.forEach((m) => {
+					const li = el('li');
+					li.appendChild(el('b', null, m.name));
+					if (m.text) li.appendChild(el('span', null, m.text.replace(/\*\*/g, '').replace(/\[(.+?)\]\(.+?\)/g, '$1')));
+					ul.appendChild(li);
+				});
+				return ul;
+			}
+
+			function renderSheet() {
+				const root = $('#sheet');
+				root.textContent = '';
+				const pb = playbook();
+				if (!pb) {
+					const empty = el('div', 'page empty');
+					empty.appendChild(el('p', null, '選擇一本原型扮演書後，這裡會即時顯示角色卡。'));
+					root.appendChild(empty);
+					return;
+				}
+				const fa = finalAttrs();
+
+				// ---- 第 1 頁 ----
+				const p1 = el('div', 'page');
+				const head = el('header', 'shead');
+				const hl = el('div');
+				hl.appendChild(el('h2', null, S.name || '未命名魔法少女'));
+				hl.appendChild(el('p', 'stitle2', S.title || '（尚未取稱號）'));
+				head.appendChild(hl);
+				const hr = el('div', 'pbtag');
+				hr.appendChild(el('b', null, pb.name));
+				hr.appendChild(el('span', null, S.pact || '未定盟約'));
+				head.appendChild(hr);
+				p1.appendChild(head);
+
+				const attrRow = el('div', 'sattrs');
+				ATTRS.forEach((k) => {
+					const c = el('div', 'sattr');
+					c.appendChild(el('span', null, k));
+					c.appendChild(el('b', null, sign(fa[k])));
+					attrRow.appendChild(c);
+				});
+				p1.appendChild(attrRow);
+
+				const info = el('div', 'cols2');
+				const c1 = el('div');
+				c1.appendChild(kv('生活型態', S.life));
+				c1.appendChild(kv('年齡', S.age));
+				c1.appendChild(kv('星座', S.zodiac));
+				c1.appendChild(kv('血型', S.blood));
+				const c2 = el('div');
+				c2.appendChild(kv('主題', S.theme));
+				c2.appendChild(kv('色彩', S.color));
+				c2.appendChild(kv('護符', S.talisman));
+				c2.appendChild(kv('最珍貴的寶物', S.treasure));
+				info.appendChild(c1);
+				info.appendChild(c2);
+				p1.appendChild(sheetBlock('個人資料與變身', [info]));
+
+				// 能力量表
+				const tbl = el('table', 'lux');
+				const thead = el('thead');
+				const htr = el('tr');
+				['等級', '基礎形態', '超級形態', '凱旋形態'].forEach((h) => htr.appendChild(el('th', null, h)));
+				thead.appendChild(htr);
+				tbl.appendChild(thead);
+				const tb = el('tbody');
+				pb.lux.forEach((r) => {
+					const tr = el('tr', S.power >= r.level ? 'on' : '');
+					tr.appendChild(el('td', null, String(r.level)));
+					tr.appendChild(el('td', null, r.basic));
+					tr.appendChild(el('td', S.superForm ? '' : 'lock', r.super || '—'));
+					tr.appendChild(el('td', S.triumphForm ? '' : 'lock', r.triumph || '—'));
+					tb.appendChild(tr);
+				});
+				tbl.appendChild(tb);
+				const luxNote = el('p', 'tiny-note',
+					'能力等級 ' + S.power +
+					'　超級形態：' + (S.superForm ? '已解鎖' : '未解鎖') +
+					'　凱旋形態：' + (S.triumphForm ? '已解鎖' : '未解鎖'));
+				p1.appendChild(sheetBlock('光之裝束・能力量表', [tbl, luxNote]));
+
+				const hearts = (S.hearts || []).filter((h) => h.name || h.effect);
+				if (hearts.length) {
+					p1.appendChild(
+						sheetBlock('心之力', [
+							moveList(hearts.map((h) => ({ name: '（' + h.cat + '）' + (h.name || '未命名'), text: h.effect }))),
+						])
+					);
+				}
+
+				// 狀態
+				const st = el('div', 'status');
+				st.appendChild(kv('光點', String(S.light)));
+				st.appendChild(kv('黑暗點數', String(S.dark)));
+				st.appendChild(kv('黑暗等級', String(S.darkLv)));
+				st.appendChild(kv('閃耀時刻！', String(S.shine)));
+				const consAll = pb.consequences.concat(['落敗']);
+				const cbox = el('div', 'cons');
+				consAll.forEach((c, i) => {
+					const t = el('span', 'consitem' + ((S.cons || []).includes(i) ? ' on' : ''));
+					t.textContent = ((S.cons || []).includes(i) ? '●' : '○') + ' ' + c;
+					cbox.appendChild(t);
+				});
+				p1.appendChild(sheetBlock('狀態', [st, cbox]));
+
+				if (S.bonds) p1.appendChild(sheetBlock('羈絆與備註', [el('p', 'freetext', S.bonds)]));
+				root.appendChild(p1);
+
+				// ---- 第 2 頁：動作 ----
+				const p2 = el('div', 'page');
+				p2.appendChild(el('h2', 'pagetitle', (S.name || '角色') + '・動作一覽'));
+
+				const sig = pb.signature;
+				const sigItems = [];
+				(sig.granted || []).forEach((m) => sigItems.push(m));
+				if (sig.mode === 'options') {
+					S.sig.forEach((i) => sig.options[i] && sigItems.push(sig.options[i]));
+				} else {
+					S.sig.forEach((i) => sig.chooseFrom[i] && sigItems.push(sig.chooseFrom[i]));
+				}
+				if (sigItems.length) p2.appendChild(sheetBlock(pb.signatureName, [moveList(sigItems)]));
+
+				if (S.advMoves.length) {
+					p2.appendChild(
+						sheetBlock(pb.name + '進階動作', [moveList(S.advMoves.map((i) => pb.advanceMoves[i]).filter(Boolean))])
+					);
+				}
+				const pc = pact();
+				if (pc && S.pactMoves.length) {
+					const list = pc.moves.length ? pc.moves : pc.darkMoves[S.pb] || [];
+					p2.appendChild(
+						sheetBlock(pc.name + '・' + (pc.moves.length ? '盟約動作' : '黑暗動作'), [
+							moveList(S.pactMoves.map((i) => list[i]).filter(Boolean)),
+						])
+					);
+				}
+				const fb = frBook();
+				if (fb && S.frMoves.length) {
+					p2.appendChild(sheetBlock('友情・' + fb.name, [moveList(S.frMoves.map((i) => fb.moves[i]).filter(Boolean))]));
+				}
+				const rb = romBook();
+				if (rb && S.romMoves.length) {
+					p2.appendChild(sheetBlock('戀愛・' + rb.name, [moveList(S.romMoves.map((i) => rb.moves[i]).filter(Boolean))]));
+				}
+
+				const basics = el('ul', 'mlist compact');
+				RULES.basicMoves.forEach((m) => {
+					const li = el('li');
+					li.appendChild(el('b', null, m.name + (m.attribute && m.attribute !== '屬性' ? '（+' + m.attribute + '）' : '')));
+					if (m.trigger) li.appendChild(el('span', null, m.trigger));
+					basics.appendChild(li);
+				});
+				p2.appendChild(sheetBlock('基礎動作（全角色共通）', [basics]));
+				root.appendChild(p2);
+			}
+
+			function render() {
+				renderBuilder();
+				renderSheet();
+				syncURL();
+			}
+
+			// ========== 匯出／匯入／分享／列印 ==========
+			$('#btn-export').addEventListener('click', () => {
+				const blob = new Blob([JSON.stringify(S, null, 2)], { type: 'application/json' });
+				const a = el('a');
+				a.href = URL.createObjectURL(blob);
+				a.download = (S.name || 'maho-shojo') + '.json';
+				a.click();
+				setTimeout(() => URL.revokeObjectURL(a.href), 1000);
+				toast('已匯出 JSON');
+			});
+			$('#btn-import').addEventListener('click', () => $('#file-input').click());
+			$('#file-input').addEventListener('change', async (e) => {
+				const f = e.target.files && e.target.files[0];
+				if (!f) return;
+				try {
+					const obj = JSON.parse(await f.text());
+					S = Object.assign(structuredClone(BLANK), obj);
+					render();
+					toast('已匯入 ' + f.name);
+				} catch (err) {
+					toast('匯入失敗：不是有效的角色 JSON');
+				}
+				e.target.value = '';
+			});
+			$('#btn-share').addEventListener('click', async () => {
+				try {
+					const code = await encodeState();
+					const url = location.origin + location.pathname + '#c=' + code;
+					history.replaceState(null, '', '#c=' + code);
+					await navigator.clipboard.writeText(url);
+					toast('已複製分享網址（' + url.length + ' 字元）');
+				} catch (err) {
+					toast('複製失敗，請手動複製網址列');
+				}
+			});
+			$('#btn-print').addEventListener('click', () => window.print());
+			$('#btn-reset').addEventListener('click', () => {
+				if (!confirm('確定要清空目前的角色卡？')) return;
+				S = structuredClone(BLANK);
+				history.replaceState(null, '', location.pathname);
+				render();
+			});
+
+			// ========== 初始化：讀取網址中的角色 ==========
+			(async () => {
+				const m = location.hash.match(/[#&]c=([^&]+)/);
+				if (m) {
+					try {
+						S = Object.assign(structuredClone(BLANK), await decodeState(m[1]));
+					} catch (e) {
+						toast('網址中的角色資料無法解讀，已開新卡');
+					}
+				}
+				render();
+			})();
+		</script>
+
+		<style is:global>
+			:root {
+				--night: #12102a;
+				--night-2: #1d1640;
+				--panel: #241b4a;
+				--star: #ffd98a;
+				--ink: #f4eefe;
+				--ink-dim: #b9aed6;
+				--line: #3b2f68;
+				--accent: #d066c0;
+			}
+			* { margin: 0; padding: 0; box-sizing: border-box; }
+			body {
+				min-height: 100%;
+				background: radial-gradient(ellipse at 50% -10%, #241b4a, var(--night) 60%);
+				color: var(--ink);
+				font-family: 'Segoe UI', 'Noto Sans TC', 'Microsoft JhengHei', system-ui, sans-serif;
+				line-height: 1.7;
+			}
+			button, input, select, textarea { font: inherit; color: inherit; }
+
+			/* ---- 頂列 ---- */
+			.topbar {
+				position: sticky; top: 0; z-index: 20;
+				display: flex; flex-wrap: wrap; gap: .75rem;
+				align-items: center; justify-content: space-between;
+				padding: .7rem 1.1rem;
+				background: rgba(18, 16, 42, .92);
+				border-bottom: 1px solid var(--line);
+				backdrop-filter: blur(6px);
+			}
+			.brand { display: flex; align-items: baseline; gap: .6rem; }
+			.brand .home { color: var(--star); text-decoration: none; font-size: 1.2rem; }
+			.brand h1 { font-size: 1.15rem; letter-spacing: .04em; }
+			.brand .sub { color: var(--ink-dim); font-size: .8rem; }
+			.tools { display: flex; flex-wrap: wrap; gap: .4rem; }
+			.tools button {
+				padding: .35rem .8rem; border-radius: 999px; cursor: pointer;
+				border: 1px solid var(--line); background: #1b1638; color: var(--ink);
+				transition: background .15s, border-color .15s;
+			}
+			.tools button:hover { background: #2a2154; border-color: var(--accent); }
+			.tools button.primary { background: var(--accent); border-color: var(--accent); color: #1a0f22; font-weight: 600; }
+			.tools button.ghost { color: var(--ink-dim); }
+
+			.toast {
+				position: fixed; left: 50%; bottom: 1.4rem; transform: translateX(-50%) translateY(1rem);
+				padding: .5rem 1rem; border-radius: 999px; z-index: 50;
+				background: #2a2154; border: 1px solid var(--accent);
+				opacity: 0; pointer-events: none; transition: opacity .2s, transform .2s;
+			}
+			.toast.show { opacity: 1; transform: translateX(-50%) translateY(0); }
+
+			/* ---- 版面 ---- */
+			.wrap {
+				display: grid; gap: 1.1rem;
+				grid-template-columns: minmax(320px, 1fr) minmax(320px, 1fr);
+				align-items: start;
+				padding: 1.1rem; max-width: 1500px; margin: 0 auto;
+			}
+			@media (max-width: 960px) { .wrap { grid-template-columns: 1fr; } }
+
+			.builder { display: flex; flex-direction: column; gap: .7rem; }
+			.step {
+				border: 1px solid var(--line); border-radius: 12px;
+				background: rgba(36, 27, 74, .55); overflow: hidden;
+			}
+			.step > summary {
+				cursor: pointer; padding: .6rem .9rem; display: flex; gap: .6rem;
+				align-items: baseline; background: rgba(45, 34, 92, .6);
+			}
+			.step > summary::marker { color: var(--star); }
+			.stitle { font-weight: 600; letter-spacing: .03em; }
+			.shint { color: var(--ink-dim); font-size: .8rem; }
+			.step > *:not(summary) { margin: .55rem .9rem; }
+			.step > *:last-child { margin-bottom: .9rem; }
+
+			.note { color: var(--ink-dim); font-size: .85rem; }
+			.note.dim { opacity: .75; font-size: .8rem; }
+			ul.rules { margin-left: 2rem; color: var(--ink-dim); font-size: .85rem; }
+
+			.fgrid { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: .5rem .7rem; }
+			.field { display: flex; flex-direction: column; gap: .2rem; }
+			.flabel { font-size: .78rem; color: var(--ink-dim); letter-spacing: .05em; }
+			.field input, .field select, .field textarea, .heartrow input, .heartrow select {
+				width: 100%; padding: .35rem .55rem; border-radius: 8px;
+				border: 1px solid var(--line); background: #171233;
+			}
+			.field input:focus, .field textarea:focus { outline: 2px solid var(--accent); }
+			.combo { display: block; }
+			.combo input { width: 100%; padding: .35rem .55rem; border-radius: 8px; border: 1px solid var(--line); background: #171233; }
+			input.num { max-width: 6rem; }
+
+			.pbgrid { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: .5rem; }
+			.pbcard {
+				display: flex; flex-direction: column; gap: .15rem; text-align: left;
+				padding: .55rem .7rem; border-radius: 10px; cursor: pointer;
+				border: 1px solid var(--line); background: #1b1638; color: var(--ink);
+			}
+			.pbcard:hover { border-color: var(--accent); }
+			.pbcard.on { border-color: var(--star); background: #2c2258; box-shadow: 0 0 0 1px var(--star) inset; }
+			.pbcard b { font-size: 1rem; }
+			.pbmove { color: var(--star); font-size: .78rem; }
+			.pbdesc { color: var(--ink-dim); font-size: .74rem; line-height: 1.5; }
+
+			.setrow, .pactrow { display: flex; gap: .45rem; flex-wrap: wrap; }
+			.setbtn, .pactbtn {
+				padding: .4rem .7rem; border-radius: 10px; cursor: pointer; text-align: left;
+				border: 1px solid var(--line); background: #1b1638; color: var(--ink); font-size: .85rem;
+			}
+			.setbtn b { display: block; }
+			.setbtn.on, .pactbtn.on { border-color: var(--star); background: #2c2258; }
+
+			.attrrow { display: grid; grid-template-columns: repeat(5, 1fr); gap: .4rem; }
+			.attrcell {
+				display: flex; flex-direction: column; align-items: center; gap: .1rem;
+				padding: .4rem .2rem; border: 1px solid var(--line); border-radius: 10px; background: #171233;
+			}
+			.akey { font-size: .78rem; color: var(--ink-dim); }
+			.aval { font-size: 1.35rem; color: var(--star); }
+			.actrl { display: flex; gap: .2rem; }
+			button.tiny {
+				width: 1.5rem; height: 1.5rem; line-height: 1; cursor: pointer;
+				border-radius: 6px; border: 1px solid var(--line); background: #221b45; color: var(--ink);
+			}
+			button.tiny:hover { border-color: var(--accent); }
+			button.small {
+				padding: .3rem .7rem; border-radius: 8px; cursor: pointer;
+				border: 1px solid var(--line); background: #221b45; color: var(--ink); font-size: .85rem;
+			}
+			.chips { display: flex; gap: .35rem; flex-wrap: wrap; }
+			.chip {
+				padding: .15rem .55rem; border-radius: 999px; cursor: pointer; font-size: .78rem;
+				border: 1px solid var(--accent); background: #2a2154; color: var(--ink);
+			}
+
+			.checklist { display: flex; flex-direction: column; gap: .35rem; }
+			.checklist.compact { flex-direction: row; flex-wrap: wrap; gap: .5rem 1rem; }
+			.check { display: flex; gap: .5rem; align-items: flex-start; cursor: pointer; }
+			.check.inline { align-items: center; }
+			.check input { margin-top: .45rem; accent-color: var(--accent); }
+			.ctext { display: flex; flex-direction: column; }
+			.ctext b { font-size: .9rem; }
+			.cdesc { color: var(--ink-dim); font-size: .8rem; line-height: 1.6; }
+			.granted { border-left: 2px solid var(--star); padding-left: .6rem; }
+			.granted b { font-size: .9rem; }
+			.granted p { color: var(--ink-dim); font-size: .82rem; white-space: pre-line; }
+
+			.heartrow { display: grid; grid-template-columns: 1fr 7rem 1.4fr auto; gap: .35rem; align-items: center; }
+			.heartrow input, .heartrow select { padding: .3rem .5rem; border-radius: 8px; border: 1px solid var(--line); background: #171233; }
+
+			/* ---- 角色卡 ---- */
+			.preview { position: sticky; top: 4rem; }
+			.sheet { display: flex; flex-direction: column; gap: 1rem; }
+			.page {
+				background: #fdfbff; color: #241b3f;
+				border-radius: 10px; padding: 12mm 10mm;
+				box-shadow: 0 10px 30px rgba(0, 0, 0, .4);
+				font-size: 10.5pt; line-height: 1.55;
+			}
+			.page.empty { color: #6b5f8c; text-align: center; padding: 4rem 1rem; }
+			.shead { display: flex; justify-content: space-between; align-items: flex-start; gap: 1rem;
+				border-bottom: 2px solid #d8cdf0; padding-bottom: .5rem; margin-bottom: .7rem; }
+			.shead h2 { font-size: 16pt; line-height: 1.3; }
+			.stitle2 { color: #7a4fa0; font-size: 10pt; }
+			.pbtag { text-align: right; }
+			.pbtag b { display: block; font-size: 12pt; color: #7a2f8f; }
+			.pbtag span { font-size: 9pt; color: #6b5f8c; }
+			.pagetitle { font-size: 13pt; border-bottom: 2px solid #d8cdf0; padding-bottom: .35rem; margin-bottom: .6rem; }
+
+			.sattrs { display: grid; grid-template-columns: repeat(5, 1fr); gap: .35rem; margin-bottom: .7rem; }
+			.sattr { text-align: center; border: 1px solid #d8cdf0; border-radius: 8px; padding: .25rem; }
+			.sattr span { display: block; font-size: 8.5pt; color: #6b5f8c; }
+			.sattr b { font-size: 14pt; color: #7a2f8f; }
+
+			.blk { margin-bottom: .7rem; break-inside: avoid; }
+			.blk h3 {
+				font-size: 10pt; letter-spacing: .08em; color: #7a2f8f;
+				border-bottom: 1px solid #e3daf5; margin-bottom: .3rem; padding-bottom: .1rem;
+			}
+			.cols2 { display: grid; grid-template-columns: 1fr 1fr; gap: 0 1rem; }
+			.kv { display: flex; gap: .4rem; font-size: 9.5pt; }
+			.kv .k { color: #6b5f8c; min-width: 5.5em; }
+			.kv .v { flex: 1; border-bottom: 1px dotted #cfc3e8; }
+			.status { display: grid; grid-template-columns: repeat(4, 1fr); gap: .3rem; }
+			.cons { display: flex; flex-wrap: wrap; gap: .3rem .8rem; margin-top: .3rem; font-size: 9.5pt; }
+			.consitem.on { color: #b02a5b; font-weight: 600; }
+			.freetext { white-space: pre-line; font-size: 9.5pt; }
+			.tiny-note { font-size: 8.5pt; color: #6b5f8c; margin-top: .2rem; }
+
+			table.lux { width: 100%; border-collapse: collapse; font-size: 9pt; }
+			table.lux th, table.lux td { border: 1px solid #ddd2f2; padding: .18rem .35rem; text-align: center; }
+			table.lux th { background: #efe8fb; color: #55366e; }
+			table.lux tr.on td { background: #fbf3ff; }
+			table.lux td.lock { color: #b3a8c9; }
+
+			ul.mlist { list-style: none; display: flex; flex-direction: column; gap: .3rem; }
+			ul.mlist li { break-inside: avoid; }
+			ul.mlist b { display: block; font-size: 9.5pt; color: #4a2a6b; }
+			ul.mlist span { display: block; font-size: 9pt; color: #43385e; white-space: pre-line; }
+			ul.mlist.compact span { color: #6b5f8c; }
+
+			.foot {
+				display: flex; justify-content: space-between; gap: 1rem; flex-wrap: wrap;
+				padding: 1rem 1.2rem 2rem; color: var(--ink-dim); font-size: .8rem;
+			}
+			.foot a { color: var(--star); }
+
+			/* ---- 列印：A4，可多頁 ---- */
+			@page { size: A4; margin: 12mm; }
+			@media print {
+				body { background: #fff; color: #000; }
+				.no-print, .topbar, .foot, .toast { display: none !important; }
+				.wrap { display: block; padding: 0; max-width: none; }
+				.preview { position: static; }
+				.sheet { gap: 0; }
+				.page {
+					box-shadow: none; border-radius: 0; padding: 0;
+					background: #fff; break-after: page; page-break-after: always;
+				}
+				.page:last-child { break-after: auto; page-break-after: auto; }
+			}
+		</style>
+	</body>
+</html>
