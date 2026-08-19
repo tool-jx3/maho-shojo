@@ -42,7 +42,28 @@ def bold_blocks(lines):
         elif name is not None:
             buf.append(l)
     flush()
-    return [b for b in out if b['name']]
+    return [split_table(b) for b in out if b['name']]
+
+def split_table(block):
+    """把區塊文字中的 Markdown 表格抽成 {headers, rows}，並從文字中移除。"""
+    headers, rows, body = None, [], []
+    for line in block['text'].split('\n'):
+        ln = line.strip()
+        if ln.startswith('|'):
+            if set(ln.replace('|', '').strip()) <= set(':- '):
+                continue  # 分隔列
+            cells = [c.strip() for c in ln.strip('|').split('|')]
+            if headers is None:
+                headers = cells
+            else:
+                rows.append(cells)
+            continue
+        body.append(line)
+    if headers and rows:
+        block['table'] = {'headers': headers, 'rows': rows}
+        block['text'] = '\n'.join(body).strip()
+    return block
+
 
 def parse_signature(body):
     """回傳 {mode, ...}。"""
@@ -166,22 +187,24 @@ for t, b in sections(PA, 2):
         for x in sub.get('盟約優勢', []):
             if re.match(r'^\*\*.+\*\*\s*$', x.strip()): break
             if x.strip(): intro.append(x.strip())
-    # 優勢內若含表格（契約傀儡的「契約形態」能力量表），單獨抽出
-    for a in adv:
-        rows, body = [], []
-        for line in a['text'].split('\n'):
-            ln = line.strip()
-            if ln.startswith('|') and not ln.startswith('|:'):
-                cells = [c.strip() for c in ln.strip('|').split('|')]
-                if len(cells) == 2 and cells[0].isdigit():
-                    rows.append({'level': int(cells[0]), 'effect': cells[1]})
-                    continue
-                if len(cells) == 2:  # 表頭
-                    continue
-            body.append(line)
-        if rows:
-            a['formTable'] = rows
-            a['text'] = '\n'.join(body).strip()
+    # 表格已由 split_table 統一抽出；標記用途：
+    #   2 欄（等級／效果）＝額外形態；4 欄（能力等級／三形態）＝取代能力量表
+    def tag_tables(blocks):
+        for b in blocks:
+            t = b.get('table')
+            if not t:
+                continue
+            b['tableKind'] = ('extraForm' if len(t['headers']) == 2
+                              else 'replaceLux' if len(t['headers']) == 4 else 'info')
+            if b['tableKind'] == 'extraForm':
+                b['formTable'] = [{'level': int(r[0]), 'effect': r[1]}
+                                  for r in t['rows'] if r[0].isdigit()]
+    tag_tables(adv)
+    tag_tables(moves)
+    tag_tables(coop)
+    for k in dark:
+        tag_tables(dark[k])
+
     pacts.append({'name': t.replace('盟約：', ''), 'moves': moves, 'coopMoves': coop,
                   'darkMoves': dark, 'darkRules': rules, 'advantages': adv,
                   'advantageIntro': intro})

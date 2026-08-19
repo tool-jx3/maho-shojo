@@ -123,7 +123,6 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 				if (!pb) return;
 				S.bumps = (S.bumps || []).filter((b) => !b.fromAdv);
 				S.advMoves = [];
-				S.frMoves = (S.frMoves || []).filter((i) => !S.advances.some((a) => a.done && a.opt.indexOf('友情扮演書動作') >= 0));
 				S.superForm = false;
 				S.triumphForm = false;
 				S.sigExtra = 0;
@@ -134,9 +133,8 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 					} else if (a.opt.indexOf('進階動作') >= 0 && a.detail !== '') {
 						const i = parseInt(a.detail, 10);
 						if (!isNaN(i) && !S.advMoves.includes(i)) S.advMoves.push(i);
-					} else if (a.opt.indexOf('友情扮演書動作') >= 0 && a.detail !== '') {
-						const i = parseInt(a.detail, 10);
-						if (!isNaN(i) && !S.frMoves.includes(i)) S.frMoves.push(i);
+					} else if (a.opt.indexOf('友情扮演書動作') >= 0) {
+						/* 友情動作由 advGrantedFr() 併入，不寫回 S.frMoves */
 					} else if (a.detail === 'super') {
 						S.superForm = true;
 					} else if (a.detail === 'triumph') {
@@ -204,6 +202,59 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 				t.textContent = msg;
 				t.classList.add('show');
 				setTimeout(() => t.classList.remove('show'), 2400);
+			}
+
+			// 由規則資料的 table 欄位建出真正的表格
+			function tableNode(t, cls) {
+				const tb = el('table', cls || 'minitable');
+				const th = el('thead');
+				const htr = el('tr');
+				t.headers.forEach((h) => htr.appendChild(el('th', null, h)));
+				th.appendChild(htr);
+				tb.appendChild(th);
+				const body = el('tbody');
+				t.rows.forEach((r) => {
+					const tr = el('tr');
+					r.forEach((c) => tr.appendChild(el('td', null, c)));
+					body.appendChild(tr);
+				});
+				tb.appendChild(body);
+				return tb;
+			}
+
+			// 由成長取得的友情動作（與手動勾選分開，避免互相覆蓋）
+			function advGrantedFr() {
+				const out = [];
+				S.advances.forEach((a) => {
+					if (a.done && a.opt && a.opt.indexOf('友情扮演書動作') >= 0 && a.detail !== '') {
+						const i = parseInt(a.detail, 10);
+						if (!isNaN(i) && !out.includes(i)) out.push(i);
+					}
+				});
+				return out;
+			}
+			const effFrMoves = () => {
+				const g = advGrantedFr();
+				return (S.frMoves || []).concat(g.filter((i) => !(S.frMoves || []).includes(i)));
+			};
+
+			// 目前生效的能力量表：可能被盟約優勢／黑暗動作取代，或多一個額外形態
+			function luxView() {
+				const pb = playbook();
+				const pc = pact();
+				let replace = null;
+				let extra = null;
+				if (pc) {
+					const picked = []
+						.concat((pc.advantages || []).filter((a, i) => (S.pactAdv || []).includes(i)))
+						.concat((pc.moves || []).filter((m, i) => (S.pactMoves || []).includes(i)))
+						.concat(((pc.darkMoves || {})[S.pb] || []).filter((m, i) => (S.darkMoves || []).includes(i)));
+					picked.forEach((m) => {
+						if (m.tableKind === 'replaceLux' && !replace) replace = m;
+						if (m.tableKind === 'extraForm' && !extra) extra = m;
+					});
+				}
+				return { rows: pb ? pb.lux : [], replace, extra };
 			}
 
 			// ========== 小工具：建立表單控制項 ==========
@@ -277,6 +328,7 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 					const body = el('span', 'ctext');
 					body.appendChild(el('b', null, it.name || ''));
 					if (it.text) body.appendChild(el('span', 'cdesc', it.text));
+					if (it.table) body.appendChild(tableNode(it.table));
 					row.appendChild(body);
 					box.appendChild(row);
 				});
@@ -436,6 +488,7 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 							const g = el('div', 'granted');
 							g.appendChild(el('b', null, '同時獲得：' + m.name));
 							g.appendChild(el('p', null, m.text));
+							if (m.table) g.appendChild(tableNode(m.table));
 							d.appendChild(g);
 						});
 					} else {
@@ -443,6 +496,7 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 							const g = el('div', 'granted');
 							g.appendChild(el('b', null, m.name));
 							g.appendChild(el('p', null, m.text));
+							if (m.table) g.appendChild(tableNode(m.table));
 							d.appendChild(g);
 						});
 						if ((sig.chooseFrom || []).length) {
@@ -496,12 +550,7 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 							d.appendChild(el('p', 'note', '盟約優勢（最多 2 項）'));
 							d.appendChild(
 								checkList(
-									pc.advantages.map((a) => ({
-										name: a.name,
-										text: a.formTable
-											? a.text + '\n能力量表：' + a.formTable.map((r) => r.level + '　' + r.effect).join('｜')
-											: a.text,
-									})),
+									pc.advantages,
 									(i) => S.pactAdv.includes(i),
 									(i, on) => {
 										if (on) {
@@ -546,6 +595,7 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 								const g = el('div', 'granted');
 								g.appendChild(el('b', null, m.name));
 								g.appendChild(el('p', null, m.text));
+								if (m.table) g.appendChild(tableNode(m.table));
 								det.appendChild(g);
 							});
 							d.appendChild(det);
@@ -604,11 +654,22 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 						const book = books.find((x) => x.name === S[bookKey]);
 						if (book) {
 							if (book.tags) d.appendChild(el('p', 'note dim', '標籤：' + book.tags));
+							const granted = bookKey === 'fr' ? advGrantedFr() : [];
+							if (granted.length) {
+								d.appendChild(
+									el('p', 'note ok',
+										'由成長取得：' + granted.map((i) => (book.moves[i] || {}).name).filter(Boolean).join('、'))
+								);
+							}
 							d.appendChild(
 								checkList(
 									book.moves,
-									(i) => S[movesKey].includes(i),
+									(i) => S[movesKey].includes(i) || granted.includes(i),
 									(i, on) => {
+										if (granted.includes(i)) {
+											toast('這個動作由成長取得，請到步驟 8 調整');
+											return;
+										}
 										if (on) S[movesKey].push(i);
 										else S[movesKey] = S[movesKey].filter((x) => x !== i);
 									}
@@ -725,6 +786,7 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 						del.title = '刪除這次成長';
 						del.addEventListener('click', () => {
 							S.advances.splice(idx, 1);
+							applyAdvances();
 							render();
 						});
 						head.appendChild(del);
@@ -927,6 +989,7 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 					const li = el('li');
 					li.appendChild(el('b', null, m.name));
 					if (m.text) li.appendChild(el('span', null, m.text.replace(/\*\*/g, '').replace(/\[(.+?)\]\(.+?\)/g, '$1')));
+					if (m.table) li.appendChild(tableNode(m.table, 'minitable sheet'));
 					ul.appendChild(li);
 				});
 				return ul;
@@ -997,38 +1060,52 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 				if (fbSheet && fbSheet.tags) bookExtras.push(el('p', 'tiny-note', '友情標籤：' + fbSheet.tags));
 				p1.appendChild(sheetBlock('盟約與扮演書', bookExtras));
 
-				// 能力量表（若盟約優勢帶有額外形態，多一欄）
-				const pcSheet = pact();
-				const extraForm = pcSheet
-					? (pcSheet.advantages || []).find((a, i) => a.formTable && (S.pactAdv || []).includes(i))
-					: null;
-				const extraByLevel = {};
-				if (extraForm) extraForm.formTable.forEach((r) => (extraByLevel[r.level] = r.effect));
-
+				// 能力量表：可能被取代（如偶像黑暗動作「黑暗女神」）或多一個額外形態（如「契約形態」）
+				const lv = luxView();
 				const tbl = el('table', 'lux');
 				const thead = el('thead');
 				const htr = el('tr');
-				const heads = ['等級', '基礎形態', '超級形態', '凱旋形態'];
-				if (extraForm) heads.push(extraForm.name);
-				heads.forEach((h) => htr.appendChild(el('th', null, h)));
+				const tb = el('tbody');
+				const extraByLevel = {};
+				if (lv.extra) (lv.extra.formTable || []).forEach((r) => (extraByLevel[r.level] = r.effect));
+
+				if (lv.replace) {
+					// 整張量表被取代：直接照原表輸出
+					lv.replace.table.headers.forEach((h) => htr.appendChild(el('th', null, h)));
+					if (lv.extra) htr.appendChild(el('th', null, lv.extra.name));
+					lv.replace.table.rows.forEach((r) => {
+						const lvNum = parseInt(r[0], 10);
+						const tr = el('tr', S.power >= lvNum ? 'on' : '');
+						r.forEach((c, ci) => {
+							const lock = (ci === 2 && !S.superForm) || (ci === 3 && !S.triumphForm);
+							tr.appendChild(el('td', lock ? 'lock' : '', c || '—'));
+						});
+						if (lv.extra) tr.appendChild(el('td', null, extraByLevel[lvNum] || '—'));
+						tb.appendChild(tr);
+					});
+				} else {
+					const heads = ['等級', '基礎形態', '超級形態', '凱旋形態'];
+					if (lv.extra) heads.push(lv.extra.name);
+					heads.forEach((h) => htr.appendChild(el('th', null, h)));
+					lv.rows.forEach((r) => {
+						const tr = el('tr', S.power >= r.level ? 'on' : '');
+						tr.appendChild(el('td', null, String(r.level)));
+						tr.appendChild(el('td', null, r.basic));
+						tr.appendChild(el('td', S.superForm ? '' : 'lock', r.super || '—'));
+						tr.appendChild(el('td', S.triumphForm ? '' : 'lock', r.triumph || '—'));
+						if (lv.extra) tr.appendChild(el('td', null, extraByLevel[r.level] || '—'));
+						tb.appendChild(tr);
+					});
+				}
 				thead.appendChild(htr);
 				tbl.appendChild(thead);
-				const tb = el('tbody');
-				pb.lux.forEach((r) => {
-					const tr = el('tr', S.power >= r.level ? 'on' : '');
-					tr.appendChild(el('td', null, String(r.level)));
-					tr.appendChild(el('td', null, r.basic));
-					tr.appendChild(el('td', S.superForm ? '' : 'lock', r.super || '—'));
-					tr.appendChild(el('td', S.triumphForm ? '' : 'lock', r.triumph || '—'));
-					if (extraForm) tr.appendChild(el('td', null, extraByLevel[r.level] || '—'));
-					tb.appendChild(tr);
-				});
 				tbl.appendChild(tb);
 				const luxNote = el('p', 'tiny-note',
 					'能力等級 ' + S.power +
 					'　超級形態：' + (S.superForm ? '已解鎖' : '未解鎖') +
 					'　凱旋形態：' + (S.triumphForm ? '已解鎖' : '未解鎖') +
-					(extraForm ? '　' + extraForm.name + '：已取得' : ''));
+					(lv.extra ? '　' + lv.extra.name + '：已取得' : '') +
+					(lv.replace ? '　※ 量表已由「' + lv.replace.name + '」取代，使用暗點計算等級' : ''));
 				p1.appendChild(sheetBlock('光之裝束・能力量表', [tbl, luxNote]));
 
 				const hearts = (S.hearts || []).filter((h) => h.name || h.effect);
@@ -1104,8 +1181,9 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 					}
 				}
 				const fb = frBook();
-				if (fb && S.frMoves.length) {
-					p2.appendChild(sheetBlock('友情・' + fb.name, [moveList(S.frMoves.map((i) => fb.moves[i]).filter(Boolean))]));
+				const frAll = effFrMoves();
+				if (fb && frAll.length) {
+					p2.appendChild(sheetBlock('友情・' + fb.name, [moveList(frAll.map((i) => fb.moves[i]).filter(Boolean))]));
 				}
 				const rb = romBook();
 				if (rb && S.romMoves.length) {
@@ -1145,6 +1223,7 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 			}
 
 			function render() {
+				applyAdvances();
 				renderBuilder();
 				renderSheet();
 				syncURL();
@@ -1355,6 +1434,14 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 			.granted b { font-size: .9rem; }
 			.granted p { color: var(--ink-dim); font-size: .82rem; white-space: pre-line; }
 
+			table.minitable { width: 100%; border-collapse: collapse; font-size: .78rem; margin-top: .3rem; }
+			table.minitable th, table.minitable td {
+				border: 1px solid var(--line); padding: .12rem .4rem; text-align: center;
+			}
+			table.minitable th { background: rgba(45, 34, 92, .8); color: var(--star); font-weight: 500; }
+			table.minitable.sheet { font-size: 8.5pt; color: #43385e; }
+			table.minitable.sheet th, table.minitable.sheet td { border-color: #ddd2f2; }
+			table.minitable.sheet th { background: #efe8fb; color: #55366e; }
 			.note.ok { color: #8ce0b0; }
 			.note.warn { color: #ffb3c7; }
 			.advcard {
