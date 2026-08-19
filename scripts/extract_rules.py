@@ -109,6 +109,20 @@ def parse_attributes(body):
                     'note': note.strip()}
     return {'mode': 'fixed', 'values': {k: 0 for k in ATTR_KEYS}, 'note': note.strip()}
 
+# ---------------- 成長類型說明（advancement.md「成長類型」） ----------------
+ADV = read('advancement.md')
+ADV_DESC = {'b': {}, 'a': {}}
+for _t, _body in sections(ADV, 2):
+    if _t != '成長類型':
+        continue
+    for _kind, _sec in sections(_body, 3):
+        _key = 'b' if _kind == '基礎成長' else 'a' if _kind == '進階成長' else None
+        if not _key:
+            continue
+        for _name, _txt in sections(_sec, 4):
+            _clean = [x.strip() for x in _txt if x.strip() and not x.strip().startswith(':::')]
+            ADV_DESC[_key][_name] = re.sub(r'\[(.+?)\]\(.+?\)', r'\1', '\n'.join(_clean))
+
 # ---------------- 原型扮演書 ----------------
 ARCH = read('archetypes.md')
 intro_secs = dict(sections(sections(ARCH, 2)[0][1], 3))
@@ -134,6 +148,14 @@ for title, body in sections(ARCH, 2):
                 c = c.replace('○', '').strip()
                 if c: cons.append(c)
     sh, basic_adv, adv_adv, mode = sub.get('閃耀時刻！', []), [], [], None
+    def adv_desc(text, kind):
+        table = ADV_DESC.get(kind, {})
+        if text in table:
+            return table[text]
+        if text.endswith('進階動作'):
+            return table.get('（原型）進階動作', '')
+        return ''
+
     for l in sh:
         if '基礎成長' in l: mode = 'b'; continue
         if '進階成長' in l: mode = 'a'; continue
@@ -142,8 +164,9 @@ for title, body in sections(ARCH, 2):
             # 行首的 ○ 為官方扮演書上的欄位（可重複選取次數），沒有標記時視為 1 格
             m = re.match(r'^(○+)\s*', item)
             boxes = len(m.group(1)) if m else 1
+            text = item[m.end():].strip() if m else item
             (basic_adv if mode == 'b' else adv_adv).append(
-                {'text': item[m.end():].strip() if m else item, 'boxes': boxes})
+                {'text': text, 'boxes': boxes, 'desc': adv_desc(text, mode)})
     intro = [x.strip() for x in intro_secs.get(title, []) if x.strip() and not x.startswith('#')]
     playbooks.append({
         'name': title,
