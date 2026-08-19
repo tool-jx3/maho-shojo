@@ -138,7 +138,12 @@ for title, body in sections(ARCH, 2):
         if '基礎成長' in l: mode = 'b'; continue
         if '進階成長' in l: mode = 'a'; continue
         if l.strip().startswith('- '):
-            (basic_adv if mode == 'b' else adv_adv).append(re.sub(r'^\s*-\s*', '', l).strip())
+            item = re.sub(r'^\s*-\s*', '', l).strip()
+            # 行首的 ○ 為官方扮演書上的欄位（可重複選取次數），沒有標記時視為 1 格
+            m = re.match(r'^(○+)\s*', item)
+            boxes = len(m.group(1)) if m else 1
+            (basic_adv if mode == 'b' else adv_adv).append(
+                {'text': item[m.end():].strip() if m else item, 'boxes': boxes})
     intro = [x.strip() for x in intro_secs.get(title, []) if x.strip() and not x.startswith('#')]
     playbooks.append({
         'name': title,
@@ -231,6 +236,9 @@ for p in playbooks:
         p['name'], p['attributes']['mode'],
         s['mode'], len(s.get('granted') or []), len(s.get('chooseFrom') or s.get('options') or []),
         s.get('chooseCount'), len(p['advanceMoves']), len(p['lux']), len(p['consequences'])))
+    print('    成長欄位 基礎=%s 進階=%s' % (
+        [(a['text'], a['boxes']) for a in p['basicAdvances']],
+        [(a['text'], a['boxes']) for a in p['advancedAdvances']]))
 print('friendship', [(f['name'], len(f['moves'])) for f in friendship])
 print('romance', [(r['name'], len(r['moves'])) for r in romance])
 print('pacts', [(p['name'], len(p['moves']), len(p['coopMoves']), {k: len(v) for k, v in p['darkMoves'].items()}, len(p['advantages'])) for p in pacts])

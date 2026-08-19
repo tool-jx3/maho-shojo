@@ -222,6 +222,43 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 				return tb;
 			}
 
+			// 官方扮演書上每項成長前方的欄位數（可重複選取的次數）；基礎成長與進階成長各自獨立計算
+			function advBoxUsed(text, isAdvanced, skipIdx) {
+				let n = 0;
+				S.advances.forEach((x, i) => {
+					if (i === skipIdx) return;
+					if ((i >= 5) !== isAdvanced) return;
+					if (x.opt && x.opt === text) n++;
+				});
+				return n;
+			}
+			const boxMarks = (total, used) =>
+				'●'.repeat(Math.min(used, total)) + '○'.repeat(Math.max(total - used, 0));
+
+			// 成長欄位總覽：對應官方扮演書上每項成長前方的 ○
+			function advBoxTable(cls) {
+				const pb = playbook();
+				const wrap = el('div', cls || 'advboxes');
+				[
+					['基礎成長', pb.basicAdvances, false],
+					['進階成長', pb.advancedAdvances, true],
+				].forEach(([label, pool, isAdvanced]) => {
+					const col = el('div', 'advboxcol');
+					col.appendChild(el('b', null, label));
+					const ul = el('ul', 'advboxlist');
+					pool.forEach((o) => {
+						const used = advBoxUsed(o.text, isAdvanced, -1);
+						const li = el('li', used >= o.boxes ? 'full' : null);
+						li.appendChild(el('span', 'boxmark', boxMarks(o.boxes, used)));
+						li.appendChild(el('span', null, o.text));
+						ul.appendChild(li);
+					});
+					col.appendChild(ul);
+					wrap.appendChild(col);
+				});
+				return wrap;
+			}
+
 			// 由成長取得的友情動作（與手動勾選分開，避免互相覆蓋）
 			function advGrantedFr() {
 				const out = [];
@@ -798,9 +835,15 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 						ph.value = '';
 						sel.appendChild(ph);
 						pool.forEach((opt) => {
-							const o = el('option', null, opt);
-							o.value = opt;
-							if (a.opt === opt) o.selected = true;
+							const used = advBoxUsed(opt.text, isAdvanced, idx);
+							const full = used >= opt.boxes;
+							const mine = a.opt === opt.text;
+							const o = el('option', null,
+								opt.text + '　' + boxMarks(opt.boxes, used + (mine ? 1 : 0)) +
+								(full && !mine ? '（欄位已滿）' : ''));
+							o.value = opt.text;
+							o.disabled = full && !mine;
+							if (mine) o.selected = true;
 							sel.appendChild(o);
 						});
 						sel.disabled = !!a.done;
@@ -908,17 +951,30 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 					});
 
 					const pending = S.advances.some((a) => !a.done);
+					const nextAdvanced = S.advances.length >= 5;
+					const nextPool = nextAdvanced ? pb.advancedAdvances : pb.basicAdvances;
+					const poolFull = nextPool.every(
+						(o) => advBoxUsed(o.text, nextAdvanced, -1) >= o.boxes
+					);
 					const add = el('button', 'small');
 					add.type = 'button';
 					add.textContent = '＋ 新增一次成長';
-					add.disabled = pending;
-					add.title = pending ? '請先完成上一次成長的處理項目' : '';
+					add.disabled = pending || poolFull;
+					add.title = pending ? '請先完成上一次成長的處理項目' : poolFull ? '此類成長的欄位已全部勾選' : '';
 					add.addEventListener('click', () => {
 						S.advances.push({ opt: '', detail: '', done: false });
 						render();
 					});
 					d.appendChild(add);
 					if (pending) d.appendChild(el('p', 'note warn', '上一次成長尚未處理完成，無法再升下一級。'));
+					else if (poolFull)
+						d.appendChild(
+							el('p', 'note warn', (nextAdvanced ? '進階成長' : '基礎成長') + '的欄位已全部勾選，無法再選擇。')
+						);
+
+					// 成長欄位總覽（對應官方扮演書上的 ○ 欄位）
+					d.appendChild(el('p', 'note', '成長欄位（●＝已勾選）'));
+					d.appendChild(advBoxTable());
 
 					// 目前已取得的進階動作一覽（唯讀，由成長流程產生）
 					if (S.advMoves.length) {
@@ -1210,6 +1266,7 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 					});
 					p2.appendChild(sheetBlock('成長紀錄', [ul]));
 				}
+				p2.appendChild(sheetBlock('成長欄位', [advBoxTable('advboxes sheet')]));
 
 				const basics = el('ul', 'mlist compact');
 				RULES.basicMoves.forEach((m) => {
@@ -1444,6 +1501,17 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 			table.minitable.sheet th { background: #efe8fb; color: #55366e; }
 			.note.ok { color: #8ce0b0; }
 			.note.warn { color: #ffb3c7; }
+
+			.advboxes { display: grid; grid-template-columns: 1fr 1fr; gap: .6rem; margin-top: .25rem; }
+			.advboxes > .advboxcol > b { font-size: .8rem; color: var(--star); }
+			ul.advboxlist { list-style: none; margin-top: .25rem; display: flex; flex-direction: column; gap: .18rem; }
+			ul.advboxlist li { display: flex; gap: .35rem; font-size: .78rem; color: var(--ink-dim); }
+			ul.advboxlist li.full { opacity: .5; text-decoration: line-through; }
+			.boxmark { color: var(--star); letter-spacing: .05em; white-space: nowrap; }
+			.advboxes.sheet > .advboxcol > b { font-size: 9.5pt; color: #4a2a6b; }
+			.advboxes.sheet ul.advboxlist li { font-size: 9pt; color: #43385e; }
+			.advboxes.sheet ul.advboxlist li.full { opacity: 1; text-decoration: none; }
+			.advboxes.sheet .boxmark { color: #7a5aa8; }
 			.advcard {
 				border: 1px solid var(--line); border-left: 3px solid var(--accent);
 				border-radius: 10px; padding: .5rem .7rem; margin-bottom: .5rem;
