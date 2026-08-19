@@ -257,6 +257,33 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 				return bonus ? 2 : 1;
 			}
 
+			// 刪除中間的成長後，後面的成長會往前遞補而改變「第幾次」，
+			// 進而改變基礎／進階分類、超級形態的前置條件與欄位用量。
+			// 這裡重新檢查每一筆，不再合法的就清空該次成長讓使用者重選。
+			function revalidateAdvances() {
+				const pb = playbook();
+				if (!pb) return [];
+				const usedCount = {};
+				const cleared = [];
+				S.advances.forEach((a, i) => {
+					if (!a.opt) return;
+					const isAdvanced = i >= 5;
+					const pool = isAdvanced ? pb.advancedAdvances : pb.basicAdvances;
+					const meta = pool.find((o) => o.text === a.opt);
+					const key = (isAdvanced ? 'a:' : 'b:') + a.opt;
+					usedCount[key] = (usedCount[key] || 0) + 1;
+					const bad = !meta || !!advBlockReason(a.opt, i) || usedCount[key] > meta.boxes;
+					if (bad) {
+						cleared.push('第 ' + (i + 1) + ' 次「' + a.opt + '」');
+						usedCount[key]--;
+						a.opt = '';
+						a.detail = '';
+						a.done = false;
+					}
+				});
+				return cleared;
+			}
+
 			// 成長的前置條件（規則「成長類型」）：不符合時該項成長不可選擇
 			function advBlockReason(text, idx) {
 				if (text.indexOf('超級形態') >= 0 && idx < 2) return '需先取得 2 次成長';
@@ -322,6 +349,85 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 				return { rows: pb ? pb.lux : [], replace, extra };
 			}
 
+			// 已標記後果造成的屬性懲罰（每項 -2）
+			function consPenalty() {
+				const pb = playbook();
+				const out = {};
+				if (!pb) return out;
+				const all = pb.consequences.concat(['落敗']);
+				(S.cons || []).forEach((i) => {
+					const info = (RULES.consequenceInfo || {})[all[i]] || {};
+					if (info.attribute) out[info.attribute] = (out[info.attribute] || 0) - 2;
+				});
+				return out;
+			}
+
+			// 目前解鎖的光之裝束力量總和
+			// 規則：能力量表上「該等級及以下」的所有力量都可使用，且各形態與各等級的力量累加
+			const POWER_KEYS = ['護甲', '昇華', '摧毀', '懲罰', '堅韌'];
+			function luxPowers() {
+				const lv = luxView();
+				const sum = { 護甲: 0, 昇華: 0, 摧毀: 0, 懲罰: 0, 堅韌: 0 };
+				const hearts = [];
+				let finalem = false;
+				const take = (cell) => {
+					const t = String(cell || '').trim();
+					if (!t || t === '—') return;
+					if (t.indexOf('終曲') >= 0) {
+						finalem = true;
+						return;
+					}
+					if (t.indexOf('心之力') >= 0) {
+						const m = t.match(/心之力\s*[（(]?\s*([ADP])?/);
+						hearts.push(m && m[1] ? m[1] : '自選');
+						return;
+					}
+					const m = t.match(/(護甲|昇華|摧毀|懲罰|堅韌)\s*\+(\d+)/);
+					if (m) sum[m[1]] += parseInt(m[2], 10);
+				};
+				const forms = [true, !!S.superForm, !!S.triumphForm];
+				if (lv.replace) {
+					lv.replace.table.rows.forEach((r) => {
+						const level = parseInt(r[0], 10);
+						if (isNaN(level) || level > S.power) return;
+						for (let c = 1; c < r.length; c++) if (forms[c - 1]) take(r[c]);
+					});
+				} else {
+					lv.rows.forEach((r) => {
+						if (r.level > S.power) return;
+						[r.basic, r.super, r.triumph].forEach((cell, i) => forms[i] && take(cell));
+					});
+				}
+				// 盟約優勢帶來的額外形態（例如契約傀儡「契約形態」）同樣累加
+				if (lv.extra) {
+					(lv.extra.formTable || []).forEach((r) => {
+						if (r.level <= S.power) take(r.effect);
+					});
+				}
+				return { sum, hearts, finalem };
+			}
+
+			// 目前力量數值一覽（建立面板與角色卡共用）
+			function powerSummary(cls) {
+				const pw = luxPowers();
+				const wrap = el('div', 'pwrow' + (cls ? ' ' + cls : ''));
+				POWER_KEYS.forEach((k) => {
+					const c = el('div', 'pwcell' + (pw.sum[k] ? ' on' : ''));
+					c.appendChild(el('span', 'pwk', k));
+					c.appendChild(el('b', 'pwv', pw.sum[k] ? '+' + pw.sum[k] : '—'));
+					wrap.appendChild(c);
+				});
+				const hc = el('div', 'pwcell' + (pw.hearts.length ? ' on' : ''));
+				hc.appendChild(el('span', 'pwk', '心之力'));
+				hc.appendChild(el('b', 'pwv', pw.hearts.length ? pw.hearts.join('／') : '—'));
+				wrap.appendChild(hc);
+				const fc = el('div', 'pwcell' + (pw.finalem ? ' on' : ''));
+				fc.appendChild(el('span', 'pwk', '終曲'));
+				fc.appendChild(el('b', 'pwv', pw.finalem ? '可用' : '—'));
+				wrap.appendChild(fc);
+				return wrap;
+			}
+
 			// ========== 小工具：建立表單控制項 ==========
 			function field(label, node) {
 				const w = el('label', 'field');
@@ -364,17 +470,21 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 				wrap.appendChild(dl);
 				return wrap;
 			}
+			// 這些數值會影響建立面板本身（力量加總、黑暗動作名額、後果懲罰……），
+			// 因此改動後要整個重繪，並把焦點還給原本的欄位。
 			function numInput(key, min, max) {
 				const i = el('input', 'num');
 				i.type = 'number';
 				i.min = String(min);
 				i.max = String(max);
 				i.value = String(S[key] ?? 0);
+				i.dataset.numkey = key;
 				i.addEventListener('input', () => {
 					const v = Math.max(min, Math.min(max, parseInt(i.value || '0', 10)));
 					S[key] = v;
-					renderSheet();
-					syncURL();
+					render();
+					const back = document.querySelector('[data-numkey="' + key + '"]');
+					if (back) back.focus();
 				});
 				return i;
 			}
@@ -820,6 +930,12 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 					const cForm = pcForm && (pcForm.advantages || []).find((a, i) => a.formTable && S.pactAdv.includes(i));
 					if (cForm) d.appendChild(el('p', 'note ok', '已取得盟約優勢「' + cForm.name + '」：角色卡會額外列出該形態的能力量表。'));
 
+					d.appendChild(el('p', 'note', '目前解鎖的力量（能力等級 ' + S.power + ' 及以下，所有已解鎖形態累加）'));
+					d.appendChild(powerSummary());
+					d.appendChild(
+						el('p', 'note dim', '昇華每次解鎖時需自行指定影響的屬性，此處只加總數值。')
+					);
+
 					d.appendChild(el('p', 'note', '心之力'));
 					(S.hearts || []).forEach((h, i) => {
 						const row = el('div', 'heartrow');
@@ -916,8 +1032,12 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 							ev.stopPropagation();
 							S.advances.splice(idx, 1);
 							ADV_OPEN.splice(idx, 1);
+							const cleared = revalidateAdvances();
 							applyAdvances();
 							render();
+							if (cleared.length) {
+								toast('順序改變後不再合法，已清空請重選：' + cleared.join('、'));
+							}
 						});
 						head.appendChild(del);
 						card.appendChild(head);
@@ -1105,8 +1225,13 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 						d.appendChild(el('p', 'note warn', '光點與暗點不會同時存在，請依規則互相抵銷。'));
 					}
 					d.appendChild(el('p', 'note', '後果'));
-					const box = el('div', 'checklist compact');
+					d.appendChild(
+						el('p', 'note dim',
+							'標記一項後果可抵消最多 4 點傷痛（堅韌會再增加），並使對應屬性 -2，直到後果被消除為止。')
+					);
+					const box = el('div', 'checklist');
 					pb.consequences.concat(['落敗']).forEach((c, i) => {
+						const info = (RULES.consequenceInfo || {})[c] || {};
 						const row = el('label', 'check');
 						const cb = el('input');
 						cb.type = 'checkbox';
@@ -1118,10 +1243,26 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 							render();
 						});
 						row.appendChild(cb);
-						row.appendChild(el('span', 'ctext', c));
+						const body = el('span', 'ctext');
+						body.appendChild(el('b', null, c + (info.attribute ? '（' + info.attribute + ' -2）' : '')));
+						if (info.text) body.appendChild(el('span', 'cdesc', info.text));
+						row.appendChild(body);
 						box.appendChild(row);
 					});
 					d.appendChild(box);
+					const marked = (S.cons || [])
+						.map((i) => pb.consequences.concat(['落敗'])[i])
+						.filter(Boolean);
+					if (marked.length) {
+						const penal = marked
+							.map((c) => ((RULES.consequenceInfo || {})[c] || {}).attribute)
+							.filter(Boolean);
+						d.appendChild(
+							el('p', 'note warn',
+								'目前受影響的屬性：' + (penal.length ? penal.map((k) => k + ' -2').join('、') : '無') +
+								(marked.includes('落敗') ? '；落敗：無法繼續行動，場景結束後自動取消並執行「失去光明」。' : ''))
+						);
+					}
 					const ta = el('textarea');
 					ta.rows = 3;
 					ta.placeholder = '羈絆與角色介紹……';
@@ -1190,11 +1331,13 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 				head.appendChild(hr);
 				p1.appendChild(head);
 
+				const pen = consPenalty();
 				const attrRow = el('div', 'sattrs');
 				ATTRS.forEach((k) => {
-					const c = el('div', 'sattr');
+					const c = el('div', 'sattr' + (pen[k] ? ' penal' : ''));
 					c.appendChild(el('span', null, k));
 					c.appendChild(el('b', null, sign(fa[k])));
+					if (pen[k]) c.appendChild(el('span', 'penalty', '後果 -2 → ' + sign(fa[k] + pen[k])));
 					attrRow.appendChild(c);
 				});
 				p1.appendChild(attrRow);
@@ -1276,7 +1419,9 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 					'　凱旋形態：' + (S.triumphForm ? '已解鎖' : '未解鎖') +
 					(lv.extra ? '　' + lv.extra.name + '：已取得' : '') +
 					(lv.replace ? '　※ 量表已由「' + lv.replace.name + '」取代，使用暗點計算等級' : ''));
-				p1.appendChild(sheetBlock('光之裝束・能力量表', [tbl, luxNote]));
+				p1.appendChild(
+					sheetBlock('光之裝束・能力量表', [tbl, luxNote, powerSummary('sheet'), el('p', 'tiny-note', '目前解鎖的力量（各形態與各等級累加）')])
+				);
 
 				const hearts = (S.hearts || []).filter((h) => h.name || h.effect);
 				if (hearts.length) {
@@ -1302,12 +1447,19 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 				const cbox = el('div', 'cons');
 				consAll.forEach((c, i) => {
 					const on = (S.cons || []).includes(i);
+					const info = (RULES.consequenceInfo || {})[c] || {};
 					const t = el('span', 'consitem' + (on ? ' on' : ''));
 					t.appendChild(boxRow(1, on ? 1 : 0));
-					t.appendChild(el('span', null, c));
+					t.appendChild(el('span', null, c + (info.attribute ? '（' + info.attribute + ' -2）' : '')));
 					cbox.appendChild(t);
 				});
-				p1.appendChild(sheetBlock('狀態', [st, cbox]));
+				p1.appendChild(
+					sheetBlock('狀態', [
+						st,
+						cbox,
+						el('p', 'tiny-note', '標記一項後果可抵消最多 4 點傷痛（堅韌再增加），並使對應屬性 -2，直到後果被消除為止。'),
+					])
+				);
 
 				if (S.bonds) p1.appendChild(sheetBlock('羈絆與備註', [el('p', 'freetext', S.bonds)]));
 				root.appendChild(p1);
@@ -1411,6 +1563,16 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 					p2.appendChild(sheetBlock('成長紀錄', [ul]));
 				}
 				p2.appendChild(sheetBlock('成長欄位', [advBoxTable('advboxes sheet')]));
+
+				const consInfo = pb.consequences.concat(['落敗']).map((c) => {
+					const info = (RULES.consequenceInfo || {})[c] || {};
+					return { name: c + (info.attribute ? '（' + info.attribute + ' -2）' : ''), text: info.text || '' };
+				});
+				p2.appendChild(
+					sheetBlock('後果', [
+						moveList(consInfo, pb.consequences.concat(['落敗']).map((_, i) => (S.cons || []).includes(i))),
+					])
+				);
 
 				const basics = el('ul', 'mlist compact');
 				RULES.basicMoves.forEach((m) => {
@@ -1658,6 +1820,19 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 			ul.advboxlist li { display: flex; gap: .35rem; font-size: .78rem; color: var(--ink-dim); }
 			ul.advboxlist li.full { opacity: .5; text-decoration: line-through; }
 			label.check.lost .ctext b { text-decoration: line-through; opacity: .65; }
+			.sattr .penalty { display: block; font-size: 7.5pt; color: #b02a5b; }
+			.pwrow { display: grid; grid-template-columns: repeat(7, 1fr); gap: .3rem; margin-top: .35rem; }
+			.pwcell {
+				border: 1px solid var(--line); border-radius: 6px; padding: .25rem .2rem;
+				text-align: center; opacity: .5;
+			}
+			.pwcell.on { opacity: 1; border-color: var(--star); }
+			.pwk { display: block; font-size: .68rem; color: var(--ink-dim); }
+			.pwv { display: block; font-size: .95rem; color: var(--star); }
+			.pwrow.sheet .pwcell { border-color: #ddd2f2; }
+			.pwrow.sheet .pwcell.on { border-color: #9b7ac8; }
+			.pwrow.sheet .pwk { font-size: 8pt; color: #6b5f8c; }
+			.pwrow.sheet .pwv { font-size: 10pt; color: #4a2a6b; }
 			.advdesc {
 				font-size: .78rem; color: var(--ink-dim); white-space: pre-line;
 				border-left: 2px solid var(--line); padding: .1rem .5rem; margin-top: .35rem;

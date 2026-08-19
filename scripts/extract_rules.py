@@ -123,6 +123,23 @@ for _t, _body in sections(ADV, 2):
             _clean = [x.strip() for x in _txt if x.strip() and not x.strip().startswith(':::')]
             ADV_DESC[_key][_name] = re.sub(r'\[(.+?)\]\(.+?\)', r'\1', '\n'.join(_clean))
 
+# ---------------- 後果說明（light-vs-darkness.md「後果」） ----------------
+LVD = read('light-vs-darkness.md')
+CONS_INFO = {}
+for _t, _body in sections(LVD, 2):
+    if _t != '後果':
+        continue
+    for _l in _body:
+        m = re.match(r'^-\s*\*\*(.+?)\*\*\s*[—-]\s*(\S+?)\s*=\s*(.+)$', _l.strip())
+        if m:
+            CONS_INFO[m.group(1)] = {'attribute': m.group(2), 'text': m.group(3).strip()}
+    for _sub, _sec in sections(_body, 3):
+        if _sub != '落敗後果':
+            continue
+        _p = [x.strip() for x in _sec if x.strip() and not x.strip().startswith(':::')]
+        if _p:
+            CONS_INFO['落敗'] = {'attribute': '', 'text': re.sub(r'\[(.+?)\]\(.+?\)', r'\1', _p[0])}
+
 # ---------------- 原型扮演書 ----------------
 ARCH = read('archetypes.md')
 intro_secs = dict(sections(sections(ARCH, 2)[0][1], 3))
@@ -248,7 +265,8 @@ for t, b in sections(mv['基礎動作'], 3):
     basic_moves.append({'name': t, 'trigger': trig, 'attribute': attr})
 
 data = {'playbooks': playbooks, 'friendship': friendship, 'romance': romance,
-        'pacts': pacts, 'basicMoves': basic_moves, 'attributeKeys': ATTR_KEYS}
+        'pacts': pacts, 'basicMoves': basic_moves, 'attributeKeys': ATTR_KEYS,
+        'consequenceInfo': CONS_INFO}
 os.makedirs('docs/src/data', exist_ok=True)
 io.open('docs/src/data/rules.json', 'w', encoding='utf-8').write(
     json.dumps(data, ensure_ascii=False, indent=2) + '\n')
