@@ -90,6 +90,7 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 				pact: '', pactMoves: [], pactAdv: [], darkMoves: [], lostCoop: [],
 				fr: '', frMoves: [], rom: '', romMoves: [],
 				power: 1, superForm: false, triumphForm: false, sigExtra: 0,
+				powerPick: {}, powerOn: [], ascension: {},
 				hearts: [{ name: '', cat: 'A', effect: '' }],
 				advMoves: [], shine: 0, players: 4, advances: [],
 				light: 0, tenebrae: 0, dark: 0, darkLv: 0, amity: 0, romLv: 0, impetus: 0, popularity: 0,
@@ -362,6 +363,36 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 				return out;
 			}
 
+			// 已選項目中、能力量表以外的力量加值來源
+			// fixed = 變身後持續生效；choice = 需擇一；conditional = 需花費資源或依情境成立
+			function grantSources() {
+				const pb = playbook();
+				const pc = pact();
+				const out = [];
+				const push = (from, list, idxs) => {
+					(list || []).forEach((m, i) => {
+						if (idxs && !idxs.includes(i)) return;
+						if (m && m.powerGrants) out.push({ from, name: m.name, g: m.powerGrants });
+					});
+				};
+				if (pb) {
+					const sg = pb.signature;
+					push(pb.signatureName, sg.granted);
+					push(pb.signatureName, sg.mode === 'options' ? sg.options : sg.chooseFrom, S.sig);
+					push(pb.name + '進階動作', pb.advanceMoves, S.advMoves);
+				}
+				if (pc) {
+					push(pc.name + '盟約優勢', pc.advantages, S.pactAdv || []);
+					push(pc.name + '盟約動作', pc.moves, S.pactMoves || []);
+					push(S.pb + '黑暗動作', (pc.darkMoves || {})[S.pb] || [], S.darkMoves || []);
+				}
+				const fb = frBook();
+				if (fb) push('友情・' + fb.name, fb.moves, effFrMoves());
+				const rb = romBook();
+				if (rb) push('戀愛・' + rb.name, rb.moves);
+				return out;
+			}
+
 			// 目前解鎖的光之裝束力量總和
 			// 規則：能力量表上「該等級及以下」的所有力量都可使用，且各形態與各等級的力量累加
 			const POWER_KEYS = ['護甲', '昇華', '摧毀', '懲罰', '堅韌'];
@@ -404,27 +435,46 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 						if (r.level <= S.power) take(r.effect);
 					});
 				}
-				return { sum, hearts, finalem };
+				// 量表以外的加值
+				const extras = [];
+				grantSources().forEach((src) => {
+					const add = (k, v) => {
+						sum[k] += v;
+						extras.push({ name: src.name, key: k, value: v });
+					};
+					if (src.g.mode === 'fixed') src.g.items.forEach((it) => add(it.key, it.value));
+					else if (src.g.mode === 'choice') {
+						const pick = (S.powerPick || {})[src.name];
+						const it = src.g.items.find((x) => x.key === pick);
+						if (it) add(it.key, it.value);
+					} else if ((S.powerOn || []).includes(src.name)) {
+						const pick = (S.powerPick || {})[src.name];
+						const list = pick ? src.g.items.filter((x) => x.key === pick) : src.g.items;
+						list.forEach((it) => add(it.key, it.value));
+					}
+				});
+				return { sum, hearts, finalem, extras };
 			}
 
 			// 目前力量數值一覽（建立面板與角色卡共用）
-			function powerSummary(cls) {
+			// 五項力量比照屬性的方格呈現，心之力與終曲只在有內容時以小標籤列出
+			function powerSummary(sheet) {
 				const pw = luxPowers();
-				const wrap = el('div', 'pwrow' + (cls ? ' ' + cls : ''));
+				const wrap = el('div', sheet ? 'pwwrap sheet' : 'pwwrap');
+				const row = el('div', sheet ? 'sattrs pw' : 'attrrow pw');
 				POWER_KEYS.forEach((k) => {
-					const c = el('div', 'pwcell' + (pw.sum[k] ? ' on' : ''));
-					c.appendChild(el('span', 'pwk', k));
-					c.appendChild(el('b', 'pwv', pw.sum[k] ? '+' + pw.sum[k] : '—'));
-					wrap.appendChild(c);
+					const on = !!pw.sum[k];
+					const c = el('div', (sheet ? 'sattr' : 'attrcell') + (on ? '' : ' off'));
+					c.appendChild(el('span', sheet ? null : 'akey', k));
+					c.appendChild(el('b', sheet ? null : 'aval', on ? '+' + pw.sum[k] : '—'));
+					row.appendChild(c);
 				});
-				const hc = el('div', 'pwcell' + (pw.hearts.length ? ' on' : ''));
-				hc.appendChild(el('span', 'pwk', '心之力'));
-				hc.appendChild(el('b', 'pwv', pw.hearts.length ? pw.hearts.join('／') : '—'));
-				wrap.appendChild(hc);
-				const fc = el('div', 'pwcell' + (pw.finalem ? ' on' : ''));
-				fc.appendChild(el('span', 'pwk', '終曲'));
-				fc.appendChild(el('b', 'pwv', pw.finalem ? '可用' : '—'));
-				wrap.appendChild(fc);
+				wrap.appendChild(row);
+				const tags = el('div', 'pwtags');
+				if (pw.hearts.length) tags.appendChild(el('span', 'pill', '心之力 ' + pw.hearts.join('／')));
+				if (pw.finalem) tags.appendChild(el('span', 'pill', '終曲可用'));
+				if (!pw.hearts.length && !pw.finalem) tags.appendChild(el('span', 'pill off', '尚未解鎖心之力與終曲'));
+				wrap.appendChild(tags);
 				return wrap;
 			}
 
@@ -931,10 +981,78 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 					if (cForm) d.appendChild(el('p', 'note ok', '已取得盟約優勢「' + cForm.name + '」：角色卡會額外列出該形態的能力量表。'));
 
 					d.appendChild(el('p', 'note', '目前解鎖的力量（能力等級 ' + S.power + ' 及以下，所有已解鎖形態累加）'));
-					d.appendChild(powerSummary());
-					d.appendChild(
-						el('p', 'note dim', '昇華每次解鎖時需自行指定影響的屬性，此處只加總數值。')
-					);
+					d.appendChild(powerSummary(false));
+
+					// 量表以外的加值來源
+					const srcs = grantSources();
+					const fixed = srcs.filter((x) => x.g.mode === 'fixed');
+					const choices = srcs.filter((x) => x.g.mode === 'choice');
+					const conds = srcs.filter((x) => x.g.mode === 'conditional');
+					if (fixed.length) {
+						d.appendChild(
+							el('p', 'note ok',
+								'量表外的持續加值：' +
+								fixed.map((x) => x.name + '（' + x.g.items.map((i) => i.key + ' +' + i.value).join('、') + '）').join('、'))
+						);
+					}
+					choices.forEach((x) => {
+						d.appendChild(el('p', 'note', x.name + '：選擇一項光之裝束能力（始終額外可用）'));
+						const row = el('div', 'pactrow');
+						x.g.items.forEach((it) => {
+							const on = (S.powerPick || {})[x.name] === it.key;
+							const b = el('button', 'pactbtn' + (on ? ' on' : ''));
+							b.type = 'button';
+							b.textContent = it.key + ' +' + it.value;
+							b.addEventListener('click', () => {
+								S.powerPick = S.powerPick || {};
+								if (on) delete S.powerPick[x.name];
+								else S.powerPick[x.name] = it.key;
+								render();
+							});
+							row.appendChild(b);
+						});
+						d.appendChild(row);
+					});
+					if (conds.length) {
+						d.appendChild(el('p', 'note', '情境加值（需花費資源或符合條件時才生效，勾選後才併入上方加總）'));
+						d.appendChild(
+							checkList(
+								conds.map((x) => ({
+									name: x.name + '　' + x.g.items.map((i) => i.key + ' +' + i.value).join('、'),
+									text: x.from,
+								})),
+								(i) => (S.powerOn || []).includes(conds[i].name),
+								(i, on) => {
+									S.powerOn = S.powerOn || [];
+									if (on) S.powerOn.push(conds[i].name);
+									else S.powerOn = S.powerOn.filter((n) => n !== conds[i].name);
+								},
+								{ compact: true }
+							)
+						);
+					}
+
+					// 昇華：每次解鎖需指定影響的屬性
+					const asc = luxPowers().sum['昇華'];
+					if (asc) {
+						S.ascension = S.ascension || {};
+						const used = ATTRS.reduce((n, k) => n + (S.ascension[k] || 0), 0);
+						d.appendChild(el('p', 'note', '昇華 +' + asc + '：指定影響的屬性（已分配 ' + used + ' / ' + asc + '）'));
+						const row = el('div', 'pactrow');
+						ATTRS.forEach((k) => {
+							const v = S.ascension[k] || 0;
+							const b = el('button', 'pactbtn' + (v ? ' on' : ''));
+							b.type = 'button';
+							b.textContent = k + (v ? ' +' + v : '');
+							b.title = '點擊加 1，額度用完後歸零';
+							b.addEventListener('click', () => {
+								S.ascension[k] = used >= asc ? 0 : v + 1;
+								render();
+							});
+							row.appendChild(b);
+						});
+						d.appendChild(row);
+					}
 
 					d.appendChild(el('p', 'note', '心之力'));
 					(S.hearts || []).forEach((h, i) => {
@@ -1332,11 +1450,13 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 				p1.appendChild(head);
 
 				const pen = consPenalty();
+				const ascMap = S.ascension || {};
 				const attrRow = el('div', 'sattrs');
 				ATTRS.forEach((k) => {
 					const c = el('div', 'sattr' + (pen[k] ? ' penal' : ''));
 					c.appendChild(el('span', null, k));
 					c.appendChild(el('b', null, sign(fa[k])));
+					if (ascMap[k]) c.appendChild(el('span', 'bonus', '昇華 +' + ascMap[k]));
 					if (pen[k]) c.appendChild(el('span', 'penalty', '後果 -2 → ' + sign(fa[k] + pen[k])));
 					attrRow.appendChild(c);
 				});
@@ -1420,7 +1540,7 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 					(lv.extra ? '　' + lv.extra.name + '：已取得' : '') +
 					(lv.replace ? '　※ 量表已由「' + lv.replace.name + '」取代，使用暗點計算等級' : ''));
 				p1.appendChild(
-					sheetBlock('光之裝束・能力量表', [tbl, luxNote, powerSummary('sheet'), el('p', 'tiny-note', '目前解鎖的力量（各形態與各等級累加）')])
+					sheetBlock('光之裝束・能力量表', [tbl, luxNote, powerSummary(true), el('p', 'tiny-note', '目前解鎖的力量（各形態與各等級累加）')])
 				);
 
 				const hearts = (S.hearts || []).filter((h) => h.name || h.effect);
@@ -1821,18 +1941,18 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 			ul.advboxlist li.full { opacity: .5; text-decoration: line-through; }
 			label.check.lost .ctext b { text-decoration: line-through; opacity: .65; }
 			.sattr .penalty { display: block; font-size: 7.5pt; color: #b02a5b; }
-			.pwrow { display: grid; grid-template-columns: repeat(7, 1fr); gap: .3rem; margin-top: .35rem; }
-			.pwcell {
-				border: 1px solid var(--line); border-radius: 6px; padding: .25rem .2rem;
-				text-align: center; opacity: .5;
+			.sattr .bonus { display: block; font-size: 7.5pt; color: #2f7a55; }
+			.pwwrap { margin-top: .35rem; }
+			.attrrow.pw .attrcell.off, .sattrs.pw .sattr.off { opacity: .45; }
+			.sattrs.pw { margin-bottom: .35rem; }
+			.pwtags { display: flex; flex-wrap: wrap; gap: .3rem; margin-top: .35rem; }
+			.pill {
+				border: 1px solid var(--star); border-radius: 999px;
+				padding: .08rem .55rem; font-size: .75rem; color: var(--star);
 			}
-			.pwcell.on { opacity: 1; border-color: var(--star); }
-			.pwk { display: block; font-size: .68rem; color: var(--ink-dim); }
-			.pwv { display: block; font-size: .95rem; color: var(--star); }
-			.pwrow.sheet .pwcell { border-color: #ddd2f2; }
-			.pwrow.sheet .pwcell.on { border-color: #9b7ac8; }
-			.pwrow.sheet .pwk { font-size: 8pt; color: #6b5f8c; }
-			.pwrow.sheet .pwv { font-size: 10pt; color: #4a2a6b; }
+			.pill.off { border-color: var(--line); color: var(--ink-dim); }
+			.pwwrap.sheet .pill { border-color: #9b7ac8; color: #4a2a6b; font-size: 8.5pt; }
+			.pwwrap.sheet .pill.off { border-color: #ddd2f2; color: #6b5f8c; }
 			.advdesc {
 				font-size: .78rem; color: var(--ink-dim); white-space: pre-line;
 				border-left: 2px solid var(--line); padding: .1rem .5rem; margin-top: .35rem;

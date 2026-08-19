@@ -42,7 +42,33 @@ def bold_blocks(lines):
         elif name is not None:
             buf.append(l)
     flush()
-    return [split_table(b) for b in out if b['name']]
+    return [power_grants(split_table(b)) for b in out if b['name']]
+
+POWER_KEYS = ['護甲', '昇華', '摧毀', '懲罰', '堅韌']
+POWER_RE = re.compile(r'(護甲|昇華|摧毀|懲罰|堅韌)\s*\+\s*(\d+)')
+
+def power_grants(block):
+    """判斷動作／選項／優勢是否提供能力量表以外的光之裝束力量加值。
+
+    fixed       ── 變身後持續生效，直接併入加總
+    choice      ── 從清單中擇一（例如正義騎士「光明之助」）
+    conditional ── 需要花費資源或依情境成立，預設不併入
+    """
+    text = block.get('text') or ''
+    found = POWER_RE.findall(text)
+    if not found:
+        return block
+    items = [{'key': k, 'value': int(v)} for k, v in found]
+    if '選擇一項光之裝束能力' in text:
+        mode = 'choice'
+    elif '花費' in text or '一項後果：' in text:
+        mode = 'conditional'
+    elif '變身' in text or '始終' in text:
+        mode = 'fixed'
+    else:
+        mode = 'conditional'
+    block['powerGrants'] = {'mode': mode, 'items': items}
+    return block
 
 def split_table(block):
     """把區塊文字中的 Markdown 表格抽成 {headers, rows}，並從文字中移除。"""
@@ -68,7 +94,7 @@ def split_table(block):
 def parse_signature(body):
     """回傳 {mode, ...}。"""
     text = '\n'.join(body)
-    opts = [{'name': m.group(1).strip(), 'text': m.group(2).strip()}
+    opts = [power_grants({'name': m.group(1).strip(), 'text': m.group(2).strip()})
             for m in re.finditer(r'^\s*-\s*\*\*(.+?)\*\*[：:]\s*(.*)$', text, re.M)]
     if opts and '選擇三個選項' in text:
         # 「同時獲得：」之後的粗體區塊
