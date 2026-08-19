@@ -93,7 +93,7 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 				pact: '', pactMoves: [], pactAdv: [], darkMoves: [], lostCoop: [],
 				fr: '', frMoves: [], rom: '', romMoves: [],
 				power: 1, superForm: false, triumphForm: false, sigExtra: 0,
-				powerPick: {}, powerOn: [], ascension: {},
+				powerPick: {}, powerOn: [], ascension: {}, attrPick: {},
 				hearts: [{ name: '', cat: 'A', effect: '' }],
 				advMoves: [], shine: 0, players: 4, advances: [],
 				light: 0, tenebrae: 0, dark: 0, darkLv: 0, amity: 5, romLv: 0, impetus: 0, popularity: 0,
@@ -109,18 +109,48 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 			const romBook = () => RULES.romance.find((p) => p.name === S.rom) || null;
 
 			// 依扮演書計算最終屬性（基礎／組合 + 加值）
-			function finalAttrs() {
+			// 屬性的組成：扮演書基礎值、建立時的調整、成長、永久提升屬性的黑暗動作。
+			// 昇華不在其中——規則寫的是「所有使用該屬性的動作獲得 +1 加值」，是擲骰加值而非屬性值。
+			function attrParts() {
 				const pb = playbook();
 				const out = {};
-				ATTRS.forEach((k) => (out[k] = 0));
+				ATTRS.forEach((k) => (out[k] = { base: 0, manual: 0, adv: 0, dark: 0, darkFrom: [], cap: null }));
 				if (!pb) return out;
 				const a = pb.attributes;
 				const base = a.mode === 'sets' ? (a.sets[S.attrSet] || a.sets[0]).values : a.values;
-				ATTRS.forEach((k) => (out[k] = base[k] ?? 0));
+				ATTRS.forEach((k) => (out[k].base = base[k] ?? 0));
 				(S.bumps || []).forEach((b) => {
-					if (out[b.k] == null) return;
-					out[b.k] += b.d;
+					if (!out[b.k]) return;
+					if (b.fromAdv) out[b.k].adv += b.d;
+					else out[b.k].manual += b.d;
 				});
+				// 永久提升屬性的黑暗動作（契約傀儡「黑暗印記」「非人意識」）
+				const pc = pact();
+				const dm = pc ? (pc.darkMoves || {})[S.pb] || [] : [];
+				(S.darkMoves || []).forEach((i) => {
+					const m = dm[i];
+					if (!m || !m.attrGrant) return;
+					const g = m.attrGrant;
+					const key = g.mode === 'fixed' ? g.key : (S.attrPick || {})[m.name];
+					if (!key || !out[key]) return;
+					out[key].dark += g.value;
+					out[key].darkFrom.push(m.name);
+					out[key].cap = out[key].cap == null ? g.max : Math.max(out[key].cap, g.max);
+				});
+				ATTRS.forEach((k) => {
+					const p = out[k];
+					p.total = p.base + p.manual + p.adv + p.dark;
+					if (p.cap != null && p.total > p.cap) {
+						p.dark -= p.total - p.cap; // 這類動作明訂上限，超過的部分不生效
+						p.total = p.cap;
+					}
+				});
+				return out;
+			}
+			function finalAttrs() {
+				const parts = attrParts();
+				const out = {};
+				ATTRS.forEach((k) => (out[k] = parts[k].total));
 				return out;
 			}
 
@@ -691,27 +721,41 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 					}
 					if (a.note) d.appendChild(el('p', 'note', a.note));
 
-					const fa = finalAttrs();
+					const parts = attrParts();
+					const asc = S.ascension || {};
 					const table = el('div', 'attrrow');
 					ATTRS.forEach((k) => {
+						const pt = parts[k];
 						const cell = el('div', 'attrcell');
 						cell.appendChild(el('span', 'akey', k));
-						cell.appendChild(el('b', 'aval', sign(fa[k])));
-						// 建立時的調整不得讓屬性超出 -2 ～ +2；成長帶來的加值另計，可突破到 +3
-						const manual = (S.bumps || []).reduce((n, b) => n + (b.k === k && !b.fromAdv ? b.d : 0), 0);
-						const base = fa[k] - (S.bumps || []).reduce((n, b) => n + (b.k === k ? b.d : 0), 0);
+						cell.appendChild(el('b', 'aval', sign(pt.total)));
+						// 非按鈕來源的加值：標示顏色與來源
+						const src = el('div', 'asrc');
+						if (pt.adv) src.appendChild(el('span', 'tag adv', '成長 ' + sign(pt.adv)));
+						if (pt.dark) src.appendChild(el('span', 'tag dark', pt.darkFrom.join('、') + ' ' + sign(pt.dark)));
+						if (asc[k]) src.appendChild(el('span', 'tag asc', '昇華 +' + asc[k] + '（擲骰）'));
+						if (src.childNodes.length) cell.appendChild(src);
+						// 建立時的調整不得讓屬性超出 -2 ～ +2；成長與黑暗動作的加值另計
 						const ctrl = el('div', 'actrl');
 						[-1, 1].forEach((delta) => {
-							const next = base + manual + delta;
-							const blocked = next > 2 || next < -2;
+							const next = pt.base + pt.manual + delta;
+							const undo = (S.bumps || []).some((b) => b.k === k && !b.fromAdv && b.d === delta * -1);
+							const blocked = !undo && (next > 2 || next < -2);
 							const b = el('button', 'tiny');
 							b.type = 'button';
 							b.disabled = blocked;
-							b.title = blocked ? '建立時任何屬性不得高於 +2 或低於 -2' : '';
+							b.title = blocked
+								? '建立時任何屬性不得高於 +2 或低於 -2'
+								: undo
+									? '取消一項已加的 ' + k + ' ' + sign(delta * -1)
+									: '';
 							b.textContent = delta > 0 ? '＋' : '−';
 							b.addEventListener('click', () => {
 								S.bumps = S.bumps || [];
-								S.bumps.push({ k, d: delta });
+								// 先抵銷反向的調整，沒有的話才新增一筆
+								const i = S.bumps.findIndex((x) => x.k === k && !x.fromAdv && x.d === delta * -1);
+								if (i >= 0) S.bumps.splice(i, 1);
+								else S.bumps.push({ k, d: delta });
 								render();
 							});
 							ctrl.appendChild(b);
@@ -721,9 +765,11 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 					});
 					d.appendChild(table);
 
-					if ((S.bumps || []).length) {
+					const manualBumps = (S.bumps || []).map((b, i) => ({ b, i })).filter((x) => !x.b.fromAdv);
+					if (manualBumps.length) {
+						d.appendChild(el('p', 'note dim', '建立時的調整（點擊可移除）'));
 						const chips = el('div', 'chips');
-						S.bumps.forEach((b, i) => {
+						manualBumps.forEach(({ b, i }) => {
 							const c = el('button', 'chip');
 							c.type = 'button';
 							c.textContent = b.k + ' ' + sign(b.d) + ' ✕';
@@ -738,8 +784,9 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 					}
 					d.appendChild(
 						el('p', 'note dim',
-							'建立時任何屬性不得高於 +2 或低於 -2，超過的加減按鈕會停用；' +
-							'成長（上限 +3）與光之裝束的昇華可突破此限制，兩者都不受這裡的按鈕限制。')
+							'建立時任何屬性不得高於 +2 或低於 -2，超過的加減按鈕會停用（按反向鍵可取消已加的調整）。' +
+							'成長「提升一項屬性」上限 +3、契約傀儡的「黑暗印記」與「非人意識」上限 +4，' +
+							'兩者都另計、不受這裡的按鈕限制。昇華是「使用該屬性的動作 +1」的擲骰加值，規則沒有上限，也不改變屬性值本身。')
 					);
 					root.appendChild(d);
 				}
@@ -927,6 +974,28 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 
 						// 黑暗動作：契約傀儡，依原型，每獲得 1 級黑暗等級選 1 項
 						const dm = (pc.darkMoves || {})[S.pb] || [];
+						(S.darkMoves || []).forEach((i) => {
+							const m = dm[i];
+							if (!m || !m.attrGrant || m.attrGrant.mode !== 'choice') return;
+							d.appendChild(
+								el('p', 'note', m.name + '：選擇要永久提升 +' + m.attrGrant.value + ' 的屬性（最高 ' + m.attrGrant.max + '）')
+							);
+							const row = el('div', 'pactrow');
+							ATTRS.forEach((k) => {
+								const on = (S.attrPick || {})[m.name] === k;
+								const b = el('button', 'pactbtn' + (on ? ' on' : ''));
+								b.type = 'button';
+								b.textContent = k;
+								b.addEventListener('click', () => {
+									S.attrPick = S.attrPick || {};
+									if (on) delete S.attrPick[m.name];
+									else S.attrPick[m.name] = k;
+									render();
+								});
+								row.appendChild(b);
+							});
+							d.appendChild(row);
+						});
 						if (dm.length) {
 							d.appendChild(
 								el('p', 'note', S.pb + '黑暗動作（每獲得 1 級黑暗等級選 1 項，目前黑暗等級 ' + S.darkLv + '）')
@@ -1602,12 +1671,17 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 
 				const pen = consPenalty();
 				const ascMap = S.ascension || {};
+				const sParts = attrParts();
 				const attrRow = el('div', 'sattrs');
 				ATTRS.forEach((k) => {
 					const c = el('div', 'sattr' + (pen[k] ? ' penal' : ''));
 					c.appendChild(el('span', null, k));
 					c.appendChild(el('b', null, sign(fa[k])));
-					if (ascMap[k]) c.appendChild(el('span', 'bonus', '昇華 +' + ascMap[k]));
+					const from = [];
+					if (sParts[k].adv) from.push('成長 ' + sign(sParts[k].adv));
+					if (sParts[k].dark) from.push(sParts[k].darkFrom.join('、') + ' ' + sign(sParts[k].dark));
+					if (from.length) c.appendChild(el('span', 'srcnote', from.join('／')));
+					if (ascMap[k]) c.appendChild(el('span', 'bonus', '昇華 +' + ascMap[k] + '（擲骰）'));
 					if (pen[k]) c.appendChild(el('span', 'penalty', '後果 -2 → ' + sign(fa[k] + pen[k])));
 					attrRow.appendChild(c);
 				});
@@ -2054,6 +2128,14 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 				padding: .4rem .2rem; border: 1px solid var(--line); border-radius: 10px; background: #171233;
 			}
 			.akey { font-size: .78rem; color: var(--ink-dim); }
+			.asrc { display: flex; flex-wrap: wrap; gap: .18rem; justify-content: center; margin: .15rem 0; }
+			.asrc .tag {
+				font-size: .62rem; padding: .02rem .3rem; border-radius: 999px;
+				border: 1px solid currentColor; white-space: nowrap;
+			}
+			.asrc .tag.adv { color: #8ce0b0; }
+			.asrc .tag.dark { color: #c98ce0; }
+			.asrc .tag.asc { color: var(--star); }
 			.aval { font-size: 1.35rem; color: var(--star); }
 			.actrl { display: flex; gap: .2rem; }
 			button.tiny {
@@ -2102,6 +2184,7 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 			label.check.lost .ctext b { text-decoration: line-through; opacity: .65; }
 			.sattr .penalty { display: block; font-size: 7.5pt; color: #b02a5b; }
 			.sattr .bonus { display: block; font-size: 7.5pt; color: #2f7a55; }
+			.sattr .srcnote { display: block; font-size: 7.5pt; color: #6b4a9c; }
 			.pwwrap { margin-top: .35rem; }
 			.attrrow.pw .attrcell.off, .sattrs.pw .sattr.off { opacity: .45; }
 			.sattrs.pw { margin-bottom: .35rem; }

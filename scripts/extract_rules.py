@@ -42,7 +42,7 @@ def bold_blocks(lines):
         elif name is not None:
             buf.append(l)
     flush()
-    return [split_options(power_grants(split_table(b))) for b in out if b['name']]
+    return [attr_grants(split_options(power_grants(split_table(b)))) for b in out if b['name']]
 
 POWER_KEYS = ['護甲', '昇華', '摧毀', '懲罰', '堅韌']
 POWER_RE = re.compile(r'(護甲|昇華|摧毀|懲罰|堅韌)\s*\+\s*(\d+)')
@@ -68,6 +68,22 @@ def power_grants(block):
     else:
         mode = 'conditional'
     block['powerGrants'] = {'mode': mode, 'items': items}
+    return block
+
+ATTR_RE = re.compile(r'^(挑戰|保護|思慮|情感|奉獻)\s*\+\s*(\d+)（最高\s*(\d+)）')
+ATTR_CHOICE_RE = re.compile(r'選擇一項屬性並增加\s*\+\s*(\d+)（最高\s*(\d+)）')
+
+def attr_grants(block):
+    """永久提升屬性的動作（契約傀儡「黑暗印記」「非人意識」）。"""
+    text = (block.get('text') or '').strip()
+    m = ATTR_CHOICE_RE.search(text)
+    if m:
+        block['attrGrant'] = {'mode': 'choice', 'value': int(m.group(1)), 'max': int(m.group(2))}
+        return block
+    m = ATTR_RE.match(text)
+    if m:
+        block['attrGrant'] = {'mode': 'fixed', 'key': m.group(1),
+                              'value': int(m.group(2)), 'max': int(m.group(3))}
     return block
 
 def split_options(block):
