@@ -1,0 +1,2558 @@
+---
+// ============================================
+// 角色卡建立頁（純前端，無後端）
+// 規則資料由 scripts/extract_rules.py 從 rules/*.md 抽出至 src/data/rules.json
+// ============================================
+import rules from '../data/rules.json';
+
+const THEMES = ['動物', '鎖鏈', '夢境', '大地', '水', '火', '空氣', '木', '金屬', '時間', '卡牌', '心形', '花朵', '劍', '自然', '光', '黑暗', '月亮', '彩虹', '布料', '星星', '太陽', '音樂'];
+const COLORS = ['紅色', '橘色', '黃色', '綠色', '藍色', '紫色', '粉紅色', '白色', '棕色', '灰色', '金色', '銀色', '黑色'];
+const TALISMANS = ['耳環', '戒指', '胸針', '手錶', '手環', '香水', '魔法棒', '寶石', '手機'];
+const ZODIACS = ['牡羊座', '金牛座', '雙子座', '巨蟹座', '獅子座', '處女座', '天秤座', '天蠍座', '射手座', '摩羯座', '水瓶座', '雙魚座'];
+const BLOODS = ['A 型', 'B 型', 'AB 型', 'O 型'];
+const HEART_CATS = [
+	{ key: 'A', label: '攻擊（A）' },
+	{ key: 'D', label: '防禦（D）' },
+	{ key: 'P', label: '支援（P）' },
+	{ key: 'F', label: '終曲' },
+];
+
+const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
+---
+
+<html lang="zh-TW">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta name="robots" content="noindex, nofollow" />
+		<title>魔法少女──角色卡建立</title>
+		<meta name="description" content="Mahō Shōjo 魔法少女 TRPG 角色卡建立工具——選擇扮演書與盟約，即時預覽並列印 A4 角色卡，支援 JSON 與網址分享。" />
+		<link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+		<meta name="theme-color" content="#12102a" />
+		<meta property="og:title" content="魔法少女──角色卡建立" />
+		<meta property="og:description" content="選擇扮演書與盟約，即時預覽並列印 A4 角色卡，支援 JSON 與網址分享。" />
+		<meta property="og:type" content="website" />
+		<meta property="og:image" content="/og-image.jpg" />
+	</head>
+	<body>
+		<script type="application/json" id="rules-data" set:html={JSON.stringify(rules)}></script>
+		<script type="application/json" id="opts-data" set:html={JSON.stringify(OPTIONS)}></script>
+
+		<header class="topbar no-print">
+			<div class="brand">
+				<a class="home" href="/" title="回到文件站">✦</a>
+				<h1>角色卡建立</h1>
+				<span class="sub">Mahō Shōjo・魔法少女</span>
+			</div>
+			<div class="tools">
+				<button type="button" id="btn-import">匯入 JSON</button>
+				<button type="button" id="btn-export">匯出 JSON</button>
+				<button type="button" id="btn-share">複製分享網址</button>
+				<button type="button" id="btn-print" class="primary">列印／PDF</button>
+				<button type="button" id="btn-reset" class="ghost">重設</button>
+				<input type="file" id="file-input" accept="application/json,.json" hidden />
+			</div>
+		</header>
+
+		<p class="toast no-print" id="toast" role="status" aria-live="polite"></p>
+
+		<main class="wrap">
+			<section class="builder no-print" id="builder" aria-label="建立步驟"></section>
+			<section class="preview" aria-label="角色卡預覽">
+				<div class="sheet" id="sheet"></div>
+			</section>
+		</main>
+
+		<footer class="foot no-print">
+			<span>資料只存在你的瀏覽器與網址中，不會上傳任何伺服器。</span>
+			<a href="/rules/character-creation/">角色建立規則 →</a>
+		</footer>
+
+		<script>
+			// ========== 資料載入 ==========
+			const RULES = JSON.parse(document.getElementById('rules-data').textContent);
+			const OPTS = JSON.parse(document.getElementById('opts-data').textContent);
+			const ATTRS = RULES.attributeKeys;
+			const $ = (s, r) => (r || document).querySelector(s);
+			// 規則內文是 Markdown，顯示前去掉粗體記號與連結語法
+			const clean = (t) =>
+				String(t || '').replace(/\*\*/g, '').replace(/\[(.+?)\]\(.+?\)/g, '$1');
+			const el = (tag, cls, txt) => {
+				const n = document.createElement(tag);
+				if (cls) n.className = cls;
+				if (txt != null) n.textContent = txt;
+				return n;
+			};
+			const sign = (n) => (n > 0 ? '+' + n : String(n));
+
+			// ========== 狀態 ==========
+			const BLANK = {
+				v: 1, pb: '', name: '', life: '', age: '',
+				title: '', theme: '', color: '', talisman: '', zodiac: '', blood: '', treasure: '',
+				attrSet: 0, bumps: [], sig: [],
+				pact: '', pactMoves: [], pactAdv: [], darkMoves: [], lostCoop: [],
+				fr: '', frMoves: [], rom: '', romMoves: [],
+				power: 1, superForm: false, triumphForm: false, sigExtra: 0,
+				powerPick: {}, powerOn: [], ascension: {}, attrPick: {}, attrPlan: '', freeAttr: false,
+				sigMore: 0,
+				hearts: [{ name: '', cat: 'A', effect: '' }],
+				advMoves: [], shine: 0, players: 4, advances: [],
+				light: 0, tenebrae: 0, dark: 0, darkLv: 0, amity: 5, romLv: 0, impetus: 0, popularity: 0,
+				cons: [], bonds: '', notes: '',
+			};
+			let S = structuredClone(BLANK);
+			let ADV_OPEN = []; // 成長卡的展開狀態，僅存在於瀏覽期間，不寫入存檔或網址
+			const STEP_OPEN = {}; // 各建立步驟的展開狀態，重繪時要保留
+
+			const playbook = () => RULES.playbooks.find((p) => p.name === S.pb) || null;
+			const pact = () => RULES.pacts.find((p) => p.name === S.pact) || null;
+			const frBook = () => RULES.friendship.find((p) => p.name === S.fr) || null;
+			const romBook = () => RULES.romance.find((p) => p.name === S.rom) || null;
+
+			// 依扮演書計算最終屬性（基礎／組合 + 加值）
+			// 建立時的分配規則（各扮演書的屬性說明）：判斷這一次加減是否被規則允許
+			// points   ── 可分配的 +1 點數（聖母限保護／思慮／情感）
+			// zeroSwap ── 一個 0 改 +1，另一個 0 改 -1（鬥士）
+			// spread   ── 先選一種分配方式，再依該方式配點（偶像）
+			function adjustBlockReason(adj, k, delta, parts, free) {
+				const pt = parts[k];
+				const next = pt.base + pt.manual + delta;
+				if (next > 2 || next < -2) return '建立時任何屬性不得高於 +2 或低於 -2';
+				if (free) return '';
+				const plus = ATTRS.reduce((n, x) => n + Math.max(parts[x].manual, 0), 0);
+				const minus = ATTRS.reduce((n, x) => n + Math.min(parts[x].manual, 0), 0);
+				if (adj.mode === 'points') {
+					if (delta < 0) return '這本扮演書只能加點，不能扣點';
+					if (adj.only && adj.only.indexOf(k) < 0) return '只能加在' + adj.only.join('、') + '上';
+					if (plus >= adj.total) return '可分配的點數已用完（共 ' + adj.total + ' 點）';
+					return '';
+				}
+				if (adj.mode === 'zeroSwap') {
+					if (pt.base !== 0) return '只能調整基礎值為 0 的屬性';
+					if (pt.manual !== 0) return '這項屬性已經調整過了';
+					if (delta > 0 && plus >= 1) return '只能有一項 0 改為 +1';
+					if (delta < 0 && minus <= -1) return '只能有一項 0 改為 -1';
+					return '';
+				}
+				if (adj.mode === 'spread') {
+					if (delta < 0) return '這本扮演書只能加點，不能扣點';
+					const plan = (adj.options || []).find((o) => o.join('/') === S.attrPlan);
+					if (!plan) return '請先選擇一種分配方式';
+					if (pt.base + pt.manual + delta > (adj.cap ?? 2))
+						return '任一屬性上限為 +' + (adj.cap ?? 2);
+					// 已分配的各項加值必須符合所選方式
+					const used = ATTRS.map((x) => parts[x].manual).filter((v) => v > 0).sort((x, y) => y - x);
+					const after = ATTRS.map((x) => (x === k ? parts[x].manual + delta : parts[x].manual))
+						.filter((v) => v > 0)
+						.sort((x, y) => y - x);
+					const want = plan.slice().sort((x, y) => y - x);
+					if (after.length > want.length) return '這種分配方式只能加在 ' + want.length + ' 項屬性上';
+					for (let i = 0; i < after.length; i++) {
+						if (after[i] > want[i]) return '這種分配方式的配額為 ' + want.join('、');
+					}
+					if (used.length && after.join() === used.join()) return '';
+					return '';
+				}
+				return '';
+			}
+
+			// 屬性的組成：扮演書基礎值、建立時的調整、成長、永久提升屬性的黑暗動作。
+			// 昇華不在其中——規則寫的是「所有使用該屬性的動作獲得 +1 加值」，是擲骰加值而非屬性值。
+			function attrParts() {
+				const pb = playbook();
+				const out = {};
+				ATTRS.forEach((k) => (out[k] = { base: 0, manual: 0, adv: 0, dark: 0, darkFrom: [], cap: null }));
+				if (!pb) return out;
+				const a = pb.attributes;
+				const base = a.mode === 'sets' ? (a.sets[S.attrSet] || a.sets[0]).values : a.values;
+				ATTRS.forEach((k) => (out[k].base = base[k] ?? 0));
+				(S.bumps || []).forEach((b) => {
+					if (!out[b.k]) return;
+					if (b.fromAdv) out[b.k].adv += b.d;
+					else out[b.k].manual += b.d;
+				});
+				// 永久提升屬性的黑暗動作（契約傀儡「黑暗印記」「非人意識」）
+				const pc = pact();
+				const dm = pc ? (pc.darkMoves || {})[S.pb] || [] : [];
+				(S.darkMoves || []).forEach((i) => {
+					const m = dm[i];
+					if (!m || !m.attrGrant) return;
+					const g = m.attrGrant;
+					const key = g.mode === 'fixed' ? g.key : (S.attrPick || {})[m.name];
+					if (!key || !out[key]) return;
+					out[key].dark += g.value;
+					out[key].darkFrom.push(m.name);
+					out[key].cap = out[key].cap == null ? g.max : Math.max(out[key].cap, g.max);
+				});
+				ATTRS.forEach((k) => {
+					const p = out[k];
+					p.total = p.base + p.manual + p.adv + p.dark;
+					if (p.cap != null && p.total > p.cap) {
+						p.dark -= p.total - p.cap; // 這類動作明訂上限，超過的部分不生效
+						p.total = p.cap;
+					}
+				});
+				return out;
+			}
+			function finalAttrs() {
+				const parts = attrParts();
+				const out = {};
+				ATTRS.forEach((k) => (out[k] = parts[k].total));
+				return out;
+			}
+
+			// 能力量表：規則「如果光點數量超過目前的能力量表等級，則將量表提升至與當前光點數量相等」。
+			// 只在光點「增加」時往上提——場景結束時量表歸 0 但光點可能還在，
+			// 若無條件比對就會馬上又被推回去。被黑暗女神取代時改用暗點計算。
+			let LAST_DRIVER = null;
+			function syncPowerLevel() {
+				const driver = Math.min(5, (luxView().replace ? S.tenebrae : S.light) || 0);
+				if (LAST_DRIVER !== null && driver > LAST_DRIVER && driver > (S.power || 0)) {
+					S.power = driver;
+				}
+				LAST_DRIVER = driver;
+			}
+
+			// 依「已完成」的成長紀錄套用效果：屬性、動作、形態、招牌額外選項
+			function applyAdvances() {
+				const pb = playbook();
+				if (!pb) return;
+				S.bumps = (S.bumps || []).filter((b) => !b.fromAdv);
+				S.advMoves = [];
+				S.superForm = false;
+				S.triumphForm = false;
+				S.sigExtra = 0;
+				S.sigMore = 0;
+				S.advances.forEach((a, idx) => {
+					if (!a.done || !a.opt) return;
+					switch (advEffect(a.opt, idx)) {
+						case 'attr2':
+						case 'attr3':
+							if (a.detail) S.bumps.push({ k: a.detail, d: 1, fromAdv: true });
+							break;
+						case 'advMove': {
+							const i = parseInt(a.detail, 10);
+							if (!isNaN(i) && !S.advMoves.includes(i)) S.advMoves.push(i);
+							break;
+						}
+						case 'frMove':
+							/* 友情動作由 advGrantedFr() 併入，不寫回 S.frMoves */
+							break;
+						case 'super':
+							S.superForm = true;
+							break;
+						case 'triumph':
+							S.superForm = true;
+							S.triumphForm = true;
+							break;
+						case 'sigExtra3':
+							S.sigExtra += 3;
+							break;
+						case 'sigChoice':
+							// 參謀天才／衛士光之盾／鬥士戰士之道：可再選一項當初沒選的
+							S.sigMore += 1;
+							break;
+					}
+				});
+			}
+
+			// 名額會隨成長／盟約動作變動（例如刪掉成長後名額收回），
+			// 這裡把超出名額的既有勾選裁掉，避免留下不合規則的狀態。
+			function trimSelections() {
+				const pb = playbook();
+				if (!pb) return;
+				const sig = pb.signature;
+				const embedded = (sig.granted || []).find((m) => (m.options || []).length);
+				let cap;
+				if (sig.mode === 'options') cap = (sig.chooseCount || 0) + (S.sigExtra || 0);
+				else if ((sig.chooseFrom || []).length) cap = (sig.chooseCount || 1) + (S.sigMore || 0);
+				else if (embedded) cap = (embedded.chooseCount || 0) + (S.sigExtra || 0);
+				if (cap != null && S.sig.length > cap) S.sig = S.sig.slice(0, cap);
+
+				const plim = pactPickLimit();
+				if ((S.pactMoves || []).length > plim) S.pactMoves = S.pactMoves.slice(0, plim);
+				if ((S.pactAdv || []).length > plim) S.pactAdv = S.pactAdv.slice(0, plim);
+				const flim = frPickLimit();
+				if ((S.frMoves || []).length > flim) S.frMoves = S.frMoves.slice(0, flim);
+				const pc = pact();
+				const dmMax = Math.min(S.darkLv || 0, ((pc && (pc.darkMoves || {})[S.pb]) || []).length);
+				if ((S.darkMoves || []).length > dmMax) S.darkMoves = S.darkMoves.slice(0, dmMax);
+				if ((S.lostCoop || []).length > (S.darkLv || 0)) S.lostCoop = S.lostCoop.slice(0, S.darkLv || 0);
+			}
+
+			// ========== 網址序列化（純前端，無後端） ==========
+			const b64e = (bytes) => {
+				let s = '';
+				bytes.forEach((b) => (s += String.fromCharCode(b)));
+				return btoa(s).replace(/\+/g, '-').replace(/\//g, '_').replace(/=+$/, '');
+			};
+			const b64d = (str) => {
+				const s = atob(str.replace(/-/g, '+').replace(/_/g, '/'));
+				const out = new Uint8Array(s.length);
+				for (let i = 0; i < s.length; i++) out[i] = s.charCodeAt(i);
+				return out;
+			};
+			async function encodeState() {
+				const json = JSON.stringify(S);
+				const raw = new TextEncoder().encode(json);
+				if (typeof CompressionStream === 'function') {
+					const cs = new CompressionStream('deflate-raw');
+					const buf = await new Response(
+						new Blob([raw]).stream().pipeThrough(cs)
+					).arrayBuffer();
+					return 'z' + b64e(new Uint8Array(buf));
+				}
+				return 'p' + b64e(raw);
+			}
+			async function decodeState(str) {
+				const kind = str[0];
+				const bytes = b64d(str.slice(1));
+				let raw = bytes;
+				if (kind === 'z') {
+					const ds = new DecompressionStream('deflate-raw');
+					const buf = await new Response(
+						new Blob([bytes]).stream().pipeThrough(ds)
+					).arrayBuffer();
+					raw = new Uint8Array(buf);
+				}
+				return JSON.parse(new TextDecoder().decode(raw));
+			}
+
+			let urlTimer = null;
+			function syncURL() {
+				clearTimeout(urlTimer);
+				urlTimer = setTimeout(async () => {
+					try {
+						const code = await encodeState();
+						history.replaceState(null, '', '#c=' + code);
+					} catch (e) {
+						/* 忽略：網址同步失敗不影響編輯 */
+					}
+				}, 300);
+			}
+
+			function toast(msg) {
+				const t = $('#toast');
+				t.textContent = msg;
+				t.classList.add('show');
+				setTimeout(() => t.classList.remove('show'), 2400);
+			}
+
+			// 由規則資料的 table 欄位建出真正的表格
+			function tableNode(t, cls) {
+				const tb = el('table', cls || 'minitable');
+				const th = el('thead');
+				const htr = el('tr');
+				t.headers.forEach((h) => htr.appendChild(el('th', null, h)));
+				th.appendChild(htr);
+				tb.appendChild(th);
+				const body = el('tbody');
+				t.rows.forEach((r) => {
+					const tr = el('tr');
+					r.forEach((c) => tr.appendChild(el('td', null, c)));
+					body.appendChild(tr);
+				});
+				tb.appendChild(body);
+				return tb;
+			}
+
+			// 官方扮演書上每項成長前方的欄位數（可重複選取的次數）；基礎成長與進階成長各自獨立計算
+			function advBoxUsed(text, isAdvanced, skipIdx) {
+				let n = 0;
+				S.advances.forEach((x, i) => {
+					if (i === skipIdx) return;
+					if ((i >= 5) !== isAdvanced) return;
+					if (x.opt && x.opt === text) n++;
+				});
+				return n;
+			}
+			// 以 CSS 方框呈現欄位／勾選狀態，實心與空心大小一致
+			function boxRow(total, used) {
+				const w = el('span', 'boxrow');
+				for (let i = 0; i < total; i++) w.appendChild(el('i', 'bx' + (i < used ? ' on' : '')));
+				return w;
+			}
+
+			const doneAdvCount = () => S.advances.filter((a) => a.done).length;
+			// 偶像人氣值上限：一般為 1，取得「登上舞台……Let's go」MAX+ 成長後為 3
+			const popularityMax = () =>
+				S.advances.some((a) => a.done && a.opt && a.opt.indexOf('MAX+') >= 0) ? 3 : 1;
+			// 盟約動作／盟約優勢：建立時 1 項，第六次成長再 1 項
+			const pactPickLimit = () => (doneAdvCount() >= 6 ? 2 : 1);
+			// 友情動作：建立時 1 個；光明子女盟約動作「友情是世界上最珍貴的寶物」再 +1
+			function frPickLimit() {
+				const pc = pact();
+				if (!pc) return 1;
+				const bonus = (S.pactMoves || []).some(
+					(i) => ((pc.moves || [])[i] || {}).name === '友情是世界上最珍貴的寶物'
+				);
+				return bonus ? 2 : 1;
+			}
+
+			// 刪除中間的成長後，後面的成長會往前遞補而改變「第幾次」，
+			// 進而改變基礎／進階分類、超級形態的前置條件與欄位用量。
+			// 這裡重新檢查每一筆，不再合法的就清空該次成長讓使用者重選。
+			function revalidateAdvances() {
+				const pb = playbook();
+				if (!pb) return [];
+				const usedCount = {};
+				const cleared = [];
+				S.advances.forEach((a, i) => {
+					if (!a.opt) return;
+					const isAdvanced = i >= 5;
+					const pool = advPool(isAdvanced);
+					const meta = pool.find((o) => o.text === a.opt);
+					const key = (isAdvanced ? 'a:' : 'b:') + a.opt;
+					usedCount[key] = (usedCount[key] || 0) + 1;
+					const bad = !meta || !!advBlockReason(a.opt, i) || usedCount[key] > meta.boxes;
+					if (bad) {
+						cleared.push('第 ' + (i + 1) + ' 次「' + a.opt + '」');
+						usedCount[key]--;
+						a.opt = '';
+						a.detail = '';
+						a.done = false;
+					}
+				});
+				return cleared;
+			}
+
+			// 依成長項目名稱查出規則資料上的效果分類
+			function advMeta(text, idx) {
+				const pool = advPool(idx >= 5);
+				return pool.find((o) => o.text === text) || null;
+			}
+			const advEffect = (text, idx) => (advMeta(text, idx) || {}).effect || 'other';
+
+			// 某一形態是否已由其他成長取得
+			const formTaken = (kind, idx, before) =>
+				S.advances.some((x, i) => i !== idx && (!before || i < idx) && x.done && x.detail === kind);
+
+			// 成長的前置條件（規則「成長類型」）：不符合時該項成長不可選擇
+			function advBlockReason(text, idx) {
+				if (text.indexOf('超級形態') >= 0) {
+					if (idx < 2) return '需先取得 2 次成長';
+					if (formTaken('super', idx)) return '已取得超級形態';
+				}
+				if (text.indexOf('凱旋形態') >= 0) {
+					if (!formTaken('super', idx, true)) return '需先取得超級形態';
+					if (formTaken('triumph', idx)) return '已取得凱旋形態';
+				}
+				return '';
+			}
+
+			// 可選的成長清單。規則明訂「解鎖超級形態」是例外，也可以作為進階成長選擇。
+			function advPool(isAdvanced) {
+				const pb = playbook();
+				if (!pb) return [];
+				if (!isAdvanced) return pb.basicAdvances;
+				const sup = pb.basicAdvances.find((o) => o.text.indexOf('超級形態') >= 0);
+				return sup ? pb.advancedAdvances.concat([sup]) : pb.advancedAdvances;
+			}
+
+			// 戀愛量表：依目前戀愛等級標出生效的那一列
+			const romLevelActive = (row) => {
+				const m = String(row.level).match(/^(\d+)(?:-(\d+))?$/);
+				if (!m) return false;
+				const lo = parseInt(m[1], 10);
+				const hi = m[2] ? parseInt(m[2], 10) : lo;
+				return (S.romLv || 0) >= lo && (S.romLv || 0) <= hi;
+			};
+			function romLevelTable(book, cls) {
+				const t = el('table', 'minitable' + (cls ? ' ' + cls : ''));
+				const thead = el('thead');
+				const htr = el('tr');
+				['狀態', '等級', '效果'].forEach((h) => htr.appendChild(el('th', null, h)));
+				thead.appendChild(htr);
+				const tb = el('tbody');
+				(book.levels || []).forEach((r) => {
+					const tr = el('tr', romLevelActive(r) ? 'on' : '');
+					tr.appendChild(el('td', null, r.state));
+					tr.appendChild(el('td', null, r.level));
+					tr.appendChild(el('td', null, r.effect));
+					tb.appendChild(tr);
+				});
+				t.appendChild(thead);
+				t.appendChild(tb);
+				return t;
+			}
+
+			// 成長欄位總覽：對應官方扮演書上每項成長前方的 ○
+			function advBoxTable(cls) {
+				const pb = playbook();
+				const wrap = el('div', cls || 'advboxes');
+				[
+					['基礎成長', pb.basicAdvances, false],
+					['進階成長', pb.advancedAdvances, true],
+				].forEach(([label, pool, isAdvanced]) => {
+					const col = el('div', 'advboxcol');
+					col.appendChild(el('b', null, label));
+					const ul = el('ul', 'advboxlist');
+					pool.forEach((o) => {
+						const used = advBoxUsed(o.text, isAdvanced, -1);
+						const li = el('li', used >= o.boxes ? 'full' : null);
+						li.appendChild(boxRow(o.boxes, used));
+						li.appendChild(el('span', null, clean(o.text)));
+						ul.appendChild(li);
+					});
+					col.appendChild(ul);
+					wrap.appendChild(col);
+				});
+				return wrap;
+			}
+
+			// 由成長取得的友情動作（與手動勾選分開，避免互相覆蓋）
+			function advGrantedFr() {
+				const out = [];
+				S.advances.forEach((a, idx) => {
+					if (a.done && a.opt && advEffect(a.opt, idx) === 'frMove' && a.detail !== '') {
+						const i = parseInt(a.detail, 10);
+						if (!isNaN(i) && !out.includes(i)) out.push(i);
+					}
+				});
+				return out;
+			}
+			const effFrMoves = () => {
+				const g = advGrantedFr();
+				return (S.frMoves || []).concat(g.filter((i) => !(S.frMoves || []).includes(i)));
+			};
+
+			// 目前生效的能力量表：可能被盟約優勢／黑暗動作取代，或多一個額外形態
+			function luxView() {
+				const pb = playbook();
+				const pc = pact();
+				let replace = null;
+				let extra = null;
+				if (pc) {
+					const picked = []
+						.concat((pc.advantages || []).filter((a, i) => (S.pactAdv || []).includes(i)))
+						.concat((pc.moves || []).filter((m, i) => (S.pactMoves || []).includes(i)))
+						.concat(((pc.darkMoves || {})[S.pb] || []).filter((m, i) => (S.darkMoves || []).includes(i)));
+					picked.forEach((m) => {
+						if (m.tableKind === 'replaceLux' && !replace) replace = m;
+						if (m.tableKind === 'extraForm' && !extra) extra = m;
+					});
+				}
+				return { rows: pb ? pb.lux : [], replace, extra };
+			}
+
+			// 標記一項後果能抵消的傷痛：基礎 4 點（勇者「不屈」改為 6），再加上堅韌
+			function consAbsorbNote() {
+				const pb = playbook();
+				const sig = pb ? pb.signature : null;
+				const opts = sig ? (sig.mode === 'options' ? sig.options : sig.chooseFrom) || [] : [];
+				const tough = (S.sig || []).some((i) => (opts[i] || {}).name === '不屈');
+				const base = tough ? 6 : 4;
+				const res = luxPowers().sum['堅韌'];
+				return (
+					'標記一項後果可抵消 ' + (base + res) + ' 點傷痛（基礎 ' + base +
+					(tough ? '（不屈）' : '') + (res ? ' ＋ 堅韌 ' + res : '') + '），' +
+					'並使對應屬性 -2，直到後果被消除為止。部分戀愛量表效果會再增加抵消量。'
+				);
+			}
+
+			// 已標記後果造成的屬性懲罰（每項 -2）
+			function consPenalty() {
+				const pb = playbook();
+				const out = {};
+				if (!pb) return out;
+				const all = pb.consequences.concat(['落敗']);
+				(S.cons || []).forEach((i) => {
+					const info = (RULES.consequenceInfo || {})[all[i]] || {};
+					if (info.attribute) out[info.attribute] = (out[info.attribute] || 0) - 2;
+				});
+				return out;
+			}
+
+			// 已選項目中、能力量表以外的力量加值來源
+			// fixed = 變身後持續生效；choice = 需擇一；conditional = 需花費資源或依情境成立
+			function grantSources() {
+				const pb = playbook();
+				const pc = pact();
+				const out = [];
+				const push = (from, list, idxs) => {
+					(list || []).forEach((m, i) => {
+						if (idxs && !idxs.includes(i)) return;
+						if (m && m.powerGrants) out.push({ from, name: m.name, g: m.powerGrants });
+					});
+				};
+				if (pb) {
+					const sg = pb.signature;
+					push(pb.signatureName, sg.granted);
+					push(pb.signatureName, sg.mode === 'options' ? sg.options : sg.chooseFrom, S.sig);
+					push(pb.name + '進階動作', pb.advanceMoves, S.advMoves);
+				}
+				if (pc) {
+					push(pc.name + '盟約優勢', pc.advantages, S.pactAdv || []);
+					push(pc.name + '盟約動作', pc.moves, S.pactMoves || []);
+					push(S.pb + '黑暗動作', (pc.darkMoves || {})[S.pb] || [], S.darkMoves || []);
+				}
+				const fb = frBook();
+				if (fb) push('友情・' + fb.name, fb.moves, effFrMoves());
+				const rb = romBook();
+				if (rb) push('戀愛・' + rb.name, rb.moves);
+				return out;
+			}
+
+			// 目前解鎖的光之裝束力量總和
+			// 規則：能力量表上「該等級及以下」的所有力量都可使用，且各形態與各等級的力量累加
+			const POWER_KEYS = ['護甲', '昇華', '摧毀', '懲罰', '堅韌'];
+			function luxPowers() {
+				const lv = luxView();
+				// 規則（懲戒黑暗）：「變身後的玩家角色基礎造成的懲罰點數和摧毀點數為：懲罰/1 和摧毀/0」
+				const sum = { 護甲: 0, 昇華: 0, 摧毀: 0, 懲罰: 1, 堅韌: 0 };
+				const hearts = [];
+				let finalem = false;
+				const take = (cell) => {
+					const t = String(cell || '').trim();
+					if (!t || t === '—') return;
+					if (t.indexOf('終曲') >= 0) {
+						finalem = true;
+						return;
+					}
+					if (t.indexOf('心之力') >= 0) {
+						const m = t.match(/心之力\s*[（(]?\s*([ADP])?/);
+						hearts.push(m && m[1] ? m[1] : '自選');
+						return;
+					}
+					const m = t.match(/(護甲|昇華|摧毀|懲罰|堅韌)\s*\+(\d+)/);
+					if (m) sum[m[1]] += parseInt(m[2], 10);
+				};
+				const forms = [true, !!S.superForm, !!S.triumphForm];
+				if (lv.replace) {
+					lv.replace.table.rows.forEach((r) => {
+						const level = parseInt(r[0], 10);
+						if (isNaN(level) || level > S.power) return;
+						for (let c = 1; c < r.length; c++) if (forms[c - 1]) take(r[c]);
+					});
+				} else {
+					lv.rows.forEach((r) => {
+						if (r.level > S.power) return;
+						[r.basic, r.super, r.triumph].forEach((cell, i) => forms[i] && take(cell));
+					});
+				}
+				// 盟約優勢帶來的額外形態（例如契約傀儡「契約形態」）同樣累加
+				if (lv.extra) {
+					(lv.extra.formTable || []).forEach((r) => {
+						if (r.level <= S.power) take(r.effect);
+					});
+				}
+				// 量表以外的加值
+				const extras = [];
+				grantSources().forEach((src) => {
+					const add = (k, v) => {
+						sum[k] += v;
+						extras.push({ name: src.name, key: k, value: v });
+					};
+					if (src.g.mode === 'fixed') src.g.items.forEach((it) => add(it.key, it.value));
+					else if (src.g.mode === 'choice') {
+						const pick = (S.powerPick || {})[src.name];
+						const it = src.g.items.find((x) => x.key === pick);
+						if (it) add(it.key, it.value);
+					} else if ((S.powerOn || []).includes(src.name)) {
+						const pick = (S.powerPick || {})[src.name];
+						const list = pick ? src.g.items.filter((x) => x.key === pick) : src.g.items;
+						list.forEach((it) => add(it.key, it.value));
+					}
+				});
+				return { sum, hearts, finalem, extras };
+			}
+
+			// 目前力量數值一覽（建立面板與角色卡共用）
+			// 五項力量比照屬性的方格呈現，心之力與終曲只在有內容時以小標籤列出
+			function powerSummary(sheet) {
+				const pw = luxPowers();
+				const wrap = el('div', sheet ? 'pwwrap sheet' : 'pwwrap');
+				const row = el('div', sheet ? 'sattrs pw' : 'attrrow pw');
+				POWER_KEYS.forEach((k) => {
+					const on = !!pw.sum[k];
+					const c = el('div', (sheet ? 'sattr' : 'attrcell') + (on ? '' : ' off'));
+					c.appendChild(el('span', sheet ? null : 'akey', k));
+					c.appendChild(el('b', sheet ? null : 'aval', on ? '+' + pw.sum[k] : '—'));
+					row.appendChild(c);
+				});
+				wrap.appendChild(row);
+				const tags = el('div', 'pwtags');
+				if (pw.hearts.length) tags.appendChild(el('span', 'pill', '心之力 ' + pw.hearts.join('／')));
+				if (pw.finalem) tags.appendChild(el('span', 'pill', '終曲可用'));
+				if (!pw.hearts.length && !pw.finalem) tags.appendChild(el('span', 'pill off', '尚未解鎖心之力與終曲'));
+				wrap.appendChild(tags);
+				return wrap;
+			}
+
+			// ========== 小工具：建立表單控制項 ==========
+			function field(label, node) {
+				const w = el('label', 'field');
+				w.appendChild(el('span', 'flabel', label));
+				w.appendChild(node);
+				return w;
+			}
+			function textInput(key, ph) {
+				const i = el('input');
+				i.type = 'text';
+				i.value = S[key] || '';
+				if (ph) i.placeholder = ph;
+				i.addEventListener('input', () => {
+					S[key] = i.value;
+					renderSheet();
+					syncURL();
+				});
+				return i;
+			}
+			function comboInput(key, list, ph) {
+				const wrap = el('span', 'combo');
+				const i = el('input');
+				i.type = 'text';
+				i.value = S[key] || '';
+				i.setAttribute('list', 'dl-' + key);
+				if (ph) i.placeholder = ph;
+				const dl = el('datalist');
+				dl.id = 'dl-' + key;
+				list.forEach((v) => {
+					const o = el('option');
+					o.value = v;
+					dl.appendChild(o);
+				});
+				i.addEventListener('input', () => {
+					S[key] = i.value;
+					renderSheet();
+					syncURL();
+				});
+				wrap.appendChild(i);
+				wrap.appendChild(dl);
+				return wrap;
+			}
+			// 這些數值會影響建立面板本身（力量加總、黑暗動作名額、後果懲罰……），
+			// 因此改動後要整個重繪，並把焦點還給原本的欄位。
+			function numInput(key, min, max) {
+				const i = el('input', 'num');
+				i.type = 'number';
+				i.min = String(min);
+				i.max = String(max);
+				i.value = String(S[key] ?? 0);
+				i.dataset.numkey = key;
+				i.addEventListener('input', () => {
+					const v = Math.max(min, Math.min(max, parseInt(i.value || '0', 10)));
+					S[key] = v;
+					render();
+					const back = document.querySelector('[data-numkey="' + key + '"]');
+					if (back) back.focus();
+				});
+				return i;
+			}
+			function checkList(items, isOn, onToggle, opts) {
+				const box = el('div', 'checklist' + (opts && opts.compact ? ' compact' : ''));
+				const variant = (opts && opts.variant) || '';
+				items.forEach((it, idx) => {
+					const on = isOn(idx);
+					const row = el('label', 'check' + (variant && on ? ' ' + variant : ''));
+					const cb = el('input');
+					cb.type = 'checkbox';
+					cb.checked = on;
+					cb.addEventListener('change', () => {
+						onToggle(idx, cb.checked);
+						render();
+					});
+					row.appendChild(cb);
+					const body = el('span', 'ctext');
+					body.appendChild(el('b', null, it.name || ''));
+					if (it.text) body.appendChild(el('span', 'cdesc', clean(it.text)));
+					if (it.table) body.appendChild(tableNode(it.table));
+					row.appendChild(body);
+					box.appendChild(row);
+				});
+				return box;
+			}
+			function section(title, hint) {
+				const d = el('details', 'step');
+				const key = title.split('・')[0];
+				d.open = STEP_OPEN[key] !== false;
+				d.addEventListener('toggle', () => {
+					STEP_OPEN[key] = d.open;
+				});
+				const s = el('summary');
+				s.appendChild(el('span', 'stitle', title));
+				if (hint) s.appendChild(el('span', 'shint', hint));
+				d.appendChild(s);
+				return d;
+			}
+
+			// ========== 建立面板 ==========
+			function renderBuilder() {
+				const root = $('#builder');
+				root.textContent = '';
+				const pb = playbook();
+
+				// 1. 扮演書
+				{
+					const d = section('1・原型扮演書', pb ? pb.name : '尚未選擇');
+					const grid = el('div', 'pbgrid');
+					RULES.playbooks.forEach((p) => {
+						const b = el('button', 'pbcard' + (S.pb === p.name ? ' on' : ''));
+						b.type = 'button';
+						b.appendChild(el('b', null, p.name));
+						b.appendChild(el('span', 'pbmove', p.signatureName));
+						b.appendChild(el('span', 'pbdesc', p.intro.slice(0, 60)));
+						b.addEventListener('click', () => {
+							if (S.pb === p.name) return;
+							const dirty = S.sig.length || S.advances.length || (S.bumps || []).length;
+							if (dirty && !confirm('切換扮演書會清除招牌動作、屬性調整、成長紀錄與黑暗動作，確定要換嗎？')) return;
+							S.pb = p.name;
+							S.attrSet = 0;
+							S.bumps = [];
+							S.sig = [];
+							S.advMoves = [];
+							S.cons = [];
+							// 以下都綁定原型扮演書，換書後必須一併清除
+							S.advances = [];
+							ADV_OPEN = [];
+							S.darkMoves = [];
+							S.superForm = false;
+							S.triumphForm = false;
+							S.sigExtra = 0;
+							render();
+						});
+						grid.appendChild(b);
+					});
+					d.appendChild(grid);
+					root.appendChild(d);
+				}
+				if (!pb) return;
+
+				// 2. 個人資料與變身
+				{
+					const d = section('2・個人資料與變身');
+					const g = el('div', 'fgrid');
+					g.appendChild(field('姓名', textInput('name')));
+					g.appendChild(field('生活型態', textInput('life', '學生、打工族……')));
+					g.appendChild(field('年齡', textInput('age')));
+					g.appendChild(field('稱號', textInput('title', 'Star Melody Yuna')));
+					g.appendChild(field('主題', comboInput('theme', OPTS.THEMES)));
+					g.appendChild(field('色彩', comboInput('color', OPTS.COLORS)));
+					g.appendChild(field('護符', comboInput('talisman', OPTS.TALISMANS)));
+					g.appendChild(field('星座', comboInput('zodiac', OPTS.ZODIACS)));
+					g.appendChild(field('血型', comboInput('blood', OPTS.BLOODS)));
+					g.appendChild(field('最珍貴的寶物', textInput('treasure')));
+					d.appendChild(g);
+					root.appendChild(d);
+				}
+
+				// 3. 屬性
+				{
+					const a = pb.attributes;
+					const d = section('3・屬性', a.mode === 'sets' ? '選擇一組並調整' : '基礎值加調整');
+					if (a.mode === 'sets') {
+						const row = el('div', 'setrow');
+						a.sets.forEach((st, i) => {
+							const b = el('button', 'setbtn' + (S.attrSet === i ? ' on' : ''));
+							b.type = 'button';
+							b.appendChild(el('b', null, st.label));
+							b.appendChild(
+								el('span', null, ATTRS.map((k) => k + ' ' + sign(st.values[k])).join('　'))
+							);
+							b.addEventListener('click', () => {
+								S.attrSet = i;
+								render();
+							});
+							row.appendChild(b);
+						});
+						d.appendChild(row);
+					}
+					if (a.note) d.appendChild(el('p', 'note', a.note));
+
+					const parts = attrParts();
+					const asc = S.ascension || {};
+					const adj = a.adjust; // 這本扮演書的建立分配規則（沒有就不限制）
+					const free = !adj || S.freeAttr;
+
+					// 偶像：先選一種分配方式
+					if (adj && adj.mode === 'spread' && !S.freeAttr) {
+						const row = el('div', 'pactrow');
+						adj.options.forEach((o) => {
+							const key = o.join('/');
+							const on = S.attrPlan === key;
+							const b = el('button', 'pactbtn' + (on ? ' on' : ''));
+							b.type = 'button';
+							b.textContent = o.map((v) => '+' + v).join(' 和 ') + (o.length > 1 ? '（' + o.length + ' 項）' : '（1 項）');
+							b.addEventListener('click', () => {
+								if (!on) {
+									S.attrPlan = key;
+									S.bumps = (S.bumps || []).filter((x) => x.fromAdv); // 換方式時清掉已配的點
+								} else S.attrPlan = '';
+								render();
+							});
+							row.appendChild(b);
+						});
+						d.appendChild(row);
+					}
+
+					// 目前的分配狀況
+					if (adj && !S.freeAttr) {
+						const plus = ATTRS.reduce((n, x) => n + Math.max(parts[x].manual, 0), 0);
+						const minus = ATTRS.reduce((n, x) => n + Math.min(parts[x].manual, 0), 0);
+						let txt = '';
+						if (adj.mode === 'points') txt = '已分配 ' + plus + ' / ' + adj.total + ' 點';
+						else if (adj.mode === 'zeroSwap')
+							txt = '0 改為 +1：' + (plus ? '已指定' : '未指定') + '　0 改為 -1：' + (minus ? '已指定' : '未指定');
+						else if (adj.mode === 'spread')
+							txt = S.attrPlan ? '分配方式 ' + S.attrPlan.split('/').map((v) => '+' + v).join('、') + '　已分配 ' + plus + ' 點' : '尚未選擇分配方式';
+						d.appendChild(el('p', 'note' + (txt.indexOf('未') < 0 ? ' ok' : ''), txt));
+					}
+
+					const table = el('div', 'attrrow');
+					ATTRS.forEach((k) => {
+						const pt = parts[k];
+						const cell = el('div', 'attrcell');
+						cell.appendChild(el('span', 'akey', k));
+						cell.appendChild(el('b', 'aval', sign(pt.total)));
+						// 非按鈕來源的加值：標示顏色與來源
+						const src = el('div', 'asrc');
+						if (pt.adv) src.appendChild(el('span', 'tag adv', '成長 ' + sign(pt.adv)));
+						if (pt.dark) src.appendChild(el('span', 'tag dark', pt.darkFrom.join('、') + ' ' + sign(pt.dark)));
+						if (asc[k]) src.appendChild(el('span', 'tag asc', '昇華 +' + asc[k] + '（擲骰）'));
+						if (src.childNodes.length) cell.appendChild(src);
+						// 建立時的調整不得讓屬性超出 -2 ～ +2；成長與黑暗動作的加值另計
+						const ctrl = el('div', 'actrl');
+						[-1, 1].forEach((delta) => {
+							const next = pt.base + pt.manual + delta;
+							const undo = (S.bumps || []).some((b) => b.k === k && !b.fromAdv && b.d === delta * -1);
+							const reason = undo ? '' : adjustBlockReason(adj, k, delta, parts, free);
+							const blocked = !undo && !!reason;
+							const b = el('button', 'tiny');
+							b.type = 'button';
+							b.disabled = blocked;
+							b.title = blocked ? reason : undo ? '取消一項已加的 ' + k + ' ' + sign(delta * -1) : '';
+							b.textContent = delta > 0 ? '＋' : '−';
+							b.addEventListener('click', () => {
+								S.bumps = S.bumps || [];
+								// 先抵銷反向的調整，沒有的話才新增一筆
+								const i = S.bumps.findIndex((x) => x.k === k && !x.fromAdv && x.d === delta * -1);
+								if (i >= 0) S.bumps.splice(i, 1);
+								else S.bumps.push({ k, d: delta });
+								render();
+							});
+							ctrl.appendChild(b);
+						});
+						cell.appendChild(ctrl);
+						table.appendChild(cell);
+					});
+					d.appendChild(table);
+
+					{
+						const lab = el('label', 'check inline');
+						const cb = el('input');
+						cb.type = 'checkbox';
+						cb.checked = !!S.freeAttr;
+						cb.addEventListener('change', () => {
+							S.freeAttr = cb.checked;
+							render();
+						});
+						lab.appendChild(cb);
+						lab.appendChild(el('span', null, '自由調整（編輯遊戲中的角色時使用，僅保留 -2 ～ +2 的建立限制）'));
+						d.appendChild(lab);
+					}
+
+					const manualBumps = (S.bumps || []).map((b, i) => ({ b, i })).filter((x) => !x.b.fromAdv);
+					if (manualBumps.length) {
+						d.appendChild(el('p', 'note dim', '建立時的調整（點擊可移除）'));
+						const chips = el('div', 'chips');
+						manualBumps.forEach(({ b, i }) => {
+							const c = el('button', 'chip');
+							c.type = 'button';
+							c.textContent = b.k + ' ' + sign(b.d) + ' ✕';
+							c.title = '移除這項調整';
+							c.addEventListener('click', () => {
+								S.bumps.splice(i, 1);
+								render();
+							});
+							chips.appendChild(c);
+						});
+						d.appendChild(chips);
+					}
+					d.appendChild(
+						el('p', 'note dim',
+							'加減按鈕依這本扮演書的分配規則限制，超出時會停用並說明原因（按反向鍵可取消已加的調整）。' +
+							'建立時任何屬性不得高於 +2 或低於 -2。' +
+							'成長「提升一項屬性」上限 +3、契約傀儡的「黑暗印記」與「非人意識」上限 +4，' +
+							'兩者都另計、不受這裡的按鈕限制。昇華是「使用該屬性的動作 +1」的擲骰加值，規則沒有上限，也不改變屬性值本身。')
+					);
+					root.appendChild(d);
+				}
+
+				// 4. 招牌動作
+				{
+					const sig = pb.signature;
+					const d = section('4・' + pb.signatureName, sig.mode === 'options' ? '選擇三個選項' : '');
+					if (sig.mode === 'options') {
+						const cap = sig.chooseCount + (S.sigExtra || 0);
+						if (S.sigExtra) d.appendChild(el('p', 'note ok', '成長已解鎖額外 ' + S.sigExtra + ' 個選項（可選 ' + cap + ' 項）'));
+						d.appendChild(
+							checkList(
+								sig.options,
+								(i) => S.sig.includes(i),
+								(i, on) => {
+									if (on) {
+										if (S.sig.length >= cap) {
+											toast('最多選擇 ' + cap + ' 項');
+											return;
+										}
+										S.sig.push(i);
+									} else S.sig = S.sig.filter((x) => x !== i);
+								}
+							)
+						);
+						(sig.granted || []).forEach((m) => {
+							const g = el('div', 'granted');
+							g.appendChild(el('b', null, '同時獲得：' + m.name));
+							g.appendChild(el('p', null, clean(m.text)));
+							if (m.table) g.appendChild(tableNode(m.table));
+							d.appendChild(g);
+						});
+					} else {
+						(sig.granted || []).forEach((m) => {
+							const g = el('div', 'granted');
+							g.appendChild(el('b', null, m.name));
+							g.appendChild(el('p', null, clean(m.text)));
+							if (m.table) g.appendChild(tableNode(m.table));
+							d.appendChild(g);
+							// 動作內含的選單（聖母「神聖力量」從六項效果選三項）
+							if ((m.options || []).length) {
+								const cap = (m.chooseCount || 0) + (S.sigExtra || 0);
+								d.appendChild(
+									el('p', 'note' + (S.sigExtra ? ' ok' : ''),
+										m.name + '：選擇 ' + cap + ' 項效果' +
+										(S.sigExtra ? '（成長已解鎖額外 ' + S.sigExtra + ' 項）' : ''))
+								);
+								d.appendChild(
+									checkList(
+										m.options,
+										(i) => S.sig.includes(i),
+										(i, on) => {
+											if (on) {
+												if (S.sig.length >= cap) {
+													toast('最多選擇 ' + cap + ' 項');
+													return;
+												}
+												S.sig.push(i);
+											} else S.sig = S.sig.filter((x) => x !== i);
+										}
+									)
+								);
+							}
+						});
+						if ((sig.chooseFrom || []).length) {
+							// 成長「獲得一項……動作」會多開一個名額
+							const cap = (sig.chooseCount || 1) + (S.sigMore || 0);
+							d.appendChild(
+								el('p', 'note' + (S.sigMore ? ' ok' : ''),
+									(sig.chooseLabel || '選擇一項：') +
+									(S.sigMore ? '（成長已多開 ' + S.sigMore + ' 個名額，可選 ' + cap + ' 項）' : ''))
+							);
+							d.appendChild(
+								checkList(
+									sig.chooseFrom,
+									(i) => S.sig.includes(i),
+									(i, on) => {
+										if (on) {
+											if (S.sig.length >= cap) {
+												if (cap === 1) S.sig = [];
+												else {
+													toast('最多選擇 ' + cap + ' 項');
+													return;
+												}
+											}
+											S.sig.push(i);
+										} else S.sig = S.sig.filter((x) => x !== i);
+									}
+								)
+							);
+						}
+					}
+					root.appendChild(d);
+				}
+
+				// 5. 盟約
+				{
+					const d = section('5・盟約', S.pact || '尚未選擇');
+					const row = el('div', 'pactrow');
+					RULES.pacts.forEach((p) => {
+						const b = el('button', 'pactbtn' + (S.pact === p.name ? ' on' : ''));
+						b.type = 'button';
+						b.textContent = p.name;
+						b.addEventListener('click', () => {
+							S.pact = S.pact === p.name ? '' : p.name;
+							S.pactMoves = [];
+							S.pactAdv = [];
+							S.darkMoves = [];
+							S.lostCoop = [];
+							render();
+						});
+						row.appendChild(b);
+					});
+					d.appendChild(row);
+
+					const pc = pact();
+					if (pc) {
+						(pc.advantageIntro || []).forEach((x) =>
+							d.appendChild(el('p', 'note', x.replace(/\[(.+?)\]\(.+?\)/g, '$1')))
+						);
+
+						// 盟約優勢：契約傀儡為可選清單（建立時 1 項，第六次成長再 1 項）
+						if ((pc.advantages || []).length) {
+							const lim = pactPickLimit();
+							d.appendChild(
+								el('p', 'note', '盟約優勢（建立時 1 項，第六次成長再 1 項；目前可選 ' + lim + ' 項）')
+							);
+							d.appendChild(
+								checkList(
+									pc.advantages,
+									(i) => S.pactAdv.includes(i),
+									(i, on) => {
+										if (on) {
+											if (S.pactAdv.length >= lim) {
+												toast(lim === 1 ? '建立時只能選 1 項，第二項需完成 6 次成長' : '盟約優勢最多 2 項');
+												return;
+											}
+											S.pactAdv.push(i);
+										} else S.pactAdv = S.pactAdv.filter((x) => x !== i);
+									}
+								)
+							);
+						}
+
+						// 盟約動作：光明子女／正義騎士
+						if ((pc.moves || []).length) {
+							const lim = pactPickLimit();
+							d.appendChild(
+								el('p', 'note', '盟約動作（建立時 1 項，第六次成長再 1 項；目前可選 ' + lim + ' 項）')
+							);
+							d.appendChild(
+								checkList(
+									pc.moves,
+									(i) => S.pactMoves.includes(i),
+									(i, on) => {
+										if (on) {
+											if (S.pactMoves.length >= lim) {
+												toast(lim === 1 ? '建立時只能選 1 項，第二項需完成 6 次成長' : '盟約動作最多 2 項');
+												return;
+											}
+											S.pactMoves.push(i);
+										} else S.pactMoves = S.pactMoves.filter((x) => x !== i);
+									}
+								)
+							);
+						}
+
+						// 合作動作：正義騎士（全隊共用，僅供查閱）
+						if ((pc.coopMoves || []).length) {
+							S.lostCoop = S.lostCoop || [];
+							d.appendChild(
+								el('p', 'note',
+									'合作動作（全隊共用，共 ' + pc.coopMoves.length + ' 項）。' +
+									'每獲得 1 級黑暗等級，勾選 1 項從此無法再觸發的合作動作；' +
+									'目前黑暗等級 ' + S.darkLv + '，需勾選 ' + Math.min(S.darkLv, pc.coopMoves.length) + ' 項。')
+							);
+							d.appendChild(
+								checkList(
+									pc.coopMoves,
+									(i) => S.lostCoop.includes(i),
+									(i, on) => {
+										if (on) {
+											if (S.lostCoop.length >= S.darkLv) {
+												toast('黑暗等級 ' + S.darkLv + '：最多只會失去 ' + S.darkLv + ' 項合作動作');
+												return;
+											}
+											S.lostCoop.push(i);
+										} else S.lostCoop = S.lostCoop.filter((x) => x !== i);
+									},
+									{ variant: 'lost' }
+								)
+							);
+						}
+
+						// 黑暗動作：契約傀儡，依原型，每獲得 1 級黑暗等級選 1 項
+						const dm = (pc.darkMoves || {})[S.pb] || [];
+						(S.darkMoves || []).forEach((i) => {
+							const m = dm[i];
+							if (!m || !m.attrGrant || m.attrGrant.mode !== 'choice') return;
+							d.appendChild(
+								el('p', 'note', m.name + '：選擇要永久提升 +' + m.attrGrant.value + ' 的屬性（最高 ' + m.attrGrant.max + '）')
+							);
+							const row = el('div', 'pactrow');
+							ATTRS.forEach((k) => {
+								const on = (S.attrPick || {})[m.name] === k;
+								const b = el('button', 'pactbtn' + (on ? ' on' : ''));
+								b.type = 'button';
+								b.textContent = k;
+								b.addEventListener('click', () => {
+									S.attrPick = S.attrPick || {};
+									if (on) delete S.attrPick[m.name];
+									else S.attrPick[m.name] = k;
+									render();
+								});
+								row.appendChild(b);
+							});
+							d.appendChild(row);
+						});
+						if (dm.length) {
+							d.appendChild(
+								el('p', 'note', S.pb + '黑暗動作（每獲得 1 級黑暗等級選 1 項，目前黑暗等級 ' + S.darkLv + '）')
+							);
+							d.appendChild(
+								checkList(
+									dm,
+									(i) => S.darkMoves.includes(i),
+									(i, on) => {
+										if (on) {
+											if (S.darkMoves.length >= S.darkLv) {
+												toast('黑暗等級 ' + S.darkLv + '：最多可選 ' + S.darkLv + ' 項黑暗動作');
+												return;
+											}
+											S.darkMoves.push(i);
+										} else S.darkMoves = S.darkMoves.filter((x) => x !== i);
+									}
+								)
+							);
+						}
+
+						if ((pc.darkRules || []).length) {
+							const ul = el('ul', 'rules');
+							pc.darkRules.forEach((r) => ul.appendChild(el('li', null, r.replace(/\[(.+?)\]\(.+?\)/g, '$1'))));
+							d.appendChild(ul);
+						}
+						if ((pc.darkLevel5 || []).length) {
+							d.appendChild(
+								el('p', 'note' + (S.darkLv >= 5 ? ' warn' : ''),
+									'黑暗等級 5 的後果' + (S.darkLv >= 5 ? '（目前已達 5，請套用）' : ''))
+							);
+							const ul5 = el('ul', 'rules');
+							pc.darkLevel5.forEach((r) => ul5.appendChild(el('li', null, r)));
+							d.appendChild(ul5);
+						}
+					}
+					root.appendChild(d);
+				}
+
+				// 6. 友情與戀愛扮演書
+				{
+					const d = section('6・友情與戀愛扮演書');
+					const mk = (label, listKey, bookKey, movesKey, books) => {
+						d.appendChild(el('p', 'note', label));
+						const row = el('div', 'pactrow wrapy');
+						books.forEach((p) => {
+							const b = el('button', 'pactbtn' + (S[bookKey] === p.name ? ' on' : ''));
+							b.type = 'button';
+							b.textContent = p.name;
+							b.addEventListener('click', () => {
+								S[bookKey] = S[bookKey] === p.name ? '' : p.name;
+								S[movesKey] = [];
+								render();
+							});
+							row.appendChild(b);
+						});
+						d.appendChild(row);
+						const book = books.find((x) => x.name === S[bookKey]);
+						if (!book) return;
+						if (book.bonds) {
+							const m = book.bonds.match(/玩家角色數\s*\+\s*(\d+)/);
+							const n = (S.players || 4) + (m ? parseInt(m[1], 10) : 0);
+							d.appendChild(
+								el('p', 'note ok',
+									'羈絆：' + book.bonds +
+									(book.bonds.indexOf('選擇') < 0 ? '（目前 ' + (S.players || 4) + ' 名玩家角色 → ' + n + ' 條）' : ''))
+							);
+						}
+						if (book.tags) d.appendChild(el('p', 'note dim', '標籤：' + book.tags));
+						if (book.questions) d.appendChild(el('p', 'note', '問題：' + book.questions));
+
+						// 戀愛扮演書的動作全部自動獲得，不需勾選
+						if (bookKey === 'rom') {
+							S.romMoves = book.moves.map((_, i) => i);
+							if ((book.levels || []).length) d.appendChild(romLevelTable(book));
+							d.appendChild(el('p', 'note dim', '戀愛扮演書的動作全部自動獲得，不需勾選。'));
+							const ul = el('div', 'sublist');
+							book.moves.forEach((m) => {
+								const g = el('div', 'granted');
+								g.appendChild(el('b', null, m.name));
+								g.appendChild(el('p', null, clean(m.text)));
+								if (m.table) g.appendChild(tableNode(m.table));
+								ul.appendChild(g);
+							});
+							d.appendChild(ul);
+							return;
+						}
+
+						const granted = advGrantedFr();
+						const lim = frPickLimit();
+						d.appendChild(
+							el('p', 'note',
+								'建立時獲得 1 個友情動作' +
+								(lim > 1 ? '（盟約動作「友情是世界上最珍貴的寶物」再 +1，共 ' + lim + ' 個）' : '') +
+								'，其餘透過成長取得。')
+						);
+						if (granted.length) {
+							d.appendChild(
+								el('p', 'note ok',
+									'由成長取得：' + granted.map((i) => (book.moves[i] || {}).name).filter(Boolean).join('、'))
+							);
+						}
+						d.appendChild(
+							checkList(
+								book.moves,
+								(i) => S[movesKey].includes(i) || granted.includes(i),
+								(i, on) => {
+									if (granted.includes(i)) {
+										toast('這個動作由成長取得，請到步驟 8 調整');
+										return;
+									}
+									if (on) {
+										if (S[movesKey].length >= lim) {
+											toast('建立時只能選 ' + lim + ' 個友情動作，其餘請透過步驟 8 的成長取得');
+											return;
+										}
+										S[movesKey].push(i);
+									} else S[movesKey] = S[movesKey].filter((x) => x !== i);
+								}
+							)
+						);
+					};
+					mk('友情扮演書', 'fr', 'fr', 'frMoves', RULES.friendship);
+					d.appendChild(
+						el('p', 'note dim', '戀愛扮演書在角色建立時無法選擇，需在遊戲中與某位角色開始一段戀愛關係後才會解鎖。')
+					);
+					mk('戀愛扮演書', 'rom', 'rom', 'romMoves', RULES.romance);
+					root.appendChild(d);
+				}
+
+				// 7. 光之裝束與心之力
+				{
+					const d = section('7・光之裝束', '能力等級 ' + S.power);
+					const g = el('div', 'fgrid');
+					g.appendChild(field('能力等級', numInput('power', 0, 5)));
+					d.appendChild(g);
+					const driverName = luxView().replace ? '暗點' : '光點';
+					const driverVal = luxView().replace ? S.tenebrae || 0 : S.light || 0;
+					d.appendChild(
+						el('p', 'note' + (driverVal > S.power ? ' warn' : ' dim'),
+							'獲得' + driverName + '時，若' + driverName + '超過能力等級就把等級提升到相同數值（目前 ' +
+							driverName + ' ' + driverVal + '）。量表在場景中不會下降；場景結束或脫下光之裝束時歸 0，' +
+							'並在至少有 1 點' + driverName + '時消除 1 點。' +
+							(driverVal > S.power ? '　目前' + driverName + '高於能力等級，請確認是否要提升。' : ''))
+					);
+					const formNote = el('p', 'note');
+					formNote.textContent =
+						'形態：基礎形態　超級形態 ' + (S.superForm ? '✓ 已解鎖' : '✗ 未解鎖') +
+						'　凱旋形態 ' + (S.triumphForm ? '✓ 已解鎖' : '✗ 未解鎖');
+					d.appendChild(formNote);
+					d.appendChild(el('p', 'note dim', '形態由步驟 8 的成長解鎖，不在此手動勾選。'));
+					const pcForm = pact();
+					const cForm = pcForm && (pcForm.advantages || []).find((a, i) => a.formTable && S.pactAdv.includes(i));
+					if (cForm) d.appendChild(el('p', 'note ok', '已取得盟約優勢「' + cForm.name + '」：角色卡會額外列出該形態的能力量表。'));
+
+					d.appendChild(el('p', 'note', '目前解鎖的力量（能力等級 ' + S.power + ' 及以下，所有已解鎖形態累加）'));
+					d.appendChild(powerSummary(false));
+					d.appendChild(
+						el('p', 'note dim', '變身後的基礎值為懲罰 1、摧毀 0，量表與加值都疊加在這之上。')
+					);
+
+					// 量表以外的加值來源
+					const srcs = grantSources();
+					const fixed = srcs.filter((x) => x.g.mode === 'fixed');
+					const choices = srcs.filter((x) => x.g.mode === 'choice');
+					const conds = srcs.filter((x) => x.g.mode === 'conditional');
+					if (fixed.length) {
+						d.appendChild(
+							el('p', 'note ok',
+								'量表外的持續加值：' +
+								fixed.map((x) => x.name + '（' + x.g.items.map((i) => i.key + ' +' + i.value).join('、') + '）').join('、'))
+						);
+					}
+					choices.forEach((x) => {
+						d.appendChild(el('p', 'note', x.name + '：選擇一項光之裝束能力（始終額外可用）'));
+						const row = el('div', 'pactrow');
+						x.g.items.forEach((it) => {
+							const on = (S.powerPick || {})[x.name] === it.key;
+							const b = el('button', 'pactbtn' + (on ? ' on' : ''));
+							b.type = 'button';
+							b.textContent = it.key + ' +' + it.value;
+							b.addEventListener('click', () => {
+								S.powerPick = S.powerPick || {};
+								if (on) delete S.powerPick[x.name];
+								else S.powerPick[x.name] = it.key;
+								render();
+							});
+							row.appendChild(b);
+						});
+						d.appendChild(row);
+					});
+					if (conds.length) {
+						d.appendChild(el('p', 'note', '情境加值（需花費資源或符合條件時才生效，勾選後才併入上方加總）'));
+						d.appendChild(
+							checkList(
+								conds.map((x) => ({
+									name: x.name + '　' + x.g.items.map((i) => i.key + ' +' + i.value).join('、'),
+									text: x.from,
+								})),
+								(i) => (S.powerOn || []).includes(conds[i].name),
+								(i, on) => {
+									S.powerOn = S.powerOn || [];
+									if (on) S.powerOn.push(conds[i].name);
+									else S.powerOn = S.powerOn.filter((n) => n !== conds[i].name);
+								},
+								{ compact: true }
+							)
+						);
+					}
+
+					// 昇華：每次解鎖需指定影響的屬性
+					const asc = luxPowers().sum['昇華'];
+					if (asc) {
+						S.ascension = S.ascension || {};
+						const used = ATTRS.reduce((n, k) => n + (S.ascension[k] || 0), 0);
+						d.appendChild(el('p', 'note', '昇華 +' + asc + '：指定影響的屬性（已分配 ' + used + ' / ' + asc + '）'));
+						const row = el('div', 'pactrow');
+						ATTRS.forEach((k) => {
+							const v = S.ascension[k] || 0;
+							const b = el('button', 'pactbtn' + (v ? ' on' : ''));
+							b.type = 'button';
+							b.textContent = k + (v ? ' +' + v : '');
+							b.title = '點擊加 1，額度用完後歸零';
+							b.addEventListener('click', () => {
+								S.ascension[k] = used >= asc ? 0 : v + 1;
+								render();
+							});
+							row.appendChild(b);
+						});
+						d.appendChild(row);
+					}
+
+					const hUnlocked = luxPowers().hearts.length;
+					const hMade = (S.hearts || []).filter((h) => h.name || h.effect || h.rule).length;
+					d.appendChild(
+						el('p', 'note' + (hMade > hUnlocked ? ' warn' : ''),
+							'心之力（能力量表已解鎖 ' + hUnlocked + ' 個，目前填寫 ' + hMade + ' 個）')
+					);
+					(S.hearts || []).forEach((h, i) => {
+						const wrap = el('div', 'heartitem');
+						const row = el('div', 'heartrow');
+						const n = el('input');
+						n.type = 'text';
+						n.placeholder = '名稱（例：天聖爆裂）';
+						n.value = h.name || '';
+						n.addEventListener('input', () => {
+							h.name = n.value;
+							renderSheet();
+							syncURL();
+						});
+						const sel = el('select');
+						OPTS.HEART_CATS.forEach((c) => {
+							const o = el('option', null, c.label);
+							o.value = c.key;
+							if (h.cat === c.key) o.selected = true;
+							sel.appendChild(o);
+						});
+						sel.addEventListener('change', () => {
+							h.cat = sel.value;
+							renderSheet();
+							syncURL();
+						});
+						const eff = el('input');
+						eff.type = 'text';
+						eff.placeholder = '效果';
+						eff.value = h.effect || '';
+						eff.addEventListener('input', () => {
+							h.effect = eff.value;
+							renderSheet();
+							syncURL();
+						});
+						const del = el('button', 'tiny');
+						del.type = 'button';
+						del.textContent = '✕';
+						del.addEventListener('click', () => {
+							S.hearts.splice(i, 1);
+							render();
+						});
+						row.appendChild(n);
+						row.appendChild(sel);
+						row.appendChild(eff);
+						row.appendChild(del);
+						wrap.appendChild(row);
+
+						// 規則效果：各類別各有一組可選效果，建立時擇一
+						const hp = (RULES.heartPowers || {})[h.cat];
+						if (hp) {
+							wrap.appendChild(el('p', 'note dim', hp.title + '：選擇一個效果'));
+							const opts = el('div', 'pactrow wrapy');
+							hp.effects.forEach((t) => {
+								const on = h.rule === t;
+								const b = el('button', 'pactbtn' + (on ? ' on' : ''));
+								b.type = 'button';
+								b.textContent = t;
+								b.addEventListener('click', () => {
+									h.rule = on ? '' : t;
+									render();
+								});
+								opts.appendChild(b);
+							});
+							wrap.appendChild(opts);
+							if (hp.note) wrap.appendChild(el('p', 'note dim', hp.note));
+						}
+						d.appendChild(wrap);
+					});
+					const add = el('button', 'small');
+					add.type = 'button';
+					add.textContent = '＋ 新增心之力';
+					add.disabled = (S.hearts || []).length >= 3;
+					add.title = add.disabled ? '規則：玩家角色最多只能擁有三個心之力' : '';
+					add.addEventListener('click', () => {
+						S.hearts.push({ name: '', cat: 'A', effect: '', rule: '' });
+						render();
+					});
+					d.appendChild(add);
+					d.appendChild(
+						el('p', 'note dim',
+							'心之力每場景各只能使用一次，最多三個；需先由能力量表解鎖對應等級才能發動。' +
+							(RULES.heartPowers && RULES.heartPowers.finalem
+								? '　終曲：' + RULES.heartPowers.finalem.note.split('\n').slice(1).join(' ')
+								: ''))
+					);
+					root.appendChild(d);
+				}
+
+				// 8. 成長（閃耀時刻！）
+				{
+					const done = S.advances.filter((a) => a.done).length;
+					const d = section('8・成長（閃耀時刻！）', '已完成 ' + done + ' 次');
+
+					// 閃耀點數門檻
+					const g = el('div', 'fgrid');
+					g.appendChild(field('盟約閃耀點數', numInput('shine', 0, 40)));
+					g.appendChild(field('玩家角色人數', numInput('players', 1, 8)));
+					d.appendChild(g);
+					const need = (S.players || 4) + doneAdvCount();
+					const ready = S.shine >= need;
+					const gate = el('p', 'note' + (ready ? ' ok' : ''));
+					gate.textContent =
+						'觸發門檻：玩家角色人數 + 已獲得成長次數 = ' + need + '　目前 ' + S.shine +
+						(ready ? '　✓ 已達成' : '　尚未達成');
+					d.appendChild(gate);
+					if (ready) {
+						// 規則：「獲得成長後，清除盟約扮演書上所有的閃耀點數。」
+						const blocked = S.advances.some((a) => !a.done);
+						const go = el('button', 'small primary');
+						go.type = 'button';
+						go.textContent = '執行「閃耀時刻！」';
+						go.disabled = blocked;
+						go.title = blocked ? '請先完成上一次成長的處理項目' : '新增一次成長並把盟約閃耀點數歸零';
+						go.addEventListener('click', () => {
+							ADV_OPEN[S.advances.length] = true;
+							S.advances.push({ opt: '', detail: '', done: false });
+							S.shine = 0;
+							render();
+						});
+						d.appendChild(go);
+						d.appendChild(el('p', 'note dim', '會新增一次成長，並依規則把盟約閃耀點數歸零。'));
+					}
+
+					// 成長紀錄
+					S.advances.forEach((a, idx) => {
+						const isAdvanced = idx >= 5; // 第 6 次起為進階成長
+						const pool = advPool(isAdvanced);
+						const card = el('details', 'advcard' + (a.done ? ' done' : ''));
+						card.open = ADV_OPEN[idx] === undefined ? !a.done : ADV_OPEN[idx];
+						card.addEventListener('toggle', () => {
+							ADV_OPEN[idx] = card.open;
+						});
+						const head = el('summary', 'advhead');
+						head.appendChild(el('b', null, '第 ' + (idx + 1) + ' 次成長'));
+						head.appendChild(el('span', 'tagtype', isAdvanced ? '進階成長' : '基礎成長'));
+						if (a.opt) head.appendChild(el('span', 'advsum', a.opt));
+						const del = el('button', 'tiny');
+						del.type = 'button';
+						del.textContent = '✕';
+						del.title = '刪除這次成長';
+						del.addEventListener('click', (ev) => {
+							ev.preventDefault();
+							ev.stopPropagation();
+							S.advances.splice(idx, 1);
+							ADV_OPEN.splice(idx, 1);
+							const cleared = revalidateAdvances();
+							applyAdvances();
+							render();
+							if (cleared.length) {
+								toast('順序改變後不再合法，已清空請重選：' + cleared.join('、'));
+							}
+						});
+						head.appendChild(del);
+						card.appendChild(head);
+
+						// 選擇成長項目
+						const sel = el('select');
+						const ph = el('option', null, '── 選擇成長項目 ──');
+						ph.value = '';
+						sel.appendChild(ph);
+						pool.forEach((opt) => {
+							const used = advBoxUsed(opt.text, isAdvanced, idx);
+							const full = used >= opt.boxes;
+							const mine = a.opt === opt.text;
+							const block = advBlockReason(opt.text, idx);
+							const o = el('option', null,
+								opt.text + '（欄位 ' + opt.boxes + '・已用 ' + (used + (mine ? 1 : 0)) + '）' +
+								(full && !mine ? '　欄位已滿' : block ? '　' + block : ''));
+							o.value = opt.text;
+							o.disabled = (full || !!block) && !mine;
+							if (mine) o.selected = true;
+							sel.appendChild(o);
+						});
+						sel.disabled = !!a.done;
+						sel.addEventListener('change', () => {
+							a.opt = sel.value;
+							a.detail = '';
+							render();
+						});
+						card.appendChild(sel);
+
+						// 依成長項目給出對應的處理控制項
+						if (a.opt) {
+							const opt = a.opt;
+							const meta = pool.find((o) => o.text === opt);
+							if (meta && meta.desc) card.appendChild(el('p', 'advdesc', meta.desc));
+							const detailWrap = el('div', 'advdetail');
+							const setDetail = (v) => {
+								a.detail = v;
+								render();
+							};
+							const eff = (meta || {}).effect || 'other';
+							if (eff === 'attr2' || eff === 'attr3') {
+								const cap = eff === 'attr3' ? 3 : 2;
+								const fa = finalAttrs();
+								const row = el('div', 'pactrow');
+								ATTRS.forEach((k) => {
+									const full = fa[k] >= cap && a.detail !== k;
+									const b = el('button', 'pactbtn' + (a.detail === k ? ' on' : ''));
+									b.type = 'button';
+									b.disabled = !!a.done || full;
+									b.textContent = k + ' ' + sign(fa[k]) + (full ? '（已達上限）' : '');
+									b.addEventListener('click', () => setDetail(k));
+									row.appendChild(b);
+								});
+								detailWrap.appendChild(el('p', 'note dim', '選擇要 +1 的屬性（此項上限 ' + cap + '）'));
+								detailWrap.appendChild(row);
+							} else if (eff === 'advMove') {
+								const row = el('div', 'pactrow wrapy');
+								pb.advanceMoves.forEach((m, mi) => {
+									const taken = S.advMoves.includes(mi) && a.detail !== String(mi);
+									const b = el('button', 'pactbtn' + (a.detail === String(mi) ? ' on' : ''));
+									b.type = 'button';
+									b.disabled = !!a.done || taken;
+									b.textContent = m.name + (taken ? '（已取得）' : '');
+									b.addEventListener('click', () => setDetail(String(mi)));
+									row.appendChild(b);
+								});
+								detailWrap.appendChild(el('p', 'note dim', '選擇一個進階動作'));
+								detailWrap.appendChild(row);
+							} else if (eff === 'frMove') {
+								const fb = frBook();
+								if (!fb) {
+									detailWrap.appendChild(el('p', 'note warn', '請先在步驟 6 選擇友情扮演書'));
+								} else {
+									const row = el('div', 'pactrow wrapy');
+									fb.moves.forEach((m, mi) => {
+										const taken = S.frMoves.includes(mi) && a.detail !== String(mi);
+										const b = el('button', 'pactbtn' + (a.detail === String(mi) ? ' on' : ''));
+										b.type = 'button';
+										b.disabled = !!a.done || taken;
+										b.textContent = m.name + (taken ? '（已取得）' : '');
+										b.addEventListener('click', () => setDetail(String(mi)));
+										row.appendChild(b);
+									});
+									detailWrap.appendChild(el('p', 'note dim', fb.name + '：選擇一個動作'));
+									detailWrap.appendChild(row);
+								}
+							} else if (eff === 'super') {
+								const okPrereq = idx >= 2; // 需已有 2 次成長，最早第 3 次
+								detailWrap.appendChild(
+									el('p', 'note' + (okPrereq ? ' dim' : ' warn'),
+										okPrereq ? '完成後解鎖超級形態。' : '需先取得 2 次成長，最早可在第 3 次成長時選擇。')
+								);
+								if (okPrereq && !a.detail) a.detail = 'super';
+								if (!okPrereq) a.detail = '';
+							} else if (eff === 'triumph') {
+								detailWrap.appendChild(el('p', 'note dim', '完成後解鎖凱旋形態。'));
+								a.detail = 'triumph';
+							} else if (eff === 'sigExtra3') {
+								detailWrap.appendChild(
+									el('p', 'note dim', '完成後可在步驟 4 的' + pb.signatureName + '再選 3 個選項。')
+								);
+								if (!a.detail) a.detail = 'sig3';
+							} else if (eff === 'sigChoice') {
+								detailWrap.appendChild(
+									el('p', 'note dim', '完成後可在步驟 4 的' + pb.signatureName + '再選 1 項當初沒選的動作。')
+								);
+								if (!a.detail) a.detail = 'sigMore';
+							} else {
+								if (!a.detail) a.detail = 'ok';
+							}
+							card.appendChild(detailWrap);
+						}
+
+						// 完成勾選：未填妥處理項目不能完成
+						const doneRow = el('label', 'check inline');
+						const cb = el('input');
+						cb.type = 'checkbox';
+						cb.checked = !!a.done;
+						cb.disabled = !a.opt || !a.detail;
+						cb.addEventListener('change', () => {
+							a.done = cb.checked;
+							applyAdvances();
+							render();
+						});
+						doneRow.appendChild(cb);
+						doneRow.appendChild(
+							el('span', null, a.done ? '已完成處理' : !a.opt ? '請先選擇成長項目' : !a.detail ? '請完成上方處理項目' : '標記為已完成')
+						);
+						card.appendChild(doneRow);
+						d.appendChild(card);
+					});
+
+					const pending = S.advances.some((a) => !a.done);
+					const nextAdvanced = S.advances.length >= 5;
+					const nextPool = advPool(nextAdvanced);
+					const poolFull = nextPool.every(
+						(o) => advBoxUsed(o.text, nextAdvanced, -1) >= o.boxes
+					);
+					const add = el('button', 'small');
+					add.type = 'button';
+					add.textContent = '＋ 新增一次成長';
+					add.disabled = pending || poolFull;
+					add.title = pending ? '請先完成上一次成長的處理項目' : poolFull ? '此類成長的欄位已全部勾選' : '';
+					add.addEventListener('click', () => {
+						ADV_OPEN[S.advances.length] = true;
+						S.advances.push({ opt: '', detail: '', done: false });
+						render();
+					});
+					d.appendChild(add);
+					if (pending) d.appendChild(el('p', 'note warn', '上一次成長尚未處理完成，無法再升下一級。'));
+					else if (poolFull)
+						d.appendChild(
+							el('p', 'note warn', (nextAdvanced ? '進階成長' : '基礎成長') + '的欄位已全部勾選，無法再選擇。')
+						);
+
+					// 成長欄位總覽（對應官方扮演書上的 ○ 欄位）
+					d.appendChild(el('p', 'note', '成長欄位（填滿＝已勾選）'));
+					d.appendChild(advBoxTable());
+
+					// 目前已取得的進階動作一覽（唯讀，由成長流程產生）
+					if (S.advMoves.length) {
+						d.appendChild(el('p', 'note', '已取得的' + pb.name + '進階動作'));
+						const ul3 = el('ul', 'rules');
+						S.advMoves.forEach((i) => pb.advanceMoves[i] && ul3.appendChild(el('li', null, pb.advanceMoves[i].name)));
+						d.appendChild(ul3);
+					}
+					root.appendChild(d);
+				}
+
+				// 9. 狀態
+				{
+					const d = section('9・狀態與後果');
+					const g = el('div', 'fgrid');
+					g.appendChild(field('光點', numInput('light', 0, 20)));
+					g.appendChild(field('暗點', numInput('tenebrae', 0, 5)));
+					g.appendChild(field('友情點數', numInput('amity', 0, 10)));
+					g.appendChild(field('黑暗點數', numInput('dark', 0, 20)));
+					g.appendChild(field('黑暗等級', numInput('darkLv', 0, 5)));
+					if (romBook()) g.appendChild(field('戀愛等級', numInput('romLv', 0, 5)));
+					if (S.pb === '鬥士') g.appendChild(field('活力', numInput('impetus', 0, 20)));
+					if (S.pb === '偶像') g.appendChild(field('人氣值', numInput('popularity', 0, popularityMax())));
+					d.appendChild(g);
+					d.appendChild(
+						el('p', 'note dim',
+							'暗點與光點互相抵銷，上限 5；場景結束或脫下光之裝束時減少 1 點。友情點數上限 10，歸零會觸發阿特洛波斯之禍。')
+					);
+					if (S.light > 0 && S.tenebrae > 0) {
+						d.appendChild(el('p', 'note warn', '光點與暗點不會同時存在，請依規則互相抵銷。'));
+					}
+					d.appendChild(el('p', 'note', '後果'));
+					d.appendChild(el('p', 'note dim', consAbsorbNote()));
+					const box = el('div', 'checklist');
+					pb.consequences.concat(['落敗']).forEach((c, i) => {
+						const info = (RULES.consequenceInfo || {})[c] || {};
+						const row = el('label', 'check');
+						const cb = el('input');
+						cb.type = 'checkbox';
+						cb.checked = (S.cons || []).includes(i);
+						cb.addEventListener('change', () => {
+							S.cons = S.cons || [];
+							if (cb.checked) S.cons.push(i);
+							else S.cons = S.cons.filter((x) => x !== i);
+							render();
+						});
+						row.appendChild(cb);
+						const body = el('span', 'ctext');
+						body.appendChild(el('b', null, c + (info.attribute ? '（' + info.attribute + ' -2）' : '')));
+						if (info.text) body.appendChild(el('span', 'cdesc', clean(info.text)));
+						row.appendChild(body);
+						box.appendChild(row);
+					});
+					d.appendChild(box);
+					const marked = (S.cons || [])
+						.map((i) => pb.consequences.concat(['落敗'])[i])
+						.filter(Boolean);
+					if (marked.length) {
+						const penal = marked
+							.map((c) => ((RULES.consequenceInfo || {})[c] || {}).attribute)
+							.filter(Boolean);
+						d.appendChild(
+							el('p', 'note warn',
+								'目前受影響的屬性：' + (penal.length ? penal.map((k) => k + ' -2').join('、') : '無') +
+								(marked.includes('落敗') ? '；落敗：無法繼續行動，場景結束後自動取消並執行「失去光明」。' : ''))
+						);
+					}
+					const ta = el('textarea');
+					ta.rows = 3;
+					ta.placeholder = '羈絆與角色介紹……';
+					ta.value = S.bonds || '';
+					ta.addEventListener('input', () => {
+						S.bonds = ta.value;
+						renderSheet();
+						syncURL();
+					});
+					d.appendChild(field('羈絆／備註', ta));
+					root.appendChild(d);
+				}
+			}
+
+			// ========== 角色卡預覽（A4） ==========
+			function sheetBlock(title, nodes) {
+				const b = el('div', 'blk');
+				b.appendChild(el('h3', null, title));
+				nodes.forEach((n) => b.appendChild(n));
+				return b;
+			}
+			function kv(k, v) {
+				const r = el('div', 'kv');
+				r.appendChild(el('span', 'k', k));
+				r.appendChild(el('span', 'v', v || '—'));
+				return r;
+			}
+			// checks 為布林陣列時，每一項前方加上方框（勾選者填滿），方便實體桌面對照
+			function moveList(items, checks) {
+				const ul = el('ul', 'mlist');
+				items.forEach((m, i) => {
+					const li = el('li');
+					const b = el('b');
+					if (checks) b.appendChild(boxRow(1, checks[i] ? 1 : 0));
+					b.appendChild(el('span', 'mname', m.name));
+					li.appendChild(b);
+					if (m.text) li.appendChild(el('span', null, clean(m.text)));
+					if (m.table) li.appendChild(tableNode(m.table, 'minitable sheet'));
+					ul.appendChild(li);
+				});
+				return ul;
+			}
+
+			function renderSheet() {
+				const root = $('#sheet');
+				root.textContent = '';
+				const pb = playbook();
+				if (!pb) {
+					const empty = el('div', 'page empty');
+					empty.appendChild(el('p', null, '選擇一本原型扮演書後，這裡會即時顯示角色卡。'));
+					root.appendChild(empty);
+					return;
+				}
+				const fa = finalAttrs();
+
+				// ---- 第 1 頁 ----
+				const p1 = el('div', 'page');
+				const head = el('header', 'shead');
+				const hl = el('div');
+				hl.appendChild(el('h2', null, S.name || '未命名魔法少女'));
+				hl.appendChild(el('p', 'stitle2', S.title || '（尚未取稱號）'));
+				head.appendChild(hl);
+				const hr = el('div', 'pbtag');
+				hr.appendChild(el('b', null, pb.name));
+				hr.appendChild(el('span', null, S.pact || '未定盟約'));
+				head.appendChild(hr);
+				p1.appendChild(head);
+
+				const pen = consPenalty();
+				const ascMap = S.ascension || {};
+				const sParts = attrParts();
+				const attrRow = el('div', 'sattrs');
+				ATTRS.forEach((k) => {
+					const c = el('div', 'sattr' + (pen[k] ? ' penal' : ''));
+					c.appendChild(el('span', null, k));
+					c.appendChild(el('b', null, sign(fa[k])));
+					const from = [];
+					if (sParts[k].adv) from.push('成長 ' + sign(sParts[k].adv));
+					if (sParts[k].dark) from.push(sParts[k].darkFrom.join('、') + ' ' + sign(sParts[k].dark));
+					if (from.length) c.appendChild(el('span', 'srcnote', from.join('／')));
+					if (ascMap[k]) c.appendChild(el('span', 'bonus', '昇華 +' + ascMap[k] + '（擲骰）'));
+					if (pen[k]) c.appendChild(el('span', 'penalty', '後果 -2 → ' + sign(fa[k] + pen[k])));
+					attrRow.appendChild(c);
+				});
+				p1.appendChild(attrRow);
+
+				const info = el('div', 'cols2');
+				const c1 = el('div');
+				c1.appendChild(kv('生活型態', S.life));
+				c1.appendChild(kv('年齡', S.age));
+				c1.appendChild(kv('星座', S.zodiac));
+				c1.appendChild(kv('血型', S.blood));
+				const c2 = el('div');
+				c2.appendChild(kv('主題', S.theme));
+				c2.appendChild(kv('色彩', S.color));
+				c2.appendChild(kv('護符', S.talisman));
+				c2.appendChild(kv('最珍貴的寶物', S.treasure));
+				info.appendChild(c1);
+				info.appendChild(c2);
+				p1.appendChild(sheetBlock('個人資料與變身', [info]));
+
+				// 盟約與扮演書（即使沒有勾選動作也一定出現在列印內容中）
+				const books = el('div', 'cols2');
+				const bl = el('div');
+				bl.appendChild(kv('盟約', S.pact));
+				const fbSheet = frBook();
+				bl.appendChild(kv('友情扮演書', fbSheet ? fbSheet.name : ''));
+				const br = el('div');
+				const rbSheet = romBook();
+				br.appendChild(kv('戀愛扮演書', rbSheet ? rbSheet.name : ''));
+				br.appendChild(kv('成長次數', String(S.advances.filter((a) => a.done).length)));
+				books.appendChild(bl);
+				books.appendChild(br);
+				const bookExtras = [books];
+				if (fbSheet && fbSheet.tags) bookExtras.push(el('p', 'tiny-note', '友情標籤：' + fbSheet.tags));
+				p1.appendChild(sheetBlock('盟約與扮演書', bookExtras));
+
+				// 能力量表：可能被取代（如偶像黑暗動作「黑暗女神」）或多一個額外形態（如「契約形態」）
+				const lv = luxView();
+				const tbl = el('table', 'lux');
+				const thead = el('thead');
+				const htr = el('tr');
+				const tb = el('tbody');
+				const extraByLevel = {};
+				if (lv.extra) (lv.extra.formTable || []).forEach((r) => (extraByLevel[r.level] = r.effect));
+
+				if (lv.replace) {
+					// 整張量表被取代：直接照原表輸出
+					lv.replace.table.headers.forEach((h) => htr.appendChild(el('th', null, h)));
+					if (lv.extra) htr.appendChild(el('th', null, lv.extra.name));
+					lv.replace.table.rows.forEach((r) => {
+						const lvNum = parseInt(r[0], 10);
+						const tr = el('tr', S.power >= lvNum ? 'on' : '');
+						r.forEach((c, ci) => {
+							const lock = (ci === 2 && !S.superForm) || (ci === 3 && !S.triumphForm);
+							tr.appendChild(el('td', lock ? 'lock' : '', c || '—'));
+						});
+						if (lv.extra) tr.appendChild(el('td', null, extraByLevel[lvNum] || '—'));
+						tb.appendChild(tr);
+					});
+				} else {
+					const heads = ['等級', '基礎形態', '超級形態', '凱旋形態'];
+					if (lv.extra) heads.push(lv.extra.name);
+					heads.forEach((h) => htr.appendChild(el('th', null, h)));
+					lv.rows.forEach((r) => {
+						const tr = el('tr', S.power >= r.level ? 'on' : '');
+						tr.appendChild(el('td', null, String(r.level)));
+						tr.appendChild(el('td', null, r.basic));
+						tr.appendChild(el('td', S.superForm ? '' : 'lock', r.super || '—'));
+						tr.appendChild(el('td', S.triumphForm ? '' : 'lock', r.triumph || '—'));
+						if (lv.extra) tr.appendChild(el('td', null, extraByLevel[r.level] || '—'));
+						tb.appendChild(tr);
+					});
+				}
+				thead.appendChild(htr);
+				tbl.appendChild(thead);
+				tbl.appendChild(tb);
+				const luxNote = el('p', 'tiny-note',
+					'能力等級 ' + S.power +
+					'　超級形態：' + (S.superForm ? '已解鎖' : '未解鎖') +
+					'　凱旋形態：' + (S.triumphForm ? '已解鎖' : '未解鎖') +
+					(lv.extra ? '　' + lv.extra.name + '：已取得' : '') +
+					(lv.replace ? '　※ 量表已由「' + lv.replace.name + '」取代，使用暗點計算等級' : ''));
+				p1.appendChild(
+					sheetBlock('光之裝束・能力量表', [tbl, luxNote, powerSummary(true), el('p', 'tiny-note', '目前解鎖的力量（變身後基礎為懲罰 1、摧毀 0，各形態與各等級累加）')])
+				);
+
+				const hearts = (S.hearts || []).filter((h) => h.name || h.effect || h.rule);
+				if (hearts.length) {
+					p1.appendChild(
+						sheetBlock('心之力', [
+							moveList(
+								hearts.map((h) => ({
+									name: '（' + h.cat + '）' + (h.name || '未命名'),
+									text: [h.rule, h.effect].filter(Boolean).join('\n'),
+								}))
+							),
+						])
+					);
+				}
+
+				// 狀態
+				const st = el('div', 'status');
+				st.appendChild(kv('光點', String(S.light)));
+				st.appendChild(kv('暗點', S.tenebrae + ' / 5'));
+				st.appendChild(kv('友情點數', S.amity + ' / 10'));
+				st.appendChild(kv('黑暗點數', String(S.dark)));
+				st.appendChild(kv('黑暗等級', String(S.darkLv)));
+				st.appendChild(kv('閃耀點數', S.shine + ' / ' + ((S.players || 4) + doneAdvCount())));
+				if (romBook()) st.appendChild(kv('戀愛等級', S.romLv + ' / 5'));
+				if (S.pb === '鬥士') st.appendChild(kv('活力', String(S.impetus)));
+				if (S.pb === '偶像') st.appendChild(kv('人氣值', S.popularity + ' / ' + popularityMax()));
+				const consAll = pb.consequences.concat(['落敗']);
+				const cbox = el('div', 'cons');
+				consAll.forEach((c, i) => {
+					const on = (S.cons || []).includes(i);
+					const info = (RULES.consequenceInfo || {})[c] || {};
+					const t = el('span', 'consitem' + (on ? ' on' : ''));
+					t.appendChild(boxRow(1, on ? 1 : 0));
+					t.appendChild(el('span', null, c + (info.attribute ? '（' + info.attribute + ' -2）' : '')));
+					cbox.appendChild(t);
+				});
+				p1.appendChild(
+					sheetBlock('狀態', [
+						st,
+						cbox,
+						el('p', 'tiny-note', consAbsorbNote()),
+					])
+				);
+
+				if (S.bonds) p1.appendChild(sheetBlock('羈絆與備註', [el('p', 'freetext', S.bonds)]));
+				root.appendChild(p1);
+
+				// ---- 第 2 頁：動作 ----
+				const p2 = el('div', 'page');
+				p2.appendChild(el('h2', 'pagetitle', (S.name || '角色') + '・動作一覽'));
+
+				// 所有可勾選的選項都完整列出，前方方框標示是否已選，方便實體桌面對照
+				const picked = (list) => (items) => items.map((_, i) => list.includes(i));
+
+				const sig = pb.signature;
+				const sigNodes = [];
+				if ((sig.granted || []).length) {
+					sigNodes.push(el('p', 'tiny-note', '自動獲得'));
+					sigNodes.push(moveList(sig.granted, sig.granted.map(() => true)));
+				}
+				const embedded = (sig.granted || []).find((m) => (m.options || []).length);
+				const sigPool =
+					sig.mode === 'options' ? sig.options : (sig.chooseFrom || []).length ? sig.chooseFrom : embedded ? embedded.options : [];
+				if ((sigPool || []).length) {
+					const total =
+						(embedded ? embedded.chooseCount || 0 : sig.chooseCount || 0) +
+						(S.sigExtra || 0) + (S.sigMore || 0);
+					sigNodes.push(
+						el('p', 'tiny-note', '可選 ' + total + ' 項　已選 ' + S.sig.length + ' 項')
+					);
+					sigNodes.push(moveList(sigPool, picked(S.sig)(sigPool)));
+				}
+				if (sigNodes.length) p2.appendChild(sheetBlock(pb.signatureName, sigNodes));
+
+				p2.appendChild(
+					sheetBlock(pb.name + '進階動作', [
+						moveList(pb.advanceMoves, picked(S.advMoves)(pb.advanceMoves)),
+					])
+				);
+
+				const pc = pact();
+				if (pc) {
+					if ((pc.advantages || []).length) {
+						p2.appendChild(
+							sheetBlock(pc.name + '・盟約優勢', [
+								moveList(
+									pc.advantages.map((a) => ({ name: a.name, text: a.text, table: a.table })),
+									picked(S.pactAdv || [])(pc.advantages)
+								),
+							])
+						);
+					}
+					if ((pc.moves || []).length) {
+						p2.appendChild(
+							sheetBlock(pc.name + '・盟約動作', [moveList(pc.moves, picked(S.pactMoves)(pc.moves))])
+						);
+					}
+					if ((pc.coopMoves || []).length) {
+						p2.appendChild(
+							sheetBlock(pc.name + '・合作動作', [
+								el('p', 'tiny-note', '勾選者為因黑暗等級而無法再觸發的動作'),
+								moveList(pc.coopMoves, picked(S.lostCoop || [])(pc.coopMoves)),
+							])
+						);
+					}
+					const dmList = (pc.darkMoves || {})[S.pb] || [];
+					if (dmList.length) {
+						p2.appendChild(
+							sheetBlock(S.pb + '黑暗動作', [moveList(dmList, picked(S.darkMoves || [])(dmList))])
+						);
+					}
+				}
+				const fb = frBook();
+				const frAll = effFrMoves();
+				if (fb) {
+					p2.appendChild(
+						sheetBlock('友情・' + fb.name, [moveList(fb.moves, picked(frAll)(fb.moves))])
+					);
+				}
+				const rb = romBook();
+				if (rb) {
+					const romNodes = [el('p', 'tiny-note', '戀愛扮演書的動作全部自動獲得（戀愛等級 ' + (S.romLv || 0) + '）')];
+					if ((rb.levels || []).length) romNodes.push(romLevelTable(rb, 'sheet'));
+					romNodes.push(moveList(rb.moves, rb.moves.map(() => true)));
+					p2.appendChild(sheetBlock('戀愛・' + rb.name, romNodes));
+				}
+
+				const doneAdv = S.advances.map((a, i) => ({ a, i })).filter((x) => x.a.done);
+				if (doneAdv.length) {
+					const ul = el('ul', 'mlist compact');
+					doneAdv.forEach(({ a, i }) => {
+						const li = el('li');
+						let detail = '';
+						switch (advEffect(a.opt, i)) {
+							case 'attr2':
+							case 'attr3':
+								detail = a.detail + ' +1';
+								break;
+							case 'advMove':
+								detail = (pb.advanceMoves[a.detail] || {}).name || '';
+								break;
+							case 'frMove': {
+								const fbx = frBook();
+								detail = fbx ? (fbx.moves[a.detail] || {}).name || '' : '';
+								break;
+							}
+							case 'super':
+								detail = '超級形態';
+								break;
+							case 'triumph':
+								detail = '凱旋形態';
+								break;
+							case 'sigExtra3':
+								detail = pb.signatureName + '額外三個選項';
+								break;
+							case 'sigChoice':
+								detail = pb.signatureName + '再選一項';
+								break;
+						}
+						li.appendChild(el('b', null, '第 ' + (i + 1) + ' 次：' + a.opt));
+						if (detail) li.appendChild(el('span', null, detail));
+						ul.appendChild(li);
+					});
+					p2.appendChild(sheetBlock('成長紀錄', [ul]));
+				}
+				p2.appendChild(sheetBlock('成長欄位', [advBoxTable('advboxes sheet')]));
+
+				const consInfo = pb.consequences.concat(['落敗']).map((c) => {
+					const info = (RULES.consequenceInfo || {})[c] || {};
+					return { name: c + (info.attribute ? '（' + info.attribute + ' -2）' : ''), text: info.text || '' };
+				});
+				p2.appendChild(
+					sheetBlock('後果', [
+						moveList(consInfo, pb.consequences.concat(['落敗']).map((_, i) => (S.cons || []).includes(i))),
+					])
+				);
+
+				const basics = el('ul', 'mlist compact');
+				const attrLabel = (a) => (a === '屬性' ? '視情況決定的屬性' : a);
+				RULES.basicMoves.forEach((m) => {
+					const li = el('li');
+					li.appendChild(el('b', null, m.name + (m.attribute ? '（+' + attrLabel(m.attribute) + '）' : '')));
+					if (m.trigger) li.appendChild(el('span', null, m.trigger));
+					basics.appendChild(li);
+				});
+				p2.appendChild(sheetBlock('基礎動作（全角色共通）', [basics]));
+				root.appendChild(p2);
+			}
+
+			function render() {
+				syncPowerLevel();
+				applyAdvances();
+				trimSelections();
+				renderBuilder();
+				renderSheet();
+				syncURL();
+			}
+
+			// ========== 匯出／匯入／分享／列印 ==========
+			$('#btn-export').addEventListener('click', () => {
+				const blob = new Blob([JSON.stringify(S, null, 2)], { type: 'application/json' });
+				const a = el('a');
+				a.href = URL.createObjectURL(blob);
+				a.download = (S.name || 'maho-shojo') + '.json';
+				a.click();
+				setTimeout(() => URL.revokeObjectURL(a.href), 1000);
+				toast('已匯出 JSON');
+			});
+			$('#btn-import').addEventListener('click', () => $('#file-input').click());
+			$('#file-input').addEventListener('change', async (e) => {
+				const f = e.target.files && e.target.files[0];
+				if (!f) return;
+				try {
+					const obj = JSON.parse(await f.text());
+					S = Object.assign(structuredClone(BLANK), obj);
+					ADV_OPEN = [];
+					render();
+					toast('已匯入 ' + f.name);
+				} catch (err) {
+					toast('匯入失敗：不是有效的角色 JSON');
+				}
+				e.target.value = '';
+			});
+			$('#btn-share').addEventListener('click', async () => {
+				try {
+					const code = await encodeState();
+					const url = location.origin + location.pathname + '#c=' + code;
+					history.replaceState(null, '', '#c=' + code);
+					await navigator.clipboard.writeText(url);
+					toast('已複製分享網址（' + url.length + ' 字元）');
+				} catch (err) {
+					toast('複製失敗，請手動複製網址列');
+				}
+			});
+			// window.print() 會同步阻塞，直接寫在事件處理內會被計入 INP；改為讓瀏覽器先完成這一幀
+			$('#btn-print').addEventListener('click', () => {
+				requestAnimationFrame(() => setTimeout(() => window.print(), 0));
+			});
+			$('#btn-reset').addEventListener('click', () => {
+				if (!confirm('確定要清空目前的角色卡？')) return;
+				S = structuredClone(BLANK);
+				ADV_OPEN = [];
+				history.replaceState(null, '', location.pathname);
+				render();
+			});
+
+			// ========== 初始化：讀取網址中的角色 ==========
+			(async () => {
+				const m = location.hash.match(/[#&]c=([^&]+)/);
+				if (m) {
+					try {
+						S = Object.assign(structuredClone(BLANK), await decodeState(m[1]));
+						ADV_OPEN = [];
+					} catch (e) {
+						toast('網址中的角色資料無法解讀，已開新卡');
+					}
+				}
+				render();
+			})();
+		</script>
+
+		<style is:global>
+			:root {
+				--night: #12102a;
+				--night-2: #1d1640;
+				--panel: #241b4a;
+				--star: #ffd98a;
+				--ink: #f4eefe;
+				--ink-dim: #b9aed6;
+				--line: #3b2f68;
+				--accent: #d066c0;
+			}
+			* { margin: 0; padding: 0; box-sizing: border-box; }
+			body {
+				min-height: 100%;
+				background: radial-gradient(ellipse at 50% -10%, #241b4a, var(--night) 60%);
+				color: var(--ink);
+				font-family: 'Segoe UI', 'Noto Sans TC', 'Microsoft JhengHei', system-ui, sans-serif;
+				line-height: 1.7;
+			}
+			button, input, select, textarea { font: inherit; color: inherit; }
+
+			/* ---- 頂列 ---- */
+			.topbar {
+				position: sticky; top: 0; z-index: 20;
+				display: flex; flex-wrap: wrap; gap: .75rem;
+				align-items: center; justify-content: space-between;
+				padding: .7rem 1.1rem;
+				background: rgba(18, 16, 42, .92);
+				border-bottom: 1px solid var(--line);
+				backdrop-filter: blur(6px);
+			}
+			.brand { display: flex; align-items: baseline; gap: .6rem; }
+			.brand .home { color: var(--star); text-decoration: none; font-size: 1.2rem; }
+			.brand h1 { font-size: 1.15rem; letter-spacing: .04em; }
+			.brand .sub { color: var(--ink-dim); font-size: .8rem; }
+			.tools { display: flex; flex-wrap: wrap; gap: .4rem; }
+			.tools button {
+				padding: .35rem .8rem; border-radius: 999px; cursor: pointer;
+				border: 1px solid var(--line); background: #1b1638; color: var(--ink);
+				transition: background .15s, border-color .15s;
+			}
+			.tools button:hover { background: #2a2154; border-color: var(--accent); }
+			.tools button.primary { background: var(--accent); border-color: var(--accent); color: #1a0f22; font-weight: 600; }
+			.tools button.ghost { color: var(--ink-dim); }
+
+			.toast {
+				position: fixed; left: 50%; bottom: 1.4rem; transform: translateX(-50%) translateY(1rem);
+				padding: .5rem 1rem; border-radius: 999px; z-index: 50;
+				background: #2a2154; border: 1px solid var(--accent);
+				opacity: 0; pointer-events: none; transition: opacity .2s, transform .2s;
+			}
+			.toast.show { opacity: 1; transform: translateX(-50%) translateY(0); }
+
+			/* ---- 版面 ---- */
+			.wrap {
+				display: grid; gap: 1.1rem;
+				grid-template-columns: minmax(320px, 1fr) minmax(320px, 1fr);
+				align-items: start;
+				padding: 1.1rem; max-width: 1500px; margin: 0 auto;
+			}
+			@media (max-width: 960px) { .wrap { grid-template-columns: 1fr; } }
+
+			.builder { display: flex; flex-direction: column; gap: .7rem; }
+			.step {
+				border: 1px solid var(--line); border-radius: 12px;
+				background: rgba(36, 27, 74, .55); overflow: hidden;
+			}
+			.step > summary {
+				cursor: pointer; padding: .6rem .9rem; display: flex; gap: .6rem;
+				align-items: baseline; background: rgba(45, 34, 92, .6);
+			}
+			.step > summary::marker { color: var(--star); }
+			.stitle { font-weight: 600; letter-spacing: .03em; }
+			.shint { color: var(--ink-dim); font-size: .8rem; }
+			.step > *:not(summary) { margin: .55rem .9rem; }
+			.step > *:last-child { margin-bottom: .9rem; }
+
+			.note { color: var(--ink-dim); font-size: .85rem; }
+			.note.dim { opacity: .75; font-size: .8rem; }
+			ul.rules { margin-left: 2rem; color: var(--ink-dim); font-size: .85rem; }
+
+			.fgrid { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: .5rem .7rem; }
+			.field { display: flex; flex-direction: column; gap: .2rem; }
+			.flabel { font-size: .78rem; color: var(--ink-dim); letter-spacing: .05em; }
+			.field input, .field select, .field textarea, .heartrow input, .heartrow select {
+				width: 100%; padding: .35rem .55rem; border-radius: 8px;
+				border: 1px solid var(--line); background: #171233;
+			}
+			.field input:focus, .field textarea:focus { outline: 2px solid var(--accent); }
+			.combo { display: block; }
+			.combo input { width: 100%; padding: .35rem .55rem; border-radius: 8px; border: 1px solid var(--line); background: #171233; }
+			input.num { max-width: 6rem; }
+
+			.pbgrid { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: .5rem; }
+			.pbcard {
+				display: flex; flex-direction: column; gap: .15rem; text-align: left;
+				padding: .55rem .7rem; border-radius: 10px; cursor: pointer;
+				border: 1px solid var(--line); background: #1b1638; color: var(--ink);
+			}
+			.pbcard:hover { border-color: var(--accent); }
+			.pbcard.on { border-color: var(--star); background: #2c2258; box-shadow: 0 0 0 1px var(--star) inset; }
+			.pbcard b { font-size: 1rem; }
+			.pbmove { color: var(--star); font-size: .78rem; }
+			.pbdesc { color: var(--ink-dim); font-size: .74rem; line-height: 1.5; }
+
+			.setrow, .pactrow { display: flex; gap: .45rem; flex-wrap: wrap; }
+			.setbtn, .pactbtn {
+				padding: .4rem .7rem; border-radius: 10px; cursor: pointer; text-align: left;
+				border: 1px solid var(--line); background: #1b1638; color: var(--ink); font-size: .85rem;
+			}
+			.setbtn b { display: block; }
+			.setbtn.on, .pactbtn.on { border-color: var(--star); background: #2c2258; }
+
+			.attrrow { display: grid; grid-template-columns: repeat(5, 1fr); gap: .4rem; }
+			.attrcell {
+				display: flex; flex-direction: column; align-items: center; gap: .1rem;
+				padding: .4rem .2rem; border: 1px solid var(--line); border-radius: 10px; background: #171233;
+			}
+			.akey { font-size: .78rem; color: var(--ink-dim); }
+			.asrc { display: flex; flex-wrap: wrap; gap: .18rem; justify-content: center; margin: .15rem 0; }
+			.asrc .tag {
+				font-size: .62rem; padding: .02rem .3rem; border-radius: 999px;
+				border: 1px solid currentColor; white-space: nowrap;
+			}
+			.asrc .tag.adv { color: #8ce0b0; }
+			.asrc .tag.dark { color: #c98ce0; }
+			.asrc .tag.asc { color: var(--star); }
+			.aval { font-size: 1.35rem; color: var(--star); }
+			.actrl { display: flex; gap: .2rem; }
+			button.tiny {
+				width: 1.5rem; height: 1.5rem; line-height: 1; cursor: pointer;
+				border-radius: 6px; border: 1px solid var(--line); background: #221b45; color: var(--ink);
+			}
+			button.tiny:hover { border-color: var(--accent); }
+			button.small {
+				padding: .3rem .7rem; border-radius: 8px; cursor: pointer;
+				border: 1px solid var(--line); background: #221b45; color: var(--ink); font-size: .85rem;
+			}
+			.chips { display: flex; gap: .35rem; flex-wrap: wrap; }
+			.chip {
+				padding: .15rem .55rem; border-radius: 999px; cursor: pointer; font-size: .78rem;
+				border: 1px solid var(--accent); background: #2a2154; color: var(--ink);
+			}
+
+			.checklist { display: flex; flex-direction: column; gap: .35rem; }
+			.checklist.compact { flex-direction: row; flex-wrap: wrap; gap: .5rem 1rem; }
+			.check { display: flex; gap: .5rem; align-items: flex-start; cursor: pointer; }
+			.check.inline { align-items: center; }
+			.check input { margin-top: .45rem; accent-color: var(--accent); }
+			.ctext { display: flex; flex-direction: column; }
+			.ctext b { font-size: .9rem; }
+			.cdesc { color: var(--ink-dim); font-size: .8rem; line-height: 1.6; }
+			.granted { border-left: 2px solid var(--star); padding-left: .6rem; }
+			.granted b { font-size: .9rem; }
+			.granted p { color: var(--ink-dim); font-size: .82rem; white-space: pre-line; }
+
+			table.minitable { width: 100%; border-collapse: collapse; font-size: .78rem; margin-top: .3rem; }
+			table.minitable th, table.minitable td {
+				border: 1px solid var(--line); padding: .12rem .4rem; text-align: center;
+			}
+			table.minitable th { background: rgba(45, 34, 92, .8); color: var(--star); font-weight: 500; }
+			table.minitable.sheet { font-size: 8.5pt; color: #43385e; }
+			table.minitable.sheet th, table.minitable.sheet td { border-color: #ddd2f2; }
+			table.minitable.sheet th { background: #efe8fb; color: #55366e; }
+			table.minitable tr.on td { background: rgba(255, 217, 138, .16); color: var(--star); }
+			table.minitable.sheet tr.on td { background: #fbf3ff; color: #4a2a6b; font-weight: 600; }
+			.note.ok { color: #8ce0b0; }
+			.note.warn { color: #ffb3c7; }
+
+			.advboxes { display: grid; grid-template-columns: 1fr 1fr; gap: .6rem; margin-top: .25rem; }
+			.advboxes > .advboxcol > b { font-size: .8rem; color: var(--star); }
+			ul.advboxlist { list-style: none; margin-top: .25rem; display: flex; flex-direction: column; gap: .18rem; }
+			ul.advboxlist li { display: flex; gap: .35rem; font-size: .78rem; color: var(--ink-dim); }
+			ul.advboxlist li.full { opacity: .5; text-decoration: line-through; }
+			label.check.lost .ctext b { text-decoration: line-through; opacity: .65; }
+			.sattr .penalty { display: block; font-size: 7.5pt; color: #b02a5b; }
+			.sattr .bonus { display: block; font-size: 7.5pt; color: #2f7a55; }
+			.sattr .srcnote { display: block; font-size: 7.5pt; color: #6b4a9c; }
+			.pwwrap { margin-top: .35rem; }
+			.attrrow.pw .attrcell.off, .sattrs.pw .sattr.off { opacity: .45; }
+			.sattrs.pw { margin-bottom: .35rem; }
+			.pwtags { display: flex; flex-wrap: wrap; gap: .3rem; margin-top: .35rem; }
+			.pill {
+				border: 1px solid var(--star); border-radius: 999px;
+				padding: .08rem .55rem; font-size: .75rem; color: var(--star);
+			}
+			.pill.off { border-color: var(--line); color: var(--ink-dim); }
+			.pwwrap.sheet .pill { border-color: #9b7ac8; color: #4a2a6b; font-size: 8.5pt; }
+			.pwwrap.sheet .pill.off { border-color: #ddd2f2; color: #6b5f8c; }
+			.advdesc {
+				font-size: .78rem; color: var(--ink-dim); white-space: pre-line;
+				border-left: 2px solid var(--line); padding: .1rem .5rem; margin-top: .35rem;
+			}
+			.boxrow { display: inline-flex; gap: .16em; flex: 0 0 auto; align-items: center; height: 1.2em; }
+			.bx {
+				width: .62em; height: .62em; border: 1px solid currentColor;
+				border-radius: 2px; display: inline-block; box-sizing: border-box;
+			}
+			.bx.on {
+				background: currentColor;
+				-webkit-print-color-adjust: exact; print-color-adjust: exact;
+			}
+			ul.advboxlist .boxrow { color: var(--star); }
+			.advboxes.sheet > .advboxcol > b { font-size: 9.5pt; color: #4a2a6b; }
+			.advboxes.sheet ul.advboxlist li { font-size: 9pt; color: #43385e; }
+			.advboxes.sheet ul.advboxlist li.full { opacity: 1; text-decoration: none; }
+			.advboxes.sheet .boxrow, .blk .boxrow { color: #7a5aa8; }
+			.advcard {
+				border: 1px solid var(--line); border-left: 3px solid var(--accent);
+				border-radius: 10px; padding: .5rem .7rem; margin-bottom: .5rem;
+				background: rgba(23, 18, 51, .6); display: flex; flex-direction: column; gap: .4rem;
+			}
+			.advcard.done { border-left-color: #8ce0b0; opacity: .92; }
+			.advhead { display: flex; align-items: center; gap: .5rem; cursor: pointer; list-style: none; }
+			.advhead::-webkit-details-marker { display: none; }
+			.advhead::before {
+				content: '▸'; color: var(--star); font-size: .8rem; transition: transform .15s;
+			}
+			details.advcard[open] > .advhead::before { transform: rotate(90deg); }
+			.advsum {
+				font-size: .78rem; color: var(--ink-dim);
+				overflow: hidden; text-overflow: ellipsis; white-space: nowrap; max-width: 14em;
+			}
+			.advhead b { font-size: .9rem; }
+			.tagtype {
+				font-size: .72rem; padding: .05rem .5rem; border-radius: 999px;
+				border: 1px solid var(--line); color: var(--ink-dim);
+			}
+			.advhead .tiny { margin-left: auto; }
+			.advcard select {
+				width: 100%; padding: .3rem .5rem; border-radius: 8px;
+				border: 1px solid var(--line); background: #171233;
+			}
+			.advdetail { display: flex; flex-direction: column; gap: .3rem; }
+			.sublist { border: 1px dashed var(--line); border-radius: 10px; padding: .4rem .6rem; }
+			.sublist summary { cursor: pointer; color: var(--ink-dim); font-size: .85rem; }
+			button:disabled { opacity: .45; cursor: not-allowed; }
+
+			.heartitem { border-left: 2px solid var(--line); padding-left: .5rem; margin-bottom: .5rem; }
+			.heartrow { display: grid; grid-template-columns: 1fr 7rem 1.4fr auto; gap: .35rem; align-items: center; }
+			.heartrow input, .heartrow select { padding: .3rem .5rem; border-radius: 8px; border: 1px solid var(--line); background: #171233; }
+
+			/* ---- 角色卡 ---- */
+			.preview { position: sticky; top: 4rem; }
+			.sheet { display: flex; flex-direction: column; gap: 1rem; }
+			.page {
+				background: #fdfbff; color: #241b3f;
+				border-radius: 10px; padding: 12mm 10mm;
+				box-shadow: 0 10px 30px rgba(0, 0, 0, .4);
+				font-size: 10.5pt; line-height: 1.55;
+			}
+			.page.empty { color: #6b5f8c; text-align: center; padding: 4rem 1rem; }
+			.shead { display: flex; justify-content: space-between; align-items: flex-start; gap: 1rem;
+				border-bottom: 2px solid #d8cdf0; padding-bottom: .5rem; margin-bottom: .7rem; }
+			.shead h2 { font-size: 16pt; line-height: 1.3; }
+			.stitle2 { color: #7a4fa0; font-size: 10pt; }
+			.pbtag { text-align: right; }
+			.pbtag b { display: block; font-size: 12pt; color: #7a2f8f; }
+			.pbtag span { font-size: 9pt; color: #6b5f8c; }
+			.pagetitle { font-size: 13pt; border-bottom: 2px solid #d8cdf0; padding-bottom: .35rem; margin-bottom: .6rem; }
+
+			.sattrs { display: grid; grid-template-columns: repeat(5, 1fr); gap: .35rem; margin-bottom: .7rem; }
+			.sattr { text-align: center; border: 1px solid #d8cdf0; border-radius: 8px; padding: .25rem; }
+			.sattr span { display: block; font-size: 8.5pt; color: #6b5f8c; }
+			.sattr b { font-size: 14pt; color: #7a2f8f; }
+
+			.blk { margin-bottom: .7rem; break-inside: avoid; }
+			.blk h3 {
+				font-size: 10pt; letter-spacing: .08em; color: #7a2f8f;
+				border-bottom: 1px solid #e3daf5; margin-bottom: .3rem; padding-bottom: .1rem;
+			}
+			.cols2 { display: grid; grid-template-columns: 1fr 1fr; gap: 0 1rem; }
+			.kv { display: flex; gap: .4rem; font-size: 9.5pt; }
+			.kv .k { color: #6b5f8c; min-width: 5.5em; }
+			.kv .v { flex: 1; border-bottom: 1px dotted #cfc3e8; }
+			.status { display: grid; grid-template-columns: repeat(4, 1fr); gap: .3rem; }
+			.cons { display: flex; flex-wrap: wrap; gap: .3rem .8rem; margin-top: .3rem; font-size: 9.5pt; }
+			.consitem { display: inline-flex; align-items: center; gap: .3em; color: #6b5f8c; }
+			.consitem.on { color: #b02a5b; font-weight: 600; }
+			.freetext { white-space: pre-line; font-size: 9.5pt; }
+			.tiny-note { font-size: 8.5pt; color: #6b5f8c; margin-top: .2rem; }
+
+			table.lux { width: 100%; border-collapse: collapse; font-size: 9pt; }
+			table.lux th, table.lux td { border: 1px solid #ddd2f2; padding: .18rem .35rem; text-align: center; }
+			table.lux th { background: #efe8fb; color: #55366e; }
+			table.lux tr.on td { background: #fbf3ff; }
+			table.lux td.lock { color: #b3a8c9; }
+
+			ul.mlist { list-style: none; display: flex; flex-direction: column; gap: .3rem; }
+			ul.mlist li { break-inside: avoid; }
+			ul.mlist b { display: flex; align-items: center; gap: .35em; font-size: 9.5pt; color: #4a2a6b; }
+			ul.mlist b .mname { display: inline; font-size: inherit; color: inherit; }
+			ul.mlist span { display: block; font-size: 9pt; color: #43385e; white-space: pre-line; }
+			ul.mlist.compact span { color: #6b5f8c; }
+
+			.foot {
+				display: flex; justify-content: space-between; gap: 1rem; flex-wrap: wrap;
+				padding: 1rem 1.2rem 2rem; color: var(--ink-dim); font-size: .8rem;
+			}
+			.foot a { color: var(--star); }
+
+			/* ---- 列印：A4，可多頁 ---- */
+			@page { size: A4; margin: 12mm; }
+			@media print {
+				body { background: #fff; color: #000; }
+				/* 勾選方框、量表底色等都必須照樣印出來，否則紙本看不出勾了什麼 */
+				.bx, .bx.on, .lux tr.on td, .minitable tr.on td, .consitem {
+					-webkit-print-color-adjust: exact; print-color-adjust: exact;
+				}
+				.no-print, .topbar, .foot, .toast { display: none !important; }
+				.wrap { display: block; padding: 0; max-width: none; }
+				.preview { position: static; }
+				.sheet { gap: 0; }
+				.page {
+					box-shadow: none; border-radius: 0; padding: 0;
+					background: #fff; break-after: page; page-break-after: always;
+				}
+				.page:last-child { break-after: auto; page-break-after: auto; }
+			}
+		</style>
+	</body>
+</html>
