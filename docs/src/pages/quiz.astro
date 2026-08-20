@@ -10,9 +10,11 @@
 //   1. 兩邊都先減去各自平均再取餘弦（＝皮爾森相關），只看相對偏重，
 //      避免「每項都拿一點」的作答被沒有負值的扮演書通吃
 //   2. 多組屬性的扮演書（衛士三組、鬥士兩組）取最合適的那一組
-//   3. 再扣掉該扮演書在整個作答空間的平均相關並重新縮放到 0–100%，
-//      校正「屬性組合較多、或側寫較平」的扮演書天生佔便宜的問題
-// 校準常數由頁面載入後在閒置時列舉全部 4^9 種作答算出，題庫一改就會自動跟著變。
+//   3. 換算成該扮演書自己的 z 分數（減平均、除以標準差），校正「屬性組合較多
+//      或側寫較平」的扮演書天生佔便宜的問題；顯示值為 z 的常態百分位
+// 校準用的平均與標準差，由頁面載入後在閒置時列舉全部 4^9 種作答算出，
+// 題庫一改就會自動跟著變。只扣平均不除標準差時，六本的出線率是 9.9–26.0%
+// （2.6 倍）；改用 z 分數後收斂到 13.9–20.2%（1.4 倍）。
 //
 // 友情扮演書不做單一配對——十本之間沒有可比對的數值量表，硬編分數只會是假精確。
 // 改成用資料本身能支持的兩個特徵篩選（bondsExtra 額外羈絆數、bondFocus 標籤對象），
@@ -178,7 +180,7 @@ const DATA = {
 				{
 					q: '分組報告時，你通常扮演什麼角色？',
 					o: [
-						{ t: '扛下最難啃的那一段', w: { 挑戰: 1, 奉獻: 1 } },
+						{ t: '扛下最難啃的那一段', w: { 挑戰: 2 } },
 						{ t: '負責整合資料與最後檢查', w: { 思慮: 2 } },
 						{ t: '負責上台講給大家聽', w: { 情感: 2 } },
 						{ t: '默默把別人沒做完的補起來', w: { 奉獻: 2 } },
@@ -190,7 +192,7 @@ const DATA = {
 						{ t: '越強越好，我要贏過他', w: { 挑戰: 2 } },
 						{ t: '只要能撐到大家都安全就夠了', w: { 保護: 2 } },
 						{ t: '再強也有弱點，找出來就好', w: { 思慮: 2 } },
-						{ t: '我相信我的心意能傳達到', w: { 奉獻: 2 } },
+						{ t: '我還沒把力量用到極限', w: { 奉獻: 2 } },
 					],
 				},
 				{
@@ -207,7 +209,7 @@ const DATA = {
 					o: [
 						{ t: '一場能盡情發洩的運動', w: { 挑戰: 2 } },
 						{ t: '確認每個人都平安到家', w: { 保護: 2 } },
-						{ t: '安靜地把今天整理一遍', w: { 思慮: 1, 奉獻: 1 } },
+						{ t: '安靜地把今天整理一遍', w: { 思慮: 2 } },
 						{ t: '有個人願意聽我說話', w: { 情感: 2 } },
 					],
 				},
@@ -333,7 +335,9 @@ const DATA = {
 			let CALIB = null;
 			function computeCalibration() {
 				const delta = ATTR_Q.map((q) => q.o.map((o) => K.map((k) => o.w[k] || 0)));
-				const sums = new Array(DATA.playbooks.length).fill(0);
+				const n = DATA.playbooks.length;
+				const sum = new Array(n).fill(0);
+				const sum2 = new Array(n).fill(0);
 				const idx = new Array(delta.length).fill(0);
 				const u = new Array(K.length);
 				let count = 0;
@@ -344,14 +348,30 @@ const DATA = {
 						for (let i = 0; i < K.length; i++) u[i] += dl[i];
 					}
 					const cu = center(u);
-					for (let p = 0; p < sums.length; p++) sums[p] += correlation(cu, p);
+					for (let p = 0; p < n; p++) {
+						const r = correlation(cu, p);
+						sum[p] += r;
+						sum2[p] += r * r;
+					}
 					count++;
 					let k = delta.length - 1;
 					while (k >= 0 && ++idx[k] >= delta[k].length) { idx[k] = 0; k--; }
 					if (k < 0) break;
 				}
-				CALIB = sums.map((x) => x / count);
+				const mean = sum.map((x) => x / count);
+				const std = sum2.map((x, i) => Math.sqrt(Math.max(0, x / count - mean[i] * mean[i])));
+				CALIB = { mean, std };
 			}
+
+			// 標準常態累積分布，把 z 分數換成好讀的百分位
+			function erf(x) {
+				const sign = x < 0 ? -1 : 1;
+				x = Math.abs(x);
+				const t = 1 / (1 + 0.3275911 * x);
+				const y = 1 - (((((1.061405429 * t - 1.453152027) * t) + 1.421413741) * t - 0.284496736) * t + 0.254829592) * t * Math.exp(-x * x);
+				return sign * y;
+			}
+			const normalCdf = (z) => 0.5 * (1 + erf(z / Math.SQRT2));
 			// 列舉 4^9 種作答約需 0.2 秒，趁閒置時先算好，使用者答完題就直接可用
 			const idle = window.requestIdleCallback || ((fn) => setTimeout(fn, 200));
 			idle(() => { if (!CALIB) computeCalibration(); });
@@ -363,12 +383,11 @@ const DATA = {
 				const cu = center(u);
 				return DATA.playbooks
 					.map((p, i) => {
-						const r = correlation(cu, i);
-						const m = CALIB[i];
-						const fit = m < 1 ? (r - m) / (1 - m) : 0;
-						return { pb: p, fit: Math.max(0, Math.min(1, fit)) };
+						const sd = CALIB.std[i] || 1;
+						const z = (correlation(cu, i) - CALIB.mean[i]) / sd;
+						return { pb: p, z, fit: normalCdf(z) };
 					})
-					.sort((a, b) => b.fit - a.fit);
+					.sort((a, b) => b.z - a.z);
 			}
 
 			// ---- 角色卡預填連結（與角色卡頁同一套編碼） ----
@@ -507,7 +526,7 @@ const DATA = {
 					abar.appendChild(row);
 				});
 				sec2.appendChild(abar);
-				sec2.appendChild(el('p', 'note', '比對的是「側寫形狀」——各項的相對偏重，而不是絕對高低。六本的分數都已扣掉該本在所有可能作答下的平均值，避免屬性組合較多的扮演書佔便宜。'));
+				sec2.appendChild(el('p', 'note', '比對的是「側寫形狀」——各項的相對偏重，而不是絕對高低。契合度是把你的側寫放進「這本在所有可能作答下的分佈」換算出的百分位，所以屬性組合較多的扮演書不會佔便宜。'));
 				box.appendChild(sec2);
 
 				// 扮演書
