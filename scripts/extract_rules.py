@@ -341,7 +341,10 @@ for title, body in sections(ARCH, 2):
             desc = adv_desc(text, mode)
             (basic_adv if mode == 'b' else adv_adv).append(
                 {'text': text, 'boxes': boxes, 'desc': desc, 'effect': adv_effect(text, desc)})
-    intro = [x.strip() for x in intro_secs.get(title, []) if x.strip() and not x.startswith('#')]
+    # 概要段落只取「XX的遊戲定位」（#### 小節）之前的部分
+    intro_lines = intro_secs.get(title, [])
+    _cut = next((i for i, l in enumerate(intro_lines) if l.startswith('####')), len(intro_lines))
+    intro = [x.strip() for x in intro_lines[:_cut] if x.strip() and not x.startswith('#')]
     playbooks.append({
         'name': title,
         'signatureName': sig_title,
