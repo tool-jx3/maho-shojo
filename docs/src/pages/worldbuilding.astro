@@ -1,0 +1,506 @@
+---
+// ============================================
+// 世界觀問卷產生器（純前端，無後端）
+// 題目與候選答案由 scripts/extract_rules.py 從 rules/setting.md 抽出至 src/data/rules.json
+// ============================================
+import rules from '../data/rules.json';
+
+const DATA = {
+	pacts: rules.pacts.map((p) => ({
+		name: p.name,
+		intro: p.intro,
+		mascot: p.mascot ? p.mascot.name : '',
+		questionnaire: p.questionnaire,
+	})),
+};
+---
+
+<html lang="zh-TW">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta name="robots" content="noindex, nofollow" />
+		<title>魔法少女──世界觀問卷</title>
+		<meta name="description" content="Mahō Shōjo 魔法少女 TRPG 世界觀問卷工具——依盟約回答原書問卷，產生可列印的世界觀設定表，支援 JSON 與網址分享。" />
+		<link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+		<meta name="theme-color" content="#12102a" />
+		<meta property="og:title" content="魔法少女──世界觀問卷" />
+		<meta property="og:description" content="依盟約回答原書問卷，產生可列印的世界觀設定表。" />
+		<meta property="og:type" content="website" />
+		<meta property="og:image" content="/og-image.jpg" />
+	</head>
+	<body>
+		<script type="application/json" id="wb-data" set:html={JSON.stringify(DATA)}></script>
+
+		<header class="topbar no-print">
+			<div class="brand">
+				<a class="home" href="/" title="回到文件站">✦</a>
+				<h1>世界觀問卷</h1>
+				<span class="sub">Mahō Shōjo・魔法少女</span>
+			</div>
+			<div class="tools">
+				<button type="button" id="btn-import">匯入 JSON</button>
+				<button type="button" id="btn-export">匯出 JSON</button>
+				<button type="button" id="btn-share">複製分享網址</button>
+				<button type="button" id="btn-print" class="primary">列印／PDF</button>
+				<button type="button" id="btn-reset" class="ghost">重設</button>
+				<input type="file" id="file-input" accept="application/json,.json" hidden />
+			</div>
+		</header>
+
+		<p class="toast no-print" id="toast" role="status" aria-live="polite"></p>
+
+		<main class="wrap">
+			<section class="editor no-print" id="editor" aria-label="問卷"></section>
+			<section class="sheet" id="sheet" aria-label="世界觀設定表"></section>
+		</main>
+
+		<script is:inline>
+			const DATA = JSON.parse(document.getElementById('wb-data').textContent);
+			const $ = (s, r) => (r || document).querySelector(s);
+
+			function el(tag, cls, txt) {
+				const n = document.createElement(tag);
+				if (cls) n.className = cls;
+				if (txt != null) n.textContent = txt;
+				return n;
+			}
+
+			const BLANK = { v: 1, pact: '', ans: {} };
+			let S = structuredClone(BLANK);
+
+			const book = () => DATA.pacts.find((p) => p.name === S.pact) || null;
+			const qList = () => (book() ? book().questionnaire : []);
+
+			// ---- 網址／存檔（與角色卡頁同一套編碼） ----
+			const b64e = (bytes) => {
+				let s = '';
+				for (const b of bytes) s += String.fromCharCode(b);
+				return btoa(s).replace(/\+/g, '-').replace(/\//g, '_').replace(/=+$/, '');
+			};
+			const b64d = (str) => {
+				const s = atob(str.replace(/-/g, '+').replace(/_/g, '/'));
+				const out = new Uint8Array(s.length);
+				for (let i = 0; i < s.length; i++) out[i] = s.charCodeAt(i);
+				return out;
+			};
+			async function encodeState() {
+				const raw = new TextEncoder().encode(JSON.stringify(S));
+				if (typeof CompressionStream === 'function') {
+					const cs = new CompressionStream('deflate-raw');
+					const buf = await new Response(new Blob([raw]).stream().pipeThrough(cs)).arrayBuffer();
+					return 'z' + b64e(new Uint8Array(buf));
+				}
+				return 'p' + b64e(raw);
+			}
+			async function decodeState(str) {
+				const bytes = b64d(str.slice(1));
+				let raw = bytes;
+				if (str[0] === 'z') {
+					const ds = new DecompressionStream('deflate-raw');
+					const buf = await new Response(new Blob([bytes]).stream().pipeThrough(ds)).arrayBuffer();
+					raw = new Uint8Array(buf);
+				}
+				return JSON.parse(new TextDecoder().decode(raw));
+			}
+			let urlTimer = null;
+			function syncURL() {
+				clearTimeout(urlTimer);
+				urlTimer = setTimeout(async () => {
+					try {
+						history.replaceState(null, '', '#w=' + (await encodeState()));
+					} catch (e) {
+						/* 忽略：網址同步失敗不影響編輯 */
+					}
+				}, 300);
+			}
+			function toast(msg) {
+				const t = $('#toast');
+				t.textContent = msg;
+				t.classList.add('show');
+				setTimeout(() => t.classList.remove('show'), 2400);
+			}
+
+			// ---- 作答存取 ----
+			// 每題的答案：{ o: 選項索引或 -1（自訂）, t: 自訂文字 }
+			const ansOf = (i) => S.ans[i] || { o: null, t: '' };
+			function answerText(i) {
+				const a = ansOf(i);
+				if (a.o === -1) return a.t.trim();
+				const q = qList()[i];
+				return a.o != null && q && q.options[a.o] ? q.options[a.o] : '';
+			}
+			const answered = (i) => answerText(i) !== '';
+
+			function setAnswer(i, o, t) {
+				S.ans[i] = { o, t: t != null ? t : ansOf(i).t };
+				render();
+				syncURL();
+			}
+
+			function rollOne(i) {
+				const q = qList()[i];
+				if (!q || !q.options.length) return;
+				setAnswer(i, Math.floor(Math.random() * q.options.length));
+			}
+
+			// ---- 畫面 ----
+			function refreshProgress() {
+				const n = $('#prog');
+				if (!n) return;
+				const qs = qList();
+				n.textContent = qs.filter((_, i) => answered(i)).length + ' / ' + qs.length + ' 題已回答';
+			}
+
+			function renderEditor() {
+				const box = $('#editor');
+				box.textContent = '';
+
+				const pick = el('section', 'panel');
+				pick.appendChild(el('h2', null, '選擇盟約'));
+				pick.appendChild(el('p', 'hint', '三種盟約各有一份世界觀問卷，決定這場戰役的黑暗、魔法世界與力量從何而來。'));
+				const grid = el('div', 'pactgrid');
+				for (const p of DATA.pacts) {
+					const b = el('button', 'pactcard' + (S.pact === p.name ? ' on' : ''));
+					b.type = 'button';
+					b.appendChild(el('strong', null, p.name));
+					if (p.mascot) b.appendChild(el('span', 'tag', p.mascot));
+					b.appendChild(el('span', 'desc', p.intro.split('\n')[0].slice(0, 68) + '…'));
+					b.appendChild(el('span', 'count', p.questionnaire.length + ' 題'));
+					b.addEventListener('click', () => {
+						if (S.pact === p.name) return;
+						S.pact = p.name;
+						S.ans = {};
+						render();
+						syncURL();
+					});
+					grid.appendChild(b);
+				}
+				pick.appendChild(grid);
+				box.appendChild(pick);
+
+				if (!S.pact) return;
+
+				const qs = qList();
+				const done = qs.filter((_, i) => answered(i)).length;
+
+				const bar = el('section', 'panel');
+				const head = el('div', 'barhead');
+				head.appendChild(el('h2', null, S.pact + '問卷'));
+				const prog = el('span', 'progress', done + ' / ' + qs.length + ' 題已回答');
+				prog.id = 'prog';
+				head.appendChild(prog);
+				bar.appendChild(head);
+				const acts = el('div', 'acts');
+				const mk = (label, cls, fn) => {
+					const b = el('button', cls, label);
+					b.type = 'button';
+					b.addEventListener('click', fn);
+					acts.appendChild(b);
+				};
+				mk('🎲 全部隨機', 'primary', () => {
+					qs.forEach((q, i) => { S.ans[i] = { o: Math.floor(Math.random() * q.options.length), t: ansOf(i).t }; });
+					render(); syncURL();
+				});
+				mk('🎲 只填未作答', null, () => {
+					qs.forEach((q, i) => {
+						if (!answered(i)) S.ans[i] = { o: Math.floor(Math.random() * q.options.length), t: ansOf(i).t };
+					});
+					render(); syncURL();
+				});
+				mk('清空作答', 'ghost', () => { S.ans = {}; render(); syncURL(); });
+				bar.appendChild(acts);
+				box.appendChild(bar);
+
+				qs.forEach((q, i) => {
+					const card = el('section', 'panel q' + (answered(i) ? ' done' : ''));
+					const h = el('div', 'qhead');
+					h.appendChild(el('span', 'qno', String(i + 1)));
+					h.appendChild(el('h3', null, q.q));
+					const die = el('button', 'die', '🎲');
+					die.type = 'button';
+					die.title = '這題隨機';
+					die.addEventListener('click', () => rollOne(i));
+					h.appendChild(die);
+					card.appendChild(h);
+
+					const a = ansOf(i);
+					const list = el('div', 'opts');
+					q.options.forEach((o, oi) => {
+						const lab = el('label', 'opt' + (a.o === oi ? ' on' : ''));
+						const r = el('input');
+						r.type = 'radio';
+						r.name = 'q' + i;
+						r.checked = a.o === oi;
+						r.addEventListener('change', () => setAnswer(i, oi));
+						lab.appendChild(r);
+						lab.appendChild(el('span', null, o));
+						list.appendChild(lab);
+					});
+
+					const custom = el('label', 'opt custom' + (a.o === -1 ? ' on' : ''));
+					const cr = el('input');
+					cr.type = 'radio';
+					cr.name = 'q' + i;
+					cr.checked = a.o === -1;
+					cr.addEventListener('change', () => setAnswer(i, -1));
+					custom.appendChild(cr);
+					const ci = el('input', 'text');
+					ci.type = 'text';
+					ci.placeholder = '自訂答案……';
+					ci.value = a.t;
+					const pickCustom = () => {
+						S.ans[i] = { o: -1, t: ci.value };
+						// 就地更新選取狀態：整頁重繪會把正在輸入的欄位抽走，游標也會跟著消失
+						list.querySelectorAll('.opt').forEach((n) => n.classList.remove('on'));
+						list.querySelectorAll("input[type='radio']").forEach((n) => { n.checked = false; });
+						custom.classList.add('on');
+						cr.checked = true;
+						card.classList.toggle('done', answered(i));
+						refreshProgress();
+						renderSheet();
+						syncURL();
+					};
+					ci.addEventListener('input', pickCustom);
+					ci.addEventListener('focus', pickCustom);
+					custom.appendChild(ci);
+					list.appendChild(custom);
+
+					card.appendChild(list);
+					box.appendChild(card);
+				});
+			}
+
+			function renderSheet() {
+				const box = $('#sheet');
+				box.textContent = '';
+				const head = el('header', 'sheethead');
+				head.appendChild(el('h2', null, '世界觀設定表'));
+				head.appendChild(el('p', 'sub', S.pact ? '盟約：' + S.pact : '尚未選擇盟約'));
+				box.appendChild(head);
+
+				if (!S.pact) {
+					box.appendChild(el('p', 'empty', '選擇一種盟約後，這裡會即時整理成可列印的設定表。'));
+					return;
+				}
+				const qs = qList();
+				const dl = el('dl', 'qa');
+				qs.forEach((q, i) => {
+					dl.appendChild(el('dt', null, (i + 1) + '. ' + q.q));
+					const v = answerText(i);
+					dl.appendChild(el('dd', v ? null : 'blank', v || '（待決定）'));
+				});
+				box.appendChild(dl);
+				const foot = el('p', 'foot', 'Mahō Shōjo 魔法少女 TRPG ─ 世界觀問卷（' + S.pact + '）');
+				box.appendChild(foot);
+			}
+
+			function render() {
+				renderEditor();
+				renderSheet();
+			}
+
+			// ---- 工具列 ----
+			$('#btn-print').addEventListener('click', () => {
+				if (!S.pact) { toast('請先選擇盟約'); return; }
+				setTimeout(() => window.print(), 0);
+			});
+			$('#btn-export').addEventListener('click', () => {
+				const blob = new Blob([JSON.stringify(S, null, 2)], { type: 'application/json' });
+				const a = el('a');
+				a.href = URL.createObjectURL(blob);
+				a.download = 'mahoshojo-worldbuilding.json';
+				a.click();
+				setTimeout(() => URL.revokeObjectURL(a.href), 1000);
+			});
+			$('#btn-import').addEventListener('click', () => $('#file-input').click());
+			$('#file-input').addEventListener('change', async (e) => {
+				const f = e.target.files && e.target.files[0];
+				if (!f) return;
+				try {
+					S = Object.assign(structuredClone(BLANK), JSON.parse(await f.text()));
+					render();
+					syncURL();
+					toast('已匯入');
+				} catch (err) {
+					toast('匯入失敗：檔案格式不正確');
+				}
+				e.target.value = '';
+			});
+			$('#btn-share').addEventListener('click', async () => {
+				try {
+					const url = location.origin + location.pathname + '#w=' + (await encodeState());
+					await navigator.clipboard.writeText(url);
+					toast('已複製分享網址');
+				} catch (err) {
+					toast('複製失敗，請手動複製網址列');
+				}
+			});
+			$('#btn-reset').addEventListener('click', () => {
+				if (!confirm('確定要清空所有內容？')) return;
+				S = structuredClone(BLANK);
+				history.replaceState(null, '', location.pathname);
+				render();
+			});
+
+			(async () => {
+				const m = /[#&]w=([^&]+)/.exec(location.hash);
+				if (m) {
+					try {
+						S = Object.assign(structuredClone(BLANK), await decodeState(m[1]));
+					} catch (e) {
+						toast('分享網址無法解析，已改為空白問卷');
+					}
+				}
+				render();
+			})();
+		</script>
+
+		<style is:global>
+			:root {
+				--night: #12102a;
+				--panel: #241b4a;
+				--star: #ffd98a;
+				--ink: #f4eefe;
+				--ink-dim: #b9aed6;
+				--line: #3b2f68;
+				--accent: #d066c0;
+			}
+			* { margin: 0; padding: 0; box-sizing: border-box; }
+			body {
+				min-height: 100%;
+				background: radial-gradient(ellipse at 50% -10%, #241b4a, var(--night) 60%);
+				color: var(--ink);
+				font-family: 'Segoe UI', 'Noto Sans TC', 'Microsoft JhengHei', system-ui, sans-serif;
+				line-height: 1.7;
+			}
+			button, input { font: inherit; color: inherit; }
+
+			.topbar {
+				position: sticky; top: 0; z-index: 20;
+				display: flex; flex-wrap: wrap; gap: .75rem;
+				align-items: center; justify-content: space-between;
+				padding: .7rem 1.1rem;
+				background: rgba(18, 16, 42, .92);
+				border-bottom: 1px solid var(--line);
+				backdrop-filter: blur(6px);
+			}
+			.brand { display: flex; align-items: baseline; gap: .6rem; }
+			.brand .home { color: var(--star); text-decoration: none; font-size: 1.3rem; }
+			.brand h1 { font-size: 1.15rem; letter-spacing: .04em; }
+			.brand .sub { color: var(--ink-dim); font-size: .82rem; }
+			.tools { display: flex; flex-wrap: wrap; gap: .4rem; }
+			.tools button {
+				padding: .35rem .8rem; border-radius: 999px; cursor: pointer;
+				border: 1px solid var(--line); background: #1d1640; color: var(--ink);
+			}
+			.tools button:hover { border-color: var(--accent); }
+			.tools button.primary { background: var(--accent); border-color: var(--accent); color: #241033; font-weight: 600; }
+			.tools button.ghost { background: transparent; color: var(--ink-dim); }
+
+			.toast {
+				position: fixed; left: 50%; top: 4.2rem; transform: translateX(-50%) translateY(-.5rem);
+				padding: .45rem 1rem; border-radius: 999px;
+				background: #2f2358; border: 1px solid var(--accent);
+				opacity: 0; pointer-events: none; transition: opacity .2s, transform .2s; z-index: 30;
+			}
+			.toast.show { opacity: 1; transform: translateX(-50%) translateY(0); }
+
+			.wrap {
+				display: grid; gap: 1.2rem; align-items: start;
+				grid-template-columns: minmax(0, 1.15fr) minmax(0, 1fr);
+				max-width: 1240px; margin: 0 auto; padding: 1.2rem;
+			}
+			@media (max-width: 900px) { .wrap { grid-template-columns: 1fr; } }
+
+			.panel {
+				background: rgba(36, 27, 74, .72);
+				border: 1px solid var(--line); border-radius: 14px;
+				padding: 1rem 1.1rem; margin-bottom: 1rem;
+			}
+			.panel h2 { font-size: 1.02rem; color: var(--star); }
+			.panel h3 { font-size: .98rem; font-weight: 600; }
+			.hint { color: var(--ink-dim); font-size: .88rem; margin-top: .3rem; }
+
+			.pactgrid { display: grid; gap: .6rem; grid-template-columns: repeat(auto-fit, minmax(190px, 1fr)); margin-top: .8rem; }
+			.pactcard {
+				display: flex; flex-direction: column; gap: .25rem; text-align: left;
+				padding: .7rem .8rem; border-radius: 12px; cursor: pointer;
+				border: 1px solid var(--line); background: #1d1640;
+			}
+			.pactcard:hover { border-color: var(--accent); }
+			.pactcard.on { border-color: var(--star); background: #2f2358; }
+			.pactcard strong { color: var(--star); }
+			.pactcard .tag { color: var(--ink-dim); font-size: .78rem; }
+			.pactcard .desc { color: var(--ink-dim); font-size: .8rem; line-height: 1.5; }
+			.pactcard .count { color: var(--accent); font-size: .78rem; }
+
+			.barhead { display: flex; flex-wrap: wrap; gap: .5rem; align-items: baseline; justify-content: space-between; }
+			.progress { color: var(--ink-dim); font-size: .85rem; }
+			.acts { display: flex; flex-wrap: wrap; gap: .4rem; margin-top: .7rem; }
+			.acts button {
+				padding: .3rem .75rem; border-radius: 999px; cursor: pointer;
+				border: 1px solid var(--line); background: #1d1640;
+			}
+			.acts button:hover { border-color: var(--accent); }
+			.acts button.primary { background: var(--accent); border-color: var(--accent); color: #241033; font-weight: 600; }
+			.acts button.ghost { background: transparent; color: var(--ink-dim); }
+
+			.q.done { border-color: #5a4a92; }
+			.qhead { display: flex; gap: .55rem; align-items: center; }
+			.qno {
+				flex: none; width: 1.7rem; height: 1.7rem; border-radius: 50%;
+				display: grid; place-items: center; font-size: .8rem;
+				background: #1d1640; border: 1px solid var(--line); color: var(--ink-dim);
+			}
+			.q.done .qno { background: var(--star); border-color: var(--star); color: #241033; }
+			.qhead h3 { flex: 1; }
+			.die { flex: none; border: 1px solid var(--line); background: #1d1640; border-radius: 8px; padding: .15rem .45rem; cursor: pointer; }
+			.die:hover { border-color: var(--accent); }
+
+			.opts { display: grid; gap: .3rem; margin-top: .6rem; }
+			.opt {
+				display: flex; gap: .5rem; align-items: flex-start;
+				padding: .35rem .55rem; border-radius: 9px; cursor: pointer;
+				border: 1px solid transparent; font-size: .92rem;
+			}
+			.opt:hover { background: #1d1640; }
+			.opt.on { background: #2f2358; border-color: var(--star); }
+			.opt input[type='radio'] { margin-top: .45rem; accent-color: var(--accent); }
+			.opt .text {
+				flex: 1; background: #12102a; border: 1px solid var(--line);
+				border-radius: 7px; padding: .25rem .5rem;
+			}
+			.opt .text:focus { outline: none; border-color: var(--accent); }
+
+			.sheet {
+				position: sticky; top: 4.6rem;
+				background: #fffdf8; color: #241033;
+				border-radius: 14px; padding: 1.3rem 1.5rem;
+				box-shadow: 0 12px 40px rgba(0, 0, 0, .35);
+			}
+			.sheethead { border-bottom: 2px solid #d8cdf0; padding-bottom: .5rem; margin-bottom: .8rem; }
+			.sheethead h2 { font-size: 1.15rem; }
+			.sheethead .sub { color: #6a5a92; font-size: .88rem; }
+			.qa dt { font-weight: 600; margin-top: .7rem; font-size: .92rem; }
+			.qa dd { margin-left: 1.1rem; font-size: .92rem; }
+			.qa dd.blank { color: #a99cc4; }
+			.empty { color: #6a5a92; }
+			.foot { margin-top: 1rem; padding-top: .6rem; border-top: 1px dashed #d8cdf0; color: #6a5a92; font-size: .8rem; }
+
+			@page { size: A4; margin: 14mm; }
+			@media print {
+				body { background: #fff; color: #000; }
+				.no-print { display: none !important; }
+				.wrap { display: block; max-width: none; padding: 0; }
+				.sheet {
+					position: static; box-shadow: none; border-radius: 0;
+					padding: 0; background: #fff;
+					print-color-adjust: exact; -webkit-print-color-adjust: exact;
+				}
+				.qa dt { break-after: avoid; }
+				.qa dd { break-before: avoid; }
+			}
+		</style>
+	</body>
+</html>

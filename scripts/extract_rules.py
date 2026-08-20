@@ -358,6 +358,8 @@ for title, body in sections(ARCH, 2):
         'advanceMoves': bold_blocks(sub.get('進階動作', [])),
         'intro': intro[0] if intro else '',
         'introFull': '\n\n'.join(intro),
+        'roleInGame': '\n\n'.join(
+            x.strip() for x in intro_lines[_cut:] if x.strip() and not x.startswith('#')),
     })
 
 # ---------------- 友情／戀愛扮演書 ----------------
@@ -397,13 +399,23 @@ romance = pb_list(fr['戀愛扮演書'])
 
 # ---------------- 世界觀問卷（setting.md） ----------------
 SET = read('setting.md')
-WORLD_Q = {}
+WORLD_Q, WORLD_QA = {}, {}
 for _t, _b in sections(SET, 2):
     for _st, _sb in sections(_b, 3):
         if not _st.endswith('問卷'):
             continue
         WORLD_Q[_st[:-2]] = [x.strip().strip('*') for x in _sb
                              if re.fullmatch(r'\*\*.+？\*\*', x.strip())]
+        # 題目＋官方候選答案（世界觀問卷產生器用）
+        qa, cur = [], None
+        for x in _sb:
+            t = x.strip()
+            if re.fullmatch(r'\*\*.+？\*\*', t):
+                cur = {'q': t.strip('*'), 'options': []}
+                qa.append(cur)
+            elif cur is not None and t.startswith('- '):
+                cur['options'].append(t[2:].strip())
+        WORLD_QA[_st[:-2]] = qa
 
 # ---------------- 扮演書西班牙文原名（es/archetypes.md） ----------------
 _ES = io.open(R.replace('/rules/', '/es/rules/') + 'archetypes.md', encoding='utf-8').read()
@@ -512,6 +524,7 @@ for t, b in sections(PA, 2):
                   'mascot': mascot, 'extra': extra,
                   'darknessText': '\n'.join(sub.get('黑暗', [])).strip(),
                   'questions': WORLD_Q.get(t.replace('盟約：', ''), []),
+                  'questionnaire': WORLD_QA.get(t.replace('盟約：', ''), []),
                   'moves': moves, 'coopMoves': coop,
                   'darkMoves': dark, 'darkRules': rules, 'advantages': adv,
                   'advantageIntro': intro, 'darkLevel5': lv5})
