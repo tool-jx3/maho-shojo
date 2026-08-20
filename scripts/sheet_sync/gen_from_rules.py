@@ -235,7 +235,7 @@ def build_raw(d):
     header = [''] * NCOL
     for i, v in SHEET_ONLY['raw_header'].items():
         header[i] = v
-    return '魔法少女扮演書 - raw_sheet_source.tsv', header, rows, NCOL
+    return 'raw_sheet_source.tsv', header, rows, NCOL
 
 
 # ══════════════════════════════════════════════════════════════════
@@ -252,7 +252,7 @@ def build_romance(d):
     put(rows, 0, books)
     put(rows, 2, effects)
     put(rows, 4, moves)
-    return ('魔法少女扮演書 - romance_sheet_source.tsv',
+    return ('romance_sheet_source.tsv',
             list(SHEET_ONLY['romance_header']), rows, NCOL)
 
 
@@ -272,7 +272,7 @@ def build_amistad(d):
         rows[i][5] = flat(f['tags'])
         rows[i][7] = flat(f['questions'])
     put(rows, 8, moves)
-    return ('魔法少女扮演書 - amistad_sheet_source.tsv',
+    return ('amistad_sheet_source.tsv',
             list(SHEET_ONLY['amistad_header']), rows, NCOL)
 
 
@@ -305,7 +305,7 @@ def build_pacto(d):
     put(rows, 12, extras)
     put(rows, 15, darkness)
     put(rows, 17, moves)
-    return ('魔法少女扮演書 - pacto_sheet_source.tsv',
+    return ('pacto_sheet_source.tsv',
             list(SHEET_ONLY['pacto_header']), rows, NCOL)
 
 
@@ -350,6 +350,10 @@ def diff(out_dir, base_dir):
             continue
         bpath = os.path.join(base_dir, fn)
         if not os.path.exists(bpath):
+            # 基準檔名可能帶有「魔法少女扮演書 - 」之類的前綴，改以工作表名配對
+            bpath = next((os.path.join(base_dir, x) for x in sorted(os.listdir(base_dir))
+                          if x.endswith(fn)), None)
+        if not bpath or not os.path.exists(bpath):
             print('△ 基準沒有 %s' % fn)
             continue
         new, old = read_tsv(os.path.join(out_dir, fn)), read_tsv(bpath)
