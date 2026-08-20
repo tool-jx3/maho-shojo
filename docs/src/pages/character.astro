@@ -203,7 +203,7 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 
 			// 能力量表：規則「如果光點數量超過目前的能力量表等級，則將量表提升至與當前光點數量相等」。
 			// 只在光點「增加」時往上提——場景結束時量表歸 0 但光點可能還在，
-			// 若無條件比對就會馬上又被推回去。被黑暗女神取代時改用暗點計算。
+			// 若無條件比對就會馬上又被推回去。被黑暗女神取代時改用闇點計算。
 			let LAST_DRIVER = null;
 			function syncPowerLevel() {
 				const driver = Math.min(5, (luxView().replace ? S.tenebrae : S.light) || 0);
@@ -1329,7 +1329,7 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 					const g = el('div', 'fgrid');
 					g.appendChild(field('能力等級', numInput('power', 0, 5)));
 					d.appendChild(g);
-					const driverName = luxView().replace ? '暗點' : '光點';
+					const driverName = luxView().replace ? '闇點' : '光點';
 					const driverVal = luxView().replace ? S.tenebrae || 0 : S.light || 0;
 					d.appendChild(
 						el('p', 'note' + (driverVal > S.power ? ' warn' : ' dim'),
@@ -1756,7 +1756,7 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 					const d = section('9・狀態與後果');
 					const g = el('div', 'fgrid');
 					g.appendChild(field('光點', numInput('light', 0, 20)));
-					g.appendChild(field('暗點', numInput('tenebrae', 0, 5)));
+					g.appendChild(field('闇點', numInput('tenebrae', 0, 5)));
 					g.appendChild(field('友情點數', numInput('amity', 0, 10)));
 					g.appendChild(field('黑暗點數', numInput('dark', 0, 20)));
 					g.appendChild(field('黑暗等級', numInput('darkLv', 0, 5)));
@@ -1766,10 +1766,10 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 					d.appendChild(g);
 					d.appendChild(
 						el('p', 'note dim',
-							'暗點與光點互相抵銷，上限 5；場景結束或脫下光之裝束時減少 1 點。友情點數上限 10，歸零會觸發阿特洛波斯之禍。')
+							'闇點與光點互相抵銷，上限 5；場景結束或脫下光之裝束時減少 1 點。友情點數上限 10，歸零會觸發阿特洛波斯之禍。')
 					);
 					if (S.light > 0 && S.tenebrae > 0) {
-						d.appendChild(el('p', 'note warn', '光點與暗點不會同時存在，請依規則互相抵銷。'));
+						d.appendChild(el('p', 'note warn', '光點與闇點不會同時存在，請依規則互相抵銷。'));
 					}
 					d.appendChild(el('p', 'note', '後果'));
 					d.appendChild(el('p', 'note dim', consAbsorbNote()));
@@ -1969,7 +1969,7 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 					'　超級形態：' + (S.superForm ? '已解鎖' : '未解鎖') +
 					'　凱旋形態：' + (S.triumphForm ? '已解鎖' : '未解鎖') +
 					(lv.extra ? '　' + lv.extra.name + '：已取得' : '') +
-					(lv.replace ? '　※ 量表已由「' + lv.replace.name + '」取代，使用暗點計算等級' : ''));
+					(lv.replace ? '　※ 量表已由「' + lv.replace.name + '」取代，使用闇點計算等級' : ''));
 				p1.appendChild(
 					sheetBlock('光之裝束・能力量表', [tbl, luxNote, powerSummary(true), el('p', 'tiny-note', '目前解鎖的力量（變身後基礎為懲罰 1、摧毀 0，各形態與各等級累加）')])
 				);
@@ -1991,7 +1991,7 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 				// 狀態
 				const st = el('div', 'status');
 				st.appendChild(kv('光點', String(S.light)));
-				st.appendChild(kv('暗點', S.tenebrae + ' / 5'));
+				st.appendChild(kv('闇點', S.tenebrae + ' / 5'));
 				st.appendChild(kv('友情點數', S.amity + ' / 10'));
 				st.appendChild(kv('黑暗點數', String(S.dark)));
 				st.appendChild(kv('黑暗等級', String(S.darkLv)));

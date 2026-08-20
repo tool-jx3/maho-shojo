@@ -1,7 +1,7 @@
 {
   "_meta": {
     "description": "術語表 - 西班牙語遊戲術語對照繁體中文翻譯",
-    "updated": "2026-08-18T12:30:25+00:00",
+    "updated": "2026-08-20T11:39:25+00:00",
     "source": "MAHO_SHOJO_RN022_EBOOK"
   },
   "Movimiento": {
@@ -335,9 +335,13 @@
     "notes": "提升能力等級的光明點數"
   },
   "Puntos de Tinieblas": {
-    "zh": "暗點",
+    "zh": "闇點",
     "is_term": true,
-    "notes": "黑暗面的能力點數"
+    "notes": "戰鬥中壓制光明的點數：與光點互相抵銷，上限 5，場景結束或脫下光之裝束時 -1；原文 Tinieblas，與代表角色墮落的 Puntos de Oscuridad（黑暗點數）為不同資源，故不譯作「暗點」以免與「黑暗點數」混淆",
+    "status": "approved",
+    "forbidden": [
+      "暗點"
+    ]
   },
   "Poder del Corazón": {
     "zh": "心之力",
