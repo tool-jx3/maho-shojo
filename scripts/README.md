@@ -206,10 +206,15 @@ uv run python scripts/term_read.py --fail-on-forbidden
 | `update_xlsx.py` | 以上述資料更新 xlsx，輸出新檔 |
 | `export_v3.py` | 從更新後的 xlsx 匯出 TSV |
 
+版控中的 `data/sheets/*.tsv` 是這四張表的現行內容，供比對與交付使用。
+
 ### 1) 產生 TSV
 
 ```bash
 uv run python scripts/extract_rules.py                          # 先更新 rules.json
+
+# 覆蓋版控中的四張表（試算表匯出格式）
+uv run python scripts/sheet_sync/gen_from_rules.py data/sheets --quote all
 
 # 預設：儲存格內換行輸出裸 CR（Google Sheets 原始匯出格式）
 uv run python scripts/sheet_sync/gen_from_rules.py <輸出目錄>

@@ -101,6 +101,11 @@ def split_options(block):
         return block
     block['options'] = opts
     block['chooseCount'] = 3
+    # 記錄選項原本插在第幾個段落之後，重建表格時才能放回原位
+    lines = text.split('\n')
+    first = next(i for i, l in enumerate(lines)
+                 if re.match(r'^\s*-\s*\*\*.+?\*\*[：:]', l))
+    block['optionsAt'] = sum(1 for l in lines[:first] if l.strip())
     block['text'] = re.sub(r'^\s*-\s*\*\*.+?\*\*[：:].*$', '', text, flags=re.M)
     block['text'] = re.sub(r'\n{3,}', '\n\n', block['text']).strip()
     block['text'] = re.sub(r'\n*(同時獲得|也獲得)[：:]\s*$', '', block['text']).strip()
@@ -168,7 +173,8 @@ def parse_signature_blocks(body):
             cur['lines'].append(l)
     out = []
     for b in blocks:
-        items = [{'name': x['name'], 'text': x['text']} for x in bold_blocks(b['lines'])]
+        # 保留 bold_blocks 已解析出的 options／table（例如聖母「神聖力量」的六個效果）
+        items = bold_blocks(b['lines'])
         if not items:
             items = [{'name': m.group(1).strip(), 'text': m.group(2).strip()}
                      for m in re.finditer(r'^\s*-\s*\*\*(.+?)\*\*[：:]\s*(.*)$',
@@ -335,7 +341,10 @@ for title, body in sections(ARCH, 2):
             desc = adv_desc(text, mode)
             (basic_adv if mode == 'b' else adv_adv).append(
                 {'text': text, 'boxes': boxes, 'desc': desc, 'effect': adv_effect(text, desc)})
-    intro = [x.strip() for x in intro_secs.get(title, []) if x.strip() and not x.startswith('#')]
+    # 概要段落只取「XX的遊戲定位」（#### 小節）之前的部分
+    intro_lines = intro_secs.get(title, [])
+    _cut = next((i for i, l in enumerate(intro_lines) if l.startswith('####')), len(intro_lines))
+    intro = [x.strip() for x in intro_lines[:_cut] if x.strip() and not x.startswith('#')]
     playbooks.append({
         'name': title,
         'signatureName': sig_title,

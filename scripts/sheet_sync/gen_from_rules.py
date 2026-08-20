@@ -45,6 +45,10 @@ ROLL_RE = re.compile(r'^(\d+\+|\d+-\d+|\d+-)$')
 
 # ── Markdown → 單一儲存格文字 ────────────────────────────────────────
 def flat(md):
+    return ' '.join(flat_parts(md)).strip()
+
+
+def flat_parts(md):
     """把規則 Markdown 攤平成表格儲存格用的一行文字。
 
     段落以半形空格相接；清單項目前置「✽ 」；擲骰結果（10+／7-9／6-）
@@ -77,14 +81,18 @@ def flat(md):
                 out.append('✽ ' + item)
             continue
         out.append(s.strip('*') if re.fullmatch(r'\*\*.+\*\*', s) else s)
-    return ' '.join(out).strip()
+    return out
 
 
 def move_cell(block):
-    """rules.json 的動作區塊 → 儲存格文字（含被 split_table 拆走的表格與選項）。"""
-    parts = [flat(block.get('text', ''))]
-    for o in block.get('options') or []:
-        parts.append('✽ %s：%s' % (o['name'], flat(o['text'])))
+    """rules.json 的動作區塊 → 儲存格文字（含被 split_options 拆走的選項）。"""
+    parts = flat_parts(block.get('text', ''))
+    opts = ['✽ %s：%s' % (o['name'], flat(o['text']))
+            for o in block.get('options') or []]
+    at = block.get('optionsAt')
+    if at is None:
+        at = len(parts)
+    parts = parts[:at] + opts + parts[at:]
     return ' '.join(x for x in parts if x).strip()
 
 
@@ -227,7 +235,7 @@ def build_raw(d):
     header = [''] * NCOL
     for i, v in SHEET_ONLY['raw_header'].items():
         header[i] = v
-    return '魔法少女扮演書 - raw_sheet_source.tsv', header, rows, NCOL
+    return 'raw_sheet_source.tsv', header, rows, NCOL
 
 
 # ══════════════════════════════════════════════════════════════════
@@ -244,7 +252,7 @@ def build_romance(d):
     put(rows, 0, books)
     put(rows, 2, effects)
     put(rows, 4, moves)
-    return ('魔法少女扮演書 - romance_sheet_source.tsv',
+    return ('romance_sheet_source.tsv',
             list(SHEET_ONLY['romance_header']), rows, NCOL)
 
 
@@ -264,7 +272,7 @@ def build_amistad(d):
         rows[i][5] = flat(f['tags'])
         rows[i][7] = flat(f['questions'])
     put(rows, 8, moves)
-    return ('魔法少女扮演書 - amistad_sheet_source.tsv',
+    return ('amistad_sheet_source.tsv',
             list(SHEET_ONLY['amistad_header']), rows, NCOL)
 
 
@@ -297,7 +305,7 @@ def build_pacto(d):
     put(rows, 12, extras)
     put(rows, 15, darkness)
     put(rows, 17, moves)
-    return ('魔法少女扮演書 - pacto_sheet_source.tsv',
+    return ('pacto_sheet_source.tsv',
             list(SHEET_ONLY['pacto_header']), rows, NCOL)
 
 
@@ -342,6 +350,10 @@ def diff(out_dir, base_dir):
             continue
         bpath = os.path.join(base_dir, fn)
         if not os.path.exists(bpath):
+            # 基準檔名可能帶有「魔法少女扮演書 - 」之類的前綴，改以工作表名配對
+            bpath = next((os.path.join(base_dir, x) for x in sorted(os.listdir(base_dir))
+                          if x.endswith(fn)), None)
+        if not bpath or not os.path.exists(bpath):
             print('△ 基準沒有 %s' % fn)
             continue
         new, old = read_tsv(os.path.join(out_dir, fn)), read_tsv(bpath)
