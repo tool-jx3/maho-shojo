@@ -113,7 +113,8 @@ def resolve_root(root: Path | None) -> Path:
 def list_markdown_files(root: Path) -> list[Path]:
     if not root.exists():
         return []
-    return sorted(p for p in root.rglob("*.md") if p.is_file())
+    return sorted(p for pat in ("*.md", "*.mdx")
+                  for p in root.rglob(pat) if p.is_file())
 
 
 def read_file(path: Path) -> str:

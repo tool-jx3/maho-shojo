@@ -1,7 +1,7 @@
 {
   "_meta": {
     "description": "術語表 - 西班牙語遊戲術語對照繁體中文翻譯",
-    "updated": "2026-08-20T11:39:25+00:00",
+    "updated": "2026-08-20T12:22:33+00:00",
     "source": "MAHO_SHOJO_RN022_EBOOK"
   },
   "Movimiento": {
@@ -556,7 +556,7 @@
   "Tinieblas": {
     "zh": "晦暗",
     "is_term": true,
-    "notes": "黑暗恩賜：獲得暗點"
+    "notes": "黑暗恩賜：使徒作為反應時給予玩家角色闇點（Puntos de Tinieblas）；記法（晦暗）X［Y］"
   },
   "Semilla": {
     "zh": "種子",
