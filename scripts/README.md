@@ -193,15 +193,15 @@ uv run python scripts/term_read.py --fail-on-forbidden
 將線上角卡（Google Sheets 匯出的 `魔法少女扮演書.xlsx` 與其 TSV）的內容，
 同步成 `docs/src/content/docs/rules/*.md` 的現行翻譯。
 
-翻譯內容以 Python 常數硬編在 `gen_tsv.py`／`gen_raw.py`／`manualmap.py` 中，
-每次網站翻譯有異動時，需同步修改對應常數後重跑。
+四張 `*_sheet_source` 工作表的內容全部由 `docs/src/data/rules.json` 產生，
+因此規則 Markdown 改完、重跑 `extract_rules.py` 後即可直接重新輸出，
+不需要手動維護翻譯常數。
 
 > 需要 `openpyxl`，未列入 `pyproject.toml`，請用 `uv run --with openpyxl` 執行。
 
 | 檔案 | 用途 |
 | --- | --- |
-| `gen_tsv.py` | 產生 romance／amistad／pacto 三張 `*_sheet_source` 的資料 |
-| `gen_raw.py` | 產生 raw（原型扮演書）`*_sheet_source` 的資料 |
+| `gen_from_rules.py` | 以 `rules.json` 產生 raw／pacto／amistad／romance 四張 `*_sheet_source`，並可與既有 TSV 逐格比對 |
 | `manualmap.py` | 顯示用工作表（注意事項／基本動作／合作動作／盟約／空白角色卡）的字串對照，以及註解的術語級替換表 |
 | `update_xlsx.py` | 以上述資料更新 xlsx，輸出新檔 |
 | `export_v3.py` | 從更新後的 xlsx 匯出 TSV |
@@ -209,13 +209,17 @@ uv run python scripts/term_read.py --fail-on-forbidden
 ### 1) 產生 TSV
 
 ```bash
-# 儲存格內換行輸出裸 CR（Google Sheets 原始匯出格式）
-uv run python scripts/sheet_sync/gen_tsv.py <輸出目錄>
-uv run python scripts/sheet_sync/gen_raw.py <輸出目錄>
+uv run python scripts/extract_rules.py                          # 先更新 rules.json
 
-# TSV_QUOTED=1：含換行／定位／引號的儲存格以 "" 包覆，格內換行改 CRLF（RFC 4180）
-TSV_QUOTED=1 uv run python scripts/sheet_sync/gen_tsv.py <輸出目錄>
-TSV_QUOTED=1 uv run python scripts/sheet_sync/gen_raw.py <輸出目錄>
+# 預設：儲存格內換行輸出裸 CR（Google Sheets 原始匯出格式）
+uv run python scripts/sheet_sync/gen_from_rules.py <輸出目錄>
+
+# --quote all：每一格都加引號、格內換行 CRLF（與 export_v3.py 相同）
+# --quote minimal：只有含換行／定位／引號的格加引號（RFC 4180）
+uv run python scripts/sheet_sync/gen_from_rules.py <輸出目錄> --quote all
+
+# 與既有 TSV 逐格比對，差異分為「空白調整／譯文更新／規則新增／規則刪除」
+uv run python scripts/sheet_sync/gen_from_rules.py <輸出目錄> --diff <既有TSV目錄>
 ```
 
 ### 2) 更新 xlsx

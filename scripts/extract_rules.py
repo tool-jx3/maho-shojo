@@ -151,6 +151,32 @@ def parse_signature(body):
     return {'mode': 'moves', 'granted': granted, 'chooseFrom': choose,
             'chooseCount': cc, 'chooseLabel': choose_label}
 
+def parse_signature_blocks(body):
+    """把招牌動作段落切成有序的「標題：＋項目」區塊，供扮演書表格重建欄位。"""
+    # 只認「選擇…：」「…獲得：」這兩種段落標題，避免誤抓動作內文的冒號句
+    label_re = re.compile(r'^\**([^。，、:：]{0,4}?(?:選擇|獲得)[^。，、:：]{0,8})[：:]\**$')
+    blocks, cur = [], None
+    for l in body:
+        s = l.strip()
+        m = label_re.match(s) if s else None
+        if m:
+            cur = {'label': m.group(1),
+                   'kind': 'choice' if m.group(1).startswith('選擇') else 'granted',
+                   'lines': []}
+            blocks.append(cur)
+        elif cur is not None:
+            cur['lines'].append(l)
+    out = []
+    for b in blocks:
+        items = [{'name': x['name'], 'text': x['text']} for x in bold_blocks(b['lines'])]
+        if not items:
+            items = [{'name': m.group(1).strip(), 'text': m.group(2).strip()}
+                     for m in re.finditer(r'^\s*-\s*\*\*(.+?)\*\*[：:]\s*(.*)$',
+                                          '\n'.join(b['lines']), re.M)]
+        if items:
+            out.append({'label': b['label'], 'kind': b['kind'], 'items': items})
+    return out
+
 def parse_adjust(note):
     """把扮演書的屬性分配說明轉成可驗證的規則。
 
@@ -314,6 +340,7 @@ for title, body in sections(ARCH, 2):
         'name': title,
         'signatureName': sig_title,
         'signature': parse_signature(sig_body),
+        'signatureBlocks': parse_signature_blocks(sig_body),
         'attributes': parse_attributes(sub.get('屬性', [])),
         'lux': lux,
         'consequences': cons,
@@ -321,6 +348,7 @@ for title, body in sections(ARCH, 2):
         'advancedAdvances': adv_adv,
         'advanceMoves': bold_blocks(sub.get('進階動作', [])),
         'intro': intro[0] if intro else '',
+        'introFull': '\n\n'.join(intro),
     })
 
 # ---------------- 友情／戀愛扮演書 ----------------
@@ -358,7 +386,32 @@ def pb_list(lines):
 friendship = pb_list(fr['友情扮演書'])
 romance = pb_list(fr['戀愛扮演書'])
 
+# ---------------- 世界觀問卷（setting.md） ----------------
+SET = read('setting.md')
+WORLD_Q = {}
+for _t, _b in sections(SET, 2):
+    for _st, _sb in sections(_b, 3):
+        if not _st.endswith('問卷'):
+            continue
+        WORLD_Q[_st[:-2]] = [x.strip().strip('*') for x in _sb
+                             if re.fullmatch(r'\*\*.+？\*\*', x.strip())]
+
+# ---------------- 扮演書西班牙文原名（es/archetypes.md） ----------------
+_ES = io.open(R.replace('/rules/', '/es/rules/') + 'archetypes.md', encoding='utf-8').read()
+_es_names = []
+for _l in _ES.split('\n'):
+    _l = _l.strip()
+    if re.fullmatch(r'La [A-ZÁÉÍÓÚÑ][a-záéíóúñ]+', _l) and _l not in _es_names:
+        _es_names.append(_l)
+    if len(_es_names) == len(PLAYBOOK_NAMES):
+        break
+assert len(_es_names) == len(PLAYBOOK_NAMES), _es_names
+for _p, _es in zip(playbooks, _es_names):
+    _p['nameEs'] = _es
+
 # ---------------- 盟約 ----------------
+MASCOT_TITLES = ('同伴', '使者', '監護者')
+EXTRA_TITLES = ('羈絆與友情', '合作')
 PA = read('pacts.md')
 pacts = []
 for t, b in sections(PA, 2):
@@ -415,7 +468,42 @@ for t, b in sections(PA, 2):
         else:
             grab = False
 
-    pacts.append({'name': t.replace('盟約：', ''), 'moves': moves, 'coopMoves': coop,
+    # 盟約說明：標題之後、第一個 ### 之前的段落
+    p_intro = []
+    for l in b:
+        if l.startswith('###'):
+            break
+        x = l.strip()
+        if x and not x.startswith('欲知更多'):
+            p_intro.append(x)
+
+    # 吉祥物（同伴／使者／監護者）：說明與扮演書欄位
+    mascot = None
+    for st, sb in sections(b, 3):
+        if st not in MASCOT_TITLES:
+            continue
+        m_desc = [x.strip() for x in sb[:next((i for i, l in enumerate(sb)
+                                               if l.startswith('####')), len(sb))]
+                  if x.strip() and not x.strip().startswith('以下將更詳細地介紹')]
+        fields = [{'label': ft, 'text': '\n'.join(fb).strip()}
+                  for ft, fb in sections(sb, 4)
+                  if ft not in ('閃耀點數',) + EXTRA_TITLES]
+        mascot = {'name': st, 'desc': '\n\n'.join(m_desc), 'fields': fields}
+        break
+
+    # 額外功能：光明子女「羈絆與友情」／正義騎士「合作」／契約傀儡無
+    extra = {'title': '無額外功能', 'text': ''}
+    for st, sb in sections(b, 3):
+        if st in EXTRA_TITLES:
+            extra = {'title': st, 'text': '\n'.join(sb).strip()}
+        for st4, sb4 in sections(sb, 4):
+            if st4 in EXTRA_TITLES:
+                extra = {'title': st4, 'text': '\n'.join(sb4).strip()}
+    pacts.append({'name': t.replace('盟約：', ''), 'intro': '\n\n'.join(p_intro),
+                  'mascot': mascot, 'extra': extra,
+                  'darknessText': '\n'.join(sub.get('黑暗', [])).strip(),
+                  'questions': WORLD_Q.get(t.replace('盟約：', ''), []),
+                  'moves': moves, 'coopMoves': coop,
                   'darkMoves': dark, 'darkRules': rules, 'advantages': adv,
                   'advantageIntro': intro, 'darkLevel5': lv5})
 

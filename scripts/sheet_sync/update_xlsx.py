@@ -17,20 +17,26 @@ import zipfile
 sys.stdout.reconfigure(encoding="utf-8")
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
-os.environ["TSV_QUOTED"] = "1"
 
-import gen_tsv          # noqa: E402
-import gen_raw          # noqa: E402
+import json                                            # noqa: E402
+import gen_from_rules as gfr                           # noqa: E402
 from manualmap import MANUAL, CELL_OVERRIDES, apply_terms   # noqa: E402
 
 SRC = sys.argv[1]
 DST = sys.argv[2]
 
+RULES = json.load(open(gfr.RULES, encoding="utf-8"))
+
+
+def sheet_builder(fn):
+    return lambda: fn(RULES)
+
+
 SOURCE_SHEETS = {
-    "pacto_sheet_source":   ("xl/worksheets/sheet7.xml",  gen_tsv.build_pacto),
-    "amistad_sheet_source": ("xl/worksheets/sheet9.xml",  gen_tsv.build_amistad),
-    "romance_sheet_source": ("xl/worksheets/sheet11.xml", gen_tsv.build_romance),
-    "raw_sheet_source":     ("xl/worksheets/sheet13.xml", gen_raw.build),
+    "pacto_sheet_source":   ("xl/worksheets/sheet7.xml",  sheet_builder(gfr.build_pacto)),
+    "amistad_sheet_source": ("xl/worksheets/sheet9.xml",  sheet_builder(gfr.build_amistad)),
+    "romance_sheet_source": ("xl/worksheets/sheet11.xml", sheet_builder(gfr.build_romance)),
+    "raw_sheet_source":     ("xl/worksheets/sheet13.xml", sheet_builder(gfr.build_raw)),
 }
 
 COL_RE = re.compile(r"^([A-Z]+)(\d+)$")
