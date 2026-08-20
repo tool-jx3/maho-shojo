@@ -350,23 +350,31 @@ def diff(out_dir, base_dir):
               % (fn, len(new), len(new[0]), len(old), len(old[0])))
         for c in range(ncol):
             a, b = col_cells(new, c), col_cells(old, c)
-            sm = difflib.SequenceMatcher(None, b, a, autojunk=False)
-            for tag, i1, i2, j1, j2 in sm.get_opcodes():
+            # 列數一致時逐列對位比較；列數不同才用 difflib 找出插入／刪除的列
+            if len(a) == len(b):
+                ops = [('replace', 0, len(b), 0, len(a))]
+            else:
+                ops = difflib.SequenceMatcher(None, b, a, autojunk=False).get_opcodes()
+            for tag, i1, i2, j1, j2 in ops:
                 if tag == 'equal':
                     n = sum(1 for x in b[i1:i2] if x)
                     total += n
                     same += n
                     continue
-                pairs = []
                 if tag == 'replace' and (i2 - i1) == (j2 - j1):
-                    pairs = list(zip(range(i1, i2), range(j1, j2)))
-                else:
-                    pairs = ([(i, None) for i in range(i1, i2)]
-                             + [(None, j) for j in range(j1, j2)])
+                    for oi, ni in zip(range(i1, i2), range(j1, j2)):
+                        if b[oi] and b[oi] == a[ni]:
+                            total += 1
+                            same += 1
+                # 先依位置配對，多出來的才算新增／刪除
+                pairs = list(zip(range(i1, i2), range(j1, j2)))
+                k = len(pairs)
+                pairs += [(i, None) for i in range(i1 + k, i2)]
+                pairs += [(None, j) for j in range(j1 + k, j2)]
                 for oi, ni in pairs:
                     o = b[oi] if oi is not None else ''
                     x = a[ni] if ni is not None else ''
-                    if not o and not x:
+                    if (not o and not x) or o == x:
                         continue
                     total += 1
                     if not o:
