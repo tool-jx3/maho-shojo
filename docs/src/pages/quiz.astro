@@ -6,8 +6,13 @@
 // 結果的說明文字則直接取自已翻譯的原書內容：
 //   - 盟約：pacts[].intro（該盟約適合什麼調性的故事）
 //   - 扮演書：playbooks[].roleInGame（原書「XX的遊戲定位」，本來就在說明適合哪種玩家）
-// 配對演算法：把作答換算成五屬性向量，與各扮演書的屬性組合做餘弦相似度，
-// 再除以該扮演書自身的最佳可達值，讓每本都以 100% 為滿分。
+// 配對演算法：把作答換算成五屬性向量，與各扮演書的屬性組合比對「側寫形狀」
+//   1. 兩邊都先減去各自平均再取餘弦（＝皮爾森相關），只看相對偏重，
+//      避免「每項都拿一點」的作答被沒有負值的扮演書通吃
+//   2. 多組屬性的扮演書（衛士三組、鬥士兩組）取最合適的那一組
+//   3. 再扣掉該扮演書在整個作答空間的平均相關並重新縮放到 0–100%，
+//      校正「屬性組合較多、或側寫較平」的扮演書天生佔便宜的問題
+// 校準常數由頁面載入後在閒置時列舉全部 4^9 種作答算出，題庫一改就會自動跟著變。
 // ============================================
 import rules from '../data/rules.json';
 
@@ -223,22 +228,67 @@ const DATA = {
 				const n = norm(a) * norm(b);
 				return n ? dot(a, b) / n : 0;
 			}
+			const center = (v) => {
+				const m = v.reduce((a, b) => a + b, 0) / v.length;
+				return v.map((x) => x - m);
+			};
 			function pbVectors(p) {
 				const a = p.attributes;
 				const sets = a.mode === 'sets' ? a.sets.map((s) => s.values) : [a.values];
 				return sets.map((v) => K.map((k) => v[k]));
 			}
-			// 每本以自身最佳可達值為 100%，避免帶負值的扮演書天生吃虧
-			function fitOf(user, vec) {
-				const best = cos(vec.map((x) => Math.max(0, x)), vec);
-				if (best <= 0) return 0;
-				return Math.max(0, cos(user, vec)) / best;
+			// 各扮演書屬性組合的置中向量（只算一次）
+			const PB_CENTERED = DATA.playbooks.map((p) => pbVectors(p).map(center));
+			// 使用者側寫與某本扮演書的相關：多組屬性取最合適的一組
+			function correlation(centeredUser, pi) {
+				let best = -2;
+				for (const v of PB_CENTERED[pi]) {
+					const c = cos(centeredUser, v);
+					if (c > best) best = c;
+				}
+				return best;
 			}
+
+			// 校準：各扮演書在「所有可能作答」下的平均相關。
+			// 沒有這一步，屬性組合較多或側寫較平的扮演書會佔掉大半的結果。
+			let CALIB = null;
+			function computeCalibration() {
+				const delta = ATTR_Q.map((q) => q.o.map((o) => K.map((k) => o.w[k] || 0)));
+				const sums = new Array(DATA.playbooks.length).fill(0);
+				const idx = new Array(delta.length).fill(0);
+				const u = new Array(K.length);
+				let count = 0;
+				for (;;) {
+					u.fill(0);
+					for (let q = 0; q < delta.length; q++) {
+						const dl = delta[q][idx[q]];
+						for (let i = 0; i < K.length; i++) u[i] += dl[i];
+					}
+					const cu = center(u);
+					for (let p = 0; p < sums.length; p++) sums[p] += correlation(cu, p);
+					count++;
+					let k = delta.length - 1;
+					while (k >= 0 && ++idx[k] >= delta[k].length) { idx[k] = 0; k--; }
+					if (k < 0) break;
+				}
+				CALIB = sums.map((x) => x / count);
+			}
+			// 列舉 4^9 種作答約需 0.2 秒，趁閒置時先算好，使用者答完題就直接可用
+			const idle = window.requestIdleCallback || ((fn) => setTimeout(fn, 200));
+			idle(() => { if (!CALIB) computeCalibration(); });
+
 			function playbookRanking() {
 				const u = K.map((k) => attrVector()[k]);
-				if (!norm(u)) return [];
+				if (!norm(center(u))) return [];
+				if (!CALIB) computeCalibration();
+				const cu = center(u);
 				return DATA.playbooks
-					.map((p) => ({ pb: p, fit: Math.max(...pbVectors(p).map((v) => fitOf(u, v))) }))
+					.map((p, i) => {
+						const r = correlation(cu, i);
+						const m = CALIB[i];
+						const fit = m < 1 ? (r - m) / (1 - m) : 0;
+						return { pb: p, fit: Math.max(0, Math.min(1, fit)) };
+					})
 					.sort((a, b) => b.fit - a.fit);
 			}
 
@@ -377,7 +427,7 @@ const DATA = {
 					abar.appendChild(row);
 				});
 				sec2.appendChild(abar);
-				sec2.appendChild(el('p', 'note', '把這個傾向和六本扮演書的屬性組合做比對，每本以自身最佳可達值為 100%。'));
+				sec2.appendChild(el('p', 'note', '比對的是「側寫形狀」——各項的相對偏重，而不是絕對高低。六本的分數都已扣掉該本在所有可能作答下的平均值，避免屬性組合較多的扮演書佔便宜。'));
 				box.appendChild(sec2);
 
 				// 扮演書
