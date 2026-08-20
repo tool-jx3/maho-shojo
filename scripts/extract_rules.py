@@ -391,7 +391,20 @@ def pb_list(lines):
             c = [y.strip() for y in x.strip('|').split('|')]
             if len(c) == 3 and c[1] != '等級':
                 levels.append({'state': c[0], 'level': c[1], 'effect': c[2]})
+        # 友情扮演書的兩個可比對特徵（供測驗篩選用）：
+        #   bondsExtra ── 超出玩家角色數的額外羈絆數（前輩可選 +1 或 +2，取較小值）
+        #   bondFocus  ── 標籤要求的對象：single 指定單一對象／group 整群標記／none 無
+        m_b = re.search(r'玩家角色數\s*\+\s*(\d+)', bonds)
+        extra = int(m_b.group(1)) if m_b else 0
+        if '無特殊標籤' in tags:
+            focus = 'none'
+        elif '所有的羈絆' in tags or '每條羈絆' in tags or tags.startswith('額外的'):
+            focus = 'group'
+        else:
+            focus = 'single'
         out.append({'name': t, 'tags': tags, 'bonds': bonds, 'questions': questions,
+                    'bondsExtra': extra, 'bondFocus': focus,
+                    'needsPlayer': '一位玩家角色' in tags,
                     'intro': ' '.join(intro), 'levels': levels, 'moves': bold_blocks(b)})
     return out
 friendship = pb_list(fr['友情扮演書'])
