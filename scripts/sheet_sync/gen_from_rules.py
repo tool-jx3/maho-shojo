@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """直接以 docs/src/data/rules.json 產生四張扮演書 TSV。
 
-與舊版 gen_tsv.py／gen_raw.py 的差別：內容不再是硬編碼的翻譯快照，
-而是每次都從規則 Markdown → rules.json 重新取得，翻譯一改就同步。
+內容不是硬編碼的翻譯快照，而是每次都從規則 Markdown → rules.json
+重新取得，翻譯一改就同步。
 
 用法：
     python scripts/extract_rules.py                 # 先更新 rules.json
