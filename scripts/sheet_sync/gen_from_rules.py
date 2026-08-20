@@ -45,6 +45,10 @@ ROLL_RE = re.compile(r'^(\d+\+|\d+-\d+|\d+-)$')
 
 # ── Markdown → 單一儲存格文字 ────────────────────────────────────────
 def flat(md):
+    return ' '.join(flat_parts(md)).strip()
+
+
+def flat_parts(md):
     """把規則 Markdown 攤平成表格儲存格用的一行文字。
 
     段落以半形空格相接；清單項目前置「✽ 」；擲骰結果（10+／7-9／6-）
@@ -77,14 +81,18 @@ def flat(md):
                 out.append('✽ ' + item)
             continue
         out.append(s.strip('*') if re.fullmatch(r'\*\*.+\*\*', s) else s)
-    return ' '.join(out).strip()
+    return out
 
 
 def move_cell(block):
-    """rules.json 的動作區塊 → 儲存格文字（含被 split_table 拆走的表格與選項）。"""
-    parts = [flat(block.get('text', ''))]
-    for o in block.get('options') or []:
-        parts.append('✽ %s：%s' % (o['name'], flat(o['text'])))
+    """rules.json 的動作區塊 → 儲存格文字（含被 split_options 拆走的選項）。"""
+    parts = flat_parts(block.get('text', ''))
+    opts = ['✽ %s：%s' % (o['name'], flat(o['text']))
+            for o in block.get('options') or []]
+    at = block.get('optionsAt')
+    if at is None:
+        at = len(parts)
+    parts = parts[:at] + opts + parts[at:]
     return ' '.join(x for x in parts if x).strip()
 
 
