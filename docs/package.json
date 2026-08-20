@@ -8,8 +8,9 @@
     "build": "astro build && node search/build/index.mjs",
     "preview": "astro preview",
     "astro": "astro",
-    "test": "node --test search/**/*.test.mjs",
-    "verify-search": "node search/verify.mjs"
+    "test": "node --test search/**/*.test.mjs quiz/*.test.mjs",
+    "verify-search": "node search/verify.mjs",
+    "quiz-report": "node quiz/report.mjs"
   },
   "dependencies": {
     "@astrojs/starlight": "^0.37.2",

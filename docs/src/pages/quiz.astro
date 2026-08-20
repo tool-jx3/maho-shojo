@@ -20,7 +20,14 @@
 // 改成用資料本身能支持的兩個特徵篩選（bondsExtra 額外羈絆數、bondFocus 標籤對象），
 // 再加兩題風味題排序，結果呈現「符合你的有這幾本」而不是「你就是這一本」。
 // ============================================
+import { readFileSync } from 'node:fs';
 import rules from '../data/rules.json';
+import questions from '../data/quiz-questions.json';
+
+// 計分邏輯只有一份，放在 quiz/scoring.mjs：這裡去掉 export 後內嵌，
+// quiz/lib.test.mjs 則直接 import 同一個檔案驗證，兩邊不可能走鐘。
+const scoring = readFileSync(new URL('../../quiz/scoring.mjs', import.meta.url), 'utf8')
+	.replace(/^export /gm, '');
 
 const DATA = {
 	attributeKeys: rules.attributeKeys,
@@ -32,6 +39,7 @@ const DATA = {
 		attributes: p.attributes,
 	})),
 	pacts: rules.pacts.map((p) => ({ name: p.name, intro: p.intro, mascot: p.mascot ? p.mascot.name : '' })),
+	questions,
 	friendship: rules.friendship.map((f) => ({
 		name: f.name,
 		intro: f.intro,
@@ -60,6 +68,7 @@ const DATA = {
 	</head>
 	<body>
 		<script type="application/json" id="quiz-data" set:html={JSON.stringify(DATA)}></script>
+		<script is:inline set:html={scoring}></script>
 
 		<header class="topbar">
 			<div class="brand">
@@ -95,300 +104,38 @@ const DATA = {
 				return n;
 			}
 
-			// ---- 題庫（本站自行撰寫；權重為五屬性加分） ----
-			const PACT_Q = [
-				{
-					q: '你想玩的故事裡，「黑暗」長什麼樣子？',
-					o: [
-						{ t: '日常裡的心結與陰影，不一定有實體', w: { 光明子女: 2 } },
-						{ t: '會變身、有名字、每次出現都要打一場的怪物', w: { 正義騎士: 2 } },
-						{ t: '你終究會變成的那個東西', w: { 契約傀儡: 2 } },
-					],
-				},
-				{
-					q: '一場聚會裡，你最想把時間花在哪？',
-					o: [
-						{ t: '朋友之間的日常互動與關係推進', w: { 光明子女: 2 } },
-						{ t: '熱血戰鬥與必殺技', w: { 正義騎士: 2 } },
-						{ t: '在失去與代價之間掙扎', w: { 契約傀儡: 2 } },
-					],
-				},
-				{
-					q: '你希望這個故事怎麼收尾？',
-					o: [
-						{ t: '溫暖的結局，大家都還在', w: { 光明子女: 2 } },
-						{ t: '光明戰勝黑暗，皆大歡喜', w: { 正義騎士: 2 } },
-						{ t: '未必有救贖，但足夠深刻', w: { 契約傀儡: 2 } },
-					],
-				},
-				{
-					q: '對你來說，魔法少女的力量是什麼？',
-					o: [
-						{ t: '是禮物，也是責任', w: { 光明子女: 2 } },
-						{ t: '是使命，有人正等著我', w: { 正義騎士: 2 } },
-						{ t: '是交易，總有一天要還', w: { 契約傀儡: 2 } },
-					],
-				},
-			];
-
-			const ATTR_Q = [
-				{
-					q: '放學路上，你看見有人正在為難同學。你的第一個動作是？',
-					o: [
-						{ t: '走過去站在中間，把對方擋下來', w: { 挑戰: 2, 保護: 1 } },
-						{ t: '先把同學拉開，確認他有沒有受傷', w: { 保護: 2, 奉獻: 1 } },
-						{ t: '先看清楚是誰起的頭、旁邊有誰能作證', w: { 思慮: 2 } },
-						{ t: '大聲喊出來，把周圍的人都吸引過來', w: { 情感: 2 } },
-					],
-				},
-				{
-					q: '隊伍卡在一個過不去的難關。你會？',
-					o: [
-						{ t: '我來開路，先撞撞看再說', w: { 挑戰: 2 } },
-						{ t: '先確認每個人的狀態都還撐得住', w: { 保護: 2 } },
-						{ t: '把已知的線索重新攤開排一次', w: { 思慮: 2 } },
-						{ t: '說點什麼讓大家先鬆一口氣', w: { 情感: 2 } },
-					],
-				},
-				{
-					q: '下列哪一件事最讓你害怕？',
-					o: [
-						{ t: '關鍵時刻發現自己不夠強', w: { 挑戰: 1, 奉獻: 1 } },
-						{ t: '有人因為我而受傷', w: { 保護: 2 } },
-						{ t: '判斷錯誤造成無法挽回的後果', w: { 思慮: 2 } },
-						{ t: '被大家遺忘，或是被討厭', w: { 情感: 2 } },
-					],
-				},
-				{
-					q: '朋友半夜傳訊息說心情很差。你會？',
-					o: [
-						{ t: '直接打電話過去，把話講開', w: { 情感: 2 } },
-						{ t: '隔天一早帶她最喜歡的東西去找她', w: { 奉獻: 2 } },
-						{ t: '先問清楚發生什麼事，幫她一起想辦法', w: { 思慮: 1, 保護: 1 } },
-						{ t: '陪她去把讓她難過的那件事解決掉', w: { 挑戰: 1, 保護: 1 } },
-					],
-				},
-				{
-					q: '你最希望別人怎麼形容你？',
-					o: [
-						{ t: '可靠', w: { 保護: 2 } },
-						{ t: '聰明', w: { 思慮: 2 } },
-						{ t: '有魅力', w: { 情感: 2 } },
-						{ t: '溫柔', w: { 奉獻: 2 } },
-					],
-				},
-				{
-					q: '分組報告時，你通常扮演什麼角色？',
-					o: [
-						{ t: '扛下最難啃的那一段', w: { 挑戰: 2 } },
-						{ t: '負責整合資料與最後檢查', w: { 思慮: 2 } },
-						{ t: '負責上台講給大家聽', w: { 情感: 2 } },
-						{ t: '默默把別人沒做完的補起來', w: { 奉獻: 2 } },
-					],
-				},
-				{
-					q: '面對明顯比你強大的對手，你心裡想的是？',
-					o: [
-						{ t: '越強越好，我要贏過他', w: { 挑戰: 2 } },
-						{ t: '只要能撐到大家都安全就夠了', w: { 保護: 2 } },
-						{ t: '再強也有弱點，找出來就好', w: { 思慮: 2 } },
-						{ t: '我還沒把力量用到極限', w: { 奉獻: 2 } },
-					],
-				},
-				{
-					q: '你覺得力量真正的來源是什麼？',
-					o: [
-						{ t: '不斷鍛鍊出來的意志', w: { 挑戰: 2 } },
-						{ t: '想要守護的那個人', w: { 保護: 1, 奉獻: 1 } },
-						{ t: '充分的理解與準備', w: { 思慮: 2 } },
-						{ t: '與他人之間的連結', w: { 情感: 2 } },
-					],
-				},
-				{
-					q: '一天結束時，你最需要什麼？',
-					o: [
-						{ t: '一場能盡情發洩的運動', w: { 挑戰: 2 } },
-						{ t: '確認每個人都平安到家', w: { 保護: 2 } },
-						{ t: '安靜地把今天整理一遍', w: { 思慮: 2 } },
-						{ t: '有個人願意聽我說話', w: { 情感: 2 } },
-					],
-				},
-			];
-
-			// 友情扮演書：前兩題對應資料裡的 bondsExtra／bondFocus，後兩題是排序用的風味題
-			const FR_BREADTH = [0, 1, 2, 4];
-			const FR_FOCUS = ['single', 'group', 'none'];
-			const FR_Q = [
-				{
-					q: '你的人際圈大概是什麼樣子？',
-					o: [
-						{ t: '很小，但每一段都很深' },
-						{ t: '剛好幾個真正重要的人' },
-						{ t: '一個緊密的小圈子' },
-						{ t: '很廣，認識我的人很多' },
-					],
-				},
-				{
-					q: '這些關係裡，有沒有一個特別的人？',
-					o: [
-						{ t: '有，一個誰都取代不了的人' },
-						{ t: '沒有特別的誰，但我們是一個整體' },
-						{ t: '沒有，我對每個人都差不多' },
-					],
-				},
-				{
-					q: '在關係裡，你通常是什麼位置？',
-					o: [
-						{ t: '被依賴、被請教的那一個', w: ['前輩', '心之所繫'] },
-						{ t: '主動去照顧、忍不住插手的那一個', w: ['愛操心', '大姐頭'] },
-						{ t: '把話藏在心裡，但有一個人懂我', w: ['獨行俠'] },
-						{ t: '有一個從小就在的人，不必解釋什麼', w: ['純真羈絆'] },
-						{ t: '並肩、對等，誰也不讓誰', w: ['忠誠', '勁敵', '姊妹會'] },
-						{ t: '家人永遠排第一', w: ['家族'] },
-					],
-				},
-				{
-					q: '下面哪一句最接近你？',
-					o: [
-						{ t: '「我不會丟下任何人。」', w: ['忠誠'] },
-						{ t: '「總有一天我會贏過你。」', w: ['勁敵'] },
-						{ t: '「你不用說，我知道。」', w: ['獨行俠', '純真羈絆'] },
-						{ t: '「大家在一起才是最強的。」', w: ['姊妹會', '大姐頭'] },
-						{ t: '「我想成為能被依靠的那個人。」', w: ['前輩', '家族'] },
-						{ t: '「有這麼多人願意靠近我，真好。」', w: ['心之所繫', '愛操心'] },
-					],
-				},
-			];
+			// ---- 題庫在 src/data/quiz-questions.json（本站自行撰寫） ----
+			const PACT_Q = DATA.questions.pact;
+			const ATTR_Q = DATA.questions.attribute;
+			const FR_BREADTH = DATA.questions.friendship.breadth;
+			const FR_FOCUS = DATA.questions.friendship.focus;
+			const FR_Q = DATA.questions.friendship.questions;
 
 			const ALL = PACT_Q.concat(ATTR_Q, FR_Q);
 			let PICK = new Array(ALL.length).fill(null);
 
-			// ---- 配對計算 ----
-			function attrVector() {
-				const v = Object.fromEntries(K.map((k) => [k, 0]));
-				ATTR_Q.forEach((q, i) => {
-					const p = PICK[PACT_Q.length + i];
-					if (p == null) return;
-					for (const [k, n] of Object.entries(q.o[p].w)) v[k] += n;
-				});
-				return v;
-			}
-			function pactScores() {
-				const s = Object.fromEntries(DATA.pacts.map((p) => [p.name, 0]));
-				PACT_Q.forEach((q, i) => {
-					const p = PICK[i];
-					if (p == null) return;
-					for (const [k, n] of Object.entries(q.o[p].w)) if (k in s) s[k] += n;
-				});
-				return s;
-			}
-			// 友情扮演書：羈絆數接近程度（最多 3 分）＋ 標籤對象相符（3 分）
-			// ＋ 兩題風味題（位置 3 分、心聲 2 分）。回傳完整排名，頁面只呈現前幾名。
-			function friendshipRanking() {
-				const base = PACT_Q.length + ATTR_Q.length;
-				const a = FR_Q.map((_, i) => PICK[base + i]);
-				if (a.some((x) => x == null)) return [];
-				const target = FR_BREADTH[a[0]];
-				const focus = FR_FOCUS[a[1]];
-				const w3 = FR_Q[2].o[a[2]].w || [];
-				const w4 = FR_Q[3].o[a[3]].w || [];
-				return DATA.friendship
-					.map((f) => {
-						let s = 3 - Math.min(3, Math.abs(f.bondsExtra - target));
-						if (f.bondFocus === focus) s += 3;
-						if (w3.includes(f.name)) s += 3;
-						if (w4.includes(f.name)) s += 2;
-						return { fr: f, score: s };
-					})
-					.sort((x, y) => y.score - x.score);
-			}
+			// ---- 配對計算（實作在 quiz/scoring.mjs，已於頁首內嵌） ----
+			const PB_CENTERED = centeredProfiles(DATA.playbooks, K);
+			const PACT_NAMES = DATA.pacts.map((p) => p.name);
+			const attrPicks = () => ATTR_Q.map((_, i) => PICK[PACT_Q.length + i]);
+			const frPicks = () => FR_Q.map((_, i) => PICK[PACT_Q.length + ATTR_Q.length + i]);
 
-			const dot = (a, b) => a.reduce((n, x, i) => n + x * b[i], 0);
-			const norm = (a) => Math.sqrt(dot(a, a));
-			function cos(a, b) {
-				const n = norm(a) * norm(b);
-				return n ? dot(a, b) / n : 0;
-			}
-			const center = (v) => {
-				const m = v.reduce((a, b) => a + b, 0) / v.length;
-				return v.map((x) => x - m);
-			};
-			function pbVectors(p) {
-				const a = p.attributes;
-				const sets = a.mode === 'sets' ? a.sets.map((s) => s.values) : [a.values];
-				return sets.map((v) => K.map((k) => v[k]));
-			}
-			// 各扮演書屬性組合的置中向量（只算一次）
-			const PB_CENTERED = DATA.playbooks.map((p) => pbVectors(p).map(center));
-			// 使用者側寫與某本扮演書的相關：多組屬性取最合適的一組
-			function correlation(centeredUser, pi) {
-				let best = -2;
-				for (const v of PB_CENTERED[pi]) {
-					const c = cos(centeredUser, v);
-					if (c > best) best = c;
-				}
-				return best;
-			}
+			const userVector = () => attrVector(ATTR_Q, attrPicks(), K);
+			const pactTally = () => pactScores(PACT_Q, PICK.slice(0, PACT_Q.length), PACT_NAMES);
+			const friendshipRanking = () =>
+				rankFriendship(FR_Q, frPicks(), DATA.friendship, FR_BREADTH, FR_FOCUS);
 
-			// 校準：各扮演書在「所有可能作答」下的平均相關。
-			// 沒有這一步，屬性組合較多或側寫較平的扮演書會佔掉大半的結果。
+			// 校準要跑完整個作答空間，約 0.2 秒；趁閒置先算好，使用者答完題就直接可用
 			let CALIB = null;
-			function computeCalibration() {
-				const delta = ATTR_Q.map((q) => q.o.map((o) => K.map((k) => o.w[k] || 0)));
-				const n = DATA.playbooks.length;
-				const sum = new Array(n).fill(0);
-				const sum2 = new Array(n).fill(0);
-				const idx = new Array(delta.length).fill(0);
-				const u = new Array(K.length);
-				let count = 0;
-				for (;;) {
-					u.fill(0);
-					for (let q = 0; q < delta.length; q++) {
-						const dl = delta[q][idx[q]];
-						for (let i = 0; i < K.length; i++) u[i] += dl[i];
-					}
-					const cu = center(u);
-					for (let p = 0; p < n; p++) {
-						const r = correlation(cu, p);
-						sum[p] += r;
-						sum2[p] += r * r;
-					}
-					count++;
-					let k = delta.length - 1;
-					while (k >= 0 && ++idx[k] >= delta[k].length) { idx[k] = 0; k--; }
-					if (k < 0) break;
-				}
-				const mean = sum.map((x) => x / count);
-				const std = sum2.map((x, i) => Math.sqrt(Math.max(0, x / count - mean[i] * mean[i])));
-				CALIB = { mean, std };
-			}
-
-			// 標準常態累積分布，把 z 分數換成好讀的百分位
-			function erf(x) {
-				const sign = x < 0 ? -1 : 1;
-				x = Math.abs(x);
-				const t = 1 / (1 + 0.3275911 * x);
-				const y = 1 - (((((1.061405429 * t - 1.453152027) * t) + 1.421413741) * t - 0.284496736) * t + 0.254829592) * t * Math.exp(-x * x);
-				return sign * y;
-			}
-			const normalCdf = (z) => 0.5 * (1 + erf(z / Math.SQRT2));
-			// 列舉 4^9 種作答約需 0.2 秒，趁閒置時先算好，使用者答完題就直接可用
+			const ensureCalib = () => {
+				if (!CALIB) CALIB = calibrate(ATTR_Q, K, PB_CENTERED);
+				return CALIB;
+			};
 			const idle = window.requestIdleCallback || ((fn) => setTimeout(fn, 200));
-			idle(() => { if (!CALIB) computeCalibration(); });
+			idle(ensureCalib);
 
-			function playbookRanking() {
-				const u = K.map((k) => attrVector()[k]);
-				if (!norm(center(u))) return [];
-				if (!CALIB) computeCalibration();
-				const cu = center(u);
-				return DATA.playbooks
-					.map((p, i) => {
-						const sd = CALIB.std[i] || 1;
-						const z = (correlation(cu, i) - CALIB.mean[i]) / sd;
-						return { pb: p, z, fit: normalCdf(z) };
-					})
-					.sort((a, b) => b.z - a.z);
-			}
+			const playbookRanking = () =>
+				rankPlaybooks(DATA.playbooks, PB_CENTERED, ensureCalib(), userVector(), K);
 
 			// ---- 角色卡預填連結（與角色卡頁同一套編碼） ----
 			const b64e = (bytes) => {
@@ -475,7 +222,7 @@ const DATA = {
 				$('#quiz').hidden = true;
 				box.hidden = false;
 
-				const ps = pactScores();
+				const ps = pactTally();
 				const pactRank = DATA.pacts
 					.map((p) => ({ p, s: ps[p.name] }))
 					.sort((a, b) => b.s - a.s);
@@ -509,7 +256,7 @@ const DATA = {
 				box.appendChild(sec1);
 
 				// 屬性傾向
-				const v = attrVector();
+				const v = userVector();
 				const maxV = Math.max(...K.map((k) => v[k]), 1);
 				const sec2 = el('section', 'card');
 				sec2.appendChild(el('p', 'kicker', '你的屬性傾向'));
