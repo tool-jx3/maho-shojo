@@ -183,6 +183,7 @@ const DATA = {
 					list.forEach((q, i) => {
 						const idx = offset + i;
 						const card = el('article', 'q' + (PICK[idx] != null ? ' done' : ''));
+						card.dataset.idx = String(idx);
 						const h = el('div', 'qhead');
 						h.appendChild(el('span', 'qno', String(idx + 1)));
 						h.appendChild(el('h3', null, q.q));
@@ -207,13 +208,29 @@ const DATA = {
 				group('第二部分・你是怎樣的人', '這九題會換算成五項屬性的傾向，再與六本原型扮演書比對。', ATTR_Q, PACT_Q.length);
 				group('第三部分・你與別人的關係', '這四題用來篩選友情扮演書。結果會列出幾本都合適的，而不是唯一答案。', FR_Q, PACT_Q.length + ATTR_Q.length);
 
+				const remain = ALL.length - done;
 				const go = el('div', 'gobar');
-				const btn = el('button', 'primary big', done === ALL.length ? '看結果' : '還有 ' + (ALL.length - done) + ' 題');
+				const btn = el(
+					'button',
+					'primary big' + (remain ? ' waiting' : ''),
+					remain ? '還有 ' + remain + ' 題未回答' : '看結果',
+				);
 				btn.type = 'button';
-				btn.disabled = done !== ALL.length;
-				btn.addEventListener('click', showResult);
+				btn.addEventListener('click', () => (remain ? seekUnanswered() : showResult()));
 				go.appendChild(btn);
 				box.appendChild(go);
+			}
+
+			// 跳到題號最小的未回答題目，並閃一下讓使用者看見是哪一題
+			function seekUnanswered() {
+				const idx = PICK.findIndex((x) => x == null);
+				if (idx < 0) return;
+				const card = $('#quiz .q[data-idx="' + idx + '"]');
+				if (!card) return;
+				const still = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+				card.scrollIntoView({ behavior: still ? 'auto' : 'smooth', block: 'center' });
+				card.classList.add('seek');
+				setTimeout(() => card.classList.remove('seek'), 1600);
 			}
 
 			async function showResult() {
@@ -447,6 +464,14 @@ const DATA = {
 				padding: .9rem 1rem; margin-top: .8rem;
 			}
 			.q.done { border-color: #5a4a92; }
+			.q.seek { animation: seek-pulse 1.5s ease-out; }
+			@keyframes seek-pulse {
+				0%, 100% { border-color: var(--line); box-shadow: none; }
+				15%, 55% { border-color: var(--star); box-shadow: 0 0 0 3px rgba(255, 217, 138, .18); }
+			}
+			@media (prefers-reduced-motion: reduce) {
+				.q.seek { animation: none; border-color: var(--star); }
+			}
 			.qhead { display: flex; gap: .55rem; align-items: center; }
 			.qno {
 				flex: none; width: 1.7rem; height: 1.7rem; border-radius: 50%;
@@ -468,7 +493,9 @@ const DATA = {
 				padding: .6rem 1.6rem; border-radius: 999px; cursor: pointer; text-decoration: none;
 				background: var(--accent); border: 1px solid var(--accent); color: #241033; font-weight: 600;
 			}
-			.primary.big:disabled { background: #2f2358; border-color: var(--line); color: var(--ink-dim); cursor: default; }
+			/* 未答完：維持「還沒好」的外觀，但可點擊跳到未回答的題目 */
+			.primary.big.waiting { background: #2f2358; border-color: var(--line); color: var(--ink-dim); }
+			.primary.big.waiting:hover { border-color: var(--accent); color: var(--ink); }
 
 			.card {
 				background: rgba(36, 27, 74, .72);
