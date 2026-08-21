@@ -358,6 +358,8 @@ for title, body in sections(ARCH, 2):
         'advanceMoves': bold_blocks(sub.get('進階動作', [])),
         'intro': intro[0] if intro else '',
         'introFull': '\n\n'.join(intro),
+        'roleInGame': '\n\n'.join(
+            x.strip() for x in intro_lines[_cut:] if x.strip() and not x.startswith('#')),
     })
 
 # ---------------- 友情／戀愛扮演書 ----------------
@@ -389,7 +391,20 @@ def pb_list(lines):
             c = [y.strip() for y in x.strip('|').split('|')]
             if len(c) == 3 and c[1] != '等級':
                 levels.append({'state': c[0], 'level': c[1], 'effect': c[2]})
+        # 友情扮演書的兩個可比對特徵（供測驗篩選用）：
+        #   bondsExtra ── 超出玩家角色數的額外羈絆數（前輩可選 +1 或 +2，取較小值）
+        #   bondFocus  ── 標籤要求的對象：single 指定單一對象／group 整群標記／none 無
+        m_b = re.search(r'玩家角色數\s*\+\s*(\d+)', bonds)
+        extra = int(m_b.group(1)) if m_b else 0
+        if '無特殊標籤' in tags:
+            focus = 'none'
+        elif '所有的羈絆' in tags or '每條羈絆' in tags or tags.startswith('額外的'):
+            focus = 'group'
+        else:
+            focus = 'single'
         out.append({'name': t, 'tags': tags, 'bonds': bonds, 'questions': questions,
+                    'bondsExtra': extra, 'bondFocus': focus,
+                    'needsPlayer': '一位玩家角色' in tags,
                     'intro': ' '.join(intro), 'levels': levels, 'moves': bold_blocks(b)})
     return out
 friendship = pb_list(fr['友情扮演書'])
@@ -397,13 +412,23 @@ romance = pb_list(fr['戀愛扮演書'])
 
 # ---------------- 世界觀問卷（setting.md） ----------------
 SET = read('setting.md')
-WORLD_Q = {}
+WORLD_Q, WORLD_QA = {}, {}
 for _t, _b in sections(SET, 2):
     for _st, _sb in sections(_b, 3):
         if not _st.endswith('問卷'):
             continue
         WORLD_Q[_st[:-2]] = [x.strip().strip('*') for x in _sb
                              if re.fullmatch(r'\*\*.+？\*\*', x.strip())]
+        # 題目＋官方候選答案（世界觀問卷產生器用）
+        qa, cur = [], None
+        for x in _sb:
+            t = x.strip()
+            if re.fullmatch(r'\*\*.+？\*\*', t):
+                cur = {'q': t.strip('*'), 'options': []}
+                qa.append(cur)
+            elif cur is not None and t.startswith('- '):
+                cur['options'].append(t[2:].strip())
+        WORLD_QA[_st[:-2]] = qa
 
 # ---------------- 扮演書西班牙文原名（es/archetypes.md） ----------------
 _ES = io.open(R.replace('/rules/', '/es/rules/') + 'archetypes.md', encoding='utf-8').read()
@@ -512,6 +537,7 @@ for t, b in sections(PA, 2):
                   'mascot': mascot, 'extra': extra,
                   'darknessText': '\n'.join(sub.get('黑暗', [])).strip(),
                   'questions': WORLD_Q.get(t.replace('盟約：', ''), []),
+                  'questionnaire': WORLD_QA.get(t.replace('盟約：', ''), []),
                   'moves': moves, 'coopMoves': coop,
                   'darkMoves': dark, 'darkRules': rules, 'advantages': adv,
                   'advantageIntro': intro, 'darkLevel5': lv5})

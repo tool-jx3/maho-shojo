@@ -1,0 +1,509 @@
+---
+// ============================================
+// 盟約與扮演書測驗（純前端，無後端）
+//
+// 非官方輔助工具：原書沒有這份測驗，題目為本站自行撰寫。
+// 結果的說明文字則直接取自已翻譯的原書內容：
+//   - 盟約：pacts[].intro（該盟約適合什麼調性的故事）
+//   - 扮演書：playbooks[].roleInGame（原書「XX的遊戲定位」，本來就在說明適合哪種玩家）
+// 配對演算法：把作答換算成五屬性向量，與各扮演書的屬性組合比對「側寫形狀」
+//   1. 兩邊都先減去各自平均再取餘弦（＝皮爾森相關），只看相對偏重，
+//      避免「每項都拿一點」的作答被沒有負值的扮演書通吃
+//   2. 多組屬性的扮演書（衛士三組、鬥士兩組）取最合適的那一組
+//   3. 換算成該扮演書自己的 z 分數（減平均、除以標準差），校正「屬性組合較多
+//      或側寫較平」的扮演書天生佔便宜的問題；顯示值為 z 的常態百分位
+// 校準用的平均與標準差，由頁面載入後在閒置時列舉全部 4^9 種作答算出，
+// 題庫一改就會自動跟著變。只扣平均不除標準差時，六本的出線率是 9.9–26.0%
+// （2.6 倍）；改用 z 分數後收斂到 13.9–20.2%（1.4 倍）。
+//
+// 友情扮演書不做單一配對——十本之間沒有可比對的數值量表，硬編分數只會是假精確。
+// 改成用資料本身能支持的兩個特徵篩選（bondsExtra 額外羈絆數、bondFocus 標籤對象），
+// 再加兩題風味題排序，結果呈現「符合你的有這幾本」而不是「你就是這一本」。
+// ============================================
+import { readFileSync } from 'node:fs';
+import rules from '../data/rules.json';
+import questions from '../data/quiz-questions.json';
+
+// 計分邏輯只有一份，放在 quiz/scoring.mjs：這裡去掉 export 後內嵌，
+// quiz/lib.test.mjs 則直接 import 同一個檔案驗證，兩邊不可能走鐘。
+const scoring = readFileSync(new URL('../../quiz/scoring.mjs', import.meta.url), 'utf8')
+	.replace(/^export /gm, '');
+
+const DATA = {
+	attributeKeys: rules.attributeKeys,
+	playbooks: rules.playbooks.map((p) => ({
+		name: p.name,
+		signatureName: p.signatureName,
+		intro: p.intro,
+		roleInGame: p.roleInGame,
+		attributes: p.attributes,
+	})),
+	pacts: rules.pacts.map((p) => ({ name: p.name, intro: p.intro, mascot: p.mascot ? p.mascot.name : '' })),
+	questions,
+	friendship: rules.friendship.map((f) => ({
+		name: f.name,
+		intro: f.intro,
+		bonds: f.bonds,
+		tags: f.tags,
+		bondsExtra: f.bondsExtra,
+		bondFocus: f.bondFocus,
+		needsPlayer: f.needsPlayer,
+	})),
+};
+---
+
+<html lang="zh-TW">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta name="robots" content="noindex, nofollow" />
+		<title>魔法少女──盟約與扮演書測驗</title>
+		<meta name="description" content="Mahō Shōjo 魔法少女 TRPG 非官方輔助測驗——回答十七題，找出適合你的盟約、原型扮演書與友情扮演書，並直接帶著結果開始建立角色卡。" />
+		<link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+		<meta name="theme-color" content="#12102a" />
+		<meta property="og:title" content="魔法少女──盟約與扮演書測驗" />
+		<meta property="og:description" content="回答十七題，找出適合你的盟約、原型扮演書與友情扮演書。" />
+		<meta property="og:type" content="website" />
+		<meta property="og:image" content="/og-image.jpg" />
+	</head>
+	<body>
+		<script type="application/json" id="quiz-data" set:html={JSON.stringify(DATA)}></script>
+		<script is:inline set:html={scoring}></script>
+
+		<header class="topbar">
+			<div class="brand">
+				<a class="home" href="/" title="回到文件站">✦</a>
+				<h1>盟約與扮演書測驗</h1>
+				<span class="sub">Mahō Shōjo・魔法少女</span>
+			</div>
+			<div class="tools">
+				<a class="linkbtn" href="/character/">角色卡建立</a>
+				<button type="button" id="btn-restart" class="ghost">重新測驗</button>
+			</div>
+		</header>
+
+		<p class="toast" id="toast" role="status" aria-live="polite"></p>
+
+		<main class="wrap">
+			<p class="disclaimer">
+				這是本站自製的<strong>非官方</strong>輔助工具，原書並沒有這份測驗。
+				結果只是建角色的起點，隨時可以推翻——想玩哪一本，那本就是對的。
+			</p>
+			<section id="quiz" aria-label="測驗"></section>
+			<section id="result" aria-label="結果" hidden></section>
+		</main>
+
+		<script is:inline>
+			const DATA = JSON.parse(document.getElementById('quiz-data').textContent);
+			const K = DATA.attributeKeys;
+			const $ = (s, r) => (r || document).querySelector(s);
+			function el(tag, cls, txt) {
+				const n = document.createElement(tag);
+				if (cls) n.className = cls;
+				if (txt != null) n.textContent = txt;
+				return n;
+			}
+
+			// ---- 題庫在 src/data/quiz-questions.json（本站自行撰寫） ----
+			const PACT_Q = DATA.questions.pact;
+			const ATTR_Q = DATA.questions.attribute;
+			const FR_BREADTH = DATA.questions.friendship.breadth;
+			const FR_FOCUS = DATA.questions.friendship.focus;
+			const FR_Q = DATA.questions.friendship.questions;
+
+			const ALL = PACT_Q.concat(ATTR_Q, FR_Q);
+			let PICK = new Array(ALL.length).fill(null);
+
+			// ---- 配對計算（實作在 quiz/scoring.mjs，已於頁首內嵌） ----
+			const PB_CENTERED = centeredProfiles(DATA.playbooks, K);
+			const PACT_NAMES = DATA.pacts.map((p) => p.name);
+			const attrPicks = () => ATTR_Q.map((_, i) => PICK[PACT_Q.length + i]);
+			const frPicks = () => FR_Q.map((_, i) => PICK[PACT_Q.length + ATTR_Q.length + i]);
+
+			const userVector = () => attrVector(ATTR_Q, attrPicks(), K);
+			const pactTally = () => pactScores(PACT_Q, PICK.slice(0, PACT_Q.length), PACT_NAMES);
+			const friendshipRanking = () =>
+				rankFriendship(FR_Q, frPicks(), DATA.friendship, FR_BREADTH, FR_FOCUS);
+
+			// 校準要跑完整個作答空間，約 0.2 秒；趁閒置先算好，使用者答完題就直接可用
+			let CALIB = null;
+			const ensureCalib = () => {
+				if (!CALIB) CALIB = calibrate(ATTR_Q, K, PB_CENTERED);
+				return CALIB;
+			};
+			const idle = window.requestIdleCallback || ((fn) => setTimeout(fn, 200));
+			idle(ensureCalib);
+
+			const playbookRanking = () =>
+				rankPlaybooks(DATA.playbooks, PB_CENTERED, ensureCalib(), userVector(), K);
+
+			// ---- 角色卡預填連結（與角色卡頁同一套編碼） ----
+			const b64e = (bytes) => {
+				let s = '';
+				for (const b of bytes) s += String.fromCharCode(b);
+				return btoa(s).replace(/\+/g, '-').replace(/\//g, '_').replace(/=+$/, '');
+			};
+			async function characterLink(pb, pact, fr) {
+				const raw = new TextEncoder().encode(JSON.stringify({ v: 1, pb, pact, fr: fr || '' }));
+				let code;
+				if (typeof CompressionStream === 'function') {
+					const cs = new CompressionStream('deflate-raw');
+					const buf = await new Response(new Blob([raw]).stream().pipeThrough(cs)).arrayBuffer();
+					code = 'z' + b64e(new Uint8Array(buf));
+				} else {
+					code = 'p' + b64e(raw);
+				}
+				return '/character/#c=' + code;
+			}
+
+			function toast(msg) {
+				const t = $('#toast');
+				t.textContent = msg;
+				t.classList.add('show');
+				setTimeout(() => t.classList.remove('show'), 2400);
+			}
+
+			// ---- 畫面 ----
+			function renderQuiz() {
+				const box = $('#quiz');
+				box.textContent = '';
+				const done = PICK.filter((x) => x != null).length;
+
+				const bar = el('div', 'progress');
+				const fill = el('div', 'fill');
+				fill.style.width = Math.round((done / ALL.length) * 100) + '%';
+				bar.appendChild(fill);
+				box.appendChild(bar);
+				box.appendChild(el('p', 'count', done + ' / ' + ALL.length + ' 題'));
+
+				const group = (title, note, list, offset) => {
+					const sec = el('section', 'group');
+					sec.appendChild(el('h2', null, title));
+					sec.appendChild(el('p', 'note', note));
+					list.forEach((q, i) => {
+						const idx = offset + i;
+						const card = el('article', 'q' + (PICK[idx] != null ? ' done' : ''));
+						const h = el('div', 'qhead');
+						h.appendChild(el('span', 'qno', String(idx + 1)));
+						h.appendChild(el('h3', null, q.q));
+						card.appendChild(h);
+						const opts = el('div', 'opts');
+						q.o.forEach((o, oi) => {
+							const b = el('button', 'opt' + (PICK[idx] === oi ? ' on' : ''), o.t);
+							b.type = 'button';
+							b.addEventListener('click', () => {
+								PICK[idx] = oi;
+								render();
+							});
+							opts.appendChild(b);
+						});
+						card.appendChild(opts);
+						sec.appendChild(card);
+					});
+					box.appendChild(sec);
+				};
+
+				group('第一部分・故事的調性', '這四題決定適合你的盟約——也就是這場戰役會是什麼味道。', PACT_Q, 0);
+				group('第二部分・你是怎樣的人', '這九題會換算成五項屬性的傾向，再與六本原型扮演書比對。', ATTR_Q, PACT_Q.length);
+				group('第三部分・你與別人的關係', '這四題用來篩選友情扮演書。結果會列出幾本都合適的，而不是唯一答案。', FR_Q, PACT_Q.length + ATTR_Q.length);
+
+				const go = el('div', 'gobar');
+				const btn = el('button', 'primary big', done === ALL.length ? '看結果' : '還有 ' + (ALL.length - done) + ' 題');
+				btn.type = 'button';
+				btn.disabled = done !== ALL.length;
+				btn.addEventListener('click', showResult);
+				go.appendChild(btn);
+				box.appendChild(go);
+			}
+
+			async function showResult() {
+				const box = $('#result');
+				box.textContent = '';
+				$('#quiz').hidden = true;
+				box.hidden = false;
+
+				const ps = pactTally();
+				const pactRank = DATA.pacts
+					.map((p) => ({ p, s: ps[p.name] }))
+					.sort((a, b) => b.s - a.s);
+				const topPact = pactRank[0];
+				const tiedPact = pactRank.filter((x) => x.s === topPact.s);
+				const rank = playbookRanking();
+				const top = rank[0];
+
+				// 盟約
+				const sec1 = el('section', 'card');
+				sec1.appendChild(el('p', 'kicker', '適合你的盟約'));
+				sec1.appendChild(el('h2', 'big', topPact.p.name));
+				if (tiedPact.length > 1) {
+					sec1.appendChild(el('p', 'note', '同分：' + tiedPact.map((x) => x.p.name).join('、') + '——兩種調性你都吃得下，看團隊想玩哪一種。'));
+				}
+				if (topPact.p.mascot) sec1.appendChild(el('p', 'note', '吉祥物：' + topPact.p.mascot));
+				sec1.appendChild(el('p', 'quote', topPact.p.intro.split('\n')[0]));
+				const pbar = el('div', 'bars');
+				pactRank.forEach((x) => {
+					const row = el('div', 'barrow');
+					row.appendChild(el('span', 'blabel', x.p.name));
+					const track = el('div', 'track');
+					const f = el('div', 'fill');
+					f.style.width = Math.round((x.s / Math.max(1, topPact.s)) * 100) + '%';
+					track.appendChild(f);
+					row.appendChild(track);
+					row.appendChild(el('span', 'bval', String(x.s)));
+					pbar.appendChild(row);
+				});
+				sec1.appendChild(pbar);
+				box.appendChild(sec1);
+
+				// 屬性傾向
+				const v = userVector();
+				const maxV = Math.max(...K.map((k) => v[k]), 1);
+				const sec2 = el('section', 'card');
+				sec2.appendChild(el('p', 'kicker', '你的屬性傾向'));
+				const abar = el('div', 'bars');
+				K.forEach((k) => {
+					const row = el('div', 'barrow');
+					row.appendChild(el('span', 'blabel', k));
+					const track = el('div', 'track');
+					const f = el('div', 'fill');
+					f.style.width = Math.round((v[k] / maxV) * 100) + '%';
+					track.appendChild(f);
+					row.appendChild(track);
+					row.appendChild(el('span', 'bval', String(v[k])));
+					abar.appendChild(row);
+				});
+				sec2.appendChild(abar);
+				sec2.appendChild(el('p', 'note', '比對的是「側寫形狀」——各項的相對偏重，而不是絕對高低。契合度是把你的側寫放進「這本在所有可能作答下的分佈」換算出的百分位，所以屬性組合較多的扮演書不會佔便宜。'));
+				box.appendChild(sec2);
+
+				// 扮演書
+				const sec3 = el('section', 'card');
+				sec3.appendChild(el('p', 'kicker', '最接近的扮演書'));
+				sec3.appendChild(el('h2', 'big', top.pb.name));
+				sec3.appendChild(el('p', 'note', '招牌動作：' + top.pb.signatureName + '　契合度 ' + Math.round(top.fit * 100) + '%'));
+				top.pb.roleInGame.split('\n\n').forEach((para) => {
+					if (para.trim()) sec3.appendChild(el('p', 'quote', para.trim()));
+				});
+				const rbar = el('div', 'bars');
+				rank.forEach((x) => {
+					const row = el('div', 'barrow');
+					row.appendChild(el('span', 'blabel', x.pb.name));
+					const track = el('div', 'track');
+					const f = el('div', 'fill');
+					f.style.width = Math.round(x.fit * 100) + '%';
+					track.appendChild(f);
+					row.appendChild(track);
+					row.appendChild(el('span', 'bval', Math.round(x.fit * 100) + '%'));
+					rbar.appendChild(row);
+				});
+				sec3.appendChild(rbar);
+				if (rank[1]) {
+					sec3.appendChild(el('p', 'note', '次名是「' + rank[1].pb.name + '」（' + Math.round(rank[1].fit * 100) + '%）——兩本都翻翻看再決定。'));
+				}
+				box.appendChild(sec3);
+
+				// 友情扮演書：呈現前幾名，不指定唯一答案
+				const frRank = friendshipRanking();
+				// 取分數相近的幾本；若只有一本明顯領先，仍補到三本，維持「挑一本你喜歡的」的用意
+				const frCut = frRank.length ? frRank.filter((x) => x.score >= frRank[0].score - 1) : [];
+				const frTop = frRank.length ? (frCut.length >= 3 ? frCut : frRank.slice(0, 3)).slice(0, 4) : [];
+				if (frTop.length) {
+					const sec35 = el('section', 'card');
+					sec35.appendChild(el('p', 'kicker', '合適的友情扮演書'));
+					sec35.appendChild(el('p', 'note', '依你的答案篩出這幾本（第一本最貼近）。十本之間沒有可以比大小的數值，所以這裡只做篩選不做評分——挑一本你喜歡的就好。'));
+					frTop.forEach((x, i) => {
+						const item = el('div', 'frcard' + (i === 0 ? ' first' : ''));
+						const h = el('div', 'frhead');
+						h.appendChild(el('strong', null, x.fr.name));
+						h.appendChild(el('span', 'frmeta', '額外羈絆 +' + x.fr.bondsExtra));
+						item.appendChild(h);
+						item.appendChild(el('p', 'frtext', x.fr.intro.length > 78 ? x.fr.intro.slice(0, 78) + '……' : x.fr.intro));
+						item.appendChild(el('p', 'frmeta', '標籤：' + x.fr.tags));
+						if (x.fr.needsPlayer) {
+							item.appendChild(el('p', 'frwarn', '※ 需要團裡有另一位玩家角色配合，開團時先談好。'));
+						}
+						sec35.appendChild(item);
+					});
+					if (frRank.length > frTop.length) {
+						const more = el('p', 'note');
+						more.append('其餘 ' + (frRank.length - frTop.length) + ' 本請見 ');
+						const a = el('a', null, '友情與戀愛');
+						a.href = '/rules/friendship-romance/#友情扮演書';
+						more.append(a, ' 章節。');
+						sec35.appendChild(more);
+					}
+					box.appendChild(sec35);
+				}
+
+				// 下一步
+				const sec4 = el('section', 'card actions');
+				const link = el('a', 'primary big', '帶著這個結果開始建角色卡');
+				link.title = '會預先選好扮演書、盟約與友情扮演書，之後都能自由更換';
+				link.href = await characterLink(top.pb.name, topPact.p.name, frTop.length ? frTop[0].fr.name : '');
+				sec4.appendChild(link);
+				const a2 = el('a', 'linkbtn', '讀「' + top.pb.name + '」的完整扮演書');
+				// 概要段落佔用了 #名稱，完整扮演書是同名的第二個標題 → #名稱-1
+				a2.href = '/rules/archetypes/#' + encodeURIComponent(top.pb.name + '-1');
+				sec4.appendChild(a2);
+				const a3 = el('a', 'linkbtn', '讀「' + topPact.p.name + '」盟約');
+				a3.href = '/rules/pacts/#' + encodeURIComponent('盟約' + topPact.p.name);
+				sec4.appendChild(a3);
+				const a4 = el('a', 'linkbtn', '用這個盟約做世界觀問卷');
+				a4.href = '/worldbuilding/';
+				sec4.appendChild(a4);
+				const again = el('button', 'ghost', '重新測驗');
+				again.type = 'button';
+				again.addEventListener('click', restart);
+				sec4.appendChild(again);
+				box.appendChild(sec4);
+
+				window.scrollTo({ top: 0, behavior: 'smooth' });
+			}
+
+			function restart() {
+				PICK = new Array(ALL.length).fill(null);
+				$('#result').hidden = true;
+				$('#quiz').hidden = false;
+				render();
+				window.scrollTo({ top: 0, behavior: 'smooth' });
+			}
+
+			function render() {
+				renderQuiz();
+			}
+
+			$('#btn-restart').addEventListener('click', restart);
+			render();
+		</script>
+
+		<style is:global>
+			:root {
+				--night: #12102a;
+				--panel: #241b4a;
+				--star: #ffd98a;
+				--ink: #f4eefe;
+				--ink-dim: #b9aed6;
+				--line: #3b2f68;
+				--accent: #d066c0;
+			}
+			* { margin: 0; padding: 0; box-sizing: border-box; }
+			body {
+				min-height: 100%;
+				background: radial-gradient(ellipse at 50% -10%, #241b4a, var(--night) 60%);
+				color: var(--ink);
+				font-family: 'Segoe UI', 'Noto Sans TC', 'Microsoft JhengHei', system-ui, sans-serif;
+				line-height: 1.7;
+			}
+			button, input { font: inherit; color: inherit; }
+			a { color: var(--star); }
+
+			.topbar {
+				position: sticky; top: 0; z-index: 20;
+				display: flex; flex-wrap: wrap; gap: .75rem;
+				align-items: center; justify-content: space-between;
+				padding: .7rem 1.1rem;
+				background: rgba(18, 16, 42, .92);
+				border-bottom: 1px solid var(--line);
+				backdrop-filter: blur(6px);
+			}
+			.brand { display: flex; align-items: baseline; gap: .6rem; }
+			.brand .home { color: var(--star); text-decoration: none; font-size: 1.3rem; }
+			.brand h1 { font-size: 1.15rem; letter-spacing: .04em; }
+			.brand .sub { color: var(--ink-dim); font-size: .82rem; }
+			.tools { display: flex; flex-wrap: wrap; gap: .4rem; }
+			.tools button, .linkbtn {
+				padding: .35rem .8rem; border-radius: 999px; cursor: pointer; text-decoration: none;
+				border: 1px solid var(--line); background: #1d1640; color: var(--ink);
+			}
+			.tools button:hover, .linkbtn:hover { border-color: var(--accent); }
+			.tools button.ghost { background: transparent; color: var(--ink-dim); }
+
+			.toast {
+				position: fixed; left: 50%; top: 4.2rem; transform: translateX(-50%) translateY(-.5rem);
+				padding: .45rem 1rem; border-radius: 999px;
+				background: #2f2358; border: 1px solid var(--accent);
+				opacity: 0; pointer-events: none; transition: opacity .2s, transform .2s; z-index: 30;
+			}
+			.toast.show { opacity: 1; transform: translateX(-50%) translateY(0); }
+
+			.wrap { max-width: 780px; margin: 0 auto; padding: 1.2rem; }
+			.disclaimer {
+				border: 1px dashed var(--line); border-radius: 12px;
+				padding: .7rem .9rem; color: var(--ink-dim); font-size: .88rem; margin-bottom: 1.2rem;
+			}
+			.disclaimer strong { color: var(--star); }
+
+			.progress { height: 6px; border-radius: 999px; background: #1d1640; overflow: hidden; }
+			.progress .fill { height: 100%; background: linear-gradient(90deg, var(--accent), var(--star)); transition: width .25s; }
+			.count { color: var(--ink-dim); font-size: .82rem; margin: .35rem 0 1.1rem; text-align: right; }
+
+			.group { margin-bottom: 1.8rem; }
+			.group h2 { font-size: 1.05rem; color: var(--star); }
+			.note { color: var(--ink-dim); font-size: .86rem; margin-top: .2rem; }
+
+			.q {
+				background: rgba(36, 27, 74, .72);
+				border: 1px solid var(--line); border-radius: 14px;
+				padding: .9rem 1rem; margin-top: .8rem;
+			}
+			.q.done { border-color: #5a4a92; }
+			.qhead { display: flex; gap: .55rem; align-items: center; }
+			.qno {
+				flex: none; width: 1.7rem; height: 1.7rem; border-radius: 50%;
+				display: grid; place-items: center; font-size: .8rem;
+				background: #1d1640; border: 1px solid var(--line); color: var(--ink-dim);
+			}
+			.q.done .qno { background: var(--star); border-color: var(--star); color: #241033; }
+			.qhead h3 { font-size: .98rem; font-weight: 600; }
+			.opts { display: grid; gap: .35rem; margin-top: .7rem; }
+			.opt {
+				text-align: left; padding: .5rem .75rem; border-radius: 10px; cursor: pointer;
+				border: 1px solid var(--line); background: #1d1640; font-size: .93rem;
+			}
+			.opt:hover { border-color: var(--accent); }
+			.opt.on { background: #2f2358; border-color: var(--star); }
+
+			.gobar { display: flex; justify-content: center; margin: 1.5rem 0 2.5rem; }
+			.primary.big, .actions .primary {
+				padding: .6rem 1.6rem; border-radius: 999px; cursor: pointer; text-decoration: none;
+				background: var(--accent); border: 1px solid var(--accent); color: #241033; font-weight: 600;
+			}
+			.primary.big:disabled { background: #2f2358; border-color: var(--line); color: var(--ink-dim); cursor: default; }
+
+			.card {
+				background: rgba(36, 27, 74, .72);
+				border: 1px solid var(--line); border-radius: 14px;
+				padding: 1.1rem 1.2rem; margin-bottom: 1rem;
+			}
+			.kicker { color: var(--ink-dim); font-size: .8rem; letter-spacing: .12em; }
+			.card h2.big { font-size: 1.6rem; color: var(--star); }
+			.quote {
+				border-left: 3px solid var(--line); padding-left: .8rem;
+				margin-top: .7rem; font-size: .93rem; color: #e6ddf7;
+			}
+			.bars { display: grid; gap: .35rem; margin-top: .9rem; }
+			.barrow { display: grid; grid-template-columns: 4.6rem 1fr 2.8rem; gap: .5rem; align-items: center; font-size: .85rem; }
+			.blabel { color: var(--ink-dim); }
+			.track { height: 8px; border-radius: 999px; background: #1d1640; overflow: hidden; }
+			.track .fill { height: 100%; background: linear-gradient(90deg, var(--accent), var(--star)); }
+			.bval { text-align: right; color: var(--ink-dim); }
+
+			.frcard {
+				border: 1px solid var(--line); border-radius: 11px;
+				padding: .6rem .8rem; margin-top: .6rem; background: #1d1640;
+			}
+			.frcard.first { border-color: var(--star); background: #2f2358; }
+			.frhead { display: flex; gap: .6rem; align-items: baseline; justify-content: space-between; }
+			.frhead strong { color: var(--star); }
+			.frtext { font-size: .88rem; margin-top: .2rem; }
+			.frmeta { color: var(--ink-dim); font-size: .8rem; }
+			.frwarn { color: var(--accent); font-size: .8rem; margin-top: .25rem; }
+
+			.actions { display: flex; flex-wrap: wrap; gap: .5rem; align-items: center; }
+			.actions .ghost {
+				padding: .35rem .8rem; border-radius: 999px; cursor: pointer;
+				border: 1px solid var(--line); background: transparent; color: var(--ink-dim);
+			}
+		</style>
+	</body>
+</html>
