@@ -58,11 +58,11 @@ const DATA = {
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<meta name="robots" content="noindex, nofollow" />
 		<title>魔法少女──盟約與扮演書測驗</title>
-		<meta name="description" content="Mahō Shōjo 魔法少女 TRPG 非官方輔助測驗——回答十三個問題，找出適合你的盟約與原型扮演書，並直接帶著結果開始建立角色卡。" />
+		<meta name="description" content="Mahō Shōjo 魔法少女 TRPG 非官方輔助測驗——回答十七題，找出適合你的盟約、原型扮演書與友情扮演書，並直接帶著結果開始建立角色卡。" />
 		<link rel="icon" href="/favicon.svg" type="image/svg+xml" />
 		<meta name="theme-color" content="#12102a" />
 		<meta property="og:title" content="魔法少女──盟約與扮演書測驗" />
-		<meta property="og:description" content="回答十三個問題，找出適合你的盟約與原型扮演書。" />
+		<meta property="og:description" content="回答十七題，找出適合你的盟約、原型扮演書與友情扮演書。" />
 		<meta property="og:type" content="website" />
 		<meta property="og:image" content="/og-image.jpg" />
 	</head>
@@ -205,7 +205,7 @@ const DATA = {
 
 				group('第一部分・故事的調性', '這四題決定適合你的盟約——也就是這場戰役會是什麼味道。', PACT_Q, 0);
 				group('第二部分・你是怎樣的人', '這九題會換算成五項屬性的傾向，再與六本原型扮演書比對。', ATTR_Q, PACT_Q.length);
-				group('第三部分・你與別人的關係', '這四題用來篩選友情扮演書。結果會給你幾本都合適的，不是唯一答案。', FR_Q, PACT_Q.length + ATTR_Q.length);
+				group('第三部分・你與別人的關係', '這四題用來篩選友情扮演書。結果會列出幾本都合適的，而不是唯一答案。', FR_Q, PACT_Q.length + ATTR_Q.length);
 
 				const go = el('div', 'gobar');
 				const btn = el('button', 'primary big', done === ALL.length ? '看結果' : '還有 ' + (ALL.length - done) + ' 題');
@@ -305,7 +305,7 @@ const DATA = {
 				// 友情扮演書：呈現前幾名，不指定唯一答案
 				const frRank = friendshipRanking();
 				// 取分數相近的幾本；若只有一本明顯領先，仍補到三本，維持「挑一本你喜歡的」的用意
-				const frCut = frRank.filter((x) => x.score >= frRank[0].score - 1);
+				const frCut = frRank.length ? frRank.filter((x) => x.score >= frRank[0].score - 1) : [];
 				const frTop = frRank.length ? (frCut.length >= 3 ? frCut : frRank.slice(0, 3)).slice(0, 4) : [];
 				if (frTop.length) {
 					const sec35 = el('section', 'card');
@@ -317,7 +317,7 @@ const DATA = {
 						h.appendChild(el('strong', null, x.fr.name));
 						h.appendChild(el('span', 'frmeta', '額外羈絆 +' + x.fr.bondsExtra));
 						item.appendChild(h);
-						item.appendChild(el('p', 'frtext', x.fr.intro.slice(0, 78) + '…'));
+						item.appendChild(el('p', 'frtext', x.fr.intro.length > 78 ? x.fr.intro.slice(0, 78) + '……' : x.fr.intro));
 						item.appendChild(el('p', 'frmeta', '標籤：' + x.fr.tags));
 						if (x.fr.needsPlayer) {
 							item.appendChild(el('p', 'frwarn', '※ 需要團裡有另一位玩家角色配合，開團時先談好。'));
@@ -342,7 +342,8 @@ const DATA = {
 				link.href = await characterLink(top.pb.name, topPact.p.name, frTop.length ? frTop[0].fr.name : '');
 				sec4.appendChild(link);
 				const a2 = el('a', 'linkbtn', '讀「' + top.pb.name + '」的完整扮演書');
-				a2.href = '/rules/archetypes/#' + encodeURIComponent(top.pb.name);
+				// 概要段落佔用了 #名稱，完整扮演書是同名的第二個標題 → #名稱-1
+				a2.href = '/rules/archetypes/#' + encodeURIComponent(top.pb.name + '-1');
 				sec4.appendChild(a2);
 				const a3 = el('a', 'linkbtn', '讀「' + topPact.p.name + '」盟約');
 				a3.href = '/rules/pacts/#' + encodeURIComponent('盟約' + topPact.p.name);
