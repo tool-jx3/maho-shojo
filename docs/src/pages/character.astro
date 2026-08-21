@@ -45,6 +45,7 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 				<span class="sub">Mahō Shōjo・魔法少女</span>
 			</div>
 			<div class="tools">
+				<a class="linkbtn" href="/">首頁</a>
 				<button type="button" id="btn-import">匯入 JSON</button>
 				<button type="button" id="btn-export">匯出 JSON</button>
 				<button type="button" id="btn-share">複製分享網址</button>
@@ -2270,12 +2271,13 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 			.brand h1 { font-size: 1.15rem; letter-spacing: .04em; }
 			.brand .sub { color: var(--ink-dim); font-size: .8rem; }
 			.tools { display: flex; flex-wrap: wrap; gap: .4rem; }
-			.tools button {
+			.tools button, .tools .linkbtn {
 				padding: .35rem .8rem; border-radius: 999px; cursor: pointer;
 				border: 1px solid var(--line); background: #1b1638; color: var(--ink);
 				transition: background .15s, border-color .15s;
 			}
-			.tools button:hover { background: #2a2154; border-color: var(--accent); }
+			.tools .linkbtn { text-decoration: none; }
+			.tools button:hover, .tools .linkbtn:hover { background: #2a2154; border-color: var(--accent); }
 			.tools button.primary { background: var(--accent); border-color: var(--accent); color: #1a0f22; font-weight: 600; }
 			.tools button.ghost { color: var(--ink-dim); }
 
