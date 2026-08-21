@@ -144,18 +144,20 @@ const DATA = {
 				for (const b of bytes) s += String.fromCharCode(b);
 				return btoa(s).replace(/\+/g, '-').replace(/\//g, '_').replace(/=+$/, '');
 			};
-			async function characterLink(pb, pact, fr) {
-				const raw = new TextEncoder().encode(JSON.stringify({ v: 1, pb, pact, fr: fr || '' }));
-				let code;
+			async function packState(obj) {
+				const raw = new TextEncoder().encode(JSON.stringify(obj));
 				if (typeof CompressionStream === 'function') {
 					const cs = new CompressionStream('deflate-raw');
 					const buf = await new Response(new Blob([raw]).stream().pipeThrough(cs)).arrayBuffer();
-					code = 'z' + b64e(new Uint8Array(buf));
-				} else {
-					code = 'p' + b64e(raw);
+					return 'z' + b64e(new Uint8Array(buf));
 				}
-				return '/character/#c=' + code;
+				return 'p' + b64e(raw);
 			}
+			// 角色卡頁的 BLANK 有 pb／pact／fr，世界觀問卷頁的是 pact／ans，欄位名兩邊一致
+			const characterLink = async (pb, pact, fr) =>
+				'/character/#c=' + (await packState({ v: 1, pb, pact, fr: fr || '' }));
+			const worldbuildingLink = async (pact) =>
+				'/worldbuilding/#w=' + (await packState({ v: 1, pact, ans: {} }));
 
 			function toast(msg) {
 				const t = $('#toast');
@@ -367,7 +369,7 @@ const DATA = {
 				a3.href = '/rules/pacts/#' + encodeURIComponent('盟約' + topPact.p.name);
 				sec4.appendChild(a3);
 				const a4 = el('a', 'linkbtn', '用這個盟約做世界觀問卷');
-				a4.href = '/worldbuilding/';
+				a4.href = await worldbuildingLink(topPact.p.name);
 				sec4.appendChild(a4);
 				const again = el('button', 'ghost', '重新測驗');
 				again.type = 'button';
