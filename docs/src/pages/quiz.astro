@@ -77,6 +77,7 @@ const DATA = {
 				<span class="sub">Mahō Shōjo・魔法少女</span>
 			</div>
 			<div class="tools">
+				<a class="linkbtn" href="/">首頁</a>
 				<a class="linkbtn" href="/character/">角色卡建立</a>
 				<button type="button" id="btn-restart" class="ghost">重新測驗</button>
 			</div>
@@ -143,18 +144,20 @@ const DATA = {
 				for (const b of bytes) s += String.fromCharCode(b);
 				return btoa(s).replace(/\+/g, '-').replace(/\//g, '_').replace(/=+$/, '');
 			};
-			async function characterLink(pb, pact, fr) {
-				const raw = new TextEncoder().encode(JSON.stringify({ v: 1, pb, pact, fr: fr || '' }));
-				let code;
+			async function packState(obj) {
+				const raw = new TextEncoder().encode(JSON.stringify(obj));
 				if (typeof CompressionStream === 'function') {
 					const cs = new CompressionStream('deflate-raw');
 					const buf = await new Response(new Blob([raw]).stream().pipeThrough(cs)).arrayBuffer();
-					code = 'z' + b64e(new Uint8Array(buf));
-				} else {
-					code = 'p' + b64e(raw);
+					return 'z' + b64e(new Uint8Array(buf));
 				}
-				return '/character/#c=' + code;
+				return 'p' + b64e(raw);
 			}
+			// 角色卡頁的 BLANK 有 pb／pact／fr，世界觀問卷頁的是 pact／ans，欄位名兩邊一致
+			const characterLink = async (pb, pact, fr) =>
+				'/character/#c=' + (await packState({ v: 1, pb, pact, fr: fr || '' }));
+			const worldbuildingLink = async (pact) =>
+				'/worldbuilding/#w=' + (await packState({ v: 1, pact, ans: {} }));
 
 			function toast(msg) {
 				const t = $('#toast');
@@ -183,6 +186,7 @@ const DATA = {
 					list.forEach((q, i) => {
 						const idx = offset + i;
 						const card = el('article', 'q' + (PICK[idx] != null ? ' done' : ''));
+						card.dataset.idx = String(idx);
 						const h = el('div', 'qhead');
 						h.appendChild(el('span', 'qno', String(idx + 1)));
 						h.appendChild(el('h3', null, q.q));
@@ -192,8 +196,11 @@ const DATA = {
 							const b = el('button', 'opt' + (PICK[idx] === oi ? ' on' : ''), o.t);
 							b.type = 'button';
 							b.addEventListener('click', () => {
+								const fresh = PICK[idx] == null;
 								PICK[idx] = oi;
 								render();
+								// 只有「新答」才往下帶；回頭改答案時留在原地，不打斷使用者
+								if (fresh) advanceFrom(idx);
 							});
 							opts.appendChild(b);
 						});
@@ -207,13 +214,42 @@ const DATA = {
 				group('第二部分・你是怎樣的人', '這九題會換算成五項屬性的傾向，再與六本原型扮演書比對。', ATTR_Q, PACT_Q.length);
 				group('第三部分・你與別人的關係', '這四題用來篩選友情扮演書。結果會列出幾本都合適的，而不是唯一答案。', FR_Q, PACT_Q.length + ATTR_Q.length);
 
+				const remain = ALL.length - done;
 				const go = el('div', 'gobar');
-				const btn = el('button', 'primary big', done === ALL.length ? '看結果' : '還有 ' + (ALL.length - done) + ' 題');
+				const btn = el(
+					'button',
+					'primary big' + (remain ? ' waiting' : ''),
+					remain ? '還有 ' + remain + ' 題未回答' : '看結果',
+				);
 				btn.type = 'button';
-				btn.disabled = done !== ALL.length;
-				btn.addEventListener('click', showResult);
+				btn.addEventListener('click', () => (remain ? seekUnanswered() : showResult()));
 				go.appendChild(btn);
 				box.appendChild(go);
+			}
+
+			// 作答後往下帶：先往後找未回答的，沒有就回頭補前面漏掉的，全答完則帶到底部按鈕。
+			// 目標已經完整在畫面內就不動，避免每答一題畫面都跳一下。
+			function advanceFrom(idx) {
+				if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+				let next = PICK.findIndex((x, i) => i > idx && x == null);
+				if (next < 0) next = PICK.findIndex((x) => x == null);
+				const target = next < 0 ? $('.gobar') : $('#quiz .q[data-idx="' + next + '"]');
+				if (!target) return;
+				const r = target.getBoundingClientRect();
+				if (r.top >= 0 && r.bottom <= window.innerHeight) return;
+				target.scrollIntoView({ behavior: 'smooth', block: 'center' });
+			}
+
+			// 跳到題號最小的未回答題目，並閃一下讓使用者看見是哪一題
+			function seekUnanswered() {
+				const idx = PICK.findIndex((x) => x == null);
+				if (idx < 0) return;
+				const card = $('#quiz .q[data-idx="' + idx + '"]');
+				if (!card) return;
+				const still = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+				card.scrollIntoView({ behavior: still ? 'auto' : 'smooth', block: 'center' });
+				card.classList.add('seek');
+				setTimeout(() => card.classList.remove('seek'), 1600);
 			}
 
 			async function showResult() {
@@ -349,7 +385,7 @@ const DATA = {
 				a3.href = '/rules/pacts/#' + encodeURIComponent('盟約' + topPact.p.name);
 				sec4.appendChild(a3);
 				const a4 = el('a', 'linkbtn', '用這個盟約做世界觀問卷');
-				a4.href = '/worldbuilding/';
+				a4.href = await worldbuildingLink(topPact.p.name);
 				sec4.appendChild(a4);
 				const again = el('button', 'ghost', '重新測驗');
 				again.type = 'button';
@@ -447,6 +483,14 @@ const DATA = {
 				padding: .9rem 1rem; margin-top: .8rem;
 			}
 			.q.done { border-color: #5a4a92; }
+			.q.seek { animation: seek-pulse 1.5s ease-out; }
+			@keyframes seek-pulse {
+				0%, 100% { border-color: var(--line); box-shadow: none; }
+				15%, 55% { border-color: var(--star); box-shadow: 0 0 0 3px rgba(255, 217, 138, .18); }
+			}
+			@media (prefers-reduced-motion: reduce) {
+				.q.seek { animation: none; border-color: var(--star); }
+			}
 			.qhead { display: flex; gap: .55rem; align-items: center; }
 			.qno {
 				flex: none; width: 1.7rem; height: 1.7rem; border-radius: 50%;
@@ -468,7 +512,9 @@ const DATA = {
 				padding: .6rem 1.6rem; border-radius: 999px; cursor: pointer; text-decoration: none;
 				background: var(--accent); border: 1px solid var(--accent); color: #241033; font-weight: 600;
 			}
-			.primary.big:disabled { background: #2f2358; border-color: var(--line); color: var(--ink-dim); cursor: default; }
+			/* 未答完：維持「還沒好」的外觀，但可點擊跳到未回答的題目 */
+			.primary.big.waiting { background: #2f2358; border-color: var(--line); color: var(--ink-dim); }
+			.primary.big.waiting:hover { border-color: var(--accent); color: var(--ink); }
 
 			.card {
 				background: rgba(36, 27, 74, .72);
