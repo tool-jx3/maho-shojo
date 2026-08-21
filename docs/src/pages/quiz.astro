@@ -196,8 +196,11 @@ const DATA = {
 							const b = el('button', 'opt' + (PICK[idx] === oi ? ' on' : ''), o.t);
 							b.type = 'button';
 							b.addEventListener('click', () => {
+								const fresh = PICK[idx] == null;
 								PICK[idx] = oi;
 								render();
+								// 只有「新答」才往下帶；回頭改答案時留在原地，不打斷使用者
+								if (fresh) advanceFrom(idx);
 							});
 							opts.appendChild(b);
 						});
@@ -222,6 +225,19 @@ const DATA = {
 				btn.addEventListener('click', () => (remain ? seekUnanswered() : showResult()));
 				go.appendChild(btn);
 				box.appendChild(go);
+			}
+
+			// 作答後往下帶：先往後找未回答的，沒有就回頭補前面漏掉的，全答完則帶到底部按鈕。
+			// 目標已經完整在畫面內就不動，避免每答一題畫面都跳一下。
+			function advanceFrom(idx) {
+				if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+				let next = PICK.findIndex((x, i) => i > idx && x == null);
+				if (next < 0) next = PICK.findIndex((x) => x == null);
+				const target = next < 0 ? $('.gobar') : $('#quiz .q[data-idx="' + next + '"]');
+				if (!target) return;
+				const r = target.getBoundingClientRect();
+				if (r.top >= 0 && r.bottom <= window.innerHeight) return;
+				target.scrollIntoView({ behavior: 'smooth', block: 'center' });
 			}
 
 			// 跳到題號最小的未回答題目，並閃一下讓使用者看見是哪一題
