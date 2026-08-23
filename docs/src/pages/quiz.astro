@@ -1,6 +1,6 @@
 ---
 // ============================================
-// 盟約與扮演書測驗（純前端，無後端）
+// 魔法少女適性測驗（純前端，無後端）
 //
 // 非官方輔助工具：原書沒有這份測驗，題目為本站自行撰寫。
 // 結果的說明文字則直接取自已翻譯的原書內容：
@@ -57,11 +57,11 @@ const DATA = {
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<meta name="robots" content="noindex, nofollow" />
-		<title>魔法少女──盟約與扮演書測驗</title>
+		<title>魔法少女適性測驗</title>
 		<meta name="description" content="Mahō Shōjo 魔法少女 TRPG 非官方輔助測驗——回答十七題，找出適合你的盟約、原型扮演書與友情扮演書，並直接帶著結果開始建立角色卡。" />
 		<link rel="icon" href="/favicon.svg" type="image/svg+xml" />
 		<meta name="theme-color" content="#12102a" />
-		<meta property="og:title" content="魔法少女──盟約與扮演書測驗" />
+		<meta property="og:title" content="魔法少女適性測驗" />
 		<meta property="og:description" content="回答十七題，找出適合你的盟約、原型扮演書與友情扮演書。" />
 		<meta property="og:type" content="website" />
 		<meta property="og:image" content="/og-image.jpg" />
@@ -73,7 +73,7 @@ const DATA = {
 		<header class="topbar">
 			<div class="brand">
 				<a class="home" href="/" title="回到文件站">✦</a>
-				<h1>盟約與扮演書測驗</h1>
+				<h1>適性測驗</h1>
 				<span class="sub">Mahō Shōjo・魔法少女</span>
 			</div>
 			<div class="tools">
@@ -158,6 +158,160 @@ const DATA = {
 				'/character/#c=' + (await packState({ v: 1, pb, pact, fr: fr || '' }));
 			const worldbuildingLink = async (pact) =>
 				'/worldbuilding/#w=' + (await packState({ v: 1, pact, ans: {} }));
+
+			// ---- 結果圖（純前端以 Canvas 繪製，不上傳任何資料） ----
+			const CARD_W = 1080;
+			const CARD_H = 1350;
+			const FONT = "'Noto Sans TC','Microsoft JhengHei',system-ui,sans-serif";
+			const font = (weight, size) => weight + ' ' + size + "px " + FONT;
+
+			function roundRect(x, a, b, w, h, r) {
+				x.beginPath();
+				x.moveTo(a + r, b);
+				x.arcTo(a + w, b, a + w, b + h, r);
+				x.arcTo(a + w, b + h, a, b + h, r);
+				x.arcTo(a, b + h, a, b, r);
+				x.arcTo(a, b, a + w, b, r);
+				x.closePath();
+			}
+
+			// 逐字量測換行：中文沒有空白可斷，只能一個字一個字疊上去
+			function wrap(x, text, max) {
+				const lines = [];
+				let line = '';
+				for (const ch of text) {
+					if (x.measureText(line + ch).width > max && line) {
+						lines.push(line);
+						line = ch;
+					} else {
+						line += ch;
+					}
+				}
+				if (line) lines.push(line);
+				return lines;
+			}
+
+			function drawShareCard(d) {
+				const c = document.createElement('canvas');
+				c.width = CARD_W;
+				c.height = CARD_H;
+				const x = c.getContext('2d');
+
+				const g = x.createRadialGradient(CARD_W / 2, -200, 60, CARD_W / 2, 500, 1250);
+				g.addColorStop(0, '#2c2159');
+				g.addColorStop(0.55, '#1c1642');
+				g.addColorStop(1, '#12102a');
+				x.fillStyle = g;
+				x.fillRect(0, 0, CARD_W, CARD_H);
+
+				// 星點：固定座標，每次產生的圖都一樣
+				x.fillStyle = 'rgba(255,217,138,.5)';
+				for (const [sx, sy, sr] of [
+					[90, 150, 3], [260, 92, 2], [430, 190, 2], [640, 110, 3], [880, 170, 2],
+					[150, 700, 2], [960, 520, 3], [70, 980, 2], [1000, 900, 2], [520, 1290, 2],
+					[300, 1230, 3], [820, 1250, 2], [990, 1180, 2], [60, 460, 2],
+				]) {
+					x.beginPath();
+					x.arc(sx, sy, sr, 0, Math.PI * 2);
+					x.fill();
+				}
+
+				x.textAlign = 'center';
+				x.fillStyle = '#ffd98a';
+				x.font = font('400', 34);
+				x.fillText('✦', CARD_W / 2, 92);
+				x.font = font('700', 40);
+				x.fillText('魔法少女　Mahō Shōjo', CARD_W / 2, 150);
+				x.fillStyle = '#b9aed6';
+				x.font = font('400', 27);
+				x.fillText('適性測驗', CARD_W / 2, 196);
+
+				const panel = (top, h) => {
+					x.fillStyle = 'rgba(36,27,74,.78)';
+					roundRect(x, 70, top, CARD_W - 140, h, 26);
+					x.fill();
+					x.strokeStyle = '#3b2f68';
+					x.lineWidth = 2;
+					x.stroke();
+				};
+				const kicker = (t, y) => {
+					x.textAlign = 'left';
+					x.fillStyle = '#d066c0';
+					x.font = font('700', 25);
+					x.fillText(t, 112, y);
+				};
+
+				// 盟約
+				panel(240, 200);
+				kicker('適合你的盟約', 296);
+				x.fillStyle = '#f4eefe';
+				x.font = font('700', 66);
+				x.fillText(d.pact, 112, 378);
+				if (d.mascot) {
+					x.fillStyle = '#b9aed6';
+					x.font = font('400', 26);
+					x.fillText('吉祥物：' + d.mascot, 112, 418);
+				}
+
+				// 扮演書
+				panel(464, 220);
+				kicker('最接近的扮演書', 520);
+				x.fillStyle = '#f4eefe';
+				x.font = font('700', 66);
+				x.fillText(d.pb, 112, 602);
+				x.fillStyle = '#b9aed6';
+				x.font = font('400', 26);
+				x.fillText('招牌動作：' + d.sig + '　契合度 ' + d.fit + '%', 112, 646);
+
+				// 屬性
+				const rows = d.attrs;
+				panel(708, 92 + rows.length * 52);
+				kicker('你的屬性傾向', 764);
+				const maxV = Math.max(1, ...rows.map((r) => r[1]));
+				rows.forEach(([name, val], i) => {
+					const y = 806 + i * 52;
+					x.textAlign = 'left';
+					x.fillStyle = '#f4eefe';
+					x.font = font('400', 28);
+					x.fillText(name, 112, y + 22);
+					const tx = 216;
+					const tw = 700;
+					x.fillStyle = '#1d1640';
+					roundRect(x, tx, y, tw, 30, 15);
+					x.fill();
+					const w = Math.max(30, Math.round((val / maxV) * tw));
+					const bg = x.createLinearGradient(tx, 0, tx + w, 0);
+					bg.addColorStop(0, '#d066c0');
+					bg.addColorStop(1, '#ffd98a');
+					x.fillStyle = bg;
+					roundRect(x, tx, y, w, 30, 15);
+					x.fill();
+					x.textAlign = 'right';
+					x.fillStyle = '#b9aed6';
+					x.font = font('400', 26);
+					x.fillText(String(val), CARD_W - 112, y + 23);
+				});
+
+				// 友情扮演書
+				const frTop = 708 + 92 + rows.length * 52 + 24;
+				x.font = font('400', 30);
+				const frLines = wrap(x, d.friendship.join('　'), CARD_W - 224);
+				panel(frTop, 76 + frLines.length * 42);
+				kicker('合適的友情扮演書', frTop + 56);
+				x.textAlign = 'left';
+				x.fillStyle = '#f4eefe';
+				x.font = font('400', 30);
+				frLines.forEach((ln, i) => x.fillText(ln, 112, frTop + 106 + i * 42));
+
+				x.textAlign = 'center';
+				x.fillStyle = '#b9aed6';
+				x.font = font('400', 25);
+				x.fillText('maho-shojo.vercel.app/quiz/', CARD_W / 2, CARD_H - 46);
+
+				return c;
+			}
+
+			const cardBlob = (c) => new Promise((res) => c.toBlob(res, 'image/png'));
 
 			function toast(msg) {
 				const t = $('#toast');
@@ -393,6 +547,84 @@ const DATA = {
 				sec4.appendChild(again);
 				box.appendChild(sec4);
 
+				// 分享結果圖
+				const sec5 = el('section', 'card share');
+				sec5.appendChild(el('p', 'kicker', '分享結果'));
+				sec5.appendChild(el('p', 'note', '圖片在你的瀏覽器裡直接畫出來，不會上傳任何資料。'));
+				const canvas = drawShareCard({
+					pact: topPact.p.name,
+					mascot: topPact.p.mascot,
+					pb: top.pb.name,
+					sig: top.pb.signatureName,
+					fit: Math.round(top.fit * 100),
+					attrs: K.map((k) => [k, v[k]]),
+					friendship: frTop.map((f) => f.fr.name),
+				});
+				const shot = el('img', 'shot');
+				shot.alt = '測驗結果圖：' + topPact.p.name + '／' + top.pb.name;
+				shot.src = canvas.toDataURL('image/png');
+				sec5.appendChild(shot);
+
+				// 檔名用純 ASCII：部分瀏覽器遇到非 ASCII 的 download 檔名會整個丟掉，
+				// 連副檔名一起消失，存下來的檔案會打不開。圖片本身已經寫著盟約與扮演書。
+				const fname = 'mahoshojo-quiz.png';
+				const btns = el('div', 'sharebtns');
+				const mkBtn = (label, cls, fn) => {
+					const bt = el('button', cls, label);
+					bt.type = 'button';
+					bt.addEventListener('click', fn);
+					btns.appendChild(bt);
+					return bt;
+				};
+
+				const download = async () => {
+					const blob = await cardBlob(canvas);
+					const a = el('a');
+					a.href = URL.createObjectURL(blob);
+					a.download = fname;
+					// 部分瀏覽器只對「在文件內」的連結套用 download 檔名
+					a.style.display = 'none';
+					document.body.appendChild(a);
+					a.click();
+					setTimeout(() => {
+						URL.revokeObjectURL(a.href);
+						a.remove();
+					}, 1000);
+					toast('已下載結果圖');
+				};
+
+				// 手機上優先叫系統分享面板，桌機則直接下載
+				const probe = new File([new Uint8Array(1)], 'a.png', { type: 'image/png' });
+				const canShareFile = typeof navigator.canShare === 'function' && navigator.canShare({ files: [probe] });
+				if (canShareFile) {
+					mkBtn('分享結果圖', 'primary', async () => {
+						try {
+							const blob = await cardBlob(canvas);
+							await navigator.share({
+								files: [new File([blob], fname, { type: 'image/png' })],
+								text: '我的魔法少女是「' + topPact.p.name + '・' + top.pb.name + '」',
+							});
+						} catch (e) {
+							if (e && e.name !== 'AbortError') download();
+						}
+					});
+				}
+				mkBtn(canShareFile ? '下載圖片' : '下載結果圖', canShareFile ? null : 'primary', download);
+
+				if (typeof ClipboardItem === 'function' && navigator.clipboard && navigator.clipboard.write) {
+					mkBtn('複製圖片', null, async () => {
+						try {
+							// Safari 需要在使用者手勢當下就交出 Promise，不能等 blob 產生完才建 ClipboardItem
+							await navigator.clipboard.write([new ClipboardItem({ 'image/png': cardBlob(canvas) })]);
+							toast('已複製圖片，可直接貼上');
+						} catch (e) {
+							toast('這個瀏覽器不支援複製圖片，請改用下載');
+						}
+					});
+				}
+				sec5.appendChild(btns);
+				box.appendChild(sec5);
+
 				window.scrollTo({ top: 0, behavior: 'smooth' });
 			}
 
@@ -515,6 +747,18 @@ const DATA = {
 			/* 未答完：維持「還沒好」的外觀，但可點擊跳到未回答的題目 */
 			.primary.big.waiting { background: #2f2358; border-color: var(--line); color: var(--ink-dim); }
 			.primary.big.waiting:hover { border-color: var(--accent); color: var(--ink); }
+
+			.share .shot {
+				display: block; width: 100%; max-width: 380px; margin: .8rem auto 0;
+				border-radius: 12px; border: 1px solid var(--line);
+			}
+			.sharebtns { display: flex; flex-wrap: wrap; gap: .5rem; justify-content: center; margin-top: .9rem; }
+			.sharebtns button {
+				padding: .5rem 1.1rem; border-radius: 999px; cursor: pointer;
+				border: 1px solid var(--line); background: #1d1640; color: var(--ink);
+			}
+			.sharebtns button:hover { border-color: var(--accent); }
+			.sharebtns button.primary { background: var(--accent); border-color: var(--accent); color: #241033; font-weight: 600; }
 
 			.card {
 				background: rgba(36, 27, 74, .72);
