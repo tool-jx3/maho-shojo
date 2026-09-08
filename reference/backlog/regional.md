@@ -1,0 +1,265 @@
+# 待收錄候選：各地區的巫術
+
+共 259 項。回到 [待辦總表](../BACKLOG.md)。
+
+本檔由 `scripts/build_reference_backlog.py` 產生，是機器掃描的結果而非選錄決定，每一項都需要人工判斷。
+
+- [ ] **Processi per stregoneria in Italia**（義大利語，161,304 字元）— [原文](https://it.wikipedia.org/wiki/Processi_per_stregoneria_in_Italia) — 來源分類：Categoria:Stregoneria > Processi per stregoneria > Processi per stregoneria in Italia
+- [ ] **European witchcraft**（英語，133,845 字元）— [原文](https://en.wikipedia.org/wiki/European_witchcraft) — 來源分類：Category:European witchcraft
+- [ ] **Harry Potter y el legado maldito**（西班牙語，131,869 字元）— [原文](https://es.wikipedia.org/wiki/Harry_Potter_y_el_legado_maldito) — 來源分類：Categoría:Brujería > Brujería en la ficción > Harry Potter
+- [ ] **Harry Potter**（西班牙語，111,220 字元）— [原文](https://es.wikipedia.org/wiki/Harry_Potter) — 來源分類：Categoría:Brujería > Brujería en la ficción > Harry Potter
+- [ ] **Política en Harry Potter**（西班牙語，96,331 字元）— [原文](https://es.wikipedia.org/wiki/Pol%C3%ADtica_en_Harry_Potter) — 來源分類：Categoría:Brujería > Brujería en la ficción > Harry Potter
+- [ ] **Harry Potter (serie de televisión)**（西班牙語，90,654 字元）— [原文](https://es.wikipedia.org/wiki/Harry_Potter_%28serie_de_televisi%C3%B3n%29) — 來源分類：Categoría:Brujería > Brujería en la ficción > Harry Potter
+- [ ] **Zduhać**（英語，78,266 字元）— [原文](https://en.wikipedia.org/wiki/Zduha%C4%87) — 來源分類：Category:European witchcraft
+- [ ] **Influencias y analogías en Harry Potter**（西班牙語，72,106 字元）— [原文](https://es.wikipedia.org/wiki/Influencias_y_analog%C3%ADas_en_Harry_Potter) — 來源分類：Categoría:Brujería > Brujería en la ficción > Harry Potter
+- [ ] **The Wonderful Wizard of Oz**（英語，68,561 字元）— [原文](https://en.wikipedia.org/wiki/The_Wonderful_Wizard_of_Oz) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in written fiction
+- [ ] **Herejía de Orleans**（西班牙語，67,006 字元）— [原文](https://es.wikipedia.org/wiki/Herej%C3%ADa_de_Orleans) — 來源分類：Categoría:Brujería > Brujería por país > Brujería en Francia
+- [ ] **His Dark Materials**（英語，64,802 字元）— [原文](https://en.wikipedia.org/wiki/His_Dark_Materials) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in written fiction
+- [ ] **Fandom de Harry Potter**（西班牙語，63,233 字元）— [原文](https://es.wikipedia.org/wiki/Fandom_de_Harry_Potter) — 來源分類：Categoría:Brujería > Brujería en la ficción > Harry Potter
+- [ ] **Brujería en España**（西班牙語，62,793 字元）— [原文](https://es.wikipedia.org/wiki/Brujer%C3%ADa_en_Espa%C3%B1a) — 來源分類：Categoría:Brujería > Brujería por país > Brujería en España
+- [ ] **Jean Bodin**（英語，62,166 字元）— [原文](https://en.wikipedia.org/wiki/Jean_Bodin) — 來源分類：Category:European witchcraft > Witchcraft in France
+- [ ] **Holy Grail**（英語，62,075 字元）— [原文](https://en.wikipedia.org/wiki/Holy_Grail) — 來源分類：Category:European witchcraft > Cauldrons
+- [ ] **Witch-cult hypothesis**（英語，60,567 字元）— [原文](https://en.wikipedia.org/wiki/Witch-cult_hypothesis) — 來源分類：Category:European witchcraft
+- [ ] **Witches (Discworld)**（英語，60,230 字元）— [原文](https://en.wikipedia.org/wiki/Witches_%28Discworld%29) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in written fiction
+- [ ] **Atropa bella-donna**（英語，57,332 字元）— [原文](https://en.wikipedia.org/wiki/Atropa_bella-donna) — 來源分類：Category:European witchcraft
+- [ ] **Cultural references to Macbeth**（英語，50,255 字元）— [原文](https://en.wikipedia.org/wiki/Cultural_references_to_Macbeth) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in written fiction
+- [ ] **Walpurgis Night**（英語，49,295 字元）— [原文](https://en.wikipedia.org/wiki/Walpurgis_Night) — 來源分類：Category:European witchcraft > Witchcraft in Germany
+- [ ] **Debates religiosos sobre la serie Harry Potter**（西班牙語，46,309 字元）— [原文](https://es.wikipedia.org/wiki/Debates_religiosos_sobre_la_serie_Harry_Potter) — 來源分類：Categoría:Brujería > Brujería en la ficción > Harry Potter
+- [ ] **Brocken**（英語，43,416 字元）— [原文](https://en.wikipedia.org/wiki/Brocken) — 來源分類：Category:European witchcraft > Witchcraft in Germany
+- [ ] **Gundestrup cauldron**（英語，42,929 字元）— [原文](https://en.wikipedia.org/wiki/Gundestrup_cauldron) — 來源分類：Category:European witchcraft > Cauldrons
+- [ ] **Night on Bald Mountain**（英語，42,885 字元）— [原文](https://en.wikipedia.org/wiki/Night_on_Bald_Mountain) — 來源分類：Category:European witchcraft > Witches' Sabbath
+- [ ] **Sorcières de Pendle**（法語，42,055 字元）— [原文](https://fr.wikipedia.org/wiki/Sorci%C3%A8res_de_Pendle) — 來源分類：Catégorie:Sorcellerie > Procès de sorcellerie > Procès de sorcellerie en Angleterre
+- [ ] **Juicio de Juana de Arco**（西班牙語，41,065 字元）— [原文](https://es.wikipedia.org/wiki/Juicio_de_Juana_de_Arco) — 來源分類：Categoría:Brujería > Brujería por país > Brujería en Francia
+- [ ] **Three Witches**（英語，37,927 字元）— [原文](https://en.wikipedia.org/wiki/Three_Witches) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in written fiction
+- [ ] **Magia y brujería en México**（西班牙語，37,374 字元）— [原文](https://es.wikipedia.org/wiki/Magia_y_brujer%C3%ADa_en_M%C3%A9xico) — 來源分類：Categoría:Brujería > Brujería en América
+- [ ] **The Chronicles of Prydain**（英語，36,730 字元）— [原文](https://en.wikipedia.org/wiki/The_Chronicles_of_Prydain) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in written fiction
+- [ ] **Viy (story)**（英語，36,561 字元）— [原文](https://en.wikipedia.org/wiki/Viy_%28story%29) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in written fiction
+- [ ] **Symphonie fantastique**（英語，35,800 字元）— [原文](https://en.wikipedia.org/wiki/Symphonie_fantastique) — 來源分類：Category:European witchcraft > Witches' Sabbath
+- [ ] **Befana**（英語，35,568 字元）— [原文](https://en.wikipedia.org/wiki/Befana) — 來源分類：Category:European witchcraft > Witchcraft in Italy
+- [ ] **Witches' Sabbath**（英語，35,378 字元）— [原文](https://en.wikipedia.org/wiki/Witches%27_Sabbath) — 來源分類：Category:European witchcraft
+- [ ] **Black Mass**（英語，35,373 字元）— [原文](https://en.wikipedia.org/wiki/Black_Mass) — 來源分類：Category:European witchcraft
+- [ ] **Brujería vasca**（西班牙語，35,183 字元）— [原文](https://es.wikipedia.org/wiki/Brujer%C3%ADa_vasca) — 來源分類：Categoría:Brujería > Brujería por país > Brujería en España
+- [ ] **Geografía de la Tierra Media**（西班牙語，35,181 字元）— [原文](https://es.wikipedia.org/wiki/Geograf%C3%ADa_de_la_Tierra_Media) — 來源分類：Categoría:Brujería > Brujería en la ficción > Tierra Media
+- [ ] **Wicked (Maguire novel)**（英語，34,981 字元）— [原文](https://en.wikipedia.org/wiki/Wicked_%28Maguire_novel%29) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in written fiction
+- [ ] **My Immortal (fan fiction)**（英語，34,364 字元）— [原文](https://en.wikipedia.org/wiki/My_Immortal_%28fan_fiction%29) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in written fiction
+- [ ] **Sebile**（英語，34,141 字元）— [原文](https://en.wikipedia.org/wiki/Sebile) — 來源分類：Category:European witchcraft > Witchcraft in Italy
+- [ ] **The Night Battles**（英語，34,007 字元）— [原文](https://en.wikipedia.org/wiki/The_Night_Battles) — 來源分類：Category:European witchcraft > Witchcraft in Italy
+- [ ] **Mona Fandey**（法語，33,960 字元）— [原文](https://fr.wikipedia.org/wiki/Mona_Fandey) — 來源分類：Catégorie:Sorcellerie > Sorcellerie par lieu > Sorcellerie en Asie
+- [ ] **Juglans regia**（英語，33,208 字元）— [原文](https://en.wikipedia.org/wiki/Juglans_regia) — 來源分類：Category:European witchcraft > Witches' Sabbath
+- [ ] **Flying ointment**（英語，32,964 字元）— [原文](https://en.wikipedia.org/wiki/Flying_ointment) — 來源分類：Category:European witchcraft
+- [ ] **Witch's milk**（英語，31,988 字元）— [原文](https://en.wikipedia.org/wiki/Witch%27s_milk) — 來源分類：Category:European witchcraft
+- [ ] **Sorcières de Samlesbury**（法語，31,857 字元）— [原文](https://fr.wikipedia.org/wiki/Sorci%C3%A8res_de_Samlesbury) — 來源分類：Catégorie:Sorcellerie > Procès de sorcellerie > Procès de sorcellerie en Angleterre
+- [ ] **Frau Holle**（西班牙語，31,765 字元）— [原文](https://es.wikipedia.org/wiki/Frau_Holle) — 來源分類：Categoría:Brujería > Magia y brujería en folclore y mitología
+- [ ] **The Dunwich Horror**（英語，31,753 字元）— [原文](https://en.wikipedia.org/wiki/The_Dunwich_Horror) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in written fiction
+- [ ] **Cunning folk**（英語，30,534 字元）— [原文](https://en.wikipedia.org/wiki/Cunning_folk) — 來源分類：Category:European witchcraft
+- [ ] **Sorcellerie en Auvergne**（法語，30,477 字元）— [原文](https://fr.wikipedia.org/wiki/Sorcellerie_en_Auvergne) — 來源分類：Catégorie:Sorcellerie > Sorcellerie par lieu > Sorcellerie en France
+- [ ] **Black cat**（英語，30,290 字元）— [原文](https://en.wikipedia.org/wiki/Black_cat) — 來源分類：Category:European witchcraft > Familiars
+- [ ] **Drude**（英語，29,692 字元）— [原文](https://en.wikipedia.org/wiki/Drude) — 來源分類：Category:European witchcraft > Witchcraft in Germany
+- [ ] **Kuda-gitsune**（英語，29,663 字元）— [原文](https://en.wikipedia.org/wiki/Kuda-gitsune) — 來源分類：Category:European witchcraft > Familiars
+- [ ] **Pella curse tablet**（英語，29,124 字元）— [原文](https://en.wikipedia.org/wiki/Pella_curse_tablet) — 來源分類：Category:European witchcraft
+- [ ] **Espejo de Oesed**（西班牙語，29,083 字元）— [原文](https://es.wikipedia.org/wiki/Espejo_de_Oesed) — 來源分類：Categoría:Brujería > Brujería en la ficción > Harry Potter
+- [ ] **Baba Yaga**（英語，28,903 字元）— [原文](https://en.wikipedia.org/wiki/Baba_Yaga) — 來源分類：Category:European witchcraft > Witchcraft in Ukraine
+- [ ] **Malin Matsdotter**（法語，28,448 字元）— [原文](https://fr.wikipedia.org/wiki/Malin_Matsdotter) — 來源分類：Catégorie:Sorcellerie > Sorcellerie par lieu > Sorcellerie en Suède
+- [ ] **Beowulf y la Tierra Media**（西班牙語，27,952 字元）— [原文](https://es.wikipedia.org/wiki/Beowulf_y_la_Tierra_Media) — 來源分類：Categoría:Brujería > Brujería en la ficción > Tierra Media
+- [ ] **Chen Jiao**（英語，27,389 字元）— [原文](https://en.wikipedia.org/wiki/Chen_Jiao) — 來源分類：Category:Witchcraft > Witchcraft by country > Witchcraft in China
+- [ ] **Wei Zifu**（英語，26,323 字元）— [原文](https://en.wikipedia.org/wiki/Wei_Zifu) — 來源分類：Category:Witchcraft > Witchcraft by country > Witchcraft in China
+- [ ] **Witches' Sabbath (The Great He-Goat)**（英語，26,204 字元）— [原文](https://en.wikipedia.org/wiki/Witches%27_Sabbath_%28The_Great_He-Goat%29) — 來源分類：Category:European witchcraft > Witchcraft in Spain
+- [ ] **Sorcellerie au Moyen-Orient**（法語，26,134 字元）— [原文](https://fr.wikipedia.org/wiki/Sorcellerie_au_Moyen-Orient) — 來源分類：Catégorie:Sorcellerie > Sorcellerie par lieu > Sorcellerie en Afrique
+- [ ] **Sonido y lenguaje en la Tierra Media**（西班牙語，26,044 字元）— [原文](https://es.wikipedia.org/wiki/Sonido_y_lenguaje_en_la_Tierra_Media) — 來源分類：Categoría:Brujería > Brujería en la ficción > Tierra Media
+- [ ] **Noche de Walpurgis**（西班牙語，26,027 字元）— [原文](https://es.wikipedia.org/wiki/Noche_de_Walpurgis) — 來源分類：Categoría:Brujería > Brujería por país > Brujería en Alemania
+- [ ] **Nkondi**（法語，25,420 字元）— [原文](https://fr.wikipedia.org/wiki/Nkondi) — 來源分類：Catégorie:Sorcellerie > Sorcellerie par lieu > Sorcellerie en Afrique
+- [ ] **Sycorax**（英語，25,364 字元）— [原文](https://en.wikipedia.org/wiki/Sycorax) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in written fiction
+- [ ] **Scorbus**（西班牙語，24,472 字元）— [原文](https://es.wikipedia.org/wiki/Scorbus) — 來源分類：Categoría:Brujería > Brujería en la ficción > Harry Potter
+- [ ] **Procès de sorcellerie à Molsheim**（法語，24,276 字元）— [原文](https://fr.wikipedia.org/wiki/Proc%C3%A8s_de_sorcellerie_%C3%A0_Molsheim) — 來源分類：Catégorie:Sorcellerie > Sorcellerie par lieu > Sorcellerie en France
+- [ ] **Magic, Witchcraft and the Otherworld**（英語，24,009 字元）— [原文](https://en.wikipedia.org/wiki/Magic%2C_Witchcraft_and_the_Otherworld) — 來源分類：Category:European witchcraft > Witchcraft in the United Kingdom
+- [ ] **Procès de sorcellerie à Bergheim**（法語，23,947 字元）— [原文](https://fr.wikipedia.org/wiki/Proc%C3%A8s_de_sorcellerie_%C3%A0_Bergheim) — 來源分類：Catégorie:Sorcellerie > Sorcellerie par lieu > Sorcellerie en France
+- [ ] **Familiar**（英語，23,881 字元）— [原文](https://en.wikipedia.org/wiki/Familiar) — 來源分類：Category:European witchcraft
+- [ ] **Spectral evidence**（英語，23,699 字元）— [原文](https://en.wikipedia.org/wiki/Spectral_evidence) — 來源分類：Category:European witchcraft
+- [ ] **Al-Mi'raj**（法語，23,129 字元）— [原文](https://fr.wikipedia.org/wiki/Al-Mi%27raj) — 來源分類：Catégorie:Sorcellerie > Sorcellerie par lieu > Sorcellerie en Asie
+- [ ] **Seiðr**（英語，22,707 字元）— [原文](https://en.wikipedia.org/wiki/Sei%C3%B0r) — 來源分類：Category:European witchcraft > Witchcraft in Denmark
+- [ ] **Roman Inquisition**（英語，22,645 字元）— [原文](https://en.wikipedia.org/wiki/Roman_Inquisition) — 來源分類：Category:European witchcraft > Witchcraft in Italy
+- [ ] **Witches of Benevento**（英語，22,204 字元）— [原文](https://en.wikipedia.org/wiki/Witches_of_Benevento) — 來源分類：Category:European witchcraft > Witchcraft in Italy
+- [ ] **Brujas de Samlesbury**（西班牙語，21,800 字元）— [原文](https://es.wikipedia.org/wiki/Brujas_de_Samlesbury) — 來源分類：Categoría:Brujería > Brujería por país > Brujería en el Reino Unido
+- [ ] **Quidditch**（西班牙語，21,779 字元）— [原文](https://es.wikipedia.org/wiki/Quidditch) — 來源分類：Categoría:Brujería > Brujería en la ficción > Harry Potter
+- [ ] **Cunning Folk and Familiar Spirits**（英語，21,735 字元）— [原文](https://en.wikipedia.org/wiki/Cunning_Folk_and_Familiar_Spirits) — 來源分類：Category:European witchcraft > Familiars
+- [ ] **Mugwort**（英語，21,674 字元）— [原文](https://en.wikipedia.org/wiki/Mugwort) — 來源分類：Category:European witchcraft
+- [ ] **Marabout (islam)**（法語，21,083 字元）— [原文](https://fr.wikipedia.org/wiki/Marabout_%28islam%29) — 來源分類：Catégorie:Sorcellerie > Sorcellerie par lieu > Sorcellerie en Afrique
+- [ ] **Fandom Forward**（西班牙語，20,989 字元）— [原文](https://es.wikipedia.org/wiki/Fandom_Forward) — 來源分類：Categoría:Brujería > Brujería en la ficción > Harry Potter
+- [ ] **Witchcraft in early modern Wales**（英語，20,849 字元）— [原文](https://en.wikipedia.org/wiki/Witchcraft_in_early_modern_Wales) — 來源分類：Category:European witchcraft > Witchcraft in the United Kingdom
+- [ ] **Martin Delrio**（英語，20,546 字元）— [原文](https://en.wikipedia.org/wiki/Martin_Delrio) — 來源分類：Category:European witchcraft > Witchcraft in Spain
+- [ ] **Tiffany Aching**（英語，20,376 字元）— [原文](https://en.wikipedia.org/wiki/Tiffany_Aching) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in written fiction
+- [ ] **Protests against early modern witch trials**（英語，20,258 字元）— [原文](https://en.wikipedia.org/wiki/Protests_against_early_modern_witch_trials) — 來源分類：Category:Witchcraft > European witchcraft
+- [ ] **Chaman**（法語，20,246 字元）— [原文](https://fr.wikipedia.org/wiki/Chaman) — 來源分類：Catégorie:Sorcellerie > Sorcellerie par lieu > Sorcellerie en Asie
+- [ ] **Märet Jonsdotter**（西班牙語，19,552 字元）— [原文](https://es.wikipedia.org/wiki/M%C3%A4ret_Jonsdotter) — 來源分類：Categoría:Brujería > Brujería por país > Brujería en Suecia
+- [ ] **Caccia alle streghe nella Signoria della Mirandola**（義大利語，19,463 字元）— [原文](https://it.wikipedia.org/wiki/Caccia_alle_streghe_nella_Signoria_della_Mirandola) — 來源分類：Categoria:Stregoneria > Processi per stregoneria > Processi per stregoneria in Italia
+- [ ] **Brujería en América Latina**（西班牙語，19,441 字元）— [原文](https://es.wikipedia.org/wiki/Brujer%C3%ADa_en_Am%C3%A9rica_Latina) — 來源分類：Categoría:Brujería > Brujería en América
+- [ ] **Pydna curse tablets**（英語，19,211 字元）— [原文](https://en.wikipedia.org/wiki/Pydna_curse_tablets) — 來源分類：Category:European witchcraft
+- [ ] **Nábrók**（英語，18,736 字元）— [原文](https://en.wikipedia.org/wiki/N%C3%A1br%C3%B3k) — 來源分類：Category:European witchcraft > Witchcraft in Iceland
+- [ ] **Sorginak**（英語，18,216 字元）— [原文](https://en.wikipedia.org/wiki/Sorginak) — 來源分類：Category:European witchcraft
+- [ ] **Pacto con el diablo**（西班牙語，18,002 字元）— [原文](https://es.wikipedia.org/wiki/Pacto_con_el_diablo) — 來源分類：Categoría:Brujería > Magia y brujería en folclore y mitología
+- [ ] **Märet Jonsdotter**（法語，17,947 字元）— [原文](https://fr.wikipedia.org/wiki/M%C3%A4ret_Jonsdotter) — 來源分類：Catégorie:Sorcellerie > Sorcellerie par lieu > Sorcellerie en Suède
+- [ ] **Brujas en Cataluña**（西班牙語，17,733 字元）— [原文](https://es.wikipedia.org/wiki/Brujas_en_Catalu%C3%B1a) — 來源分類：Categoría:Brujería > Brujería por país > Brujería en España
+- [ ] **Brujería en Goya**（西班牙語，17,583 字元）— [原文](https://es.wikipedia.org/wiki/Brujer%C3%ADa_en_Goya) — 來源分類：Categoría:Brujería > Brujería por país > Brujería en España
+- [ ] **Traité sur les apparitions des esprits et sur les vampires ou les revenans de Hongrie, de Moravie, &c.**（英語，17,444 字元）— [原文](https://en.wikipedia.org/wiki/Trait%C3%A9_sur_les_apparitions_des_esprits_et_sur_les_vampires_ou_les_revenans_de_Hongrie%2C_de_Moravie%2C_%26c.) — 來源分類：Category:European witchcraft > Familiars
+- [ ] **Witch doctor**（英語，17,423 字元）— [原文](https://en.wikipedia.org/wiki/Witch_doctor) — 來源分類：Category:European witchcraft
+- [ ] **Procès de sorcellerie de Munster**（法語，17,328 字元）— [原文](https://fr.wikipedia.org/wiki/Proc%C3%A8s_de_sorcellerie_de_Munster) — 來源分類：Catégorie:Sorcellerie > Sorcellerie par lieu > Sorcellerie en France
+- [ ] **Tanya Grotter**（英語，17,039 字元）— [原文](https://en.wikipedia.org/wiki/Tanya_Grotter) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in written fiction
+- [ ] **Hérétismes et sorcellerie à Lyon**（法語，16,776 字元）— [原文](https://fr.wikipedia.org/wiki/H%C3%A9r%C3%A9tismes_et_sorcellerie_%C3%A0_Lyon) — 來源分類：Catégorie:Sorcellerie > Sorcellerie par lieu > Sorcellerie en France
+- [ ] **Ulysses: Jeanne d'Arc to Renkin no Kishi**（西班牙語，16,674 字元）— [原文](https://es.wikipedia.org/wiki/Ulysses%3A_Jeanne_d%27Arc_to_Renkin_no_Kishi) — 來源分類：Categoría:Brujería > Brujería en la ficción > Obras literarias modernas de la materia de Bretaña
+- [ ] **Aradia**（英語，16,552 字元）— [原文](https://en.wikipedia.org/wiki/Aradia) — 來源分類：Category:European witchcraft > Witchcraft in Italy
+- [ ] **Union sportive Socozaki**（法語，16,526 字元）— [原文](https://fr.wikipedia.org/wiki/Union_sportive_Socozaki) — 來源分類：Catégorie:Sorcellerie > Sorcellerie par lieu > Sorcellerie en Afrique
+- [ ] **Circe**（西班牙語，16,517 字元）— [原文](https://es.wikipedia.org/wiki/Circe) — 來源分類：Categoría:Brujería > Magia y brujería en folclore y mitología > Magos de la mitología griega
+- [ ] **The Witches (Hans Baldung)**（英語，16,484 字元）— [原文](https://en.wikipedia.org/wiki/The_Witches_%28Hans_Baldung%29) — 來源分類：Category:European witchcraft > Witches' Sabbath
+- [ ] **Medical explanations of bewitchment**（英語，16,204 字元）— [原文](https://en.wikipedia.org/wiki/Medical_explanations_of_bewitchment) — 來源分類：Category:European witchcraft
+- [ ] **A Candle in Her Room**（英語，15,894 字元）— [原文](https://en.wikipedia.org/wiki/A_Candle_in_Her_Room) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in written fiction
+- [ ] **The Witch-Cult in Western Europe**（英語，15,787 字元）— [原文](https://en.wikipedia.org/wiki/The_Witch-Cult_in_Western_Europe) — 來源分類：Category:European witchcraft
+- [ ] **Witch's mark**（英語，15,580 字元）— [原文](https://en.wikipedia.org/wiki/Witch%27s_mark) — 來源分類：Category:European witchcraft
+- [ ] **The Book of Dust**（英語，15,525 字元）— [原文](https://en.wikipedia.org/wiki/The_Book_of_Dust) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in written fiction
+- [ ] **Mr Majeika**（英語，15,500 字元）— [原文](https://en.wikipedia.org/wiki/Mr_Majeika) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in written fiction
+- [ ] **John Webster (minister)**（英語，15,054 字元）— [原文](https://en.wikipedia.org/wiki/John_Webster_%28minister%29) — 來源分類：Category:European witchcraft > Witchcraft in Germany
+- [ ] **Meiga**（西班牙語，14,929 字元）— [原文](https://es.wikipedia.org/wiki/Meiga) — 來源分類：Categoría:Brujería > Brujería por país > Brujería en España
+- [ ] **Hexenkartothek**（西班牙語，14,683 字元）— [原文](https://es.wikipedia.org/wiki/Hexenkartothek) — 來源分類：Categoría:Brujería > Brujería por país > Brujería en Alemania
+- [ ] **Concealed shoes**（英語，14,679 字元）— [原文](https://en.wikipedia.org/wiki/Concealed_shoes) — 來源分類：Category:European witchcraft
+- [ ] **Chrestomanci**（英語，14,677 字元）— [原文](https://en.wikipedia.org/wiki/Chrestomanci) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in written fiction
+- [ ] **Chamanisme coréen**（法語，14,620 字元）— [原文](https://fr.wikipedia.org/wiki/Chamanisme_cor%C3%A9en) — 來源分類：Catégorie:Sorcellerie > Sorcellerie par lieu > Sorcellerie en Asie
+- [ ] **Brujería en Guipúzcoa**（西班牙語，14,178 字元）— [原文](https://es.wikipedia.org/wiki/Brujer%C3%ADa_en_Guip%C3%BAzcoa) — 來源分類：Categoría:Brujería > Brujería por país > Brujería en España
+- [ ] **Witch bottle**（英語，13,837 字元）— [原文](https://en.wikipedia.org/wiki/Witch_bottle) — 來源分類：Category:European witchcraft
+- [ ] **Wolfstar**（西班牙語，13,552 字元）— [原文](https://es.wikipedia.org/wiki/Wolfstar) — 來源分類：Categoría:Brujería > Brujería en la ficción > Harry Potter
+- [ ] **J'ai vu le loup**（英語，13,455 字元）— [原文](https://en.wikipedia.org/wiki/J%27ai_vu_le_loup) — 來源分類：Category:European witchcraft > Witches' Sabbath
+- [ ] **Endemoniadas de Loudun**（西班牙語，13,327 字元）— [原文](https://es.wikipedia.org/wiki/Endemoniadas_de_Loudun) — 來源分類：Categoría:Brujería > Brujería por país > Brujería en Francia
+- [ ] **Processo a Chiaretta Galese e Fedele dall'Arzere**（義大利語，13,191 字元）— [原文](https://it.wikipedia.org/wiki/Processo_a_Chiaretta_Galese_e_Fedele_dall%27Arzere) — 來源分類：Categoria:Stregoneria > Processi per stregoneria > Processi per stregoneria in Italia
+- [ ] **Vox in Rama**（英語，12,807 字元）— [原文](https://en.wikipedia.org/wiki/Vox_in_Rama) — 來源分類：Category:European witchcraft
+- [ ] **Procès de sorcellerie au Ban de la Roche**（法語，12,775 字元）— [原文](https://fr.wikipedia.org/wiki/Proc%C3%A8s_de_sorcellerie_au_Ban_de_la_Roche) — 來源分類：Catégorie:Sorcellerie > Sorcellerie par lieu > Sorcellerie en France
+- [ ] **Granny Weatherwax**（英語，12,771 字元）— [原文](https://en.wikipedia.org/wiki/Granny_Weatherwax) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in written fiction
+- [ ] **Doñas de fuera**（英語，12,574 字元）— [原文](https://en.wikipedia.org/wiki/Do%C3%B1as_de_fuera) — 來源分類：Category:European witchcraft > Witchcraft in Italy
+- [ ] **Alonso de Salazar y Frías**（西班牙語，12,368 字元）— [原文](https://es.wikipedia.org/wiki/Alonso_de_Salazar_y_Fr%C3%ADas) — 來源分類：Categoría:Brujería > Brujería por país > Brujería en España
+- [ ] **Witchcraft Research Association**（英語，12,355 字元）— [原文](https://en.wikipedia.org/wiki/Witchcraft_Research_Association) — 來源分類：Category:European witchcraft > Witchcraft in the United Kingdom
+- [ ] **Nicolás Aymerich**（西班牙語，12,251 字元）— [原文](https://es.wikipedia.org/wiki/Nicol%C3%A1s_Aymerich) — 來源分類：Categoría:Brujería > Brujería por país > Brujería en España
+- [ ] **Witchcraft in Italy**（英語，12,163 字元）— [原文](https://en.wikipedia.org/wiki/Witchcraft_in_Italy) — 來源分類：Category:European witchcraft > Witchcraft in Italy
+- [ ] **Sorcières du Berry**（法語，11,763 字元）— [原文](https://fr.wikipedia.org/wiki/Sorci%C3%A8res_du_Berry) — 來源分類：Catégorie:Sorcellerie > Sorcellerie par lieu > Sorcellerie en France
+- [ ] **Boule de sorcière**（法語，11,725 字元）— [原文](https://fr.wikipedia.org/wiki/Boule_de_sorci%C3%A8re) — 來源分類：Catégorie:Sorcellerie > Sorcellerie par lieu > Sorcellerie en Angleterre
+- [ ] **Eugenia Pirzio-Biroli**（西班牙語，11,573 字元）— [原文](https://es.wikipedia.org/wiki/Eugenia_Pirzio-Biroli) — 來源分類：Categoría:Brujería > Brujería por país > Brujería en Chile
+- [ ] **Fish head**（英語，11,455 字元）— [原文](https://en.wikipedia.org/wiki/Fish_head) — 來源分類：Category:European witchcraft > Witchcraft in Italy
+- [ ] **Fenêtre de sorcière**（法語，11,269 字元）— [原文](https://fr.wikipedia.org/wiki/Fen%C3%AAtre_de_sorci%C3%A8re) — 來源分類：Catégorie:Sorcellerie > Sorcellerie par lieu > Sorcellerie en Amérique
+- [ ] **Nanny Ogg**（英語，11,223 字元）— [原文](https://en.wikipedia.org/wiki/Nanny_Ogg) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in written fiction
+- [ ] **Batalla de Hogwarts**（西班牙語，11,148 字元）— [原文](https://es.wikipedia.org/wiki/Batalla_de_Hogwarts) — 來源分類：Categoría:Brujería > Brujería en la ficción > Harry Potter
+- [ ] **Paula de Eguiluz**（西班牙語，11,139 字元）— [原文](https://es.wikipedia.org/wiki/Paula_de_Eguiluz) — 來源分類：Categoría:Brujería > Brujería en América
+- [ ] **Nine Tripod Cauldrons**（英語，10,989 字元）— [原文](https://en.wikipedia.org/wiki/Nine_Tripod_Cauldrons) — 來源分類：Category:European witchcraft > Cauldrons
+- [ ] **Louviers possessions**（英語，10,675 字元）— [原文](https://en.wikipedia.org/wiki/Louviers_possessions) — 來源分類：Category:European witchcraft > Witches' Sabbath
+- [ ] **Regina Betancourt de Liska**（西班牙語，10,559 字元）— [原文](https://es.wikipedia.org/wiki/Regina_Betancourt_de_Liska) — 來源分類：Categoría:Brujería > Brujería en América
+- [ ] **Merlín y familia**（西班牙語，10,553 字元）— [原文](https://es.wikipedia.org/wiki/Merl%C3%ADn_y_familia) — 來源分類：Categoría:Brujería > Brujería en la ficción > Obras literarias modernas de la materia de Bretaña
+- [ ] **Summis desiderantes affectibus**（英語，10,505 字元）— [原文](https://en.wikipedia.org/wiki/Summis_desiderantes_affectibus) — 來源分類：Category:European witchcraft
+- [ ] **Mykhailo Nechay**（英語，10,440 字元）— [原文](https://en.wikipedia.org/wiki/Mykhailo_Nechay) — 來源分類：Category:European witchcraft > Witchcraft in Ukraine
+- [ ] **Harry Potter y los métodos de la racionalidad**（西班牙語，10,411 字元）— [原文](https://es.wikipedia.org/wiki/Harry_Potter_y_los_m%C3%A9todos_de_la_racionalidad) — 來源分類：Categoría:Brujería > Brujería en la ficción > Harry Potter
+- [ ] **Procès des sorcières de Torsåker**（法語，10,403 字元）— [原文](https://fr.wikipedia.org/wiki/Proc%C3%A8s_des_sorci%C3%A8res_de_Tors%C3%A5ker) — 來源分類：Catégorie:Sorcellerie > Sorcellerie par lieu > Sorcellerie en Suède
+- [ ] **Marabout (Afrique subsaharienne)**（法語，10,284 字元）— [原文](https://fr.wikipedia.org/wiki/Marabout_%28Afrique_subsaharienne%29) — 來源分類：Catégorie:Sorcellerie > Sorcellerie par lieu > Sorcellerie en Afrique
+- [ ] **Tattarisuo case**（英語，10,163 字元）— [原文](https://en.wikipedia.org/wiki/Tattarisuo_case) — 來源分類：Category:European witchcraft > Witchcraft in Finland
+- [ ] **Friedrich Hoffmann**（英語，10,042 字元）— [原文](https://en.wikipedia.org/wiki/Friedrich_Hoffmann) — 來源分類：Category:European witchcraft > Witchcraft in Germany
+- [ ] **Blockula**（英語，10,006 字元）— [原文](https://en.wikipedia.org/wiki/Blockula) — 來源分類：Category:European witchcraft > Witchcraft in Sweden
+- [ ] **Akanthos curse tablet**（英語，9,921 字元）— [原文](https://en.wikipedia.org/wiki/Akanthos_curse_tablet) — 來源分類：Category:European witchcraft
+- [ ] **Françoise Bonvin**（法語，9,737 字元）— [原文](https://fr.wikipedia.org/wiki/Fran%C3%A7oise_Bonvin) — 來源分類：Catégorie:Sorcellerie > Procès de sorcellerie > Procès de sorcellerie en Suisse
+- [ ] **Chamanisme en Sibérie**（法語，9,650 字元）— [原文](https://fr.wikipedia.org/wiki/Chamanisme_en_Sib%C3%A9rie) — 來源分類：Catégorie:Sorcellerie > Sorcellerie par lieu > Sorcellerie en Asie
+- [ ] **Drarry**（西班牙語，9,481 字元）— [原文](https://es.wikipedia.org/wiki/Drarry) — 來源分類：Categoría:Brujería > Brujería en la ficción > Harry Potter
+- [ ] **Empress Meng**（英語，9,473 字元）— [原文](https://en.wikipedia.org/wiki/Empress_Meng) — 來源分類：Category:Witchcraft > Witchcraft by country > Witchcraft in China
+- [ ] **The Wizard of the Emerald City**（英語，9,405 字元）— [原文](https://en.wikipedia.org/wiki/The_Wizard_of_the_Emerald_City) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in written fiction
+- [ ] **Catherine Cadière**（西班牙語，9,305 字元）— [原文](https://es.wikipedia.org/wiki/Catherine_Cadi%C3%A8re) — 來源分類：Categoría:Brujería > Brujería por país > Brujería en Francia
+- [ ] **Grigori Rasputin (Hellboy)**（英語，9,231 字元）— [原文](https://en.wikipedia.org/wiki/Grigori_Rasputin_%28Hellboy%29) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in written fiction
+- [ ] **Madre Shipton**（西班牙語，9,205 字元）— [原文](https://es.wikipedia.org/wiki/Madre_Shipton) — 來源分類：Categoría:Brujería > Brujería por país > Brujería en el Reino Unido
+- [ ] **Boy (dog)**（英語，9,141 字元）— [原文](https://en.wikipedia.org/wiki/Boy_%28dog%29) — 來源分類：Category:European witchcraft > Familiars
+- [ ] **A Very Potter Musical**（西班牙語，9,129 字元）— [原文](https://es.wikipedia.org/wiki/A_Very_Potter_Musical) — 來源分類：Categoría:Brujería > Brujería en la ficción > Harry Potter
+- [ ] **Juicios por brujería de Torsåker**（西班牙語，9,105 字元）— [原文](https://es.wikipedia.org/wiki/Juicios_por_brujer%C3%ADa_de_Tors%C3%A5ker) — 來源分類：Categoría:Brujería > Brujería por país > Brujería en Suecia
+- [ ] **María Manzanares**（西班牙語，9,022 字元）— [原文](https://es.wikipedia.org/wiki/Mar%C3%ADa_Manzanares) — 來源分類：Categoría:Brujería > Brujería por país > Brujería en España
+- [ ] **Cauldron**（英語，8,960 字元）— [原文](https://en.wikipedia.org/wiki/Cauldron) — 來源分類：Category:European witchcraft
+- [ ] **Voldemort: los orígenes del heredero**（西班牙語，8,842 字元）— [原文](https://es.wikipedia.org/wiki/Voldemort%3A_los_or%C3%ADgenes_del_heredero) — 來源分類：Categoría:Brujería > Brujería en la ficción > Harry Potter
+- [ ] **Warner Bros. Studio Tour London – The Making of Harry Potter**（西班牙語，8,807 字元）— [原文](https://es.wikipedia.org/wiki/Warner_Bros._Studio_Tour_London_%E2%80%93_The_Making_of_Harry_Potter) — 來源分類：Categoría:Brujería > Brujería en la ficción > Harry Potter
+- [ ] **Cernégula**（西班牙語，8,771 字元）— [原文](https://es.wikipedia.org/wiki/Cern%C3%A9gula) — 來源分類：Categoría:Brujería > Brujería por país > Brujería en España
+- [ ] **Jane Wenham (presunta bruja)**（西班牙語，8,681 字元）— [原文](https://es.wikipedia.org/wiki/Jane_Wenham_%28presunta_bruja%29) — 來源分類：Categoría:Brujería > Brujería por país > Brujería en el Reino Unido
+- [ ] **Jean Bodin**（西班牙語，8,628 字元）— [原文](https://es.wikipedia.org/wiki/Jean_Bodin) — 來源分類：Categoría:Brujería > Brujería por país > Brujería en Francia
+- [ ] **Jure Grando**（英語，8,589 字元）— [原文](https://en.wikipedia.org/wiki/Jure_Grando) — 來源分類：Category:European witchcraft > Witchcraft in Italy
+- [ ] **Fatou Bolli**（法語，8,573 字元）— [原文](https://fr.wikipedia.org/wiki/Fatou_Bolli) — 來源分類：Catégorie:Sorcellerie > Sorcellerie par lieu > Sorcellerie en Afrique
+- [ ] **Poppet**（英語，8,499 字元）— [原文](https://en.wikipedia.org/wiki/Poppet) — 來源分類：Category:European witchcraft
+- [ ] **Anna Zippel**（法語，8,463 字元）— [原文](https://fr.wikipedia.org/wiki/Anna_Zippel) — 來源分類：Catégorie:Sorcellerie > Sorcellerie par lieu > Sorcellerie en Suède
+- [ ] **Guirandana de Lay**（西班牙語，8,452 字元）— [原文](https://es.wikipedia.org/wiki/Guirandana_de_Lay) — 來源分類：Categoría:Brujería > Brujería por país > Brujería en España
+- [ ] **Vanlandi**（英語，8,451 字元）— [原文](https://en.wikipedia.org/wiki/Vanlandi) — 來源分類：Category:European witchcraft > Witchcraft in Sweden
+- [ ] **Polissena di San Macario**（義大利語，8,411 字元）— [原文](https://it.wikipedia.org/wiki/Polissena_di_San_Macario) — 來源分類：Categoria:Stregoneria > Processi per stregoneria > Processi per stregoneria in Italia
+- [ ] **Villain hitting**（英語，8,340 字元）— [原文](https://en.wikipedia.org/wiki/Villain_hitting) — 來源分類：Category:Witchcraft > Witchcraft by country > Witchcraft in China
+- [ ] **Recta Provincia**（西班牙語，8,306 字元）— [原文](https://es.wikipedia.org/wiki/Recta_Provincia) — 來源分類：Categoría:Brujería > Brujería por país > Brujería en Chile
+- [ ] **Cueva de Salamanca**（西班牙語，8,238 字元）— [原文](https://es.wikipedia.org/wiki/Cueva_de_Salamanca) — 來源分類：Categoría:Brujería > Brujería por país > Brujería en España
+- [ ] **Akelarre**（英語，8,210 字元）— [原文](https://en.wikipedia.org/wiki/Akelarre) — 來源分類：Category:European witchcraft > Witchcraft in Spain
+- [ ] **Vuk (name)**（英語，8,142 字元）— [原文](https://en.wikipedia.org/wiki/Vuk_%28name%29) — 來源分類：Category:European witchcraft
+- [ ] **Girolamo Tartarotti**（英語，8,088 字元）— [原文](https://en.wikipedia.org/wiki/Girolamo_Tartarotti) — 來源分類：Category:European witchcraft > Witchcraft in Italy
+- [ ] **Blå Jungfrun**（英語，8,084 字元）— [原文](https://en.wikipedia.org/wiki/Bl%C3%A5_Jungfrun) — 來源分類：Category:European witchcraft > Witchcraft in Sweden
+- [ ] **Nkisi**（法語，8,052 字元）— [原文](https://fr.wikipedia.org/wiki/Nkisi) — 來源分類：Catégorie:Sorcellerie > Sorcellerie par lieu > Sorcellerie en Afrique
+- [ ] **Gertrud Svensdotter**（西班牙語，7,993 字元）— [原文](https://es.wikipedia.org/wiki/Gertrud_Svensdotter) — 來源分類：Categoría:Brujería > Brujería por país > Brujería en Suecia
+- [ ] **Circle of Three**（英語，7,944 字元）— [原文](https://en.wikipedia.org/wiki/Circle_of_Three) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in written fiction
+- [ ] **Wang Yu (chancellor)**（英語，7,919 字元）— [原文](https://en.wikipedia.org/wiki/Wang_Yu_%28chancellor%29) — 來源分類：Category:Witchcraft > Witchcraft by country > Witchcraft in China
+- [ ] **Płanetnik**（英語，7,903 字元）— [原文](https://en.wikipedia.org/wiki/P%C5%82anetnik) — 來源分類：Category:European witchcraft
+- [ ] **Icelandic magical staves**（英語，7,869 字元）— [原文](https://en.wikipedia.org/wiki/Icelandic_magical_staves) — 來源分類：Category:European witchcraft > Witchcraft in Iceland
+- [ ] **María de Ximildegui**（法語，7,827 字元）— [原文](https://fr.wikipedia.org/wiki/Mar%C3%ADa_de_Ximildegui) — 來源分類：Catégorie:Sorcellerie > Procès de sorcellerie > Procès de sorcellerie en Espagne
+- [ ] **Malle Babbe**（英語，7,775 字元）— [原文](https://en.wikipedia.org/wiki/Malle_Babbe) — 來源分類：Category:European witchcraft > Familiars
+- [ ] **Besom**（英語，7,740 字元）— [原文](https://en.wikipedia.org/wiki/Besom) — 來源分類：Category:European witchcraft
+- [ ] **Gertrud Svensdotter**（法語，7,740 字元）— [原文](https://fr.wikipedia.org/wiki/Gertrud_Svensdotter) — 來源分類：Catégorie:Sorcellerie > Sorcellerie par lieu > Sorcellerie en Suède
+- [ ] **Queimada (drink)**（英語，7,735 字元）— [原文](https://en.wikipedia.org/wiki/Queimada_%28drink%29) — 來源分類：Category:European witchcraft > Witchcraft in Spain
+- [ ] **Lightning bird**（英語，7,717 字元）— [原文](https://en.wikipedia.org/wiki/Lightning_bird) — 來源分類：Category:European witchcraft > Familiars
+- [ ] **Agrimonia eupatoria**（英語，7,697 字元）— [原文](https://en.wikipedia.org/wiki/Agrimonia_eupatoria) — 來源分類：Category:European witchcraft
+- [ ] **El chico de Gävle**（西班牙語，7,666 字元）— [原文](https://es.wikipedia.org/wiki/El_chico_de_G%C3%A4vle) — 來源分類：Categoría:Brujería > Brujería por país > Brujería en Suecia
+- [ ] **Magonia**（英語，7,648 字元）— [原文](https://en.wikipedia.org/wiki/Magonia) — 來源分類：Category:European witchcraft
+- [ ] **Jacques de Chevanes**（英語，7,625 字元）— [原文](https://en.wikipedia.org/wiki/Jacques_de_Chevanes) — 來源分類：Category:European witchcraft > Witchcraft in France
+- [ ] **Vauderie d'Arras**（法語，7,595 字元）— [原文](https://fr.wikipedia.org/wiki/Vauderie_d%27Arras) — 來源分類：Catégorie:Sorcellerie > Procès de sorcellerie > Procès de sorcellerie en France
+- [ ] **Archibald Douglas (8e comte d'Angus)**（法語，7,579 字元）— [原文](https://fr.wikipedia.org/wiki/Archibald_Douglas_%288e_comte_d%27Angus%29) — 來源分類：Catégorie:Sorcellerie > Sorcellerie par lieu > Sorcellerie en Écosse
+- [ ] **Imp**（英語，7,567 字元）— [原文](https://en.wikipedia.org/wiki/Imp) — 來源分類：Category:European witchcraft
+- [ ] **Tempestarii**（英語，7,519 字元）— [原文](https://en.wikipedia.org/wiki/Tempestarii) — 來源分類：Category:European witchcraft
+- [ ] **Féticheur**（法語，7,468 字元）— [原文](https://fr.wikipedia.org/wiki/F%C3%A9ticheur) — 來源分類：Catégorie:Sorcellerie > Sorcellerie par lieu > Sorcellerie en Afrique
+- [ ] **Maria Holl**（法語，7,426 字元）— [原文](https://fr.wikipedia.org/wiki/Maria_Holl) — 來源分類：Catégorie:Sorcellerie > Procès de sorcellerie > Procès de sorcellerie en Allemagne
+- [ ] **Société nyongo**（法語，7,423 字元）— [原文](https://fr.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_nyongo) — 來源分類：Catégorie:Sorcellerie > Sorcellerie par lieu > Sorcellerie en Afrique
+- [ ] **Juana de los Ángeles**（西班牙語，7,377 字元）— [原文](https://es.wikipedia.org/wiki/Juana_de_los_%C3%81ngeles) — 來源分類：Categoría:Brujería > Brujería por país > Brujería en Francia
+- [ ] **Giovanna Bonanno**（義大利語，7,252 字元）— [原文](https://it.wikipedia.org/wiki/Giovanna_Bonanno) — 來源分類：Categoria:Stregoneria > Processi per stregoneria > Processi per stregoneria in Italia
+- [ ] **Margaret Jones**（法語，7,251 字元）— [原文](https://fr.wikipedia.org/wiki/Margaret_Jones) — 來源分類：Catégorie:Sorcellerie > Sorcellerie par lieu > Sorcellerie en Amérique
+- [ ] **Complot Antil**（西班牙語，7,237 字元）— [原文](https://es.wikipedia.org/wiki/Complot_Antil) — 來源分類：Categoría:Brujería > Brujería por país > Brujería en Chile
+- [ ] **Nicholas Rémy**（英語，7,188 字元）— [原文](https://en.wikipedia.org/wiki/Nicholas_R%C3%A9my) — 來源分類：Category:European witchcraft > Witchcraft in France
+- [ ] **Witch's ladder**（英語，7,162 字元）— [原文](https://en.wikipedia.org/wiki/Witch%27s_ladder) — 來源分類：Category:European witchcraft
+- [ ] **Witch trials in France**（英語，7,113 字元）— [原文](https://en.wikipedia.org/wiki/Witch_trials_in_France) — 來源分類：Category:European witchcraft > Witchcraft in France
+- [ ] **Juicios por brujería en España**（西班牙語，7,066 字元）— [原文](https://es.wikipedia.org/wiki/Juicios_por_brujer%C3%ADa_en_Espa%C3%B1a) — 來源分類：Categoría:Brujería > Brujería por país > Brujería en España
+- [ ] **Fort Grey**（英語，7,056 字元）— [原文](https://en.wikipedia.org/wiki/Fort_Grey) — 來源分類：Category:European witchcraft > Witches' Sabbath
+- [ ] **Barzaz Breiz**（西班牙語，7,045 字元）— [原文](https://es.wikipedia.org/wiki/Barzaz_Breiz) — 來源分類：Categoría:Brujería > Brujería en la ficción > Obras literarias modernas de la materia de Bretaña
+- [ ] **Jean-Baptiste Girard (jésuite)**（法語，6,812 字元）— [原文](https://fr.wikipedia.org/wiki/Jean-Baptiste_Girard_%28j%C3%A9suite%29) — 來源分類：Catégorie:Sorcellerie > Procès de sorcellerie > Procès de sorcellerie en France
+- [ ] **Witches' Sabbath (Goya, 1798)**（英語，6,762 字元）— [原文](https://en.wikipedia.org/wiki/Witches%27_Sabbath_%28Goya%2C_1798%29) — 來源分類：Category:European witchcraft > Witches' Sabbath
+- [ ] **Akelarre (mythologie basque)**（法語，6,718 字元）— [原文](https://fr.wikipedia.org/wiki/Akelarre_%28mythologie_basque%29) — 來源分類：Catégorie:Sorcellerie > Sorcellerie par lieu > Sorcellerie en France
+- [ ] **Catalina Carlota De la Gardie**（西班牙語，6,695 字元）— [原文](https://es.wikipedia.org/wiki/Catalina_Carlota_De_la_Gardie) — 來源分類：Categoría:Brujería > Brujería por país > Brujería en Suecia
+- [ ] **Molfar**（英語，6,675 字元）— [原文](https://en.wikipedia.org/wiki/Molfar) — 來源分類：Category:European witchcraft > Witchcraft in Ukraine
+- [ ] **Satanism and Witchcraft (book)**（英語，6,673 字元）— [原文](https://en.wikipedia.org/wiki/Satanism_and_Witchcraft_%28book%29) — 來源分類：Category:European witchcraft
+- [ ] **Vol de sexe**（法語，6,579 字元）— [原文](https://fr.wikipedia.org/wiki/Vol_de_sexe) — 來源分類：Catégorie:Sorcellerie > Sorcellerie par lieu > Sorcellerie en Afrique
+- [ ] **Brocken**（西班牙語，6,564 字元）— [原文](https://es.wikipedia.org/wiki/Brocken) — 來源分類：Categoría:Brujería > Brujería por país > Brujería en Alemania
+- [ ] **Galactorrhea**（英語，6,472 字元）— [原文](https://en.wikipedia.org/wiki/Galactorrhea) — 來源分類：Category:European witchcraft
+- [ ] **Prättäkitti**（英語，6,471 字元）— [原文](https://en.wikipedia.org/wiki/Pr%C3%A4tt%C3%A4kitti) — 來源分類：Category:European witchcraft > Witchcraft in Finland
+- [ ] **Brujas de Villanúa**（西班牙語，6,461 字元）— [原文](https://es.wikipedia.org/wiki/Brujas_de_Villan%C3%BAa) — 來源分類：Categoría:Brujería > Brujería por país > Brujería en España
+- [ ] **Niels Hemmingsen**（英語，6,415 字元）— [原文](https://en.wikipedia.org/wiki/Niels_Hemmingsen) — 來源分類：Category:European witchcraft > Witchcraft in Denmark
+- [ ] **Columba of Spain**（英語，6,399 字元）— [原文](https://en.wikipedia.org/wiki/Columba_of_Spain) — 來源分類：Category:European witchcraft > Witchcraft in Spain
+- [ ] **Coven**（英語，6,397 字元）— [原文](https://en.wikipedia.org/wiki/Coven) — 來源分類：Category:European witchcraft
+- [ ] **Macizo de Anaga**（英語，6,345 字元）— [原文](https://en.wikipedia.org/wiki/Macizo_de_Anaga) — 來源分類：Category:European witchcraft > Witchcraft in Spain
+- [ ] **Martiale Espaze**（法語，6,314 字元）— [原文](https://fr.wikipedia.org/wiki/Martiale_Espaze) — 來源分類：Catégorie:Sorcellerie > Sorcellerie par lieu > Sorcellerie en France
+- [ ] **Jane Weir**（法語，6,242 字元）— [原文](https://fr.wikipedia.org/wiki/Jane_Weir) — 來源分類：Catégorie:Sorcellerie > Procès de sorcellerie > Procès de sorcellerie en Écosse
+- [ ] **Directorium inquisitorum**（西班牙語，6,170 字元）— [原文](https://es.wikipedia.org/wiki/Directorium_inquisitorum) — 來源分類：Categoría:Brujería > Brujería por país > Brujería en España
+- [ ] **Brujas de Laspaúles**（西班牙語，6,166 字元）— [原文](https://es.wikipedia.org/wiki/Brujas_de_Laspa%C3%BAles) — 來源分類：Categoría:Brujería > Brujería por país > Brujería en España
+- [ ] **Francisco de Borja y Aragón**（英語，6,141 字元）— [原文](https://en.wikipedia.org/wiki/Francisco_de_Borja_y_Arag%C3%B3n) — 來源分類：Category:European witchcraft > Witchcraft in Spain
+- [ ] **Boli (fétiche)**（法語，6,136 字元）— [原文](https://fr.wikipedia.org/wiki/Boli_%28f%C3%A9tiche%29) — 來源分類：Catégorie:Sorcellerie > Sorcellerie par lieu > Sorcellerie en Afrique
+- [ ] **Kerstin Gabrielsdotter**（英語，6,095 字元）— [原文](https://en.wikipedia.org/wiki/Kerstin_Gabrielsdotter) — 來源分類：Category:European witchcraft > Witchcraft in Sweden
+- [ ] **Perrissona Gappit**（法語，6,050 字元）— [原文](https://fr.wikipedia.org/wiki/Perrissona_Gappit) — 來源分類：Catégorie:Sorcellerie > Procès de sorcellerie > Procès de sorcellerie en Suisse
+- [ ] **Las Burras de Güímar**（西班牙語，6,015 字元）— [原文](https://es.wikipedia.org/wiki/Las_Burras_de_G%C3%BC%C3%ADmar) — 來源分類：Categoría:Brujería > Brujería por país > Brujería en España
+- [ ] **Munich Manual of Demonic Magic**（英語，5,989 字元）— [原文](https://en.wikipedia.org/wiki/Munich_Manual_of_Demonic_Magic) — 來源分類：Category:European witchcraft
+- [ ] **Sébastien Michaëlis**（英語，5,925 字元）— [原文](https://en.wikipedia.org/wiki/S%C3%A9bastien_Micha%C3%ABlis) — 來源分類：Category:European witchcraft > Witchcraft in France
+- [ ] **Witchcraft Today**（英語，5,833 字元）— [原文](https://en.wikipedia.org/wiki/Witchcraft_Today) — 來源分類：Category:European witchcraft > Witchcraft in the United Kingdom
+- [ ] **Jón Magnússon (author)**（英語，5,827 字元）— [原文](https://en.wikipedia.org/wiki/J%C3%B3n_Magn%C3%BAsson_%28author%29) — 來源分類：Category:European witchcraft > Witchcraft in Iceland
+- [ ] **Easter witch**（英語，5,815 字元）— [原文](https://en.wikipedia.org/wiki/Easter_witch) — 來源分類：Category:European witchcraft > Witchcraft in Sweden
+- [ ] **Giovanni Francesco Pico della Mirandola**（英語，5,709 字元）— [原文](https://en.wikipedia.org/wiki/Giovanni_Francesco_Pico_della_Mirandola) — 來源分類：Category:European witchcraft > Witchcraft in Italy
+- [ ] **Gamasot**（英語，5,684 字元）— [原文](https://en.wikipedia.org/wiki/Gamasot) — 來源分類：Category:European witchcraft > Cauldrons
+- [ ] **Kitchen witch**（英語，5,514 字元）— [原文](https://en.wikipedia.org/wiki/Kitchen_witch) — 來源分類：Category:European witchcraft
+- [ ] **Vedmak**（英語，5,448 字元）— [原文](https://en.wikipedia.org/wiki/Vedmak) — 來源分類：Category:European witchcraft
+- [ ] **Warlock**（英語，5,430 字元）— [原文](https://en.wikipedia.org/wiki/Warlock) — 來源分類：Category:European witchcraft
+- [ ] **Johannes Nider**（英語，5,343 字元）— [原文](https://en.wikipedia.org/wiki/Johannes_Nider) — 來源分類：Category:European witchcraft > Witchcraft in Germany
+- [ ] **On the Demonomania of the Sorcerers**（英語，5,340 字元）— [原文](https://en.wikipedia.org/wiki/On_the_Demonomania_of_the_Sorcerers) — 來源分類：Category:European witchcraft > Witchcraft in France
+- [ ] **Margaret Matson**（西班牙語，5,306 字元）— [原文](https://es.wikipedia.org/wiki/Margaret_Matson) — 來源分類：Categoría:Brujería > Brujería en América
+- [ ] **Rag doll**（英語，5,301 字元）— [原文](https://en.wikipedia.org/wiki/Rag_doll) — 來源分類：Category:European witchcraft
+- [ ] **Witch hat**（英語，5,271 字元）— [原文](https://en.wikipedia.org/wiki/Witch_hat) — 來源分類：Category:European witchcraft
+- [ ] **Ecstasies: Deciphering the Witches' Sabbath**（英語，5,260 字元）— [原文](https://en.wikipedia.org/wiki/Ecstasies%3A_Deciphering_the_Witches%27_Sabbath) — 來源分類：Category:European witchcraft > Witchcraft in Italy
+- [ ] **Lebes**（英語，5,250 字元）— [原文](https://en.wikipedia.org/wiki/Lebes) — 來源分類：Category:European witchcraft > Cauldrons

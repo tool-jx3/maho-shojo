@@ -1,0 +1,217 @@
+# 待收錄候選：詛咒與法術
+
+共 211 項。回到 [待辦總表](../BACKLOG.md)。
+
+本檔由 `scripts/build_reference_backlog.py` 產生，是機器掃描的結果而非選錄決定，每一項都需要人工判斷。
+
+- [ ] **Sports-related curses**（英語，228,511 字元）— [原文](https://en.wikipedia.org/wiki/Sports-related_curses) — 來源分類：Category:Witchcraft > Curses > Sports-related curses
+- [ ] **The Exorcist**（英語，211,954 字元）— [原文](https://en.wikipedia.org/wiki/The_Exorcist) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Pirates of the Caribbean: Dead Men Tell No Tales**（英語，172,386 字元）— [原文](https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean%3A_Dead_Men_Tell_No_Tales) — 來源分類：Category:Witchcraft > Curses > Flying Dutchman
+- [ ] **Culture and menstruation**（英語，168,019 字元）— [原文](https://en.wikipedia.org/wiki/Culture_and_menstruation) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Tutankhamun**（英語，154,027 字元）— [原文](https://en.wikipedia.org/wiki/Tutankhamun) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Umbrella (song)**（英語，134,829 字元）— [原文](https://en.wikipedia.org/wiki/Umbrella_%28song%29) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Chain letter**（英語，126,305 字元）— [原文](https://en.wikipedia.org/wiki/Chain_letter) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Domiciano**（西班牙語，113,709 字元）— [原文](https://es.wikipedia.org/wiki/Domiciano) — 來源分類：Categoría:Brujería > Maldiciones > Damnatio memoriae
+- [ ] **La Llorona**（英語，111,252 字元）— [原文](https://en.wikipedia.org/wiki/La_Llorona) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Andretti curse**（英語，106,075 字元）— [原文](https://en.wikipedia.org/wiki/Andretti_curse) — 來源分類：Category:Witchcraft > Curses > Sports-related curses
+- [ ] **Food and drink prohibitions**（英語，101,720 字元）— [原文](https://en.wikipedia.org/wiki/Food_and_drink_prohibitions) — 來源分類：Category:Witchcraft > Curses > Taboo
+- [ ] **Mayo county football team**（英語，100,378 字元）— [原文](https://en.wikipedia.org/wiki/Mayo_county_football_team) — 來源分類：Category:Witchcraft > Curses > Sports-related curses
+- [ ] **Spirit possession**（英語，97,729 字元）— [原文](https://en.wikipedia.org/wiki/Spirit_possession) — 來源分類：Category:Witchcraft > Curses > Demonic possession
+- [ ] **Hope Diamond**（英語，95,172 字元）— [原文](https://en.wikipedia.org/wiki/Hope_Diamond) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Resource curse**（英語，94,385 字元）— [原文](https://en.wikipedia.org/wiki/Resource_curse) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Judas Iscariot**（英語，93,383 字元）— [原文](https://en.wikipedia.org/wiki/Judas_Iscariot) — 來源分類：Category:Witchcraft > Curses > Demonic possession
+- [ ] **Our Gang**（英語，89,287 字元）— [原文](https://en.wikipedia.org/wiki/Our_Gang) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Evil eye**（英語，85,841 字元）— [原文](https://en.wikipedia.org/wiki/Evil_eye) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Wandering Jew**（英語，85,218 字元）— [原文](https://en.wikipedia.org/wiki/Wandering_Jew) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Bertram Fletcher Robinson**（英語，84,488 字元）— [原文](https://en.wikipedia.org/wiki/Bertram_Fletcher_Robinson) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Akenatón**（西班牙語，84,126 字元）— [原文](https://es.wikipedia.org/wiki/Akenat%C3%B3n) — 來源分類：Categoría:Brujería > Maldiciones > Damnatio memoriae
+- [ ] **Pirates of the Caribbean: Dead Man's Chest**（英語，73,236 字元）— [原文](https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean%3A_Dead_Man%27s_Chest) — 來源分類：Category:Witchcraft > Curses > Flying Dutchman
+- [ ] **Pirates of the Caribbean: At World's End**（英語，70,405 字元）— [原文](https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean%3A_At_World%27s_End) — 來源分類：Category:Witchcraft > Curses > Flying Dutchman
+- [ ] **Koh-i-Noor**（英語，62,312 字元）— [原文](https://en.wikipedia.org/wiki/Koh-i-Noor) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Curse of Ham**（英語，61,263 字元）— [原文](https://en.wikipedia.org/wiki/Curse_of_Ham) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Oak Island mystery**（英語，59,544 字元）— [原文](https://en.wikipedia.org/wiki/Oak_Island_mystery) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Super Bowl curse**（英語，55,609 字元）— [原文](https://en.wikipedia.org/wiki/Super_Bowl_curse) — 來源分類：Category:Witchcraft > Curses > Sports-related curses
+- [ ] **Sports Illustrated cover jinx**（英語，53,106 字元）— [原文](https://en.wikipedia.org/wiki/Sports_Illustrated_cover_jinx) — 來源分類：Category:Witchcraft > Curses > Sports-related curses
+- [ ] **Cat meat**（英語，51,123 字元）— [原文](https://en.wikipedia.org/wiki/Cat_meat) — 來源分類：Category:Witchcraft > Curses > Taboo
+- [ ] **Cleveland sports curse**（英語，47,410 字元）— [原文](https://en.wikipedia.org/wiki/Cleveland_sports_curse) — 來源分類：Category:Witchcraft > Curses > Sports-related curses
+- [ ] **Twilight Zone: The Movie**（英語，46,494 字元）— [原文](https://en.wikipedia.org/wiki/Twilight_Zone%3A_The_Movie) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Maldición de Cam**（西班牙語，44,599 字元）— [原文](https://es.wikipedia.org/wiki/Maldici%C3%B3n_de_Cam) — 來源分類：Categoría:Brujería > Maldiciones
+- [ ] **Rebel Without a Cause**（英語，41,990 字元）— [原文](https://en.wikipedia.org/wiki/Rebel_Without_a_Cause) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Postpartum confinement**（英語，41,786 字元）— [原文](https://en.wikipedia.org/wiki/Postpartum_confinement) — 來源分類：Category:Witchcraft > Curses > Taboo
+- [ ] **A Confederacy of Dunces**（英語，40,685 字元）— [原文](https://en.wikipedia.org/wiki/A_Confederacy_of_Dunces) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Flying Dutchman**（英語，37,773 字元）— [原文](https://en.wikipedia.org/wiki/Flying_Dutchman) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Ancestral sin**（英語，37,365 字元）— [原文](https://en.wikipedia.org/wiki/Ancestral_sin) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Curse and mark of Cain**（英語，36,813 字元）— [原文](https://en.wikipedia.org/wiki/Curse_and_mark_of_Cain) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Death of James Dean**（英語，36,624 字元）— [原文](https://en.wikipedia.org/wiki/Death_of_James_Dean) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Curse of the Bambino**（英語，35,576 字元）— [原文](https://en.wikipedia.org/wiki/Curse_of_the_Bambino) — 來源分類：Category:Witchcraft > Curses > Sports-related curses
+- [ ] **Psalm 109**（英語，34,912 字元）— [原文](https://en.wikipedia.org/wiki/Psalm_109) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Nahanni National Park Reserve**（英語，34,412 字元）— [原文](https://en.wikipedia.org/wiki/Nahanni_National_Park_Reserve) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Incest taboo**（英語，33,655 字元）— [原文](https://en.wikipedia.org/wiki/Incest_taboo) — 來源分類：Category:Witchcraft > Curses > Taboo
+- [ ] **Balaam**（英語，33,377 字元）— [原文](https://en.wikipedia.org/wiki/Balaam) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Kelpie**（英語，33,303 字元）— [原文](https://en.wikipedia.org/wiki/Kelpie) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Curse of the Billy Goat**（英語，32,603 字元）— [原文](https://en.wikipedia.org/wiki/Curse_of_the_Billy_Goat) — 來源分類：Category:Witchcraft > Curses > Sports-related curses
+- [ ] **Voldemort effect**（英語，32,176 字元）— [原文](https://en.wikipedia.org/wiki/Voldemort_effect) — 來源分類：Category:Witchcraft > Curses > Taboo
+- [ ] **Sihuanaba**（英語，32,102 字元）— [原文](https://en.wikipedia.org/wiki/Sihuanaba) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Lamanites**（英語，31,233 字元）— [原文](https://en.wikipedia.org/wiki/Lamanites) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Kennedy curse**（英語，31,165 字元）— [原文](https://en.wikipedia.org/wiki/Kennedy_curse) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Ordeal of the bitter water**（英語，30,927 字元）— [原文](https://en.wikipedia.org/wiki/Ordeal_of_the_bitter_water) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Taboo**（英語，30,911 字元）— [原文](https://en.wikipedia.org/wiki/Taboo) — 來源分類：Category:Witchcraft > Curses > Taboo
+- [ ] **Legends and myths regarding the Titanic**（英語，30,520 字元）— [原文](https://en.wikipedia.org/wiki/Legends_and_myths_regarding_the_Titanic) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Davy Jones (Pirates of the Caribbean)**（英語，30,047 字元）— [原文](https://en.wikipedia.org/wiki/Davy_Jones_%28Pirates_of_the_Caribbean%29) — 來源分類：Category:Witchcraft > Curses > Flying Dutchman
+- [ ] **Superman curse**（英語，29,879 字元）— [原文](https://en.wikipedia.org/wiki/Superman_curse) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Curses of Cain and Ham (LDS Church)**（英語，28,851 字元）— [原文](https://en.wikipedia.org/wiki/Curses_of_Cain_and_Ham_%28LDS_Church%29) — 來源分類：Category:Witchcraft > Curses
+- [ ] **George Lukins**（英語，27,572 字元）— [原文](https://en.wikipedia.org/wiki/George_Lukins) — 來源分類：Category:Witchcraft > Curses > Demonic possession
+- [ ] **Nyonin Kinsei**（英語，26,666 字元）— [原文](https://en.wikipedia.org/wiki/Nyonin_Kinsei) — 來源分類：Category:Witchcraft > Curses > Taboo
+- [ ] **Ushi no toki mairi**（英語，26,443 字元）— [原文](https://en.wikipedia.org/wiki/Ushi_no_toki_mairi) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Curse of the pharaohs**（英語，26,421 字元）— [原文](https://en.wikipedia.org/wiki/Curse_of_the_pharaohs) — 來源分類：Category:Witchcraft > Curses
+- [ ] **The Flying Dutchman (horse)**（英語，26,393 字元）— [原文](https://en.wikipedia.org/wiki/The_Flying_Dutchman_%28horse%29) — 來源分類：Category:Witchcraft > Curses > Flying Dutchman
+- [ ] **Hysterical strength**（英語，25,235 字元）— [原文](https://en.wikipedia.org/wiki/Hysterical_strength) — 來源分類：Category:Witchcraft > Curses > Demonic possession
+- [ ] **Event of the mubahala**（英語，25,180 字元）— [原文](https://en.wikipedia.org/wiki/Event_of_the_mubahala) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Loudun possessions**（英語，24,798 字元）— [原文](https://en.wikipedia.org/wiki/Loudun_possessions) — 來源分類：Category:Witchcraft > Curses > Demonic possession
+- [ ] **Totem and Taboo**（英語，23,664 字元）— [原文](https://en.wikipedia.org/wiki/Totem_and_Taboo) — 來源分類：Category:Witchcraft > Curses > Taboo
+- [ ] **Heisman curse**（英語，23,596 字元）— [原文](https://en.wikipedia.org/wiki/Heisman_curse) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Penis as food**（英語，23,579 字元）— [原文](https://en.wikipedia.org/wiki/Penis_as_food) — 來源分類：Category:Witchcraft > Curses > Taboo
+- [ ] **Trial of Arne Cheyenne Johnson**（英語，23,283 字元）— [原文](https://en.wikipedia.org/wiki/Trial_of_Arne_Cheyenne_Johnson) — 來源分類：Category:Witchcraft > Curses > Demonic possession
+- [ ] **Crucible curse**（英語，23,019 字元）— [原文](https://en.wikipedia.org/wiki/Crucible_curse) — 來源分類：Category:Witchcraft > Curses > Sports-related curses
+- [ ] **Euphemism**（英語，23,003 字元）— [原文](https://en.wikipedia.org/wiki/Euphemism) — 來源分類：Category:Witchcraft > Curses > Taboo
+- [ ] **Umayyad tradition of cursing Ali**（英語，22,867 字元）— [原文](https://en.wikipedia.org/wiki/Umayyad_tradition_of_cursing_Ali) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Fantasma de Carson**（西班牙語，21,683 字元）— [原文](https://es.wikipedia.org/wiki/Fantasma_de_Carson) — 來源分類：Categoría:Brujería > Maldiciones
+- [ ] **Second-term curse**（英語，21,165 字元）— [原文](https://en.wikipedia.org/wiki/Second-term_curse) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Yimaj shemó**（西班牙語，21,037 字元）— [原文](https://es.wikipedia.org/wiki/Yimaj_shem%C3%B3) — 來源分類：Categoría:Brujería > Maldiciones
+- [ ] **Cornstalk (Shawnee leader)**（英語，20,593 字元）— [原文](https://en.wikipedia.org/wiki/Cornstalk_%28Shawnee_leader%29) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Execration texts**（英語，20,443 字元）— [原文](https://en.wikipedia.org/wiki/Execration_texts) — 來源分類：Category:Witchcraft > Curses > Curse tablets
+- [ ] **SpongeBob SquarePants: Revenge of the Flying Dutchman**（英語，20,239 字元）— [原文](https://en.wikipedia.org/wiki/SpongeBob_SquarePants%3A_Revenge_of_the_Flying_Dutchman) — 來源分類：Category:Witchcraft > Curses > Flying Dutchman
+- [ ] **Curse of Billy Penn**（英語，20,034 字元）— [原文](https://en.wikipedia.org/wiki/Curse_of_Billy_Penn) — 來源分類：Category:Witchcraft > Curses > Sports-related curses
+- [ ] **Curse of 1940**（英語，19,698 字元）— [原文](https://en.wikipedia.org/wiki/Curse_of_1940) — 來源分類：Category:Witchcraft > Curses > Sports-related curses
+- [ ] **Uchchhishta**（英語，19,670 字元）— [原文](https://en.wikipedia.org/wiki/Uchchhishta) — 來源分類：Category:Witchcraft > Curses > Taboo
+- [ ] **Damnatio memoriae**（西班牙語，19,510 字元）— [原文](https://es.wikipedia.org/wiki/Damnatio_memoriae) — 來源分類：Categoría:Brujería > Maldiciones > Damnatio memoriae
+- [ ] **Curse tablet**（英語，19,489 字元）— [原文](https://en.wikipedia.org/wiki/Curse_tablet) — 來源分類：Category:Witchcraft > Curses > Curse tablets
+- [ ] **Deadnaming**（英語，19,350 字元）— [原文](https://en.wikipedia.org/wiki/Deadnaming) — 來源分類：Category:Witchcraft > Curses > Taboo
+- [ ] **Diamante Hope**（西班牙語，19,089 字元）— [原文](https://es.wikipedia.org/wiki/Diamante_Hope) — 來源分類：Categoría:Brujería > Maldiciones
+- [ ] **Ex-Cubs Factor**（英語，19,054 字元）— [原文](https://en.wikipedia.org/wiki/Ex-Cubs_Factor) — 來源分類：Category:Witchcraft > Curses > Sports-related curses
+- [ ] **Ushi no toki mairi**（西班牙語，18,981 字元）— [原文](https://es.wikipedia.org/wiki/Ushi_no_toki_mairi) — 來源分類：Categoría:Brujería > Maldiciones
+- [ ] **Bath curse tablets**（英語，18,812 字元）— [原文](https://en.wikipedia.org/wiki/Bath_curse_tablets) — 來源分類：Category:Witchcraft > Curses > Curse tablets
+- [ ] **Book curse**（英語，18,658 字元）— [原文](https://en.wikipedia.org/wiki/Book_curse) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Yimakh shemo**（英語，18,410 字元）— [原文](https://en.wikipedia.org/wiki/Yimakh_shemo) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Illinois Central 382**（英語，18,327 字元）— [原文](https://en.wikipedia.org/wiki/Illinois_Central_382) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Horkos**（英語，18,319 字元）— [原文](https://en.wikipedia.org/wiki/Horkos) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Kala pani (taboo)**（英語，18,100 字元）— [原文](https://en.wikipedia.org/wiki/Kala_pani_%28taboo%29) — 來源分類：Category:Witchcraft > Curses > Taboo
+- [ ] **Matthew 5:44**（英語，18,067 字元）— [原文](https://en.wikipedia.org/wiki/Matthew_5%3A44) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Curse of Tippecanoe**（英語，17,849 字元）— [原文](https://en.wikipedia.org/wiki/Curse_of_Tippecanoe) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Curse of Scotland**（英語，17,733 字元）— [原文](https://en.wikipedia.org/wiki/Curse_of_Scotland) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Exorcism of Roland Doe**（英語，17,651 字元）— [原文](https://en.wikipedia.org/wiki/Exorcism_of_Roland_Doe) — 來源分類：Category:Witchcraft > Curses > Demonic possession
+- [ ] **Religious restrictions on the consumption of pork**（英語，17,615 字元）— [原文](https://en.wikipedia.org/wiki/Religious_restrictions_on_the_consumption_of_pork) — 來源分類：Category:Witchcraft > Curses > Taboo
+- [ ] **Theatrical superstitions**（英語，17,186 字元）— [原文](https://en.wikipedia.org/wiki/Theatrical_superstitions) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Necklace of Harmonia**（英語，17,027 字元）— [原文](https://en.wikipedia.org/wiki/Necklace_of_Harmonia) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Taboo (book)**（英語，16,756 字元）— [原文](https://en.wikipedia.org/wiki/Taboo_%28book%29) — 來源分類：Category:Witchcraft > Curses > Taboo
+- [ ] **Cartel de Pozoblanco**（西班牙語，16,282 字元）— [原文](https://es.wikipedia.org/wiki/Cartel_de_Pozoblanco) — 來源分類：Categoría:Brujería > Maldiciones
+- [ ] **Der fliegende Holländer**（英語，16,123 字元）— [原文](https://en.wikipedia.org/wiki/Der_fliegende_Holl%C3%A4nder) — 來源分類：Category:Witchcraft > Curses > Flying Dutchman
+- [ ] **China–South Korea football rivalry**（英語，16,041 字元）— [原文](https://en.wikipedia.org/wiki/China%E2%80%93South_Korea_football_rivalry) — 來源分類：Category:Witchcraft > Curses > Sports-related curses
+- [ ] **Maldición del faraón**（西班牙語，15,774 字元）— [原文](https://es.wikipedia.org/wiki/Maldici%C3%B3n_del_fara%C3%B3n) — 來源分類：Categoría:Brujería > Maldiciones
+- [ ] **Muramasa**（英語，15,558 字元）— [原文](https://en.wikipedia.org/wiki/Muramasa) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Gold of Tolosa**（英語，15,532 字元）— [原文](https://en.wikipedia.org/wiki/Gold_of_Tolosa) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Imprecatory Psalms**（英語，15,388 字元）— [原文](https://en.wikipedia.org/wiki/Imprecatory_Psalms) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Murrain**（英語，15,216 字元）— [原文](https://en.wikipedia.org/wiki/Murrain) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Pandora and the Flying Dutchman**（英語，15,081 字元）— [原文](https://en.wikipedia.org/wiki/Pandora_and_the_Flying_Dutchman) — 來源分類：Category:Witchcraft > Curses > Flying Dutchman
+- [ ] **Kennett curse**（英語，14,823 字元）— [原文](https://en.wikipedia.org/wiki/Kennett_curse) — 來源分類：Category:Witchcraft > Curses > Sports-related curses
+- [ ] **Cursing of the fig tree**（英語，14,549 字元）— [原文](https://en.wikipedia.org/wiki/Cursing_of_the_fig_tree) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Milwaukee Brewers Reverse World Series Curse**（英語，14,292 字元）— [原文](https://en.wikipedia.org/wiki/Milwaukee_Brewers_Reverse_World_Series_Curse) — 來源分類：Category:Witchcraft > Curses > Sports-related curses
+- [ ] **Rat meat**（英語，14,199 字元）— [原文](https://en.wikipedia.org/wiki/Rat_meat) — 來源分類：Category:Witchcraft > Curses > Taboo
+- [ ] **Mohamed Salah Christmas photos**（英語，14,098 字元）— [原文](https://en.wikipedia.org/wiki/Mohamed_Salah_Christmas_photos) — 來源分類：Category:Witchcraft > Curses > Sports-related curses
+- [ ] **Ides of March**（英語，14,090 字元）— [原文](https://en.wikipedia.org/wiki/Ides_of_March) — 來源分類：Category:Witchcraft > Curses
+- [ ] **My Way killings**（英語，14,067 字元）— [原文](https://en.wikipedia.org/wiki/My_Way_killings) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Larzac tablet**（英語，13,992 字元）— [原文](https://en.wikipedia.org/wiki/Larzac_tablet) — 來源分類：Category:Witchcraft > Curses > Curse tablets
+- [ ] **Ring of Silvianus**（英語，13,964 字元）— [原文](https://en.wikipedia.org/wiki/Ring_of_Silvianus) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Sarkha**（英語，13,964 字元）— [原文](https://en.wikipedia.org/wiki/Sarkha) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Naming taboo**（英語，13,899 字元）— [原文](https://en.wikipedia.org/wiki/Naming_taboo) — 來源分類：Category:Witchcraft > Curses > Taboo
+- [ ] **Inter-caste marriage in Nepal**（英語，13,761 字元）— [原文](https://en.wikipedia.org/wiki/Inter-caste_marriage_in_Nepal) — 來源分類：Category:Witchcraft > Curses > Taboo
+- [ ] **Word taboo**（英語，13,692 字元）— [原文](https://en.wikipedia.org/wiki/Word_taboo) — 來源分類：Category:Witchcraft > Curses > Taboo
+- [ ] **OB marker**（英語，13,598 字元）— [原文](https://en.wikipedia.org/wiki/OB_marker) — 來源分類：Category:Witchcraft > Curses > Taboo
+- [ ] **Curse of the Colonel**（英語，13,576 字元）— [原文](https://en.wikipedia.org/wiki/Curse_of_the_Colonel) — 來源分類：Category:Witchcraft > Curses > Sports-related curses
+- [ ] **Seventh son of a seventh son**（英語，13,495 字元）— [原文](https://en.wikipedia.org/wiki/Seventh_son_of_a_seventh_son) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Loathly lady**（英語，13,409 字元）— [原文](https://en.wikipedia.org/wiki/Loathly_lady) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Pecado ancestral**（西班牙語，13,078 字元）— [原文](https://es.wikipedia.org/wiki/Pecado_ancestral) — 來源分類：Categoría:Brujería > Maldiciones
+- [ ] **Damnation**（英語，12,961 字元）— [原文](https://en.wikipedia.org/wiki/Damnation) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Sacrilege**（英語，12,802 字元）— [原文](https://en.wikipedia.org/wiki/Sacrilege) — 來源分類：Category:Witchcraft > Curses > Taboo
+- [ ] **Curse of Timur**（英語，12,684 字元）— [原文](https://en.wikipedia.org/wiki/Curse_of_Timur) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Haunted doll**（英語，12,588 字元）— [原文](https://en.wikipedia.org/wiki/Haunted_doll) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Rainbow jersey**（英語，12,481 字元）— [原文](https://en.wikipedia.org/wiki/Rainbow_jersey) — 來源分類：Category:Witchcraft > Curses > Sports-related curses
+- [ ] **Ammons haunting case**（英語，12,211 字元）— [原文](https://en.wikipedia.org/wiki/Ammons_haunting_case) — 來源分類：Category:Witchcraft > Curses > Demonic possession
+- [ ] **Pulsa diNura**（英語，12,030 字元）— [原文](https://en.wikipedia.org/wiki/Pulsa_diNura) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Der fliegende Holländer discography**（英語，11,978 字元）— [原文](https://en.wikipedia.org/wiki/Der_fliegende_Holl%C3%A4nder_discography) — 來源分類：Category:Witchcraft > Curses > Flying Dutchman
+- [ ] **Belled buzzard**（英語，11,969 字元）— [原文](https://en.wikipedia.org/wiki/Belled_buzzard) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Michael Taylor (British killer)**（英語，11,899 字元）— [原文](https://en.wikipedia.org/wiki/Michael_Taylor_%28British_killer%29) — 來源分類：Category:Witchcraft > Curses > Demonic possession
+- [ ] **The Scottish Play**（英語，11,769 字元）— [原文](https://en.wikipedia.org/wiki/The_Scottish_Play) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Tanacu exorcism**（英語，11,666 字元）— [原文](https://en.wikipedia.org/wiki/Tanacu_exorcism) — 來源分類：Category:Witchcraft > Curses > Demonic possession
+- [ ] **Tapu (Polynesian culture)**（英語，11,641 字元）— [原文](https://en.wikipedia.org/wiki/Tapu_%28Polynesian_culture%29) — 來源分類：Category:Witchcraft > Curses > Taboo
+- [ ] **Unlucky Mummy**（英語，11,520 字元）— [原文](https://en.wikipedia.org/wiki/Unlucky_Mummy) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Scottish pork taboo**（英語，11,002 字元）— [原文](https://en.wikipedia.org/wiki/Scottish_pork_taboo) — 來源分類：Category:Witchcraft > Curses > Taboo
+- [ ] **Army Derby**（英語，11,000 字元）— [原文](https://en.wikipedia.org/wiki/Army_Derby) — 來源分類：Category:Witchcraft > Curses > Sports-related curses
+- [ ] **Maldición de sangre**（西班牙語，10,822 字元）— [原文](https://es.wikipedia.org/wiki/Maldici%C3%B3n_de_sangre) — 來源分類：Categoría:Brujería > Maldiciones
+- [ ] **Curse of Rocky Colavito**（英語，10,609 字元）— [原文](https://en.wikipedia.org/wiki/Curse_of_Rocky_Colavito) — 來源分類：Category:Witchcraft > Curses > Sports-related curses
+- [ ] **Dybbuk box**（英語，10,585 字元）— [原文](https://en.wikipedia.org/wiki/Dybbuk_box) — 來源分類：Category:Witchcraft > Curses > Demonic possession
+- [ ] **Blood curse**（英語，10,517 字元）— [原文](https://en.wikipedia.org/wiki/Blood_curse) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Avoidance speech**（英語，10,511 字元）— [原文](https://en.wikipedia.org/wiki/Avoidance_speech) — 來源分類：Category:Witchcraft > Curses > Taboo
+- [ ] **Geas**（英語，10,445 字元）— [原文](https://en.wikipedia.org/wiki/Geas) — 來源分類：Category:Witchcraft > Curses > Taboo
+- [ ] **Eyeballs as food**（英語，10,441 字元）— [原文](https://en.wikipedia.org/wiki/Eyeballs_as_food) — 來源分類：Category:Witchcraft > Curses > Taboo
+- [ ] **Kollyra curse tablet**（英語，10,402 字元）— [原文](https://en.wikipedia.org/wiki/Kollyra_curse_tablet) — 來源分類：Category:Witchcraft > Curses > Curse tablets
+- [ ] **Clara Germana Cele**（英語，10,386 字元）— [原文](https://en.wikipedia.org/wiki/Clara_Germana_Cele) — 來源分類：Category:Witchcraft > Curses > Demonic possession
+- [ ] **Winner's curse**（英語，10,378 字元）— [原文](https://en.wikipedia.org/wiki/Winner%27s_curse) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Ibis (Ovid)**（英語，10,302 字元）— [原文](https://en.wikipedia.org/wiki/Ibis_%28Ovid%29) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Curse of the ninth**（英語，10,251 字元）— [原文](https://en.wikipedia.org/wiki/Curse_of_the_ninth) — 來源分類：Category:Witchcraft > Curses
+- [ ] **The Anguished Man**（英語，10,151 字元）— [原文](https://en.wikipedia.org/wiki/The_Anguished_Man) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Regent Diamond**（英語，10,078 字元）— [原文](https://en.wikipedia.org/wiki/Regent_Diamond) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Curse of the Black Sox**（英語，10,076 字元）— [原文](https://en.wikipedia.org/wiki/Curse_of_the_Black_Sox) — 來源分類：Category:Witchcraft > Curses > Sports-related curses
+- [ ] **Malaun**（英語，9,988 字元）— [原文](https://en.wikipedia.org/wiki/Malaun) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Chrysanthemum taboo**（英語，9,822 字元）— [原文](https://en.wikipedia.org/wiki/Chrysanthemum_taboo) — 來源分類：Category:Witchcraft > Curses > Taboo
+- [ ] **Usog**（英語，9,760 字元）— [原文](https://en.wikipedia.org/wiki/Usog) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Man Proposes, God Disposes**（英語，9,662 字元）— [原文](https://en.wikipedia.org/wiki/Man_Proposes%2C_God_Disposes) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Skern Runestone**（英語，9,661 字元）— [原文](https://en.wikipedia.org/wiki/Skern_Runestone) — 來源分類：Category:Witchcraft > Curses > Runestones with curses
+- [ ] **Taboo on the dead**（英語，9,376 字元）— [原文](https://en.wikipedia.org/wiki/Taboo_on_the_dead) — 來源分類：Category:Witchcraft > Curses > Taboo
+- [ ] **Maldición de la higuera**（西班牙語，9,344 字元）— [原文](https://es.wikipedia.org/wiki/Maldici%C3%B3n_de_la_higuera) — 來源分類：Categoría:Brujería > Maldiciones
+- [ ] **Stentoften Runestone**（英語，9,291 字元）— [原文](https://en.wikipedia.org/wiki/Stentoften_Runestone) — 來源分類：Category:Witchcraft > Curses > Runestones with curses
+- [ ] **El sillón del Diablo**（西班牙語，9,066 字元）— [原文](https://es.wikipedia.org/wiki/El_sill%C3%B3n_del_Diablo) — 來源分類：Categoría:Brujería > Maldiciones
+- [ ] **Same-surname marriage**（英語，9,013 字元）— [原文](https://en.wikipedia.org/wiki/Same-surname_marriage) — 來源分類：Category:Witchcraft > Curses > Taboo
+- [ ] **Kardashian curse**（英語，8,852 字元）— [原文](https://en.wikipedia.org/wiki/Kardashian_curse) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Chamalières tablet**（英語，8,753 字元）— [原文](https://en.wikipedia.org/wiki/Chamali%C3%A8res_tablet) — 來源分類：Category:Witchcraft > Curses > Curse tablets
+- [ ] **Atuk**（英語，8,619 字元）— [原文](https://en.wikipedia.org/wiki/Atuk) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Curse of Coogan's Bluff**（英語，8,596 字元）— [原文](https://en.wikipedia.org/wiki/Curse_of_Coogan%27s_Bluff) — 來源分類：Category:Witchcraft > Curses > Sports-related curses
+- [ ] **Sweater curse**（英語，8,521 字元）— [原文](https://en.wikipedia.org/wiki/Sweater_curse) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Nuclear taboo**（英語，8,509 字元）— [原文](https://en.wikipedia.org/wiki/Nuclear_taboo) — 來源分類：Category:Witchcraft > Curses > Taboo
+- [ ] **Aix-en-Provence possessions**（英語，8,507 字元）— [原文](https://en.wikipedia.org/wiki/Aix-en-Provence_possessions) — 來源分類：Category:Witchcraft > Curses > Demonic possession
+- [ ] **Pandanus language**（英語，8,387 字元）— [原文](https://en.wikipedia.org/wiki/Pandanus_language) — 來源分類：Category:Witchcraft > Curses > Taboo
+- [ ] **Curse of the Braganzas**（英語，8,350 字元）— [原文](https://en.wikipedia.org/wiki/Curse_of_the_Braganzas) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Balak**（英語，8,290 字元）— [原文](https://en.wikipedia.org/wiki/Balak) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Cursed Films**（英語，8,240 字元）— [原文](https://en.wikipedia.org/wiki/Cursed_Films) — 來源分類：Category:Witchcraft > Curses
+- [ ] **The Hands Resist Him**（英語，8,219 字元）— [原文](https://en.wikipedia.org/wiki/The_Hands_Resist_Him) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Bentresh stela**（英語，8,119 字元）— [原文](https://en.wikipedia.org/wiki/Bentresh_stela) — 來源分類：Category:Witchcraft > Curses > Demonic possession
+- [ ] **Castaways of the Flying Dutchman**（英語，7,898 字元）— [原文](https://en.wikipedia.org/wiki/Castaways_of_the_Flying_Dutchman) — 來源分類：Category:Witchcraft > Curses > Flying Dutchman
+- [ ] **Tichborne Dole**（英語，7,835 字元）— [原文](https://en.wikipedia.org/wiki/Tichborne_Dole) — 來源分類：Category:Witchcraft > Curses
+- [ ] **El Silbón**（英語，7,797 字元）— [原文](https://en.wikipedia.org/wiki/El_Silb%C3%B3n) — 來源分類：Category:Witchcraft > Curses
+- [ ] **The Homeward Bounders**（英語，7,742 字元）— [原文](https://en.wikipedia.org/wiki/The_Homeward_Bounders) — 來源分類：Category:Witchcraft > Curses > Flying Dutchman
+- [ ] **Australian Aboriginal avoidance practices**（英語，7,684 字元）— [原文](https://en.wikipedia.org/wiki/Australian_Aboriginal_avoidance_practices) — 來源分類：Category:Witchcraft > Curses > Taboo
+- [ ] **May you live in interesting times**（英語，7,680 字元）— [原文](https://en.wikipedia.org/wiki/May_you_live_in_interesting_times) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Ouvertüre zum "Fliegenden Holländer", wie sie eine schlechte Kurkapelle morgens um 7 am Brunnen vom Blatt spielt**（英語，7,538 字元）— [原文](https://en.wikipedia.org/wiki/Ouvert%C3%BCre_zum_%22Fliegenden_Holl%C3%A4nder%22%2C_wie_sie_eine_schlechte_Kurkapelle_morgens_um_7_am_Brunnen_vom_Blatt_spielt) — 來源分類：Category:Witchcraft > Curses > Flying Dutchman
+- [ ] **Textos de execración**（西班牙語，7,467 字元）— [原文](https://es.wikipedia.org/wiki/Textos_de_execraci%C3%B3n) — 來源分類：Categoría:Brujería > Maldiciones
+- [ ] **Chained Oak**（英語，7,342 字元）— [原文](https://en.wikipedia.org/wiki/Chained_Oak) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Maldición Kennedy**（西班牙語，7,341 字元）— [原文](https://es.wikipedia.org/wiki/Maldici%C3%B3n_Kennedy) — 來源分類：Categoría:Brujería > Maldiciones
+- [ ] **Kediri curse**（英語，7,066 字元）— [原文](https://en.wikipedia.org/wiki/Kediri_curse) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Fady (taboo)**（英語，7,046 字元）— [原文](https://en.wikipedia.org/wiki/Fady_%28taboo%29) — 來源分類：Category:Witchcraft > Curses > Taboo
+- [ ] **Possession of Clarita Villanueva**（英語，7,044 字元）— [原文](https://en.wikipedia.org/wiki/Possession_of_Clarita_Villanueva) — 來源分類：Category:Witchcraft > Curses > Demonic possession
+- [ ] **Jewish male menstruation**（英語，7,019 字元）— [原文](https://en.wikipedia.org/wiki/Jewish_male_menstruation) — 來源分類：Category:Witchcraft > Curses
+- [ ] **El hombre propone, Dios dispone**（西班牙語，7,019 字元）— [原文](https://es.wikipedia.org/wiki/El_hombre_propone%2C_Dios_dispone) — 來源分類：Categoría:Brujería > Maldiciones
+- [ ] **The Phantom Ship**（英語，6,912 字元）— [原文](https://en.wikipedia.org/wiki/The_Phantom_Ship) — 來源分類：Category:Witchcraft > Curses > Flying Dutchman
+- [ ] **Monte Ebal**（西班牙語，6,903 字元）— [原文](https://es.wikipedia.org/wiki/Monte_Ebal) — 來源分類：Categoría:Brujería > Maldiciones
+- [ ] **August curse**（英語，6,845 字元）— [原文](https://en.wikipedia.org/wiki/August_curse) — 來源分類：Category:Witchcraft > Curses
+- [ ] **The Hands Resist Him**（西班牙語，6,778 字元）— [原文](https://es.wikipedia.org/wiki/The_Hands_Resist_Him) — 來源分類：Categoría:Brujería > Maldiciones
+- [ ] **Incubus (2006 film)**（英語，6,726 字元）— [原文](https://en.wikipedia.org/wiki/Incubus_%282006_film%29) — 來源分類：Category:Witchcraft > Curses > Demonic possession
+- [ ] **Lying-in**（英語，6,631 字元）— [原文](https://en.wikipedia.org/wiki/Lying-in) — 來源分類：Category:Witchcraft > Curses > Taboo
+- [ ] **Curse of 39**（英語，6,544 字元）— [原文](https://en.wikipedia.org/wiki/Curse_of_39) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Glavendrup stone**（英語，6,498 字元）— [原文](https://en.wikipedia.org/wiki/Glavendrup_stone) — 來源分類：Category:Witchcraft > Curses > Runestones with curses
+- [ ] **Noa-name**（英語，6,437 字元）— [原文](https://en.wikipedia.org/wiki/Noa-name) — 來源分類：Category:Witchcraft > Curses > Taboo
+- [ ] **Björketorp Runestone**（英語，6,349 字元）— [原文](https://en.wikipedia.org/wiki/Bj%C3%B6rketorp_Runestone) — 來源分類：Category:Witchcraft > Curses > Runestones with curses
+- [ ] **Dorothy Talbye trial**（英語，6,245 字元）— [原文](https://en.wikipedia.org/wiki/Dorothy_Talbye_trial) — 來源分類：Category:Witchcraft > Curses > Demonic possession
+- [ ] **De Vliegende Hollander**（英語，6,119 字元）— [原文](https://en.wikipedia.org/wiki/De_Vliegende_Hollander) — 來源分類：Category:Witchcraft > Curses > Flying Dutchman
+- [ ] **Nithing pole**（英語，6,021 字元）— [原文](https://en.wikipedia.org/wiki/Nithing_pole) — 來源分類：Category:Witchcraft > Curses
+- [ ] **Kewa language**（英語，6,021 字元）— [原文](https://en.wikipedia.org/wiki/Kewa_language) — 來源分類：Category:Witchcraft > Curses > Taboo
+- [ ] **Maldición de Tecumseh**（西班牙語，5,783 字元）— [原文](https://es.wikipedia.org/wiki/Maldici%C3%B3n_de_Tecumseh) — 來源分類：Categoría:Brujería > Maldiciones

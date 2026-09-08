@@ -32,6 +32,7 @@ TYPE_LABELS = {
     "trial": "審判事件",
     "person": "人物",
     "text-law": "文獻與法制",
+    "concept": "概念",
 }
 
 # 各條目的 language_family 寫法詳略不一（「原典為印歐語系……」「孤立語言（巴斯克語，
@@ -50,7 +51,10 @@ FAMILY_KEYS = [
 FAMILY_ORDER = [label for _, label in FAMILY_KEYS]
 
 # sources-and-law 底下各條目的 region 各自標明適用範圍，不適合當章節標題。
-DIR_TITLES = {"sources-and-law": "文獻與法制（跨地區）"}
+DIR_TITLES = {
+    "sources-and-law": "文獻與法制（跨地區）",
+    "concepts": "概念（跨地區）",
+}
 
 
 def parse_frontmatter(text):
@@ -99,7 +103,7 @@ def strip_scalar(value):
 
 def collect():
     entries = []
-    for sub in ("regions", "sources-and-law"):
+    for sub in ("regions", "sources-and-law", "concepts"):
         base = os.path.join(REF, sub)
         if not os.path.isdir(base):
             continue

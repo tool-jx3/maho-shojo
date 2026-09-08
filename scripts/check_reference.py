@@ -54,15 +54,24 @@ REQUIRED_FIELDS = [
 # 中文字元後面接半形標點（英數字後的半形標點屬正常用法）
 HALFWIDTH_AFTER_CJK = re.compile(r"[一-鿿][,;?!]")
 TRIPLE_DOT = re.compile(r"(?<!\.)\.\.\.(?!\.)")
+# 被括號或引號包住的省略記號是引文節略的學術慣例，或是在說明原文長什麼樣子，
+# 都不是中文行文中誤用的省略號，檢查前先移除。
+BRACKETED_DOTS = re.compile(r"[\(\[（〔「『<]\s*\.\.\.\s*[\)\]）〕」』>]")
 # 假名（含片假名中點）與諺文。含這些字元的行屬日、韓文原文（章節標題、對照表等），
 # 其中的日語新字體漢字（会、来、実、体……）並非簡體中文，故不作簡體字判定。
 NATIVE_SCRIPT = re.compile(r"[぀-ヿᄀ-ᇿ가-힯]")
+
+
+# backlog/ 底下是機器掃描產生的外語條目標題清單，不適用中文書寫規範
+SKIP_DIRS = ("backlog",)
 
 
 def iter_files(paths):
     for p in paths:
         if os.path.isdir(p):
             for dirpath, _dirnames, filenames in os.walk(p):
+                if os.path.basename(dirpath) in SKIP_DIRS:
+                    continue
                 for fn in sorted(filenames):
                     if fn.endswith(".md"):
                         yield os.path.join(dirpath, fn)
@@ -104,7 +113,11 @@ def check(path, is_entry):
                 fm_end = i
                 break
 
+    in_code = False
     for lineno, line in enumerate(lines, 1):
+        if line.lstrip().startswith("```"):
+            in_code = not in_code
+            continue
         is_quote = line.lstrip().startswith(">")
         # 原文引用行與日、韓文原文行逐字保留，不做簡體字判定
         if not (is_quote or NATIVE_SCRIPT.search(line)):
@@ -114,9 +127,12 @@ def check(path, is_entry):
         if lineno <= fm_end or is_quote:
             # frontmatter 與原文引用逐字保留，不檢查標點
             continue
-        if HALFWIDTH_AFTER_CJK.search(line):
+        # 程式碼區塊裡多半是 YAML／指令，半形標點屬正常
+        if not in_code and HALFWIDTH_AFTER_CJK.search(line):
             problems.append("第 %d 行中文後接半形標點" % lineno)
-        if TRIPLE_DOT.search(line):
+        # 程式碼區塊與行內程式碼裡的 ... 是用法示例或原文標記，不是中文省略號
+        checked = BRACKETED_DOTS.sub("", re.sub(r"`[^`]*`", "", line))
+        if not in_code and TRIPLE_DOT.search(checked):
             problems.append("第 %d 行使用了 ... （應為 ……）" % lineno)
 
     return problems
@@ -130,7 +146,11 @@ def main():
         total += 1
         rel = os.path.relpath(path, ROOT).replace("\\", "/")
         # 索引與說明檔沒有 frontmatter，只檢查文字規範
-        is_entry = "/regions/" in rel or "/sources-and-law/" in rel
+        is_entry = (
+            "/regions/" in rel
+            or "/sources-and-law/" in rel
+            or "/concepts/" in rel
+        )
         problems = check(path, is_entry)
         if problems:
             failed += 1

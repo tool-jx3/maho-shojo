@@ -1,0 +1,152 @@
+# 待收錄候選：獵巫的文化再現
+
+共 146 項。回到 [待辦總表](../BACKLOG.md)。
+
+本檔由 `scripts/build_reference_backlog.py` 產生，是機器掃描的結果而非選錄決定，每一項都需要人工判斷。
+
+- [ ] **Supernatural (série télévisée)**（法語，151,767 字元）— [原文](https://fr.wikipedia.org/wiki/Supernatural_%28s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e%29) — 來源分類：Catégorie:Sorcellerie > Sorcellerie dans l'art et la culture > Diable dans la fiction
+- [ ] **Schule der Magier**（德語，131,698 字元）— [原文](https://de.wikipedia.org/wiki/Schule_der_Magier) — 來源分類：Kategorie:Hexerei > Hexerei in der Kultur > Hexerei in Kunst und Literatur
+- [ ] **Die Elixiere des Teufels**（德語，130,126 字元）— [原文](https://de.wikipedia.org/wiki/Die_Elixiere_des_Teufels) — 來源分類：Kategorie:Hexerei > Hexerei in der Kultur > Hexerei in Kunst und Literatur
+- [ ] **Harry Potter**（德語，99,828 字元）— [原文](https://de.wikipedia.org/wiki/Harry_Potter) — 來源分類：Kategorie:Hexerei > Hexerei in der Kultur > Hexerei in Kunst und Literatur
+- [ ] **Anna Göldin (Roman)**（德語，84,432 字元）— [原文](https://de.wikipedia.org/wiki/Anna_G%C3%B6ldin_%28Roman%29) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung in der Kultur > Hexenverfolgung in der Literatur
+- [ ] **Geisterjäger John Sinclair**（德語，71,249 字元）— [原文](https://de.wikipedia.org/wiki/Geisterj%C3%A4ger_John_Sinclair) — 來源分類：Kategorie:Hexerei > Hexerei in der Kultur > Hexerei in Kunst und Literatur
+- [ ] **Lucifer (série télévisée)**（法語，70,595 字元）— [原文](https://fr.wikipedia.org/wiki/Lucifer_%28s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e%29) — 來源分類：Catégorie:Sorcellerie > Sorcellerie dans l'art et la culture > Diable dans la fiction
+- [ ] **Das Bildnis des Dorian Gray**（德語，66,077 字元）— [原文](https://de.wikipedia.org/wiki/Das_Bildnis_des_Dorian_Gray) — 來源分類：Kategorie:Hexerei > Hexerei in der Kultur > Hexerei in Kunst und Literatur
+- [ ] **Suspiria (film, 2018)**（法語，65,109 字元）— [原文](https://fr.wikipedia.org/wiki/Suspiria_%28film%2C_2018%29) — 來源分類：Catégorie:Sorcellerie > Sorcellerie dans l'art et la culture > Film sur la sorcellerie
+- [ ] **Der Zauberer von Oz**（德語，62,068 字元）— [原文](https://de.wikipedia.org/wiki/Der_Zauberer_von_Oz) — 來源分類：Kategorie:Hexerei > Hexerei in der Kultur > Hexerei in Kunst und Literatur
+- [ ] **Suspiria**（法語，59,655 字元）— [原文](https://fr.wikipedia.org/wiki/Suspiria) — 來源分類：Catégorie:Sorcellerie > Sorcellerie dans l'art et la culture > Film sur la sorcellerie
+- [ ] **Les Nouvelles Aventures de Sabrina**（法語，59,026 字元）— [原文](https://fr.wikipedia.org/wiki/Les_Nouvelles_Aventures_de_Sabrina) — 來源分類：Catégorie:Sorcellerie > Sorcellerie dans l'art et la culture > Diable dans la fiction
+- [ ] **Wednesday (Fernsehserie)**（德語，58,651 字元）— [原文](https://de.wikipedia.org/wiki/Wednesday_%28Fernsehserie%29) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung in der Kultur
+- [ ] **Bibi Blocksberg**（德語，57,979 字元）— [原文](https://de.wikipedia.org/wiki/Bibi_Blocksberg) — 來源分類：Kategorie:Hexerei > Hexerei in der Kultur
+- [ ] **Das siebente Siegel**（德語，57,879 字元）— [原文](https://de.wikipedia.org/wiki/Das_siebente_Siegel) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung in der Kultur
+- [ ] **Die tragische Historie vom Doktor Faustus**（德語，55,020 字元）— [原文](https://de.wikipedia.org/wiki/Die_tragische_Historie_vom_Doktor_Faustus) — 來源分類：Kategorie:Hexerei > Hexerei in der Kultur > Hexerei in Kunst und Literatur
+- [ ] **Harry Potter und das verwunschene Kind**（德語，51,365 字元）— [原文](https://de.wikipedia.org/wiki/Harry_Potter_und_das_verwunschene_Kind) — 來源分類：Kategorie:Hexerei > Hexerei in der Kultur
+- [ ] **Wicked : Partie 2**（法語，51,262 字元）— [原文](https://fr.wikipedia.org/wiki/Wicked_%3A_Partie_2) — 來源分類：Catégorie:Sorcellerie > Sorcellerie dans l'art et la culture > Film sur la sorcellerie
+- [ ] **Magical Girl**（德語，50,183 字元）— [原文](https://de.wikipedia.org/wiki/Magical_Girl) — 來源分類：Kategorie:Hexerei > Hexerei in der Kultur
+- [ ] **L'Arrivée d'un sorcier à une noce paysanne**（法語，48,908 字元）— [原文](https://fr.wikipedia.org/wiki/L%27Arriv%C3%A9e_d%27un_sorcier_%C3%A0_une_noce_paysanne) — 來源分類：Catégorie:Sorcellerie > Sorcellerie dans l'art et la culture > Sorcellerie dans la peinture
+- [ ] **Das Chagrinleder**（德語，46,346 字元）— [原文](https://de.wikipedia.org/wiki/Das_Chagrinleder) — 來源分類：Kategorie:Hexerei > Hexerei in der Kultur > Hexerei in Kunst und Literatur
+- [ ] **Wicked – Die Hexen von Oz (Musical)**（德語，42,596 字元）— [原文](https://de.wikipedia.org/wiki/Wicked_%E2%80%93_Die_Hexen_von_Oz_%28Musical%29) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung in der Kultur
+- [ ] **Peer Gynt**（法語，42,405 字元）— [原文](https://fr.wikipedia.org/wiki/Peer_Gynt) — 來源分類：Catégorie:Sorcellerie > Sorcellerie dans l'art et la culture > Diable dans la fiction
+- [ ] **L'Au-delà**（法語，38,907 字元）— [原文](https://fr.wikipedia.org/wiki/L%27Au-del%C3%A0) — 來源分類：Catégorie:Sorcellerie > Sorcellerie dans l'art et la culture > Film sur la sorcellerie
+- [ ] **Katherine Pierce**（法語，36,353 字元）— [原文](https://fr.wikipedia.org/wiki/Katherine_Pierce) — 來源分類：Catégorie:Sorcellerie > Sorcellerie dans l'art et la culture > Diable dans la fiction
+- [ ] **Die Nebel von Avalon**（德語，33,949 字元）— [原文](https://de.wikipedia.org/wiki/Die_Nebel_von_Avalon) — 來源分類：Kategorie:Hexerei > Hexerei in der Kultur > Hexerei in Kunst und Literatur
+- [ ] **The Hollow of the Three Hills**（德語，33,355 字元）— [原文](https://de.wikipedia.org/wiki/The_Hollow_of_the_Three_Hills) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung in der Kultur > Hexenverfolgung in der Literatur
+- [ ] **Krabat (Sage)**（德語，30,986 字元）— [原文](https://de.wikipedia.org/wiki/Krabat_%28Sage%29) — 來源分類：Kategorie:Hexerei > Hexerei in der Kultur
+- [ ] **Hérédité (film, 2018)**（法語，30,605 字元）— [原文](https://fr.wikipedia.org/wiki/H%C3%A9r%C3%A9dit%C3%A9_%28film%2C_2018%29) — 來源分類：Catégorie:Sorcellerie > Sorcellerie dans l'art et la culture > Film sur la sorcellerie
+- [ ] **Helluva Boss**（法語，30,184 字元）— [原文](https://fr.wikipedia.org/wiki/Helluva_Boss) — 來源分類：Catégorie:Sorcellerie > Sorcellerie dans l'art et la culture > Diable dans la fiction
+- [ ] **Sophie im Schloss des Zauberers**（德語，29,544 字元）— [原文](https://de.wikipedia.org/wiki/Sophie_im_Schloss_des_Zauberers) — 來源分類：Kategorie:Hexerei > Hexerei in der Kultur > Hexerei in Kunst und Literatur
+- [ ] **Malle Babbe**（法語，29,533 字元）— [原文](https://fr.wikipedia.org/wiki/Malle_Babbe) — 來源分類：Catégorie:Sorcellerie > Sorcellerie dans l'art et la culture > Sorcellerie dans la peinture
+- [ ] **The Mandela Catalogue**（法語，29,277 字元）— [原文](https://fr.wikipedia.org/wiki/The_Mandela_Catalogue) — 來源分類：Catégorie:Sorcellerie > Sorcellerie dans l'art et la culture > Diable dans la fiction
+- [ ] **Paranormal Activity 4**（法語，26,994 字元）— [原文](https://fr.wikipedia.org/wiki/Paranormal_Activity_4) — 來源分類：Catégorie:Sorcellerie > Sorcellerie dans l'art et la culture > Film sur la sorcellerie
+- [ ] **Paranormal Activity: The Marked Ones**（法語，26,533 字元）— [原文](https://fr.wikipedia.org/wiki/Paranormal_Activity%3A_The_Marked_Ones) — 來源分類：Catégorie:Sorcellerie > Sorcellerie dans l'art et la culture > Film sur la sorcellerie
+- [ ] **Fastnachtshexe**（德語，25,601 字元）— [原文](https://de.wikipedia.org/wiki/Fastnachtshexe) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung in der Kultur
+- [ ] **Salem (Fernsehserie)**（德語，25,403 字元）— [原文](https://de.wikipedia.org/wiki/Salem_%28Fernsehserie%29) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung in der Kultur
+- [ ] **Le Diable et Daniel Webster**（法語，24,457 字元）— [原文](https://fr.wikipedia.org/wiki/Le_Diable_et_Daniel_Webster) — 來源分類：Catégorie:Sorcellerie > Sorcellerie dans l'art et la culture > Diable dans la fiction
+- [ ] **Die Vernichtung der weisen Frauen**（德語，23,808 字元）— [原文](https://de.wikipedia.org/wiki/Die_Vernichtung_der_weisen_Frauen) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung in der Kultur > Hexenverfolgung in der Literatur
+- [ ] **Simpson Horror Show IV**（法語，23,421 字元）— [原文](https://fr.wikipedia.org/wiki/Simpson_Horror_Show_IV) — 來源分類：Catégorie:Sorcellerie > Sorcellerie dans l'art et la culture > Diable dans la fiction
+- [ ] **Hexen bis aufs Blut gequält**（德語，23,118 字元）— [原文](https://de.wikipedia.org/wiki/Hexen_bis_aufs_Blut_gequ%C3%A4lt) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung in der Kultur
+- [ ] **Brockenhexe**（德語，22,194 字元）— [原文](https://de.wikipedia.org/wiki/Brockenhexe) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung in der Kultur
+- [ ] **Hexeneinmaleins**（德語，21,905 字元）— [原文](https://de.wikipedia.org/wiki/Hexeneinmaleins) — 來源分類：Kategorie:Hexerei > Hexerei in der Kultur
+- [ ] **Bayonetta**（德語，21,540 字元）— [原文](https://de.wikipedia.org/wiki/Bayonetta) — 來源分類：Kategorie:Hexerei > Hexerei in der Kultur
+- [ ] **Die Hexen von Salem**（德語，21,464 字元）— [原文](https://de.wikipedia.org/wiki/Die_Hexen_von_Salem) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung in der Kultur
+- [ ] **Die Hexe des Grafen Dracula**（德語，20,555 字元）— [原文](https://de.wikipedia.org/wiki/Die_Hexe_des_Grafen_Dracula) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung in der Kultur
+- [ ] **La Terreur des morts-vivants**（法語，20,351 字元）— [原文](https://fr.wikipedia.org/wiki/La_Terreur_des_morts-vivants) — 來源分類：Catégorie:Sorcellerie > Sorcellerie dans l'art et la culture > Film sur la sorcellerie
+- [ ] **Waldskulpturenweg**（德語，19,888 字元）— [原文](https://de.wikipedia.org/wiki/Waldskulpturenweg) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung in der Kultur
+- [ ] **Frühlingsanfang (Roman)**（德語，19,834 字元）— [原文](https://de.wikipedia.org/wiki/Fr%C3%BChlingsanfang_%28Roman%29) — 來源分類：Kategorie:Hexerei > Hexerei in der Kultur > Hexerei in Kunst und Literatur
+- [ ] **Der Zauberlehrling**（德語，19,765 字元）— [原文](https://de.wikipedia.org/wiki/Der_Zauberlehrling) — 來源分類：Kategorie:Hexerei > Hexerei in der Kultur > Hexerei in Kunst und Literatur
+- [ ] **Sympathy for the Devil**（法語，19,504 字元）— [原文](https://fr.wikipedia.org/wiki/Sympathy_for_the_Devil) — 來源分類：Catégorie:Sorcellerie > Sorcellerie dans l'art et la culture > Diable dans la fiction
+- [ ] **Krabat (Roman)**（德語，19,108 字元）— [原文](https://de.wikipedia.org/wiki/Krabat_%28Roman%29) — 來源分類：Kategorie:Hexerei > Hexerei in der Kultur > Hexerei in Kunst und Literatur
+- [ ] **The Terror – Schloß des Schreckens**（德語，19,094 字元）— [原文](https://de.wikipedia.org/wiki/The_Terror_%E2%80%93_Schlo%C3%9F_des_Schreckens) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung in der Kultur
+- [ ] **Nelson (bande dessinée)**（法語，18,994 字元）— [原文](https://fr.wikipedia.org/wiki/Nelson_%28bande_dessin%C3%A9e%29) — 來源分類：Catégorie:Sorcellerie > Sorcellerie dans l'art et la culture > Diable dans la fiction
+- [ ] **Narnia : Le Neveu du magicien**（法語，18,546 字元）— [原文](https://fr.wikipedia.org/wiki/Narnia_%3A_Le_Neveu_du_magicien) — 來源分類：Catégorie:Sorcellerie > Sorcellerie dans l'art et la culture > Film sur la sorcellerie
+- [ ] **Hexenzunft**（德語，18,160 字元）— [原文](https://de.wikipedia.org/wiki/Hexenzunft) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung in der Kultur
+- [ ] **Tablette de Chamalières**（法語，17,629 字元）— [原文](https://fr.wikipedia.org/wiki/Tablette_de_Chamali%C3%A8res) — 來源分類：Catégorie:Sorcellerie > Sorcellerie dans l'art et la culture > Tablette de défixion
+- [ ] **La Main de l'enfer**（法語，16,640 字元）— [原文](https://fr.wikipedia.org/wiki/La_Main_de_l%27enfer) — 來源分類：Catégorie:Sorcellerie > Sorcellerie dans l'art et la culture > Diable dans la fiction
+- [ ] **Die Brück’ am Tay**（德語，16,512 字元）— [原文](https://de.wikipedia.org/wiki/Die_Br%C3%BCck%E2%80%99_am_Tay) — 來源分類：Kategorie:Hexerei > Hexerei in der Kultur > Hexerei in Kunst und Literatur
+- [ ] **Annelie Grund**（德語，15,628 字元）— [原文](https://de.wikipedia.org/wiki/Annelie_Grund) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung in der Kultur
+- [ ] **Hexenjagd (Drama)**（德語，15,605 字元）— [原文](https://de.wikipedia.org/wiki/Hexenjagd_%28Drama%29) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung in der Kultur > Hexenverfolgung in der Literatur
+- [ ] **Maria: The Virgin Witch**（德語，15,522 字元）— [原文](https://de.wikipedia.org/wiki/Maria%3A_The_Virgin_Witch) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung in der Kultur
+- [ ] **Septimus Heap**（德語，15,016 字元）— [原文](https://de.wikipedia.org/wiki/Septimus_Heap) — 來源分類：Kategorie:Hexerei > Hexerei in der Kultur > Hexerei in Kunst und Literatur
+- [ ] **Méphistophélès**（法語，14,988 字元）— [原文](https://fr.wikipedia.org/wiki/M%C3%A9phistoph%C3%A9l%C3%A8s) — 來源分類：Catégorie:Sorcellerie > Sorcellerie dans l'art et la culture > Diable dans la fiction
+- [ ] **Wir haben schon immer im Schloß gelebt**（德語，14,474 字元）— [原文](https://de.wikipedia.org/wiki/Wir_haben_schon_immer_im_Schlo%C3%9F_gelebt) — 來源分類：Kategorie:Hexerei > Hexerei in der Kultur > Hexerei in Kunst und Literatur
+- [ ] **Le Diable et moi**（法語，14,446 字元）— [原文](https://fr.wikipedia.org/wiki/Le_Diable_et_moi) — 來源分類：Catégorie:Sorcellerie > Sorcellerie dans l'art et la culture > Diable dans la fiction
+- [ ] **Flug der Hexen**（德語，14,314 字元）— [原文](https://de.wikipedia.org/wiki/Flug_der_Hexen) — 來源分類：Kategorie:Hexerei > Hexerei in der Kultur > Hexerei in Kunst und Literatur
+- [ ] **Freischütz**（德語，14,069 字元）— [原文](https://de.wikipedia.org/wiki/Freisch%C3%BCtz) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung in der Kultur > Hexenverfolgung in der Literatur
+- [ ] **Charlie Bone**（德語，13,914 字元）— [原文](https://de.wikipedia.org/wiki/Charlie_Bone) — 來源分類：Kategorie:Hexerei > Hexerei in der Kultur > Hexerei in Kunst und Literatur
+- [ ] **Le Vol des Sorcières**（法語，13,682 字元）— [原文](https://fr.wikipedia.org/wiki/Le_Vol_des_Sorci%C3%A8res) — 來源分類：Catégorie:Sorcellerie > Sorcellerie dans l'art et la culture > Sorcellerie dans la peinture
+- [ ] **The Bewitching of Anne Gunter**（德語，13,681 字元）— [原文](https://de.wikipedia.org/wiki/The_Bewitching_of_Anne_Gunter) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung in der Kultur > Hexenverfolgung in der Literatur
+- [ ] **Der Hexentöter von Blackmoor**（德語，13,492 字元）— [原文](https://de.wikipedia.org/wiki/Der_Hexent%C3%B6ter_von_Blackmoor) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung in der Kultur
+- [ ] **Hexe Lilli**（德語，13,301 字元）— [原文](https://de.wikipedia.org/wiki/Hexe_Lilli) — 來源分類：Kategorie:Hexerei > Hexerei in der Kultur > Hexerei in Kunst und Literatur
+- [ ] **Pauvre Diable**（法語，13,133 字元）— [原文](https://fr.wikipedia.org/wiki/Pauvre_Diable) — 來源分類：Catégorie:Sorcellerie > Sorcellerie dans l'art et la culture > Diable dans la fiction
+- [ ] **Hexenschuss**（德語，13,040 字元）— [原文](https://de.wikipedia.org/wiki/Hexenschuss) — 來源分類：Kategorie:Hexerei > Hexerei in der Kultur
+- [ ] **Hänsel und Gretel: Hexenjäger**（德語，12,998 字元）— [原文](https://de.wikipedia.org/wiki/H%C3%A4nsel_und_Gretel%3A_Hexenj%C3%A4ger) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung in der Kultur
+- [ ] **Die Hexe Schrumpeldei**（德語，12,913 字元）— [原文](https://de.wikipedia.org/wiki/Die_Hexe_Schrumpeldei) — 來源分類：Kategorie:Hexerei > Hexerei in der Kultur
+- [ ] **Bayonetta 2**（德語，12,615 字元）— [原文](https://de.wikipedia.org/wiki/Bayonetta_2) — 來源分類：Kategorie:Hexerei > Hexerei in der Kultur
+- [ ] **Défixion**（法語，12,522 字元）— [原文](https://fr.wikipedia.org/wiki/D%C3%A9fixion) — 來源分類：Catégorie:Sorcellerie > Sorcellerie dans l'art et la culture > Tablette de défixion
+- [ ] **Le Maître et Marguerite (série télévisée)**（法語，12,428 字元）— [原文](https://fr.wikipedia.org/wiki/Le_Ma%C3%AEtre_et_Marguerite_%28s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e%29) — 來源分類：Catégorie:Sorcellerie > Sorcellerie dans l'art et la culture > Diable dans la fiction
+- [ ] **Paranormal Activity 3**（法語，12,388 字元）— [原文](https://fr.wikipedia.org/wiki/Paranormal_Activity_3) — 來源分類：Catégorie:Sorcellerie > Sorcellerie dans l'art et la culture > Film sur la sorcellerie
+- [ ] **Lolly Willowes**（德語，12,207 字元）— [原文](https://de.wikipedia.org/wiki/Lolly_Willowes) — 來源分類：Kategorie:Hexerei > Hexerei in der Kultur > Hexerei in Kunst und Literatur
+- [ ] **Feuer und Stein**（德語，12,171 字元）— [原文](https://de.wikipedia.org/wiki/Feuer_und_Stein) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung in der Kultur > Hexenverfolgung in der Literatur
+- [ ] **Der Alchemist**（德語，12,017 字元）— [原文](https://de.wikipedia.org/wiki/Der_Alchemist) — 來源分類：Kategorie:Hexerei > Hexerei in der Kultur > Hexerei in Kunst und Literatur
+- [ ] **Der Hexenjäger**（德語，11,991 字元）— [原文](https://de.wikipedia.org/wiki/Der_Hexenj%C3%A4ger) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung in der Kultur
+- [ ] **Der Zauberer der Smaragdenstadt**（德語，11,950 字元）— [原文](https://de.wikipedia.org/wiki/Der_Zauberer_der_Smaragdenstadt) — 來源分類：Kategorie:Hexerei > Hexerei in der Kultur > Hexerei in Kunst und Literatur
+- [ ] **Blair Witch 2**（德語，11,739 字元）— [原文](https://de.wikipedia.org/wiki/Blair_Witch_2) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung in der Kultur
+- [ ] **Ein Metjen nahmens Preetzen**（德語，11,622 字元）— [原文](https://de.wikipedia.org/wiki/Ein_Metjen_nahmens_Preetzen) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung in der Kultur
+- [ ] **Bible Black**（德語，11,305 字元）— [原文](https://de.wikipedia.org/wiki/Bible_Black) — 來源分類：Kategorie:Hexerei > Hexerei in der Kultur
+- [ ] **Hänsel und Gretel (2012)**（德語，11,298 字元）— [原文](https://de.wikipedia.org/wiki/H%C3%A4nsel_und_Gretel_%282012%29) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung in der Kultur
+- [ ] **Peter Schlemihls wundersame Geschichte**（德語，11,271 字元）— [原文](https://de.wikipedia.org/wiki/Peter_Schlemihls_wundersame_Geschichte) — 來源分類：Kategorie:Hexerei > Hexerei in der Kultur > Hexerei in Kunst und Literatur
+- [ ] **Dæmonicus**（法語，11,179 字元）— [原文](https://fr.wikipedia.org/wiki/D%C3%A6monicus) — 來源分類：Catégorie:Sorcellerie > Sorcellerie dans l'art et la culture > Diable dans la fiction
+- [ ] **Martin Pumphut**（德語，10,847 字元）— [原文](https://de.wikipedia.org/wiki/Martin_Pumphut) — 來源分類：Kategorie:Hexerei > Hexerei in der Kultur
+- [ ] **Aforgomons Kette**（德語，10,656 字元）— [原文](https://de.wikipedia.org/wiki/Aforgomons_Kette) — 來源分類：Kategorie:Hexerei > Hexerei in der Kultur > Hexerei in Kunst und Literatur
+- [ ] **Die Teufel von Loudun**（德語，10,605 字元）— [原文](https://de.wikipedia.org/wiki/Die_Teufel_von_Loudun) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung in der Kultur
+- [ ] **Jasmin’s Witch**（德語，10,526 字元）— [原文](https://de.wikipedia.org/wiki/Jasmin%E2%80%99s_Witch) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung in der Kultur > Hexenverfolgung in der Literatur
+- [ ] **Maria Schweidler, die Bernsteinhexe**（德語，10,471 字元）— [原文](https://de.wikipedia.org/wiki/Maria_Schweidler%2C_die_Bernsteinhexe) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung in der Kultur > Hexenverfolgung in der Literatur
+- [ ] **Magnus Garbe**（德語，10,408 字元）— [原文](https://de.wikipedia.org/wiki/Magnus_Garbe) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung in der Kultur
+- [ ] **Der letzte Tempelritter**（德語，10,147 字元）— [原文](https://de.wikipedia.org/wiki/Der_letzte_Tempelritter) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung in der Kultur
+- [ ] **Hagazussa – Der Hexenfluch**（德語，9,977 字元）— [原文](https://de.wikipedia.org/wiki/Hagazussa_%E2%80%93_Der_Hexenfluch) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung in der Kultur
+- [ ] **Hexensabbat (Hans Baldung)**（德語，9,971 字元）— [原文](https://de.wikipedia.org/wiki/Hexensabbat_%28Hans_Baldung%29) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung in der Kultur
+- [ ] **Die Töchter Satans**（德語，9,809 字元）— [原文](https://de.wikipedia.org/wiki/Die_T%C3%B6chter_Satans) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung in der Kultur
+- [ ] **Das blaue Licht**（德語，9,483 字元）— [原文](https://de.wikipedia.org/wiki/Das_blaue_Licht) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung in der Kultur
+- [ ] **Das Feuerzeug**（德語，9,476 字元）— [原文](https://de.wikipedia.org/wiki/Das_Feuerzeug) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung in der Kultur
+- [ ] **Petronella Apfelmus**（德語，9,425 字元）— [原文](https://de.wikipedia.org/wiki/Petronella_Apfelmus) — 來源分類：Kategorie:Hexerei > Hexerei in der Kultur
+- [ ] **The Bondsman**（法語，9,396 字元）— [原文](https://fr.wikipedia.org/wiki/The_Bondsman) — 來源分類：Catégorie:Sorcellerie > Sorcellerie dans l'art et la culture > Diable dans la fiction
+- [ ] **Kramer (Comic)**（德語，9,162 字元）— [原文](https://de.wikipedia.org/wiki/Kramer_%28Comic%29) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung in der Kultur > Hexenverfolgung in der Literatur
+- [ ] **Hexenjagd (1996)**（德語，8,949 字元）— [原文](https://de.wikipedia.org/wiki/Hexenjagd_%281996%29) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung in der Kultur
+- [ ] **Die wilden Schwäne**（德語，8,821 字元）— [原文](https://de.wikipedia.org/wiki/Die_wilden_Schw%C3%A4ne) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung in der Kultur
+- [ ] **Warlock – Satans Sohn**（德語，8,805 字元）— [原文](https://de.wikipedia.org/wiki/Warlock_%E2%80%93_Satans_Sohn) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung in der Kultur
+- [ ] **Flaxman Low**（德語，8,674 字元）— [原文](https://de.wikipedia.org/wiki/Flaxman_Low) — 來源分類：Kategorie:Hexerei > Hexerei in der Kultur > Hexerei in Kunst und Literatur
+- [ ] **Meine Frau, die Hexe**（德語，8,642 字元）— [原文](https://de.wikipedia.org/wiki/Meine_Frau%2C_die_Hexe) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung in der Kultur
+- [ ] **Krabat-Mühle Schwarzkollm**（德語，8,630 字元）— [原文](https://de.wikipedia.org/wiki/Krabat-M%C3%BChle_Schwarzkollm) — 來源分類：Kategorie:Hexerei > Hexerei in der Kultur
+- [ ] **Majo no Tabitabi**（德語，8,497 字元）— [原文](https://de.wikipedia.org/wiki/Majo_no_Tabitabi) — 來源分類：Kategorie:Hexerei > Hexerei in der Kultur
+- [ ] **Träume im Hexenhaus**（德語，8,296 字元）— [原文](https://de.wikipedia.org/wiki/Tr%C3%A4ume_im_Hexenhaus) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung in der Kultur > Hexenverfolgung in der Literatur
+- [ ] **Domenicus van Wijnen**（德語，8,222 字元）— [原文](https://de.wikipedia.org/wiki/Domenicus_van_Wijnen) — 來源分類：Kategorie:Hexerei > Hexerei in der Kultur > Hexerei in Kunst und Literatur
+- [ ] **Olle Hexe**（德語，8,127 字元）— [原文](https://de.wikipedia.org/wiki/Olle_Hexe) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung in der Kultur
+- [ ] **Hexenstein (Lindau)**（德語，7,702 字元）— [原文](https://de.wikipedia.org/wiki/Hexenstein_%28Lindau%29) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung in der Kultur
+- [ ] **Kleine Hexe Klavi-Klack**（德語，7,667 字元）— [原文](https://de.wikipedia.org/wiki/Kleine_Hexe_Klavi-Klack) — 來源分類：Kategorie:Hexerei > Hexerei in der Kultur
+- [ ] **Tablettes de défixion de Bath**（法語，7,629 字元）— [原文](https://fr.wikipedia.org/wiki/Tablettes_de_d%C3%A9fixion_de_Bath) — 來源分類：Catégorie:Sorcellerie > Sorcellerie dans l'art et la culture > Tablette de défixion
+- [ ] **Le Sabbat des sorcières (Goya, 1823)**（法語，7,561 字元）— [原文](https://fr.wikipedia.org/wiki/Le_Sabbat_des_sorci%C3%A8res_%28Goya%2C_1823%29) — 來源分類：Catégorie:Sorcellerie > Sorcellerie dans l'art et la culture > Sorcellerie dans la peinture
+- [ ] **Akazukin Chacha**（德語，7,544 字元）— [原文](https://de.wikipedia.org/wiki/Akazukin_Chacha) — 來源分類：Kategorie:Hexerei > Hexerei in der Kultur
+- [ ] **Hexen (1922)**（德語，7,511 字元）— [原文](https://de.wikipedia.org/wiki/Hexen_%281922%29) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung in der Kultur
+- [ ] **Draculas Hexenjagd**（德語，7,359 字元）— [原文](https://de.wikipedia.org/wiki/Draculas_Hexenjagd) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung in der Kultur
+- [ ] **Anna Göldin – Letzte Hexe**（德語，7,312 字元）— [原文](https://de.wikipedia.org/wiki/Anna_G%C3%B6ldin_%E2%80%93_Letzte_Hexe) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung in der Kultur
+- [ ] **Hexen von heute**（德語，7,253 字元）— [原文](https://de.wikipedia.org/wiki/Hexen_von_heute) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung in der Kultur
+- [ ] **Vous êtes sérieuxe ?**（法語，7,247 字元）— [原文](https://fr.wikipedia.org/wiki/Vous_%C3%AAtes_s%C3%A9rieuxe_%3F) — 來源分類：Catégorie:Sorcellerie > Sorcellerie dans l'art et la culture > Diable dans la fiction
+- [ ] **Mišter Krabat**（德語，7,114 字元）— [原文](https://de.wikipedia.org/wiki/Mi%C5%A1ter_Krabat) — 來源分類：Kategorie:Hexerei > Hexerei in der Kultur > Hexerei in Kunst und Literatur
+- [ ] **Die Hexe von Ahnsbeck**（德語，7,047 字元）— [原文](https://de.wikipedia.org/wiki/Die_Hexe_von_Ahnsbeck) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung in der Kultur > Hexenverfolgung in der Literatur
+- [ ] **Die Seelen im Feuer**（德語，7,012 字元）— [原文](https://de.wikipedia.org/wiki/Die_Seelen_im_Feuer) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung in der Kultur
+- [ ] **I Am Not a Witch**（法語，6,935 字元）— [原文](https://fr.wikipedia.org/wiki/I_Am_Not_a_Witch) — 來源分類：Catégorie:Sorcellerie > Sorcellerie dans l'art et la culture > Film sur la sorcellerie
+- [ ] **Mont Saint-Michel (Vogesen)**（德語，6,785 字元）— [原文](https://de.wikipedia.org/wiki/Mont_Saint-Michel_%28Vogesen%29) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung in der Kultur
+- [ ] **Lankester Merrin**（法語，6,660 字元）— [原文](https://fr.wikipedia.org/wiki/Lankester_Merrin) — 來源分類：Catégorie:Sorcellerie > Sorcellerie dans l'art et la culture > Diable dans la fiction
+- [ ] **Hexenturm (Salzburg)**（德語，6,656 字元）— [原文](https://de.wikipedia.org/wiki/Hexenturm_%28Salzburg%29) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung in der Kultur
+- [ ] **Die letzten Hexen von Blackbird Castle**（德語，6,575 字元）— [原文](https://de.wikipedia.org/wiki/Die_letzten_Hexen_von_Blackbird_Castle) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung in der Kultur > Hexenverfolgung in der Literatur
+- [ ] **Der Hexenrichter**（德語，6,490 字元）— [原文](https://de.wikipedia.org/wiki/Der_Hexenrichter) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung in der Kultur
+- [ ] **Hänsel und Gretel (2006)**（德語，6,484 字元）— [原文](https://de.wikipedia.org/wiki/H%C3%A4nsel_und_Gretel_%282006%29) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung in der Kultur
+- [ ] **Les Nuits d'amour des sorcières**（法語，6,473 字元）— [原文](https://fr.wikipedia.org/wiki/Les_Nuits_d%27amour_des_sorci%C3%A8res) — 來源分類：Catégorie:Sorcellerie > Sorcellerie dans l'art et la culture > Film sur la sorcellerie
+- [ ] **Die Harmonie der Welt**（德語，6,466 字元）— [原文](https://de.wikipedia.org/wiki/Die_Harmonie_der_Welt) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung in der Kultur
+- [ ] **Krabat oder Die Verwandlung der Welt**（德語，6,388 字元）— [原文](https://de.wikipedia.org/wiki/Krabat_oder_Die_Verwandlung_der_Welt) — 來源分類：Kategorie:Hexerei > Hexerei in der Kultur > Hexerei in Kunst und Literatur
+- [ ] **Der Todesschrei der Hexen**（德語，6,238 字元）— [原文](https://de.wikipedia.org/wiki/Der_Todesschrei_der_Hexen) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung in der Kultur
+- [ ] **Hexenkind (Roman)**（德語，6,222 字元）— [原文](https://de.wikipedia.org/wiki/Hexenkind_%28Roman%29) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung in der Kultur > Hexenverfolgung in der Literatur
+- [ ] **Hexenturm (Rheinbach)**（德語，6,084 字元）— [原文](https://de.wikipedia.org/wiki/Hexenturm_%28Rheinbach%29) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung in der Kultur
+- [ ] **Die buckligen Musikanten**（德語，6,053 字元）— [原文](https://de.wikipedia.org/wiki/Die_buckligen_Musikanten) — 來源分類：Kategorie:Hexerei > Hexerei in der Kultur
+- [ ] **Plomb du Larzac**（法語，6,019 字元）— [原文](https://fr.wikipedia.org/wiki/Plomb_du_Larzac) — 來源分類：Catégorie:Sorcellerie > Sorcellerie dans l'art et la culture > Tablette de défixion
+- [ ] **Hohes Gericht am Lechlumer Holz**（德語，6,015 字元）— [原文](https://de.wikipedia.org/wiki/Hohes_Gericht_am_Lechlumer_Holz) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung in der Kultur

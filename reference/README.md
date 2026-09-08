@@ -12,6 +12,7 @@
 | [indexes/by-language-family.md](indexes/by-language-family.md) | 語系交叉索引 |
 | [indexes/by-era.md](indexes/by-era.md) | 時代交叉索引 |
 | [name-glossary.md](name-glossary.md) | 各條目原文專有名詞對照總表 |
+| [BACKLOG.md](BACKLOG.md) | 待收錄候選清單，含人工挑選的優先候選與依主題分列的完整掃描結果 |
 
 ## 目錄結構
 
@@ -33,6 +34,9 @@ reference/
     09-sub-saharan-africa/     撒哈拉以南非洲
     10-americas/               美洲
   sources-and-law/             跨地區的文獻與法制
+  concepts/                    跨地區的概念條目（女巫概念本身、兒童女巫、魔法書……）
+  BACKLOG.md                   待收錄候選清單（索引）
+  backlog/                     依主題分列的候選清單，及未篩選的原始掃描結果
 ```
 
 地區是唯一的目錄分類軸；語系與時代不另開目錄，改由 `indexes/` 底下的交叉索引呈現，因此不會有條目被漏掉。
@@ -51,13 +55,14 @@ reference/
 
 frontmatter 記錄 `id`、`title_zh`、`title_native`、`region`、`countries`、`language`、`language_family`、`era`、`era_bucket`、`year_range`、`type`、`source`、`tags`，索引即由這些欄位產生。
 
-`type` 有四種：`folklore`（民俗／神話）、`trial`（審判事件）、`person`（人物）、`text-law`（文獻與法制）。
+`type` 有五種：`folklore`（民俗／神話）、`trial`（審判事件）、`person`（人物）、`text-law`（文獻與法制）、`concept`（概念）。
 `era_bucket` 有四種：`ancient`、`medieval`、`early-modern`、`modern`。
 
 ## 來源政策
 
 1. 優先使用**傳說發源語言**的維基版本：俄羅斯傳說用 `ru`、巴斯克傳說用 `eu`、日本妖怪用 `ja`，依此類推。
 2. 發源語言沒有條目、或內容過於單薄時，退用最近的學術通行語版本（`es`／`pt`／`en`／`fr`／`de`／`la`），並在 frontmatter 的 `source.fallback_reason` 說明原因。
+   **判定「沒有這個條目」之前，必須實際查過通行語版本。** `scripts/fetch_wiki.py` 在擷取失敗時會自動去 `en`／`de`／`fr`／`es` 查同名條目並回報字元數，據此判斷。Lutzelfrau 一條就是因為只查了德語版、沒查英語版，在首批被誤判為「維基百科沒有此條目」而漏收。
 3. 同一事件橫跨兩種語言時（例如蘇加拉穆爾迪案的巴斯克語傳說與西班牙語司法檔案），兩種原文並取，主要語言記在 `language`，次要語言記在 `language_secondary`。
 4. 原文引文**逐字保留**，不修正拼寫、標點或錯誤。原文有誤植、或不同語言版本互相矛盾時，照譯，另以 `:::note[譯註]` 區塊指出。
 
@@ -81,9 +86,22 @@ frontmatter 記錄 `id`、`title_zh`、`title_native`、`region`、`countries`�
 
 # 重新產生索引與名詞總表
 .venv/Scripts/python.exe scripts/build_reference_indexes.py
+
+# 稽核條目對原文章節的覆蓋率（找出被整節略過的內容）
+.venv/Scripts/python.exe scripts/check_coverage.py [條目路徑...]
+
+# 從各語言維基的分類樹列舉候選條目，扣除已收錄者
+.venv/Scripts/python.exe scripts/find_reference_candidates.py --depth 1 --min-size 5000
+
+# 由掃描結果重建待辦清單（已收錄者會自動消失）
+.venv/Scripts/python.exe scripts/build_reference_backlog.py
 ```
 
-新增條目後務必重跑後兩個指令。
+新增條目後務必重跑 `check_reference.py`、`build_reference_indexes.py` 與 `build_reference_backlog.py`。
+
+`check_coverage.py` **有已知誤判**：它以原文章節名做字串比對，而本資料庫的「其餘章節摘要」允許使用中文小節標題，因此以中文改寫標題的章節會被判為未涵蓋。它只能當篩查工具，不能當驗收標準；被標記的項目要逐一人工確認。
+
+`find_reference_candidates.py` 的輸出同樣需要人工篩選——分類樹裡混有虛構作品與流行文化條目，腳本的排除規則只能濾掉大部分。
 
 ## 授權
 

@@ -1,0 +1,91 @@
+# 待收錄候選：傳說人物與怪異存在
+
+共 85 項。回到 [待辦總表](../BACKLOG.md)。
+
+本檔由 `scripts/build_reference_backlog.py` 產生，是機器掃描的結果而非選錄決定，每一項都需要人工判斷。
+
+- [ ] **Gilles de Rais**（英語，207,509 字元）— [原文](https://en.wikipedia.org/wiki/Gilles_de_Rais) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology > Deal with the Devil
+- [ ] **Morgan le Fay**（英語，126,136 字元）— [原文](https://en.wikipedia.org/wiki/Morgan_le_Fay) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology > Witches in folklore
+- [ ] **Hecate**（英語，102,208 字元）— [原文](https://en.wikipedia.org/wiki/Hecate) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology
+- [ ] **Robert Johnson**（英語，98,221 字元）— [原文](https://en.wikipedia.org/wiki/Robert_Johnson) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology > Deal with the Devil
+- [ ] **Deals with the Devil in popular culture**（英語，70,405 字元）— [原文](https://en.wikipedia.org/wiki/Deals_with_the_Devil_in_popular_culture) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology > Deal with the Devil
+- [ ] **Elizabeth Báthory**（英語，66,224 字元）— [原文](https://en.wikipedia.org/wiki/Elizabeth_B%C3%A1thory) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology > Deal with the Devil
+- [ ] **Queen of Sheba**（英語，62,456 字元）— [原文](https://en.wikipedia.org/wiki/Queen_of_Sheba) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology > Witches in folklore
+- [ ] **Drak (mythology)**（英語，56,188 字元）— [原文](https://en.wikipedia.org/wiki/Drak_%28mythology%29) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology > Deal with the Devil
+- [ ] **George Pickingill**（英語，51,631 字元）— [原文](https://en.wikipedia.org/wiki/George_Pickingill) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology
+- [ ] **Selkie**（英語，47,187 字元）— [原文](https://en.wikipedia.org/wiki/Selkie) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology
+- [ ] **Simon Magus**（英語，42,894 字元）— [原文](https://en.wikipedia.org/wiki/Simon_Magus) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology > Deal with the Devil
+- [ ] **Niccolò Paganini**（英語，41,291 字元）— [原文](https://en.wikipedia.org/wiki/Niccol%C3%B2_Paganini) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology > Deal with the Devil
+- [ ] **Ready or Not (2019 film)**（英語，39,151 字元）— [原文](https://en.wikipedia.org/wiki/Ready_or_Not_%282019_film%29) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology > Deal with the Devil
+- [ ] **Groac'h**（英語，37,622 字元）— [原文](https://en.wikipedia.org/wiki/Groac%27h) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology > Witches in folklore
+- [ ] **L'Histoire du soldat**（英語，36,859 字元）— [原文](https://en.wikipedia.org/wiki/L%27Histoire_du_soldat) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology > Deal with the Devil
+- [ ] **Amabie**（英語，32,567 字元）— [原文](https://en.wikipedia.org/wiki/Amabie) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology
+- [ ] **Frau Holle**（英語，32,556 字元）— [原文](https://en.wikipedia.org/wiki/Frau_Holle) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology
+- [ ] **Ready or Not 2: Here I Come**（英語，31,589 字元）— [原文](https://en.wikipedia.org/wiki/Ready_or_Not_2%3A_Here_I_Come) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology > Deal with the Devil
+- [ ] **Nine sorceresses**（英語，28,054 字元）— [原文](https://en.wikipedia.org/wiki/Nine_sorceresses) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology
+- [ ] **The Last Faust**（英語，28,050 字元）— [原文](https://en.wikipedia.org/wiki/The_Last_Faust) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology > Deal with the Devil
+- [ ] **Phouoibi**（英語，27,985 字元）— [原文](https://en.wikipedia.org/wiki/Phouoibi) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology > Epic cycles of incarnations
+- [ ] **The Morrígan**（英語，27,734 字元）— [原文](https://en.wikipedia.org/wiki/The_Morr%C3%ADgan) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology > Witches in folklore
+- [ ] **Mephistopheles**（英語，25,299 字元）— [原文](https://en.wikipedia.org/wiki/Mephistopheles) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology > Deal with the Devil
+- [ ] **Mother Shipton**（英語，25,023 字元）— [原文](https://en.wikipedia.org/wiki/Mother_Shipton) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology > Witches in folklore
+- [ ] **The Devil and Daniel Webster**（英語，25,018 字元）— [原文](https://en.wikipedia.org/wiki/The_Devil_and_Daniel_Webster) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology > Deal with the Devil
+- [ ] **Guacamelee!**（英語，24,927 字元）— [原文](https://en.wikipedia.org/wiki/Guacamelee%21) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology > Deal with the Devil
+- [ ] **Children of Lir**（英語，23,872 字元）— [原文](https://en.wikipedia.org/wiki/Children_of_Lir) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology
+- [ ] **Philippe Musard**（英語，23,330 字元）— [原文](https://en.wikipedia.org/wiki/Philippe_Musard) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology > Deal with the Devil
+- [ ] **Jiraiya**（英語，22,511 字元）— [原文](https://en.wikipedia.org/wiki/Jiraiya) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology
+- [ ] **Deal with the Devil**（英語，21,455 字元）— [原文](https://en.wikipedia.org/wiki/Deal_with_the_Devil) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology
+- [ ] **Johann Georg Faust**（英語，20,642 字元）— [原文](https://en.wikipedia.org/wiki/Johann_Georg_Faust) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology > Deal with the Devil
+- [ ] **Kyubey**（英語，20,525 字元）— [原文](https://en.wikipedia.org/wiki/Kyubey) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology > Deal with the Devil
+- [ ] **Khuyol Haoba and Yaithing Konu**（英語，20,436 字元）— [原文](https://en.wikipedia.org/wiki/Khuyol_Haoba_and_Yaithing_Konu) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology > Epic cycles of incarnations
+- [ ] **Codex Gigas**（英語，20,211 字元）— [原文](https://en.wikipedia.org/wiki/Codex_Gigas) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology > Deal with the Devil
+- [ ] **Faust (1926 film)**（英語，20,205 字元）— [原文](https://en.wikipedia.org/wiki/Faust_%281926_film%29) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology > Deal with the Devil
+- [ ] **Morana (goddess)**（英語，20,176 字元）— [原文](https://en.wikipedia.org/wiki/Morana_%28goddess%29) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology
+- [ ] **Khamba and Thoibi**（英語，19,118 字元）— [原文](https://en.wikipedia.org/wiki/Khamba_and_Thoibi) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology > Epic cycles of incarnations
+- [ ] **Giuseppe Tartini**（英語，17,889 字元）— [原文](https://en.wikipedia.org/wiki/Giuseppe_Tartini) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology > Deal with the Devil
+- [ ] **Dead in Tombstone**（英語，16,784 字元）— [原文](https://en.wikipedia.org/wiki/Dead_in_Tombstone) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology > Deal with the Devil
+- [ ] **The Girl Without Hands**（英語，16,459 字元）— [原文](https://en.wikipedia.org/wiki/The_Girl_Without_Hands) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology > Deal with the Devil
+- [ ] **François Prelati**（英語，15,967 字元）— [原文](https://en.wikipedia.org/wiki/Fran%C3%A7ois_Prelati) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology > Deal with the Devil
+- [ ] **Henjunaha and Lairoulembi**（英語，15,266 字元）— [原文](https://en.wikipedia.org/wiki/Henjunaha_and_Lairoulembi) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology
+- [ ] **Moirang Shayon**（英語，14,740 字元）— [原文](https://en.wikipedia.org/wiki/Moirang_Shayon) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology
+- [ ] **Iron in folklore**（英語，13,504 字元）— [原文](https://en.wikipedia.org/wiki/Iron_in_folklore) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology
+- [ ] **Pan Twardowski**（英語，13,471 字元）— [原文](https://en.wikipedia.org/wiki/Pan_Twardowski) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology > Deal with the Devil
+- [ ] **Bearskin (German fairy tale)**（英語，13,225 字元）— [原文](https://en.wikipedia.org/wiki/Bearskin_%28German_fairy_tale%29) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology > Deal with the Devil
+- [ ] **Kadeng Thangjahanba and Tonu Laijinglembi**（英語，13,218 字元）— [原文](https://en.wikipedia.org/wiki/Kadeng_Thangjahanba_and_Tonu_Laijinglembi) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology > Epic cycles of incarnations
+- [ ] **Tommy Johnson (guitarist)**（英語，12,971 字元）— [原文](https://en.wikipedia.org/wiki/Tommy_Johnson_%28guitarist%29) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology > Deal with the Devil
+- [ ] **Errementari**（英語，12,448 字元）— [原文](https://en.wikipedia.org/wiki/Errementari) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology > Deal with the Devil
+- [ ] **Theophilus of Adana**（英語，12,154 字元）— [原文](https://en.wikipedia.org/wiki/Theophilus_of_Adana) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology > Deal with the Devil
+- [ ] **Nicnevin**（英語，11,553 字元）— [原文](https://en.wikipedia.org/wiki/Nicnevin) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology > Witches in folklore
+- [ ] **Soucouyant**（英語，11,151 字元）— [原文](https://en.wikipedia.org/wiki/Soucouyant) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology
+- [ ] **Little Johnny Sheep-Dung**（英語，10,851 字元）— [原文](https://en.wikipedia.org/wiki/Little_Johnny_Sheep-Dung) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology > Deal with the Devil
+- [ ] **Yama-uba**（英語，10,446 字元）— [原文](https://en.wikipedia.org/wiki/Yama-uba) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology
+- [ ] **Ceridwen**（英語，10,335 字元）— [原文](https://en.wikipedia.org/wiki/Ceridwen) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology > Witches in folklore
+- [ ] **Even Though I Knew the End**（英語，10,067 字元）— [原文](https://en.wikipedia.org/wiki/Even_Though_I_Knew_the_End) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology > Deal with the Devil
+- [ ] **Master Mahan**（英語，9,989 字元）— [原文](https://en.wikipedia.org/wiki/Master_Mahan) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology > Deal with the Devil
+- [ ] **Falling Angel**（英語，9,836 字元）— [原文](https://en.wikipedia.org/wiki/Falling_Angel) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology > Deal with the Devil
+- [ ] **Jonathan Moulton**（英語，9,815 字元）— [原文](https://en.wikipedia.org/wiki/Jonathan_Moulton) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology > Deal with the Devil
+- [ ] **Ura Naha Khongjomba and Pidonnu**（英語，9,805 字元）— [原文](https://en.wikipedia.org/wiki/Ura_Naha_Khongjomba_and_Pidonnu) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology > Epic cycles of incarnations
+- [ ] **Skuld (princess)**（英語，9,678 字元）— [原文](https://en.wikipedia.org/wiki/Skuld_%28princess%29) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology > Witches in folklore
+- [ ] **Christoph Haizmann**（英語，9,606 字元）— [原文](https://en.wikipedia.org/wiki/Christoph_Haizmann) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology > Deal with the Devil
+- [ ] **Cat-sìth**（英語，9,605 字元）— [原文](https://en.wikipedia.org/wiki/Cat-s%C3%ACth) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology
+- [ ] **Witching hour**（英語，9,407 字元）— [原文](https://en.wikipedia.org/wiki/Witching_hour) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology
+- [ ] **Code of Ordinances of the Àneu Valleys**（英語，9,398 字元）— [原文](https://en.wikipedia.org/wiki/Code_of_Ordinances_of_the_%C3%80neu_Valleys) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology
+- [ ] **Annie Palmer (White Witch of Rose Hall)**（英語，9,062 字元）— [原文](https://en.wikipedia.org/wiki/Annie_Palmer_%28White_Witch_of_Rose_Hall%29) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology > Witches in folklore
+- [ ] **José de Moraleda y Montero**（英語，9,060 字元）— [原文](https://en.wikipedia.org/wiki/Jos%C3%A9_de_Moraleda_y_Montero) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology
+- [ ] **Boum'ba Maza**（英語，8,954 字元）— [原文](https://en.wikipedia.org/wiki/Boum%27ba_Maza) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology > Magic deities
+- [ ] **Black Annis**（英語，8,708 字元）— [原文](https://en.wikipedia.org/wiki/Black_Annis) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology > Witches in folklore
+- [ ] **Kate McNiven**（英語，8,678 字元）— [原文](https://en.wikipedia.org/wiki/Kate_McNiven) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology
+- [ ] **Huld**（英語，8,467 字元）— [原文](https://en.wikipedia.org/wiki/Huld) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology
+- [ ] **Akongjamba**（英語，7,899 字元）— [原文](https://en.wikipedia.org/wiki/Akongjamba) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology > Epic cycles of incarnations
+- [ ] **The Smith and the Devil**（英語，7,895 字元）— [原文](https://en.wikipedia.org/wiki/The_Smith_and_the_Devil) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology > Deal with the Devil
+- [ ] **Wanglen Pungdingheiba and Sappa Chanu Silheibi**（英語，7,786 字元）— [原文](https://en.wikipedia.org/wiki/Wanglen_Pungdingheiba_and_Sappa_Chanu_Silheibi) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology > Epic cycles of incarnations
+- [ ] **William Lewis (pirate)**（英語，7,636 字元）— [原文](https://en.wikipedia.org/wiki/William_Lewis_%28pirate%29) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology > Deal with the Devil
+- [ ] **Bloody Mary (folklore)**（英語，7,549 字元）— [原文](https://en.wikipedia.org/wiki/Bloody_Mary_%28folklore%29) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology > Witches in folklore
+- [ ] **Dead as Disco**（英語，7,508 字元）— [原文](https://en.wikipedia.org/wiki/Dead_as_Disco) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology > Deal with the Devil
+- [ ] **Gullveig**（英語，7,417 字元）— [原文](https://en.wikipedia.org/wiki/Gullveig) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology
+- [ ] **Phouoibi Shayon**（英語，7,417 字元）— [原文](https://en.wikipedia.org/wiki/Phouoibi_Shayon) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology > Epic cycles of incarnations
+- [ ] **Madam Koi Koi**（英語，7,214 字元）— [原文](https://en.wikipedia.org/wiki/Madam_Koi_Koi) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology > Witches in folklore
+- [ ] **Sæmundr fróði**（英語，7,070 字元）— [原文](https://en.wikipedia.org/wiki/S%C3%A6mundr_fr%C3%B3%C3%B0i) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology > Deal with the Devil
+- [ ] **Shtriga**（英語，7,059 字元）— [原文](https://en.wikipedia.org/wiki/Shtriga) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology
+- [ ] **Koji Kashin**（英語，7,041 字元）— [原文](https://en.wikipedia.org/wiki/Koji_Kashin) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology
+- [ ] **Mother Carey**（英語，6,849 字元）— [原文](https://en.wikipedia.org/wiki/Mother_Carey) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology > Witches in folklore
+- [ ] **John Fian**（英語，6,385 字元）— [原文](https://en.wikipedia.org/wiki/John_Fian) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology > Deal with the Devil

@@ -12,7 +12,8 @@ jobs.tsv 為 UTF-8、以 tab 分隔的檔案，每行：
     zh	巫蠱之禍	wugu-zh	zh-tw
 
 輸出寫入 .cache/wiki/<輸出檔名>.txt（該目錄已被 .gitignore 排除）。
-找不到條目時會印出 MISS 與該語言維基的搜尋候選標題，據以修正 jobs.tsv 後重跑。
+找不到條目時會印出 MISS、該語言維基的搜尋候選標題，並自動查 en／de／fr／es
+是否有同名條目可作為降級來源，據以修正 jobs.tsv 後重跑。
 
 注意：標題含非 ASCII 字元時，請以 Write 工具建立 jobs.tsv，不要用 shell 參數傳遞，
 以免 Git Bash 在 Windows 上把引數編碼弄壞。
@@ -30,6 +31,9 @@ import urllib.request
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, ".cache", "wiki")
+# 發源語言查無條目時，依序嘗試這些通行語版本再下結論。
+FALLBACK_LANGS = ["en", "de", "fr", "es"]
+
 # Wikimedia 的 User-Agent 政策要求標明用途與聯絡方式，否則容易被限流（HTTP 429）。
 UA = (
     "maho-shojo-reference/1.0 "
@@ -100,10 +104,27 @@ def main():
             got, text = extract(lang, title, variant)
             if not text.strip():
                 missing += 1
-                print(
-                    "MISS %-28s %s/%s -> 候選：%s"
-                    % (name, lang, title, "、".join(search(lang, title)))
-                )
+                print("MISS %-28s %s/%s" % (name, lang, title))
+                print("       %s 站內候選：%s" % (lang, "、".join(search(lang, title)) or "（無）"))
+                # 發源語言查無條目時，務必再查通行語版本再下結論。
+                # Lutzelfrau 一例即因只查了 de、沒查 en 而被誤判為「維基百科沒有此條目」。
+                for alt in FALLBACK_LANGS:
+                    if alt == lang:
+                        continue
+                    try:
+                        alt_title, alt_text = extract(alt, title)
+                        if alt_text.strip():
+                            print(
+                                "       %s 有條目〈%s〉（%d 字元）——可作為降級來源"
+                                % (alt, alt_title, len(alt_text))
+                            )
+                        else:
+                            hits = search(alt, title)
+                            if hits:
+                                print("       %s 站內候選：%s" % (alt, "、".join(hits[:5])))
+                    except Exception:  # noqa: BLE001
+                        pass
+                    time.sleep(0.3)
                 continue
             path = os.path.join(OUT, name + ".txt")
             with io.open(path, "w", encoding="utf-8") as out:

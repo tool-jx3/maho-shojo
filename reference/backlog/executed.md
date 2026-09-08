@@ -1,0 +1,130 @@
+# 待收錄候選：被處決者
+
+共 124 項。回到 [待辦總表](../BACKLOG.md)。
+
+本檔由 `scripts/build_reference_backlog.py` 產生，是機器掃描的結果而非選錄決定，每一項都需要人工判斷。
+
+- [ ] **Joan of Arc**（英語，186,511 字元）— [原文](https://en.wikipedia.org/wiki/Joan_of_Arc) — 來源分類：Category:People executed for witchcraft > French people executed for witchcraft
+- [ ] **John Proctor (Salem witch trials)**（英語，29,037 字元）— [原文](https://en.wikipedia.org/wiki/John_Proctor_%28Salem_witch_trials%29) — 來源分類：Category:People executed for witchcraft > American people executed for witchcraft > People executed in the Salem witch trials
+- [ ] **Elizabeth Howe**（英語，25,765 字元）— [原文](https://en.wikipedia.org/wiki/Elizabeth_Howe) — 來源分類：Category:People executed for witchcraft > American people executed for witchcraft
+- [ ] **Empress Wang (Gaozong)**（英語，22,801 字元）— [原文](https://en.wikipedia.org/wiki/Empress_Wang_%28Gaozong%29) — 來源分類：Category:People executed for witchcraft > Chinese people executed for witchcraft
+- [ ] **Sarah Wildes**（英語，21,920 字元）— [原文](https://en.wikipedia.org/wiki/Sarah_Wildes) — 來源分類：Category:People executed for witchcraft > American people executed for witchcraft > People executed in the Salem witch trials
+- [ ] **Malin Matsdotter**（英語，21,536 字元）— [原文](https://en.wikipedia.org/wiki/Malin_Matsdotter) — 來源分類：Category:People executed for witchcraft > Swedish people executed for witchcraft
+- [ ] **Sidonia von Borcke**（英語，21,472 字元）— [原文](https://en.wikipedia.org/wiki/Sidonia_von_Borcke) — 來源分類：Category:People executed for witchcraft > German people executed for witchcraft
+- [ ] **Agnes Sampson**（英語，19,437 字元）— [原文](https://en.wikipedia.org/wiki/Agnes_Sampson) — 來源分類：Category:People executed for witchcraft > Scottish people executed for witchcraft
+- [ ] **Malin Matsdotter**（瑞典語，19,292 字元）— [原文](https://sv.wikipedia.org/wiki/Malin_Matsdotter) — 來源分類：Kategori:Häxprocesser > Personer som blivit avrättade för häxeri > Personer som blivit avrättade för häxeri i Sverige
+- [ ] **Elspeth Reoch**（英語，19,162 字元）— [原文](https://en.wikipedia.org/wiki/Elspeth_Reoch) — 來源分類：Category:People executed for witchcraft > Scottish people executed for witchcraft
+- [ ] **Agnes Bernauer**（英語，19,159 字元）— [原文](https://en.wikipedia.org/wiki/Agnes_Bernauer) — 來源分類：Category:People executed for witchcraft > German people executed for witchcraft
+- [ ] **Rebecca Nurse**（英語，18,785 字元）— [原文](https://en.wikipedia.org/wiki/Rebecca_Nurse) — 來源分類：Category:People executed for witchcraft > American people executed for witchcraft > People executed in the Salem witch trials
+- [ ] **Allison Balfour**（英語，18,459 字元）— [原文](https://en.wikipedia.org/wiki/Allison_Balfour) — 來源分類：Category:People executed for witchcraft > Scottish people executed for witchcraft
+- [ ] **Elin i Staxäng**（瑞典語，18,203 字元）— [原文](https://sv.wikipedia.org/wiki/Elin_i_Stax%C3%A4ng) — 來源分類：Kategori:Häxprocesser > Personer som blivit avrättade för häxeri > Personer som blivit avrättade för häxeri i Sverige
+- [ ] **Bessie Dunlop of Lynn**（英語，17,986 字元）— [原文](https://en.wikipedia.org/wiki/Bessie_Dunlop_of_Lynn) — 來源分類：Category:People executed for witchcraft > Scottish people executed for witchcraft
+- [ ] **Bridget Bishop**（英語，17,286 字元）— [原文](https://en.wikipedia.org/wiki/Bridget_Bishop) — 來源分類：Category:People executed for witchcraft > English people executed for witchcraft
+- [ ] **Ursula Kemp**（英語，16,972 字元）— [原文](https://en.wikipedia.org/wiki/Ursula_Kemp) — 來源分類：Category:People executed for witchcraft > English people executed for witchcraft
+- [ ] **Märet Jonsdotter**（英語，16,424 字元）— [原文](https://en.wikipedia.org/wiki/M%C3%A4ret_Jonsdotter) — 來源分類：Category:People executed for witchcraft > Swedish people executed for witchcraft
+- [ ] **Per Larsson i Mollösund**（瑞典語，16,258 字元）— [原文](https://sv.wikipedia.org/wiki/Per_Larsson_i_Moll%C3%B6sund) — 來源分類：Kategori:Häxprocesser > Personer som blivit avrättade för häxeri > Personer som blivit avrättade för häxeri i Sverige
+- [ ] **Martha Carrier (Salem witch trials)**（英語，16,036 字元）— [原文](https://en.wikipedia.org/wiki/Martha_Carrier_%28Salem_witch_trials%29) — 來源分類：Category:People executed for witchcraft > American people executed for witchcraft > People executed in the Salem witch trials
+- [ ] **Peter Stumpp**（英語，15,163 字元）— [原文](https://en.wikipedia.org/wiki/Peter_Stumpp) — 來源分類：Category:People executed for witchcraft > German people executed for witchcraft
+- [ ] **Elin i Staxäng**（英語，15,079 字元）— [原文](https://en.wikipedia.org/wiki/Elin_i_Stax%C3%A4ng) — 來源分類：Category:People executed for witchcraft > Swedish people executed for witchcraft
+- [ ] **George Burroughs**（英語，15,062 字元）— [原文](https://en.wikipedia.org/wiki/George_Burroughs) — 來源分類：Category:People executed for witchcraft > American people executed for witchcraft > People executed in the Salem witch trials
+- [ ] **Gentile Budrioli**（英語，14,882 字元）— [原文](https://en.wikipedia.org/wiki/Gentile_Budrioli) — 來源分類：Category:People executed for witchcraft > Italian people executed for witchcraft
+- [ ] **Märet Jonsdotter**（瑞典語，14,629 字元）— [原文](https://sv.wikipedia.org/wiki/M%C3%A4ret_Jonsdotter) — 來源分類：Kategori:Häxprocesser > Personer som blivit avrättade för häxeri > Personer som blivit avrättade för häxeri i Sverige
+- [ ] **Malin Ruths**（瑞典語，14,420 字元）— [原文](https://sv.wikipedia.org/wiki/Malin_Ruths) — 來源分類：Kategori:Häxprocesser > Personer som blivit avrättade för häxeri > Personer som blivit avrättade för häxeri i Sverige
+- [ ] **Sarah Good**（英語，14,332 字元）— [原文](https://en.wikipedia.org/wiki/Sarah_Good) — 來源分類：Category:People executed for witchcraft > American people executed for witchcraft > People executed in the Salem witch trials
+- [ ] **John Willard**（英語，14,276 字元）— [原文](https://en.wikipedia.org/wiki/John_Willard) — 來源分類：Category:People executed for witchcraft > American people executed for witchcraft > People executed in the Salem witch trials
+- [ ] **Witches of Belvoir**（英語，14,131 字元）— [原文](https://en.wikipedia.org/wiki/Witches_of_Belvoir) — 來源分類：Category:People executed for witchcraft > English people executed for witchcraft
+- [ ] **Kongla Ann**（英語，13,924 字元）— [原文](https://en.wikipedia.org/wiki/Kongla_Ann) — 來源分類：Category:People executed for witchcraft
+- [ ] **Helga i Pilanna**（瑞典語，13,713 字元）— [原文](https://sv.wikipedia.org/wiki/Helga_i_Pilanna) — 來源分類：Kategori:Häxprocesser > Personer som blivit avrättade för häxeri > Personer som blivit avrättade för häxeri i Sverige
+- [ ] **Ann Glover**（英語，13,331 字元）— [原文](https://en.wikipedia.org/wiki/Ann_Glover) — 來源分類：Category:People executed for witchcraft > American people executed for witchcraft
+- [ ] **Mary Eastey**（英語，13,217 字元）— [原文](https://en.wikipedia.org/wiki/Mary_Eastey) — 來源分類：Category:People executed for witchcraft > American people executed for witchcraft > People executed in the Salem witch trials
+- [ ] **Susannah Martin**（英語，13,196 字元）— [原文](https://en.wikipedia.org/wiki/Susannah_Martin) — 來源分類：Category:People executed for witchcraft > American people executed for witchcraft > People executed in the Salem witch trials
+- [ ] **Theoris of Lemnos**（英語，13,195 字元）— [原文](https://en.wikipedia.org/wiki/Theoris_of_Lemnos) — 來源分類：Category:People executed for witchcraft
+- [ ] **Margaret Scott (Salem witch trials)**（英語，12,804 字元）— [原文](https://en.wikipedia.org/wiki/Margaret_Scott_%28Salem_witch_trials%29) — 來源分類：Category:People executed for witchcraft > English people executed for witchcraft
+- [ ] **Johannes Junius**（英語，12,515 字元）— [原文](https://en.wikipedia.org/wiki/Johannes_Junius) — 來源分類：Category:People executed for witchcraft > German people executed for witchcraft
+- [ ] **Anna Tait**（英語，12,506 字元）— [原文](https://en.wikipedia.org/wiki/Anna_Tait) — 來源分類：Category:People executed for witchcraft > Scottish people executed for witchcraft
+- [ ] **Zhang Liang (Tang dynasty)**（英語，12,457 字元）— [原文](https://en.wikipedia.org/wiki/Zhang_Liang_%28Tang_dynasty%29) — 來源分類：Category:People executed for witchcraft > Chinese people executed for witchcraft
+- [ ] **Lisbeth Nypan**（英語，11,866 字元）— [原文](https://en.wikipedia.org/wiki/Lisbeth_Nypan) — 來源分類：Category:People executed for witchcraft > Norwegian people executed for witchcraft
+- [ ] **Anne Pedersdotter**（英語，11,423 字元）— [原文](https://en.wikipedia.org/wiki/Anne_Pedersdotter) — 來源分類：Category:People executed for witchcraft > Norwegian people executed for witchcraft
+- [ ] **Brita Zippel**（英語，11,335 字元）— [原文](https://en.wikipedia.org/wiki/Brita_Zippel) — 來源分類：Category:People executed for witchcraft > Swedish people executed for witchcraft
+- [ ] **Peder Mathsson i Mollösund**（瑞典語，11,117 字元）— [原文](https://sv.wikipedia.org/wiki/Peder_Mathsson_i_Moll%C3%B6sund) — 來源分類：Kategori:Häxprocesser > Personer som blivit avrättade för häxeri > Personer som blivit avrättade för häxeri i Sverige
+- [ ] **Matteuccia de Francesco**（英語，10,729 字元）— [原文](https://en.wikipedia.org/wiki/Matteuccia_de_Francesco) — 來源分類：Category:People executed for witchcraft > Italian people executed for witchcraft
+- [ ] **Ragnill Jens Svenses**（瑞典語，10,678 字元）— [原文](https://sv.wikipedia.org/wiki/Ragnill_Jens_Svenses) — 來源分類：Kategori:Häxprocesser > Personer som blivit avrättade för häxeri > Personer som blivit avrättade för häxeri i Sverige
+- [ ] **Geillis Duncan**（英語，10,594 字元）— [原文](https://en.wikipedia.org/wiki/Geillis_Duncan) — 來源分類：Category:People executed for witchcraft > Scottish people executed for witchcraft
+- [ ] **Martha Corey**（英語，10,387 字元）— [原文](https://en.wikipedia.org/wiki/Martha_Corey) — 來源分類：Category:People executed for witchcraft > American people executed for witchcraft > People executed in the Salem witch trials
+- [ ] **Dietrich Flade**（英語，10,332 字元）— [原文](https://en.wikipedia.org/wiki/Dietrich_Flade) — 來源分類：Category:People executed for witchcraft > German people executed for witchcraft
+- [ ] **Bute witches**（英語，10,311 字元）— [原文](https://en.wikipedia.org/wiki/Bute_witches) — 來源分類：Category:People executed for witchcraft > Scottish people executed for witchcraft
+- [ ] **Petronilla de Meath**（英語，10,093 字元）— [原文](https://en.wikipedia.org/wiki/Petronilla_de_Meath) — 來源分類：Category:People executed for witchcraft
+- [ ] **Marie Lamont**（英語，10,073 字元）— [原文](https://en.wikipedia.org/wiki/Marie_Lamont) — 來源分類：Category:People executed for witchcraft > Scottish people executed for witchcraft
+- [ ] **Marit Anundsdotter**（瑞典語，9,902 字元）— [原文](https://sv.wikipedia.org/wiki/Marit_Anundsdotter) — 來源分類：Kategori:Häxprocesser > Personer som blivit avrättade för häxeri > Personer som blivit avrättade för häxeri i Sverige
+- [ ] **Goodwife Knapp**（英語，9,865 字元）— [原文](https://en.wikipedia.org/wiki/Goodwife_Knapp) — 來源分類：Category:People executed for witchcraft > American people executed for witchcraft
+- [ ] **Margaret Aitken (witch)**（英語，9,769 字元）— [原文](https://en.wikipedia.org/wiki/Margaret_Aitken_%28witch%29) — 來源分類：Category:People executed for witchcraft > Scottish people executed for witchcraft
+- [ ] **Goody Bassett**（英語，9,534 字元）— [原文](https://en.wikipedia.org/wiki/Goody_Bassett) — 來源分類：Category:People executed for witchcraft > American people executed for witchcraft
+- [ ] **Lok Anna**（瑞典語，9,338 字元）— [原文](https://sv.wikipedia.org/wiki/Lok_Anna) — 來源分類：Kategori:Häxprocesser > Personer som blivit avrättade för häxeri > Personer som blivit avrättade för häxeri i Sverige
+- [ ] **Ann Hibbins**（英語，9,235 字元）— [原文](https://en.wikipedia.org/wiki/Ann_Hibbins) — 來源分類：Category:People executed for witchcraft > American people executed for witchcraft
+- [ ] **Margaret Jones (Puritan midwife)**（英語，9,143 字元）— [原文](https://en.wikipedia.org/wiki/Margaret_Jones_%28Puritan_midwife%29) — 來源分類：Category:People executed for witchcraft > American people executed for witchcraft
+- [ ] **Kerstin i Lövrie**（瑞典語，8,998 字元）— [原文](https://sv.wikipedia.org/wiki/Kerstin_i_L%C3%B6vrie) — 來源分類：Kategori:Häxprocesser > Personer som blivit avrättade för häxeri > Personer som blivit avrättade för häxeri i Sverige
+- [ ] **Margaret Bane**（英語，8,902 字元）— [原文](https://en.wikipedia.org/wiki/Margaret_Bane) — 來源分類：Category:People executed for witchcraft > Scottish people executed for witchcraft
+- [ ] **Elin i Horsnäs**（英語，8,830 字元）— [原文](https://en.wikipedia.org/wiki/Elin_i_Horsn%C3%A4s) — 來源分類：Category:People executed for witchcraft > Swedish people executed for witchcraft
+- [ ] **Gilles Garnier**（英語，8,824 字元）— [原文](https://en.wikipedia.org/wiki/Gilles_Garnier) — 來源分類：Category:People executed for witchcraft > French people executed for witchcraft
+- [ ] **Katherine Campbell (accused witch)**（英語，8,756 字元）— [原文](https://en.wikipedia.org/wiki/Katherine_Campbell_%28accused_witch%29) — 來源分類：Category:People executed for witchcraft > Scottish people executed for witchcraft
+- [ ] **Iver i Staxäng**（瑞典語，8,641 字元）— [原文](https://sv.wikipedia.org/wiki/Iver_i_Stax%C3%A4ng) — 來源分類：Kategori:Häxprocesser > Personer som blivit avrättade för häxeri > Personer som blivit avrättade för häxeri i Sverige
+- [ ] **Anna Laminit**（英語，8,509 字元）— [原文](https://en.wikipedia.org/wiki/Anna_Laminit) — 來源分類：Category:People executed for witchcraft > Austrian people executed for witchcraft
+- [ ] **Alse Young**（英語，8,492 字元）— [原文](https://en.wikipedia.org/wiki/Alse_Young) — 來源分類：Category:People executed for witchcraft > American people executed for witchcraft
+- [ ] **Christence Kruckow**（英語，8,425 字元）— [原文](https://en.wikipedia.org/wiki/Christence_Kruckow) — 來源分類：Category:People executed for witchcraft > Danish people executed for witchcraft
+- [ ] **Britta Sippel**（瑞典語，8,156 字元）— [原文](https://sv.wikipedia.org/wiki/Britta_Sippel) — 來源分類：Kategori:Häxprocesser > Personer som blivit avrättade för häxeri > Personer som blivit avrättade för häxeri i Sverige
+- [ ] **Beatrix Leslie**（英語，7,809 字元）— [原文](https://en.wikipedia.org/wiki/Beatrix_Leslie) — 來源分類：Category:People executed for witchcraft > Scottish people executed for witchcraft
+- [ ] **Thomas Schreiber**（瑞典語，7,674 字元）— [原文](https://sv.wikipedia.org/wiki/Thomas_Schreiber) — 來源分類：Kategori:Häxprocesser > Personer som blivit avrättade för häxeri
+- [ ] **Janet Coutts**（英語，7,629 字元）— [原文](https://en.wikipedia.org/wiki/Janet_Coutts) — 來源分類：Category:People executed for witchcraft > Scottish people executed for witchcraft
+- [ ] **Euphame MacCalzean**（英語，7,577 字元）— [原文](https://en.wikipedia.org/wiki/Euphame_MacCalzean) — 來源分類：Category:People executed for witchcraft > Scottish people executed for witchcraft
+- [ ] **Marit Byskrifvers**（瑞典語，7,532 字元）— [原文](https://sv.wikipedia.org/wiki/Marit_Byskrifvers) — 來源分類：Kategori:Häxprocesser > Personer som blivit avrättade för häxeri > Personer som blivit avrättade för häxeri i Sverige
+- [ ] **Enguerrand de Marigny**（英語，7,488 字元）— [原文](https://en.wikipedia.org/wiki/Enguerrand_de_Marigny) — 來源分類：Category:People executed for witchcraft > French people executed for witchcraft
+- [ ] **Ama Hemmah**（英語，7,401 字元）— [原文](https://en.wikipedia.org/wiki/Ama_Hemmah) — 來源分類：Category:People executed for witchcraft
+- [ ] **Fatima (d. 1246)**（英語，7,341 字元）— [原文](https://en.wikipedia.org/wiki/Fatima_%28d._1246%29) — 來源分類：Category:People executed for witchcraft
+- [ ] **María de Yriarte**（英語，7,327 字元）— [原文](https://en.wikipedia.org/wiki/Mar%C3%ADa_de_Yriarte) — 來源分類：Category:People executed for witchcraft > Spanish people executed for witchcraft
+- [ ] **Dorothea Flock**（英語，7,284 字元）— [原文](https://en.wikipedia.org/wiki/Dorothea_Flock) — 來源分類：Category:People executed for witchcraft > German people executed for witchcraft
+- [ ] **Elisabeth Plainacher**（英語，7,253 字元）— [原文](https://en.wikipedia.org/wiki/Elisabeth_Plainacher) — 來源分類：Category:People executed for witchcraft > Austrian people executed for witchcraft
+- [ ] **Thomas Schreiber (innkeeper)**（英語，7,239 字元）— [原文](https://en.wikipedia.org/wiki/Thomas_Schreiber_%28innkeeper%29) — 來源分類：Category:People executed for witchcraft > German people executed for witchcraft
+- [ ] **Marrite Thamisdatter**（瑞典語，7,170 字元）— [原文](https://sv.wikipedia.org/wiki/Marrite_Thamisdatter) — 來源分類：Kategori:Häxprocesser > Personer som blivit avrättade för häxeri
+- [ ] **Ann Pudeator**（英語，7,017 字元）— [原文](https://en.wikipedia.org/wiki/Ann_Pudeator) — 來源分類：Category:People executed for witchcraft > American people executed for witchcraft > People executed in the Salem witch trials
+- [ ] **Anne Palles**（英語，6,997 字元）— [原文](https://en.wikipedia.org/wiki/Anne_Palles) — 來源分類：Category:People executed for witchcraft > Danish people executed for witchcraft
+- [ ] **Anna Zippel**（英語，6,945 字元）— [原文](https://en.wikipedia.org/wiki/Anna_Zippel) — 來源分類：Category:People executed for witchcraft > Swedish people executed for witchcraft
+- [ ] **Anna Eriksdotter**（英語，6,670 字元）— [原文](https://en.wikipedia.org/wiki/Anna_Eriksdotter) — 來源分類：Category:People executed for witchcraft > Swedish people executed for witchcraft
+- [ ] **Leatherlips**（英語，6,646 字元）— [原文](https://en.wikipedia.org/wiki/Leatherlips) — 來源分類：Category:People executed for witchcraft > American people executed for witchcraft
+- [ ] **Janet Horne**（英語，6,642 字元）— [原文](https://en.wikipedia.org/wiki/Janet_Horne) — 來源分類：Category:People executed for witchcraft > Scottish people executed for witchcraft
+- [ ] **Anna Persdotter (död 1670)**（瑞典語，6,629 字元）— [原文](https://sv.wikipedia.org/wiki/Anna_Persdotter_%28d%C3%B6d_1670%29) — 來源分類：Kategori:Häxprocesser > Personer som blivit avrättade för häxeri > Personer som blivit avrättade för häxeri i Sverige
+- [ ] **Grissel Jaffray**（英語，6,594 字元）— [原文](https://en.wikipedia.org/wiki/Grissel_Jaffray) — 來源分類：Category:People executed for witchcraft > Scottish people executed for witchcraft
+- [ ] **Rebecca Fowler**（英語，6,590 字元）— [原文](https://en.wikipedia.org/wiki/Rebecca_Fowler) — 來源分類：Category:People executed for witchcraft > American people executed for witchcraft
+- [ ] **Maren Spliid**（英語，6,524 字元）— [原文](https://en.wikipedia.org/wiki/Maren_Spliid) — 來源分類：Category:People executed for witchcraft > Danish people executed for witchcraft
+- [ ] **Anna Simonsdotter Hack**（英語，6,513 字元）— [原文](https://en.wikipedia.org/wiki/Anna_Simonsdotter_Hack) — 來源分類：Category:People executed for witchcraft > Swedish people executed for witchcraft
+- [ ] **Alice Nutter (alleged witch)**（英語，6,501 字元）— [原文](https://en.wikipedia.org/wiki/Alice_Nutter_%28alleged_witch%29) — 來源分類：Category:People executed for witchcraft > English people executed for witchcraft
+- [ ] **Margaret Inequane**（英語，6,343 字元）— [原文](https://en.wikipedia.org/wiki/Margaret_Inequane) — 來源分類：Category:People executed for witchcraft > English people executed for witchcraft
+- [ ] **Karin Larsdotter**（瑞典語，6,275 字元）— [原文](https://sv.wikipedia.org/wiki/Karin_Larsdotter) — 來源分類：Kategori:Häxprocesser > Personer som blivit avrättade för häxeri > Personer som blivit avrättade för häxeri i Sverige
+- [ ] **Kjerstin Swen Sneckers**（瑞典語，6,197 字元）— [原文](https://sv.wikipedia.org/wiki/Kjerstin_Swen_Sneckers) — 來源分類：Kategori:Häxprocesser > Personer som blivit avrättade för häxeri > Personer som blivit avrättade för häxeri i Sverige
+- [ ] **Malin i Viken**（瑞典語，6,041 字元）— [原文](https://sv.wikipedia.org/wiki/Malin_i_Viken) — 來源分類：Kategori:Häxprocesser > Personer som blivit avrättade för häxeri > Personer som blivit avrättade för häxeri i Sverige
+- [ ] **Marigje Arriens**（英語，6,036 字元）— [原文](https://en.wikipedia.org/wiki/Marigje_Arriens) — 來源分類：Category:People executed for witchcraft > Dutch people executed for witchcraft
+- [ ] **Ane Koldings**（英語，5,971 字元）— [原文](https://en.wikipedia.org/wiki/Ane_Koldings) — 來源分類：Category:People executed for witchcraft > Danish people executed for witchcraft
+- [ ] **Gwen ferch Ellis**（英語，5,943 字元）— [原文](https://en.wikipedia.org/wiki/Gwen_ferch_Ellis) — 來源分類：Category:People executed for witchcraft
+- [ ] **Narbona Dacal**（英語，5,907 字元）— [原文](https://en.wikipedia.org/wiki/Narbona_Dacal) — 來源分類：Category:People executed for witchcraft > Spanish people executed for witchcraft
+- [ ] **Bond Elin**（瑞典語，5,819 字元）— [原文](https://sv.wikipedia.org/wiki/Bond_Elin) — 來源分類：Kategori:Häxprocesser > Personer som blivit avrättade för häxeri
+- [ ] **Elizabeth of Doberschütz**（英語，5,815 字元）— [原文](https://en.wikipedia.org/wiki/Elizabeth_of_Dobersch%C3%BCtz) — 來源分類：Category:People executed for witchcraft > German people executed for witchcraft
+- [ ] **Alice Molland**（英語，5,784 字元）— [原文](https://en.wikipedia.org/wiki/Alice_Molland) — 來源分類：Category:People executed for witchcraft > English people executed for witchcraft
+- [ ] **Elspeth McEwen**（英語，5,770 字元）— [原文](https://en.wikipedia.org/wiki/Elspeth_McEwen) — 來源分類：Category:People executed for witchcraft > Scottish people executed for witchcraft
+- [ ] **Brita Andersdotter i Karlsarvet**（瑞典語，5,768 字元）— [原文](https://sv.wikipedia.org/wiki/Brita_Andersdotter_i_Karlsarvet) — 來源分類：Kategori:Häxprocesser > Personer som blivit avrättade för häxeri
+- [ ] **Meg Dow**（英語，5,656 字元）— [原文](https://en.wikipedia.org/wiki/Meg_Dow) — 來源分類：Category:People executed for witchcraft > Scottish people executed for witchcraft
+- [ ] **Janet Boyman**（英語，5,618 字元）— [原文](https://en.wikipedia.org/wiki/Janet_Boyman) — 來源分類：Category:People executed for witchcraft > Scottish people executed for witchcraft
+- [ ] **Leonora Dori**（英語，5,578 字元）— [原文](https://en.wikipedia.org/wiki/Leonora_Dori) — 來源分類：Category:People executed for witchcraft > French people executed for witchcraft
+- [ ] **Jean Delvaux**（英語，5,577 字元）— [原文](https://en.wikipedia.org/wiki/Jean_Delvaux) — 來源分類：Category:People executed for witchcraft > People from the Spanish Netherlands executed for witchcraft
+- [ ] **Josyne van Beethoven**（英語，5,519 字元）— [原文](https://en.wikipedia.org/wiki/Josyne_van_Beethoven) — 來源分類：Category:People executed for witchcraft > People from the Spanish Netherlands executed for witchcraft
+- [ ] **Tyldesley witch**（英語，5,465 字元）— [原文](https://en.wikipedia.org/wiki/Tyldesley_witch) — 來源分類：Category:People executed for witchcraft > English people executed for witchcraft
+- [ ] **Soulmother of Küssnacht**（英語，5,447 字元）— [原文](https://en.wikipedia.org/wiki/Soulmother_of_K%C3%BCssnacht) — 來源分類：Category:People executed for witchcraft > Swiss people executed for witchcraft
+- [ ] **Luís de la Penha**（瑞典語，5,338 字元）— [原文](https://sv.wikipedia.org/wiki/Lu%C3%ADs_de_la_Penha) — 來源分類：Kategori:Häxprocesser > Personer som blivit avrättade för häxeri
+- [ ] **Bodil Hoffuens**（瑞典語，5,304 字元）— [原文](https://sv.wikipedia.org/wiki/Bodil_Hoffuens) — 來源分類：Kategori:Häxprocesser > Personer som blivit avrättade för häxeri
+- [ ] **Windsor Witches**（英語，5,277 字元）— [原文](https://en.wikipedia.org/wiki/Windsor_Witches) — 來源分類：Category:People executed for witchcraft > English people executed for witchcraft
+- [ ] **Guirandana de Lay**（英語，5,238 字元）— [原文](https://en.wikipedia.org/wiki/Guirandana_de_Lay) — 來源分類：Category:People executed for witchcraft > Spanish people executed for witchcraft
+- [ ] **Elizabeth Lowys**（英語，5,228 字元）— [原文](https://en.wikipedia.org/wiki/Elizabeth_Lowys) — 來源分類：Category:People executed for witchcraft > English people executed for witchcraft
+- [ ] **Lars Persson på Åsen**（瑞典語，5,204 字元）— [原文](https://sv.wikipedia.org/wiki/Lars_Persson_p%C3%A5_%C3%85sen) — 來源分類：Kategori:Häxprocesser > Personer som blivit avrättade för häxeri
+- [ ] **William Stewart of Luthrie**（英語，5,098 字元）— [原文](https://en.wikipedia.org/wiki/William_Stewart_of_Luthrie) — 來源分類：Category:People executed for witchcraft > Scottish people executed for witchcraft
+- [ ] **Maren Spliids**（瑞典語，5,095 字元）— [原文](https://sv.wikipedia.org/wiki/Maren_Spliids) — 來源分類：Kategori:Häxprocesser > Personer som blivit avrättade för häxeri
+- [ ] **Alison Pearson (accused witch)**（英語，5,087 字元）— [原文](https://en.wikipedia.org/wiki/Alison_Pearson_%28accused_witch%29) — 來源分類：Category:People executed for witchcraft > Scottish people executed for witchcraft
+- [ ] **Mechteld ten Ham**（英語，5,076 字元）— [原文](https://en.wikipedia.org/wiki/Mechteld_ten_Ham) — 來源分類：Category:People executed for witchcraft > Dutch people executed for witchcraft
+- [ ] **Krystyna Ceynowa**（英語，5,027 字元）— [原文](https://en.wikipedia.org/wiki/Krystyna_Ceynowa) — 來源分類：Category:People executed for witchcraft > Polish people executed for witchcraft

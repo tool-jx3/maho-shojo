@@ -1,0 +1,79 @@
+# 待收錄候選：獵巫加害者
+
+共 73 項。回到 [待辦總表](../BACKLOG.md)。
+
+本檔由 `scripts/build_reference_backlog.py` 產生，是機器掃描的結果而非選錄決定，每一項都需要人工判斷。
+
+- [ ] **Johannes Calvin**（德語，170,848 字元）— [原文](https://de.wikipedia.org/wiki/Johannes_Calvin) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung
+- [ ] **Paula von Weitershausen**（德語，52,506 字元）— [原文](https://de.wikipedia.org/wiki/Paula_von_Weitershausen) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung
+- [ ] **Sebastian Röttinger**（德語，45,447 字元）— [原文](https://de.wikipedia.org/wiki/Sebastian_R%C3%B6ttinger) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung
+- [ ] **Martin Anton Delrio**（德語，30,256 字元）— [原文](https://de.wikipedia.org/wiki/Martin_Anton_Delrio) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung > Hexentheoretiker
+- [ ] **Jean Bodin**（德語，29,634 字元）— [原文](https://de.wikipedia.org/wiki/Jean_Bodin) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung > Hexentheoretiker
+- [ ] **Friedrich Hoffmann**（德語，23,590 字元）— [原文](https://de.wikipedia.org/wiki/Friedrich_Hoffmann) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung > Hexentheoretiker
+- [ ] **Johannes Trithemius**（德語，21,690 字元）— [原文](https://de.wikipedia.org/wiki/Johannes_Trithemius) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung > Hexentheoretiker
+- [ ] **Elisabeth von Brandenburg (1510–1558)**（德語，20,625 字元）— [原文](https://de.wikipedia.org/wiki/Elisabeth_von_Brandenburg_%281510%E2%80%931558%29) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung
+- [ ] **Heinrich Julius (Braunschweig-Wolfenbüttel)**（德語，19,993 字元）— [原文](https://de.wikipedia.org/wiki/Heinrich_Julius_%28Braunschweig-Wolfenb%C3%BCttel%29) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung
+- [ ] **David Pestel**（德語，19,899 字元）— [原文](https://de.wikipedia.org/wiki/David_Pestel) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung
+- [ ] **Peter Binsfeld**（德語，19,324 字元）— [原文](https://de.wikipedia.org/wiki/Peter_Binsfeld) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung
+- [ ] **August II. (Braunschweig-Wolfenbüttel)**（德語，19,274 字元）— [原文](https://de.wikipedia.org/wiki/August_II._%28Braunschweig-Wolfenb%C3%BCttel%29) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung
+- [ ] **Wilhelm Adolf Scribonius**（德語，17,646 字元）— [原文](https://de.wikipedia.org/wiki/Wilhelm_Adolf_Scribonius) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung > Hexentheoretiker
+- [ ] **Ferdinand von Bayern (1577–1650)**（德語，17,474 字元）— [原文](https://de.wikipedia.org/wiki/Ferdinand_von_Bayern_%281577%E2%80%931650%29) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung
+- [ ] **Lambert Daneau**（德語，16,177 字元）— [原文](https://de.wikipedia.org/wiki/Lambert_Daneau) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung > Hexentheoretiker
+- [ ] **Christoffer Valkendorff**（德語，15,559 字元）— [原文](https://de.wikipedia.org/wiki/Christoffer_Valkendorff) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung
+- [ ] **Innozenz VIII.**（德語，15,120 字元）— [原文](https://de.wikipedia.org/wiki/Innozenz_VIII.) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung
+- [ ] **Johann Christoph von Westerstetten**（德語，14,540 字元）— [原文](https://de.wikipedia.org/wiki/Johann_Christoph_von_Westerstetten) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung
+- [ ] **Benedikt Carpzov der Jüngere**（德語，14,054 字元）— [原文](https://de.wikipedia.org/wiki/Benedikt_Carpzov_der_J%C3%BCngere) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung > Hexentheoretiker
+- [ ] **Johann Schweikhard von Cronberg**（德語，13,795 字元）— [原文](https://de.wikipedia.org/wiki/Johann_Schweikhard_von_Cronberg) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung
+- [ ] **Erich II. (Braunschweig-Calenberg-Göttingen)**（德語，13,785 字元）— [原文](https://de.wikipedia.org/wiki/Erich_II._%28Braunschweig-Calenberg-G%C3%B6ttingen%29) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung
+- [ ] **Samuel Sewall**（德語，13,729 字元）— [原文](https://de.wikipedia.org/wiki/Samuel_Sewall) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung
+- [ ] **Heinrich von Schultheiß**（德語，13,253 字元）— [原文](https://de.wikipedia.org/wiki/Heinrich_von_Schulthei%C3%9F) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung
+- [ ] **Johann (Nassau-Idstein)**（德語，12,488 字元）— [原文](https://de.wikipedia.org/wiki/Johann_%28Nassau-Idstein%29) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung
+- [ ] **Johannes Nider**（德語，12,365 字元）— [原文](https://de.wikipedia.org/wiki/Johannes_Nider) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung > Hexentheoretiker
+- [ ] **Johann Geiler von Kaysersberg**（德語，12,311 字元）— [原文](https://de.wikipedia.org/wiki/Johann_Geiler_von_Kaysersberg) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung > Hexentheoretiker
+- [ ] **Heinrich Kramer**（德語，12,184 字元）— [原文](https://de.wikipedia.org/wiki/Heinrich_Kramer) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung > Hexentheoretiker
+- [ ] **Ulrich Tengler**（德語，12,173 字元）— [原文](https://de.wikipedia.org/wiki/Ulrich_Tengler) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung
+- [ ] **Rudolf Goclenius der Ältere**（德語，11,820 字元）— [原文](https://de.wikipedia.org/wiki/Rudolf_Goclenius_der_%C3%84ltere) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung > Hexentheoretiker
+- [ ] **Balthasar von Dernbach**（德語，11,323 字元）— [原文](https://de.wikipedia.org/wiki/Balthasar_von_Dernbach) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung
+- [ ] **Honorius Roth von Schreckenstein**（德語，11,151 字元）— [原文](https://de.wikipedia.org/wiki/Honorius_Roth_von_Schreckenstein) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung
+- [ ] **Franz von Hatzfeld**（德語，11,056 字元）— [原文](https://de.wikipedia.org/wiki/Franz_von_Hatzfeld) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung
+- [ ] **Pierre de Lancre**（德語，10,428 字元）— [原文](https://de.wikipedia.org/wiki/Pierre_de_Lancre) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung
+- [ ] **Kaspar von Hohenems**（德語，10,371 字元）— [原文](https://de.wikipedia.org/wiki/Kaspar_von_Hohenems) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung
+- [ ] **Johann Gottfried von Aschhausen**（德語，10,292 字元）— [原文](https://de.wikipedia.org/wiki/Johann_Gottfried_von_Aschhausen) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung
+- [ ] **Ulrich Molitor**（德語，10,153 字元）— [原文](https://de.wikipedia.org/wiki/Ulrich_Molitor) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung
+- [ ] **Johann Adam von Bicken**（德語，9,708 字元）— [原文](https://de.wikipedia.org/wiki/Johann_Adam_von_Bicken) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung
+- [ ] **Johann Fischart**（德語，9,544 字元）— [原文](https://de.wikipedia.org/wiki/Johann_Fischart) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung > Hexentheoretiker
+- [ ] **Wilhelm (Baden-Baden)**（德語，9,260 字元）— [原文](https://de.wikipedia.org/wiki/Wilhelm_%28Baden-Baden%29) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung
+- [ ] **Georg Ludwig Geis**（德語，8,978 字元）— [原文](https://de.wikipedia.org/wiki/Georg_Ludwig_Geis) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung
+- [ ] **Thomas Naogeorg**（德語，8,957 字元）— [原文](https://de.wikipedia.org/wiki/Thomas_Naogeorg) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung
+- [ ] **Oswald Loschert**（德語，8,908 字元）— [原文](https://de.wikipedia.org/wiki/Oswald_Loschert) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung
+- [ ] **Ulric de Torrenté**（德語，8,798 字元）— [原文](https://de.wikipedia.org/wiki/Ulric_de_Torrent%C3%A9) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung
+- [ ] **Georg Scherer (Jesuit)**（德語，8,644 字元）— [原文](https://de.wikipedia.org/wiki/Georg_Scherer_%28Jesuit%29) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung
+- [ ] **Wilhelm Christoph (Hessen-Homburg)**（德語，8,505 字元）— [原文](https://de.wikipedia.org/wiki/Wilhelm_Christoph_%28Hessen-Homburg%29) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung
+- [ ] **Samuel Meiger**（德語，8,502 字元）— [原文](https://de.wikipedia.org/wiki/Samuel_Meiger) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung > Hexentheoretiker
+- [ ] **Wolfgang X. von Dalberg**（德語，8,232 字元）— [原文](https://de.wikipedia.org/wiki/Wolfgang_X._von_Dalberg) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung
+- [ ] **Neidhardt von Thüngen**（德語，7,602 字元）— [原文](https://de.wikipedia.org/wiki/Neidhardt_von_Th%C3%BCngen) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung
+- [ ] **Aegidius Albertinus**（德語，7,485 字元）— [原文](https://de.wikipedia.org/wiki/Aegidius_Albertinus) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung > Hexentheoretiker
+- [ ] **Thomas Erastus**（德語，7,295 字元）— [原文](https://de.wikipedia.org/wiki/Thomas_Erastus) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung > Hexentheoretiker
+- [ ] **Philipp Adolf von Ehrenberg**（德語，7,256 字元）— [原文](https://de.wikipedia.org/wiki/Philipp_Adolf_von_Ehrenberg) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung
+- [ ] **Hermann Cothmann**（德語，7,178 字元）— [原文](https://de.wikipedia.org/wiki/Hermann_Cothmann) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung
+- [ ] **Hermann Neuwalt**（德語，7,100 字元）— [原文](https://de.wikipedia.org/wiki/Hermann_Neuwalt) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung > Hexentheoretiker
+- [ ] **Reiner Biewer**（德語，6,995 字元）— [原文](https://de.wikipedia.org/wiki/Reiner_Biewer) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung
+- [ ] **Heinrich Rimphoff**（德語，6,932 字元）— [原文](https://de.wikipedia.org/wiki/Heinrich_Rimphoff) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung
+- [ ] **Max Gandolf von Kuenburg**（德語，6,879 字元）— [原文](https://de.wikipedia.org/wiki/Max_Gandolf_von_Kuenburg) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung
+- [ ] **Georg Friedrich von Greiffenclau zu Vollrads**（德語，6,735 字元）— [原文](https://de.wikipedia.org/wiki/Georg_Friedrich_von_Greiffenclau_zu_Vollrads) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung
+- [ ] **David Clauss der Ältere**（德語，6,727 字元）— [原文](https://de.wikipedia.org/wiki/David_Clauss_der_%C3%84ltere) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung
+- [ ] **Jakob von Kleist**（德語，6,726 字元）— [原文](https://de.wikipedia.org/wiki/Jakob_von_Kleist) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung
+- [ ] **Ludolf Lange (Theologe)**（德語，6,591 字元）— [原文](https://de.wikipedia.org/wiki/Ludolf_Lange_%28Theologe%29) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung
+- [ ] **Heinrich Kerkmann**（德語，6,517 字元）— [原文](https://de.wikipedia.org/wiki/Heinrich_Kerkmann) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung
+- [ ] **Johann Jakob von Beck**（德語，6,481 字元）— [原文](https://de.wikipedia.org/wiki/Johann_Jakob_von_Beck) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung
+- [ ] **Alexander von Haslang**（德語，6,368 字元）— [原文](https://de.wikipedia.org/wiki/Alexander_von_Haslang) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung
+- [ ] **Hexentheoretiker**（德語，6,169 字元）— [原文](https://de.wikipedia.org/wiki/Hexentheoretiker) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung > Hexentheoretiker
+- [ ] **Johann Christoph Frölich von Frölichsburg**（德語，6,112 字元）— [原文](https://de.wikipedia.org/wiki/Johann_Christoph_Fr%C3%B6lich_von_Fr%C3%B6lichsburg) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung
+- [ ] **Caspar Reinhartz**（德語，5,993 字元）— [原文](https://de.wikipedia.org/wiki/Caspar_Reinhartz) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung
+- [ ] **Jodokus Wagenhauer**（德語，5,710 字元）— [原文](https://de.wikipedia.org/wiki/Jodokus_Wagenhauer) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung
+- [ ] **Jeremias Drexel**（德語，5,609 字元）— [原文](https://de.wikipedia.org/wiki/Jeremias_Drexel) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung
+- [ ] **Ferdinand Karl von Hohenems**（德語，5,525 字元）— [原文](https://de.wikipedia.org/wiki/Ferdinand_Karl_von_Hohenems) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung
+- [ ] **Johann Zandt von Merl (Erbvogt)**（德語，5,457 字元）— [原文](https://de.wikipedia.org/wiki/Johann_Zandt_von_Merl_%28Erbvogt%29) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung
+- [ ] **Nicolas Rémy**（德語，5,428 字元）— [原文](https://de.wikipedia.org/wiki/Nicolas_R%C3%A9my) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung
+- [ ] **Moritz von Büren**（德語，5,270 字元）— [原文](https://de.wikipedia.org/wiki/Moritz_von_B%C3%BCren) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung
+- [ ] **Johann Christoph von Freyberg-Eisenberg**（德語，5,158 字元）— [原文](https://de.wikipedia.org/wiki/Johann_Christoph_von_Freyberg-Eisenberg) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung

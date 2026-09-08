@@ -1,0 +1,136 @@
+# 待收錄候選：獵巫受害者（個案）
+
+共 130 項。回到 [待辦總表](../BACKLOG.md)。
+
+本檔由 `scripts/build_reference_backlog.py` 產生，是機器掃描的結果而非選錄決定，每一項都需要人工判斷。
+
+- [ ] **Bader-Ann**（德語，55,937 字元）— [原文](https://de.wikipedia.org/wiki/Bader-Ann) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Katharina Kepler**（德語，20,383 字元）— [原文](https://de.wikipedia.org/wiki/Katharina_Kepler) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Chonrad Stoeckhlin und die Nachtschar. Eine Geschichte aus der frühen Neuzeit**（德語，19,053 字元）— [原文](https://de.wikipedia.org/wiki/Chonrad_Stoeckhlin_und_die_Nachtschar._Eine_Geschichte_aus_der_fr%C3%BChen_Neuzeit) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Anna Murschel**（德語，17,322 字元）— [原文](https://de.wikipedia.org/wiki/Anna_Murschel) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Rebecca Nurse**（德語，17,251 字元）— [原文](https://de.wikipedia.org/wiki/Rebecca_Nurse) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Margarethe Burich**（德語，17,003 字元）— [原文](https://de.wikipedia.org/wiki/Margarethe_Burich) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Elizabeth Johnson Jr.**（德語，16,732 字元）— [原文](https://de.wikipedia.org/wiki/Elizabeth_Johnson_Jr.) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Catherine Quicquat**（德語，16,337 字元）— [原文](https://de.wikipedia.org/wiki/Catherine_Quicquat) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Adelheid Sieveking**（德語，16,228 字元）— [原文](https://de.wikipedia.org/wiki/Adelheid_Sieveking) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Sophia Agnes von Langenberg**（德語，13,942 字元）— [原文](https://de.wikipedia.org/wiki/Sophia_Agnes_von_Langenberg) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Christoph Alois Lautner**（德語，13,829 字元）— [原文](https://de.wikipedia.org/wiki/Christoph_Alois_Lautner) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Sidonie von Sachsen**（德語，13,678 字元）— [原文](https://de.wikipedia.org/wiki/Sidonie_von_Sachsen) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Dorothea Becker**（德語，13,632 字元）— [原文](https://de.wikipedia.org/wiki/Dorothea_Becker) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Katharina Lips**（德語，13,604 字元）— [原文](https://de.wikipedia.org/wiki/Katharina_Lips) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Sidonia von Borcke**（德語，13,437 字元）— [原文](https://de.wikipedia.org/wiki/Sidonia_von_Borcke) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Anna Maria Schwegelin**（德語，13,353 字元）— [原文](https://de.wikipedia.org/wiki/Anna_Maria_Schwegelin) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Kunigunde Sterzl**（德語，13,220 字元）— [原文](https://de.wikipedia.org/wiki/Kunigunde_Sterzl) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Christence Kruckow**（德語，13,203 字元）— [原文](https://de.wikipedia.org/wiki/Christence_Kruckow) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Kimpa Vita**（德語，13,176 字元）— [原文](https://de.wikipedia.org/wiki/Kimpa_Vita) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Witches of Warboys**（德語，13,153 字元）— [原文](https://de.wikipedia.org/wiki/Witches_of_Warboys) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Elisabeth Hoffmann**（德語，12,739 字元）— [原文](https://de.wikipedia.org/wiki/Elisabeth_Hoffmann) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Barbara Meyhe**（德語，12,683 字元）— [原文](https://de.wikipedia.org/wiki/Barbara_Meyhe) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Agnes Waterhouse**（德語，12,354 字元）— [原文](https://de.wikipedia.org/wiki/Agnes_Waterhouse) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Ann Glover**（德語，12,201 字元）— [原文](https://de.wikipedia.org/wiki/Ann_Glover) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Anna Maria Wagemann**（德語，11,720 字元）— [原文](https://de.wikipedia.org/wiki/Anna_Maria_Wagemann) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Anna Katharina Spee**（德語，11,521 字元）— [原文](https://de.wikipedia.org/wiki/Anna_Katharina_Spee) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Dorothea Meermann**（德語，11,178 字元）— [原文](https://de.wikipedia.org/wiki/Dorothea_Meermann) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Katharina Bernburg**（德語，11,012 字元）— [原文](https://de.wikipedia.org/wiki/Katharina_Bernburg) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Maria Rampendahl**（德語，10,971 字元）— [原文](https://de.wikipedia.org/wiki/Maria_Rampendahl) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Maria Renata Singer von Mossau**（德語，10,760 字元）— [原文](https://de.wikipedia.org/wiki/Maria_Renata_Singer_von_Mossau) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Barbara Ordeneck**（德語，10,700 字元）— [原文](https://de.wikipedia.org/wiki/Barbara_Ordeneck) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Anna Maria Sterck**（德語，10,688 字元）— [原文](https://de.wikipedia.org/wiki/Anna_Maria_Sterck) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Maria Schnökel**（德語，10,596 字元）— [原文](https://de.wikipedia.org/wiki/Maria_Schn%C3%B6kel) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Prista Frühbottin**（德語，10,564 字元）— [原文](https://de.wikipedia.org/wiki/Prista_Fr%C3%BChbottin) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Anna Schulten**（德語，10,384 字元）— [原文](https://de.wikipedia.org/wiki/Anna_Schulten) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Catherine Monvoisin**（德語，10,273 字元）— [原文](https://de.wikipedia.org/wiki/Catherine_Monvoisin) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Gertrud Svensdotter**（德語，10,263 字元）— [原文](https://de.wikipedia.org/wiki/Gertrud_Svensdotter) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Hartger Henot**（德語，10,129 字元）— [原文](https://de.wikipedia.org/wiki/Hartger_Henot) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Dietrich Flade**（德語，9,751 字元）— [原文](https://de.wikipedia.org/wiki/Dietrich_Flade) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Andreas Koch (Pfarrer)**（德語，9,665 字元）— [原文](https://de.wikipedia.org/wiki/Andreas_Koch_%28Pfarrer%29) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Wolf Weber (Darmstadt)**（德語，9,659 字元）— [原文](https://de.wikipedia.org/wiki/Wolf_Weber_%28Darmstadt%29) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Anna Spiekermann**（德語，9,641 字元）— [原文](https://de.wikipedia.org/wiki/Anna_Spiekermann) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Annecke Lange**（德語，9,589 字元）— [原文](https://de.wikipedia.org/wiki/Annecke_Lange) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Mette Deppe**（德語，9,563 字元）— [原文](https://de.wikipedia.org/wiki/Mette_Deppe) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Susanne Weber**（德語，9,459 字元）— [原文](https://de.wikipedia.org/wiki/Susanne_Weber) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Abelke Bleken**（德語，9,266 字元）— [原文](https://de.wikipedia.org/wiki/Abelke_Bleken) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Elisabeth Dabers**（德語，9,264 字元）— [原文](https://de.wikipedia.org/wiki/Elisabeth_Dabers) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Ursula Kemp**（德語，8,993 字元）— [原文](https://de.wikipedia.org/wiki/Ursula_Kemp) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Merga Bien**（德語，8,954 字元）— [原文](https://de.wikipedia.org/wiki/Merga_Bien) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Jeanne des Armoises**（德語，8,928 字元）— [原文](https://de.wikipedia.org/wiki/Jeanne_des_Armoises) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Hedwig Rösemann**（德語，8,873 字元）— [原文](https://de.wikipedia.org/wiki/Hedwig_R%C3%B6semann) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Gerta die Boltin**（德語，8,854 字元）— [原文](https://de.wikipedia.org/wiki/Gerta_die_Boltin) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Aagt Germonts**（德語，8,836 字元）— [原文](https://de.wikipedia.org/wiki/Aagt_Germonts) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Margarethe Seybold**（德語，8,795 字元）— [原文](https://de.wikipedia.org/wiki/Margarethe_Seybold) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Benigna Schultzen**（德語，8,764 字元）— [原文](https://de.wikipedia.org/wiki/Benigna_Schultzen) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Bridget Bishop**（德語，8,755 字元）— [原文](https://de.wikipedia.org/wiki/Bridget_Bishop) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Peter Stump**（德語，8,731 字元）— [原文](https://de.wikipedia.org/wiki/Peter_Stump) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Ottilia Preußing**（德語，8,518 字元）— [原文](https://de.wikipedia.org/wiki/Ottilia_Preu%C3%9Fing) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Bernhard Schwarte**（德語，8,454 字元）— [原文](https://de.wikipedia.org/wiki/Bernhard_Schwarte) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Elisabeth Plainacher**（德語，8,451 字元）— [原文](https://de.wikipedia.org/wiki/Elisabeth_Plainacher) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Henneke von Essen**（德語，8,381 字元）— [原文](https://de.wikipedia.org/wiki/Henneke_von_Essen) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Anne Pedersdotter**（德語，8,314 字元）— [原文](https://de.wikipedia.org/wiki/Anne_Pedersdotter) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Christina Plum**（德語，8,248 字元）— [原文](https://de.wikipedia.org/wiki/Christina_Plum) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Walpurga Hausmännin**（德語，8,206 字元）— [原文](https://de.wikipedia.org/wiki/Walpurga_Hausm%C3%A4nnin) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Lucia Reichmann**（德語，8,139 字元）— [原文](https://de.wikipedia.org/wiki/Lucia_Reichmann) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Alheit Snur**（德語，8,016 字元）— [原文](https://de.wikipedia.org/wiki/Alheit_Snur) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Gesche Köllers**（德語，7,989 字元）— [原文](https://de.wikipedia.org/wiki/Gesche_K%C3%B6llers) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Martha Corey**（德語，7,912 字元）— [原文](https://de.wikipedia.org/wiki/Martha_Corey) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Lucie Kunschopper**（德語，7,879 字元）— [原文](https://de.wikipedia.org/wiki/Lucie_Kunschopper) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Anna zur Steinhorst**（德語，7,868 字元）— [原文](https://de.wikipedia.org/wiki/Anna_zur_Steinhorst) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Elsa aus Kamen**（德語，7,863 字元）— [原文](https://de.wikipedia.org/wiki/Elsa_aus_Kamen) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Petronilla de Meath**（德語，7,827 字元）— [原文](https://de.wikipedia.org/wiki/Petronilla_de_Meath) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Ann Hibbins**（德語，7,810 字元）— [原文](https://de.wikipedia.org/wiki/Ann_Hibbins) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Anna Müller (Opfer der Hexenverfolgung)**（德語，7,697 字元）— [原文](https://de.wikipedia.org/wiki/Anna_M%C3%BCller_%28Opfer_der_Hexenverfolgung%29) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Trine Plumpe**（德語，7,655 字元）— [原文](https://de.wikipedia.org/wiki/Trine_Plumpe) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Anna Margaretha Schmidt**（德語，7,583 字元）— [原文](https://de.wikipedia.org/wiki/Anna_Margaretha_Schmidt) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Catherine Repond**（德語，7,560 字元）— [原文](https://de.wikipedia.org/wiki/Catherine_Repond) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Christine Teipel**（德語，7,530 字元）— [原文](https://de.wikipedia.org/wiki/Christine_Teipel) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Steffen von Niederbergheim**（德語，7,521 字元）— [原文](https://de.wikipedia.org/wiki/Steffen_von_Niederbergheim) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Schad (Familie)**（德語，7,365 字元）— [原文](https://de.wikipedia.org/wiki/Schad_%28Familie%29) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Katharina Güschen**（德語，7,337 字元）— [原文](https://de.wikipedia.org/wiki/Katharina_G%C3%BCschen) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Anna Maßmeyer**（德語，7,311 字元）— [原文](https://de.wikipedia.org/wiki/Anna_Ma%C3%9Fmeyer) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Margarethe Rockemann**（德語，7,285 字元）— [原文](https://de.wikipedia.org/wiki/Margarethe_Rockemann) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Maria Madlener**（德語，7,266 字元）— [原文](https://de.wikipedia.org/wiki/Maria_Madlener) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Agnes Gotter**（德語，7,226 字元）— [原文](https://de.wikipedia.org/wiki/Agnes_Gotter) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Helena Curtens**（德語，7,222 字元）— [原文](https://de.wikipedia.org/wiki/Helena_Curtens) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Neeltje Andries**（德語，7,195 字元）— [原文](https://de.wikipedia.org/wiki/Neeltje_Andries) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Hester Jonas**（德語，7,151 字元）— [原文](https://de.wikipedia.org/wiki/Hester_Jonas) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Elisabeth von Doberschütz**（德語，7,046 字元）— [原文](https://de.wikipedia.org/wiki/Elisabeth_von_Dobersch%C3%BCtz) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Bärbel von Ottenheim**（德語，6,991 字元）— [原文](https://de.wikipedia.org/wiki/B%C3%A4rbel_von_Ottenheim) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Eleanor Cobham**（德語，6,958 字元）— [原文](https://de.wikipedia.org/wiki/Eleanor_Cobham) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Eva Hohenschildin**（德語，6,801 字元）— [原文](https://de.wikipedia.org/wiki/Eva_Hohenschildin) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Lauterfresser**（德語，6,672 字元）— [原文](https://de.wikipedia.org/wiki/Lauterfresser) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Agnes Sampson**（德語，6,595 字元）— [原文](https://de.wikipedia.org/wiki/Agnes_Sampson) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Jaquette de Clause**（德語，6,575 字元）— [原文](https://de.wikipedia.org/wiki/Jaquette_de_Clause) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Maria Pauer**（德語，6,554 字元）— [原文](https://de.wikipedia.org/wiki/Maria_Pauer) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Mette Fliß**（德語，6,462 字元）— [原文](https://de.wikipedia.org/wiki/Mette_Fli%C3%9F) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Maria Holl (Hexenprozess)**（德語，6,454 字元）— [原文](https://de.wikipedia.org/wiki/Maria_Holl_%28Hexenprozess%29) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Elisabeth Strupp**（德語，6,414 字元）— [原文](https://de.wikipedia.org/wiki/Elisabeth_Strupp) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Marytje Arendsdr**（德語，6,342 字元）— [原文](https://de.wikipedia.org/wiki/Marytje_Arendsdr) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Agnes Schmitt**（德語，6,295 字元）— [原文](https://de.wikipedia.org/wiki/Agnes_Schmitt) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Gret Fröhlicher**（德語，6,263 字元）— [原文](https://de.wikipedia.org/wiki/Gret_Fr%C3%B6hlicher) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Anna Witthovedes**（德語，6,236 字元）— [原文](https://de.wikipedia.org/wiki/Anna_Witthovedes) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Margarethe Altenhofen**（德語，6,188 字元）— [原文](https://de.wikipedia.org/wiki/Margarethe_Altenhofen) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Marigje Arriens**（德語，6,139 字元）— [原文](https://de.wikipedia.org/wiki/Marigje_Arriens) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Anna Koldings**（德語，6,121 字元）— [原文](https://de.wikipedia.org/wiki/Anna_Koldings) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Margaretha Hedwig**（德語，6,101 字元）— [原文](https://de.wikipedia.org/wiki/Margaretha_Hedwig) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Entgen Luijten**（德語，6,089 字元）— [原文](https://de.wikipedia.org/wiki/Entgen_Luijten) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Eva Mulner**（德語，6,056 字元）— [原文](https://de.wikipedia.org/wiki/Eva_Mulner) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Katherina Hane**（德語，6,045 字元）— [原文](https://de.wikipedia.org/wiki/Katherina_Hane) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Angéle de la Barthe**（德語，6,021 字元）— [原文](https://de.wikipedia.org/wiki/Ang%C3%A9le_de_la_Barthe) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Elizabeth Clarke**（德語，5,979 字元）— [原文](https://de.wikipedia.org/wiki/Elizabeth_Clarke) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Greta Bünichmann**（德語，5,893 字元）— [原文](https://de.wikipedia.org/wiki/Greta_B%C3%BCnichmann) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Jacoba Jacobsdr. Bam**（德語，5,840 字元）— [原文](https://de.wikipedia.org/wiki/Jacoba_Jacobsdr._Bam) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Marketta Punasuomalainen**（德語，5,769 字元）— [原文](https://de.wikipedia.org/wiki/Marketta_Punasuomalainen) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Dorothee Elisabeth Tretschlaff**（德語，5,698 字元）— [原文](https://de.wikipedia.org/wiki/Dorothee_Elisabeth_Tretschlaff) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Agnes Olmans**（德語，5,616 字元）— [原文](https://de.wikipedia.org/wiki/Agnes_Olmans) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Henrich Stoffregen**（德語，5,616 字元）— [原文](https://de.wikipedia.org/wiki/Henrich_Stoffregen) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Anna Coesters**（德語，5,615 字元）— [原文](https://de.wikipedia.org/wiki/Anna_Coesters) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Margret Vögtlin**（德語，5,552 字元）— [原文](https://de.wikipedia.org/wiki/Margret_V%C3%B6gtlin) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Katharina Paldauf**（德語，5,531 字元）— [原文](https://de.wikipedia.org/wiki/Katharina_Paldauf) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Anna Landmann**（德語，5,521 字元）— [原文](https://de.wikipedia.org/wiki/Anna_Landmann) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Jón Guðmundsson (Gelehrter)**（德語，5,445 字元）— [原文](https://de.wikipedia.org/wiki/J%C3%B3n_Gu%C3%B0mundsson_%28Gelehrter%29) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Margery Jourdemain**（德語，5,424 字元）— [原文](https://de.wikipedia.org/wiki/Margery_Jourdemain) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Grietgen Willems**（德語，5,399 字元）— [原文](https://de.wikipedia.org/wiki/Grietgen_Willems) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Andreas Schweigel (Vogt)**（德語，5,275 字元）— [原文](https://de.wikipedia.org/wiki/Andreas_Schweigel_%28Vogt%29) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Arndt Bottermann**（德語，5,235 字元）— [原文](https://de.wikipedia.org/wiki/Arndt_Bottermann) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Katharina Steb**（德語，5,211 字元）— [原文](https://de.wikipedia.org/wiki/Katharina_Steb) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Maria Grießer**（德語，5,084 字元）— [原文](https://de.wikipedia.org/wiki/Maria_Grie%C3%9Fer) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
+- [ ] **Mechteld ten Ham**（德語，5,078 字元）— [原文](https://de.wikipedia.org/wiki/Mechteld_ten_Ham) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
