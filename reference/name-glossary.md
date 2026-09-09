@@ -2,7 +2,153 @@
 
 彙整各條目「專有名詞對照」一節的內容，依條目排列。本表僅供本資料庫使用，與遊戲規則術語庫 `glossary.json` 各自獨立。回到 [主索引](INDEX.md)。
 
-共 2430 條名詞。
+共 3894 條名詞。
+
+## [十字路口](concepts/carrefour-folklore.md)
+
+| 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
+| --- | --- | --- | --- |
+| carrefour | — | 十字路口 | 本條目主題 |
+| carroi／carroir | — | 岔口 | 貝里方言中鄉間孤立的十字路口 |
+| Ἑκάτη／Hécate | Hekate | 黑卡蒂 | 十字路口與魔法的女神 |
+| Βριμώ／Brimo | Brimo | 布里莫 | 黑卡蒂的別號，意為「咆哮者」 |
+| Diana triformis | — | 三形態的狄安娜 | 狄安娜、露娜與黑卡蒂合為一體的三重女神 |
+| Ἐνοδία／Énodie | Enodia | 艾諾狄婭 | 道路與十字路口的女神，常與黑卡蒂相混 |
+| Ἑρμῆς／Hermès | Hermes | 赫密士 | 旅人之神，十字路口堆石獻給他 |
+| hermès | — | 赫密士柱 | 方柱狀神像，柱頂神首、柱身刻男性象徵 |
+| trivium | — | 三岔路 | 三路交會處 |
+| compitum | — | 街口 | 拉丁語的十字路口 |
+| Lares Compitales | — | 街口拉爾神 | 守護街口的家宅神 |
+| Compitalia | — | 街口節 | 祭祀街口拉爾神的節日 |
+| haruspices vicani | — | 十字路口的腸卜師 | 羅馬街頭的江湖占卜者 |
+| Biviae／Triviae／Quadriviae | — | 比維埃／特里維埃／夸德里維埃 | 分守二、三、四岔路口的高盧女神 |
+| Épona | Epona | 埃波娜 | 高盧的馬與騾女神 |
+| Chimata-No-Kami | Chimata-no-Kami | 岐神 | 日本掌管道路交會與岔道的神 |
+| Papa Legba／Mèt Kalfou | — | 爸爸萊格巴／十字路口之主 | 伏都的十字路口羅瓦與其佩特羅對應者 |
+| Ayizan | — | 阿伊贊 | 海地看守市集與十字路口的伏都女神 |
+| poule noire | — | 黑母雞 | 十字路口召喚魔鬼的核心祭品 |
+| Georgeon | — | 喬治翁 | 貝里方言中對魔鬼的稱呼 |
+| chaume-pelaïe | — | 禿殘茬地 | 草木不生之處，被視為巫魔會的痕跡（另見〈巫魔會的地點〉） |
+| carroi Marlou | — | 馬爾魯岔口 | 1583 年案發地，字面意為「惡狼十字路口」 |
+| carroi Billeron | — | 比勒龍岔口 | 1616 年案發地 |
+| carroi des Pas-Pressés | — | 不趕路者岔口 | 安德爾省的領主行刑地，鬼魂於降臨期在此起舞 |
+| Freikugeln | — | 魔彈 | 提洛獵人在鬧鬼十字路口熔鑄的百發百中之彈 |
+| Iele | — | 耶勒 | 羅馬尼亞的惡意仙女，在十字路口跳舞 |
+| Nozéganed | — | 夜之小人 | 莫爾比昂的妖精 |
+| Mandagot | — | 曼達戈 | 加斯科涅的致富幻獸 |
+| Serpinette | — | 塞爾皮內特 | 吉尼揚一帶形如大貓或綿羊的路口異象 |
+| Tyburn | — | 泰伯恩 | 倫敦主要刑場，位於兩條羅馬古道交會處 |
+| Marie-Josephte Corriveau | — | 瑪麗—若瑟特·科里沃 | 1753 年魁北克曝屍案主角，後被比作女巫 |
+| Robert Johnson | — | 羅伯特·強生 | 美國藍調吉他手，十字路口遇魔傳說的主角 |
+
+## [蟾蜍](concepts/crapaud-folklore.md)
+
+| 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
+| --- | --- | --- | --- |
+| crapaud | — | 蟾蜍 | 本條目主題 |
+| φρύνη／φρῦνος | phryne／phrynos | 雌蟾蜍／雄蟾蜍 | 古希臘語對蟾蜍的稱呼 |
+| βάτραχος | batrachos | 青蛙 | 古希臘語，與蟾蜍區分 |
+| Ἑκάτη | Hekate | 黑卡蒂 | 奧菲斯讚歌稱其為「雌蟾蜍」的地府女神 |
+| Βαυβώ | Baubo | 鮑玻 | 狄蜜特的侍女，被認同為雌蟾蜍 |
+| Φρύνη | Phryne | 芙里尼 | 名妓姆涅薩瑞特的綽號，即「雌蟾蜍」 |
+| Ἥκετ／Heqet | Heqet | 赫克特 | 埃及蛙首女神，護佑分娩 |
+| Vox in Rama | — | 《拉瑪之聲》 | 1233 年額我略九世詔書，蟾蜍在其開頭出場 |
+| serment de crapaud | — | 蟾蜍誓 | 新入門女巫獲配蟾蜍時所立之誓 |
+| familier／esprit-familier | — | 使魔／使魔之靈 | 隨侍巫者的惡魔動物 |
+| Mirmilots | — | 米爾米洛 | 瓦盧瓦地區女巫為其蟾蜍取的名字 |
+| petit Diableteaux | — | 小魔崽 | 17 世紀一名法國女巫被控持有的蟾蜍形使魔 |
+| Toad-Witches | — | 蟾蜍人 | 英格蘭劍橋郡自我入門的巫者 |
+| os crapaud | — | 蟾蜍骨 | 蟾蜍人力量的來源，須以特定儀式取得 |
+| crapaudine | — | 蟾石 | 相傳長在蟾蜍頭中的寶石，實為石化魚齒 |
+| baume tranquille | — | 安神膏 | 含蟾蜍的官方藥方，「安神神父」所創 |
+| bufotoxine | — | 蟾毒素 | 蟾蜍腮腺分泌的毒素 |
+| onguent de vol | — | 飛行藥膏 | 塗抹後飛往巫魔會的膏藥 |
+| dagyde | — | 魘鎮偶 | 魘鎮術中代表受害者的人偶 |
+| ex-voto | — | 還願物 | 亞爾薩斯的金屬蟾蜍，象徵子宮 |
+| Jean Bodin | — | 讓·博丹 | 主張逕行追訴養蟾蜍者的法學家 |
+| María Muñoz | — | 瑪麗亞·穆尼奧斯 | 1530 年昆卡案被告 |
+| Giulio Cesare Vanini | — | 朱利歐·凱撒·瓦尼尼 | 家中搜出活蟾蜍的哲學家，1619 年在土魯斯處決 |
+| Collin de Plancy | — | 科蘭·德·普朗西 | 《地獄辭典》作者，詳述「魔鬼的洗禮」 |
+| Éliphas Lévi | — | 埃利法斯·萊維 | 《高等魔法的教條與儀式》作者 |
+| Aleister Crowley | — | 阿萊斯特·克勞利 | 《第七十號書》詳述蟾蜍使魔儀式 |
+| Michael Maier | — | 米夏埃爾·邁爾 | 煉金術士，《逃亡的亞塔蘭妲》作者 |
+| Victor Hugo | — | 維克多·雨果 | 〈蟾蜍〉一詩作者，扭轉了蟾蜍的形象 |
+
+## [狄安娜](concepts/diana.md)
+
+| 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
+| --- | --- | --- | --- |
+| Diana | — | 狄安娜 | 羅馬的狩獵、月亮與生產女神 |
+| dius | — | 明亮的、發光的 | 拉丁語形容詞，狄安娜之名的語源 |
+| Iana／Deana／Diviana | — | 雅娜／狄阿娜／狄維阿娜 | 名字的異體 |
+| Dianus | — | 狄阿努斯 | 依構詞推定的男性對應者，是否即雅努斯有爭議 |
+| Artemis／Ἄρτεμις | Artemis | 阿蒂蜜絲 | 希臘的對應女神 |
+| Hekate／Ἑκάτη | Hekate | 黑卡蒂 | 岔路、法術與夜的女神，其火炬成為狄安娜的屬性 |
+| trivium | — | 三岔路 | 三條路交會處，黑卡蒂的所在 |
+| Trivia | — | 特里維亞 | 自奧古斯都時代起狄安娜的名號，意為「三岔路的」 |
+| lacus triviae | — | 三岔路之湖 | 維吉爾對內米湖的稱呼 |
+| Diana Nemorensis | — | 林中的狄安娜 | 內米湖畔聖所的祭祀名 |
+| speculum Dianae | — | 狄安娜之鏡 | 內米湖的別稱 |
+| Pomerium | — | 聖界 | 羅馬宗教意義上的城市界線 |
+| Lucina | — | 盧琪娜 | 狄安娜與朱諾共有的助產別名，意為「帶來光者」 |
+| obstetrix | — | 助產者 | 狄安娜的職能之一 |
+| Interpretatio Romana | — | 羅馬式詮解 | 以羅馬神名指稱外族神祇的作法；金茲堡用以解釋文獻中的「狄安娜」 |
+| Canon episcopi | — | 主教教規 | 906 年見於雷吉諾書中的教會法條文 |
+| Regino von Prüm | — | 普呂姆的雷吉諾 | 《論教會會議事務與教會紀律》作者 |
+| Burchard von Worms | — | 沃姆斯的布爾夏德 | 《教令書》編者，於狄安娜之外增入希羅底 |
+| Herodias | — | 希羅底 | 新約人物，被與狄安娜並列為夜行隊伍之主 |
+| Carlo Ginzburg | — | 卡洛·金茲堡 | 義大利史家，質疑文獻中「狄安娜」之名的真實性 |
+| Bensozia／Bona Socia | — | 本索齊亞／善良的女伴 | 1390 年審判檔案中出現的名字 |
+| Madona Horiente | — | 東方夫人 | 同一檔案中的名字，原文拼法照錄 |
+| Beltramino da Cernuscullo | — | 貝爾特拉米諾·達·切爾努斯庫洛 | 記下「狄安娜的遊戲」一語的裁判官，原文拼法照錄 |
+| Nikolaus von Kues | — | 庫薩的尼古拉 | 其講道記有婦女自承屬「狄安娜的社群」 |
+| Richella | — | 里凱拉 | 那些婦女以義大利語對女神的稱呼，意為「財富之母」 |
+| Abundia／Dame Habonde | — | 阿邦迪亞／豐饒夫人 | 中世紀傳說形象，上溯羅馬的阿邦丹提亞 |
+| Wilde Jagd | — | 野獵 | 夜間狂獵的日耳曼傳說，狄安娜被指為領隊 |
+| Johannes Herolt | — | 約翰內斯·赫羅特 | 道明會講道者，記下「Unholde 或那位有福的夫人」之說 |
+| Unholde | — | 惡靈、妖婆 | 德語民間對此類夜行者的稱呼 |
+| jana／janára／gene／šana | — | 雅娜／雅娜拉／熱訥／莎娜 | 古托斯卡尼、薩丁尼亞、那不勒斯、古法、阿斯圖里亞斯等語中「女巫」的稱呼 |
+
+## [召魔術](concepts/goezia.md)
+
+| 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
+| --- | --- | --- | --- |
+| goezia／goetia／gŏētīa | goezia | 召魔術 | 本條目主題，以召請與召喚惡魔為核心的魔法實作 |
+| γοητεία | goēteia | 召魔術 | 古希臘語原詞，意為「咒語」 |
+| γοης | goēs | 法師、召魔者 | 原指占卜者、法師、療者與先知 |
+| γοητες | goētes | 呻吟的 | 擬聲派生，指念咒時的哀鳴聲 |
+| θεουργία | theourgia | 通神術 | 「高階魔法」，以儀式使神性下降；與召魔術相對 |
+| τελεστική | telestikē | 儀式技藝 | 使神性進入無生命之物的儀式手法，「儀式魔法」一詞由此而來 |
+| μάγος／μαγεία | magos／mageia | 法師／魔法 | 自波斯語 maguš 借入希臘語，轉借後帶負面義 |
+| μαγεία (lat. magia) | mageia | 魔法 | 拉丁語 magia 的希臘語來源 |
+| Defixiones | — | 詛咒板 | 刻有詛咒的鉛板或蠟板，埋入地下 |
+| maleficium | — | 惡咒 | 中世紀法律術語，指意圖加害的魔法 |
+| invocator demonum | — | 召喚惡魔者 | 中世紀文獻對真正召魔者的稱呼，與低階女巫相區別 |
+| veneficium | — | 下毒／害人魔法 | 拉丁語，兼指兩義 |
+| Tempestarii | — | 暴風術士 | 以召請精靈控制天候的巫者 |
+| Ἐκάτη／Ecate | Hekate | 黑卡蒂 | 詛咒板上反覆出現的魔法與冥界女神 |
+| Ereškigal | Ereshkigal | 埃列什基伽勒 | 蘇美冥界女神，與黑卡蒂融合 |
+| Quadrato del Sator | — | 薩托方陣 | 羅馬至中世紀通用的辟邪回文方陣 |
+| Piccola Chiave di Salomone／Lemegeton | — | 《所羅門的小鑰匙》／《雷蒙蓋頓》 | 17 世紀魔法書，其第一部即《召魔之藝》 |
+| Ars Goetia | — | 《召魔之藝》 | 載有七十二魔神的部分 |
+| Clavicula Salomonis | — | 《所羅門之鑰》 | 另一部核心魔法書 |
+| Pseudomonarchia Daemonum | — | 《偽惡魔君主國》 | 魏爾所編惡魔名單，《召魔之藝》的前身 |
+| Liber Officiorum Spirituum | — | 《靈之職司之書》 | 《偽惡魔君主國》所本的更早名單 |
+| Sefer Raziel HaMalakh | Sefer Raziel HaMalakh | 《拉結爾天使之書》 | 希伯來卡巴拉魔法書，在阿方索十世宮廷譯為拉丁語 |
+| Shemhamphorasch | Shemhamphorasch | 神名字母 | 七十二天使之名，魯德版用以制衡七十二魔神 |
+| experimentum | — | 實驗 | 魔法書中一套完整的儀式配方 |
+| Plotino | — | 普羅提諾 | 新柏拉圖主義創始者 |
+| Porfirio | — | 波菲利 | 於《論靈魂的回歸》中區分通神術與召魔術 |
+| Giamblico | — | 楊布利科斯 | 通神術士，主張通神術不強迫神祇 |
+| Giuliano il Teurgo | — | 通神術士尤利安 | 《迦勒底神諭》的作者 |
+| Ugo di San Vittore | — | 聖維克多的雨果 | 《求學指南》作者，惡咒法學編纂的奠基者 |
+| Isidoro di Siviglia | — | 塞維利亞的依西多祿 | 最早勾勒召魔術與召亡術連結的教父 |
+| Arioli | — | 阿里奧利 | 依西多祿所指專事召魔與拜魔的法師 |
+| Michele Scotto | — | 米凱萊·斯科托 | 腓特烈二世宮廷占星師，《導論之書》作者 |
+| Richard Kieckhefer | — | 理查·基克赫費 | 宗教史家，本條儀式統計的依據 |
+| Eliphas Lévi | — | 埃利法斯·萊維 | 19 世紀神祕學者，魔法復興的關鍵人物 |
+| Aleister Crowley | — | 阿萊斯特·克勞利 | 1904 年編訂《召魔之藝》英語修訂版 |
+| Thelema | — | 泰勒瑪 | 克勞利的魔法哲學，中心在切法盧 |
 
 ## [魔法書](concepts/grimoire.md)
 
@@ -137,6 +283,182 @@
 | Christine Teipel | — | 克莉絲汀·泰佩爾 | 1630 年以九歲之齡被處決的女孩 |
 | Anna Maria Sterck | — | 安娜·瑪麗亞·施特爾克 | 1679 年在錫格馬林根被斬首的上施瓦本女孩 |
 
+## [獵巫](concepts/hexenverfolgung.md)
+
+| 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
+| --- | --- | --- | --- |
+| Hexenverfolgung | — | 獵巫 | 德語，字面為「對女巫的追訴、迫害」 |
+| Hexenwahn | — | 女巫妄想 | 德語，指整個社會層次的女巫恐慌 |
+| Hexenprozess | — | 女巫審判 | 德語；瑞典語作 häxprocess／trolldomsprocess |
+| witch hunt | — | 獵巫 | 英語版條目名，兼含隱喻用法 |
+| Häxprocess | — | 女巫審判 | 瑞典語版條目名 |
+| häxjakt | — | 獵巫 | 瑞典語 |
+| Schadenzauber | — | 害人法術 | 德語；拉丁文作 maleficium，瑞典語同用 maleficium |
+| maleficium | — | 害人法術 | 拉丁文，指造成實際損害的法術 |
+| sortilegium | — | 占卜迷信 | 拉丁文，瑞典語版三分法之一 |
+| diabolism | — | 魔鬼崇拜 | 瑞典語版三分法之一，含魔鬼契約與安息日 |
+| veneficium | — | 下毒／毒藥法術 | 拉丁文，兼指下毒與以藥致害 |
+| crimen exceptum | — | 例外犯罪 | 拉丁文，據此規避刑法典對刑求與證據的限制 |
+| Teufelspakt | — | 魔鬼契約 | 德語；瑞典語作 djävulspakt |
+| Teufelsbuhlschaft | — | 魔鬼淫合 | 德語，指與魔鬼性交 |
+| Hexensabbat | — | 女巫安息日 | 德語；瑞典語作 häxsabbat |
+| Blåkulla | — | 藍山 | 瑞典民間信仰中女巫安息日的所在 |
+| Hexenmal | — | 女巫記號 | 德語；瑞典語作 djävulsmärke |
+| Besagung | — | 供出同謀 | 德語，刑求下指認他人，連鎖審判的機制 |
+| Territion | — | 恐嚇 | 拉丁—德語，訊問三階段的第二階段，展示刑具 |
+| peinliche Befragung | — | 痛苦訊問 | 德語，即刑求訊問；peinlich 古義為「痛苦的」 |
+| gütliche Befragung | — | 和善訊問 | 德語，訊問三階段的第一階段 |
+| Peinkleid／Marterkittel | — | 受刑衣／拷問罩衫 | 德語，受刑者在刑求時穿著的衣物 |
+| Hexenprobe | — | 女巫試驗 | 德語，含水審、火審、針刺、淚水與秤重五種 |
+| Wasserprobe（Hexenbad） | — | 水審（女巫浴） | 德語；瑞典語作 vattenprovet |
+| Hexenturm | — | 女巫塔 | 德語，多半實為一般監獄塔或城牆塔 |
+| Kettenprozess | — | 連鎖審判 | 德語，由指認滾出的一連串審判 |
+| Halsgerichtsordnung | — | 刑事法庭令（《卡洛林納刑法典》） | 德語，查理五世 1532 年的帝國刑法典 |
+| Kleine Eiszeit | — | 小冰期 | 德語 |
+| Konfessionalisierung | — | 宗派化 | 德語，近世宗派界線制度化的過程 |
+| Summis desiderantes affectibus | — | 《以至高之願》 | 拉丁文，依諾增爵八世 1484 年的女巫詔書 |
+| Malleus Maleficarum／Hexenhammer | — | 《女巫之槌》 | 拉丁文／德語，1486／87 年的獵巫手冊 |
+| Cautio Criminalis | — | 《刑事審慎》 | 拉丁文，施佩 1631 年反對女巫審判的著作 |
+| De praestigiis daemonum | — | 《論惡魔的幻術》 | 拉丁文，魏爾 1563 年著作 |
+| De crimine magiae | — | 《論巫術罪》 | 拉丁文，托馬修斯 1701 年著作 |
+| galdur | — | 加爾杜爾（咒語） | 冰島語，可分白與黑 |
+| fjölkungi | — | 費爾昆基（超自然知識） | 冰島語 |
+| porcha | porcha | 害人法術 | 俄語 порча，相當於西歐的 maleficium |
+| vedun／vedma | vedun / vedma | 男術士／女巫 | 俄語 ведун／ведьма |
+| dukun | — | 杜昆（巫醫） | 印尼語 |
+| dayan | — | 達揚（女巫） | 印地語，印度獵巫中對被指控女性的稱呼 |
+| påskkärring | — | 復活節老太婆 | 瑞典語，濯足節與復活節前夕的扮裝習俗 |
+| Wolfgang Behringer | — | 沃夫岡·貝林格 | 德語版最常引用的獵巫史學者 |
+| Gerd Schwerhoff | — | 格爾德·施韋爾霍夫 | 德語版受害人數估計的依據 |
+| Gustav Henningsen | — | 古斯塔夫·亨寧森 | 丹麥史學家，估計約五萬起處決 |
+| Julian Goodare | — | 朱利安·古達爾 | 英語版性別比例統計的依據 |
+| H. C. Erik Midelfort | — | 米德爾福特 | 美國學者，強調民眾主導的研究取徑 |
+| Gottfried Christian Voigt | — | 戈特弗里德·克里斯提安·福伊格特 | 「九百萬受害者」錯誤數字的源頭 |
+
+## [褻瀆聖體指控](concepts/hostienfrevel.md)
+
+| 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
+| --- | --- | --- | --- |
+| Hostienfrevel | — | 褻瀆聖體 | 本條目主題；Frevel 意為褻瀆、惡行 |
+| Hostienschändung | — | 玷污聖體 | 同義詞；案件名多用此形，如 Sternberger Hostienschänderprozess |
+| Hostie | — | 聖體、聖體餅 | 彌撒中祝聖的無酵麵餅 |
+| konsekrierte／geweihte Hostie | — | 已祝聖的聖體 | konsekrieren 與 weihen 皆指祝聖 |
+| eucharistische Gestalten | — | 聖體形相 | 感恩聖事中餅與酒的外在形相 |
+| Transsubstantiation | — | 變體論 | 1215 年成為教義，餅酒轉變為基督的體血 |
+| Realpräsenz | — | 實體臨在 | 基督真實臨在於祭壇聖事之中 |
+| Abendmahlsstreit | — | 聖餐之爭 | 11 世紀關於聖體臨在方式的神學爭論 |
+| Sakrileg | — | 褻瀆聖物 | 教會法上的罪名 |
+| Tatstrafe der Exkommunikation | — | 絕罰的自科之罰 | 拉丁文作 poena latae sententiae，罪成即科 |
+| Antijudaismus | — | 反猶太教主義 | 以宗教為根據的敵視猶太教立場 |
+| Gottesmordvorwurf／Christusmordvorwurf | — | 弒神指控／殺害基督指控 | 自 2 世紀起在基督宗教中散布 |
+| Ritualmordlegende | — | 儀式殺人傳說 | 較褻瀆聖體傳說早約半世紀出現 |
+| peinliche Befragung | — | 刑求訊問 | peinlich 源自 Pein（痛苦），即拷問取供 |
+| Scheiterhaufen | — | 火刑柱、柴堆 | 焚燒受刑人的柴堆 |
+| Urfehde | — | 不復仇誓約 | 獲釋者須立誓不為所受待遇尋仇 |
+| Bluthostie | — | 血聖體 | 展示於教堂中的所謂流血聖體 |
+| Blutwunder | — | 血奇蹟 | 德語版「另見」所列的相關條目 |
+| Leidenswerkzeuge | — | 受難刑具 | 耶穌受難所用器具；折磨聖體的工具被說成其仿製 |
+| Deggendorfer Gnad | — | 代根多夫的恩寵 | 代根多夫的朝聖活動名稱，1992 年停辦 |
+| Do bart Gotes Laichenam funden | — | 此處尋獲了上帝的聖體 | 1360 年代根多夫墓教堂的建築銘文，中古德語 |
+| Rintfleisch | — | 林特弗萊施 | 1298 年屠殺的發動者，家道中落的騎士 |
+| König Armleder／Armledererhebung | — | 阿姆萊德王／阿姆萊德起事 | 1336—1338 年的迫害浪潮及其首領 |
+| Judenschläger | — | 打猶太人者 | 阿姆萊德起事參與者的自稱 |
+| Wiener Gesera | — | 維也納迫害 | 1420／21 年奧地利公國猶太社群遭消滅 |
+| de non tolerandis Judaeis | — | 不容猶太人之特權 | 拉丁文；1455 年布雷斯勞獲頒 |
+| Mesnerin | — | 女教堂司事 | 恩斯案中被控交出聖體者 |
+| Sühnekirche St. Salvator | — | 贖罪教堂聖薩爾瓦多 | 帕紹以猶太會堂建材所建 |
+| Blutkirche | — | 血教堂 | 伊普霍芬的教堂，祭壇上的洞以金屬蛛網覆蓋 |
+| Corporis-Christi-Bruderschaft | Corporis Christi | 聖體兄弟會 | 伊普霍芬 1730 年起成立 |
+| Fünfwundenverehrung | — | 五傷敬禮 | 對基督五處傷口的敬禮 |
+| Nikolaus von Kues | — | 庫薩的尼古拉 | 教宗使節，1450 年試圖禁絕此類聖體崇拜 |
+| Johannes Capistrano | — | 卡皮斯特拉諾的若望 | 方濟會士，德語版稱其為「猶太人屠夫」 |
+| Johannes von Tilrode | — | 蒂爾羅德的約翰 | 記載 1290 年巴黎傳說的編年史家 |
+| Paschasius Radbertus／Gezo von Tortona | — | 帕斯卡修斯·拉德貝圖斯／托爾托納的格佐 | 中世紀早期聖體傳說的傳述者 |
+| Sigebert von Gembloux | — | 金布盧的西格伯特 | 《世界編年史》作者，把聖像傳說移置於 765 年 |
+| Israel Yuval | — | 以色列·尤瓦爾 | 引文出處，《在你腹中的兩個民族》（2007） |
+| Manfred Eder／Manfred Müller | — | 曼弗雷德·艾德／曼弗雷德·穆勒 | 促成 1992 年停辦朝聖的論文作者／1993 年設碑的主教 |
+| Willy Cohn | — | 威利·科恩 | 1926 年查出布雷斯勞查抄檔案的史家 |
+| schwarze Messe | — | 黑彌撒 | 所謂女巫以竊取聖體所行的作法 |
+| Hexerei | — | 巫術 | 德語版導言中與猶太人並列的另一類被指控者 |
+
+## [巫魔會的地點](concepts/lieu-du-sabbat.md)
+
+| 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
+| --- | --- | --- | --- |
+| lieu du sabbat | — | 巫魔會的地點 | 本條目主題 |
+| sabbat | — | 巫魔會 | 巫者的集會 |
+| carrefour | — | 十字路口 | 條目所列的核心地點類型之一 |
+| carroi | — | 岔口 | 貝里方言中的「十字路口」 |
+| carroi Billeron | — | 比勒龍岔口 | 1616 年貝里巫術審判的地點 |
+| carroi Marlou | — | 馬爾魯岔口 | 1583 年貝里巫術審判的地點 |
+| lande | — | 荒原 | 荒漠般的曠野，傳說中的巫魔會地點 |
+| mégalithe | — | 巨石 | 新石器時代的巨石建築 |
+| chaume-pelaïe | — | 禿殘茬地 | 民間對草木不生之地的稱呼，被視為巫魔會的痕跡 |
+| battre l'eau | — | 擊水 | 以擊打水面求得冰雹的法術 |
+| onguent | — | 藥膏 | 塗抹後飛往巫魔會的膏藥 |
+| crapaud | — | 蟾蜍 | 選址鄰近死水的理由 |
+| Hécate | Hekate | 黑卡蒂 | 十字路口的女神，同時也是魔法的女神 |
+| Jacques Collin de Plancy | — | 雅克·科蘭·德·普朗西 | 《地獄辭典》作者 |
+| Dictionnaire infernal | — | 《地獄辭典》 | 1818 年初版的惡魔學彙編 |
+| Maurice Crampon | — | 莫里斯·克朗蓬 | 皮卡第民俗研究者 |
+| Albert Meyrac | — | 阿爾貝·梅拉克 | 阿登民俗研究者 |
+| Paul Sébillot | — | 保羅·塞比洛 | 法國民俗學者 |
+| Picardie | — | 皮卡第 | 法國北部地區，巫魔會傳統採錄最密集之一 |
+| Berry | — | 貝里 | 法國中部地區，條目稱之為「巫者之鄉」 |
+| Hailles | — | 艾勒 | 皮卡第村落，居民被稱為「艾勒的巫者」 |
+| Tricot | — | 特里科 | 瓦茲省村落，以十字路口為巫魔會地點 |
+| prieuré de la Mouille | — | 拉穆伊修道院 | 條目所舉極罕見的宗教處所案例 |
+| akelarre | — | 阿克拉雷 | 巴斯克語的巫魔會，見〈蘇加拉穆爾迪女巫審判〉 |
+
+## [血祭誹謗（Ritualmordlegende）](concepts/ritualmordlegende.md)
+
+| 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
+| --- | --- | --- | --- |
+| Ritualmordlegende | — | 血祭誹謗、儀式殺人傳說 | 本條目標題；指把儀式殺人加諸受歧視少數群體的傳說 |
+| Ritualmordvorwurf／Ritualmordanklage | — | 血祭指控／血祭控訴 | 前者指一般性的指責，後者指司法上的控告 |
+| Blutanklage／Blutbeschuldigung／Blutverleumdung | — | 血之指控／血之控訴／血之誹謗 | 德語同義詞；Blutbeschuldigung 為 1235 年富爾達事件之後阿什肯納茲猶太人的用語 |
+| blood libel | — | 血之誹謗 | 英語通用說法，與 Blutbeschuldigung 對應 |
+| Hostienfrevel | — | 褻瀆聖體 | 1215 年變體論定為教義後與血祭指控並行的另一項指控 |
+| Transsubstantiationslehre | — | 變體論 | 第四次拉特朗公會議（1215）所定的聖體教義 |
+| Mazze（複數 Mazzen） | — | 無酵餅 | 逾越節食用的未發酵薄餅，指控稱其中摻有基督徒之血 |
+| Pessach | — | 逾越節 | 猶太節期；血祭指控多在此前後提出 |
+| Purim | — | 普珥節 | 猶太節期；部分指控與此節相連 |
+| Karfreitag／Karwoche | — | 受難日／聖週 | 基督教節期；指控稱儀式殺人行於受難日 |
+| Gottesmord | — | 弒神 | 指全體猶太人殺害耶穌的指控，血祭傳說的神學前提 |
+| Substitutionstheologie | — | 替代神學 | 主張教會取代以色列作為蒙揀選子民的神學 |
+| Gezerot Tatnu | — | 塔特努之難 | 1096 年萊茵蘭猶太人受迫害事件的希伯來語稱呼 |
+| Kiddusch Haschem | — | 聖化神名 | 猶太殉道神學用語，指為信仰赴死 |
+| Sicut Judaeis | — | 《一如猶太人》 | 卡利克斯特二世 1120 年的保護詔書，屢經後任重申 |
+| Schutzbulle | — | 保護詔書 | 教宗禁止殺害與迫害猶太人的敕書 |
+| Beatus Andreas | — | 《真福安德肋》 | 承認林恩的安德爾崇拜的教宗詔書 |
+| Nostra Aetate | — | 《我們的時代》 | 1965 年梵二宣言，與弒神論決裂 |
+| Thomas von Monmouth | — | 蒙茅斯的托馬斯 | 諾里奇的本篤會修士，1150 年寫成起源傳說 |
+| William von Norwich | — | 諾里奇的威廉 | 1144 年陳屍的男孩，第一起基督教血祭傳說的對象 |
+| Hugh von Lincoln | — | 林肯的休 | 1255 年案；喬叟與馬修·帕里斯使其廣為流傳 |
+| Simon von Trient | — | 特倫特的西蒙 | 1475 年案；1588 年獲准崇拜，1965 年被撤銷 |
+| Anderl von Rinn／Judenstein | — | 林恩的安德爾／猶太石 | 提洛的崇拜與其朝聖地，1961 年被教宗禁止 |
+| Werner von Oberwesel | — | 上韋瑟爾的維爾納 | 1287／88 年案；1965 年自天主教聖人曆除名 |
+| Rudolf von Bern | — | 伯恩的魯道夫 | 1294 年伯恩案的所謂受害者 |
+| Endingen am Kaiserstuhl | — | 恩德根 | 1470 年案；審問筆錄顯示刑求下更換供詞的過程 |
+| Hans Fründ | — | 漢斯·弗倫德 | 琉森編年史家，約 1431 年首度羅列女巫安息日的內容 |
+| Hexensabbat | — | 女巫安息日 | 名稱取自安息日 Schabbat，母題出自反猶想像 |
+| Synagoge（指 Hexentanz） | — | 猶太會堂（指女巫舞會） | 以會堂一詞稱女巫聚會，同屬借自反猶指控的用語 |
+| Teufelspakt／Hexensalbe／Schadenzauber | — | 魔鬼契約／女巫膏／害人法術 | 弗倫德所列女巫安息日內容中的三項 |
+| Katharer／Waldenser | — | 卡特里派／瓦爾多派 | 13 世紀起被宗教裁判所加諸同類指控的異端 |
+| Judensau | — | 猶太母豬 | 中世紀反猶雕刻母題，常與所謂血祭受害者並置 |
+| Johannes von Capistrano | — | 卡皮斯特拉諾的約翰 | 1451 年起重提血祭與褻瀆聖體指控的宗教裁判官 |
+| Johannes Hinderbach | — | 約翰內斯·辛德巴赫 | 特倫特主教，1475 年案的主導者 |
+| Andreas Osiander | — | 安德烈亞斯·奧西安德 | 1540 年以匿名著作駁斥血祭指控的改革者 |
+| Damaskusaffäre | — | 大馬士革事件 | 1840 年案；動員西歐與北美輿論，影響延續至今 |
+| August Rohling／Der Talmudjude | — | 奧古斯特·羅林／《塔木德猶太人》 | 1871 年的抄襲之作，1899 年譯成阿拉伯文後長期被援引 |
+| Hermann Leberecht Strack | — | 赫爾曼·萊貝雷希特·施特拉克 | 猶太學研究者，1891 年起持續發表反駁血迷信的著作 |
+| Mendel Beilis | — | 門德爾·貝里斯 | 1911—1913 年基輔案被告，獲判無罪 |
+| Der Stürmer | — | 《衝鋒報》 | 施特萊歇爾發行的納粹煽動報刊，長期刊布血祭謠言 |
+| Hellmut Schramm | — | 黑爾穆特·施拉姆 | 1943 年小冊《猶太血祭謀殺》作者，希姆萊配發給特別行動隊 |
+| Pasque di sangue | — | 《血的逾越節》 | 托阿夫 2007 年著作，引發國際抗議後改版 |
+| Adrenochrom | — | 腎上腺素紅 | QAnon 說法中所謂自受虐兒童身上抽取的回春劑 |
+| Satanic Panic | — | 撒但恐慌 | 1960 至 1995 年美國的儀式虐童恐慌，QAnon 的先驅 |
+
 ## [愛麗絲·凱特勒](regions/01-british-isles/alice-kyteler.md)
 
 | 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
@@ -234,6 +556,44 @@
 | Kuno Meyer | — | 庫諾·邁爾 | 德國凱爾特語文學者，〈哀歌〉的編校者 |
 | Donald Alexander Mackenzie | — | 唐納德·亞歷山大·麥肯齊 | 20 世紀民俗學者，「冬之女王貝拉」之名的提出者 |
 
+## [伊莉莎白·弗朗西斯](regions/01-british-isles/elizabeth-frauncis.md)
+
+| 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
+| --- | --- | --- | --- |
+| Elizabeth Frauncis（Francis／Francys／Frances／Fraunces） | — | 伊莉莎白·弗朗西斯 | 本條目主角，三度受審，1579 年被絞死 |
+| Christopher Frauncis | — | 克里斯多福·弗朗西斯 | 其夫，自耕農，文中暗示有跛行 |
+| Eve | — | 伊芙 | 其祖母，哈特菲爾德人，傳授巫術者 |
+| Sathan | — | 撒坦 | 祖母所贈的貓形使魔，Satan 的近代早期拼法 |
+| familiar | — | 使魔 | 依附女巫的動物形靈體，本案使此觀念流行 |
+| Andrew Byles | — | 安德魯·拜爾斯 | 「有些家財」的男子，她供稱差使魔殺害之 |
+| Agnes Waterhouse | — | 阿格妮絲·沃特豪斯 | 同案被告，1566 年 7 月 29 日被絞死 |
+| Joan Waterhouse | — | 瓊·沃特豪斯 | 阿格妮絲之女，同案被告，獲判無罪 |
+| William Auger | — | 威廉·奧格 | 法庭紀錄中她唯一被判有罪的受害孩童 |
+| Mary Cocke | — | 瑪麗·科克 | 1572 年案的被害人，臥病十天後康復 |
+| Agnes Francys／William Francys | — | 阿格妮絲·弗朗西斯／威廉·弗朗西斯 | 1573 年同庭受審的婦人與其夫，可能是妯娌關係 |
+| Alice Poole | — | 愛麗絲·普爾 | 1578 年拒借酵母的鄰人，同年十一月死亡 |
+| Mother Osborne／Elizabeth Lord | — | 奧斯本大娘／伊莉莎白·洛德 | 她 1579 年指認的兩名哈特菲爾德寡婦 |
+| Elleine Smith | — | 埃琳·史密斯 | 與她同時受審的另一名被告 |
+| Hatfield Peverel | — | 哈特菲爾德佩弗雷爾 | 埃塞克斯村莊，她的居住地 |
+| Chelmsford assizes | — | 切姆斯福德巡迴法庭 | 埃塞克斯郡治的巡迴法庭，三次審判所在 |
+| 1562 Act against Conjurations, Enchantments and Witchcrafts | — | 《1562 年禁止召魔、魅惑與巫術法》 | 伊莉莎白一世第二屆國會所立，即《1562 年巫術法》 |
+| pillory | — | 頸手枷 | 初犯的附加刑，與一年監禁併科 |
+| witch trial pamphlet | — | 女巫審判小冊 | 廉價聳動的審判報導，本案為第一篇 |
+| John Fortescue | — | 約翰·福蒂斯丘 | 財政大臣，1566 年審判的旁聽者 |
+| Gilbert Gerard | — | 吉爾伯特·傑拉德 | 檢察總長，1566 年審判的旁聽者 |
+| Wallace Notestein | — | 華萊士·諾特斯坦 | 史家，主張此案對國家有相當分量 |
+| Rossell Robins | — | 羅塞爾·羅賓斯 | 評論者，原文此處拼作 Robins |
+| Rosemay Guiley | — | 蘿絲瑪莉·蓋利 | 評論者，原文誤植為 Rosemay |
+| Marianne Hester | — | 瑪麗安·赫斯特 | 學者，主張她真的相信自己會法術 |
+| Walter B. Gibson | — | 華特·B·吉布森 | 魔術師，與赫斯特持相同看法 |
+| Winifred Finlay | — | 溫妮弗雷德·芬雷 | 民俗學者，推測起因於對其夫跛行的揣測 |
+| Silvia Federici | — | 席薇亞·費德里奇 | 學者，強調貧困與名聲的作用 |
+| Deborah Willis | — | 黛博拉·威利斯 | 學者，析論小冊開篇詩作的形象塑造 |
+| Willow Winsham／Marion Gibson | — | 薇洛·溫沙姆／瑪麗昂·吉布森 | 作家，主張量刑從輕出於文書疏失 |
+| Peter Maxwell-Stuart | — | 彼得·麥斯威爾—斯圖爾特 | 史家，指出她是該庭期唯一免於絞刑者 |
+| St Osyth witches／Elizabeth Bennett | — | 聖奧西斯女巫／伊莉莎白·班奈特 | 赫斯特用以對照的後續案件與被告 |
+| Witches of Essex | — | 《埃塞克斯的女巫》 | 天空歷史頻道 2025 年紀錄片系列 |
+
 ## [馬修·霍普金斯](regions/01-british-isles/matthew-hopkins.md)
 
 | 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
@@ -284,6 +644,30 @@
 | hundred marks | — | 一百馬克 | 折合 66 英鎊 13 先令 4 便士的遺產 |
 | Thorn Inn | — | 荊棘客棧 | 他在米斯特利買下的客棧 |
 | pleural tuberculosis | — | 胸膜結核 | 他可能的死因 |
+
+## [摩根勒菲](regions/01-british-isles/morgan-le-fay.md)
+
+| 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
+| --- | --- | --- | --- |
+| Morgan le Fay／Morgen／Morgane | — | 摩根勒菲／摩根 | le Fay 為馬洛禮 15 世紀從法語 la fée「仙女」造出的偽法語稱號 |
+| \*Mori-genā／Muirgen | — | 海生者 | 名字的共同布立吞語與古愛爾蘭語形式 |
+| Morrígan | — | 莫麗甘 | 愛爾蘭戰亂女神，「大女王」，被推測為原型之一 |
+| Modron／Dea Matrona | — | 莫德龍／狄雅·馬特羅娜 | 威爾斯母神與其高盧原型，與烏里恩、歐溫的關係同摩根 |
+| Vita Merlini | — | 《梅林傳》 | 傑弗里·蒙茅斯約 1150 年作，摩根最早的文獻 |
+| Avalon／Insula Pomorum | — | 阿瓦隆／蘋果之島 | 她統治的島嶼，亞瑟療傷與長眠之地 |
+| Vulgate Cycle／Lancelot-Grail | — | 武爾加特集／蘭斯洛特—聖杯集 | 13 世紀初古法語散文集，她轉為敵對者的關鍵 |
+| Post-Vulgate Cycle | — | 後武爾加特集 | 前者的改寫本，她被寫成亞瑟的死敵 |
+| Le Morte d'Arthur | — | 《亞瑟王之死》 | 馬洛禮 15 世紀末的集大成之作 |
+| Val sans Retour | — | 無歸之谷 | 她囚禁不忠戀人的魔法之谷，位於布洛塞良德 |
+| Urien／Yvain | — | 烏里恩／伊萬 | 她的丈夫與兒子，均有歷史或威爾斯傳說原型 |
+| Guiomar／Accolon | — | 吉奧瑪爾／阿科隆 | 她的兩位情人；後者為奪劍計謀的執行者 |
+| Guinevere／Nimue | — | 桂妮薇兒／妮繆 | 她的宿敵王后；湖中女子，被視為「善的反摩根」 |
+| Excalibur／the scabbard | — | 王者之劍／劍鞘 | 她盜走並棄入湖中的護體之物，亞瑟因此戰死 |
+| Fata Morgana | — | 法塔·摩甘娜 | 西西里外海的海市蜃樓，14 世紀起以她命名 |
+| fée Margot | — | 瑪戈仙女 | 摩根在法國民俗中的延續，留下大量地名 |
+| Ogier le Danois | — | 丹麥人奧吉爾 | 查理曼十二聖騎士之一，她的兩百年情人 |
+| Oberon／Auberon | — | 奧伯龍 | 仙王，法語傳統中為她與凱撒之子 |
+| Gallisenae | — | 加利塞奈 | 塞納島的九位高盧女祭司，傑弗里九姊妹的取材 |
 
 ## [露絲·奧斯本謀殺案](regions/01-british-isles/murder-of-ruth-osborne.md)
 
@@ -445,6 +829,53 @@
 | Louvois | — | 盧瓦 | 陸軍大臣，與柯爾貝相爭 |
 | Étienne Guibourg（原文另作 Étienne Guilbourg） | — | 艾蒂安·吉布爾 | 條目正文與名單兩處拼法不一，此處並列 |
 
+## [艾克斯昂普羅旺斯附身事件](regions/02-western-europe/besessenen-von-aix-en-provence.md)
+
+| 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
+| --- | --- | --- | --- |
+| Possessions d'Aix-en-Provence | — | 艾克斯昂普羅旺斯附身事件 | 法語維基條目正式名稱 |
+| Die Besessenen von Aix-en-Provence | — | 艾克斯昂普羅旺斯的被附身者 | 德語條目名，本檔案 id 即據此 |
+| Aix-en-Provence | — | 艾克斯昂普羅旺斯 | 普羅旺斯首府，高等法院與行刑地 |
+| Louis Gaufridy／Louis Gaufridi | — | 路易·戈弗里迪 | 阿庫爾堂區本堂神父，1611 年被處火刑 |
+| Madeleine de Demandolx de la Palud | — | 瑪德蓮·德芒東·德拉帕呂 | 烏爾蘇拉會初學修女，最初的被附身者 |
+| Louise Capeau | — | 露易絲·卡波 | 被認為附得最重的修女，最早指控戈弗里迪者 |
+| Sébastien Michaëlis／Michaélis | — | 塞巴斯蒂安·米凱利斯 | 多明我會大宗教裁判官、聖馬克西曼修院院長 |
+| Domptius | — | 東普提烏斯 | 法蘭德斯籍驅魔師，清點出 666 個惡魔 |
+| Billet | — | 比耶 | 宗教裁判官之一，寫信邀人前來觀看 |
+| J.-B. Bomillon | — | 波米永 | 基督教義司鐸會會長，最早為瑪德蓮驅魔者 |
+| Catherine de Gaumer | — | 卡特琳·德戈梅 | 馬賽烏爾蘇拉會院長，最早制止戈弗里迪者 |
+| Guillaume du Vair | — | 紀堯姆·迪韋爾 | 普羅旺斯高等法院首席院長 |
+| Parlement de Provence | — | 普羅旺斯高等法院 | 接手審判並判處火刑的世俗法庭 |
+| Antoine Mérindol | — | 安東尼·梅蘭多爾 | 醫學博士，證實瑪德蓮被附身 |
+| Antoine de Thoron | — | 安東尼·德托隆 | 預審書記，煙囪插曲的記述者 |
+| Jacques Turricella | — | 雅克·蒂里塞拉 | 馬賽主教，下令將戈弗里迪押回牢房 |
+| Philippe Philonardi | — | 菲利普·菲洛納爾迪 | 亞維儂副教廷特使，拒絕代求無罪宣告 |
+| Paul Hurault de L'Hôpital | — | 保羅·於羅·德洛必達 | 艾克斯總主教 |
+| Étienne Dulci | — | 艾蒂安·迪爾西 | 亞維儂總主教的神學司鐸 |
+| Marguerite de Burlefut | — | 瑪格麗特·德比爾勒菲 | 戈弗里迪死後首先自稱獲釋的修女 |
+| Ursulines | — | 烏爾蘇拉會 | 天主教女修會，本案被附身者所屬 |
+| Sainte-Baume | — | 聖博姆 | 多明我會聖地，公開驅魔的所在 |
+| place des Prêcheurs | — | 講道者廣場 | 艾克斯的行刑地 |
+| Les Accoules | — | 阿庫爾 | 馬賽堂區名，戈弗里迪的本堂 |
+| Saint-Victor de Marseille | — | 馬賽聖維克多修院 | 他領受會衣的本篤會修院 |
+| Beauvezer | — | 博沃澤 | 韋爾東河谷上游村落，他的出生地 |
+| Châteauvieux／Castellane | — | 沙托維厄／卡斯泰蘭 | 瑪德蓮日後軟禁與去世之地 |
+| Marseilleveyre | — | 馬賽維爾 | 馬賽南郊灌叢地，供稱受術士洗禮之處 |
+| Belzébuth | — | 別西卜 | 統轄瑪德蓮身上群魔的惡魔 |
+| Astaroth | — | 阿斯塔羅特 | 與別西卜同列的惡魔 |
+| Asmodée | — | 阿斯莫德 | 神父交給瑪德蓮「以愛使她發熱」的惡魔 |
+| Verrine／Sonneillon／Grésille | — | 韋里納／索內永／格雷西勒 | 附在露易絲身上的三個下級惡魔 |
+| sabbat／synagogue des sorciers | — | 巫魔會／術士的會堂 | 本庫統一譯「巫魔會」；「會堂」為原文所用的貶稱 |
+| marque du Diable | — | 魔鬼印記 | 身上無痛無血之點，本案定罪的關鍵物證 |
+| pacte avec le Diable | — | 魔鬼契約 | 據稱以神父之血簽署的文書 |
+| cédule | — | 契據 | 供稱以血簽下的賣身文書 |
+| question ordinaire et extraordinaire | — | 普通與加重的拷問 | 法國舊制刑求的兩級 |
+| Grand Inquisiteur | — | 大宗教裁判官 | 米凱利斯的職銜 |
+| grotte de la Pénitence | — | 補贖之窟 | 多明我會修院主祭壇後方的地下牢房 |
+| hystérie collective | — | 集體歇斯底里 | 法語條目對整起事件的定性 |
+| possession urbaine | — | 城市型附身 | 與鄉村巫術指控相對的類型 |
+| sorcières de Cassis | — | 卡西斯女巫案 | 1614 年，本案餘波所及的後續火刑 |
+
 ## [拉布爾獵巫與皮埃爾·德朗克](regions/02-western-europe/chasse-aux-sorcieres-du-labourd.md)
 
 | 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
@@ -477,6 +908,162 @@
 | Rodolphe Reuss | — | 魯道夫·勒斯 | 1872 年提出六百人死亡說的史家 |
 | Claude Labat | — | 克洛德·拉巴 | 主張本案屬中央集權政治脈絡的研究者 |
 | Beñat Zintzo Garmendia | — | 貝尼亞特·辛佐·加爾門迪亞 | 主張本案起於地方權力鬥爭的研究者 |
+
+## [達乎特](regions/02-western-europe/dahut.md)
+
+| 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
+| --- | --- | --- | --- |
+| Dahut／Dahud | — | 達乎特 | 主角；兩種拼法並行，勒魯與居雍瓦克採 Dahud |
+| Ahès／Ahez | — | 阿艾絲 | 布列塔尼傳說中另一位公主／仙女／女巨人，自 17 世紀起與達乎特相混 |
+| alc'hwez | — | 鑰匙 | 布列塔尼語；瓦蘭認為 Dahut 之所以又名 Ahes，出自與此字的混同 |
+| Ys／Is | — | 伊斯 | 沉沒之城，法語作 Ys，布列塔尼語作 Is |
+| Kêr-Is／Kêr-Iz／ar Gêr a Iz | — | 凱爾-伊斯 | 布列塔尼語城名，kêr 意為「城」；法語有時作 Ker-Is |
+| Ker Ahès／Keraës | — | 凱爾阿艾絲 | 卡雷（Carhaix）的舊名，字面為「阿艾絲之城」 |
+| Toul-Dahut／Toul-Al-c'Huez | — | 圖爾-達乎特／圖爾-阿爾赫韋茲 | 勒格朗所記地名，意為「達乎特之穴」／「鑰匙之穴」 |
+| Pouldavid／Poul-Dahut | — | 普爾達維／普爾達乎特 | 杜瓦訥內近郊地名；一說達乎特之名即由此附會而生 |
+| Gradlon Meur／Gralon／Grallon | — | 大格拉隆／格拉隆 | 科努瓦耶國王，達乎特之父；Meur 為布列塔尼語「大」 |
+| Gwénolé／Gwenole／Guénolé | — | 蓋諾萊 | 蘭德韋內克修道院的創建者聖人，命格拉隆把女兒拋入海中 |
+| Corentin | — | 科朗坦 | 坎佩爾的主保聖人；部分版本中由他而非蓋諾萊擔任此角 |
+| Malgven | — | 馬爾格文 | 「北方女王」，居約筆下達乎特之母，多數研究者視為文學杜撰 |
+| Morvarc'h | — | 莫瓦克 | 神馬之名，布列塔尼語意為「海之馬」 |
+| Marc'h | — | 馬克 | 康瓦爾王，另一則傳說中被達乎特安上馬耳與馬鬃 |
+| Marie Morgane／morganez | — | 瑪麗-摩根 | 布列塔尼民俗中的人魚；達乎特墜海後所化 |
+| Kernev／Cornouaille | — | 科努瓦耶 | 布列塔尼西南的歷史地區，非英格蘭的康瓦爾 |
+| Douarnenez | — | 杜瓦訥內 | 傳說中伊斯城所在的海灣 |
+| Ar Yeoded／Le Yaudet | — | 阿爾耶奧代 | 特雷戈爾地名，曾被指為伊斯城遺址 |
+| korrigan | — | 科里岡 | 布列塔尼民俗中的小妖精，為達乎特築城 |
+| gwerz | — | 蓋爾茲 | 布列塔尼語的敘事哀歌體裁 |
+| Barzhaz Breizh | — | 《巴爾扎茲·布雷伊茲》 | 拉維勒馬爾凱 1839 年的布列塔尼歌謠集 |
+| Liñvadenn Gêr Is／Livaden Geris | — | 〈伊斯城的水患〉 | 《巴爾扎茲·布雷伊茲》第六首 |
+| Autre Monde | — | 彼世 | 凱爾特神話的異界 |
+| Sidh | — | 錫德 | 愛爾蘭凱爾特神話中對彼世的稱呼 |
+| bansidh／banshee | — | 報喪女妖 | 彼世的女使者，愛爾蘭語 ban 即「女人」 |
+| Lí Ban | — | 莉·班 | 愛爾蘭傳說中被上帝變成人魚的女子或仙女 |
+| Albert Le Grand | — | 阿爾貝·勒格朗 | 莫爾萊人，《布列塔尼聖徒傳》作者，達乎特首見於其書 |
+| Émile Souvestre | — | 埃米爾·蘇維斯特 | 《布列塔尼爐邊》（1844）中〈Keris〉一篇的作者 |
+| Charles Guyot | — | 夏爾·居約 | 《伊斯城傳說》作者，20 世紀中葉以來的通行「定本」 |
+| Françoise Le Roux | — | 弗朗索瓦茲·勒魯 | 凱爾特學者，《伊斯城傳說》（2000）合著者 |
+| Christian-J. Guyonvarc'h | — | 克里斯提安-約瑟夫·居雍瓦克 | 同上；兩人主張達乎特原為彼世女性 |
+| Anatole Le Braz | — | 阿納托爾·勒布拉茲 | 布列塔尼民俗採集者 |
+| Hyacinthe Le Carguet | — | 亞森特·勒卡爾蓋 | 最早採錄「達乎特化為人魚而不死」一說者 |
+| Paul Sébillot | — | 保羅·塞比約 | 民俗學者，指出達乎特在 16 世紀末前不見於成文史料 |
+| Paul-Yves Sébillot | — | 保羅-伊夫·塞比約 | 民俗學者，提出「阿艾絲之路」導致名稱相混一說 |
+| Jean Markale | — | 讓·馬卡萊 | 通俗凱爾特學作家，主張達乎特象徵被壓抑的凱爾特文化 |
+| Hiroko Amemiya | — | 雨宮 Hiroko | 日本學者；法語條目另有 Ameniya 的誤植，其漢字寫法未詳，故保留羅馬字名 |
+| Matthieu Boyd | — | 馬蒂厄·博伊德 | 研究〈克里斯托夫〉與 ATU 675 型的學者 |
+| Ôphélia Claudel | — | 歐菲莉亞·克洛代爾 | 比較文學研究者，以薩朗波對照達乎特 |
+| Kristof | — | 克里斯托夫 | 1870 年布列塔尼故事中使阿艾絲懷孕的漁夫之子 |
+| Roparz Hemon | — | 羅帕爾茲·埃蒙 | 布列塔尼語作家，1935 年小說《Santez Dahud》（聖女達乎特）作者 |
+| Bran Ruz | — | 布蘭·魯茲 | 1978—1981 年漫畫的主角名，字面為「紅烏鴉」 |
+| Le Roi d'Ys | — | 《伊斯之王》 | 愛德華·拉羅 1875 年的歌劇 |
+| La Cathédrale engloutie | — | 《沉沒的教堂》 | 德布西 1909—1910 年的鋼琴前奏曲 |
+
+## [吉爾·德萊](regions/02-western-europe/gilles-de-rais.md)
+
+| 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
+| --- | --- | --- | --- |
+| Gilles de Rais | — | 吉爾·德萊 | 現代拼法亦作 Gilles de Retz，取自其雷茲男爵銜；中世紀又拼作 Rays、Raiz |
+| baron de Retz | — | 雷茲男爵 | 布列塔尼公國最南端的男爵領，號稱公國最古老的六大男爵領之一 |
+| maréchal de France | — | 法國元帥 | 1429 年 7 月 17 日查理七世加冕當日授予 |
+| Machecoul | — | 馬什庫勒 | 雷茲男爵領的「首邑」，1440 年 9 月 15 日的被捕地 |
+| Tiffauges | — | 蒂福日 | 普瓦圖的城堡，召喚「巴隆」的地點 |
+| Champtocé | — | 尚托塞 | 安茹的城堡，他的出生地 |
+| Saint-Étienne-de-Mer-Morte | — | 聖艾蒂安德梅爾莫爾特 | 1440 年 5 月強奪教堂與城堡之地，本案的直接導火線 |
+| Nantes | — | 南特 | 布列塔尼公國首府，雙重審判與行刑之地 |
+| château de la Tour Neuve | — | 新塔樓城堡 | 南特的公爵城堡，關押與教會法庭開庭之處；原文另有小寫的 Tour neuve |
+| château du Bouffay | — | 布法伊城堡 | 世俗法庭宣判之處 |
+| prairie de Biesse | — | 比耶斯草地 | 大比耶斯島上游的行刑地 |
+| Notre-Dame des Carmes | — | 加爾默羅聖母院 | 南特的加爾默羅會修院，依其所請的安葬地 |
+| Josselin | — | 若斯蘭 | 1440 年 7 月謁見公爵之地，附近草地為訊問巴隆之處 |
+| Jean V de Bretagne | — | 布列塔尼公爵讓五世 | 他的宗主，世俗審判的發動者，亦是其領地的買主 |
+| Jean de Malestroit | — | 讓·德·馬萊斯特魯瓦 | 南特主教兼布列塔尼掌璽大臣，教會法庭的主審 |
+| Jean Blouyn | — | 讓·布盧安 | 道明會士，南特城與教區的宗教裁判官代理，教會法庭的共審 |
+| Guillaume Merici | — | 吉約姆·梅里奇 | 法蘭西王國的宗教裁判官，布盧安為其代理 |
+| Pierre de L'Hôpital | — | 皮埃爾·德·洛皮塔爾 | 布列塔尼普世法官，世俗法庭的主審；原文另有小寫的 de l'Hôpital |
+| promoteur aux causes de la foi | — | 信仰事務促進官 | 教會法庭的檢察官，即吉約姆·沙佩永 |
+| Guillaume Chapeillon | — | 吉約姆·沙佩永 | 促進官，宣讀四十九條起訴書者 |
+| official | — | 主教法庭庭長 | 主教的司法代表，officialité 即主教法庭 |
+| Jean de Touscheronde | — | 讓·德·圖什龍德 | 教士，代表洛皮塔爾主持世俗偵查、聽取家長證言 |
+| François Prelati | — | 弗朗索瓦·普雷拉蒂 | 托斯卡尼教士，義大利語作 Francesco Prelati，召魔指控的關鍵供述者 |
+| Eustache Blanchet | — | 厄斯塔什·布朗謝 | 出身聖馬洛的司鐸，1438 年在佛羅倫斯招募普雷拉蒂 |
+| Barron | — | 巴隆 | 普雷拉蒂供稱召喚的「家役惡魔」，索求孩童身體的部位為祭 |
+| Henriet Griart | — | 昂里耶·格里亞爾 | 僕從，與主人同日受刑 |
+| Étienne Corillaut, dit « Poitou » | — | 艾蒂安·科里約，綽號「普瓦圖」 | 僕從，與主人同日受刑；原文另作 Corrillaut |
+| Perrine Martin, dite « la Meffraye » | — | 佩里娜·馬丁，綽號「拉梅弗雷」 | 被控為之搜羅孩童的女性被告 |
+| Tiphaine Branchu | — | 蒂芬·布朗舒 | 同上，另一名女性被告 |
+| Gilles de Sillé | — | 吉爾·德·西萊 | 其表親，在逃未獲，證言中多次被指為共犯 |
+| Roger de Briqueville | — | 羅傑·德·布里克維爾 | 諾曼第貴族，1432 年起投靠，在逃未獲 |
+| Jean Labbé | — | 讓·拉貝 | 公爵麾下隊長，執行逮捕者 |
+| Jean Le Ferron | — | 讓·勒費龍 | 領受剃髮的高階教士，聖艾蒂安事件的被害人與人質 |
+| Geoffroy Le Ferron | — | 若弗魯瓦·勒費龍 | 前者之兄，公爵的財政官與領地買主 |
+| Jean de Craon | — | 讓·德·克拉翁 | 外祖父兼監護人，1432 年去世 |
+| Catherine de Thouars | — | 卡特琳·德·圖阿爾 | 其妻，蒂福日與普祖日的繼承人 |
+| Marie de Rais | — | 瑪麗·德萊 | 獨生女，後為雷茲女男爵 |
+| René de La Suze | — | 勒內·德·拉敘茲 | 其弟，控告他揮霍家產者之一 |
+| Georges de La Trémoille | — | 喬治·德·拉特雷穆瓦耶 | 其表兄、大內侍，1429 年的盟友 |
+| Arthur de Richemont | — | 阿蒂爾·德·里奇蒙 | 法國統帥、公爵之兄，1440 年攻取蒂福日 |
+| inquisitio infamiae | — | 惡名調查 | 教會祕密偵查的首階段，蒐集關於某人名聲的證言 |
+| fama／fama publica | — | 聲名／公共聲名 | 中世紀法律概念，指已確立到足以據以提起訴訟的公眾名聲 |
+| lettres patentes | — | 公開文告 | 馬萊斯特魯瓦 1440 年 7 月 29 日公布偵查結果所用的形式 |
+| apostasie hérétique | — | 異端背教 | 絕罰判詞所列的第一項罪名 |
+| invocation des démons | — | 召喚惡魔 | 絕罰判詞所列的第二項罪名 |
+| sodomie | — | 雞姦 | 絕罰判詞所列的第三項罪名，原文並稱「違反自然之罪」 |
+| pacte avec le diable | — | 與魔鬼締約 | 希福洛所稱「三聯畫」控罪的第二項 |
+| triptyque | — | 三聯畫 | 希福洛用語，指叛亂、魔鬼契約、違反自然三項控罪的固定組合 |
+| pierre philosophale | — | 賢者之石 | 煉金術的目標，普雷拉蒂供詞所述 |
+| confession hors jugement | — | 庭外自白 | 1440 年 10 月 21 日在囚室中所作的第一次自白 |
+| bûcher | — | 火刑柱／柴堆 | 判決為先絞後焚，故此處指焚屍的柴堆 |
+| Jacques Chiffoleau | — | 雅克·希福洛 | 宗教與中世紀制度史家，本條目主要理論依據 |
+| Claude Gauvard | — | 克洛德·戈瓦爾 | 中世紀史家，主張自白受法官期待所形塑 |
+| Olivier Bouzy | — | 奧利維耶·布齊 | 中世紀史家，沿用貞德條目譯名 |
+| Matei Cazacu | — | 馬泰伊·卡扎庫 | 古文書學者，主張其有罪並以犯罪學側寫分析 |
+| Jacques Heers | — | 雅克·埃爾斯 | 中世紀史家，貶低其財力與政治角色 |
+| Valérie Toureille | — | 瓦萊麗·圖雷伊 | 中世紀史家，主張家長證言使無罪說不可採 |
+| Laurent Guitton | — | 洛朗·吉東 | 中世紀史家，把失蹤人數下修為三十六起 |
+| Georges Bataille | — | 喬治·巴塔耶 | 隨筆家，1959 年主持卷宗現代法語譯本 |
+| Pierre Klossowski | — | 皮埃爾·克洛索夫斯基 | 與巴塔耶合編該譯本 |
+| Salomon Reinach | — | 薩洛蒙·賴納赫 | 考古學家兼語文學家，1902—1912 年主張其無罪 |
+| Fernand Fleuret | — | 費爾南·弗勒雷 | 詩人，化名「盧多維科·埃爾南德斯醫師」承賴納赫之說 |
+| Gilbert Prouteau | — | 吉爾貝·普魯托 | 詩人，1992 年「平反審判」的發動者 |
+| Bertrand d'Argentré | — | 貝特朗·達爾讓特雷 | 1582 年《布列塔尼史》作者，最早的外貌描述出處 |
+| Paul Lacroix（Bibliophile Jacob） | — | 保羅·拉克魯瓦（藏書家雅各） | 1858 年《法國史掌故》作者，多項虛構細節的源頭 |
+| Richard von Krafft-Ebing | — | 理察·馮·克拉夫特－埃賓 | 精神科醫師，《性精神病態》（1886）論虐待狂一章提及本案 |
+| La Barbe bleue | — | 〈藍鬍子〉 | 佩羅童話，收於 1697 年《鵝媽媽故事集》 |
+| Mystère du siège d'Orléans | — | 《奧爾良之圍神祕劇》 | 全劇 20,538 行，「雷茲元帥」一角僅九句臺詞 |
+
+## [紀堯姆·阿德蘭](regions/02-western-europe/guillaume-adeline.md)
+
+| 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
+| --- | --- | --- | --- |
+| Guillaume Adeline | — | 紀堯姆·阿德蘭 | 本條目主角；德語文獻另作 Adelme、Edelin、Hameline |
+| Guillaume de Lure／Wilhelmus Luranus | — | 紀堯姆·德呂爾／威爾赫爾穆斯·呂拉努斯 | 他在諾曼第時期的常用稱呼與其拉丁化形式 |
+| Guillaume Edelin | — | 紀堯姆·埃德蘭 | 法語與英語維基百科的立目形式 |
+| Hexensabbat | Hexensabbat | 巫魔會 | 他先否認其存在，後被迫承認參加 |
+| Hexenflug | Hexenflug | 女巫飛行 | 他在講道中斥為寓言的說法之一 |
+| Teufelspakt | Teufelspakt | 與魔鬼立約 | 自白的核心罪名 |
+| bloße Fabeln | blosse Fabeln | 不過是寓言 | 他對巫術傳說的定性；托馬修斯 1701 年反過來以此語形容他的自白 |
+| Vauderie／Sekte der Waldenser | — | 瓦爾登派之罪／瓦爾登派教派 | 15 世紀法國北部對巫魔會罪名的稱呼，源自瓦爾登派異端之名 |
+| Synagoge der Waldenser | — | 瓦爾登派的會堂 | 異端指控文書對異端集會的貶抑稱呼 |
+| demon presidens | — | 主持的惡魔 | 卷宗所載巫魔會主持者的拉丁稱謂 |
+| Monseigneur／mon Senior | — | 我的主上 | 同上，中古法語的稱呼形式 |
+| Abschwörung／abjuration | — | 棄誓 | 1453 年 12 月 12 日的公開悔罪，中古法語原文尚存 |
+| Verlies | Verlies | 地牢 | 他被囚四年並死於其中的主教牢房 |
+| Agobard | Agobard | 阿戈巴爾 | 里昂主教（約 769—840），否認天候法術的權威 |
+| Johannes von Salisbury | Johannes von Salisbury | 索爾茲伯里的約翰 | 約 1115—1180，《論政府原理》中斥夜間女巫集會為幻覺 |
+| Guillaume VI. de Flocques | — | 紀堯姆六世·德弗洛克 | 起訴他的埃夫勒主教（1464 年卒） |
+| Simon Senestre | — | 西蒙·瑟內斯特 | 主教法庭法官，本案的主審之一 |
+| Enguerrand Synard | — | 恩格朗·西納爾 | 道明會士，代表法國大宗教裁判官執行本案 |
+| Roland Le Cozic | — | 羅蘭·勒科齊克 | 法國大宗教裁判官（約 1476 年卒） |
+| Nicolas Jacquier | — | 尼古拉·雅基耶 | 《異端惑術者之鞭》（1458）作者，自稱見過阿德蘭 |
+| Pierre Mamor | — | 皮埃爾·馬莫爾 | 《行害術者之鞭》作者，自稱見過阿德蘭 |
+| Jean Bodin | — | 讓·博丹 | 《論法術師的魔性狂熱》作者，把阿德蘭引為警世之例 |
+| Martin Anton Delrio | — | 馬丁·安東·德爾里奧 | 耶穌會惡魔學者，同上 |
+| Gisbert Voetius | — | 吉斯貝特·福蒂烏斯 | 烏特勒支歸正宗神學家，1639 年斥他為魔鬼的使者 |
+| Gottlieb Spitzel | — | 戈特利布·施皮策爾 | 1687 年主張把反獵巫者當無神論者追訴 |
+| Christian Thomasius | — | 克里斯提安·托馬修斯 | 1701 年指出博丹的敘述是刑求逼出的寓言 |
+| chevaucheur d’escouvettes | — | 騎掃帚者 | 維永《大遺言集》第 668 行用語，可能指阿德蘭 |
+| Cod. lat. 3446 | — | 拉丁文抄本第 3446 號 | 巴黎國家圖書館藏，本案與阿拉斯案卷宗所在 |
+| Martine Ostorero | — | 馬蒂娜·奧斯特羅 | 現代研究者，〈牢中的講道者〉（2003）作者 |
 
 ## [貞德的定罪審判](regions/02-western-europe/jeanne-darc.md)
 
@@ -642,6 +1229,45 @@
 | Peter A. Morton | Peter A. Morton | 彼得·A·莫頓 | 2005 年審判卷宗英譯本的編者 |
 | Albert Rhamm | Albert Rhamm | 阿爾伯特·拉姆 | 1882 年最早指出後續尚有審判的研究者 |
 
+## [浴女安](regions/03-central-europe/bader-ann.md)
+
+| 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
+| --- | --- | --- | --- |
+| Bader-Ann | Bader-Ann | 浴女安 | 綽號，源自其夫的浴堂師傅（Bader）身分 |
+| Anna Kramer | Anna Kramer | 安娜·克拉默 | 本名 |
+| Bader | Bader | 浴堂師傅 | 兼營澡堂、理髮、放血與簡易外科的手藝人，常兼市醫 |
+| Badstube | Badstube | 浴堂 | 其夫繼承的營業處所，附設澡堂 |
+| Veringenstadt | Veringenstadt | 費林根施塔特 | 霍恩索倫—錫格馬林根侯國小城，審判與處決地 |
+| Sigmaringen | Sigmaringen | 錫格馬林根 | 侯國首府，上級官署與副首相所在 |
+| Leiße (Liesen) | Leisse (Liesen) | 萊瑟（利森） | 科隆選侯領紹爾蘭的村莊，今已廢村 |
+| Amt Medebach | Amt Medebach | 梅德巴赫轄區 | 科隆選侯領的行政轄區 |
+| Hexenhemd | Hexenhemd | 女巫襯衣 | 七名十三歲孩童七日內製成、縫入祝聖紙條的襯衣 |
+| magische Zettel | magische Zettel | 魔法紙條 | 縫入襯衣縫邊的祝聖紙條 |
+| Malefizwachs | Malefizwachs | 馬勒菲茲聖蠟 | 祝聖過的蠟，Malefiz 意為重罪、惡行 |
+| Teufelsgeißel | Teufelsgeissel | 魔鬼鞭 | 驅魔用的祝聖鞭具 |
+| Theriak | Theriak | 解毒糖劑 | 中世紀以來的萬能解毒藥，古譯「底野迦」 |
+| Dreikönigwasser | Dreikoenigwasser | 三王聖水 | 主顯節祝聖的水，用以對治施法 |
+| peinliche Frage／Tortur | peinliche Frage / Tortur | 痛苦訊問／刑求 | 相對於「和緩訊問」（gütliche Frage） |
+| Aufziehen | Aufziehen | 吊刑 | 反綁雙手以滑輪吊起，加重物者更烈 |
+| Malefikantin | Malefikantin | 女重罪犯 | 筆錄對被告的稱呼 |
+| Urgicht | Urgicht | 供狀 | 刑求下作成、行刑前再度確認的自白 |
+| Hexenzeichen／Stigma | Hexenzeichen / Stigma | 女巫記號／烙印 | 以針刺查驗是否無痛的身體斑點 |
+| Hexensalbe | Hexensalbe | 女巫膏 | 供狀中魔鬼所授、用以害人畜的藥膏 |
+| Hexenbäumle | Hexenbaeumle | 女巫樹 | 供狀中女巫舞會的舉行地點 |
+| Scharfrichter Enderle | Scharfrichter Enderle | 劊子手恩德勒 | 執行斬首者 |
+| Andreas Endriß | Andreas Endriss | 安德烈亞斯·恩德里斯 | 其第二任丈夫，蹄鐵匠 |
+| Albert Kohler | Albert Kohler | 阿爾伯特·科勒 | 其第一任丈夫，軍醫兼浴堂師傅 |
+| Mathias Allgaier | Mathias Allgaier | 馬蒂亞斯·阿爾蓋爾 | 鄰居泥水匠，重罪告發的推動者 |
+| Johannes Kirsinger | Johannes Kirsinger | 約翰內斯·基爾辛格 | 錫格馬林根副首相，本案主審 |
+| Heinrich Ludwig von Holzingen | Heinrich Ludwig von Holzingen | 海因里希·路德維希·馮·霍爾青根 | 外地法學家，出具加重刑求的鑑定 |
+| Christophorus Besoldus | Christophorus Besoldus | 克里斯托弗魯斯·貝索爾杜斯 | 其問題清單被用於首次訊問 |
+| Fürst Maximilian | Fuerst Maximilian | 馬克西米利安侯爵 | 霍恩索倫—錫格馬林根侯爵，減火刑為劍斬 |
+| K. Karls Malefiz-Gerichtsordnung | K. Karls Malefiz-Gerichtsordnung | 查理皇帝重罪法庭條例 | 即 1532 年《卡洛林納刑法典》 |
+| Galgenbühl | Galgenbuehl | 絞架丘 | 費林根施塔特的刑場 |
+| Sebastian Locher | Sebastian Locher | 塞巴斯蒂安·洛赫爾 | 1865 年前後發現並轉錄卷宗的教師 |
+| Ignaz Bogenschütz | Ignaz Bogenschuetz | 伊格納茨·博根許茨 | 本堂神父，著《費林根的女巫審判》 |
+| Kräuterhexen Veringenstadt e. V. | Kraeuterhexen Veringenstadt e. V. | 費林根施塔特草藥女巫協會 | 1984 年成立的狂歡節社團，角色取材自本案 |
+
 ## [班堡女巫審判](regions/03-central-europe/bamberger-hexenprozesse.md)
 
 | 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
@@ -668,6 +1294,31 @@
 | Urfehde | Urfehde | 棄仇誓 | 獲釋者須立的誓，承諾不追究、不聲張 |
 | Gulden | Gulden | 古爾登 | 當時的貨幣單位 |
 | Succubus | Succubus | 魅魔 | 尤尼烏斯供詞中引誘他的女性惡魔 |
+
+## [迪特里希·施內普夫](regions/03-central-europe/dietrich-schnepf.md)
+
+| 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
+| --- | --- | --- | --- |
+| Dietrich Schnepf | Dietrich Schnepf | 迪特里希·施內普夫 | 本條目主角；亦作 Theodor、Snepffius、Theodoricus Snepffius |
+| Kritiker der Hexenverfolgung | — | 獵巫的批評者 | 德語版導言對他的定性，全條目僅兩句敘述支撐 |
+| Hexenglaube | Hexenglaube | 女巫信仰 | 他約 1570 年在圖賓根講道所反對者 |
+| Predigten | Predigten | 講道 | 他反對女巫信仰的唯一形式；未曾付印 |
+| Erhard Schnepf | Erhard Schnepf | 埃爾哈德·施內普夫 | 其父（1495—1558），符騰堡的宗教改革家 |
+| Johannes Brenz | Johannes Brenz | 約翰內斯·布倫茨 | 其岳父，《論冰雹的講道》作者 |
+| Barbara Brenz | Barbara Brenz | 芭芭拉·布倫茨 | 布倫茨長女，1552 年與他成婚 |
+| Wilhelm Friedrich Lutz | Wilhelm Friedrich Lutz | 威廉·弗里德里希·魯茨 | 其學生，1589／90 年在諾德林根宣讀其講道段落 |
+| Jacob Heerbrand | Jacob Heerbrand | 雅各布·黑爾布蘭德 | 同窗兼同僚，圖賓根學派中魯茨最看重的老師 |
+| Jakob Andreae | Jakob Andreae | 雅各布·安德里埃 | 同窗兼同僚，主持其喪禮講道 |
+| Stiftskirche Tübingen | Stiftskirche Tuebingen | 圖賓根參事教堂 | 他 1561／62 年起兼任本堂牧師之地，其墓誌所在 |
+| Spezialsuperintendent (Prälat) | — | 專區監督（高級教士） | 符騰堡邦教會的中層職銜 |
+| Adelsrektor | Adelsrektor | 貴族校長 | 由貴族子弟掛名的大學校長，實務由副校長執行 |
+| Martin Crusius | Martin Crusius | 馬丁·克魯修斯 | 1563—1572 年圖賓根講道筆記的抄錄者 |
+| Mc 101 | — | 抄本第 101 號 | 圖賓根大學圖書館藏，克魯修斯講道筆記的編號 |
+| Erbsündenlehre | Erbsuendenlehre | 原罪論 | 他 1554 年博士辯論的題目 |
+| Wormser Religionsgespräch | Wormser Religionsgespraech | 沃爾姆斯宗教對談 | 1557 年，他與布倫茨、阿爾伯同期參與 |
+| Maulbronner Religionsgespräch | Maulbronner Religionsgespraech | 毛爾布龍宗教對談 | 1564 年 4 月 |
+| Oratio funebris | — | 喪禮演說 | 切利烏斯為他所作、長達三小時的學術悼辭 |
+| Thomas Hilarius Meyer | — | 托馬斯·希拉里烏斯·邁爾 | 《上帝的「杖」與魔鬼的「詐」》（2019）作者 |
 
 ## [迪特里希·馮·菲爾斯滕貝格](regions/03-central-europe/dietrich-von-fuerstenberg.md)
 
@@ -734,6 +1385,40 @@
 | Friedrich Leitschuh | Friedrich Leitschuh | 弗里德里希·萊奇舒 | 19 世紀班堡學者，評論弗爾納功過 |
 | Max Bauer | Max Bauer | 馬克斯·鮑爾 | 獵巫史作者，「弗爾納提議建德魯登豪斯」一說的源頭 |
 
+## [韋登費爾斯伯爵領獵巫](regions/03-central-europe/hexenprozesse-in-der-grafschaft-werdenfels.md)
+
+| 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
+| --- | --- | --- | --- |
+| Grafschaft Werdenfels | Grafschaft Werdenfels | 韋登費爾斯伯爵領 | 弗萊辛采邑主教區最大的分屬領土 |
+| Hochstift Freising | Hochstift Freising | 弗萊辛采邑主教區 | 主教兼具世俗統治權的神聖羅馬帝國邦國 |
+| Landkreis Garmisch-Partenkirchen | Landkreis Garmisch-Partenkirchen | 加米施—帕滕基興縣 | 昔日伯爵領的今日行政區 |
+| Pfleger | Pfleger | 總管 | 領主派任的行政官，本案女巫審判的實際主持者 |
+| Urteiler | Urteiler | 裁決人 | 三個審判地各 24 名的兼職法官，共 72 名 |
+| Landgericht | Landgericht | 邦法庭 | 審理死罪案件的法庭 |
+| Malefizsachen | Malefizsachen | 死罪案件 | 可處死刑的犯行 |
+| Malefizrechtstag | Malefizrechtstag | 重罪公判日 | 集體宣判並行刑之日，本案共七次 |
+| Blutbann | Blutbann | 血刑權 | 領主授予庭長的生殺管轄權 |
+| Hexenfinder | Hexenfinder | 尋巫人 | 受聘鑑定「魔鬼記號」並施刑的劊子手 |
+| Teufelszeichen | Teufelszeichen | 魔鬼記號 | 身上被指為與魔鬼立約的痕跡 |
+| Unhold／Unholdin | Unhold | 妖巫 | 南德對女巫的稱呼，見總管報告的引文 |
+| peinliche Befragung | peinliche Befragung | 拷問訊問 | 需上級核准的刑求程序 |
+| gütlich vernommen | guetlich vernommen | 好言訊問 | 即不用刑的訊問 |
+| Streckbank | Streckbank | 拉肢架 | 刑具，波伊斯爾之妻在此被指名 |
+| Buhlteufel（原文作 Puhl-Teufel） | Buhlteufel | 淫魔 | 與女巫交媾的情夫魔鬼，行刑者被當面如此斥罵 |
+| Caspar／Kaspar Poißl von Atzenzell | Caspar Poissl von Atzenzell | 卡斯帕·波伊斯爾·馮·阿岑策爾 | 1583 年上任的總管，迫害的主導者，1598 年卒 |
+| Herwart von Hohenburg | Herwart von Hohenburg | 赫瓦特·馮·霍恩堡 | 前任總管，對行巫指控起緩和作用 |
+| Jörg Abriel | Joerg Abriel | 約爾格·阿布里爾 | 舍恩高劊子手兼尋巫人，1605 年卒於慕尼黑 |
+| Meister Christoph von Biberach | Meister Christoph von Biberach | 比伯拉赫的克里斯多夫師傅 | 尋巫人，與年輕劊子手雅各布同行 |
+| Benigna von Gumppenberg | Benigna von Gumppenberg | 貝妮格娜·馮·古姆彭貝格 | 波伊斯爾之妻，1590 年被指名卻未起訴 |
+| Brigitta Kätzler | Brigitta Kaetzler | 布麗吉塔·凱茨勒 | 助產婦，行刑時撤回自白並斥總管為「淫魔」 |
+| Simon Kembscher | Simon Kembscher | 西蒙·肯布舍 | 唯一的男性受害者，先車裂後焚 |
+| Ursula Klöck | Ursula Kloeck | 烏爾蘇拉·克勒克 | 最初被捕者，指名連坐的起點 |
+| Elisabeth Schlamp | Elisabeth Schlamp | 伊莉莎白·施蘭普 | 80 歲，1581 年即被指控，1590 年被活焚 |
+| Margarethe Gattinger／Gättinger | Margarethe Gattinger | 瑪格麗特·加廷格 | 1589 年 12 月獄中自縊，遺體事後補焚 |
+| Maria Schorn | Maria Schorn | 瑪麗亞·紹恩 | 三度被判死刑，改判終身監禁，1596 年獲釋 |
+| Ernst von Köln | Ernst von Koeln | 科隆選侯恩斯特 | 兼任弗萊辛主教，指示繼續追究行法術者 |
+| Blaser | Blaser | 吹氣人 | 當地能除疣、醫病畜的民俗療者，易被疑為行巫 |
+
 ## [埃爾旺根女巫審判](regions/03-central-europe/hexenprozesse-in-ellwangen.md)
 
 | 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
@@ -765,6 +1450,80 @@
 | Kinderhexenprozess | Kinderhexenprozess | 兒童女巫審判 | 1694 年埃爾旺根最後一案的類型 |
 | Sieger Köder | Sieger Koeder | 濟格·克德爾 | 2001 年警世紀念碑的作者，藝術家兼牧師 |
 | Wolfgang Mährle | Wolfgang Maehrle | 沃夫岡·梅爾勒 | 重建迫害收支的研究者 |
+
+## [弗里堡獵巫](regions/03-central-europe/hexenprozesse-in-freiburg-schweiz.md)
+
+| 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
+| --- | --- | --- | --- |
+| Freiburg im Üechtland／Fribourg | Freiburg im Ueechtland | 弗里堡 | 瑞士德法雙語州及其州府，非德國的弗萊堡 |
+| Alte Landschaft | Alte Landschaft | 舊領地 | 弗里堡城外的德語鄉村腹地，早期受害者多出於此 |
+| Waldenser／vauderie | Waldenser | 瓦勒度派 | 法語 vauderie 一詞在審判紀錄中已直接用來指稱巫術 |
+| Ulric de Torrenté | Ulric de Torrente | 烏爾里克·德·托朗泰 | 洛桑教區裁判官，1429—1430 年主導弗里堡審判 |
+| Errores Gazariorum | Errores Gazariorum | 加扎里人的謬誤 | 1430—1440 年間的匿名手稿，最早理論化巫魔會與夜飛 |
+| Gazarii | Gazarii | 加扎里人 | Cathari（卡特里派）的訛變寫法，轉指女巫教派 |
+| Hans Fründ | Hans Fruend | 漢斯·弗林德 | 記述 1428 年瓦萊審判的編年史家 |
+| Champion des Dames | Champion des Dames | 貴婦的鬥士 | 馬丁·勒弗朗長詩，附最早的女巫騎掃帚插圖 |
+| Martin Le Franc | Martin Le Franc | 馬丁·勒弗朗 | 詩人，巴塞爾大公會議與會者 |
+| Claude Tholosan | Claude Tholosan | 克洛德·托洛桑 | 多菲內法官，《加扎里人的謬誤》可能作者之一 |
+| Ponce Feugeyron | Ponce Feugeyron | 蓬斯·弗熱榮 | 方濟會裁判官，同上 |
+| Formicarius | Formicarius | 蟻塚 | 約翰內斯·尼德爾著，巴塞爾大公會議期間流傳 |
+| Konzil von Basel | Konzil von Basel | 巴塞爾大公會議 | 1431—1442 年，巫魔會概念的傳布樞紐 |
+| Vox in Rama | Vox in Rama | 拉瑪之聲 | 1233 年額我略九世詔書，首份針對巫術者 |
+| Excommunicamus | Excommunicamus | 我們絕罰 | 1231 年額我略九世詔書，設立異端裁判所 |
+| Super illius specula | Super illius specula | 在其瞭望台上 | 1326 年詔書，把行巫等同於異端 |
+| Thurnrodel | Thurnrodel | 塔樓卷簿 | 弗里堡的法定訊問登記簿 |
+| Schwarzbuch | Schwarzbuch | 黑書 | 塔樓卷簿的通稱，1475 年後審判的主要史料 |
+| Regest | Regest | 法律要旨摘要 | 2020 年數位化計畫附上的內容提要 |
+| Beginen vom Freien Geist | Beginen vom Freien Geist | 自由靈派的貝居安女信徒 | 1375 年洛桑首任裁判官的偵辦對象 |
+| Reinigungseid | Reinigungseid | 滌罪誓 | 缺乏證據時由嫌疑人宣誓自清的中世紀證據方式 |
+| Ketzerkreuz | Ketzerkreuz | 異端十字 | 縫在衣服前後的黃色布十字，用以標識與邊緣化 |
+| Catherine Repond／la Catillon | Catherine Repond | 卡特琳·雷蓬／卡蒂雍 | 1731 年被焚，弗里堡與西瑞士最後一名受害者 |
+| Belluard | Belluard | 貝呂阿爾稜堡 | 弗里堡城牆稜堡，1651 年最後一件兒童死刑執行地 |
+| Guintzet | Guintzet | 甘策丘 | 昔日刑場，2010 年以卡特琳·雷蓬命名廣場之處 |
+| Itha Stucky | Itha Stucky | 伊塔·施圖基 | 弗里堡州第一位被定罪的女巫，1442 年與子同遭處決 |
+| Kathrin Utz Tremp | Kathrin Utz Tremp | 卡特琳·烏茨·特倫普 | 中世紀史學者，本條目主要研究依據 |
+| Georg Modestin | Georg Modestin | 格奧爾格·莫德斯廷 | 提出弗里堡「法律上的自主」一說 |
+| Lionel Dorthe | Lionel Dorthe | 利奧內爾·多爾特 | 弗里堡州檔案員，統計出 360 場審判 |
+| Rita Binz-Wohlhauser | Rita Binz-Wohlhauser | 麗塔·賓茨—沃爾豪澤 | 兒童女巫審判研究者，與多爾特合作校訂卷宗 |
+
+## [沃州獵巫](regions/03-central-europe/hexenverfolgung-im-waadtland.md)
+
+| 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
+| --- | --- | --- | --- |
+| Waadtland／Pays de Vaud | Waadtland | 沃州 | 瑞士法語區的州，德語作 Waadtland |
+| Romandie | Romandie | 法語區 | 瑞士的法語區總稱 |
+| Wallis／Valais | Wallis | 瓦萊 | 1428 年起最早爆發獵巫的鄰州 |
+| Freiburg im Üechtland | Freiburg im Ueechtland | 弗里堡 | 德法雙語州；另見本庫〈弗里堡獵巫〉條 |
+| Neuenburg／Neuchâtel | Neuenburg | 納沙泰爾 | 1440 年前後迫害擴及之地 |
+| Waldenser／vauderie | Waldenser | 瓦勒度派 | 12 世紀起的貧窮運動教派；法語 vauderie 一詞後來直接被用來指稱巫術 |
+| Ulric de Torrenté | Ulric de Torrente | 烏爾里克·德·托朗泰 | 道明會士，1423—1442 年任洛桑、日內瓦、錫永三教區裁判官 |
+| Hexensabbat | Hexensabbat | 巫魔會 | 拉丁文獻作 sabbatum，本庫既有譯法 |
+| Formicarius | Formicarius | 蟻塚 | 約翰內斯·尼德爾著，1437／38 年，《女巫之槌》的先驅 |
+| Johannes Nider | Johannes Nider | 約翰內斯·尼德爾 | 道明會神學家，巴塞爾大公會議與會者 |
+| Hexenhammer／Malleus maleficarum | Hexenhammer | 女巫之槌 | 海因里希·克拉默 1486 年著 |
+| Statuta Sabaudiae | Statuta Sabaudiae | 薩伏依法典 | 1430 年頒布，首次以成文法規定行巫罪 |
+| Amadeus VIII. von Savoyen | Amadeus VIII von Savoyen | 阿馬德烏斯八世 | 薩伏依公爵，後為對立教宗斐利克斯五世 |
+| Felix V. | Felix V | 斐利克斯五世 | 天主教會最後一位對立教宗 |
+| Blutgerichtsbarkeit | Blutgerichtsbarkeit | 血刑裁判權 | 生殺予奪的最高刑事管轄權 |
+| Ratsmanuale | Ratsmanuale | 參事會議事錄 | 伯恩參事會的會議紀錄，統計死刑數的主要史料 |
+| Sittenmandate | Sittenmandate | 風紀敕令 | 規範日常生活的道德法令 |
+| Chorgericht／consistoire | Chorgericht / consistoire | 風紀法庭 | 1528—1798 年伯恩的教會道德法庭 |
+| Schadenzauber | Schadenzauber | 加害法術 | 拉丁文 maleficium，最常見的指控罪名 |
+| peinliche Befragung | peinliche Befragung | 拷問訊問 | 逼取自白的刑求程序 |
+| Besagung | Besagung | 指名連坐 | 被告在刑求下指名他人，引發後續審判 |
+| Kinderhexen | Kinderhexen | 兒童女巫 | 不滿十四歲的被告 |
+| Vogtei Chillon | Vogtei Chillon | 西庸代管區 | 沃韋、拉圖德佩、西庸、維倫紐夫等城守轄區 |
+| Nicolas de Watteville | Nicolas de Watteville | 尼古拉·德·瓦特維爾 | 1595—1601 年西庸代官，主導處決 40 人 |
+| Aymonet Maugetaz | Aymonet Maugetaz | 埃蒙內·莫熱塔 | 1438 年被判無罪，其供述是沃州最早的巫魔會描述之一 |
+| Sybille Gonra | Sybille Gonra | 西比爾·貢拉 | 沃韋人，1441 年，沃州第一位因行巫被焚的女性 |
+| Aymonet Tissotet | Aymonet Tissotet | 埃蒙內·蒂索泰 | 奧爾布總督，1441 年首度受訊，1448 年被焚 |
+| Michère Bauloz | Michere Bauloz | 米謝爾·博洛 | 1602 年洛桑，刑求下自承變身為狼人 |
+| Jeanne Desgras | Jeanne Desgras | 讓娜·德格拉 | 1664 年，先斬後焚 |
+| Jaquette de Clause | Jaquette de Clause | 雅蓋特·德·克洛茲 | 2020 年洛桑烏希城堡紀念牌匾所紀念者 |
+| Martine Ostorero | Martine Ostorero | 瑪蒂娜·奧斯托雷羅 | 洛桑大學史家，本地區獵巫研究的主要整理者 |
+| Kathrin Utz Tremp | Kathrin Utz Tremp | 卡特琳·烏茨·特倫普 | 中世紀史學者，《從異端到巫術》作者 |
+| Georg Modestin | Georg Modestin | 格奧爾格·莫德斯廷 | 洛桑教區獵巫研究者 |
+| Helvetische Republik | Helvetische Republik | 赫爾維蒂共和國 | 1798 年取代舊瑞士邦聯，立法終止獵巫 |
 
 ## [約翰內斯·布倫茨](regions/03-central-europe/johannes-brenz.md)
 
@@ -798,6 +1557,34 @@
 | Confessio Virtembergica | — | 符騰堡信條 | 1552 年提交特倫托大公會議的信條 |
 | Fragstücke des christlichen Glaubens | — | 基督信仰問答條目 | 他兩部同名教理問答的題名 |
 | Ubiquitätslehre | Ubiquitaetslehre | 無所不在說 | 他據以與加爾文派區隔的基督論 |
+
+## [小約翰內斯·皮斯托里烏斯](regions/03-central-europe/johannes-pistorius-der-juengere.md)
+
+| 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
+| --- | --- | --- | --- |
+| Johannes Pistorius der Jüngere | Johannes Pistorius der Juengere | 小約翰內斯·皮斯托里烏斯 | 本條目主角；姓氏為「麵包師」（Becker）的拉丁化 |
+| Niddanus | — | 尼達努斯 | 依出生地尼達而來的拉丁別名 |
+| Johannes Pistorius der Ältere | Johannes Pistorius der Aeltere | 老約翰內斯·皮斯托里烏斯 | 其父，黑森的新教改革家（1504—1583） |
+| Konfessionalisierung | Konfessionalisierung | 宗派化 | 近世德意志各宗派界線固化的過程，條目為他定位的時代背景 |
+| Kritiker der Hexenlehre | — | 女巫學說的批評者 | 德語版導言對他的定性；非「獵巫的批評者」 |
+| Hexenzusammenkunft | Hexenzusammenkunft | 女巫聚會 | 阿加塔自白中的用語，即巫魔會 |
+| gütliche oder peinliche Inquisition | guetliche oder peinliche Inquisition | 和善訊問或痛苦訊問 | 帝國刑事程序中不動刑／動刑訊問的成對用語 |
+| Tortur | Tortur | 拷問 | 法學家建議在她滿 16 歲後動用者 |
+| ad absurdum führen | — | 推到荒謬為止 | 條目形容他訊問策略的用語 |
+| Geschworene Hebammen | — | 宣過誓的產婆 | 他要求執行身體檢查的人，用以推翻「與惡靈交合」的自白 |
+| Ursula Gatter | — | 烏爾蘇拉·加特 | 1603 年 8 月被處決的洗衣婦，弗萊堡最後一名被燒的女巫 |
+| Agatha Gatter | — | 阿加塔·加特 | 其女，未滿 14 歲，經他介入而獲赦 |
+| Jacob Keder | — | 雅各布·凱德爾 | 回報檢查結果的市議會受託人 |
+| Waldkirch | Waldkirch | 瓦爾德基希 | 加特母女的出身地 |
+| Freiburg im Breisgau | Freiburg im Breisgau | 布賴斯高的弗萊堡 | 1599—1603 年處決 25 名婦女之地 |
+| Jakob III. von Baden-Hachberg | — | 巴登—哈赫貝格的雅各布三世 | 他的贊助者，1590 年死於砷中毒 |
+| Rudolph II. | — | 魯道夫二世 | 神聖羅馬皇帝，1601 年起以他為告解司鐸 |
+| Johann Wilhelm von Jülich-Kleve-Berg | — | 于利希—克萊沃—貝格的約翰·威廉 | 1605 年他為之主持驅魔的公爵；魏爾曾任該公國宮廷醫師 |
+| Exorzismus | Exorzismus | 驅魔 | 1605 年的那場儀式，未奏效 |
+| Artis cabbalisticæ … tomus unus | — | 卡巴拉之術……第一卷 | 1587 年巴塞爾刊行的卡巴拉文獻集 |
+| Daemonomania Pistoriana | — | 皮斯托里烏斯式的魔性狂熱 | 1601 年勞英根刊行，德語版列於其醫學著作 |
+| Anatomia Lutheri | — | 路德解剖 | 1595—1598 年科隆刊行的反路德論戰著作 |
+| Marasmus | Marasmus | 消瘦症 | 條目所記的死因 |
 
 ## [尤利烏斯·埃希特·馮·梅斯佩爾布倫](regions/03-central-europe/julius-echter-von-mespelbrunn.md)
 
@@ -899,6 +1686,73 @@
 | knödel | — | 糰子 | 波希米亞森林區傳說中被問及的主食 |
 | Drude | — | 德魯德 | 夢魘型精怪，其「德魯德十字」與露西亞十字相比 |
 
+## [馬特烏斯·阿爾伯](regions/03-central-europe/matthaeus-alber.md)
+
+| 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
+| --- | --- | --- | --- |
+| Matthäus Alber | Matthaeus Alber | 馬特烏斯·阿爾伯 | 本條目主角；亦作 Aulber |
+| „Luther Schwabens“ | Luther Schwabens | 施瓦本的路德 | 2017 年展覽專冊為他所用的稱號 |
+| Tübinger Schule | Tuebinger Schule | 圖賓根學派 | 條目對這一脈符騰堡路德宗神學家的稱呼 |
+| Gott handelt auch durch Hexen | — | 上帝也藉女巫行事 | 條目引號標出、未註明出處的一句，見譯註 |
+| Schadenzauber | Schadenzauber | 害人法術 | 此派認為在上帝的全能之下根本不可能存在 |
+| Abfall von Gott | — | 背離上帝 | 他們仍認為足以受罰的罪名，女巫罪並未被取消 |
+| Hexenglaube | Hexenglaube | 女巫信仰 | 他所批判的對象 |
+| Hagelunwetter | Hagelunwetter | 冰雹風暴 | 1552 年 8 月 3 日的災害，獵巫呼聲的起因 |
+| Missernte | Missernte | 歉收 | 災後使民眾處境惡化者 |
+| Ruf zur Buße | — | 召人悔改的呼聲 | 他們對天災的神學解釋 |
+| Stuttgarter Stiftskirche | Stuttgarter Stiftskirche | 斯圖加特參事教堂 | 1552 年系列講道之地，他 1549 年起的任所 |
+| Wilhelm Bidembach | Wilhelm Bidembach | 威廉·比登巴赫 | 與他一同講道反對女巫指控者 |
+| Reutlinger Markteid | Reutlinger Markteid | 羅伊特林根市集誓約 | 1524 年會眾立誓保衛福音，同年 6 月被施瓦本同盟廢止 |
+| Abendmahl in beiderlei Gestalt | — | 兩形聖餐 | 1524 年 8 月 14 日他在羅伊特林根舉行 |
+| Wormser Edikt | Wormser Edikt | 沃爾姆斯敕令 | 1521 年，他 1525 年因違反此敕令受審 |
+| Confessio Augustana | — | 奧格斯堡信條 | 1530 年，羅伊特林根為僅有的兩座簽署南德城市之一 |
+| Reutlinger Kirchenordnung | Reutlinger Kirchenordnung | 羅伊特林根教會規章 | 1531 年，構想長老制的「教會元老院」 |
+| senatus ecclesiae | — | 教會元老院 | 同上，掌人事、視察、婚姻法庭與教會紀律 |
+| Augsburger Interim | Augsburger Interim | 奧格斯堡臨時協定 | 1548 年，他因羅伊特林根被迫接受而請辭 |
+| Confessio Virtembergica | — | 符騰堡信條 | 1552 年，他的鑑定意見匯入其中 |
+| Kloster Blaubeuren | Kloster Blaubeuren | 布勞博伊倫修道院 | 1563 年起他任首任路德宗院長 |
+| prädestinatio zum Guten und zum Bösen | — | 對善與惡的預定 | 他的預定論表述，與其上帝觀直接相關 |
+| Jacob Heerbrand | Jacob Heerbrand | 雅各布·黑爾布蘭德 | 圖賓根學派同列者 |
+| Theodor Thumm | Theodor Thumm | 特奧多爾·圖姆 | 同上（1586—1630），此派中最晚的一位 |
+
+## [保拉·馮·魏特斯豪森](regions/03-central-europe/paula-von-weitershausen.md)
+
+| 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
+| --- | --- | --- | --- |
+| Paula von Weitershausen | Paula von Weitershausen | 保拉·馮·魏特斯豪森 | 亦作 Wittershausen，稱「賴希魏因」 |
+| Frauenalb | Frauenalb | 弗勞恩阿爾布 | 自由貴族本篤會女修院，1598 年被廢 |
+| Äbtissin | Aebtissin | 女修院院長 | 修院的最高負責人 |
+| Priorin | Priorin | 副院長 | 其姊卡塔琳娜所任 |
+| Ersingen | Ersingen | 埃爾辛根 | 修院主村，女巫審判所在 |
+| Bilfingen | Bilfingen | 比爾芬根 | 鄰村，兩名受刑者的出身地 |
+| Ettlingen | Ettlingen | 埃特林根 | 巴登—巴登共管官署所在，行刑地 |
+| Pforzheim | Pforzheim | 普福爾茨海姆 | 她被安置的施療院所在地 |
+| Vogtei／Schirmherrschaft | Vogtei / Schirmherrschaft | 保護權 | 教會領地的世俗保護與監督權 |
+| Markgrafschaft Baden-Baden | Markgrafschaft Baden-Baden | 巴登—巴登藩侯國 | 天主教一方的共管保護者 |
+| Markgrafschaft Baden-Durlach | Markgrafschaft Baden-Durlach | 巴登—杜拉赫藩侯國 | 新教一方，1594 年接管半數保護權 |
+| Grafschaft Eberstein | Grafschaft Eberstein | 埃伯施泰因伯國 | 另一共管保護者 |
+| Amtmann | Amtmann | 管事官 | 領主派任的地方行政與財務官 |
+| Schultheiß | Schultheiss | 村鎮長官 | 領主派任的村鎮首長，兼理下級司法 |
+| Zinsvogt | Zinsvogt | 租稅執行官 | 徵收年租的領主官員 |
+| peinliches Halsgericht | peinliches Halsgericht | 血刑法庭 | 審理死刑重罪的法庭 |
+| Laienrichter | Laienrichter | 陪席法官 | 由村民擔任的非法律專業判決人 |
+| Kollatur | Kollatur | 聖職推薦權 | 任命堂區本堂神父的權利 |
+| Christoph Rothfuß | Christoph Rothfuss | 克里斯托夫·羅特富斯 | 管事官，1577 年審判中代表院長 |
+| Johann Conrad Gremp von Freudenstein | Johann Conrad Gremp von Freudenstein | 約翰·康拉德·格倫普·馮·弗羅伊登施泰因 | 藩侯的代理人，聲請本案審判 |
+| Philipp II. von Baden-Baden | Philipp II. von Baden-Baden | 巴登—巴登的菲利普二世 | 受兩村上書的藩侯 |
+| Ernst Friedrich von Baden-Durlach | Ernst Friedrich von Baden-Durlach | 巴登—杜拉赫的恩斯特·弗里德里希 | 廢止修院、主持糾問的新教藩侯 |
+| Margaretha Bauerbacher | Margaretha Bauerbacher | 瑪格蕾塔·鮑爾巴赫 | 埃爾辛根助產婦，1576 年被燒死 |
+| Apollonia Kisel／Anna Weselin | Apollonia Kisel / Anna Weselin | 阿波羅妮亞·基澤爾／安娜·韋澤林 | 1577 年被判火刑的比爾芬根婦人 |
+| Hexenbäumle／Hexenbusch | Hexenbaeumle / Hexenbusch | 女巫小樹／女巫叢 | 埃爾辛根留存的田野地名 |
+| Elisabetha Hund von Saulheim | Elisabetha Hund von Saulheim | 伊莉莎白·洪德·馮·紹爾海姆 | 住院修女，1593 年檢舉引發視察 |
+| Marx von Malburg | Marx von Malburg | 馬克斯·馮·馬爾堡 | 本篤會告解神父，兩姊妹指其施暴 |
+| Anna von Hattstein | Anna von Hattstein | 安娜·馮·哈特施泰因 | 住院修女，1597 年事件的中心 |
+| Special-Inquisition | Special-Inquisition | 特別糾問 | 兩保護者對修院的專案調查 |
+| gütliche Verhöre | guetliche Verhoere | 和緩訊問 | 不動用也不威脅刑求的訊問 |
+| Haselwurz／Sävenbaum／Alraune | Haselwurz / Saevenbaum / Alraune | 細辛／圓柏／曼德拉草 | 民間視為墮胎藥的三種植物 |
+| Schloss Karlsburg | Schloss Karlsburg | 卡爾斯堡宮 | 杜拉赫的宮邸，訊問地點 |
+| Bistum Speyer | Bistum Speyer | 施派爾主教區 | 修院所屬的教區 |
+
 ## [佩希塔與霍勒太太](regions/03-central-europe/perchta-frau-holle.md)
 
 | 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
@@ -924,6 +1778,69 @@
 | Die drei Spinnerinnen | Die drei Spinnerinnen | 《三個紡紗女》 | 格林童話 KHM 14，畸形腳老婦的母題 |
 | Erika Timm | Erika Timm | 埃莉卡·蒂姆 | 日耳曼語文學者，芙麗嘉別名說的提出者 |
 | Jacob Grimm | Jacob Grimm | 雅各布·格林 | 《德意志神話學》作者，此形象研究的起點 |
+
+## [塞巴斯蒂安·勒廷格](regions/03-central-europe/sebastian-roettinger.md)
+
+| 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
+| --- | --- | --- | --- |
+| Sebastian II. Röttinger | Sebastian II. Roettinger | 塞巴斯蒂安二世·勒廷格 | 亦作 Rettinger、Rättinger |
+| Hexenjäger | Hexenjaeger | 獵巫者 | 條目導言對他的定性用語 |
+| Nördlingen | Noerdlingen | 諾德林根 | 施瓦本的帝國自由城市，其執業與獵巫所在地 |
+| Ratsadvokat | Ratsadvokat | 議會律師 | 受市議會聘任的法律代理人 |
+| Syndikus | Syndikus | 市政法律顧問 | 城市常設的最高法務職 |
+| Konsulent | Konsulent | 法務顧問 | 為帝國騎士團提供法律意見的職位 |
+| Reichsritterschaft | Reichsritterschaft | 帝國騎士團 | 直屬皇帝的騎士等級團體 |
+| Ritterkanton Kocher | Ritterkanton Kocher | 科赫爾騎士區 | 施瓦本騎士團的下級區劃 |
+| Fünf-Orts-Konsulent | Fuenf-Orts-Konsulent | 五地顧問 | 1576 年施瓦本騎士團授予他的職稱 |
+| peinliche Verhöre | peinliche Verhoere | 痛苦訊問 | 動用刑求的訊問 |
+| Urfehde | Urfehde | 棄仇誓 | 獲釋者立誓不對司法機關尋仇 |
+| Rechtsgutachten | Rechtsgutachten | 法律鑑定 | 由法學家出具的訴訟意見書 |
+| Wilhelm Friedrich Lutz | Wilhelm Friedrich Lutz | 威廉·弗里德里希·魯茨 | 諾德林根監督，講壇上反對獵巫的對頭 |
+| Wolfgang Graf (Gravius) | Wolfgang Graf (Gravius) | 沃夫岡·格拉夫（格拉維烏斯） | 同僚議會律師 |
+| Johannes Pferinger | Johannes Pferinger | 約翰內斯·普費林格 | 諾德林根市長，迫害自其任內開始 |
+| Paul Maier | Paul Maier | 保羅·邁爾 | 市書記兼女巫案鑑定人 |
+| Georg Tradel | Georg Tradel | 格奧爾格·特拉德爾 | 奧格斯堡律師兼鑑定人 |
+| Maria Holl | Maria Holl | 瑪麗亞·霍爾 | 受盡刑求不認罪，1594 年獲判無罪 |
+| Barbara Lierheimer | Barbara Lierheimer | 芭芭拉·利爾海默 | 助產婦，1590 年死於獄中 |
+| Walpurga Hoppenhans | Walpurga Hoppenhans | 瓦爾普加·霍彭漢斯 | 海因巴赫女裁縫，立棄仇誓後獲釋 |
+| Dorothea Gundelfinger | Dorothea Gundelfinger | 多蘿特婭·貢德爾芬格 | 議員卡爾·貢德爾芬格遺孀，1594 年死於獄中並被焚屍 |
+| Esslingen | Esslingen | 埃斯林根 | 1596 年向他請教訊問技術的帝國城市 |
+| Philipp Melanchthon | Philipp Melanchthon | 菲利普·梅蘭希通 | 維滕堡宗教改革家，其碩士學位的指導者 |
+| Dr. iur. utr. | Dr. iur. utr. | 兩法博士 | 教會法與世俗法兼修的法學博士 |
+| Pfalzgrafenwürde／Comes palatinus | Pfalzgrafenwuerde / Comes palatinus | 宮廷伯爵尊位 | 皇帝授予、含授予紋章之權的榮銜 |
+| Reichskammergericht | Reichskammergericht | 帝國最高法院 | 他多次擔任其委員與仲裁人 |
+| Fürstpropstei Ellwangen | Fuerstpropstei Ellwangen | 埃爾旺根采邑教長區 | 他為阿倫出謀對抗的保教權領主 |
+| Orlando di Lasso | Orlando di Lasso | 奧蘭多·迪·拉索 | 作曲家，其友人 |
+| In silentio et spe | In silentio et spe | 在靜默與盼望之中 | 其箴言，出自《以賽亞書》三十章十五節 |
+| Röttingen (Härtsfeld) | Roettingen (Haertsfeld) | 勒廷根（黑爾茨費爾德） | 家族的起源村落 |
+
+## [西蒙·戈格雷韋](regions/03-central-europe/simon-gograeve.md)
+
+| 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
+| --- | --- | --- | --- |
+| Simon Gogräve | Simon Gograeve | 西蒙·戈格雷韋 | 本條目主角；亦作 Gogreve、Gogrewe、Gogrebe |
+| Gaugreben | Gaugreben | 高格雷本 | 其所出的西發里亞—瓦爾德克貴族世系 |
+| verdischer Vizekanzler | — | 費爾登副大法官 | 他 1641—1648 年的主要職銜 |
+| erzbischöflich bremischer Rat | — | 不來梅總主教區顧問 | 同上，另一職銜 |
+| Gutachter | Gutachter | 鑑定人 | 他在 1648 年費爾登案中的身分 |
+| Gutachten | Gutachten | 鑑定意見 | 近世女巫審判中大學法學院出具的法律意見，常決定案件走向 |
+| Haftentlassung gegen Kaution | — | 交保出獄 | 他為兩名被告主張者 |
+| Catharine Wolpmann | — | 卡塔琳娜·沃爾普曼 | 1648 年費爾登案被告 |
+| Franz Panning | — | 弗朗茨·潘寧 | 同上，另一名被告（約 1663 年卒） |
+| Johann Seifert | — | 約翰·賽費特 | 瑞典隨軍牧師，《刑事審慎》首位德譯者 |
+| Cautio Criminalis | — | 刑事審慎 | 施佩 1631 年匿名出版的反獵巫著作 |
+| Gewissens-Buch: Von Processen Gegen die Hexen | — | 良心之書：論對女巫的訴訟 | 賽費特 1647 年德譯本的書名 |
+| Hans Christoph von Königsmarck | Hans Christoph von Koenigsmarck | 漢斯·克里斯托夫·馮·柯尼希斯馬克 | 瑞典駐不來梅與費爾登總督，德譯本受獻者之一說 |
+| Christina von Schweden | — | 瑞典的克莉絲蒂娜 | 因本案禁止其德意志各省一切女巫審判 |
+| Universität Rinteln | Universitaet Rinteln | 林特爾恩大學 | 其法學院 1648 年 8 月 5 日指出程序重大瑕疵 |
+| Verfahrensfehler | Verfahrensfehler | 程序瑕疵 | 林特爾恩意見的核心指摘 |
+| armis defendi ius | — | 以武器防衛的權利 | 他 1620 年論文的主題，宗教活動遭阻時的抵抗權 |
+| Pandektenexegese | Pandektenexegese | 學說彙纂釋義 | 其 1618 年博士辯論的題材，羅馬法學 |
+| Balthasar Mentzer d. Ä. | Balthasar Mentzer d. Ae. | 老巴爾塔薩·門策爾 | 吉森的路德宗神學家，他的老師與推薦人 |
+| Dietrich Reinkingk | Dietrich Reinkingk | 迪特里希·賴因金克 | 不來梅總主教區大法官，其吉森舊識 |
+| Heinrich Grave | Heinrich Grave | 海因里希·格拉韋 | 他在明登與費爾登兩職的前任，後為其岳父 |
+| Herzogtum Bremen-Verden | — | 不來梅—費爾登公國 | 1648 年新設，與瑞典結為共主邦聯 |
+| totalis corruptio epatis | — | 肝衰竭 | 喪禮印本所記的死因，拉丁文 |
 
 ## [瓦爾普吉斯之夜與布洛肯山](regions/03-central-europe/walpurgisnacht.md)
 
@@ -1227,6 +2144,31 @@
 | Urdazubi／Urdax | — | 烏爾達蘇比 | 修道院所在地，告發的源頭 |
 | Sorginen Eguna | — | 女巫日 | 蘇加拉穆爾迪每年 6 月 23 日的紀念活動 |
 
+## [黑卡蒂](regions/05-southern-europe/hecate.md)
+
+| 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
+| --- | --- | --- | --- |
+| Εκάτη／Ἑκάτη | Ekati／Hekate | 黑卡蒂 | 十字路口、魔法與月夜的女神 |
+| Ἑκάτειον | hekateion | 赫卡塔伊翁 | 圍繞中央柱體的三面黑卡蒂像，立於路口與門前 |
+| τρίστρατο／τρίοδος | tristrato／triodos | 三岔路口 | 她的聖地；羅馬人稱 Trivia |
+| Δεῖπνον | Deipnon | 狄普農 | 朔日晚間為她與亡者所設的供餐 |
+| Ἐννοδία | Enodia | 恩諾狄亞 | 帖薩利亞女神，「在路上者」，與她合一 |
+| Πρόπυλαία | Propylaia | 普洛皮萊亞 | 「門前者」，崇拜稱號 |
+| Κλειδοῦχος | Kleidouchos | 克萊杜科斯 | 「持鑰者」，持有冥界之門的鑰匙 |
+| Φωσφόρος／Λαμπαδηφόρος | Phosphoros／Lampadephoros | 佛斯佛洛斯／蘭帕德佛洛斯 | 「光之攜行者」、「持燈者」，拜占庭的救城稱號 |
+| Κουροτρόφος | Kourotrophos | 庫洛特羅佛斯 | 「育幼者」，赫西俄德所賦的職能 |
+| Βριμώ | Brimo | 布里莫 | 「憤怒者」，得名於她怒吼嚇退赫爾墨斯 |
+| Περσηίς | Perseis | 佩爾塞伊斯 | 「佩爾塞斯之女」，她的別名 |
+| Ἀστερία | Asteria | 阿斯忒里亞 | 她的母親，勒托的姊妹 |
+| Ἄρτεμις | Artemis | 阿蒂蜜絲 | 常與她合一；本庫另有條目作「阿蒂蜜絲」，同一位女神 |
+| Ἔμπουσα | Empousa | 恩普薩 | 她的女兒兼隨從，會變身的吸血女妖（詳見芭芭雅嘎條目） |
+| Λάγινα | Lagina | 拉吉納 | 卡里亞的神權城邦，她最重要的聖域 |
+| Χαλδαϊκά Λόγια | Chaldaika Logia | 迦勒底神諭 | 公元 2—3 世紀文本，把她推向宇宙靈魂的層次 |
+| Βενδίς | Bendis | 本狄斯 | 色雷斯女神，有時與她等同 |
+| Ἐριχθώ | Erichtho | 厄里克托 | 盧坎《法爾薩利亞》中的帖薩利亞女巫 |
+| ὀξυθύμια | oxythymia | 奧克敘提彌亞 | 逐出惡靈的家宅淨除儀式 |
+| ἀκόνιτον | akoniton | 烏頭 | 別名「黑卡蒂之草」（hecateis）的毒草 |
+
 ## [喀爾刻](regions/05-southern-europe/kirke.md)
 
 | 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
@@ -1471,6 +2413,37 @@
 | Erdély | — | 特蘭西瓦尼亞 | 匈牙利語作「艾爾戴伊」，18 世紀仍有女巫審判 |
 | -né | — | ……之妻 | 匈牙利語已婚婦女稱謂字尾 |
 
+## [茲杜哈奇](regions/06-eastern-europe/zduhac.md)
+
+| 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
+| --- | --- | --- | --- |
+| здухаћ／здухач／стуха | zduhać／zduhač／stuha | 茲杜哈奇／斯圖哈 | 靈魂出竅護村者；詞根可能為斯拉夫語 дух（靈），或受希臘語 στοιχείο 影響 |
+| вједогоња／једогоња | vjedogonja／jedogonja | 維多戈尼亞／耶多戈尼亞 | 博卡科托爾一帶的稱呼，與女巫（вјештица）成性別對照 |
+| змајевити／аловити／халовити | zmajeviti／aloviti／haloviti | 龍性的／阿拉性的／哈拉性的人 | 塞爾維亞東、中、南部與巴納特的稱呼 |
+| ала／хала | ala／hala | 阿拉／哈拉 | 引導風暴與冰雹雲毀壞莊稼的女性惡魔 |
+| аждаја | aždaja | 阿日達亞 | 斯雷姆傳說中在雲間噴吐冰雹的龍形怪物 |
+| змај | zmaj | 龍 | 對人友善的火性靈體，阿拉的死敵 |
+| кошуљица | košuljica | 胞衣 | 出生時包覆嬰兒的羊膜；能力的先天標記 |
+| берићет | berićet | 貝里切特（豐盈） | 土耳其語借詞，指田產與牲畜的豐產；搏鬥的賭注 |
+| вјетровњак | vjetrovnjak | 維特羅夫尼亞克 | 塞爾維亞西部的稱呼，對手是「黑鳥」 |
+| виловити | viloviti | 維洛維提 | 德拉加切沃的稱呼，以肉身而非靈飛上雲間 |
+| облачар | oblačar | 奧布拉查爾 | 斯雷姆的護村者，不能飛，只在田間奔跑驅雲 |
+| градобранитељ | gradobranitelj | 格拉多布拉尼特利（護雹者） | 波采里納以師承法術護村者，非出竅型 |
+| бајалица | bajalica | 巴亞利察 | 以念咒驅雹的女性，與男性的出竅型並列 |
+| крсник／кресник | krsnik／kresnik | 克爾斯尼克 | 斯洛維尼亞、伊斯特拉與克瓦爾內爾的同型形象 |
+| benandanti | — | 貝南丹提 | 弗留利的同型形象，男女皆有，見本庫專條 |
+| táltos | — | 塔爾托什 | 匈牙利的同型形象，帶牙或身體異狀出生 |
+| грабанцијаш | grabancijaš | 格拉班齊亞什 | 斯拉沃尼亞的流浪者，引雲能力為後天習得 |
+| στοιχείο／стихио | stikhio | 斯提希奧 | 希臘民俗中護衛村莊、在空中相鬥的靈 |
+| kuçedra／kulshedra | — | 庫切德拉 | 阿爾巴尼亞的女性惡魔，dragoj 的死敵 |
+| şolomonar／vîlva | — | 紹洛莫納爾／弗爾瓦 | 羅馬尼亞駕馭 balaur 的法師與其巴納特變體 |
+| płanetnik | — | 普拉涅特尼克 | 波蘭製造雲與冰雹者，對人友善 |
+| Вук Караџић | Vuk Karadžić | 武克·卡拉季奇 | 塞爾維亞語文改革者，維多戈尼亞習俗的紀錄者 |
+| Павле Ровински | Pavle Rovinski | 帕維爾·羅溫斯基 | 俄國民族學者，蒙特內哥羅材料的主要採集者 |
+| Свети Петар Цетињски | Sveti Petar Cetinjski | 采蒂涅的聖彼得 | 1830 年訓諭書反對迫害女巫與維多戈尼亞之說 |
+| Горски вијенац | Gorski vijenac | 《山地花環》 | 涅戈什 1847 年劇詩，以維多戈尼亞出竅比擬迷狂 |
+| Carlo Ginzburg | — | 卡洛·金茲堡 | 把此類形象統歸為與亡者領域的中介者 |
+
 ## [哈魯特與馬魯特](regions/07-west-asia-north-africa/harut-wa-marut.md)
 
 | 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
@@ -1558,6 +2531,32 @@
 | רחל אליאור | Rachel Elior | 拉海爾·埃利奧爾 | 猶太神祕主義研究者 |
 | ג׳ודית פלאסקו | Judith Plaskow | 朱迪絲·普拉斯科 | 〈莉莉絲的到來〉（1972）作者 |
 | זיוה שמיר | Ziva Shamir | 齊瓦·沙米爾 | 希伯來文學研究者 |
+
+## [隱多珥的女巫](regions/07-west-asia-north-africa/witch-of-endor.md)
+
+| 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
+| --- | --- | --- | --- |
+| בעלת האוב מעין דור | Ba'alat ha-Ov me-Ein Dor | 隱多珥的交鬼婦人／隱多珥的女巫 | 條目名；聖經未載其名，只以行業稱之 |
+| אוֹב | ov | 交鬼（之靈） | 招魂術所召之靈或其器具；《和合本》譯「交鬼的」 |
+| הַעֲלָאָה בְּאוֹב | ha'ala'a be-ov | 招魂／召亡 | 她的行業，《妥拉》明令禁止（利 20:27） |
+| יִדְּעֹנִי | yid'oni | 行巫術的 | 常與「交鬼的」並舉的另一類術者 |
+| עֵין דּוֹר | Ein Dor | 隱多珥 | 她的居處，位於基利波山附近 |
+| שָׁאוּל | Sha'ul | 掃羅 | 以色列第一位王，本章的求問者 |
+| שְׁמוּאֵל | Shmu'el | 撒母耳 | 先知，被招上的亡魂 |
+| אוּרִים וְתֻמִּים | Urim ve-Tumim | 烏陵與土明 | 大祭司求問神旨的聖物，掃羅求之不得 |
+| הרד"ק（רבי דוד קמחי） | RaDaK (Rabbi David Kimhi) | 拉達克（大衛·金希拉比） | 12—13 世紀註釋家，記錄加翁們的爭論 |
+| רב שמואל בן חפני | Rav Shmuel ben Hofni | 拉夫·撒母耳·本·霍夫尼 | 加翁，主張全屬詐術 |
+| רב סעדיה גאון／רב האי גאון | Rav Sa'adia Gaon／Rav Hai Gaon | 拉夫·撒迪亞·加翁／拉夫·哈伊·加翁 | 主張撒母耳確實上來，但出於神而非女巫 |
+| צפניה／סדקלה | Tzfanya／Sedekla | 洗番雅／塞德克拉 | 米德拉什與《聖經古史》所給的名字 |
+| ילקוט שמעוני | Yalkut Shim'oni | 雅爾庫特·示每尼 | 13 世紀的米德拉什彙編 |
+| קדמוניות המקרא | Kadmoniyot ha-Mikra | 《聖經古史》 | 偽斐羅所著（Liber Antiquitatum Biblicarum） |
+| ἐγγαστρίμυθος | engastrimythos | 腹語女 | 七十士譯本的譯法，後為教父論戰的關鍵字 |
+| pythonem | — | 皮同的女預言者 | 武加大譯本的譯法 |
+| woman that hath a familiar spirit | — | 擁有守護靈的婦人 | 欽定本的譯法；柯南·道爾據此否認「女巫」之名 |
+| Аэндорская волшебница | Aendorskaya volshebnitsa | 隱多珥的女術士 | 俄語條目名，斯拉夫傳統的譯法 |
+| Евстафий Антиохийский | Evstafiy Antiokhiyskiy | 安提阿的優斯塔提烏斯 | 撰《駁俄利根論腹語女》，主張顯現者為鬼魔 |
+| Ориген | Origen | 俄利根 | 主張顯現者為撒母耳真正的靈 |
+| Григорий Нисский | Grigoriy Nisskiy | 尼撒的貴格利 | 撰《論腹語女》，重申鬼魔說 |
 
 ## [安倍晴明](regions/08-east-asia/abe-no-seimei.md)
 
@@ -1673,6 +2672,106 @@
 | 칠원성군 | Chirwon Seonggun | 七元星君 | 北斗七星神，巴里公主七子所化 |
 | 공심 | Gongsim | 空心 | 部分地區所奉的巫祖神 |
 | 자청비 | Jacheongbi | 自請妃 | 濟州島的農耕女神，參見條目之一 |
+
+## [扶乩](regions/08-east-asia/fuji.md)
+
+| 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
+| --- | --- | --- | --- |
+| 扶乩 | fú jī | 扶乩 | 本條目主題，「乩」音同「基」 |
+| 扶箕 | fú jī／ふき　Fuki | 扶箕 | 同義異名，日語條目採此名為主標題 |
+| 扶鸞 | fú luán／ふらん　Furan | 扶鸞 | 同義異名，取鸞為西王母使者之意 |
+| 降筆 | jiàng bǐ | 降筆 | 同義異名，強調神明降臨代筆 |
+| 卜紫姑 | bǔ zǐ gū | 卜紫姑 | 同義異名，保留最早的紫姑信仰形態 |
+| 架乩／揮鸞／飛鸞／拜鸞／請仙 | jià jī / huī luán / fēi luán / bài luán / qǐng xiān | 架乩／揮鸞／飛鸞／拜鸞／請仙 | 條目所列的其餘異名 |
+| 鸞生 | luán shēng | 鸞生 | 被鬼神附身而執筆者 |
+| 乩身 | jī shēn | 乩身 | 同上，另一種稱呼 |
+| 正鸞・副鸞 | zhèng luán / fù luán | 正鸞、副鸞 | 執乩筆的兩人，副鸞兼撫平沙盤 |
+| 鸞手 | らんしゅ　Ranshu | 鸞手 | 日語條目對執乩筆術士的稱呼 |
+| 唱生／唱鸞 | chàng shēng／しょうらん　Shōran | 唱生／唱鸞 | 依字跡唱讀託宣者 |
+| 記錄生／録鸞 | jì lù shēng／ろくらん　Rokuran | 記錄生／錄鸞 | 抄錄乩文者 |
+| 六部（三才） | liù bù (sān cái) | 六部（三才） | 正鸞、副鸞、唱生二人、記錄生二人的合稱 |
+| 乩筆 | jī bǐ／けいひつ　Keihitsu | 乩筆 | 木製的書寫用具，形制兩說並存 |
+| 柳乩 | liǔ jī | 柳乩 | 乩筆的別稱，取柳木為材 |
+| 沙盤／沙盤 | shā pán／さばん　Saban | 沙盤 | 鋪平的沙面，乩筆在其上成字 |
+| 乩示 | jī shì | 乩示 | 行扶箕所得的託宣 |
+| 乩文 | jī wén | 乩文 | 寫成詩文的乩示 |
+| 乩壇 | jī tán | 乩壇 | 行扶乩的壇場，亦指扶乩結社 |
+| 鸞堂 | luán táng | 鸞堂 | 扶乩結社的通稱 |
+| 善堂 | shàn táng | 善堂 | 規模較大的扶乩結社 |
+| 善書 | shàn shū | 善書 | 編集乩示而成的勸善書籍 |
+| 壇則 | だんそく　Dansoku | 壇則 | 各團體自訂、以免墮入邪教的規約 |
+| 紫姑 | zǐ gū | 紫姑 | 廁神，扶乩最早的降臨對象 |
+| 鸞（鸞鳥） | luán | 鸞鳥 | 傳說中的神鳥，西王母的使者 |
+| 呂純陽（呂洞賓） | Lǚ Chúnyáng / Lǚ Dòngbīn | 呂純陽（呂洞賓） | 長春仙館所奉二仙之一，鸞壇的主要降神 |
+| コックリさん | Kokkuri-san | 碟仙 | 日本的自動書寫遊戲，日語條目取以類比 |
+| ウィジャボード | Uija bōdo | 通靈板 | 西洋的自動書寫器具，同上 |
+| タンキー | Tankī | 乩童 | 臺灣民間信仰的起乩靈媒，日語條目相關項目 |
+| 《異苑》 | Yìyuàn | 《異苑》 | 劉宋劉敬叔著，扶乩最早的文獻出處 |
+| 《夢溪筆談》 | Mèngxī Bǐtán | 《夢溪筆談》 | 北宋沈括著，記迎紫姑已成風尚 |
+| 《夷堅三志》 | Yíjiān Sānzhì | 《夷堅三志》 | 洪邁著，〈沈承務紫姑〉記「以箕插筆」之法 |
+| 《閱微草堂筆記》 | Yuèwēi Cǎotáng Bǐjì | 《閱微草堂筆記》 | 紀昀著，記扶乩不下百次並表懷疑 |
+| 《槐西雜志》 | Huáixī Zázhì | 《槐西雜志》 | 《閱微草堂筆記》之一種，記汪旭試乩事 |
+| 《子不語》 | Zǐ Bù Yǔ | 《子不語》 | 袁枚著，名篇〈關神下乩〉 |
+| 《悟真篇》 | Wùzhēn Piān | 《悟真篇》 | 張紫陽所著內丹經典，被用來試乩 |
+| 《嵞山集》 | Túshān Jí | 《嵞山集》 | 方文詩集，附潘江〈和方文降乩詩〉 |
+| 《地獄遊記》 | Dìyù Yóujì | 《地獄遊記》 | 臺灣鸞堂系統的近人善書，扶乩所出 |
+| 長春仙館 | Chángchūn Xiānguǎn | 長春仙館 | 葉名琛所建乩壇，在今廣州市應元路一帶 |
+| 六不總督 | liù bù zǒngdū | 六不總督 | 時人對葉名琛的譏稱 |
+| 恩主公信仰 | Ēnzhǔgōng | 恩主公信仰 | 臺灣以關帝等為恩主的鸞堂系信仰 |
+| 母娘信仰 | Mǔniáng | 母娘信仰 | 臺灣以無極老母等女神為主的教派 |
+| カオダイ教 | Kaodai-kyō | 高台教 | 越南宗教，有與扶乩相似的探神意儀禮 |
+| 道院紅卍字会 | どういんこうまんじかい　Dōin Kōmanjikai | 道院紅卍字會 | 民國時期的扶乩系宗教團體 |
+| 一貫道 | Yīguàn Dào | 一貫道 | 至今仍盛行的民間教派，日語條目相關項目 |
+
+## [巫祭](regions/08-east-asia/gut.md)
+
+| 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
+| --- | --- | --- | --- |
+| 굿 | gut | 巫祭 | 巫俗儀式的總稱，本條目主題；固有語，無對應漢字 |
+| 무당 | mudang | 巫堂 | 굿的主持者，通常為女性巫者 |
+| 무격(巫覡) | mugyeok | 巫覡 | 男女巫者的合稱，本條目行文中多用此稱 |
+| 무녀(巫女) | munyeo | 巫女 | 女性巫者，見〈씻김굿〉一節 |
+| 박수무당 | baksu mudang | 男巫 | 男性巫者，見〈배뱅이굿〉一節 |
+| 내신(來神) | naesin | 來神 | 굿的第一個場面，迎請神靈 |
+| 유신(侑神) | yusin | 侑神 | 굿的第二個場面，勸神享用祭品，為儀式重點 |
+| 거리(巨里) | geori | 巨里 | 굿的段落單位，一場굿由若干거리構成 |
+| 굿거리 | gutgeori | 굿거리 | 굿的各個段落，亦指其節拍 |
+| 뒷전 | dwitjeon | 後殿 | 굿的最末一段，送走在場神靈 |
+| 도무(跳舞) | domu | 跳舞 | 굿中所跳的舞 |
+| 무가(巫歌) | muga | 巫歌 | 巫堂在굿中所唱之歌 |
+| 신가(神歌) | singa | 神歌 | 巫歌因音律特殊而得的別稱 |
+| 송경(誦經) | songgyeong | 誦經 | 後世加入巫堂歌唱中的誦念 |
+| 타령조 | taryeongjo | 打令調 | 遊藝性굿거리所奏的民謠曲調 |
+| 양재(攘災) | yangjae | 攘災 | 構成굿的神事之一，禳除災殃 |
+| 새신(賽神) | saesin | 賽神 | 構成굿的神事之一，酬神 |
+| 점복(占卜) | jeombok | 占卜 | 構成굿的神事之一，另見同目錄〈점복〉條目 |
+| 제주(祭主) | jeju | 祭主 | 出資請굿的委託人 |
+| 장구 | janggu | 長鼓 | 沙漏形雙面鼓，굿的主要伴奏樂器 |
+| 병귀(病鬼) | byeonggwi | 病鬼 | 致病之鬼，굿中以供食使其自去 |
+| 씨끔굿 | ssikkeumgut | 씨끔굿 | 導言所列送亡굿之名，應為「씻김굿」之誤植 |
+| 씻김굿 | ssitgimgut | 洗身굿 | 全羅南道的死者儀禮，以掃帚為象徵性身軀洗身 |
+| 오구굿 | ogugut | 送亡굿 | 江原道與慶尚道一帶的送亡굿 |
+| 지노귀굿 | jinogwigut | 지노귀굿 | 首爾一帶的送亡굿，異寫作진오기굿、진오귀굿 |
+| 안택굿 | antaekgut | 安宅굿 | 祈求一年平安無事的굿 |
+| 별신굿 | byeolsingut | 別神굿 | 祈求部落平康與豐年的굿 |
+| 조상굿 | josanggut | 祖上굿 | 撫慰祖先的굿，巫堂對送亡굿的另一稱呼 |
+| 경사굿 | gyeongsagut | 慶事굿 | 首爾一帶的祈福굿，由十二至十四거리構成 |
+| 매굿 | maegut | 매굿 | 除夕以農樂驅雜鬼、招新年之福的儀式 |
+| 마당밟이굿 | madangbalbigut | 踏庭굿 | 農樂隊入戶各處敲打並行告祀的儀式 |
+| 걸립패 | geollippae | 乞粒牌 | 專打마당밟이굿的職業農樂團，亦作걸궁패 |
+| 당산굿 | dangsangut | 堂山굿 | 마당밟이굿中在村落祭壇所打的一段 |
+| 성주굿 | seongjugut | 城主굿 | 마당밟이굿中在廳堂為家宅守護神所打的一段 |
+| 조왕굿 | jowanggut | 竈王굿 | 마당밟이굿中在廚房所打的一段 |
+| 고사사설(告祀辭說) | gosa saseol | 告祀辭說 | 성주굿上以歌唱吟誦的長篇祝詞 |
+| 하회별신굿 | Hahoe byeolsingut | 河回別神굿 | 安東河回村的部落祭與其後的假面劇 |
+| 서낭신 | seonangsin | 城隍神 | 村落守護神，하회별신굿所撫慰的對象 |
+| 배뱅이굿 | Baebaengigut | 배뱅이굿 | 關西、海西一帶的說唱遊藝，以假巫騙財為題 |
+| 넋풀이굿 | neokpurigut | 解魂굿 | 為亡魂解結的굿，배뱅이굿中由假巫假意施行 |
+| 관서(關西) | Gwanseo | 關西 | 平安道一帶的舊稱 |
+| 해서(海西) | Haeseo | 海西 | 黃海道一帶的舊稱 |
+| 관성제군놀이 | Gwanseongjegun nori | 關聖帝君之戲 | 상산거리中的一段 |
+| 최영놀이 | Choe Yeong nori | 崔瑩之戲 | 상산거리中的一段，崔瑩為高麗末名將，被奉為將軍神 |
+| 푸닥거리 | pudakgeori | 푸닥거리 | 驅除病厄災殃的簡略巫儀，參見條目之一 |
 
 ## [羽衣傳說](regions/08-east-asia/hagoromo-densetsu.md)
 
@@ -1843,6 +2942,156 @@
 | 塵埃 | じんあい　Jin'ai | 塵埃 | 國學者岡熊臣的著作 |
 | 御伽婢子 | おとぎぼうこ　Otogibōko | 御伽婢子 | 淺井了意的怪異小說集 |
 | 捜神記 | そうじんき　Sōjinki | 搜神記 | 中國志怪書，載有「犬蠱」 |
+
+## [潮來（イタコ）](regions/08-east-asia/itako.md)
+
+| 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
+| --- | --- | --- | --- |
+| イタコ | Itako | 潮來 | 東北北部行口寄的盲眼女性巫女，本條目主題 |
+| 口寄せ | くちよせ　Kuchiyose | 口寄 | 使亡者或神靈附身、代其說話 |
+| 巫 | かんなぎ　Kannagi | 巫 | 迎神入身的儀式與職能，イタコ屬其一種 |
+| オガミサマ | Ogamisama | オガミサマ | 舊仙台藩領域（岩手縣南部與宮城縣）的稱呼 |
+| オナカマ | Onakama | オナカマ | 山形縣的稱呼 |
+| ミコサマ | Mikosama | ミコサマ | 福島縣的稱呼 |
+| オガミヤ | Ogamiya | オガミヤ | 福島縣的另一稱呼 |
+| ワカサマ | Wakasama | ワカサマ | 福島、山形、茨城三縣的稱呼 |
+| イチコ | Ichiko | 市子 | 常陸與京阪指行湯立的巫女，東京近郊指類似潮來者 |
+| 湯立て | ゆだて　Yudate | 湯立 | 以沸湯灑淨的神事 |
+| オシラサマ／おしら様 | Oshirasama | オシラ樣 | 東北民間信仰的家神，神體為兩尊人偶 |
+| オシラアソバセ | Oshira-asobase | オシラ遊戲 | 讓オシラサマ的人偶遊戲的儀式 |
+| おしら祭文 | おしらさいもん　Oshira Saimon | オシラ祭文 | オシラ儀式中誦讀的祭文 |
+| 採り物 | とりもの　Torimono | 採物 | 祭儀中手持的器物，柳田視為聚魂之具 |
+| 依り代 | よりしろ　Yorishiro | 依代 | 靈所憑附之物 |
+| イラタカ数珠 | いらたかじゅず　Iratakajuzu | 伊良太加念珠 | 以三百顆以上無患子果實串成的法具 |
+| ムクロジ | Mukuroji | 無患子 | 念珠所用的樹實 |
+| 梓弓 | あずさゆみ　Azusayumi | 梓弓 | 梓木製的丸木弓，敲弦招靈的巫具 |
+| 虫封じ | むしふうじ　Mushifūji | 鎮疳蟲 | 為孩童鎮壓「疳蟲」的祈禱 |
+| 恐山 | おそれざん　Osorezan | 恐山 | 青森縣的靈山，夏季大祭的口寄最著名 |
+| 恐山大祭 | おそれざんたいさい　Osorezan Taisai | 恐山大祭 | 夏季舉行的法會，潮來於此行口寄 |
+| 津軽 | つがる　Tsugaru | 津輕 | 青森縣西部，敲梓弓形式的流傳地 |
+| 選択無形民俗文化財 | せんたくむけいみんぞくぶんかざい　Sentaku Mukei Minzoku Bunkazai | 選擇無形民俗文化財 | 日本國家指定的文化財類別 |
+| ユタ | Yuta | 巫者 | 沖繩、奄美的在野靈能者 |
+| ノロ（祝女） | のろ　Noro | 祝女 | 琉球神道的女性祭司 |
+| 御倉板挙神 | みくらいたけのかみ　Mikuraitake no Kami | 御倉板舉神 | 柳田所引語源說中的神名 |
+| イタック | Itakku | イタック（愛努語） | 愛努語「說話」，語源說之一 |
+| 斎く | いつく　Itsuku | 齋（潔淨侍神） | 柳田主張的語源 |
+| エチコ／イタカ／モリコ | Echiko / Itaka / Moriko | エチコ／イタカ／モリコ | 柳田所舉的同系稱呼 |
+| ダイジュユリ／デンジュ／ユルシ／ウズメソ | Daijuyuri / Denju / Yurushi / Uzumeso | 大授祓／傳授／許可／ウズメソ | 潮來的入門儀式名稱 |
+| 氏神社 | うじがみしゃ　Ujigamisha | 氏神社 | 入門儀式後閉關一週之處 |
+| 堀一郎 | ほりいちろう　Hori Ichirō | 堀一郎 | 宗教史學者，記述潮來修行過程 |
+| 柳田國男 | やなぎたくにお　Yanagita Kunio | 柳田國男 | 民俗學者，主張語源為「齋」 |
+| 折口信夫 | おりくちしのぶ　Orikuchi Shinobu | 折口信夫 | 民俗學者，以オシラサマ為招瑪那的依代 |
+| 東海道中膝栗毛 | とうかいどうちゅうひざくりげ　Tōkaidōchū Hizakurige | 東海道中膝栗毛 | 十返舍一九的滑稽本，出現イチコ |
+| 川倉地蔵尊 | かわくらじぞうそん　Kawakura Jizōson | 川倉地藏尊 | 蘆野公園東北部的地藏，潮來行口寄之地 |
+| 瞽女 | ごぜ　Goze | 瞽女 | 東北同樣多由失明女性擔任的行腳藝人 |
+
+## [飯繩權現](regions/08-east-asia/izuna-gongen.md)
+
+| 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
+| --- | --- | --- | --- |
+| 飯縄権現 | いづなごんげん／いいづなごんげん　Izuna Gongen / Iizuna Gongen | 飯繩權現 | 飯繩山的神佛習合之神，本條目主題 |
+| 飯綱権現 | いづなごんげん　Izuna Gongen | 飯綱權現 | 別稱，日語維基的轉址名 |
+| 飯縄明神 | いづなみょうじん　Izuna Myōjin | 飯繩明神 | 別稱 |
+| 飯縄山（飯綱山） | いづなやま　Izunayama | 飯繩山（飯綱山） | 信濃國上水內郡的靈山，今長野縣 |
+| 飯縄法 | いづなのほう　Izuna no Hō | 飯繩法 | 役使天狗與狐的術法，中世至近世被視為邪法 |
+| 外法 | げほう　Gehō | 外法 | 正法之外的旁門術法 |
+| 邪法 | じゃほう　Jahō | 邪法 | 被斥為不正的術法 |
+| 愛宕勝軍神祇秘法 | あたごしょうぐんじんぎひほう　Atago Shōgun Jingi Hihō | 愛宕勝軍神祇祕法 | 與飯繩法並列的三大「邪法」之一 |
+| ダキニ天法（荼枳尼天法） | だきにてんほう　Dakiniten-hō | 荼枳尼天法 | 同上 |
+| 烏天狗 | からすてんぐ　Karasu Tengu | 烏天狗 | 鳥喙形貌的天狗，飯繩權現的姿態 |
+| 白狐 | びゃっこ　Byakko | 白狐 | 飯繩權現所騎乘之獸 |
+| 前立 | まえだて　Maedate | 前立 | 頭盔正面的裝飾，上杉謙信作飯繩權現像 |
+| 火伏せ | ひぶせ　Hibuse | 防火（火伏） | 防止火災的神德 |
+| 本地仏 | ほんじぶつ　Honjibutsu | 本地佛 | 神佛習合中神的佛教本體 |
+| 荼枳尼天 | だきにてん　Dakiniten | 荼枳尼天 | 密教神，飯繩權現的本地佛之一 |
+| 摩利支天 | まりしてん　Marishiten | 摩利支天 | 飯繩明神所變幻的形貌之一 |
+| 三宝荒神 | さんぼうこうじん　Sanbō Kōjin | 三寶荒神 | 同上 |
+| 宇賀神 | うがじん　Ugajin | 宇賀神 | 同上，於高尾山被視為辯才天 |
+| 金丸 | きんがん　Kingan | 金丸 | 祭文所載飯繩明神日夜吞飲之物 |
+| 五相合体 | ごそうがったい　Gosō Gattai | 五相合體 | 高尾山藥王院所說五尊合一的形貌 |
+| 高尾山薬王院有喜寺 | たかおさんやくおういんゆうきじ　Takaosan Yakuōin Yūkiji | 高尾山藥王院有喜寺 | 東京都的飯繩權現信仰中心 |
+| 俊源 | しゅんげん　Shungen | 俊源 | 藥王院中興之祖，永和年間感得飯繩權現 |
+| 鹿野山神野寺 | かのうざんじんやじ　Kanōzan Jinyaji | 鹿野山神野寺 | 千葉縣君津市的寺院 |
+| 飯縄寺 | いづなでら　Izunadera | 飯繩寺 | 千葉縣夷隅市的寺院 |
+| 日光山輪王寺 | にっこうさんりんのうじ　Nikkōsan Rinnōji | 日光山輪王寺 | 栃木縣的天台宗寺院 |
+| 伊須那曼荼羅図 | いすなまんだらず　Isuna Mandarazu | 伊須那曼荼羅圖 | 輪王寺傳來的圖像，見貞禪之名 |
+| 戸隠山 | とがくしやま　Togakushiyama | 戶隱山 | 飯繩山所屬的靈山，戶隱修驗所在 |
+| 戸隠修験 | とがくししゅげん　Togakushi Shugen | 戶隱修驗 | 統轄飯繩修驗的修驗集團 |
+| 飯縄修験 | いづなしゅげん　Izuna Shugen | 飯繩修驗 | 以飯繩山為中心的修驗 |
+| 九頭竜 | くずりゅう　Kuzuryū | 九頭龍 | 戶隱山的地主神 |
+| 戸隠山顕光寺流記并序 | とがくしさんけんこうじるきならびにじょ　Togakushisan Kenkōji Ruki narabini Jo | 戶隱山顯光寺流記并序 | 室町時代的戶隱緣起，載 1233 年神託 |
+| 飯縄山略縁起 | いづなさんりゃくえんぎ　Izunasan Ryaku Engi | 飯繩山略緣起 | 江戶後期成書的緣起 |
+| 飯縄山廻祭文 | いづなさんめぐりさいもん　Izunasan Meguri Saimon | 飯繩山迴祭文 | 天文十五年（1546）的祭文 |
+| 智羅天狗 | ちらてんぐ　Chira Tengu | 智羅天狗 | 祭文所載飯繩大明神的前身 |
+| 智羅永寿 | ちらえいじゅ　Chira Eiju | 智羅永壽 | 《今昔物語集》中的天狗，真言語源 |
+| 日羅房 | にちらぼう　Nichirabō | 日羅房 | 愛宕山太郎坊的別名 |
+| 千日太夫 | せんにちだゆう　Sennichi Dayū | 千日太夫 | 飯繩修驗的世襲首領 |
+| 千日豊前 | せんにちぶぜん　Sennichi Buzen | 千日豐前 | 初代千日太夫，傳說活了一百七十年 |
+| 伊藤豊前守忠縄 | いとうぶぜんのかみただつな　Itō Buzen-no-kami Tadatsuna | 伊藤豐前守忠繩 | 荻野城主，1233 年獲飯繩明神神託 |
+| 学問（行者） | がくもん　Gakumon | 學問（行者） | 開創戶隱山的行者 |
+| 尸解 | しかい　Shikai | 尸解 | 道教的成仙方式，遺體羽化 |
+| 茅窓漫録 | ぼうそうまんろく　Bōsō Manroku | 茅窗漫錄 | 江戶隨筆，斥伊豆那之術為邪法 |
+| 大和本草 | やまとほんぞう　Yamato Honzō | 大和本草 | 貝原益軒的本草書，記莽草抹香可破邪法 |
+| しきみ（樒） | Shikimi | 莽草（樒） | 製作抹香的植物 |
+| 抹香 | まっこう　Makkō | 抹香 | 粉末狀的燒香 |
+| 管狐 | くだぎつね　Kudagitsune | 管狐 | 飯繩法所用的狐靈，見〈管狐〉條 |
+| イイズナ | Iizuna | 白鼬 | 鼬科動物，與飯綱同名的相關條目 |
+| 稲荷神 | いなりしん　Inarishin | 稻荷神 | 同以狐為神使，與飯繩權現習合 |
+
+## [占卜](regions/08-east-asia/jeombok.md)
+
+| 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
+| --- | --- | --- | --- |
+| 점복(占卜) | jeombok | 占卜 | 本條目主題，為知未來或隱事而行的占算 |
+| 점 | jeom | 占 | 占卜的單字形式 |
+| 무꾸리 | mukkuri | 무꾸리 | 由巫堂或판수所占之卜的固有語稱呼 |
+| 판수 | pansu | 盲人卜者 | 以占卜為業的盲人，本條目未加定義 |
+| 복학(卜學) | bokhak | 卜學 | 學習占卜的學問 |
+| 예언(豫言) | yeeon | 豫言 | 條目據以與占卜作區辨的概念 |
+| 박수 | baksu | 男巫 | 朝鮮時對占卜者的稱呼之一，亦為男性巫者的固有語稱呼 |
+| 선사(禪師) | seonsa | 禪師 | 朝鮮時對占卜者（尤其誦經盲人）的稱呼 |
+| 맹복(盲卜) | maengbok | 盲卜 | 盲人卜者 |
+| 김을부(金乙富) | Gim Eulbu | 金乙富 | 《慵齋叢話》所載廣通橋畔以卜筮聞名的年老盲卜 |
+| 복서(卜筮) | bokseo | 卜筮 | 以蓍龜之類推算吉凶 |
+| 점서(占書) | jeomseo | 占書 | 卜筮所用之書，分唐朝與本國兩系 |
+| 복술자(卜術者) | boksulja | 卜術者 | 從事占卜者的稱呼之一 |
+| 복자(卜者) | bokja | 卜者 | 從事占卜者的稱呼之一 |
+| 술자(術者) | sulja | 術者 | 從事占卜者的稱呼之一 |
+| 동국세시기(東國歲時記) | Dongguk sesigi | 東國歲時記 | 朝鮮歲時風俗誌，占卜風習的主要記載來源 |
+| 용재총화(慵齋叢話) | Yongjae chonghwa | 慵齋叢話 | 成俔所撰筆記，載金乙富等占卜者事 |
+| 청참(聽讖) | cheongcham | 聽讖 | 歲時占之一，聽人語或聲響以占吉凶 |
+| 삼재법 | samjaebeop | 三災法 | 歲時占之一，推算三災之年 |
+| 오행점(五行占) | ohaengjeom | 五行占 | 擲寫有金木水火土的木片以占身數 |
+| 맥점(麥占) | maekjeom | 麥占 | 以麥的長勢占年成 |
+| 달맞이 | dalmaji | 迎月 | 正月望日迎月而占的歲時風俗 |
+| 신수 | sinsu | 身數 | 一個人一年的運勢 |
+| 점사(占辭) | jeomsa | 占辭 | 占卜所得的判詞 |
+| 윷 | yut | 柶 | 擲柶戲所用的四根木條，亦用於歲首占卜 |
+| 요사(繇辭) | yosa | 繇辭 | 對應卦象的占辭，共六十四卦 |
+| 광통교(廣通橋) | Gwangtonggyo | 廣通橋 | 首爾清溪川上的橋，卜者聚集之處 |
+| 음청(陰晴) | eumcheong | 陰晴 | 以天候占年成與災殃的占法 |
+| 음청결(陰晴訣) | eumcheonggyeol | 陰晴訣 | 依雲形、日光、虹占次日天氣的口訣 |
+| 8절후(八節候) | paljeolhu | 八節候 | 立春至冬至的八個節氣，用以占五穀與災殃 |
+| 상원일(上元日) | sangwonil | 上元日 | 正月十五 |
+| 사일(社日) | sail | 社日 | 祭土地神之日 |
+| 명운(命運) | myeongun | 命運 | 推算男女運勢的占法 |
+| 사주 | saju | 四柱 | 年、月、日、時四柱的干支 |
+| 태세(太歲) | taese | 太歲 | 四柱中的年柱 |
+| 월건(月建) | wolgeon | 月建 | 四柱中的月柱 |
+| 일진(日辰) | iljin | 日辰 | 四柱中的日柱 |
+| 시수(時數) | sisu | 時數 | 四柱中的時柱之數 |
+| 초분(初分)・중분(中分)・말분(末分) | chobun / jungbun / malbun | 初分・中分・末分 | 四柱吉凶法中三段相加所得之數 |
+| 비결(祕訣) | bigyeol | 祕訣 | 對照數字以判吉凶的訣書 |
+| 단시(斷時) | dansi | 斷時 | 依時辰起卦的占法 |
+| 육임단시결법(六壬斷時訣法) | Yugim dansi gyeolbeop | 六壬斷時訣法 | 合生年干支與日干、時支作卦的占法 |
+| 점자(占者) | jeomja | 占者 | 求占之人 |
+| 몽참(夢讖) | mongcham | 夢讖 | 解夢而定行止的占法 |
+| 해몽법 | haemongbeop | 解夢法 | 記載各類夢境吉凶的方法書 |
+| 석탈해(昔脫解) | Seok Talhae | 昔脫解 | 新羅第四代君主，條目舉為相地占吉之例 |
+| 의자왕(義慈王) | Uijawang | 義慈王 | 百濟末代君主，條目舉為占月之例 |
+| 추남(楸南) | Chunam | 楸南 | 高句麗善占者，猜中箱中之鼠 |
+| 토정비결 | Tojeong bigyeol | 土亭祕訣 | 朝鮮流行的年運占書，參見條目之一 |
+| 파자점(破字占) | pajajeom | 破字占 | 拆解漢字以占吉凶，參見條目之一 |
 
 ## [神隱](regions/08-east-asia/kamikakushi.md)
 
@@ -2017,6 +3266,109 @@
 | 伊藤尚貞 | いとうしょうてい　Itō Shōtei | 伊藤尚貞 | 飯田町堀留的鎮上醫者，據稱自患者皮下取出管狐 |
 | イタコ | Itako | 潮來（東北的口寄せ巫女） | 相關條目，亦被說成役使管狐 |
 
+## [麻姑與麻姑婆婆](regions/08-east-asia/magu.md)
+
+| 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
+| --- | --- | --- | --- |
+| 麻姑 | Mágū／まこ　Mako | 麻姑 | 道教長壽女仙，本條目主題之一 |
+| 마고할미 | Mago Halmi | 麻姑婆婆 | 韓國神話的女性巨神，本條目主題之二 |
+| 마고 | Mago | 麻姑 | 韓語條目中對應道教女仙的寫法 |
+| 할미 | halmi | 婆婆 | 韓語固有語，老婦、祖母之意 |
+| 설문대할망 | Seolmundae Halmang | 濟州的巨人女神 | 마고할미在濟州的別稱，固有語名，無對應漢字 |
+| 서구할미 | Seogu Halmi | 地方別稱之一 | 마고할미的地方異名，無對應漢字 |
+| 안가닥할미 | Angadak Halmi | 地方別稱之二 | 同上 |
+| 부도지（符都誌） | Budoji | 《符都誌》 | 韓語條目稱其為有爭議的偽史學著作 |
+| 마고성（麻姑城） | Magoseong | 麻姑城 | 《符都誌》所述的神話都城 |
+| 서사무가 | seosa muga | 敘事巫歌 | 巫俗口傳的長篇敘事歌 |
+| 유사역사학 | yusa yeoksahak | 偽史學 | 韓語條目對援引麻姑之著述的定性 |
+| 길쌈꾼 | gilssamkkun | 織工 | 織布的人；條目作「宇宙性的織工」 |
+| 삼베 | sambe | 麻布 | 以麻織成的布，與마고할미直接相關 |
+| 실타래 | siltarae | 線團 | 傳說中以島嶼為之 |
+| 북 | buk | 梭子 | 織布用具，傳說中以岩石為之 |
+| 고조선 | Gojoseon | 古朝鮮 | 韓國最早的國家，條目稱麻自此已作貨幣 |
+| 경상남도 진해 | Gyeongsangnam-do Jinhae | 慶尚南道鎮海 | 麻姑降臨報知織麻季節的地點 |
+| 滄海桑田 | cānghǎi sāngtián | 滄海桑田 | 出自麻姑「東海三為桑田」之語 |
+| 東海三為桑田 | dōnghǎi sān wéi sāngtián | 東海三為桑田 | 《神仙傳》原文，麻姑的核心典故 |
+| 下八洞 | xià bā dòng | 下八洞 | 道教神系分層，麻姑所屬 |
+| 王方平（王遠） | Wáng Fāngpíng / Wáng Yuǎn | 王方平（王遠） | 與麻姑同赴蔡經家的神仙，一說為其兄 |
+| 蔡經 | Cài Jīng | 蔡經 | 凡人，因起意以麻姑鳥爪搔背而受罰 |
+| 麻秋 | Má Qiū | 麻秋 | 後趙武將，一說為麻姑之父 |
+| 麻姑獻壽 | Mágū xiànshòu | 麻姑獻壽 | 蟠桃會上獻酒祝壽，最著名的圖像題材 |
+| 蟠桃會 | pántáo huì | 蟠桃會 | 三月初三王母聖誕的仙界盛會 |
+| 絳珠河 | Jiàngzhū hé | 絳珠河 | 麻姑釀酒之處 |
+| 王母娘娘 | Wángmǔ Niángniang | 王母娘娘 | 即西王母，麻姑獻壽的對象 |
+| 驪山老母 | Líshān Lǎomǔ | 驪山老母 | 上八洞女仙，與麻姑時被混同 |
+| 何仙姑 | Hé Xiāngū | 何仙姑 | 中八洞女仙，同上 |
+| 南極仙翁 | Nánjí Xiānwēng | 南極仙翁 | 男性祝壽畫的對應題材 |
+| 麻姑山 | Mágū shān | 麻姑山 | 江西南城，三十六洞天之第二十八 |
+| 麻姑仙壇記 | Mágū Xiāntán Jì | 《麻姑仙壇記》 | 顏真卿所書之碑，麻姑信仰的實物遺存 |
+| 孫の手 | まごのて　Mago no te | 不求人（搔背棒） | 日語詞，語源出自麻姑的鳥爪傳說 |
+| 抓耙子 | zhuā pá zi | 抓耙子 | 漢語條目所列的同一件器具 |
+| 麻姑節 | まこせつ　Mako-setsu | 麻姑節 | 華北傳承中紀念麻姑刑死的節日 |
+| 午門 | Wǔmén | 午門 | 華北傳承中麻姑受刑之處（時代錯置） |
+
+## [巫女](regions/08-east-asia/miko.md)
+
+| 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
+| --- | --- | --- | --- |
+| 巫女 | みこ／ふじょ　Miko / Fujo | 巫女 | 神道中侍奉神明的女性祭司，本條目主題 |
+| 神子 | みこ　Miko | 神子 | 巫女的別稱，歷史學研究中常用此寫法 |
+| 舞姫 | まいひめ　Maihime | 舞姬 | 巫女的別稱，著眼於舞神樂的職能 |
+| 御神子 | みかんこ　Mikanko | 御神子 | 巫女的別稱 |
+| 巫 | かんなぎ　Kannagi | 巫（神懸儀式） | 迎神入身的儀式，亦指掌此儀式者 |
+| 覡 | かんなぎ　Kannagi | 覡 | 侍奉同類祭祀的男性 |
+| 神降し | かみおろし　Kamioroshi | 降神 | 使神降臨附身 |
+| 神懸り | かみがかり　Kamigakari | 神懸 | 神靈憑依於人身的狀態 |
+| 依り代 | よりしろ　Yorishiro | 依代 | 神靈所憑附的對象 |
+| 口寄せ | くちよせ　Kuchiyose | 口寄 | 讓亡者或神靈藉自身之口說話 |
+| 神楽 | かぐら　Kagura | 神樂 | 奉神的歌舞儀式 |
+| 神遊 | かみあそび　Kamiasobi | 神遊 | 《新猿樂記》所舉巫女四要素之一，即神樂 |
+| 寄絃 | よりづる　Yorizuru | 寄絃 | 鳴弓弦以招神的術，巫女四要素之一 |
+| 御巫 | みかんなぎ　Mikannagi | 御巫 | 神祇官所置的巫女官職 |
+| 猨女君 | さるめのきみ　Sarume no Kimi | 猨女君 | 被視為天鈿女命後裔的官職 |
+| 天鈿女命 | あめのうずめ　Ame no Uzume | 天鈿女命 | 天岩戶前起舞的女神，巫女的神話原型 |
+| 物忌 | ものいみ　Monoimi | 物忌 | 鹿島神宮的終身不婚神職 |
+| 斎女 | いつきめ　Itsukime | 齋女 | 同上，鹿島神宮的女性神職 |
+| 斎王 | いつきのみこ　Itsuki no Miko | 齋王 | 伊勢神宮的終身不婚皇女，見〈斎宮〉 |
+| 座摩巫 | いかすりのみかんなぎ　Ikasuri no Mikannagi | 座摩巫 | 自七歲起任職、婚後引退的巫女職 |
+| 渡り巫女／歩き巫女 | わたりみこ／あるきみこ　Watari-miko / Aruki-miko | 渡巫女／步行巫女 | 旅行各地行禊祓的巫女，兼具遊女一面 |
+| 梓巫女 | あずさみこ　Azusa-miko | 梓巫女 | 以梓弓鳴弦行咒術與祓除的巫女 |
+| 梓弓 | あずさゆみ　Azusayumi | 梓弓 | 梓木所製的丸木弓，鳴弦招靈的祭具 |
+| 傀儡師 | くぐつし　Kugutsushi | 傀儡師 | 平安時代的藝能集團，渡巫女的源流 |
+| 傀儡女 | くぐつめ　Kugutsume | 傀儡女 | 操演人偶戲的女性 |
+| イチコ | Ichiko | 市子 | 京阪對巫系巫女、東京近郊對口寄巫女的稱呼 |
+| アズサミコ | Azusamiko | 梓巫女 | 東京近郊對口寄系巫女的稱呼 |
+| イタコ | Itako | 潮來 | 東北的口寄系巫女，見〈イタコ〉條 |
+| ユタ | Yuta | 巫者 | 沖繩、奄美的民間靈能者 |
+| ノロ（祝女） | のろ　Noro | 祝女 | 琉球神道的女性祭司 |
+| 神人 | かみんちゅ　Kaminchu | 神人 | 琉球神職者的稱呼 |
+| 尪姨 | 臺語 ang-î　日語作おういー | 尪姨 | 臺灣的女性靈媒，原文以漢字直錄 |
+| 巫堂 | ムーダン　Mūdan | 巫堂 | 韓國的女性薩滿（무당） |
+| ツス（トゥス） | Tsusu / Tusu | 愛努的降神術 | 中山太郎歸入口寄巫女的愛努儀式 |
+| 巫女禁断令 | みこきんだんれい　Miko Kindan Rei | 巫女禁斷令 | 1873 年教部省禁止民間巫女託宣的通稱 |
+| 教部省 | きょうぶしょう　Kyōbushō | 教部省 | 明治初期掌宗教行政的官署 |
+| 神祇官／神祇省 | じんぎかん／じんぎしょう　Jingikan / Jingishō | 神祇官／神祇省 | 掌神祇祭祀的官署 |
+| 八乙女 | やおとめ　Yaotome | 八乙女 | 奉納神樂的巫女之稱 |
+| 浦安の舞 | うらやすのまい　Urayasu no Mai | 浦安之舞 | 多忠朝所作的近代神樂舞 |
+| 千早 | ちはや　Chihaya | 千早 | 正式場合罩於外的巫女衣 |
+| 緋袴 | ひばかま　Hibakama | 緋袴 | 巫女裝束的朱紅色袴 |
+| 行灯袴 | あんどんばかま　Andon-bakama | 行燈袴 | 無襠的筒狀袴，下田歌子所創 |
+| 濃 | こき　Koki | 濃（赤紫袴） | 部分神社為年輕巫女所用的袴色 |
+| 髢 | かもじ　Kamoji | 髢（假髮） | 補足髮長用的假髮 |
+| 出雲阿国 | いずものおくに　Izumo no Okuni | 出雲阿國 | 傳為出雲大社巫女，歌舞伎之祖 |
+| 新猿楽記 | しんさるがくき　Shin Sarugakuki | 新猿樂記 | 藤原明衡著，舉出巫女四要素 |
+| 貞観儀式 | じょうがんぎしき　Jōgan Gishiki | 貞觀儀式 | 平安前期的儀式書，載猨女君之職 |
+| 巫女考 | みここう　Mikokō | 巫女考 | 柳田國男的巫女研究 |
+| 柳田國男 | やなぎたくにお　Yanagita Kunio | 柳田國男 | 民俗學者，巫女兩系說的提出者 |
+| 中山太郎 | なかやまたろう　Nakayama Tarō | 中山太郎 | 《日本巫女史》著者 |
+| 折口信夫 | おりくちしのぶ　Orikuchi Shinobu | 折口信夫 | 民俗學者，東北田野研究者之一 |
+| 堀一郎 | ほりいちろう　Hori Ichirō | 堀一郎 | 宗教史學者，區分巫女與薩滿者 |
+| 富田光美 | とみたみつよし　Tomita Mitsuyoshi | 富田光美 | 春日大社神職，巫女舞復興者 |
+| 多忠朝 | おおのただとも　Ōno Tadatomo | 多忠朝 | 宮內省樂師，〈浦安之舞〉作者 |
+| 下田歌子 | しもだうたこ　Shimoda Utako | 下田歌子 | 教育家，行燈袴的發明者 |
+| シビュラ | Shibyura（Sibylla） | 西比拉 | 古希臘羅馬的女預言者，日語亦譯作「巫女」 |
+| ウェスタの処女 | Vesta no shojo | 維斯塔貞女 | 羅馬維斯塔神殿的處女祭司 |
+
 ## [紅葉傳說](regions/08-east-asia/momiji-densetsu.md)
 
 | 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
@@ -2098,6 +3450,234 @@
 | 무세(巫稅) | muse | 巫稅 | 課於巫覡的稅賦 |
 | 동서활인원(東西活人院) | Dongseo Hwarinwon | 東西活人院 | 朝鮮救護都城病人的官署，巫堂曾隸屬其下 |
 | 태백산맥 | Taebaeksanmaek | 太白山脈 | 趙廷來的大河小說，書中巫堂素花為世襲巫之例 |
+
+## [巫女（韓國）](regions/08-east-asia/munyeo.md)
+
+| 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
+| --- | --- | --- | --- |
+| 무녀(巫女) | munyeo | 巫女 | 女性巫者；韓語維基同名條目講的卻是日本的巫女（미코） |
+| 무속(巫俗) | musok | 巫俗 | 韓國的土著多神信仰體系，本條目的主要來源條目 |
+| 무당 | mudang | 巫堂 | 巫俗行者最常用的稱呼，帶輕蔑意味 |
+| 무(巫) | mu | 巫 | 무당的另一稱呼，與中文的「巫」同義 |
+| 무속인 | musogin | 巫俗人 | 現代倡議團體所採用語，意為「行巫的人」 |
+| 박수 | baksu | 男巫 | 男性巫俗專家的固有語稱呼 |
+| 격사(覡士) | gyeoksa | 覡士 | 過去更常用的男性巫者稱呼 |
+| 만신 | mansin | 萬神 | 降神巫的別稱，意為「萬名神」，輕蔑意味較輕 |
+| 당골 | dangol | 檀骨 | 全羅道對世襲巫的稱呼，語源被認為出自檀君 |
+| 심방 | simbang | 心方 | 濟州島的巫者，該詞十五世紀始見記載 |
+| 보살(菩薩) | bosal | 菩薩 | 部分巫堂的自稱，女性行者較偏好 |
+| 영매(靈媒) | yeongmae | 靈媒 | 有時與무당同義，有時另指一群行者 |
+| 강신무(降神巫) | gangsinmu | 降神巫 | 受神降而成巫者 |
+| 세습무(世襲巫) | seseummu | 世襲巫 | 出身巫家、世代為巫者 |
+| 신엄마 | sineomma | 神媽媽 | 授業的巫堂，師徒關係的擬親屬稱謂 |
+| 신딸 | sinttal | 神女兒 | 女性見習生 |
+| 신아들 | sinadeul | 神兒子 | 男性見習生 |
+| 작은 무당 | jageun mudang | 小巫堂 | 見習生的身分稱呼 |
+| 내림굿 | naerimgut | 降神굿 | 使見習生「開口」的入門儀式 |
+| 무병(巫病) | mubyeong | 巫病 | 成巫之前所患的身心之病 |
+| 몸주신 | momjusin | 主身神 | 巫者個人的靈性守護神；男巫多為女神，女巫多為男神 |
+| 대신(大神) | daesin | 大神 | 被視為守護神的特定神靈 |
+| 만신전 | mansinjeon | 萬神殿 | 每位巫堂各自奉祀的神靈群 |
+| 신당(神堂) | sindang | 神堂 | 祭壇與奉神之所 |
+| 명기(明氣) | myeonggi | 明氣 | 神靈授予巫堂的神聖之力 |
+| 신복(神服) | sinbok | 神服 | 儀式所著的華彩裝束 |
+| 신도(信徒)・무신도(巫信徒) | sindo / musindo | 信徒・巫信徒 | 現代倡議團體對巫俗信奉者的稱呼 |
+| 무신도(巫神圖) | musindo | 巫神圖 | 祭壇上的神靈畫，被視為神靈實際的座位 |
+| 음사(淫祀) | eumsa | 淫祀 | 朝鮮統治階層對巫俗的定性 |
+| 천민(賤民) | cheonmin | 賤民 | 朝鮮後期以前巫堂所屬的身分 |
+| 경국대전(經國大典) | Gyeongguk daejeon | 經國大典 | 朝鮮法典，定有懲治協助巫堂者的條文 |
+| 태형(笞刑) | taehyeong | 笞刑 | 原文所載對協助巫堂者的一百下刑罰 |
+| 무세(巫稅) | muse | 巫稅 | 課於巫堂儀禮的稅，至 1895 年甲午改革方廢 |
+| 갑오개혁(甲午改革) | Gabo gaehyeok | 甲午改革 | 1895 年的改革，巫稅於此廢止 |
+| 이형상(李衡祥) | I Hyeongsang | 李衡祥 | 濟州牧使，1702 年肅清島上심방、毀神堂一百二十九座 |
+| 영조실록(英祖實錄) | Yeongjo sillok | 英祖實錄 | 載有宮中與士大夫陽輕陰信巫俗的記錄 |
+| 이능화(李能和) | I Neunghwa | 李能和 | 民俗學者，「무속」一詞的造語者 |
+| 유동식(柳東植) | Yu Dongsik | 柳東植 | 新教神學者，首用「무교」一詞 |
+| 조흥윤(趙興胤) | Jo Heungyun | 趙興胤 | 人類學者，主張以「무(巫)」為名 |
+| 김종호 | Gim Jongho | 金鍾昊 | 人類學者，1990 年代田野調查的執行者 |
+| 로럴 켄달 | Roreol Kendal | 蘿瑞爾·肯達爾 | 研究韓國巫俗的人類學者 |
+| 호레이스 그랜트 언더우드 | Horeiseu Geuraenteu Eondeoudeu | 何瑞斯·格蘭特·安德伍德 | 美國新教傳教士，1890 年把무당譯為「魔女」 |
+| 마녀 | manyeo | 魔女 | 安德伍德辭典中對무당的英韓對譯 |
+| 굿 | gut | 巫祭 | 巫俗的中心儀式，另見同目錄〈굿〉條目 |
+| 점(占) | jeom | 占 | 巫堂的占卜職能，另見同目錄〈점복〉條目 |
+| 부적(符籍) | bujeok | 符籍 | 巫堂所製、帶來好運的符 |
+| 본풀이 | bonpuri | 本解 | 起源神話的統稱 |
+| 바리공주 | Bari Gongju | 巴里公主 | 首爾一帶傳說中創立巫俗的公主 |
+| 공심 | Gongsim | 空心 | 慶尚道傳說中巫俗起源的中心人物 |
+| 아황공주 | Ahwang Gongju | 娥皇公主 | 京畿道與忠清道傳說中巫俗的創始者 |
+| 부푸화상 | Bupu Hwasang | 부푸和尚 | 〈무유속고〉所載八位始祖巫之父 |
+| 미코 | miko | 巫女（日本） | 日語「巫女」的讀音，次要來源條目的真正主題，另見同目錄〈miko〉條目 |
+
+## [祝女與巫者](regions/08-east-asia/noro-yuta.md)
+
+| 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
+| --- | --- | --- | --- |
+| ノロ（祝女） | のろ／ぬーる　Noro / Nūru | 祝女 | 琉球神道的公職女祭司，本條目主題之一 |
+| ノロ殿地 | のろどぅんち　Noro-dunchi | 祝女殿地 | 世襲祝女職的家系與其宅第 |
+| ユタ | Yuta | 巫者 | 沖繩與奄美的民間靈媒師，本條目主題之二 |
+| ユタ買い | ゆたこーやー　Yuta-kōyā | 買巫 | 委託ユタ判斷的行為，通常求教兩三位 |
+| ナライユタ | Narai-yuta | 見習巫者 | 學習巫法途中的ユタ志願者 |
+| 神人 | かみんちゅ　Kaminchu | 神人 | 神職者的琉球語總稱 |
+| 神女 | しんじょ　Shinjo | 神女 | 琉球神職者的便宜總稱 |
+| 巫 | かんなぎ　Kannagi | 巫 | 日語中對神職巫者的古稱 |
+| 根人 | ニーッチュ／にんちゅ　Nītchu / Ninchu | 根人 | 聚落的政治支配者（兄弟） |
+| 根神 | にーがん　Nīgan | 根神 | 聚落的宗教支配者（姊妹） |
+| 根所 | にいどぅくる　Nīdukuru | 根所 | 聚落中作為總本家的宗家 |
+| シマ／マキヨ | Shima / Makiyo | 聚落 | 沖繩本島的村落單位 |
+| 按司 | あじ　Aji | 按司 | 統轄聚落、支配領地的豪族 |
+| ツカサ（司） | Tsukasa | 司 | 八重山對相當於祝女者的稱呼，與「神」同義 |
+| おなり神 | おなりがみ　Onarigami | 姊妹神 | 妹妹以靈力守護兄長的信仰，祝女制度的原理 |
+| 御嶽 | うたき　Utaki | 御嶽 | 琉球的聖地與祭祀所在 |
+| 御願所 | うぐゎんじょ　Ugwanjo | 御願所 | 民間祈願的場所 |
+| 拝所 | うがんじゅ　Uganju | 拜所 | 同上，聚落中的祭拜地點 |
+| ニライカナイ | Nirai-kanai | 儀來河內 | 海之彼方的他界 |
+| オボツカグラ | Obotsu-kagura | 御奉嘉倉 | 天空的他界 |
+| ティダ | Tida | 太陽神 | 琉球的太陽神 |
+| セジ | Seji | 靈威 | 靈格意義上的力量，祖母隔代傳予孫女 |
+| イビ石 | いびいし　Ibi-ishi | 伊平石 | 御嶽中被當作神體崇拜的石 |
+| 神カムリ | かみカムリ　Kami-kamuri | 神冠 | 草編的冠，表示神已附身 |
+| イザイホー | Izaihō | 伊札祝祭 | 久高島的神女認證儀禮 |
+| サーダカ／サーダカウマリ | Sādaka / Sādaka-umari | 性高的出生 | 靈感強烈的資質，成巫的基本要件 |
+| さーだかんまり | Sādakanmari | 性高的出生 | 同上，〈ユタ〉條目中的寫法 |
+| カミダーリィ／かみだーりぃ | Kami-dāri | 神垂 | 伴隨幻覺的無意識行動，成巫必經的巫病 |
+| カンダーリィ（神垂れ） | Kandāri | 神垂 | 同上，〈ノロ〉條目中的寫法 |
+| たーりぃ | Tāri | 垂 | 伴隨幻覺症狀的無意識行動 |
+| お知らせ | うしらし　Ushirashi | 通知 | 神或神使給予的入巫催告 |
+| 催促 | せいじゅく　Seijuku | 催促 | 神對躊躇者近乎威嚇的再催告 |
+| 判断 | はんじ　Hanji | 判斷 | ユタ的核心業務，吉凶的判定 |
+| 御願 | うぐゎん　Ugwan | 御願 | 祈願，亦指ユタ所行的祈禱 |
+| 初運勢 | はちうんち　Hachi-unchi | 初運勢 | 年初所託宣的該年運勢 |
+| 風水見 | ふんしーみー　Funshī-mī | 看風水 | 房屋新建改建時的風水判斷 |
+| 三人相 | さんじんぞー　Sanjinzō | 三人相 | 卜者，部分ユタ改用的稱號 |
+| 風水師 | ふんしー　Funshī | 風水師 | 同上 |
+| 魂籠 | まぶいぐみ　Mabui-gumi | 魂籠 | 把離身的靈魂收回體內的呪術 |
+| 魂分 | まぶいわかし　Mabui-wakashi | 魂分 | 死者供養中的分魂儀式 |
+| 抜霊 | ぬじふぁ　Nujifa | 拔靈 | 洗骨、移葬時的死靈供養 |
+| まじむん | Majimun | 魔物 | 作祟的惡靈 |
+| いちじゃま | Ichijama | 生靈 | 活人所發的邪靈 |
+| 元祖事 | ぐゎんすぐとぅ　Gwansu-gutu | 元祖事 | 供養與牌位祭祀等祖先相關事務 |
+| 医者半分、ユタ半分 | Isha hanbun, Yuta hanbun | 醫者一半，巫者一半 | 沖繩的古諺，指兩者並用 |
+| ユタ征伐 | ゆたせいばつ　Yuta seibatsu | 巫者征伐 | 大正期的取締運動 |
+| イタコ | Itako | 巫女（東北） | 東北地方的口寄巫女，修行型薩滿 |
+| 口寄せ巫女 | くちよせみこ　Kuchiyose-miko | 口寄巫女 | 承受死靈附身、以第一人稱轉述託宣者 |
+| 君南風 | チンペー　Chinpē | 君南風 | 久米島最高位祝女，三十三君現存者 |
+| 阿応理屋恵 | あおりやへ／オーレー　Aoriyahe / Ōrē | 阿應理屋惠 | 源自國頭地方的高位神女職 |
+| 佐司笠（差笠） | さすかさ　Sasukasa | 佐司笠 | 首里的高位神女職 |
+| 尚真王 | しょうしんおう　Shō Shin Ō | 尚真王 | 制定ノロ職、確立祭政一致體制的國王 |
+| 羽地朝秀 | はねじちょうしゅう　Haneji Chōshū | 羽地朝秀 | 薩摩入侵後推動改革，削弱神女體制 |
+| 蔡温 | さいおん　Sai On | 蔡溫 | 同上；並頒行ユタ禁止令 |
+| 伊波普猷 | いはふゆう　Iha Fuyū | 伊波普猷 | 沖繩學的奠基者，主張ユタ自神人分化 |
+| 桜井徳太郎 | さくらいとくたろう　Sakurai Tokutarō | 櫻井德太郎 | 民俗學者，《沖縄のシャマニズム》作者 |
+| 佐々木宏幹 | ささきこうかん　Sasaki Kōkan | 佐佐木宏幹 | 宗教人類學者，薩滿分類論的引用來源 |
+| 堀一郎 | ほりいちろう　Hori Ichirō | 堀一郎 | 宗教學者，《日本のシャーマニズム》作者 |
+| 鳥越憲三郎 | とりごえけんざぶろう　Torigoe Kenzaburō | 鳥越憲三郎 | 《琉球宗教史の研究》作者 |
+
+## [陰陽道](regions/08-east-asia/onmyodo.md)
+
+| 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
+| --- | --- | --- | --- |
+| 陰陽道 | おんみょうどう　Onmyōdō | 陰陽道 | 日本獨自發展的術數體系，本條目主題 |
+| 陰陽五行 | おんようごぎょう　On'yō gogyō | 陰陽五行 | 源自中國的自然哲學思想 |
+| 陰陽寮 | おんみょうりょう　Onmyōryō | 陰陽寮 | 中務省之下掌天文、曆、占候的官署 |
+| 陰陽師 | おんみょうじ　Onmyōji | 陰陽師 | 從事陰陽道者；後泛指陰陽寮中行占與祓者 |
+| 天文道 | てんもんどう　Tenmondō | 天文道 | 陰陽寮三科之一，掌天文觀測 |
+| 暦道 | れきどう　Rekidō | 曆道 | 陰陽寮三科之一，掌曆書編製 |
+| 中務省 | なかつかさしょう　Nakatsukasashō | 中務省 | 律令八省之一，陰陽寮的上級官署 |
+| 陰陽頭 | おんみょうのかみ　Onmyō no Kami | 陰陽頭 | 陰陽寮長官，中世由安倍氏世襲 |
+| 陰陽助 | おんみょうのすけ　Onmyō no Suke | 陰陽助 | 陰陽寮次官，中世由賀茂氏擔任 |
+| 陰陽博士 | おんみょうはかせ　Onmyō Hakase | 陰陽博士 | 陰陽寮的教官職 |
+| 六壬神課 | りくじんしんか　Rikujin Shinka | 六壬神課 | 陰陽師所用的占法 |
+| 祓 | はらえ　Harae | 祓 | 為除災而行的祓除儀式 |
+| 方違 | かたたがえ　Katatagae | 方違 | 避開凶方而繞道的習俗 |
+| 物忌 | ものいみ　Monoimi | 物忌 | 因凶兆而閉門不出的禁忌日 |
+| 反閇 | へんばい　Henbai | 反閇 | 咒術性的步法，源自道教禹步 |
+| 泰山府君祭 | たいざんふくんさい　Taizan Fukun Sai | 泰山府君祭 | 陰陽道最重要的「大法」，祈延命之祭 |
+| 呪禁道 | じゅごんどう　Jugondō | 咒禁道 | 屬醫術一種的咒術，被陰陽道吸收 |
+| 宿曜道 | すくようどう　Sukuyōdō | 宿曜道 | 隨密教傳入的占星術 |
+| 御霊信仰 | ごりょうしんこう　Goryō Shinkō | 御靈信仰 | 對怨靈的鎮撫信仰 |
+| 物の怪 | もののけ　Mononoke | 物怪 | 致病作祟的靈 |
+| 疫神 | えきじん　Ekijin | 疫神 | 帶來疫病的神 |
+| 神祇官 | じんぎかん　Jingikan | 神祇官 | 掌國家神祇祭祀的官署，與陰陽寮並立 |
+| 四角四境祭 | しかくしきょうさい　Shikaku Shikyōsai | 四角四境祭 | 於京城與內裏四隅設結界的祭祀 |
+| 法師陰陽師 | ほうしおんみょうじ　Hōshi Onmyōji | 法師陰陽師 | 僧形的民間陰陽師 |
+| 官司請負制 | かんしうけおいせい　Kanshi Ukeoisei | 官司請負制 | 由特定家族世襲承包官署業務的體制 |
+| 声聞師 | しょうもんじ　Shōmonji | 聲聞師 | 江戶時代被視為賤民的民間占卜、祈禱者 |
+| 天社禁止令 | てんしゃきんしれい　Tensha Kinshi Rei | 天社禁止令 | 1870 年廢止陰陽道的政令 |
+| 天社土御門神道 | てんしゃつちみかどしんとう　Tensha Tsuchimikado Shintō | 天社土御門神道 | 土御門家所開的神道教派 |
+| 垂加神道 | すいかしんとう　Suika Shintō | 垂加神道 | 山崎闇齋所創的神道流派 |
+| いざなぎ流 | Izanagi-ryū | 伊邪那岐流 | 高知縣物部一帶的陰陽道支派 |
+| 太夫 | たゆう　Tayū | 太夫 | 伊邪那岐流的宗教職能者 |
+| 安倍氏 | あべし　Abe-shi | 安倍氏 | 掌天文道的陰陽道宗家 |
+| 賀茂氏 | かもし　Kamo-shi | 賀茂氏 | 掌曆道的陰陽道宗家 |
+| 土御門家 | つちみかどけ　Tsuchimikado-ke | 土御門家 | 安倍氏嫡流，近世陰陽道宗家 |
+| 勘解由小路家 | かでのこうじけ　Kadenokōji-ke | 勘解由小路家 | 賀茂氏嫡流，戰國至江戶初期斷絕 |
+| 幸徳井家 | かでいけ　Kadei-ke | 幸德井家 | 賀茂氏庶流，明治以後音訊不明 |
+| 倉橋家 | くらはしけ　Kurahashi-ke | 倉橋家 | 土御門家庶家 |
+| 賀茂忠行 | かものただゆき　Kamo no Tadayuki | 賀茂忠行 | 十世紀陰陽師，晴明之師 |
+| 賀茂保憲 | かものやすのり　Kamo no Yasunori | 賀茂保憲 | 忠行之子，傳天文道於晴明 |
+| 賀茂光栄 | かものみつよし　Kamo no Mitsuyoshi | 賀茂光榮 | 保憲之子，受傳曆道 |
+| 安倍晴明 | あべのせいめい　Abe no Seimei | 安倍晴明 | 十世紀陰陽師，見〈安倍晴明〉條 |
+| 滋岳川人 | しげおかのかわひと　Shigeoka no Kawahito | 滋岳川人 | 九世紀陰陽師，首位以實務官僚就任陰陽頭者 |
+| 安倍泰親 | あべのやすちか　Abe no Yasuchika | 安倍泰親 | 平安末期活躍的陰陽師 |
+| 安倍国道 | あべのくにみち　Abe no Kunimichi | 安倍國道 | 東下鎌倉、直接奉事幕府的陰陽師 |
+| 関東陰陽道／鎌倉陰陽師 | かんとうおんみょうどう／かまくらおんみょうじ　Kantō Onmyōdō / Kamakura Onmyōji | 關東陰陽道／鎌倉陰陽師 | 奉事鎌倉幕府的陰陽師群體 |
+| 土御門泰福 | つちみかどやすとみ　Tsuchimikado Yasutomi | 土御門泰福 | 將陰陽道神道化為天社神道者 |
+| 五経博士 | ごきょうはかせ　Gokyō Hakase | 五經博士 | 512 年自百濟來日，傳入儒學與陰陽五行 |
+| 易博士 | えきはかせ　Eki Hakase | 易博士 | 554 年自百濟來日 |
+| 泰山府君 | たいざんふくん　Taizan Fukun | 泰山府君 | 陰陽道最重要的神，掌人壽 |
+| 歳徳神 | としとくじん　Toshitokujin | 歲德神 | 方位神之首，亦稱婆梨才女神 |
+| 牛頭天王 | ごずてんのう　Gozu Tennō | 牛頭天王 | 疫神，與天刑星同化 |
+| 八将神 | はっしょうじん　Hasshōjin | 八將神 | 八位方位神的總稱 |
+| 土公神 | どくうじん　Dokūjin | 土公神 | 土地神，佛教中與堅牢地神同體 |
+| 五龍祭 | ごりゅうさい　Goryūsai | 五龍祭 | 祀五龍神的祈雨之祭 |
+| 螢惑星祭 | けいこくせいさい　Keikokusei Sai | 熒惑星祭 | 火星現時所行之祭（原文作「螢惑星」） |
+
+## [齋宮](regions/08-east-asia/saigu.md)
+
+| 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
+| --- | --- | --- | --- |
+| 斎宮 | さいぐう／さいくう／いつきのみや／いわいのみや　Saigū / Saikū / Itsuki no Miya / Iwai no Miya | 齋宮 | 齋王的御所，平安以後亦指齋王本人 |
+| 斎王 | さいおう／いつきのみこ　Saiō / Itsuki no Miko | 齋王 | 代天皇侍奉伊勢神宮的未婚皇女 |
+| 斎院 | さいいん　Saiin | 齋院 | 侍奉京都賀茂神社的齋王，與伊勢齋宮並立 |
+| 御杖代 | みつえしろ　Mitsueshiro | 御杖代 | 承受神意的依代，齋王的宗教定位 |
+| 御杖 | みつえ　Mitsue | 御杖 | 同上，《日本書紀》垂仁紀所用之語 |
+| 磯宮 | いそのみや　Iso no Miya | 磯宮 | 倭姬命於五十鈴川上所興之宮，齋宮御所的原型 |
+| 卜定 | ぼくじょう　Bokujō | 卜定 | 以卜筮定出新齋宮 |
+| 亀卜 | きぼく　Kiboku | 龜卜 | 炙烤龜甲、依裂紋判斷的卜占 |
+| 初斎院 | しょさいいん　Shosaiin | 初齋院 | 大內裏中的第一階段潔齋之所 |
+| 野宮 | ののみや　Nonomiya | 野宮 | 京外為齋宮臨時營造、一代即拆的殿舍 |
+| 黒木 | くろき　Kuroki | 黑木 | 保留樹皮的木材，野宮鳥居的材料 |
+| 群行 | ぐんこう　Gunkō | 群行 | 齋宮發向伊勢的行列儀式 |
+| 斎宮寮 | さいくうりょう　Saikūryō | 齋宮寮 | 齋宮在伊勢的居所與官署，役夫五百餘人 |
+| 三時祭（三節祭） | さんじさい／さんせつさい　Sanjisai / Sansetsusai | 三時祭（三節祭） | 六月與十二月的月次祭、九月的神嘗祭 |
+| 月次祭 | つきなみさい　Tsukinamisai | 月次祭 | 三時祭之二 |
+| 神嘗祭 | かんなめさい　Kannamesai | 神嘗祭 | 九月的新穀奉獻祭 |
+| 太玉串 | ふとたまぐし　Futo-tamagushi | 太玉串 | 齋宮自宮司手中領受的祭具 |
+| 瑞垣御門 | みずがきごもん　Mizugaki Gomon | 瑞垣御門 | 神宮內垣之門，齋宮立太玉串之處 |
+| 退下 | たいげ　Taige | 退下 | 齋宮卸任，平安中期以前稱「退出」 |
+| 忌み詞 | いみことば　Imikotoba | 忌詞 | 齋宮被禁止使用的詞語 |
+| 内七言 | ないしちげん　Naishichigen | 內七言 | 七個佛教用語的替代語 |
+| 外七言 | げしちげん　Geshichigen | 外七言 | 七個與穢相關詞語的替代語 |
+| 延喜式 | えんぎしき　Engishiki | 延喜式 | 平安中期的律令施行細則，卷五為齋宮式 |
+| 潔斎 | けっさい　Kessai | 潔齋 | 齋戒以除穢 |
+| 禊 | みそぎ　Misogi | 禊 | 以水除穢的儀式 |
+| 豊鍬入姫命 | とよすきいりひめのみこと　Toyosukiirihime no Mikoto | 豐鍬入姬命 | 崇神天皇皇女，第一代齋宮 |
+| 倭姫命 | やまとひめのみこと　Yamatohime no Mikoto | 倭姬命 | 垂仁天皇皇女，於伊勢祭天照大神 |
+| 大来皇女 | おおくのひめみこ　Ōku no Himemiko | 大來皇女 | 天武天皇第一皇女，制度確立後的初代 |
+| 酢香手姫皇女 | すかてひめのひめみこ　Sukatehime no Himemiko | 酢香手姬皇女 | 用明天皇皇女，退隱葛城 |
+| 祥子内親王 | しょうしないしんのう　Shōshi Naishinnō | 祥子內親王 | 後醍醐天皇皇女，最後一代齋宮 |
+| 媞子内親王（郁芳門院） | ていしないしんのう　Teishi Naishinnō | 媞子內親王（郁芳門院） | 首位由齋宮出身而成為女院者 |
+| 井上内親王 | いのえないしんのう　Inoe Naishinnō | 井上內親王 | 齋宮退下後入內，光仁天皇皇后，後遭廢位 |
+| 徽子女王 | きしじょおう　Kishi Joō | 徽子女王 | 村上天皇女御，退下後入內的四人之一 |
+| 扶桑略記 | ふそうりゃっき　Fusō Ryakki | 扶桑略記 | 平安後期的編年史書，載大來皇女為初代 |
+| 日本書紀 | にほんしょき　Nihon Shoki | 日本書紀 | 記崇神、垂仁兩朝齋宮起源的正史 |
+| 源氏物語 | げんじものがたり　Genji Monogatari | 源氏物語 | 〈賢木〉帖以野宮為訣別舞臺 |
+| 六条御息所 | ろくじょうのみやすどころ　Rokujō no Miyasudokoro | 六條御息所 | 《源氏物語》人物，隨女兒齋宮同赴野宮 |
+| 治承・寿永の乱 | じしょう・じゅえいのらん　Jishō-Juei no Ran | 治承、壽永之亂 | 即源平合戰，齋宮一度中斷之因 |
+| 延元の乱 | えんげんのらん　Engen no Ran | 延元之亂 | 南北朝開端的動亂，齋宮制度斷絕之時 |
+| 斎宮跡 | さいくうあと　Saikū Ato | 齋宮跡 | 三重縣明和町的遺址，國家史蹟 |
+| 緑釉陶器 | りょくゆうとうき　Ryokuyū Tōki | 綠釉陶器 | 齋宮跡出土的施釉陶器 |
+| 神功皇后 | じんぐうこうごう　Jingū Kōgō | 神功皇后 | 天照皇大神宮緣起中自任神主者 |
 
 ## [式神](regions/08-east-asia/shikigami.md)
 
@@ -2473,6 +4053,90 @@
 | chonos／cuncos／huilliches | — | 喬諾人／昆科人／威利切人 | 西班牙人抵達前的奇洛埃住民 |
 | Renato Cárdenas | — | 雷納托·卡德納斯 | 奇洛埃民俗研究者 |
 | Gonzalo Rojas Flores | — | 貢薩洛·羅哈斯·弗洛雷斯 | 《地上的諸王》作者，本案研究的主要依據 |
+
+## [科頓·馬瑟](regions/10-americas/cotton-mather.md)
+
+| 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
+| --- | --- | --- | --- |
+| Cotton Mather | — | 科頓·馬瑟 | 本條目主角，沿用塞勒姆條目既有譯名 |
+| Increase Mather | — | 因克里斯·馬瑟 | 其父，哈佛校長、《關於惡靈的良心案例》作者 |
+| Richard Mather／John Cotton | — | 理查·馬瑟／約翰·科頓 | 兩位祖父，麻薩諸塞奠基期的清教牧師 |
+| Old North Meeting House／North Church | — | 波士頓北教會 | 父子共牧的公理宗教會，非聖公會老北教堂 |
+| spectral evidence | — | 幽靈證據 | 受害者宣稱看見被告幽影所作的證詞 |
+| Memorable Providences, Relating to Witchcrafts and Possessions | — | 《關於巫術與附身的可記之天意》 | 1689 年著作，記古德溫家孩童案 |
+| Wonders of the Invisible World | — | 《不可見世界的奇事》 | 為塞勒姆審判辯護之作，出版年在原文中有 1692／1693 兩說 |
+| More Wonders of the Invisible World | — | 《不可見世界的更多奇事》 | 卡列夫 1700 年的抨擊之作 |
+| The Return of Several Ministers | — | 〈數位受諮詢牧師的答覆〉 | 1692 年 6 月由馬瑟執筆的牧師集體回覆 |
+| Magnalia Christi Americana | — | 《美洲的基督偉業》 | 1702 年的新英格蘭教會史，塞勒姆條目作《大事記》 |
+| Biblia Americana | — | 《美洲聖經注》 | 生前未刊的聖經注釋大計畫 |
+| Bonifacius, or Essays to Do Good | — | 《行善論集》 | 1710 年著作，富蘭克林自稱深受影響 |
+| The Christian Philosopher | — | 《基督徒哲學家》 | 1721 年，美洲第一部有系統的科學著作 |
+| The Negro Christianized | — | 《黑人的基督化》 | 1706 年主張人道對待並教化黑奴之作 |
+| Curiosa Americana | — | 《美洲奇聞》 | 1712—1724 年致皇家學會的科學報告集 |
+| The Angel of Bethesda | — | 《貝塞斯達的天使》 | 生前未刊的醫學手冊 |
+| Pillars of Salt | — | 《鹽柱》 | 1699 年的處決講道合集 |
+| Robert Calef | — | 羅伯特·卡列夫 | 波士頓商人，馬瑟最主要的批評者 |
+| Jan Stievermann | — | 揚·施蒂弗曼 | 海德堡美國研究中心學者，主張其角色矛盾 |
+| Reiner Smolinski | — | 賴納·斯莫林斯基 | 馬瑟著作專家，《美洲聖經注》主編 |
+| Kenneth Silverman | — | 肯尼斯·西爾弗曼 | 馬瑟傳記作者 |
+| Samuel Eliot Morison | — | 塞繆爾·艾略特·莫里森 | 史家，「鐵罐」之喻的作者 |
+| Nathaniel Hawthorne | — | 納撒尼爾·霍桑 | 稱馬瑟為塞勒姆「這場禍事的首要推手」 |
+| Charles W. Upham | — | 查爾斯·厄普漢 | 19 世紀政治人物兼史家，重申馬瑟的責任 |
+| John Richards | — | 約翰·理查茲 | 奧耶爾與特米納法庭法官，馬瑟長信的收信人 |
+| William Stoughton | — | 威廉·斯托頓 | 副總督、首席法官，為《奇事》背書 |
+| William Phips | — | 威廉·菲普斯 | 麻薩諸塞灣省首任總督，終止審判並赦免 |
+| Bridget Bishop | — | 布莉姬·畢夏普 | 第一位受審並被處決者 |
+| George Burroughs | — | 喬治·布洛斯 | 前塞勒姆村牧師，馬瑟在其行刑後向群眾發言 |
+| Mercy Short／Margaret Rule | — | 默西·肖特／瑪格麗特·魯爾 | 審判後馬瑟處理的兩起附身個案 |
+| John Goodwin／Martha Goodwin | — | 約翰·古德溫／瑪莎·古德溫 | 波士頓泥水匠與其長女，1688 年附身案主角 |
+| Ann Glover | — | 安·葛洛佛 | 愛爾蘭天主教寡婦，因古德溫案被絞死 |
+| Sir Edmund Andros | — | 安德羅斯爵士 | 新英格蘭自治領總督，1689 年被推翻 |
+| Joseph Dudley | — | 約瑟夫·達德利 | 麻薩諸塞灣省總督，馬瑟的政敵 |
+| John Leverett | — | 約翰·萊弗里特 | 1708 年出任哈佛校長的俗人 |
+| Elihu Yale | — | 伊萊休·耶魯 | 捐款者，耶魯學院因其得名 |
+| Onesimus | — | 奧尼西姆 | 馬瑟所蓄的非洲奴隸，人痘接種知識的來源 |
+| Zabdiel Boylston | — | 扎布迪爾·博伊爾斯頓 | 首先在波士頓施行人痘接種的醫師 |
+| William Douglass | — | 威廉·道格拉斯 | 反對接種的醫師，馬瑟的論敵 |
+| John Williams | — | 約翰·威廉斯 | 以聖經反對接種的波士頓人 |
+| variolation／inoculation | — | 人痘接種 | 以輕症患者滲出物接種以取得免疫 |
+| Royal Society | — | 皇家學會 | 倫敦學會，1713 年選他為會士 |
+| Court of Oyer and Terminer | — | 奧耶爾與特米納法庭 | 1692 年特設的巡迴刑事法庭 |
+| Copp's Hill Burying Ground | — | 科普丘墓園 | 波士頓北端墓園，其葬地 |
+
+## [伊莉莎白·豪](regions/10-americas/elizabeth-howe.md)
+
+| 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
+| --- | --- | --- | --- |
+| Elizabeth Howe (née Jackson) | — | 伊莉莎白·豪（婚前姓傑克森） | 本條目主角，1692 年 7 月 19 日被絞死 |
+| James Howe II | — | 詹姆斯·豪二世 | 其夫，托普斯菲爾德農人，晚年失明 |
+| John Howe | — | 約翰·豪 | 其小叔，以母豬暴斃指控她 |
+| goodwife／Goode How | — | 豪家娘子 | 對平民已婚婦女的稱呼，塞勒姆條目中音譯作「古蒂」 |
+| Perley／Pearly family | — | 珀利家 | 伊普斯威奇的主要指控者，原文兩種拼法並存 |
+| Samuel Perley | — | 塞繆爾·珀利 | 珀利家家長，證稱母牛因她發狂溺斃 |
+| Mercy Lewis | — | 默西·路易斯 | 十九歲，湯瑪斯·普特南家女僕，幽靈證據主要提供者 |
+| Mary Walcott | — | 瑪麗·沃爾科特 | 最早「受折磨」的女孩之一，名列逮捕令 |
+| Ann Putnam Jr. | — | 小安·普特南 | 最積極的指控者，1706 年公開致歉 |
+| Abigail Williams | — | 阿比蓋兒·威廉斯 | 帕里斯牧師姪女，名列逮捕令 |
+| Mary Warren | — | 瑪麗·沃倫 | 普洛克特家女僕，曾招認女孩們說謊後又倒戈 |
+| Susannah Sheldon | — | 蘇珊·謝爾登 | 筆錄中作證稱豪曾帶她去池塘者 |
+| John Indian | — | 印第安人約翰 | 帕里斯家被奴役者，受訊時當庭發作 |
+| Samuel Parris | — | 塞繆爾·帕里斯 | 塞勒姆村牧師，訊問筆錄的記錄者 |
+| Samuel Phillips | — | 塞繆爾·菲利普斯 | 羅利牧師，為她作證的辯護證人 |
+| Payson | — | 佩森 | 羅利牧師，第二位辯護證人 |
+| John Hathorne／Jonathan Corwin | — | 約翰·霍索恩／喬納森·科文 | 簽發逮捕令的地方法官 |
+| Ephraim Wildes | — | 伊法蓮·懷爾德斯 | 托普斯菲爾德警官，執行逮捕者 |
+| Nathaniel Ingersoll | — | 納撒尼爾·英格索爾 | 塞勒姆村中尉，其宅為受訊地點 |
+| Topsfield／Ipswich／Rowley | — | 托普斯菲爾德／伊普斯威奇／羅利 | 本案相關的三個麻薩諸塞市鎮 |
+| spectral evidence | — | 幽靈證據 | 受害者宣稱看見被告幽影所作的證詞 |
+| anger followed by mischief | — | 怒後生災 | 被告動怒後鄰人遭災，用以入罪的證據形式 |
+| witch's teat／witch's mark | — | 女巫的乳頭／女巫記號 | 被告身上任何小的皮膚增生或異常 |
+| Gallows Hill | — | 絞架山 | 塞勒姆的處決地與草草掩埋處 |
+| The Salem Witchcraft Papers | — | 《塞勒姆巫術文書》 | 塞勒姆審判法律文件抄本集，本條目多處引錄 |
+| The Devil in Massachusetts | — | 《麻薩諸塞的魔鬼》 | 瑪麗昂·斯塔基所著，記獄中情狀 |
+| The Witches of Early America | — | 《早期美洲的女巫》 | 幽靈證據定義的出處 |
+| Philip English | — | 菲利普·英格利許 | 1709 年平反請願的發起人之一 |
+| Rebecca Nurse／Sarah Good／Sarah Wildes／Susanna Martin | — | 蕾貝卡·納斯／莎拉·古德／莎拉·懷爾德斯／蘇珊娜·馬丁 | 1692 年 7 月 19 日與她同日受刑者 |
+| Giles Corey | — | 吉爾斯·科里 | 拒絕答辯而被壓石致死者 |
 
 ## [格蕾絲·雪伍德](regions/10-americas/grace-sherwood.md)
 

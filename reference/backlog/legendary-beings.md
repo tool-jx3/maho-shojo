@@ -1,12 +1,9 @@
 # 待收錄候選：傳說人物與怪異存在
 
-共 85 項。回到 [待辦總表](../BACKLOG.md)。
+共 82 項。回到 [待辦總表](../BACKLOG.md)。
 
 本檔由 `scripts/build_reference_backlog.py` 產生，是機器掃描的結果而非選錄決定，每一項都需要人工判斷。
 
-- [ ] **Gilles de Rais**（英語，原始碼 207,509 位元組）— [原文](https://en.wikipedia.org/wiki/Gilles_de_Rais) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology > Deal with the Devil
-- [ ] **Morgan le Fay**（英語，原始碼 126,136 位元組）— [原文](https://en.wikipedia.org/wiki/Morgan_le_Fay) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology > Witches in folklore
-- [ ] **Hecate**（英語，原始碼 102,208 位元組）— [原文](https://en.wikipedia.org/wiki/Hecate) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology
 - [ ] **Robert Johnson**（英語，原始碼 98,221 位元組）— [原文](https://en.wikipedia.org/wiki/Robert_Johnson) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology > Deal with the Devil
 - [ ] **Deals with the Devil in popular culture**（英語，原始碼 70,405 位元組）— [原文](https://en.wikipedia.org/wiki/Deals_with_the_Devil_in_popular_culture) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology > Deal with the Devil
 - [ ] **Elizabeth Báthory**（英語，原始碼 66,224 位元組）— [原文](https://en.wikipedia.org/wiki/Elizabeth_B%C3%A1thory) — 來源分類：Category:Witchcraft > Witchcraft in folklore and mythology > Deal with the Devil

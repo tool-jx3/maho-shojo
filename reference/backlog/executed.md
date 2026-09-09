@@ -1,12 +1,11 @@
 # 待收錄候選：被處決者
 
-共 163 項。回到 [待辦總表](../BACKLOG.md)。
+共 162 項。回到 [待辦總表](../BACKLOG.md)。
 
 本檔由 `scripts/build_reference_backlog.py` 產生，是機器掃描的結果而非選錄決定，每一項都需要人工判斷。
 
 - [ ] **Joan of Arc**（英語，原始碼 186,511 位元組）— [原文](https://en.wikipedia.org/wiki/Joan_of_Arc) — 來源分類：Category:People executed for witchcraft > French people executed for witchcraft
 - [ ] **John Proctor (Salem witch trials)**（英語，原始碼 29,037 位元組）— [原文](https://en.wikipedia.org/wiki/John_Proctor_%28Salem_witch_trials%29) — 來源分類：Category:People executed for witchcraft > American people executed for witchcraft > People executed in the Salem witch trials
-- [ ] **Elizabeth Howe**（英語，原始碼 25,765 位元組）— [原文](https://en.wikipedia.org/wiki/Elizabeth_Howe) — 來源分類：Category:People executed for witchcraft > American people executed for witchcraft
 - [ ] **Empress Wang (Gaozong)**（英語，原始碼 22,801 位元組）— [原文](https://en.wikipedia.org/wiki/Empress_Wang_%28Gaozong%29) — 來源分類：Category:People executed for witchcraft > Chinese people executed for witchcraft
 - [ ] **Sarah Wildes**（英語，原始碼 21,920 位元組）— [原文](https://en.wikipedia.org/wiki/Sarah_Wildes) — 來源分類：Category:People executed for witchcraft > American people executed for witchcraft > People executed in the Salem witch trials
 - [ ] **Malin Matsdotter**（英語，原始碼 21,536 位元組）— [原文](https://en.wikipedia.org/wiki/Malin_Matsdotter) — 來源分類：Category:People executed for witchcraft > Swedish people executed for witchcraft

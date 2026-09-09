@@ -35,7 +35,8 @@ UA = (
 
 # 各語言的參考文獻／延伸閱讀類章節，不列入覆蓋率
 BOILERPLATE = re.compile(
-    r"^(referen|referan|referanser|explanatory note|literatur|weblink|einzelnachweis|"
+    r"^(referen|référen|referan|referanser|explanatory note|literatur|weblink|einzelnachweis|"
+    r"articles connexes|articoli correlati|artículos relacionados|"
     r"siehe auch|quellen|anmerkungen|"
     r"bibliograf|bibliograph|enlaces|véase|notas|note|voir aussi|liens|annexes|"
     r"external|further reading|see also|sources|notes|footnotes|primary sources|"
@@ -44,9 +45,9 @@ BOILERPLATE = re.compile(
     r"przypisy|linki zewn|bibliografia|zobacz też|"
     r"ikus gainera|erreferentzia|kanpo estek|外部リンク|脚注|参考文献|関連項目|"
     r"註釋|注釋|参见|參見|參考|注释|각주|외부|참고|같이 보기|같이보기|同名條目|примечани|литератур|ссылк|"
-    r"див\. також|джерела|посилання|πηγές|παραπομπές|εξωτερικ|δείτε|jegyzetek|"
+    r"див\. також|джерела|посилання|напомене|референце|види још|πηγές|παραπομπές|εξωτερικ|δείτε|jegyzetek|"
     r"források|további|kapcsolódó|collegamenti|voci correlate|altri progetti|"
-    r"מקורות|קישורים|לקריאה|ראו גם|انظر أيضا|مراجع|وصلات|مصادر)",
+    r"מקורות|קישורים|לקריאה|ראו גם|הערות שוליים|انظر أيضا|مراجع|وصلات|مصادر)",
     re.I,
 )
 

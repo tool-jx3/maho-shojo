@@ -1,14 +1,9 @@
 # 待收錄候選：獵巫的反對者
 
-共 29 項。回到 [待辦總表](../BACKLOG.md)。
+共 24 項。回到 [待辦總表](../BACKLOG.md)。
 
 本檔由 `scripts/build_reference_backlog.py` 產生，是機器掃描的結果而非選錄決定，每一項都需要人工判斷。
 
-- [ ] **Guillaume Adeline**（德語，原始碼 33,830 位元組）— [原文](https://de.wikipedia.org/wiki/Guillaume_Adeline) — 來源分類：Kategorie:Hexenverfolgung > Gegner der Hexenverfolgung
-- [ ] **Simon Gogräve**（德語，原始碼 32,795 位元組）— [原文](https://de.wikipedia.org/wiki/Simon_Gogr%C3%A4ve) — 來源分類：Kategorie:Hexenverfolgung > Gegner der Hexenverfolgung
-- [ ] **Matthäus Alber**（德語，原始碼 26,653 位元組）— [原文](https://de.wikipedia.org/wiki/Matth%C3%A4us_Alber) — 來源分類：Kategorie:Hexenverfolgung > Gegner der Hexenverfolgung
-- [ ] **Johannes Pistorius der Jüngere**（德語，原始碼 17,752 位元組）— [原文](https://de.wikipedia.org/wiki/Johannes_Pistorius_der_J%C3%BCngere) — 來源分類：Kategorie:Hexenverfolgung > Gegner der Hexenverfolgung
-- [ ] **Dietrich Schnepf**（德語，原始碼 17,626 位元組）— [原文](https://de.wikipedia.org/wiki/Dietrich_Schnepf) — 來源分類：Kategorie:Hexenverfolgung > Gegner der Hexenverfolgung
 - [ ] **Johannes Ewich**（德語，原始碼 16,661 位元組）— [原文](https://de.wikipedia.org/wiki/Johannes_Ewich) — 來源分類：Kategorie:Hexenverfolgung > Gegner der Hexenverfolgung
 - [ ] **Heinrich Bode (Rechtswissenschaftler)**（德語，原始碼 11,352 位元組）— [原文](https://de.wikipedia.org/wiki/Heinrich_Bode_%28Rechtswissenschaftler%29) — 來源分類：Kategorie:Hexenverfolgung > Gegner der Hexenverfolgung
 - [ ] **Johann Matthäus Meyfart**（德語，原始碼 11,225 位元組）— [原文](https://de.wikipedia.org/wiki/Johann_Matth%C3%A4us_Meyfart) — 來源分類：Kategorie:Hexenverfolgung > Gegner der Hexenverfolgung

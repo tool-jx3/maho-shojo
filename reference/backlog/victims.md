@@ -1,10 +1,9 @@
 # 待收錄候選：獵巫受害者（個案）
 
-共 154 項。回到 [待辦總表](../BACKLOG.md)。
+共 152 項。回到 [待辦總表](../BACKLOG.md)。
 
 本檔由 `scripts/build_reference_backlog.py` 產生，是機器掃描的結果而非選錄決定，每一項都需要人工判斷。
 
-- [ ] **Bader-Ann**（德語，原始碼 55,937 位元組）— [原文](https://de.wikipedia.org/wiki/Bader-Ann) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
 - [ ] **Katharina Kepler**（德語，原始碼 20,383 位元組）— [原文](https://de.wikipedia.org/wiki/Katharina_Kepler) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
 - [ ] **Chonrad Stoeckhlin und die Nachtschar. Eine Geschichte aus der frühen Neuzeit**（德語，原始碼 19,053 位元組）— [原文](https://de.wikipedia.org/wiki/Chonrad_Stoeckhlin_und_die_Nachtschar._Eine_Geschichte_aus_der_fr%C3%BChen_Neuzeit) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
 - [ ] **Anna Murschel**（德語，原始碼 17,322 位元組）— [原文](https://de.wikipedia.org/wiki/Anna_Murschel) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
@@ -101,7 +100,6 @@
 - [ ] **Jaquette de Clause**（德語，原始碼 6,575 位元組）— [原文](https://de.wikipedia.org/wiki/Jaquette_de_Clause) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
 - [ ] **Maria Pauer**（德語，原始碼 6,554 位元組）— [原文](https://de.wikipedia.org/wiki/Maria_Pauer) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
 - [ ] **Mette Fliß**（德語，原始碼 6,462 位元組）— [原文](https://de.wikipedia.org/wiki/Mette_Fli%C3%9F) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
-- [ ] **Maria Holl (Hexenprozess)**（德語，原始碼 6,454 位元組）— [原文](https://de.wikipedia.org/wiki/Maria_Holl_%28Hexenprozess%29) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
 - [ ] **Elisabeth Strupp**（德語，原始碼 6,414 位元組）— [原文](https://de.wikipedia.org/wiki/Elisabeth_Strupp) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
 - [ ] **Marytje Arendsdr**（德語，原始碼 6,342 位元組）— [原文](https://de.wikipedia.org/wiki/Marytje_Arendsdr) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung
 - [ ] **Agnes Schmitt**（德語，原始碼 6,295 位元組）— [原文](https://de.wikipedia.org/wiki/Agnes_Schmitt) — 來源分類：Kategorie:Hexenverfolgung > Opfer der Hexenverfolgung

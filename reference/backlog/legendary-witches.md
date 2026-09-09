@@ -1,6 +1,6 @@
 # 待收錄候選：傳說中的巫者形象
 
-共 142 項。回到 [待辦總表](../BACKLOG.md)。
+共 138 項。回到 [待辦總表](../BACKLOG.md)。
 
 本檔由 `scripts/build_reference_backlog.py` 產生，是機器掃描的結果而非選錄決定，每一項都需要人工判斷。
 
@@ -8,11 +8,9 @@
 - [ ] **Chasse aux sorcières**（法語，原始碼 163,699 位元組）— [原文](https://fr.wikipedia.org/wiki/Chasse_aux_sorci%C3%A8res) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine
 - [ ] **Streghe (serie televisiva 1998)**（義大利語，原始碼 123,192 位元組）— [原文](https://it.wikipedia.org/wiki/Streghe_%28serie_televisiva_1998%29) — 來源分類：Categoria:Stregoneria > Streghe nelle opere di fantasia > Streghe (serie televisiva)
 - [ ] **Sorcière**（法語，原始碼 95,525 位元組）— [原文](https://fr.wikipedia.org/wiki/Sorci%C3%A8re) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine > Sorcière
-- [ ] **Dahut**（法語，原始碼 83,279 位元組）— [原文](https://fr.wikipedia.org/wiki/Dahut) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende
 - [ ] **Hélène (mythologie)**（法語，原始碼 81,439 位元組）— [原文](https://fr.wikipedia.org/wiki/H%C3%A9l%C3%A8ne_%28mythologie%29) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende > Magicien de la mythologie grecque
 - [ ] **Rois mages**（法語，原始碼 76,076 位元組）— [原文](https://fr.wikipedia.org/wiki/Rois_mages) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende > Rois mages
 - [ ] **Bruja**（西班牙語，原始碼 73,958 位元組）— [原文](https://es.wikipedia.org/wiki/Bruja) — 來源分類：Categoría:Brujería > Brujas (brujería)
-- [ ] **Аэндорская волшебница**（俄語，原始碼 68,413 位元組）— [原文](https://ru.wikipedia.org/wiki/%D0%90%D1%8D%D0%BD%D0%B4%D0%BE%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D0%B2%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D0%B8%D1%86%D0%B0) — 來源分類：Категория:Ведьмы
 - [ ] **Front-de-cuivre**（法語，原始碼 64,883 位元組）— [原文](https://fr.wikipedia.org/wiki/Front-de-cuivre) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende
 - [ ] **Procès de sorcellerie de Fribourg**（法語，原始碼 58,622 位元組）— [原文](https://fr.wikipedia.org/wiki/Proc%C3%A8s_de_sorcellerie_de_Fribourg) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine
 - [ ] **Sabbat (sorcellerie)**（法語，原始碼 53,828 位元組）— [原文](https://fr.wikipedia.org/wiki/Sabbat_%28sorcellerie%29) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine
@@ -28,7 +26,6 @@
 - [ ] **Madame de Montespan**（法語，原始碼 37,079 位元組）— [原文](https://fr.wikipedia.org/wiki/Madame_de_Montespan) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine > Affaire des poisons
 - [ ] **Акеларре**（俄語，原始碼 36,680 位元組）— [原文](https://ru.wikipedia.org/wiki/%D0%90%D0%BA%D0%B5%D0%BB%D0%B0%D1%80%D1%80%D0%B5) — 來源分類：Категория:Ведьмы
 - [ ] **Sorcellerie chez Goya**（法語，原始碼 36,040 位元組）— [原文](https://fr.wikipedia.org/wiki/Sorcellerie_chez_Goya) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine
-- [ ] **Possessions d'Aix-en-Provence**（法語，原始碼 33,897 位元組）— [原文](https://fr.wikipedia.org/wiki/Possessions_d%27Aix-en-Provence) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine
 - [ ] **Procès de sorcellerie du Valais**（法語，原始碼 33,308 位元組）— [原文](https://fr.wikipedia.org/wiki/Proc%C3%A8s_de_sorcellerie_du_Valais) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine
 - [ ] **Marie-Madeleine Dreux d'Aubray**（法語，原始碼 33,297 位元組）— [原文](https://fr.wikipedia.org/wiki/Marie-Madeleine_Dreux_d%27Aubray) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine > Affaire des poisons
 - [ ] **Босорка**（俄語，原始碼 32,765 位元組）— [原文](https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D1%81%D0%BE%D1%80%D0%BA%D0%B0) — 來源分類：Категория:Ведьмы
@@ -38,7 +35,6 @@
 - [ ] **Mona Fandey**（西班牙語，原始碼 30,313 位元組）— [原文](https://es.wikipedia.org/wiki/Mona_Fandey) — 來源分類：Categoría:Brujería > Brujas (brujería)
 - [ ] **Merlin (série télévisée)**（法語，原始碼 29,596 位元組）— [原文](https://fr.wikipedia.org/wiki/Merlin_%28s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e%29) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende > Merlin
 - [ ] **Дайер, Молл**（俄語，原始碼 29,253 位元組）— [原文](https://ru.wikipedia.org/wiki/%D0%94%D0%B0%D0%B9%D0%B5%D1%80%2C_%D0%9C%D0%BE%D0%BB%D0%BB) — 來源分類：Категория:Ведьмы
-- [ ] **Fée Morgane**（法語，原始碼 25,409 位元組）— [原文](https://fr.wikipedia.org/wiki/F%C3%A9e_Morgane) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende
 - [ ] **Barbara Napier**（西班牙語，原始碼 24,255 位元組）— [原文](https://es.wikipedia.org/wiki/Barbara_Napier) — 來源分類：Categoría:Brujería > Brujas (brujería) > Personas acusadas de brujería
 - [ ] **Procès de sorcellerie en Écosse à l'époque moderne**（法語，原始碼 23,486 位元組）— [原文](https://fr.wikipedia.org/wiki/Proc%C3%A8s_de_sorcellerie_en_%C3%89cosse_%C3%A0_l%27%C3%A9poque_moderne) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine
 - [ ] **Hécate**（法語，原始碼 23,381 位元組）— [原文](https://fr.wikipedia.org/wiki/H%C3%A9cate) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende > Magicien de la mythologie grecque

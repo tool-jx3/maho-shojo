@@ -186,7 +186,7 @@ def covered_titles():
                 for part in re.split(r"[／/]", v):
                     seen.add(part.strip())
         src = e.get("source") or {}
-        for k in ("wiki", "wiki_secondary"):
+        for k in ("wiki", "wiki_secondary", "wiki_tertiary"):
             url = src.get(k)
             if not url:
                 continue

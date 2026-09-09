@@ -1,10 +1,9 @@
 # 待收錄候選：受指控者與指控者
 
-共 86 項。回到 [待辦總表](../BACKLOG.md)。
+共 85 項。回到 [待辦總表](../BACKLOG.md)。
 
 本檔由 `scripts/build_reference_backlog.py` 產生，是機器掃描的結果而非選錄決定，每一項都需要人工判斷。
 
-- [ ] **Cotton Mather**（英語，原始碼 87,775 位元組）— [原文](https://en.wikipedia.org/wiki/Cotton_Mather) — 來源分類：Category:Witch trials > Accusers in witch trials
 - [ ] **Queens' College, Cambridge**（英語，原始碼 56,650 位元組）— [原文](https://en.wikipedia.org/wiki/Queens%27_College%2C_Cambridge) — 來源分類：Category:Witch trials > People accused of witchcraft > Elizabeth Woodville
 - [ ] **Elizabeth Woodville**（英語，原始碼 47,704 位元組）— [原文](https://en.wikipedia.org/wiki/Elizabeth_Woodville) — 來源分類：Category:Witch trials > People accused of witchcraft
 - [ ] **Nicholas Gaynesford**（英語，原始碼 42,696 位元組）— [原文](https://en.wikipedia.org/wiki/Nicholas_Gaynesford) — 來源分類：Category:Witch trials > People accused of witchcraft > Elizabeth Woodville

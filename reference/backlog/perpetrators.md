@@ -1,12 +1,10 @@
 # 待收錄候選：獵巫加害者
 
-共 83 項。回到 [待辦總表](../BACKLOG.md)。
+共 81 項。回到 [待辦總表](../BACKLOG.md)。
 
 本檔由 `scripts/build_reference_backlog.py` 產生，是機器掃描的結果而非選錄決定，每一項都需要人工判斷。
 
 - [ ] **Johannes Calvin**（德語，原始碼 170,848 位元組）— [原文](https://de.wikipedia.org/wiki/Johannes_Calvin) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung
-- [ ] **Paula von Weitershausen**（德語，原始碼 52,506 位元組）— [原文](https://de.wikipedia.org/wiki/Paula_von_Weitershausen) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung
-- [ ] **Sebastian Röttinger**（德語，原始碼 45,447 位元組）— [原文](https://de.wikipedia.org/wiki/Sebastian_R%C3%B6ttinger) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung
 - [ ] **Martin Anton Delrio**（德語，原始碼 30,256 位元組）— [原文](https://de.wikipedia.org/wiki/Martin_Anton_Delrio) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung > Hexentheoretiker
 - [ ] **Jean Bodin**（德語，原始碼 29,634 位元組）— [原文](https://de.wikipedia.org/wiki/Jean_Bodin) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung > Hexentheoretiker
 - [ ] **Friedrich Hoffmann**（德語，原始碼 23,590 位元組）— [原文](https://de.wikipedia.org/wiki/Friedrich_Hoffmann) — 來源分類：Kategorie:Hexenverfolgung > Täter der Hexenverfolgung > Hexentheoretiker

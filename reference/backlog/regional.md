@@ -1,6 +1,6 @@
 # 待收錄候選：各地區的巫術
 
-共 272 項。回到 [待辦總表](../BACKLOG.md)。
+共 271 項。回到 [待辦總表](../BACKLOG.md)。
 
 本檔由 `scripts/build_reference_backlog.py` 產生，是機器掃描的結果而非選錄決定，每一項都需要人工判斷。
 
@@ -10,7 +10,6 @@
 - [ ] **Harry Potter**（西班牙語，原始碼 111,220 位元組）— [原文](https://es.wikipedia.org/wiki/Harry_Potter) — 來源分類：Categoría:Brujería > Brujería en la ficción > Harry Potter
 - [ ] **Política en Harry Potter**（西班牙語，原始碼 96,331 位元組）— [原文](https://es.wikipedia.org/wiki/Pol%C3%ADtica_en_Harry_Potter) — 來源分類：Categoría:Brujería > Brujería en la ficción > Harry Potter
 - [ ] **Harry Potter (serie de televisión)**（西班牙語，原始碼 90,654 位元組）— [原文](https://es.wikipedia.org/wiki/Harry_Potter_%28serie_de_televisi%C3%B3n%29) — 來源分類：Categoría:Brujería > Brujería en la ficción > Harry Potter
-- [ ] **Zduhać**（英語，原始碼 78,266 位元組）— [原文](https://en.wikipedia.org/wiki/Zduha%C4%87) — 來源分類：Category:European witchcraft
 - [ ] **Influencias y analogías en Harry Potter**（西班牙語，原始碼 72,106 位元組）— [原文](https://es.wikipedia.org/wiki/Influencias_y_analog%C3%ADas_en_Harry_Potter) — 來源分類：Categoría:Brujería > Brujería en la ficción > Harry Potter
 - [ ] **The Wonderful Wizard of Oz**（英語，原始碼 68,561 位元組）— [原文](https://en.wikipedia.org/wiki/The_Wonderful_Wizard_of_Oz) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in written fiction
 - [ ] **Herejía de Orleans**（西班牙語，原始碼 67,006 位元組）— [原文](https://es.wikipedia.org/wiki/Herej%C3%ADa_de_Orleans) — 來源分類：Categoría:Brujería > Brujería por país > Brujería en Francia
