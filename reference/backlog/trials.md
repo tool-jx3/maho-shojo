@@ -1,248 +1,251 @@
 # 待收錄候選：審判事件
 
-共 242 項。回到 [待辦總表](../BACKLOG.md)。
+共 245 項。回到 [待辦總表](../BACKLOG.md)。
 
 本檔由 `scripts/build_reference_backlog.py` 產生，是機器掃描的結果而非選錄決定，每一項都需要人工判斷。
 
-- [ ] **Häxprocess**（瑞典語，147,513 字元）— [原文](https://sv.wikipedia.org/wiki/H%C3%A4xprocess) — 來源分類：Kategori:Häxprocesser
-- [ ] **Inquisición española**（西班牙語，131,341 字元）— [原文](https://es.wikipedia.org/wiki/Inquisici%C3%B3n_espa%C3%B1ola) — 來源分類：Categoría:Brujería > Procesos por brujería
-- [ ] **Witch trials in the early modern period**（英語，101,777 字元）— [原文](https://en.wikipedia.org/wiki/Witch_trials_in_the_early_modern_period) — 來源分類：Category:Witch trials
-- [ ] **Caza de brujas**（西班牙語，79,216 字元）— [原文](https://es.wikipedia.org/wiki/Caza_de_brujas) — 來源分類：Categoría:Brujería > Procesos por brujería
-- [ ] **Hexenverfolgung im Hochstift Eichstätt**（德語，67,442 字元）— [原文](https://de.wikipedia.org/wiki/Hexenverfolgung_im_Hochstift_Eichst%C3%A4tt) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung nach räumlicher Zuordnung > Hexenprozesse in Deutschland
-- [ ] **Matthew Hale (jurist)**（英語，61,769 字元）— [原文](https://en.wikipedia.org/wiki/Matthew_Hale_%28jurist%29) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in England
-- [ ] **Hexenverfolgung im Herzogtum Westfalen**（德語，58,711 字元）— [原文](https://de.wikipedia.org/wiki/Hexenverfolgung_im_Herzogtum_Westfalen) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung nach räumlicher Zuordnung > Hexenprozesse in Deutschland
-- [ ] **Anne of Denmark and contrary winds**（英語，52,629 字元）— [原文](https://en.wikipedia.org/wiki/Anne_of_Denmark_and_contrary_winds) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Scotland
-- [ ] **Hexenprozesse in Freiburg (Schweiz)**（德語，52,041 字元）— [原文](https://de.wikipedia.org/wiki/Hexenprozesse_in_Freiburg_%28Schweiz%29) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung nach räumlicher Zuordnung
-- [ ] **Andover, Massachusetts**（英語，51,041 字元）— [原文](https://en.wikipedia.org/wiki/Andover%2C_Massachusetts) — 來源分類：Category:Witch trials > Witch trials in North America > Salem witch trials
-- [ ] **Ipswich, Massachusetts**（英語，42,082 字元）— [原文](https://en.wikipedia.org/wiki/Ipswich%2C_Massachusetts) — 來源分類：Category:Witch trials > Witch trials in North America > Salem witch trials
-- [ ] **Hexenprozesse in der Grafschaft Werdenfels**（德語，41,445 字元）— [原文](https://de.wikipedia.org/wiki/Hexenprozesse_in_der_Grafschaft_Werdenfels) — 來源分類：Kategorie:Hexenverfolgung > Hexenzeitung
-- [ ] **Venetian Holy Inquisition**（英語，39,669 字元）— [原文](https://en.wikipedia.org/wiki/Venetian_Holy_Inquisition) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Italy
-- [ ] **Trial of Joan of Arc**（英語，38,956 字元）— [原文](https://en.wikipedia.org/wiki/Trial_of_Joan_of_Arc) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in France
-- [ ] **Caza de brujas moderna**（西班牙語，38,869 字元）— [原文](https://es.wikipedia.org/wiki/Caza_de_brujas_moderna) — 來源分類：Categoría:Brujería > Procesos por brujería
-- [ ] **Charles Borromeo**（英語，37,922 字元）— [原文](https://en.wikipedia.org/wiki/Charles_Borromeo) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Italy
-- [ ] **Hexenverfolgung in Lemgo**（德語，37,799 字元）— [原文](https://de.wikipedia.org/wiki/Hexenverfolgung_in_Lemgo) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung nach räumlicher Zuordnung > Hexenprozesse in Deutschland
-- [ ] **Witch trials in early modern Scotland**（英語，37,196 字元）— [原文](https://en.wikipedia.org/wiki/Witch_trials_in_early_modern_Scotland) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Scotland
-- [ ] **Hexenverfolgung im Waadtland**（德語，36,795 字元）— [原文](https://de.wikipedia.org/wiki/Hexenverfolgung_im_Waadtland) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung nach räumlicher Zuordnung
-- [ ] **Danvers, Massachusetts**（英語，32,884 字元）— [原文](https://en.wikipedia.org/wiki/Danvers%2C_Massachusetts) — 來源分類：Category:Witch trials > Witch trials in North America > Salem witch trials
-- [ ] **Anexo:Personas ejecutadas por brujería**（西班牙語，31,545 字元）— [原文](https://es.wikipedia.org/wiki/Anexo%3APersonas_ejecutadas_por_brujer%C3%ADa) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
-- [ ] **Häxprocesser i Sverige**（瑞典語，30,277 字元）— [原文](https://sv.wikipedia.org/wiki/H%C3%A4xprocesser_i_Sverige) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Europa > Häxprocesser i Sverige
-- [ ] **Brujas de Pendle**（西班牙語，30,256 字元）— [原文](https://es.wikipedia.org/wiki/Brujas_de_Pendle) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
-- [ ] **Hexenprozesse von Salem**（德語，29,707 字元）— [原文](https://de.wikipedia.org/wiki/Hexenprozesse_von_Salem) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung nach räumlicher Zuordnung
-- [ ] **Saint-Hippolyte, Haut-Rhin**（英語，29,694 字元）— [原文](https://en.wikipedia.org/wiki/Saint-Hippolyte%2C_Haut-Rhin) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in France
-- [ ] **Feminist interpretations of witch trials in the early modern period**（英語，29,494 字元）— [原文](https://en.wikipedia.org/wiki/Feminist_interpretations_of_witch_trials_in_the_early_modern_period) — 來源分類：Category:Witch trials
-- [ ] **Die Besessenen von Aix-en-Provence**（德語，28,732 字元）— [原文](https://de.wikipedia.org/wiki/Die_Besessenen_von_Aix-en-Provence) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung nach räumlicher Zuordnung
-- [ ] **Pittenweem witches**（英語，28,440 字元）— [原文](https://en.wikipedia.org/wiki/Pittenweem_witches) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Scotland
-- [ ] **Witchcraft in Orkney**（英語，28,371 字元）— [原文](https://en.wikipedia.org/wiki/Witchcraft_in_Orkney) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Scotland
-- [ ] **Mary Hicks (alleged witch)**（英語，28,222 字元）— [原文](https://en.wikipedia.org/wiki/Mary_Hicks_%28alleged_witch%29) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in England
-- [ ] **Kimpa Vita**（西班牙語，27,945 字元）— [原文](https://es.wikipedia.org/wiki/Kimpa_Vita) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
-- [ ] **Würzburg witch trials**（英語，27,902 字元）— [原文](https://en.wikipedia.org/wiki/W%C3%BCrzburg_witch_trials) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Germany
-- [ ] **Gentile Budrioli**（西班牙語，27,220 字元）— [原文](https://es.wikipedia.org/wiki/Gentile_Budrioli) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
-- [ ] **Elizabeth Frauncis**（英語，26,198 字元）— [原文](https://en.wikipedia.org/wiki/Elizabeth_Frauncis) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in England
-- [ ] **Great Scottish Witch Hunt of 1649–1650**（英語，25,834 字元）— [原文](https://en.wikipedia.org/wiki/Great_Scottish_Witch_Hunt_of_1649%E2%80%931650) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Scotland
-- [ ] **Abigail Faulkner**（西班牙語，25,238 字元）— [原文](https://es.wikipedia.org/wiki/Abigail_Faulkner) — 來源分類：Categoría:Brujería > Procesos por brujería > Juicios por brujería de Salem
-- [ ] **Witch trials in Sweden**（英語，25,222 字元）— [原文](https://en.wikipedia.org/wiki/Witch_trials_in_Sweden) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Sweden
-- [ ] **Hexenprozesse im Klosteramt Dobbertin**（德語，24,401 字元）— [原文](https://de.wikipedia.org/wiki/Hexenprozesse_im_Klosteramt_Dobbertin) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung nach räumlicher Zuordnung > Hexenprozesse in Deutschland
-- [ ] **Bury St Edmunds witch trials**（英語，24,310 字元）— [原文](https://en.wikipedia.org/wiki/Bury_St_Edmunds_witch_trials) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in England
-- [ ] **Samlesbury witches**（英語，24,203 字元）— [原文](https://en.wikipedia.org/wiki/Samlesbury_witches) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in England
-- [ ] **Hexenverfolgung in Hamburg**（德語，22,192 字元）— [原文](https://de.wikipedia.org/wiki/Hexenverfolgung_in_Hamburg) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung nach räumlicher Zuordnung > Hexenprozesse in Deutschland
-- [ ] **Malin Matsdotter**（西班牙語，21,143 字元）— [原文](https://es.wikipedia.org/wiki/Malin_Matsdotter) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
-- [ ] **Witchcraft Acts**（英語，20,423 字元）— [原文](https://en.wikipedia.org/wiki/Witchcraft_Acts) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in England
-- [ ] **Eleno de Céspedes**（英語，19,531 字元）— [原文](https://en.wikipedia.org/wiki/Eleno_de_C%C3%A9spedes) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Spain
-- [ ] **Häxprocesser i Malmö**（瑞典語，19,506 字元）— [原文](https://sv.wikipedia.org/wiki/H%C3%A4xprocesser_i_Malm%C3%B6) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Europa > Häxprocesser i Danmark
-- [ ] **Basque witch trials**（英語，19,195 字元）— [原文](https://en.wikipedia.org/wiki/Basque_witch_trials) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Spain
-- [ ] **Sarah Wildes**（西班牙語，19,185 字元）— [原文](https://es.wikipedia.org/wiki/Sarah_Wildes) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
-- [ ] **Letter from Cotton Mather to William Stoughton, September 2, 1692**（英語，19,067 字元）— [原文](https://en.wikipedia.org/wiki/Letter_from_Cotton_Mather_to_William_Stoughton%2C_September_2%2C_1692) — 來源分類：Category:Witch trials > Witch trials in North America > Salem witch trials
-- [ ] **Hexenverfolgung in Neustadt am Rübenberge**（德語，18,832 字元）— [原文](https://de.wikipedia.org/wiki/Hexenverfolgung_in_Neustadt_am_R%C3%BCbenberge) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung nach räumlicher Zuordnung > Hexenprozesse in Deutschland
-- [ ] **Mary Bliss Parsons**（英語，18,822 字元）— [原文](https://en.wikipedia.org/wiki/Mary_Bliss_Parsons) — 來源分類：Category:Witch trials > Witch trials in North America
-- [ ] **Witch trials in Virginia**（英語，18,688 字元）— [原文](https://en.wikipedia.org/wiki/Witch_trials_in_Virginia) — 來源分類：Category:Witch trials > Witch trials in North America
-- [ ] **Juicios de Salem**（西班牙語，18,243 字元）— [原文](https://es.wikipedia.org/wiki/Juicios_de_Salem) — 來源分類：Categoría:Brujería > Procesos por brujería > Juicios por brujería de Salem
-- [ ] **Pappenheimer witch trial**（英語，17,878 字元）— [原文](https://en.wikipedia.org/wiki/Pappenheimer_witch_trial) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Germany
-- [ ] **Mirandola witch trials**（英語，17,710 字元）— [原文](https://en.wikipedia.org/wiki/Mirandola_witch_trials) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Italy
-- [ ] **Barbara Napier**（英語，17,544 字元）— [原文](https://en.wikipedia.org/wiki/Barbara_Napier) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Scotland
-- [ ] **Katarina witch trials**（英語，17,174 字元）— [原文](https://en.wikipedia.org/wiki/Katarina_witch_trials) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Sweden
-- [ ] **Werewolf witch trials**（英語，17,128 字元）— [原文](https://en.wikipedia.org/wiki/Werewolf_witch_trials) — 來源分類：Category:Witch trials > Witch trials in Europe
-- [ ] **Ama Hemmah**（西班牙語，17,022 字元）— [原文](https://es.wikipedia.org/wiki/Ama_Hemmah) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
-- [ ] **Witch trials in Connecticut**（英語，16,587 字元）— [原文](https://en.wikipedia.org/wiki/Witch_trials_in_Connecticut) — 來源分類：Category:Witch trials > Witch trials in North America
-- [ ] **Elspeth Reoch**（西班牙語，16,176 字元）— [原文](https://es.wikipedia.org/wiki/Elspeth_Reoch) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
-- [ ] **Trier witch trials**（英語，15,744 字元）— [原文](https://en.wikipedia.org/wiki/Trier_witch_trials) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Germany
-- [ ] **Salem witchcraft trial (1878)**（英語，15,586 字元）— [原文](https://en.wikipedia.org/wiki/Salem_witchcraft_trial_%281878%29) — 來源分類：Category:Witch trials > Witch trials in North America
-- [ ] **Juicios por brujería en Portugal**（西班牙語，15,365 字元）— [原文](https://es.wikipedia.org/wiki/Juicios_por_brujer%C3%ADa_en_Portugal) — 來源分類：Categoría:Brujería > Procesos por brujería
-- [ ] **Witch trials in Maryland**（英語，14,953 字元）— [原文](https://en.wikipedia.org/wiki/Witch_trials_in_Maryland) — 來源分類：Category:Witch trials > Witch trials in North America
-- [ ] **Tobohäxan**（瑞典語，14,795 字元）— [原文](https://sv.wikipedia.org/wiki/Toboh%C3%A4xan) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Europa > Häxprocesser i Sverige
-- [ ] **Vardø witch trials (1662–1663)**（英語，14,745 字元）— [原文](https://en.wikipedia.org/wiki/Vard%C3%B8_witch_trials_%281662%E2%80%931663%29) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Norway
-- [ ] **Witches of Warboys**（英語，14,681 字元）— [原文](https://en.wikipedia.org/wiki/Witches_of_Warboys) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in England
-- [ ] **Timeline of the Salem witch trials**（英語，14,532 字元）— [原文](https://en.wikipedia.org/wiki/Timeline_of_the_Salem_witch_trials) — 來源分類：Category:Witch trials > Witch trials in North America > Salem witch trials
-- [ ] **Sidonia von Borcke**（西班牙語，14,502 字元）— [原文](https://es.wikipedia.org/wiki/Sidonia_von_Borcke) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
-- [ ] **Flugschrift**（德語，14,346 字元）— [原文](https://de.wikipedia.org/wiki/Flugschrift) — 來源分類：Kategorie:Hexenverfolgung > Hexenzeitung
-- [ ] **Cotton Mather**（西班牙語，14,316 字元）— [原文](https://es.wikipedia.org/wiki/Cotton_Mather) — 來源分類：Categoría:Brujería > Procesos por brujería > Juicios por brujería de Salem
-- [ ] **Juicios de brujas en Wurzburgo**（西班牙語，14,249 字元）— [原文](https://es.wikipedia.org/wiki/Juicios_de_brujas_en_Wurzburgo) — 來源分類：Categoría:Brujería > Procesos por brujería
-- [ ] **Anexo:Cronología de los Juicios de Salem**（西班牙語，13,938 字元）— [原文](https://es.wikipedia.org/wiki/Anexo%3ACronolog%C3%ADa_de_los_Juicios_de_Salem) — 來源分類：Categoría:Brujería > Procesos por brujería > Juicios por brujería de Salem
-- [ ] **Thomas Doughty (explorer)**（英語，13,861 字元）— [原文](https://en.wikipedia.org/wiki/Thomas_Doughty_%28explorer%29) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in England
-- [ ] **Leyes de brujería**（西班牙語，13,855 字元）— [原文](https://es.wikipedia.org/wiki/Leyes_de_brujer%C3%ADa) — 來源分類：Categoría:Brujería > Procesos por brujería
-- [ ] **Graciana de Barrenechea**（英語，13,682 字元）— [原文](https://en.wikipedia.org/wiki/Graciana_de_Barrenechea) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Spain
-- [ ] **Häxprocessen i Ål**（瑞典語，13,036 字元）— [原文](https://sv.wikipedia.org/wiki/H%C3%A4xprocessen_i_%C3%85l) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Europa > Häxprocesser i Sverige
-- [ ] **Witchcraft Act 1735**（英語，12,976 字元）— [原文](https://en.wikipedia.org/wiki/Witchcraft_Act_1735) — 來源分類：Category:Witch trials > Witch trials in Europe > Witchcraft Acts
-- [ ] **Rebecca Nurse**（西班牙語，12,934 字元）— [原文](https://es.wikipedia.org/wiki/Rebecca_Nurse) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
-- [ ] **Witch trials in New York**（英語，12,844 字元）— [原文](https://en.wikipedia.org/wiki/Witch_trials_in_New_York) — 來源分類：Category:Witch trials > Witch trials in North America
-- [ ] **Francis Manners, 6th Earl of Rutland**（英語，12,796 字元）— [原文](https://en.wikipedia.org/wiki/Francis_Manners%2C_6th_Earl_of_Rutland) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in England
-- [ ] **Witch trials in the Holy Roman Empire**（英語，12,788 字元）— [原文](https://en.wikipedia.org/wiki/Witch_trials_in_the_Holy_Roman_Empire) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Germany
-- [ ] **Witch trials in Denmark**（英語，12,623 字元）— [原文](https://en.wikipedia.org/wiki/Witch_trials_in_Denmark) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Denmark
-- [ ] **Juicios de brujas de North Berwick**（西班牙語，12,366 字元）— [原文](https://es.wikipedia.org/wiki/Juicios_de_brujas_de_North_Berwick) — 來源分類：Categoría:Brujería > Procesos por brujería > Juicios por brujería en Escocia
-- [ ] **Witch trials in England**（英語，12,226 字元）— [原文](https://en.wikipedia.org/wiki/Witch_trials_in_England) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in England
-- [ ] **Agnes Crittin**（西班牙語，12,142 字元）— [原文](https://es.wikipedia.org/wiki/Agnes_Crittin) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
-- [ ] **Witches of Scotland**（英語，12,124 字元）— [原文](https://en.wikipedia.org/wiki/Witches_of_Scotland) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Scotland
-- [ ] **Hexenverfolgungen in Sindelfingen**（德語，12,059 字元）— [原文](https://de.wikipedia.org/wiki/Hexenverfolgungen_in_Sindelfingen) — 來源分類：Kategorie:Hexenverfolgung > Hexenzeitung
-- [ ] **Häxprocesser i Ryssland**（瑞典語，12,026 字元）— [原文](https://sv.wikipedia.org/wiki/H%C3%A4xprocesser_i_Ryssland) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Europa > Häxprocesser i Ryssland
-- [ ] **Hexenwesen (Schweiz)**（德語，11,726 字元）— [原文](https://de.wikipedia.org/wiki/Hexenwesen_%28Schweiz%29) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung nach räumlicher Zuordnung
-- [ ] **Liechtenstein witch trials**（英語，11,542 字元）— [原文](https://en.wikipedia.org/wiki/Liechtenstein_witch_trials) — 來源分類：Category:Witch trials > Witch trials in Europe
-- [ ] **Brita Zippel**（西班牙語，11,400 字元）— [原文](https://es.wikipedia.org/wiki/Brita_Zippel) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
-- [ ] **Witch trials in the Netherlands**（英語，11,228 字元）— [原文](https://en.wikipedia.org/wiki/Witch_trials_in_the_Netherlands) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in the Netherlands
-- [ ] **Juicios de brujas en Polonia**（西班牙語，11,128 字元）— [原文](https://es.wikipedia.org/wiki/Juicios_de_brujas_en_Polonia) — 來源分類：Categoría:Brujería > Procesos por brujería
-- [ ] **Juicios de Valais**（西班牙語，11,097 字元）— [原文](https://es.wikipedia.org/wiki/Juicios_de_Valais) — 來源分類：Categoría:Brujería > Procesos por brujería
-- [ ] **Valais witch trials**（英語，10,811 字元）— [原文](https://en.wikipedia.org/wiki/Valais_witch_trials) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Switzerland
-- [ ] **Agnes Waterhouse**（西班牙語，10,803 字元）— [原文](https://es.wikipedia.org/wiki/Agnes_Waterhouse) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
-- [ ] **Witch trials in Poland**（英語，10,778 字元）— [原文](https://en.wikipedia.org/wiki/Witch_trials_in_Poland) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Poland
-- [ ] **Johannes Junius**（西班牙語，10,673 字元）— [原文](https://es.wikipedia.org/wiki/Johannes_Junius) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
-- [ ] **Catherine Quicquat**（西班牙語，10,587 字元）— [原文](https://es.wikipedia.org/wiki/Catherine_Quicquat) — 來源分類：Categoría:Brujería > Procesos por brujería
-- [ ] **Witch trials in the Channel Islands**（英語，10,534 字元）— [原文](https://en.wikipedia.org/wiki/Witch_trials_in_the_Channel_Islands) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in England
-- [ ] **Margery Jourdemayne**（英語，10,510 字元）— [原文](https://en.wikipedia.org/wiki/Margery_Jourdemayne) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in England
-- [ ] **Agnes Waterhouse**（英語，10,464 字元）— [原文](https://en.wikipedia.org/wiki/Agnes_Waterhouse) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in England
-- [ ] **Torsåker witch trials**（英語，10,458 字元）— [原文](https://en.wikipedia.org/wiki/Tors%C3%A5ker_witch_trials) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Sweden
-- [ ] **Gunnil från Visingsö**（瑞典語，10,409 字元）— [原文](https://sv.wikipedia.org/wiki/Gunnil_fr%C3%A5n_Visings%C3%B6) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Europa > Häxprocesser i Sverige
-- [ ] **Teórida de Lemnos**（西班牙語，10,400 字元）— [原文](https://es.wikipedia.org/wiki/Te%C3%B3rida_de_Lemnos) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
-- [ ] **Margaret Scott (Juicios de Salem)**（西班牙語，10,343 字元）— [原文](https://es.wikipedia.org/wiki/Margaret_Scott_%28Juicios_de_Salem%29) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
-- [ ] **Ann Hibbins**（西班牙語，10,290 字元）— [原文](https://es.wikipedia.org/wiki/Ann_Hibbins) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
-- [ ] **Mora witch trial**（英語，10,207 字元）— [原文](https://en.wikipedia.org/wiki/Mora_witch_trial) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Sweden
-- [ ] **Caza de brujas en Cataluña**（西班牙語，10,156 字元）— [原文](https://es.wikipedia.org/wiki/Caza_de_brujas_en_Catalu%C3%B1a) — 來源分類：Categoría:Brujería > Procesos por brujería > Juicios por brujería en España
-- [ ] **Häxprocessen i Södra Ny**（瑞典語，10,016 字元）— [原文](https://sv.wikipedia.org/wiki/H%C3%A4xprocessen_i_S%C3%B6dra_Ny) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Europa > Häxprocesser i Sverige
-- [ ] **Islandmagee witch trial**（英語，9,996 字元）— [原文](https://en.wikipedia.org/wiki/Islandmagee_witch_trial) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Ireland
-- [ ] **Anexo:Personas de los Juicios de Salem**（西班牙語，9,995 字元）— [原文](https://es.wikipedia.org/wiki/Anexo%3APersonas_de_los_Juicios_de_Salem) — 來源分類：Categoría:Brujería > Procesos por brujería > Juicios por brujería de Salem
-- [ ] **Elizabeth Clarke**（英語，9,906 字元）— [原文](https://en.wikipedia.org/wiki/Elizabeth_Clarke) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in England
-- [ ] **Häxprocessen i Bamberg**（瑞典語，9,851 字元）— [原文](https://sv.wikipedia.org/wiki/H%C3%A4xprocessen_i_Bamberg) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Europa > Häxprocesser i Tyskland
-- [ ] **Häxhammaren**（瑞典語，9,770 字元）— [原文](https://sv.wikipedia.org/wiki/H%C3%A4xhammaren) — 來源分類：Kategori:Häxprocesser
-- [ ] **Häxprocessen i Ellwangen**（瑞典語，9,751 字元）— [原文](https://sv.wikipedia.org/wiki/H%C3%A4xprocessen_i_Ellwangen) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Europa > Häxprocesser i Tyskland
-- [ ] **Joan Wright**（英語，9,725 字元）— [原文](https://en.wikipedia.org/wiki/Joan_Wright) — 來源分類：Category:Witch trials > Witch trials in North America
-- [ ] **Archibald Douglas, 8th Earl of Angus**（英語，9,670 字元）— [原文](https://en.wikipedia.org/wiki/Archibald_Douglas%2C_8th_Earl_of_Angus) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Scotland
-- [ ] **Witch trials in Latvia and Estonia**（英語，9,634 字元）— [原文](https://en.wikipedia.org/wiki/Witch_trials_in_Latvia_and_Estonia) — 來源分類：Category:Witch trials > Witch trials in Europe
-- [ ] **Caza de brujas en Tarrasa**（西班牙語，9,609 字元）— [原文](https://es.wikipedia.org/wiki/Caza_de_brujas_en_Tarrasa) — 來源分類：Categoría:Brujería > Procesos por brujería > Juicios por brujería en España
-- [ ] **Geillis Duncan**（西班牙語，9,601 字元）— [原文](https://es.wikipedia.org/wiki/Geillis_Duncan) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
-- [ ] **Cambridge Association**（英語，9,521 字元）— [原文](https://en.wikipedia.org/wiki/Cambridge_Association) — 來源分類：Category:Witch trials > Witch trials in North America > Salem witch trials
-- [ ] **Häxprocessen i Würzburg**（瑞典語，9,405 字元）— [原文](https://sv.wikipedia.org/wiki/H%C3%A4xprocessen_i_W%C3%BCrzburg) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Europa > Häxprocesser i Tyskland
-- [ ] **Petronilla de Meath**（西班牙語，9,362 字元）— [原文](https://es.wikipedia.org/wiki/Petronilla_de_Meath) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
-- [ ] **Margaret Barclay**（英語，9,284 字元）— [原文](https://en.wikipedia.org/wiki/Margaret_Barclay) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Scotland
-- [ ] **Hexenprozesse in Triesen**（德語，9,240 字元）— [原文](https://de.wikipedia.org/wiki/Hexenprozesse_in_Triesen) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung nach räumlicher Zuordnung
-- [ ] **Häxprocesserna i Österbotten**（瑞典語，9,028 字元）— [原文](https://sv.wikipedia.org/wiki/H%C3%A4xprocesserna_i_%C3%96sterbotten) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Europa > Häxprocesser i Finland
-- [ ] **María Soliño**（西班牙語，9,024 字元）— [原文](https://es.wikipedia.org/wiki/Mar%C3%ADa_Soli%C3%B1o) — 來源分類：Categoría:Brujería > Procesos por brujería > Juicios por brujería en España
-- [ ] **Witch trials in Catalonia**（英語，8,975 字元）— [原文](https://en.wikipedia.org/wiki/Witch_trials_in_Catalonia) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Spain
-- [ ] **Hexenprozesse in Flörsheim**（德語，8,962 字元）— [原文](https://de.wikipedia.org/wiki/Hexenprozesse_in_Fl%C3%B6rsheim) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung nach räumlicher Zuordnung > Hexenprozesse in Deutschland
-- [ ] **Blåkulla**（瑞典語，8,959 字元）— [原文](https://sv.wikipedia.org/wiki/Bl%C3%A5kulla) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Europa > Häxprocesser i Sverige
-- [ ] **Sarah Good**（西班牙語，8,948 字元）— [原文](https://es.wikipedia.org/wiki/Sarah_Good) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
-- [ ] **Margaret Aitken**（西班牙語，8,937 字元）— [原文](https://es.wikipedia.org/wiki/Margaret_Aitken) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
-- [ ] **Newcastle witch trials**（英語，8,933 字元）— [原文](https://en.wikipedia.org/wiki/Newcastle_witch_trials) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in England
-- [ ] **Bloodlines of Salem**（英語，8,900 字元）— [原文](https://en.wikipedia.org/wiki/Bloodlines_of_Salem) — 來源分類：Category:Witch trials > Witch trials in North America > Salem witch trials
-- [ ] **Jerónima Muntanyola**（西班牙語，8,878 字元）— [原文](https://es.wikipedia.org/wiki/Jer%C3%B3nima_Muntanyola) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
-- [ ] **Heinrich Kramer**（英語，8,865 字元）— [原文](https://en.wikipedia.org/wiki/Heinrich_Kramer) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Germany
-- [ ] **Flowing Wells witch trial**（英語，8,840 字元）— [原文](https://en.wikipedia.org/wiki/Flowing_Wells_witch_trial) — 來源分類：Category:Witch trials > Witch trials in North America
-- [ ] **Hexenverfolgung in Davensberg**（德語，8,837 字元）— [原文](https://de.wikipedia.org/wiki/Hexenverfolgung_in_Davensberg) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung nach räumlicher Zuordnung > Hexenprozesse in Deutschland
-- [ ] **Lisbeth Nypan**（西班牙語，8,757 字元）— [原文](https://es.wikipedia.org/wiki/Lisbeth_Nypan) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
-- [ ] **Margaret Krieger**（英語，8,731 字元）— [原文](https://en.wikipedia.org/wiki/Margaret_Krieger) — 來源分類：Category:Witch trials > Witch trials in North America
-- [ ] **Große schottische Hexenjagd von 1661/1662**（德語，8,708 字元）— [原文](https://de.wikipedia.org/wiki/Gro%C3%9Fe_schottische_Hexenjagd_von_1661/1662) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung nach räumlicher Zuordnung
-- [ ] **Dorothea Flock**（西班牙語，8,688 字元）— [原文](https://es.wikipedia.org/wiki/Dorothea_Flock) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
-- [ ] **Anna zur Steinhorst**（西班牙語，8,672 字元）— [原文](https://es.wikipedia.org/wiki/Anna_zur_Steinhorst) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
-- [ ] **Anna Laminit**（西班牙語，8,669 字元）— [原文](https://es.wikipedia.org/wiki/Anna_Laminit) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
-- [ ] **Häxlagarna (England)**（瑞典語，8,657 字元）— [原文](https://sv.wikipedia.org/wiki/H%C3%A4xlagarna_%28England%29) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Europa > Häxprocesser i England
-- [ ] **Häxprocessen i Valais**（瑞典語，8,641 字元）— [原文](https://sv.wikipedia.org/wiki/H%C3%A4xprocessen_i_Valais) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Europa > Häxprocesser i Frankrike
-- [ ] **John Cotta**（英語，8,587 字元）— [原文](https://en.wikipedia.org/wiki/John_Cotta) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in England
-- [ ] **Häxprocessen i Vardø (1662–1663)**（瑞典語，8,581 字元）— [原文](https://sv.wikipedia.org/wiki/H%C3%A4xprocessen_i_Vard%C3%B8_%281662%E2%80%931663%29) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Europa > Häxprocesser i Norge
-- [ ] **Hexenverfolgung in Fritzlar**（德語，8,548 字元）— [原文](https://de.wikipedia.org/wiki/Hexenverfolgung_in_Fritzlar) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung nach räumlicher Zuordnung > Hexenprozesse in Deutschland
-- [ ] **Häxjakten i Navarra 1575–1576**（瑞典語，8,531 字元）— [原文](https://sv.wikipedia.org/wiki/H%C3%A4xjakten_i_Navarra_1575%E2%80%931576) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Europa > Häxprocesser i Spanien
-- [ ] **Hexenprozesse von Lindheim**（德語，8,470 字元）— [原文](https://de.wikipedia.org/wiki/Hexenprozesse_von_Lindheim) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung nach räumlicher Zuordnung > Hexenprozesse in Deutschland
-- [ ] **Everyone Knows Your Mother Is a Witch**（英語，8,452 字元）— [原文](https://en.wikipedia.org/wiki/Everyone_Knows_Your_Mother_Is_a_Witch) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Germany
-- [ ] **Elin i Horsnäs**（西班牙語，8,439 字元）— [原文](https://es.wikipedia.org/wiki/Elin_i_Horsn%C3%A4s) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
-- [ ] **Pierre de Lancre**（英語，8,386 字元）— [原文](https://en.wikipedia.org/wiki/Pierre_de_Lancre) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in France
-- [ ] **Kerstin Gabrielsdotter**（瑞典語，8,354 字元）— [原文](https://sv.wikipedia.org/wiki/Kerstin_Gabrielsdotter) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Europa > Häxprocesser i Sverige
-- [ ] **Witch trials in Hungary**（英語，8,311 字元）— [原文](https://en.wikipedia.org/wiki/Witch_trials_in_Hungary) — 來源分類：Category:Witch trials > Witch trials in Europe
-- [ ] **Witch trials in Portugal**（英語，8,306 字元）— [原文](https://en.wikipedia.org/wiki/Witch_trials_in_Portugal) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Portugal
-- [ ] **Blåkullafärderna i Mockfjärd**（瑞典語，8,282 字元）— [原文](https://sv.wikipedia.org/wiki/Bl%C3%A5kullaf%C3%A4rderna_i_Mockfj%C3%A4rd) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Europa > Häxprocesser i Sverige
-- [ ] **Hexenprozesse in Dreieich**（德語，8,274 字元）— [原文](https://de.wikipedia.org/wiki/Hexenprozesse_in_Dreieich) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung nach räumlicher Zuordnung > Hexenprozesse in Deutschland
-- [ ] **Lars Nilsson (1632–1693)**（瑞典語，8,258 字元）— [原文](https://sv.wikipedia.org/wiki/Lars_Nilsson_%281632%E2%80%931693%29) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Europa > Häxprocesser i Sverige
-- [ ] **Häxprocessen i Amersfoort och Utrecht**（瑞典語，8,232 字元）— [原文](https://sv.wikipedia.org/wiki/H%C3%A4xprocessen_i_Amersfoort_och_Utrecht) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Europa > Häxprocesser i Nederländerna
-- [ ] **Aberdeen witch trials of 1596–1597**（英語，8,218 字元）— [原文](https://en.wikipedia.org/wiki/Aberdeen_witch_trials_of_1596%E2%80%931597) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Scotland
-- [ ] **Bo'ness witches**（英語，8,181 字元）— [原文](https://en.wikipedia.org/wiki/Bo%27ness_witches) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Scotland
-- [ ] **Hexenprozesse in Rhens**（德語，8,056 字元）— [原文](https://de.wikipedia.org/wiki/Hexenprozesse_in_Rhens) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung nach räumlicher Zuordnung > Hexenprozesse in Deutschland
-- [ ] **Vardø witch trials (1621)**（英語，7,959 字元）— [原文](https://en.wikipedia.org/wiki/Vard%C3%B8_witch_trials_%281621%29) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Norway
-- [ ] **Hexenverfolgung in Biel und Umgebung**（德語，7,954 字元）— [原文](https://de.wikipedia.org/wiki/Hexenverfolgung_in_Biel_und_Umgebung) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung nach räumlicher Zuordnung
-- [ ] **Anna Goeldin – The Last Witch**（英語，7,932 字元）— [原文](https://en.wikipedia.org/wiki/Anna_Goeldin_%E2%80%93_The_Last_Witch) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Switzerland
-- [ ] **Terrassa witch trials**（英語，7,928 字元）— [原文](https://en.wikipedia.org/wiki/Terrassa_witch_trials) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Spain
-- [ ] **Brita Biörn**（瑞典語，7,903 字元）— [原文](https://sv.wikipedia.org/wiki/Brita_Bi%C3%B6rn) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Europa > Häxprocesser i Sverige
-- [ ] **Amina bint Abdul Halim bin Salem Nasser**（西班牙語，7,834 字元）— [原文](https://es.wikipedia.org/wiki/Amina_bint_Abdul_Halim_bin_Salem_Nasser) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
-- [ ] **Polixena de San Macario**（西班牙語，7,823 字元）— [原文](https://es.wikipedia.org/wiki/Polixena_de_San_Macario) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
-- [ ] **Anna Maria Adamsdotter**（瑞典語，7,814 字元）— [原文](https://sv.wikipedia.org/wiki/Anna_Maria_Adamsdotter) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Europa > Häxprocesser i Sverige
-- [ ] **Samuel Sewall**（西班牙語，7,795 字元）— [原文](https://es.wikipedia.org/wiki/Samuel_Sewall) — 來源分類：Categoría:Brujería > Procesos por brujería > Juicios por brujería de Salem
-- [ ] **Häxprocessen i Finspång**（瑞典語，7,774 字元）— [原文](https://sv.wikipedia.org/wiki/H%C3%A4xprocessen_i_Finsp%C3%A5ng) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Europa > Häxprocesser i Sverige
-- [ ] **Witch trials in Russia**（英語，7,725 字元）— [原文](https://en.wikipedia.org/wiki/Witch_trials_in_Russia) — 來源分類：Category:Witch trials > Witch trials in Europe
-- [ ] **Hexenprozesse von North Berwick**（德語，7,696 字元）— [原文](https://de.wikipedia.org/wiki/Hexenprozesse_von_North_Berwick) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung nach räumlicher Zuordnung
-- [ ] **Balthasar von Dernbach**（英語，7,648 字元）— [原文](https://en.wikipedia.org/wiki/Balthasar_von_Dernbach) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Germany
-- [ ] **Ursula Kemp**（西班牙語，7,577 字元）— [原文](https://es.wikipedia.org/wiki/Ursula_Kemp) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
-- [ ] **Veronika de Desenice**（西班牙語，7,477 字元）— [原文](https://es.wikipedia.org/wiki/Veronika_de_Desenice) — 來源分類：Categoría:Brujería > Procesos por brujería
-- [ ] **Häxprocessen på Kastelholm**（瑞典語，7,470 字元）— [原文](https://sv.wikipedia.org/wiki/H%C3%A4xprocessen_p%C3%A5_Kastelholm) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Europa > Häxprocesser i Finland
-- [ ] **Margo Burns**（英語，7,437 字元）— [原文](https://en.wikipedia.org/wiki/Margo_Burns) — 來源分類：Category:Witch trials > Witch trials in North America > Salem witch trials
-- [ ] **William Harding (Virginia witch trials)**（英語，7,383 字元）— [原文](https://en.wikipedia.org/wiki/William_Harding_%28Virginia_witch_trials%29) — 來源分類：Category:Witch trials > Witch trials in North America
-- [ ] **Elizabeth Morse (Newbury witch trials)**（英語，7,358 字元）— [原文](https://en.wikipedia.org/wiki/Elizabeth_Morse_%28Newbury_witch_trials%29) — 來源分類：Category:Witch trials > Witch trials in North America
-- [ ] **Häxprocessen i Vardø (1621)**（瑞典語，7,296 字元）— [原文](https://sv.wikipedia.org/wiki/H%C3%A4xprocessen_i_Vard%C3%B8_%281621%29) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Europa > Häxprocesser i Norge
-- [ ] **Jane Weir**（西班牙語，7,241 字元）— [原文](https://es.wikipedia.org/wiki/Jane_Weir) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
-- [ ] **Anne Palles**（西班牙語，7,221 字元）— [原文](https://es.wikipedia.org/wiki/Anne_Palles) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
-- [ ] **Doruchów witch trial**（英語，7,190 字元）— [原文](https://en.wikipedia.org/wiki/Doruch%C3%B3w_witch_trial) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Poland
-- [ ] **Juicios de brujas en los Países Bajos españoles**（西班牙語，7,169 字元）— [原文](https://es.wikipedia.org/wiki/Juicios_de_brujas_en_los_Pa%C3%ADses_Bajos_espa%C3%B1oles) — 來源分類：Categoría:Brujería > Procesos por brujería > Juicios por brujería en España
-- [ ] **Elisabeth Plainacher**（西班牙語，7,163 字元）— [原文](https://es.wikipedia.org/wiki/Elisabeth_Plainacher) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
-- [ ] **Elin i Horsnäs**（瑞典語，7,156 字元）— [原文](https://sv.wikipedia.org/wiki/Elin_i_Horsn%C3%A4s) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Europa > Häxprocesser i Sverige
-- [ ] **Witch trials in the Spanish Netherlands**（英語，7,128 字元）— [原文](https://en.wikipedia.org/wiki/Witch_trials_in_the_Spanish_Netherlands) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in the Netherlands
-- [ ] **Witch trials in Norway**（英語，7,104 字元）— [原文](https://en.wikipedia.org/wiki/Witch_trials_in_Norway) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Norway
-- [ ] **Häxprocesser i Danmark**（瑞典語，7,102 字元）— [原文](https://sv.wikipedia.org/wiki/H%C3%A4xprocesser_i_Danmark) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Europa > Häxprocesser i Danmark
-- [ ] **Agnes Sampson**（西班牙語，7,041 字元）— [原文](https://es.wikipedia.org/wiki/Agnes_Sampson) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
-- [ ] **Thomas Schreiber (posadero)**（西班牙語，7,036 字元）— [原文](https://es.wikipedia.org/wiki/Thomas_Schreiber_%28posadero%29) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
-- [ ] **Steilneset Memorial**（英語，7,018 字元）— [原文](https://en.wikipedia.org/wiki/Steilneset_Memorial) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Norway
-- [ ] **Hexenprozess von Fürsteneck**（德語，6,986 字元）— [原文](https://de.wikipedia.org/wiki/Hexenprozess_von_F%C3%BCrsteneck) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung nach räumlicher Zuordnung > Hexenprozesse in Deutschland
-- [ ] **Maria Bertoletti Toldini**（西班牙語，6,967 字元）— [原文](https://es.wikipedia.org/wiki/Maria_Bertoletti_Toldini) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
-- [ ] **John Proctor**（西班牙語，6,964 字元）— [原文](https://es.wikipedia.org/wiki/John_Proctor) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
-- [ ] **Elizabeth Clarke**（西班牙語，6,929 字元）— [原文](https://es.wikipedia.org/wiki/Elizabeth_Clarke) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
-- [ ] **Northamptonshire witch trials**（英語，6,913 字元）— [原文](https://en.wikipedia.org/wiki/Northamptonshire_witch_trials) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in England
-- [ ] **Maud Galt**（英語，6,910 字元）— [原文](https://en.wikipedia.org/wiki/Maud_Galt) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Scotland
-- [ ] **Anna Zippel**（西班牙語，6,877 字元）— [原文](https://es.wikipedia.org/wiki/Anna_Zippel) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
-- [ ] **Northern Moravia witch trials**（英語，6,834 字元）— [原文](https://en.wikipedia.org/wiki/Northern_Moravia_witch_trials) — 來源分類：Category:Witch trials > Witch trials in Europe
-- [ ] **Euphame MacCalzean**（西班牙語，6,793 字元）— [原文](https://es.wikipedia.org/wiki/Euphame_MacCalzean) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
-- [ ] **Maria Holl**（西班牙語，6,766 字元）— [原文](https://es.wikipedia.org/wiki/Maria_Holl) — 來源分類：Categoría:Brujería > Procesos por brujería
-- [ ] **Rottweil witch trials**（英語，6,748 字元）— [原文](https://en.wikipedia.org/wiki/Rottweil_witch_trials) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Germany
-- [ ] **Wilhelmine von Grävenitz**（英語，6,726 字元）— [原文](https://en.wikipedia.org/wiki/Wilhelmine_von_Gr%C3%A4venitz) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Germany
-- [ ] **Forfar Witch Trials**（英語，6,689 字元）— [原文](https://en.wikipedia.org/wiki/Forfar_Witch_Trials) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Scotland
-- [ ] **Kyteler's Inn**（英語，6,675 字元）— [原文](https://en.wikipedia.org/wiki/Kyteler%27s_Inn) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Ireland
-- [ ] **Cathelyne van den Bulcke**（西班牙語，6,672 字元）— [原文](https://es.wikipedia.org/wiki/Cathelyne_van_den_Bulcke) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
-- [ ] **Abigail Williams (Juicios de Salem)**（西班牙語，6,608 字元）— [原文](https://es.wikipedia.org/wiki/Abigail_Williams_%28Juicios_de_Salem%29) — 來源分類：Categoría:Brujería > Procesos por brujería > Juicios por brujería de Salem
-- [ ] **Häxprocesserna i Salem**（瑞典語，6,596 字元）— [原文](https://sv.wikipedia.org/wiki/H%C3%A4xprocesserna_i_Salem) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Nordamerika > Häxprocessen i Salem
-- [ ] **Thomas Weir**（西班牙語，6,509 字元）— [原文](https://es.wikipedia.org/wiki/Thomas_Weir) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
-- [ ] **Hexenverfolgung in Geseke**（德語，6,490 字元）— [原文](https://de.wikipedia.org/wiki/Hexenverfolgung_in_Geseke) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung nach räumlicher Zuordnung > Hexenprozesse in Deutschland
-- [ ] **Adrienne d'Heur**（西班牙語，6,481 字元）— [原文](https://es.wikipedia.org/wiki/Adrienne_d%27Heur) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
-- [ ] **Jeanette Abadie**（英語，6,429 字元）— [原文](https://en.wikipedia.org/wiki/Jeanette_Abadie) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in France
-- [ ] **Eichstätt witch trials**（英語，6,405 字元）— [原文](https://en.wikipedia.org/wiki/Eichst%C3%A4tt_witch_trials) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Germany
-- [ ] **Alice Nutter**（西班牙語，6,405 字元）— [原文](https://es.wikipedia.org/wiki/Alice_Nutter) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
-- [ ] **Maren Spliid**（西班牙語，6,389 字元）— [原文](https://es.wikipedia.org/wiki/Maren_Spliid) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
-- [ ] **Häxprocessen i Vardø (1651–1653)**（瑞典語，6,345 字元）— [原文](https://sv.wikipedia.org/wiki/H%C3%A4xprocessen_i_Vard%C3%B8_%281651%E2%80%931653%29) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Europa > Häxprocesser i Norge
-- [ ] **Älvprocesserna på Sicilien**（瑞典語，6,338 字元）— [原文](https://sv.wikipedia.org/wiki/%C3%84lvprocesserna_p%C3%A5_Sicilien) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Europa > Häxprocesser i Italien
-- [ ] **Finspång witch trial**（英語，6,305 字元）— [原文](https://en.wikipedia.org/wiki/Finsp%C3%A5ng_witch_trial) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Sweden
-- [ ] **Häxprocessen på Vegeholm**（瑞典語，6,274 字元）— [原文](https://sv.wikipedia.org/wiki/H%C3%A4xprocessen_p%C3%A5_Vegeholm) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Europa > Häxprocesser i Danmark
-- [ ] **Anna Catharina von Bärfelt**（瑞典語，6,271 字元）— [原文](https://sv.wikipedia.org/wiki/Anna_Catharina_von_B%C3%A4rfelt) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Europa > Häxprocesser i Sverige
-- [ ] **Hexenverbrennung in Derenburg**（德語，6,269 字元）— [原文](https://de.wikipedia.org/wiki/Hexenverbrennung_in_Derenburg) — 來源分類：Kategorie:Hexenverfolgung > Hexenzeitung
-- [ ] **Häxprocesser i Polen**（瑞典語，6,266 字元）— [原文](https://sv.wikipedia.org/wiki/H%C3%A4xprocesser_i_Polen) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Europa > Häxprocesser i Polen
-- [ ] **Anna Eriksdotter**（瑞典語，6,255 字元）— [原文](https://sv.wikipedia.org/wiki/Anna_Eriksdotter) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Europa > Häxprocesser i Sverige
-- [ ] **Häxprocessen i Köpenhamn**（瑞典語，6,190 字元）— [原文](https://sv.wikipedia.org/wiki/H%C3%A4xprocessen_i_K%C3%B6penhamn) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Europa > Häxprocesser i Danmark
-- [ ] **Fife Witches Trail**（英語，6,139 字元）— [原文](https://en.wikipedia.org/wiki/Fife_Witches_Trail) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Scotland
-- [ ] **Captain Elin**（英語，6,134 字元）— [原文](https://en.wikipedia.org/wiki/Captain_Elin) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Sweden
-- [ ] **Mears Ashby**（英語，6,079 字元）— [原文](https://en.wikipedia.org/wiki/Mears_Ashby) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in England
-- [ ] **Great Scottish Witch Hunt of 1597**（英語，6,066 字元）— [原文](https://en.wikipedia.org/wiki/Great_Scottish_Witch_Hunt_of_1597) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Scotland
-- [ ] **Witch trials in Italy**（英語，6,051 字元）— [原文](https://en.wikipedia.org/wiki/Witch_trials_in_Italy) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Italy
-- [ ] **Familia Pappenheimer**（西班牙語，6,051 字元）— [原文](https://es.wikipedia.org/wiki/Familia_Pappenheimer) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
-- [ ] **Perrissona Gappit case**（英語，6,040 字元）— [原文](https://en.wikipedia.org/wiki/Perrissona_Gappit_case) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Switzerland
-- [ ] **Hexenverfolgung in der Stadt Baden AG**（德語，5,903 字元）— [原文](https://de.wikipedia.org/wiki/Hexenverfolgung_in_der_Stadt_Baden_AG) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung nach räumlicher Zuordnung
-- [ ] **Maria Perpétua**（西班牙語，5,732 字元）— [原文](https://es.wikipedia.org/wiki/Maria_Perp%C3%A9tua) — 來源分類：Categoría:Brujería > Procesos por brujería
-- [ ] **1695 Essex Witch Trial**（英語，5,245 字元）— [原文](https://en.wikipedia.org/wiki/1695_Essex_Witch_Trial) — 來源分類：Category:Witch trials > Witch trials in North America
-- [ ] **Caza de brujas de Šumperk y Velké Losiny**（西班牙語，5,091 字元）— [原文](https://es.wikipedia.org/wiki/Caza_de_brujas_de_%C5%A0umperk_y_Velk%C3%A9_Losiny) — 來源分類：Categoría:Brujería > Procesos por brujería
+- [ ] **Häxprocess**（瑞典語，原始碼 147,513 位元組）— [原文](https://sv.wikipedia.org/wiki/H%C3%A4xprocess) — 來源分類：Kategori:Häxprocesser
+- [ ] **Inquisición española**（西班牙語，原始碼 131,341 位元組）— [原文](https://es.wikipedia.org/wiki/Inquisici%C3%B3n_espa%C3%B1ola) — 來源分類：Categoría:Brujería > Procesos por brujería
+- [ ] **Witch trials in the early modern period**（英語，原始碼 101,777 位元組）— [原文](https://en.wikipedia.org/wiki/Witch_trials_in_the_early_modern_period) — 來源分類：Category:Witch trials
+- [ ] **Caza de brujas**（西班牙語，原始碼 79,216 位元組）— [原文](https://es.wikipedia.org/wiki/Caza_de_brujas) — 來源分類：Categoría:Brujería > Procesos por brujería
+- [ ] **Hexenverfolgung im Hochstift Eichstätt**（德語，原始碼 67,442 位元組）— [原文](https://de.wikipedia.org/wiki/Hexenverfolgung_im_Hochstift_Eichst%C3%A4tt) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung nach räumlicher Zuordnung > Hexenprozesse in Deutschland
+- [ ] **Matthew Hale (jurist)**（英語，原始碼 61,769 位元組）— [原文](https://en.wikipedia.org/wiki/Matthew_Hale_%28jurist%29) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in England
+- [ ] **Hexenverfolgung im Herzogtum Westfalen**（德語，原始碼 58,711 位元組）— [原文](https://de.wikipedia.org/wiki/Hexenverfolgung_im_Herzogtum_Westfalen) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung nach räumlicher Zuordnung > Hexenprozesse in Deutschland
+- [ ] **Anne of Denmark and contrary winds**（英語，原始碼 52,629 位元組）— [原文](https://en.wikipedia.org/wiki/Anne_of_Denmark_and_contrary_winds) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Scotland
+- [ ] **Hexenprozesse in Freiburg (Schweiz)**（德語，原始碼 52,041 位元組）— [原文](https://de.wikipedia.org/wiki/Hexenprozesse_in_Freiburg_%28Schweiz%29) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung nach räumlicher Zuordnung
+- [ ] **Andover, Massachusetts**（英語，原始碼 51,041 位元組）— [原文](https://en.wikipedia.org/wiki/Andover%2C_Massachusetts) — 來源分類：Category:Witch trials > Witch trials in North America > Salem witch trials
+- [ ] **Ipswich, Massachusetts**（英語，原始碼 42,082 位元組）— [原文](https://en.wikipedia.org/wiki/Ipswich%2C_Massachusetts) — 來源分類：Category:Witch trials > Witch trials in North America > Salem witch trials
+- [ ] **Hexenprozesse in der Grafschaft Werdenfels**（德語，原始碼 41,445 位元組）— [原文](https://de.wikipedia.org/wiki/Hexenprozesse_in_der_Grafschaft_Werdenfels) — 來源分類：Kategorie:Hexenverfolgung > Hexenzeitung
+- [ ] **Venetian Holy Inquisition**（英語，原始碼 39,669 位元組）— [原文](https://en.wikipedia.org/wiki/Venetian_Holy_Inquisition) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Italy
+- [ ] **Trial of Joan of Arc**（英語，原始碼 38,956 位元組）— [原文](https://en.wikipedia.org/wiki/Trial_of_Joan_of_Arc) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in France
+- [ ] **Caza de brujas moderna**（西班牙語，原始碼 38,869 位元組）— [原文](https://es.wikipedia.org/wiki/Caza_de_brujas_moderna) — 來源分類：Categoría:Brujería > Procesos por brujería
+- [ ] **Charles Borromeo**（英語，原始碼 37,922 位元組）— [原文](https://en.wikipedia.org/wiki/Charles_Borromeo) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Italy
+- [ ] **Hexenverfolgung in Lemgo**（德語，原始碼 37,799 位元組）— [原文](https://de.wikipedia.org/wiki/Hexenverfolgung_in_Lemgo) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung nach räumlicher Zuordnung > Hexenprozesse in Deutschland
+- [ ] **Witch trials in early modern Scotland**（英語，原始碼 37,196 位元組）— [原文](https://en.wikipedia.org/wiki/Witch_trials_in_early_modern_Scotland) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Scotland
+- [ ] **Hexenverfolgung im Waadtland**（德語，原始碼 36,795 位元組）— [原文](https://de.wikipedia.org/wiki/Hexenverfolgung_im_Waadtland) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung nach räumlicher Zuordnung
+- [ ] **Danvers, Massachusetts**（英語，原始碼 32,884 位元組）— [原文](https://en.wikipedia.org/wiki/Danvers%2C_Massachusetts) — 來源分類：Category:Witch trials > Witch trials in North America > Salem witch trials
+- [ ] **Anexo:Personas ejecutadas por brujería**（西班牙語，原始碼 31,545 位元組）— [原文](https://es.wikipedia.org/wiki/Anexo%3APersonas_ejecutadas_por_brujer%C3%ADa) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
+- [ ] **Häxprocesser i Sverige**（瑞典語，原始碼 30,277 位元組）— [原文](https://sv.wikipedia.org/wiki/H%C3%A4xprocesser_i_Sverige) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Europa > Häxprocesser i Sverige
+- [ ] **Brujas de Pendle**（西班牙語，原始碼 30,256 位元組）— [原文](https://es.wikipedia.org/wiki/Brujas_de_Pendle) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
+- [ ] **Hexenprozesse von Salem**（德語，原始碼 29,707 位元組）— [原文](https://de.wikipedia.org/wiki/Hexenprozesse_von_Salem) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung nach räumlicher Zuordnung
+- [ ] **Saint-Hippolyte, Haut-Rhin**（英語，原始碼 29,694 位元組）— [原文](https://en.wikipedia.org/wiki/Saint-Hippolyte%2C_Haut-Rhin) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in France
+- [ ] **Feminist interpretations of witch trials in the early modern period**（英語，原始碼 29,494 位元組）— [原文](https://en.wikipedia.org/wiki/Feminist_interpretations_of_witch_trials_in_the_early_modern_period) — 來源分類：Category:Witch trials
+- [ ] **Die Besessenen von Aix-en-Provence**（德語，原始碼 28,732 位元組）— [原文](https://de.wikipedia.org/wiki/Die_Besessenen_von_Aix-en-Provence) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung nach räumlicher Zuordnung
+- [ ] **Pittenweem witches**（英語，原始碼 28,440 位元組）— [原文](https://en.wikipedia.org/wiki/Pittenweem_witches) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Scotland
+- [ ] **Witchcraft in Orkney**（英語，原始碼 28,371 位元組）— [原文](https://en.wikipedia.org/wiki/Witchcraft_in_Orkney) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Scotland
+- [ ] **Mary Hicks (alleged witch)**（英語，原始碼 28,222 位元組）— [原文](https://en.wikipedia.org/wiki/Mary_Hicks_%28alleged_witch%29) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in England
+- [ ] **Kimpa Vita**（西班牙語，原始碼 27,945 位元組）— [原文](https://es.wikipedia.org/wiki/Kimpa_Vita) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
+- [ ] **Würzburg witch trials**（英語，原始碼 27,902 位元組）— [原文](https://en.wikipedia.org/wiki/W%C3%BCrzburg_witch_trials) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Germany
+- [ ] **Gentile Budrioli**（西班牙語，原始碼 27,220 位元組）— [原文](https://es.wikipedia.org/wiki/Gentile_Budrioli) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
+- [ ] **Elizabeth Frauncis**（英語，原始碼 26,198 位元組）— [原文](https://en.wikipedia.org/wiki/Elizabeth_Frauncis) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in England
+- [ ] **Great Scottish Witch Hunt of 1649–1650**（英語，原始碼 25,834 位元組）— [原文](https://en.wikipedia.org/wiki/Great_Scottish_Witch_Hunt_of_1649%E2%80%931650) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Scotland
+- [ ] **Abigail Faulkner**（西班牙語，原始碼 25,238 位元組）— [原文](https://es.wikipedia.org/wiki/Abigail_Faulkner) — 來源分類：Categoría:Brujería > Procesos por brujería > Juicios por brujería de Salem
+- [ ] **Witch trials in Sweden**（英語，原始碼 25,222 位元組）— [原文](https://en.wikipedia.org/wiki/Witch_trials_in_Sweden) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Sweden
+- [ ] **Hexenprozesse im Klosteramt Dobbertin**（德語，原始碼 24,401 位元組）— [原文](https://de.wikipedia.org/wiki/Hexenprozesse_im_Klosteramt_Dobbertin) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung nach räumlicher Zuordnung > Hexenprozesse in Deutschland
+- [ ] **Bury St Edmunds witch trials**（英語，原始碼 24,310 位元組）— [原文](https://en.wikipedia.org/wiki/Bury_St_Edmunds_witch_trials) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in England
+- [ ] **Samlesbury witches**（英語，原始碼 24,203 位元組）— [原文](https://en.wikipedia.org/wiki/Samlesbury_witches) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in England
+- [ ] **Hexenverfolgung in Hamburg**（德語，原始碼 22,192 位元組）— [原文](https://de.wikipedia.org/wiki/Hexenverfolgung_in_Hamburg) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung nach räumlicher Zuordnung > Hexenprozesse in Deutschland
+- [ ] **Malin Matsdotter**（西班牙語，原始碼 21,143 位元組）— [原文](https://es.wikipedia.org/wiki/Malin_Matsdotter) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
+- [ ] **Witchcraft Acts**（英語，原始碼 20,423 位元組）— [原文](https://en.wikipedia.org/wiki/Witchcraft_Acts) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in England
+- [ ] **Eleno de Céspedes**（英語，原始碼 19,531 位元組）— [原文](https://en.wikipedia.org/wiki/Eleno_de_C%C3%A9spedes) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Spain
+- [ ] **Häxprocesser i Malmö**（瑞典語，原始碼 19,506 位元組）— [原文](https://sv.wikipedia.org/wiki/H%C3%A4xprocesser_i_Malm%C3%B6) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Europa > Häxprocesser i Danmark
+- [ ] **Basque witch trials**（英語，原始碼 19,195 位元組）— [原文](https://en.wikipedia.org/wiki/Basque_witch_trials) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Spain
+- [ ] **Sarah Wildes**（西班牙語，原始碼 19,185 位元組）— [原文](https://es.wikipedia.org/wiki/Sarah_Wildes) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
+- [ ] **Letter from Cotton Mather to William Stoughton, September 2, 1692**（英語，原始碼 19,067 位元組）— [原文](https://en.wikipedia.org/wiki/Letter_from_Cotton_Mather_to_William_Stoughton%2C_September_2%2C_1692) — 來源分類：Category:Witch trials > Witch trials in North America > Salem witch trials
+- [ ] **Hexenverfolgung in Neustadt am Rübenberge**（德語，原始碼 18,832 位元組）— [原文](https://de.wikipedia.org/wiki/Hexenverfolgung_in_Neustadt_am_R%C3%BCbenberge) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung nach räumlicher Zuordnung > Hexenprozesse in Deutschland
+- [ ] **Mary Bliss Parsons**（英語，原始碼 18,822 位元組）— [原文](https://en.wikipedia.org/wiki/Mary_Bliss_Parsons) — 來源分類：Category:Witch trials > Witch trials in North America
+- [ ] **Witch trials in Virginia**（英語，原始碼 18,688 位元組）— [原文](https://en.wikipedia.org/wiki/Witch_trials_in_Virginia) — 來源分類：Category:Witch trials > Witch trials in North America
+- [ ] **Juicios de Salem**（西班牙語，原始碼 18,243 位元組）— [原文](https://es.wikipedia.org/wiki/Juicios_de_Salem) — 來源分類：Categoría:Brujería > Procesos por brujería > Juicios por brujería de Salem
+- [ ] **Pappenheimer witch trial**（英語，原始碼 17,878 位元組）— [原文](https://en.wikipedia.org/wiki/Pappenheimer_witch_trial) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Germany
+- [ ] **Mirandola witch trials**（英語，原始碼 17,710 位元組）— [原文](https://en.wikipedia.org/wiki/Mirandola_witch_trials) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Italy
+- [ ] **Barbara Napier**（英語，原始碼 17,544 位元組）— [原文](https://en.wikipedia.org/wiki/Barbara_Napier) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Scotland
+- [ ] **Katarina witch trials**（英語，原始碼 17,174 位元組）— [原文](https://en.wikipedia.org/wiki/Katarina_witch_trials) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Sweden
+- [ ] **Werewolf witch trials**（英語，原始碼 17,128 位元組）— [原文](https://en.wikipedia.org/wiki/Werewolf_witch_trials) — 來源分類：Category:Witch trials > Witch trials in Europe
+- [ ] **Ama Hemmah**（西班牙語，原始碼 17,022 位元組）— [原文](https://es.wikipedia.org/wiki/Ama_Hemmah) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
+- [ ] **Witch trials in Connecticut**（英語，原始碼 16,587 位元組）— [原文](https://en.wikipedia.org/wiki/Witch_trials_in_Connecticut) — 來源分類：Category:Witch trials > Witch trials in North America
+- [ ] **Elspeth Reoch**（西班牙語，原始碼 16,176 位元組）— [原文](https://es.wikipedia.org/wiki/Elspeth_Reoch) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
+- [ ] **Trier witch trials**（英語，原始碼 15,744 位元組）— [原文](https://en.wikipedia.org/wiki/Trier_witch_trials) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Germany
+- [ ] **Salem witchcraft trial (1878)**（英語，原始碼 15,586 位元組）— [原文](https://en.wikipedia.org/wiki/Salem_witchcraft_trial_%281878%29) — 來源分類：Category:Witch trials > Witch trials in North America
+- [ ] **Juicios por brujería en Portugal**（西班牙語，原始碼 15,365 位元組）— [原文](https://es.wikipedia.org/wiki/Juicios_por_brujer%C3%ADa_en_Portugal) — 來源分類：Categoría:Brujería > Procesos por brujería
+- [ ] **Witch trials in Maryland**（英語，原始碼 14,953 位元組）— [原文](https://en.wikipedia.org/wiki/Witch_trials_in_Maryland) — 來源分類：Category:Witch trials > Witch trials in North America
+- [ ] **Tobohäxan**（瑞典語，原始碼 14,795 位元組）— [原文](https://sv.wikipedia.org/wiki/Toboh%C3%A4xan) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Europa > Häxprocesser i Sverige
+- [ ] **Vardø witch trials (1662–1663)**（英語，原始碼 14,745 位元組）— [原文](https://en.wikipedia.org/wiki/Vard%C3%B8_witch_trials_%281662%E2%80%931663%29) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Norway
+- [ ] **Witches of Warboys**（英語，原始碼 14,681 位元組）— [原文](https://en.wikipedia.org/wiki/Witches_of_Warboys) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in England
+- [ ] **Timeline of the Salem witch trials**（英語，原始碼 14,532 位元組）— [原文](https://en.wikipedia.org/wiki/Timeline_of_the_Salem_witch_trials) — 來源分類：Category:Witch trials > Witch trials in North America > Salem witch trials
+- [ ] **Sidonia von Borcke**（西班牙語，原始碼 14,502 位元組）— [原文](https://es.wikipedia.org/wiki/Sidonia_von_Borcke) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
+- [ ] **Flugschrift**（德語，原始碼 14,346 位元組）— [原文](https://de.wikipedia.org/wiki/Flugschrift) — 來源分類：Kategorie:Hexenverfolgung > Hexenzeitung
+- [ ] **Cotton Mather**（西班牙語，原始碼 14,316 位元組）— [原文](https://es.wikipedia.org/wiki/Cotton_Mather) — 來源分類：Categoría:Brujería > Procesos por brujería > Juicios por brujería de Salem
+- [ ] **Juicios de brujas en Wurzburgo**（西班牙語，原始碼 14,249 位元組）— [原文](https://es.wikipedia.org/wiki/Juicios_de_brujas_en_Wurzburgo) — 來源分類：Categoría:Brujería > Procesos por brujería
+- [ ] **Anexo:Cronología de los Juicios de Salem**（西班牙語，原始碼 13,938 位元組）— [原文](https://es.wikipedia.org/wiki/Anexo%3ACronolog%C3%ADa_de_los_Juicios_de_Salem) — 來源分類：Categoría:Brujería > Procesos por brujería > Juicios por brujería de Salem
+- [ ] **Thomas Doughty (explorer)**（英語，原始碼 13,861 位元組）— [原文](https://en.wikipedia.org/wiki/Thomas_Doughty_%28explorer%29) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in England
+- [ ] **Leyes de brujería**（西班牙語，原始碼 13,855 位元組）— [原文](https://es.wikipedia.org/wiki/Leyes_de_brujer%C3%ADa) — 來源分類：Categoría:Brujería > Procesos por brujería
+- [ ] **Graciana de Barrenechea**（英語，原始碼 13,682 位元組）— [原文](https://en.wikipedia.org/wiki/Graciana_de_Barrenechea) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Spain
+- [ ] **Häxprocessen i Ål**（瑞典語，原始碼 13,036 位元組）— [原文](https://sv.wikipedia.org/wiki/H%C3%A4xprocessen_i_%C3%85l) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Europa > Häxprocesser i Sverige
+- [ ] **Witchcraft Act 1735**（英語，原始碼 12,976 位元組）— [原文](https://en.wikipedia.org/wiki/Witchcraft_Act_1735) — 來源分類：Category:Witch trials > Witch trials in Europe > Witchcraft Acts
+- [ ] **Rebecca Nurse**（西班牙語，原始碼 12,934 位元組）— [原文](https://es.wikipedia.org/wiki/Rebecca_Nurse) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
+- [ ] **Witch trials in New York**（英語，原始碼 12,844 位元組）— [原文](https://en.wikipedia.org/wiki/Witch_trials_in_New_York) — 來源分類：Category:Witch trials > Witch trials in North America
+- [ ] **Francis Manners, 6th Earl of Rutland**（英語，原始碼 12,796 位元組）— [原文](https://en.wikipedia.org/wiki/Francis_Manners%2C_6th_Earl_of_Rutland) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in England
+- [ ] **Witch trials in the Holy Roman Empire**（英語，原始碼 12,788 位元組）— [原文](https://en.wikipedia.org/wiki/Witch_trials_in_the_Holy_Roman_Empire) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Germany
+- [ ] **Witch trials in Denmark**（英語，原始碼 12,623 位元組）— [原文](https://en.wikipedia.org/wiki/Witch_trials_in_Denmark) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Denmark
+- [ ] **Juicios de brujas de North Berwick**（西班牙語，原始碼 12,366 位元組）— [原文](https://es.wikipedia.org/wiki/Juicios_de_brujas_de_North_Berwick) — 來源分類：Categoría:Brujería > Procesos por brujería > Juicios por brujería en Escocia
+- [ ] **Witch trials in England**（英語，原始碼 12,226 位元組）— [原文](https://en.wikipedia.org/wiki/Witch_trials_in_England) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in England
+- [ ] **Agnes Crittin**（西班牙語，原始碼 12,142 位元組）— [原文](https://es.wikipedia.org/wiki/Agnes_Crittin) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
+- [ ] **Witches of Scotland**（英語，原始碼 12,124 位元組）— [原文](https://en.wikipedia.org/wiki/Witches_of_Scotland) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Scotland
+- [ ] **Hexenverfolgungen in Sindelfingen**（德語，原始碼 12,059 位元組）— [原文](https://de.wikipedia.org/wiki/Hexenverfolgungen_in_Sindelfingen) — 來源分類：Kategorie:Hexenverfolgung > Hexenzeitung
+- [ ] **Häxprocesser i Ryssland**（瑞典語，原始碼 12,026 位元組）— [原文](https://sv.wikipedia.org/wiki/H%C3%A4xprocesser_i_Ryssland) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Europa > Häxprocesser i Ryssland
+- [ ] **Hexenwesen (Schweiz)**（德語，原始碼 11,726 位元組）— [原文](https://de.wikipedia.org/wiki/Hexenwesen_%28Schweiz%29) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung nach räumlicher Zuordnung
+- [ ] **Liechtenstein witch trials**（英語，原始碼 11,542 位元組）— [原文](https://en.wikipedia.org/wiki/Liechtenstein_witch_trials) — 來源分類：Category:Witch trials > Witch trials in Europe
+- [ ] **Brita Zippel**（西班牙語，原始碼 11,400 位元組）— [原文](https://es.wikipedia.org/wiki/Brita_Zippel) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
+- [ ] **Witch trials in the Netherlands**（英語，原始碼 11,228 位元組）— [原文](https://en.wikipedia.org/wiki/Witch_trials_in_the_Netherlands) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in the Netherlands
+- [ ] **Juicios de brujas en Polonia**（西班牙語，原始碼 11,128 位元組）— [原文](https://es.wikipedia.org/wiki/Juicios_de_brujas_en_Polonia) — 來源分類：Categoría:Brujería > Procesos por brujería
+- [ ] **Juicios de Valais**（西班牙語，原始碼 11,097 位元組）— [原文](https://es.wikipedia.org/wiki/Juicios_de_Valais) — 來源分類：Categoría:Brujería > Procesos por brujería
+- [ ] **Valais witch trials**（英語，原始碼 10,811 位元組）— [原文](https://en.wikipedia.org/wiki/Valais_witch_trials) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Switzerland
+- [ ] **Agnes Waterhouse**（西班牙語，原始碼 10,803 位元組）— [原文](https://es.wikipedia.org/wiki/Agnes_Waterhouse) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
+- [ ] **Witch trials in Poland**（英語，原始碼 10,778 位元組）— [原文](https://en.wikipedia.org/wiki/Witch_trials_in_Poland) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Poland
+- [ ] **Johannes Junius**（西班牙語，原始碼 10,673 位元組）— [原文](https://es.wikipedia.org/wiki/Johannes_Junius) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
+- [ ] **Catherine Quicquat**（西班牙語，原始碼 10,587 位元組）— [原文](https://es.wikipedia.org/wiki/Catherine_Quicquat) — 來源分類：Categoría:Brujería > Procesos por brujería
+- [ ] **Witch trials in the Channel Islands**（英語，原始碼 10,534 位元組）— [原文](https://en.wikipedia.org/wiki/Witch_trials_in_the_Channel_Islands) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in England
+- [ ] **Margery Jourdemayne**（英語，原始碼 10,510 位元組）— [原文](https://en.wikipedia.org/wiki/Margery_Jourdemayne) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in England
+- [ ] **Agnes Waterhouse**（英語，原始碼 10,464 位元組）— [原文](https://en.wikipedia.org/wiki/Agnes_Waterhouse) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in England
+- [ ] **Torsåker witch trials**（英語，原始碼 10,458 位元組）— [原文](https://en.wikipedia.org/wiki/Tors%C3%A5ker_witch_trials) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Sweden
+- [ ] **Gunnil från Visingsö**（瑞典語，原始碼 10,409 位元組）— [原文](https://sv.wikipedia.org/wiki/Gunnil_fr%C3%A5n_Visings%C3%B6) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Europa > Häxprocesser i Sverige
+- [ ] **Teórida de Lemnos**（西班牙語，原始碼 10,400 位元組）— [原文](https://es.wikipedia.org/wiki/Te%C3%B3rida_de_Lemnos) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
+- [ ] **Margaret Scott (Juicios de Salem)**（西班牙語，原始碼 10,343 位元組）— [原文](https://es.wikipedia.org/wiki/Margaret_Scott_%28Juicios_de_Salem%29) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
+- [ ] **Ann Hibbins**（西班牙語，原始碼 10,290 位元組）— [原文](https://es.wikipedia.org/wiki/Ann_Hibbins) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
+- [ ] **Mora witch trial**（英語，原始碼 10,207 位元組）— [原文](https://en.wikipedia.org/wiki/Mora_witch_trial) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Sweden
+- [ ] **Caza de brujas en Cataluña**（西班牙語，原始碼 10,156 位元組）— [原文](https://es.wikipedia.org/wiki/Caza_de_brujas_en_Catalu%C3%B1a) — 來源分類：Categoría:Brujería > Procesos por brujería > Juicios por brujería en España
+- [ ] **Häxprocessen i Södra Ny**（瑞典語，原始碼 10,016 位元組）— [原文](https://sv.wikipedia.org/wiki/H%C3%A4xprocessen_i_S%C3%B6dra_Ny) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Europa > Häxprocesser i Sverige
+- [ ] **Islandmagee witch trial**（英語，原始碼 9,996 位元組）— [原文](https://en.wikipedia.org/wiki/Islandmagee_witch_trial) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Ireland
+- [ ] **Anexo:Personas de los Juicios de Salem**（西班牙語，原始碼 9,995 位元組）— [原文](https://es.wikipedia.org/wiki/Anexo%3APersonas_de_los_Juicios_de_Salem) — 來源分類：Categoría:Brujería > Procesos por brujería > Juicios por brujería de Salem
+- [ ] **Elizabeth Clarke**（英語，原始碼 9,906 位元組）— [原文](https://en.wikipedia.org/wiki/Elizabeth_Clarke) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in England
+- [ ] **Häxprocessen i Bamberg**（瑞典語，原始碼 9,851 位元組）— [原文](https://sv.wikipedia.org/wiki/H%C3%A4xprocessen_i_Bamberg) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Europa > Häxprocesser i Tyskland
+- [ ] **Häxhammaren**（瑞典語，原始碼 9,770 位元組）— [原文](https://sv.wikipedia.org/wiki/H%C3%A4xhammaren) — 來源分類：Kategori:Häxprocesser
+- [ ] **Häxprocessen i Ellwangen**（瑞典語，原始碼 9,751 位元組）— [原文](https://sv.wikipedia.org/wiki/H%C3%A4xprocessen_i_Ellwangen) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Europa > Häxprocesser i Tyskland
+- [ ] **Joan Wright**（英語，原始碼 9,725 位元組）— [原文](https://en.wikipedia.org/wiki/Joan_Wright) — 來源分類：Category:Witch trials > Witch trials in North America
+- [ ] **Archibald Douglas, 8th Earl of Angus**（英語，原始碼 9,670 位元組）— [原文](https://en.wikipedia.org/wiki/Archibald_Douglas%2C_8th_Earl_of_Angus) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Scotland
+- [ ] **Witch trials in Latvia and Estonia**（英語，原始碼 9,634 位元組）— [原文](https://en.wikipedia.org/wiki/Witch_trials_in_Latvia_and_Estonia) — 來源分類：Category:Witch trials > Witch trials in Europe
+- [ ] **Caza de brujas en Tarrasa**（西班牙語，原始碼 9,609 位元組）— [原文](https://es.wikipedia.org/wiki/Caza_de_brujas_en_Tarrasa) — 來源分類：Categoría:Brujería > Procesos por brujería > Juicios por brujería en España
+- [ ] **Geillis Duncan**（西班牙語，原始碼 9,601 位元組）— [原文](https://es.wikipedia.org/wiki/Geillis_Duncan) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
+- [ ] **Cambridge Association**（英語，原始碼 9,521 位元組）— [原文](https://en.wikipedia.org/wiki/Cambridge_Association) — 來源分類：Category:Witch trials > Witch trials in North America > Salem witch trials
+- [ ] **Häxprocessen i Würzburg**（瑞典語，原始碼 9,405 位元組）— [原文](https://sv.wikipedia.org/wiki/H%C3%A4xprocessen_i_W%C3%BCrzburg) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Europa > Häxprocesser i Tyskland
+- [ ] **Petronilla de Meath**（西班牙語，原始碼 9,362 位元組）— [原文](https://es.wikipedia.org/wiki/Petronilla_de_Meath) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
+- [ ] **Margaret Barclay**（英語，原始碼 9,284 位元組）— [原文](https://en.wikipedia.org/wiki/Margaret_Barclay) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Scotland
+- [ ] **Hexenprozesse in Triesen**（德語，原始碼 9,240 位元組）— [原文](https://de.wikipedia.org/wiki/Hexenprozesse_in_Triesen) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung nach räumlicher Zuordnung
+- [ ] **Häxprocesserna i Österbotten**（瑞典語，原始碼 9,028 位元組）— [原文](https://sv.wikipedia.org/wiki/H%C3%A4xprocesserna_i_%C3%96sterbotten) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Europa > Häxprocesser i Finland
+- [ ] **María Soliño**（西班牙語，原始碼 9,024 位元組）— [原文](https://es.wikipedia.org/wiki/Mar%C3%ADa_Soli%C3%B1o) — 來源分類：Categoría:Brujería > Procesos por brujería > Juicios por brujería en España
+- [ ] **Witch trials in Catalonia**（英語，原始碼 8,975 位元組）— [原文](https://en.wikipedia.org/wiki/Witch_trials_in_Catalonia) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Spain
+- [ ] **Hexenprozesse in Flörsheim**（德語，原始碼 8,962 位元組）— [原文](https://de.wikipedia.org/wiki/Hexenprozesse_in_Fl%C3%B6rsheim) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung nach räumlicher Zuordnung > Hexenprozesse in Deutschland
+- [ ] **Blåkulla**（瑞典語，原始碼 8,959 位元組）— [原文](https://sv.wikipedia.org/wiki/Bl%C3%A5kulla) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Europa > Häxprocesser i Sverige
+- [ ] **Sarah Good**（西班牙語，原始碼 8,948 位元組）— [原文](https://es.wikipedia.org/wiki/Sarah_Good) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
+- [ ] **Margaret Aitken**（西班牙語，原始碼 8,937 位元組）— [原文](https://es.wikipedia.org/wiki/Margaret_Aitken) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
+- [ ] **Newcastle witch trials**（英語，原始碼 8,933 位元組）— [原文](https://en.wikipedia.org/wiki/Newcastle_witch_trials) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in England
+- [ ] **Bloodlines of Salem**（英語，原始碼 8,900 位元組）— [原文](https://en.wikipedia.org/wiki/Bloodlines_of_Salem) — 來源分類：Category:Witch trials > Witch trials in North America > Salem witch trials
+- [ ] **Jerónima Muntanyola**（西班牙語，原始碼 8,878 位元組）— [原文](https://es.wikipedia.org/wiki/Jer%C3%B3nima_Muntanyola) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
+- [ ] **Heinrich Kramer**（英語，原始碼 8,865 位元組）— [原文](https://en.wikipedia.org/wiki/Heinrich_Kramer) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Germany
+- [ ] **Flowing Wells witch trial**（英語，原始碼 8,840 位元組）— [原文](https://en.wikipedia.org/wiki/Flowing_Wells_witch_trial) — 來源分類：Category:Witch trials > Witch trials in North America
+- [ ] **Hexenverfolgung in Davensberg**（德語，原始碼 8,837 位元組）— [原文](https://de.wikipedia.org/wiki/Hexenverfolgung_in_Davensberg) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung nach räumlicher Zuordnung > Hexenprozesse in Deutschland
+- [ ] **Lisbeth Nypan**（西班牙語，原始碼 8,757 位元組）— [原文](https://es.wikipedia.org/wiki/Lisbeth_Nypan) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
+- [ ] **Margaret Krieger**（英語，原始碼 8,731 位元組）— [原文](https://en.wikipedia.org/wiki/Margaret_Krieger) — 來源分類：Category:Witch trials > Witch trials in North America
+- [ ] **Große schottische Hexenjagd von 1661/1662**（德語，原始碼 8,708 位元組）— [原文](https://de.wikipedia.org/wiki/Gro%C3%9Fe_schottische_Hexenjagd_von_1661/1662) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung nach räumlicher Zuordnung
+- [ ] **Dorothea Flock**（西班牙語，原始碼 8,688 位元組）— [原文](https://es.wikipedia.org/wiki/Dorothea_Flock) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
+- [ ] **Anna zur Steinhorst**（西班牙語，原始碼 8,672 位元組）— [原文](https://es.wikipedia.org/wiki/Anna_zur_Steinhorst) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
+- [ ] **Anna Laminit**（西班牙語，原始碼 8,669 位元組）— [原文](https://es.wikipedia.org/wiki/Anna_Laminit) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
+- [ ] **Häxlagarna (England)**（瑞典語，原始碼 8,657 位元組）— [原文](https://sv.wikipedia.org/wiki/H%C3%A4xlagarna_%28England%29) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Europa > Häxprocesser i England
+- [ ] **Häxprocessen i Valais**（瑞典語，原始碼 8,641 位元組）— [原文](https://sv.wikipedia.org/wiki/H%C3%A4xprocessen_i_Valais) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Europa > Häxprocesser i Frankrike
+- [ ] **John Cotta**（英語，原始碼 8,587 位元組）— [原文](https://en.wikipedia.org/wiki/John_Cotta) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in England
+- [ ] **Häxprocessen i Vardø (1662–1663)**（瑞典語，原始碼 8,581 位元組）— [原文](https://sv.wikipedia.org/wiki/H%C3%A4xprocessen_i_Vard%C3%B8_%281662%E2%80%931663%29) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Europa > Häxprocesser i Norge
+- [ ] **Hexenverfolgung in Fritzlar**（德語，原始碼 8,548 位元組）— [原文](https://de.wikipedia.org/wiki/Hexenverfolgung_in_Fritzlar) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung nach räumlicher Zuordnung > Hexenprozesse in Deutschland
+- [ ] **Häxjakten i Navarra 1575–1576**（瑞典語，原始碼 8,531 位元組）— [原文](https://sv.wikipedia.org/wiki/H%C3%A4xjakten_i_Navarra_1575%E2%80%931576) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Europa > Häxprocesser i Spanien
+- [ ] **Hexenprozesse von Lindheim**（德語，原始碼 8,470 位元組）— [原文](https://de.wikipedia.org/wiki/Hexenprozesse_von_Lindheim) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung nach räumlicher Zuordnung > Hexenprozesse in Deutschland
+- [ ] **Everyone Knows Your Mother Is a Witch**（英語，原始碼 8,452 位元組）— [原文](https://en.wikipedia.org/wiki/Everyone_Knows_Your_Mother_Is_a_Witch) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Germany
+- [ ] **Elin i Horsnäs**（西班牙語，原始碼 8,439 位元組）— [原文](https://es.wikipedia.org/wiki/Elin_i_Horsn%C3%A4s) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
+- [ ] **Pierre de Lancre**（英語，原始碼 8,386 位元組）— [原文](https://en.wikipedia.org/wiki/Pierre_de_Lancre) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in France
+- [ ] **Kerstin Gabrielsdotter**（瑞典語，原始碼 8,354 位元組）— [原文](https://sv.wikipedia.org/wiki/Kerstin_Gabrielsdotter) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Europa > Häxprocesser i Sverige
+- [ ] **Witch trials in Hungary**（英語，原始碼 8,311 位元組）— [原文](https://en.wikipedia.org/wiki/Witch_trials_in_Hungary) — 來源分類：Category:Witch trials > Witch trials in Europe
+- [ ] **Witch trials in Portugal**（英語，原始碼 8,306 位元組）— [原文](https://en.wikipedia.org/wiki/Witch_trials_in_Portugal) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Portugal
+- [ ] **Blåkullafärderna i Mockfjärd**（瑞典語，原始碼 8,282 位元組）— [原文](https://sv.wikipedia.org/wiki/Bl%C3%A5kullaf%C3%A4rderna_i_Mockfj%C3%A4rd) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Europa > Häxprocesser i Sverige
+- [ ] **Hexenprozesse in Dreieich**（德語，原始碼 8,274 位元組）— [原文](https://de.wikipedia.org/wiki/Hexenprozesse_in_Dreieich) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung nach räumlicher Zuordnung > Hexenprozesse in Deutschland
+- [ ] **Lars Nilsson (1632–1693)**（瑞典語，原始碼 8,258 位元組）— [原文](https://sv.wikipedia.org/wiki/Lars_Nilsson_%281632%E2%80%931693%29) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Europa > Häxprocesser i Sverige
+- [ ] **Häxprocessen i Amersfoort och Utrecht**（瑞典語，原始碼 8,232 位元組）— [原文](https://sv.wikipedia.org/wiki/H%C3%A4xprocessen_i_Amersfoort_och_Utrecht) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Europa > Häxprocesser i Nederländerna
+- [ ] **Aberdeen witch trials of 1596–1597**（英語，原始碼 8,218 位元組）— [原文](https://en.wikipedia.org/wiki/Aberdeen_witch_trials_of_1596%E2%80%931597) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Scotland
+- [ ] **Bo'ness witches**（英語，原始碼 8,181 位元組）— [原文](https://en.wikipedia.org/wiki/Bo%27ness_witches) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Scotland
+- [ ] **Hexenprozesse in Rhens**（德語，原始碼 8,056 位元組）— [原文](https://de.wikipedia.org/wiki/Hexenprozesse_in_Rhens) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung nach räumlicher Zuordnung > Hexenprozesse in Deutschland
+- [ ] **Vardø witch trials (1621)**（英語，原始碼 7,959 位元組）— [原文](https://en.wikipedia.org/wiki/Vard%C3%B8_witch_trials_%281621%29) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Norway
+- [ ] **Hexenverfolgung in Biel und Umgebung**（德語，原始碼 7,954 位元組）— [原文](https://de.wikipedia.org/wiki/Hexenverfolgung_in_Biel_und_Umgebung) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung nach räumlicher Zuordnung
+- [ ] **Anna Goeldin – The Last Witch**（英語，原始碼 7,932 位元組）— [原文](https://en.wikipedia.org/wiki/Anna_Goeldin_%E2%80%93_The_Last_Witch) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Switzerland
+- [ ] **Terrassa witch trials**（英語，原始碼 7,928 位元組）— [原文](https://en.wikipedia.org/wiki/Terrassa_witch_trials) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Spain
+- [ ] **Brita Biörn**（瑞典語，原始碼 7,903 位元組）— [原文](https://sv.wikipedia.org/wiki/Brita_Bi%C3%B6rn) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Europa > Häxprocesser i Sverige
+- [ ] **Amina bint Abdul Halim bin Salem Nasser**（西班牙語，原始碼 7,834 位元組）— [原文](https://es.wikipedia.org/wiki/Amina_bint_Abdul_Halim_bin_Salem_Nasser) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
+- [ ] **Polixena de San Macario**（西班牙語，原始碼 7,823 位元組）— [原文](https://es.wikipedia.org/wiki/Polixena_de_San_Macario) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
+- [ ] **Anna Maria Adamsdotter**（瑞典語，原始碼 7,814 位元組）— [原文](https://sv.wikipedia.org/wiki/Anna_Maria_Adamsdotter) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Europa > Häxprocesser i Sverige
+- [ ] **Samuel Sewall**（西班牙語，原始碼 7,795 位元組）— [原文](https://es.wikipedia.org/wiki/Samuel_Sewall) — 來源分類：Categoría:Brujería > Procesos por brujería > Juicios por brujería de Salem
+- [ ] **Häxprocessen i Finspång**（瑞典語，原始碼 7,774 位元組）— [原文](https://sv.wikipedia.org/wiki/H%C3%A4xprocessen_i_Finsp%C3%A5ng) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Europa > Häxprocesser i Sverige
+- [ ] **Witch trials in Russia**（英語，原始碼 7,725 位元組）— [原文](https://en.wikipedia.org/wiki/Witch_trials_in_Russia) — 來源分類：Category:Witch trials > Witch trials in Europe
+- [ ] **Hexenprozesse von North Berwick**（德語，原始碼 7,696 位元組）— [原文](https://de.wikipedia.org/wiki/Hexenprozesse_von_North_Berwick) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung nach räumlicher Zuordnung
+- [ ] **Balthasar von Dernbach**（英語，原始碼 7,648 位元組）— [原文](https://en.wikipedia.org/wiki/Balthasar_von_Dernbach) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Germany
+- [ ] **Ursula Kemp**（西班牙語，原始碼 7,577 位元組）— [原文](https://es.wikipedia.org/wiki/Ursula_Kemp) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
+- [ ] **Veronika de Desenice**（西班牙語，原始碼 7,477 位元組）— [原文](https://es.wikipedia.org/wiki/Veronika_de_Desenice) — 來源分類：Categoría:Brujería > Procesos por brujería
+- [ ] **Häxprocessen på Kastelholm**（瑞典語，原始碼 7,470 位元組）— [原文](https://sv.wikipedia.org/wiki/H%C3%A4xprocessen_p%C3%A5_Kastelholm) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Europa > Häxprocesser i Finland
+- [ ] **Margo Burns**（英語，原始碼 7,437 位元組）— [原文](https://en.wikipedia.org/wiki/Margo_Burns) — 來源分類：Category:Witch trials > Witch trials in North America > Salem witch trials
+- [ ] **William Harding (Virginia witch trials)**（英語，原始碼 7,383 位元組）— [原文](https://en.wikipedia.org/wiki/William_Harding_%28Virginia_witch_trials%29) — 來源分類：Category:Witch trials > Witch trials in North America
+- [ ] **Elizabeth Morse (Newbury witch trials)**（英語，原始碼 7,358 位元組）— [原文](https://en.wikipedia.org/wiki/Elizabeth_Morse_%28Newbury_witch_trials%29) — 來源分類：Category:Witch trials > Witch trials in North America
+- [ ] **Häxprocessen i Vardø (1621)**（瑞典語，原始碼 7,296 位元組）— [原文](https://sv.wikipedia.org/wiki/H%C3%A4xprocessen_i_Vard%C3%B8_%281621%29) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Europa > Häxprocesser i Norge
+- [ ] **Jane Weir**（西班牙語，原始碼 7,241 位元組）— [原文](https://es.wikipedia.org/wiki/Jane_Weir) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
+- [ ] **Anne Palles**（西班牙語，原始碼 7,221 位元組）— [原文](https://es.wikipedia.org/wiki/Anne_Palles) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
+- [ ] **Doruchów witch trial**（英語，原始碼 7,190 位元組）— [原文](https://en.wikipedia.org/wiki/Doruch%C3%B3w_witch_trial) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Poland
+- [ ] **Juicios de brujas en los Países Bajos españoles**（西班牙語，原始碼 7,169 位元組）— [原文](https://es.wikipedia.org/wiki/Juicios_de_brujas_en_los_Pa%C3%ADses_Bajos_espa%C3%B1oles) — 來源分類：Categoría:Brujería > Procesos por brujería > Juicios por brujería en España
+- [ ] **Elisabeth Plainacher**（西班牙語，原始碼 7,163 位元組）— [原文](https://es.wikipedia.org/wiki/Elisabeth_Plainacher) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
+- [ ] **Elin i Horsnäs**（瑞典語，原始碼 7,156 位元組）— [原文](https://sv.wikipedia.org/wiki/Elin_i_Horsn%C3%A4s) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Europa > Häxprocesser i Sverige
+- [ ] **Witch trials in the Spanish Netherlands**（英語，原始碼 7,128 位元組）— [原文](https://en.wikipedia.org/wiki/Witch_trials_in_the_Spanish_Netherlands) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in the Netherlands
+- [ ] **Witch trials in Norway**（英語，原始碼 7,104 位元組）— [原文](https://en.wikipedia.org/wiki/Witch_trials_in_Norway) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Norway
+- [ ] **Häxprocesser i Danmark**（瑞典語，原始碼 7,102 位元組）— [原文](https://sv.wikipedia.org/wiki/H%C3%A4xprocesser_i_Danmark) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Europa > Häxprocesser i Danmark
+- [ ] **Agnes Sampson**（西班牙語，原始碼 7,041 位元組）— [原文](https://es.wikipedia.org/wiki/Agnes_Sampson) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
+- [ ] **Thomas Schreiber (posadero)**（西班牙語，原始碼 7,036 位元組）— [原文](https://es.wikipedia.org/wiki/Thomas_Schreiber_%28posadero%29) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
+- [ ] **Steilneset Memorial**（英語，原始碼 7,018 位元組）— [原文](https://en.wikipedia.org/wiki/Steilneset_Memorial) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Norway
+- [ ] **Hexenprozess von Fürsteneck**（德語，原始碼 6,986 位元組）— [原文](https://de.wikipedia.org/wiki/Hexenprozess_von_F%C3%BCrsteneck) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung nach räumlicher Zuordnung > Hexenprozesse in Deutschland
+- [ ] **Maria Bertoletti Toldini**（西班牙語，原始碼 6,967 位元組）— [原文](https://es.wikipedia.org/wiki/Maria_Bertoletti_Toldini) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
+- [ ] **John Proctor**（西班牙語，原始碼 6,964 位元組）— [原文](https://es.wikipedia.org/wiki/John_Proctor) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
+- [ ] **Elizabeth Clarke**（西班牙語，原始碼 6,929 位元組）— [原文](https://es.wikipedia.org/wiki/Elizabeth_Clarke) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
+- [ ] **Northamptonshire witch trials**（英語，原始碼 6,913 位元組）— [原文](https://en.wikipedia.org/wiki/Northamptonshire_witch_trials) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in England
+- [ ] **Maud Galt**（英語，原始碼 6,910 位元組）— [原文](https://en.wikipedia.org/wiki/Maud_Galt) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Scotland
+- [ ] **Anna Zippel**（西班牙語，原始碼 6,877 位元組）— [原文](https://es.wikipedia.org/wiki/Anna_Zippel) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
+- [ ] **Northern Moravia witch trials**（英語，原始碼 6,834 位元組）— [原文](https://en.wikipedia.org/wiki/Northern_Moravia_witch_trials) — 來源分類：Category:Witch trials > Witch trials in Europe
+- [ ] **Euphame MacCalzean**（西班牙語，原始碼 6,793 位元組）— [原文](https://es.wikipedia.org/wiki/Euphame_MacCalzean) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
+- [ ] **Maria Holl**（西班牙語，原始碼 6,766 位元組）— [原文](https://es.wikipedia.org/wiki/Maria_Holl) — 來源分類：Categoría:Brujería > Procesos por brujería
+- [ ] **Rottweil witch trials**（英語，原始碼 6,748 位元組）— [原文](https://en.wikipedia.org/wiki/Rottweil_witch_trials) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Germany
+- [ ] **Wilhelmine von Grävenitz**（英語，原始碼 6,726 位元組）— [原文](https://en.wikipedia.org/wiki/Wilhelmine_von_Gr%C3%A4venitz) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Germany
+- [ ] **Forfar Witch Trials**（英語，原始碼 6,689 位元組）— [原文](https://en.wikipedia.org/wiki/Forfar_Witch_Trials) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Scotland
+- [ ] **Kyteler's Inn**（英語，原始碼 6,675 位元組）— [原文](https://en.wikipedia.org/wiki/Kyteler%27s_Inn) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Ireland
+- [ ] **Cathelyne van den Bulcke**（西班牙語，原始碼 6,672 位元組）— [原文](https://es.wikipedia.org/wiki/Cathelyne_van_den_Bulcke) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
+- [ ] **Abigail Williams (Juicios de Salem)**（西班牙語，原始碼 6,608 位元組）— [原文](https://es.wikipedia.org/wiki/Abigail_Williams_%28Juicios_de_Salem%29) — 來源分類：Categoría:Brujería > Procesos por brujería > Juicios por brujería de Salem
+- [ ] **Häxprocesserna i Salem**（瑞典語，原始碼 6,596 位元組）— [原文](https://sv.wikipedia.org/wiki/H%C3%A4xprocesserna_i_Salem) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Nordamerika > Häxprocessen i Salem
+- [ ] **Thomas Weir**（西班牙語，原始碼 6,509 位元組）— [原文](https://es.wikipedia.org/wiki/Thomas_Weir) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
+- [ ] **Hexenverfolgung in Geseke**（德語，原始碼 6,490 位元組）— [原文](https://de.wikipedia.org/wiki/Hexenverfolgung_in_Geseke) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung nach räumlicher Zuordnung > Hexenprozesse in Deutschland
+- [ ] **Adrienne d'Heur**（西班牙語，原始碼 6,481 位元組）— [原文](https://es.wikipedia.org/wiki/Adrienne_d%27Heur) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
+- [ ] **Jeanette Abadie**（英語，原始碼 6,429 位元組）— [原文](https://en.wikipedia.org/wiki/Jeanette_Abadie) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in France
+- [ ] **Eichstätt witch trials**（英語，原始碼 6,405 位元組）— [原文](https://en.wikipedia.org/wiki/Eichst%C3%A4tt_witch_trials) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Germany
+- [ ] **Alice Nutter**（西班牙語，原始碼 6,405 位元組）— [原文](https://es.wikipedia.org/wiki/Alice_Nutter) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
+- [ ] **Maren Spliid**（西班牙語，原始碼 6,389 位元組）— [原文](https://es.wikipedia.org/wiki/Maren_Spliid) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
+- [ ] **Häxprocessen i Vardø (1651–1653)**（瑞典語，原始碼 6,345 位元組）— [原文](https://sv.wikipedia.org/wiki/H%C3%A4xprocessen_i_Vard%C3%B8_%281651%E2%80%931653%29) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Europa > Häxprocesser i Norge
+- [ ] **Älvprocesserna på Sicilien**（瑞典語，原始碼 6,338 位元組）— [原文](https://sv.wikipedia.org/wiki/%C3%84lvprocesserna_p%C3%A5_Sicilien) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Europa > Häxprocesser i Italien
+- [ ] **Finspång witch trial**（英語，原始碼 6,305 位元組）— [原文](https://en.wikipedia.org/wiki/Finsp%C3%A5ng_witch_trial) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Sweden
+- [ ] **Häxprocessen på Vegeholm**（瑞典語，原始碼 6,274 位元組）— [原文](https://sv.wikipedia.org/wiki/H%C3%A4xprocessen_p%C3%A5_Vegeholm) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Europa > Häxprocesser i Danmark
+- [ ] **Anna Catharina von Bärfelt**（瑞典語，原始碼 6,271 位元組）— [原文](https://sv.wikipedia.org/wiki/Anna_Catharina_von_B%C3%A4rfelt) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Europa > Häxprocesser i Sverige
+- [ ] **Hexenverbrennung in Derenburg**（德語，原始碼 6,269 位元組）— [原文](https://de.wikipedia.org/wiki/Hexenverbrennung_in_Derenburg) — 來源分類：Kategorie:Hexenverfolgung > Hexenzeitung
+- [ ] **Häxprocesser i Polen**（瑞典語，原始碼 6,266 位元組）— [原文](https://sv.wikipedia.org/wiki/H%C3%A4xprocesser_i_Polen) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Europa > Häxprocesser i Polen
+- [ ] **Anna Eriksdotter**（瑞典語，原始碼 6,255 位元組）— [原文](https://sv.wikipedia.org/wiki/Anna_Eriksdotter) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Europa > Häxprocesser i Sverige
+- [ ] **Häxprocessen i Köpenhamn**（瑞典語，原始碼 6,190 位元組）— [原文](https://sv.wikipedia.org/wiki/H%C3%A4xprocessen_i_K%C3%B6penhamn) — 來源分類：Kategori:Häxprocesser > Häxprocesser i Europa > Häxprocesser i Danmark
+- [ ] **Fife Witches Trail**（英語，原始碼 6,139 位元組）— [原文](https://en.wikipedia.org/wiki/Fife_Witches_Trail) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Scotland
+- [ ] **Captain Elin**（英語，原始碼 6,134 位元組）— [原文](https://en.wikipedia.org/wiki/Captain_Elin) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Sweden
+- [ ] **Mears Ashby**（英語，原始碼 6,079 位元組）— [原文](https://en.wikipedia.org/wiki/Mears_Ashby) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in England
+- [ ] **Great Scottish Witch Hunt of 1597**（英語，原始碼 6,066 位元組）— [原文](https://en.wikipedia.org/wiki/Great_Scottish_Witch_Hunt_of_1597) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Scotland
+- [ ] **Witch trials in Italy**（英語，原始碼 6,051 位元組）— [原文](https://en.wikipedia.org/wiki/Witch_trials_in_Italy) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Italy
+- [ ] **Familia Pappenheimer**（西班牙語，原始碼 6,051 位元組）— [原文](https://es.wikipedia.org/wiki/Familia_Pappenheimer) — 來源分類：Categoría:Brujería > Procesos por brujería > Ejecutados por brujería
+- [ ] **Perrissona Gappit case**（英語，原始碼 6,040 位元組）— [原文](https://en.wikipedia.org/wiki/Perrissona_Gappit_case) — 來源分類：Category:Witch trials > Witch trials in Europe > Witch trials in Switzerland
+- [ ] **Hexenverfolgung in der Stadt Baden AG**（德語，原始碼 5,903 位元組）— [原文](https://de.wikipedia.org/wiki/Hexenverfolgung_in_der_Stadt_Baden_AG) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung nach räumlicher Zuordnung
+- [ ] **Maria Perpétua**（西班牙語，原始碼 5,732 位元組）— [原文](https://es.wikipedia.org/wiki/Maria_Perp%C3%A9tua) — 來源分類：Categoría:Brujería > Procesos por brujería
+- [ ] **1695 Essex Witch Trial**（英語，原始碼 5,245 位元組）— [原文](https://en.wikipedia.org/wiki/1695_Essex_Witch_Trial) — 來源分類：Category:Witch trials > Witch trials in North America
+- [ ] **Caza de brujas de Šumperk y Velké Losiny**（西班牙語，原始碼 5,091 位元組）— [原文](https://es.wikipedia.org/wiki/Caza_de_brujas_de_%C5%A0umperk_y_Velk%C3%A9_Losiny) — 來源分類：Categoría:Brujería > Procesos por brujería
+- [ ] **Teufel von Loudun**（德語，原始碼 4,721 位元組）— [原文](https://de.wikipedia.org/wiki/Teufel_von_Loudun) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung nach räumlicher Zuordnung
+- [ ] **Juicio de las brujas de Bamberg**（西班牙語，原始碼 4,577 位元組）— [原文](https://es.wikipedia.org/wiki/Juicio_de_las_brujas_de_Bamberg) — 來源分類：Categoría:Brujería > Procesos por brujería
+- [ ] **Juicio por brujería de Kirkjuból**（西班牙語，原始碼 4,046 位元組）— [原文](https://es.wikipedia.org/wiki/Juicio_por_brujer%C3%ADa_de_Kirkjub%C3%B3l) — 來源分類：Categoría:Brujería > Procesos por brujería

@@ -45,6 +45,16 @@ SEEDS = [
     ("sv", "Kategori:Häxprocesser"),
     ("ru", "Категория:Ведьмы"),
     ("pl", "Kategoria:Czarownice"),
+    # 東亞：獵巫是歐洲特有現象，東亞的對應概念掛在完全不同的分類名底下
+    # （呪術、陰陽道、憑き物、巫覡、蠱），不加這些種子就永遠掃不到東亞條目。
+    ("ja", "Category:呪術"),
+    ("ja", "Category:陰陽道"),
+    ("ja", "Category:シャーマニズム"),
+    ("ja", "Category:日本の妖怪"),
+    ("zh", "Category:中國民間信仰"),
+    ("zh", "Category:薩滿教"),
+    ("ko", "분류:무속"),
+    ("ko", "분류:샤머니즘"),
 ]
 
 # 明顯不屬於「歷史上的魔女傳說」的條目，用關鍵字先濾掉
@@ -67,7 +77,10 @@ SKIP_SUBCAT = re.compile(
     r"finzione|cinema|televisione|romanzo|letteratura|musica|gioco|cultura|"
     r"fiktion|film|litteratur|musik|spel|kultur|"
     r"вымысл|фильм|литератур|музык|игр|культур|"
-    r"fikcj|film|literatur|muzyk|gr[ay]|kultur)",
+    r"fikcj|film|literatur|muzyk|gr[ay]|kultur|"
+    r"を題材とした|アニメ|漫画|映画|ゲーム|小説|作品|登場人物|"
+    r"作品|虛構|虚构|影視|电影|动画|"
+    r"작품|만화|애니메이션|영화)",
     re.I,
 )
 

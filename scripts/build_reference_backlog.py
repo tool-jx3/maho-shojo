@@ -31,6 +31,9 @@ from build_reference_indexes import collect  # noqa: E402
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 REF = os.path.join(ROOT, "reference")
 RAW = os.path.join(REF, "backlog", "candidates-raw.tsv")
+# 優先候選的實際純文字字數，覆寫掃描得到的原始碼位元組估算值
+PRIORITY_SIZES = os.path.join(REF, "backlog", "priority-sizes.tsv")
+THIN = 4000  # 純文字字數低於此值，逐段對譯的格式會撐不起來
 OUT = os.path.join(REF, "BACKLOG.md")
 NL = chr(10)
 
@@ -38,6 +41,10 @@ LANG_NAMES = {
     "en": "英語", "de": "德語", "fr": "法語", "es": "西班牙語", "it": "義大利語",
     "sv": "瑞典語", "ru": "俄語", "pl": "波蘭語", "ja": "日語", "nl": "荷蘭語",
     "is": "冰島語", "no": "挪威語", "eu": "巴斯克語", "la": "拉丁語",
+    "zh": "中文", "ko": "韓語", "fur": "弗留利語", "sco": "蘇格蘭語",
+    "ga": "愛爾蘭語", "gd": "蘇格蘭蓋爾語", "fi": "芬蘭語", "hu": "匈牙利語",
+    "uk": "烏克蘭語", "el": "希臘語", "he": "希伯來語", "ar": "阿拉伯語",
+    "yo": "約魯巴語", "ln": "林加拉語",
 }
 
 # 只看分類路徑的最末層（最具體的那個分類）來判斷是否為虛構作品／流行文化。
@@ -145,6 +152,21 @@ PRIORITY = [
     ("de", "Sebastian Röttinger", "加害者個案"),
     ("en", "Elizabeth Howe", "塞勒姆受害者個案"),
     ("en", "Elizabeth Frauncis", "英格蘭最早的女巫審判被告之一"),
+    # 東亞：第三批優先收人物與傳說，以下制度性、職業性的形象留待後續
+    ("ja", "巫女", "日本的神職少女，與歐洲「女巫是被迫害者」完全相反的模式"),
+    ("ja", "斎宮", "卜定的未婚皇女，被選中後與世隔絕侍神，最徹底的「被選中的少女」制度"),
+    ("ja", "陰陽道", "式神與安倍晴明條目的制度背景"),
+    ("ja", "イタコ", "東北地方的盲眼女性靈媒，口寄せ（招魂）"),
+    ("ja", "ユタ", "沖繩的女性靈媒，與制度性的ノロ相對的民間靈能者"),
+    ("ja", "ノロ", "琉球的女祭司，聞得大君之下的神女組織"),
+    ("ja", "飯縄権現", "飯綱法與管狐信仰的本尊"),
+    ("ja", "神隠し", "異界擄人母題"),
+    ("zh", "扶乩", "漢文化圈的降筆術，與歐洲的招魂術可對照"),
+    ("zh", "麻姑", "道教女仙，長生與滄海桑田的象徵"),
+    ("ko", "무녀", "韓國的女巫，무당條目的性別專條"),
+    ("ko", "굿", "韓國巫俗的儀式，바리공주敘事詩即在其中吟唱"),
+    ("ko", "점복", "韓國的占卜傳統"),
+    ("ko", "마고할미", "韓國的創世女神，與中國麻姑同源"),
 ]
 
 
@@ -180,6 +202,17 @@ def main():
         return 1
 
     covered = covered_titles()
+
+    real_sizes = {}
+    if os.path.exists(PRIORITY_SIZES):
+        with io.open(PRIORITY_SIZES, encoding="utf-8") as f:
+            for line in f:
+                if line.startswith("#") or line.startswith("語言"):
+                    continue
+                c = line.rstrip(chr(10)).split(chr(9))
+                if len(c) >= 3 and c[2].isdigit():
+                    real_sizes[(c[0], c[1])] = int(c[2])
+
     rows = []
     total_raw = 0
     dropped_fiction = 0
@@ -216,7 +249,7 @@ def main():
         url = "https://%s.wikipedia.org/wiki/%s" % (
             lang, urllib.parse.quote(title.replace(" ", "_")))
         name = "**%s**" % title if bold else title
-        return "- [ ] %s（%s，%s 字元）— [原文](%s) — 來源分類：%s" % (
+        return "- [ ] %s（%s，原始碼 %s 位元組）— [原文](%s) — 來源分類：%s" % (
             name, LANG_NAMES.get(lang, lang), format(size, ","), url, path)
 
     # 各主題分檔
@@ -259,7 +292,10 @@ def main():
         "- 已收錄的條目會在重跑腳本時自動從清單消失，不必手動勾除。",
         "- 判斷是否值得收錄時，優先看：有沒有發源語言的條目、內容量是否足以支撐逐段對譯、"
         "以及是否補上了現有資料庫沒有的維度（地區、語系、時代、類型）。",
-        "- 字元數是該語言維基條目的原始大小，僅供粗估；實際可用內容要擷取後才知道。",
+        "- **各主題清單的數字是 wikitext 原始碼的位元組數，不是純文字字數。**"
+        "實測比值：歐洲語言約 1.7—2.2 倍，日／中／韓約 3.4—7.6 倍——也就是說"
+        "同樣的位元組數，CJK 條目的實際內容只有歐洲條目的三分之一左右。"
+        "跨語言比較時務必把這個偏差算進去。「優先候選」表則已換成實測的純文字字數。",
         "",
         "## 統計",
         "",
@@ -282,17 +318,29 @@ def main():
     parts += ["## 優先候選（人工挑選）", ""]
     parts += ["以下是從掃描結果中挑出、明確屬於本資料庫範圍且尚未收錄的項目，"
               "可以直接從這裡開下一批。已收錄者會自動從表中消失。", ""]
-    parts += ["| 條目 | 語言 | 字元數 | 為什麼值得收 |", "| --- | --- | --- | --- |"]
-    missing_priority = []
+    parts += ["| 條目 | 語言 | 純文字字數 | 為什麼值得收 |", "| --- | --- | --- | --- |"]
+    # 人工挑選的項目即使不在掃描結果內（不屬於任何被掃描的分類、或低於字元數門檻）
+    # 仍要列出，只是字元數留白——否則會因為機器沒掃到而被靜默丟棄。
     for lang, title, why in PRIORITY:
-        row = by_key.get((lang, title))
-        if not row:
-            missing_priority.append("%s/%s" % (lang, title))
+        if title in covered:
             continue
+        row = by_key.get((lang, title))
         url = "https://%s.wikipedia.org/wiki/%s" % (
             lang, urllib.parse.quote(title.replace(" ", "_")))
-        parts.append("| [%s](%s) | %s | %s | %s |" % (
-            title, url, LANG_NAMES.get(lang, lang), format(row[2], ","), why))
+        n = real_sizes.get((lang, title))
+        if n is None:
+            size = format(row[2], ",") + "（估）" if row else "—"
+            note = ""
+        else:
+            size = format(n, ",")
+            note = "　**篇幅偏薄**" if n < THIN else ""
+        parts.append("| [%s](%s) | %s | %s | %s%s |" % (
+            title, url, LANG_NAMES.get(lang, lang), size, why, note))
+    parts.append("")
+    parts.append("本表的字數為實測的**純文字字數**（`prop=extracts&explaintext`），"
+                 "標「（估）」者為原始碼位元組的估算值，標「—」者不在掃描涵蓋範圍內。"
+                 "標「篇幅偏薄」者純文字不足 %d 字，可能撐不起逐段對譯的體例，"
+                 "收錄前要先確認實際可用內容。" % THIN)
     parts.append("")
 
     # 主題索引
@@ -307,9 +355,6 @@ def main():
 
     with io.open(OUT, "w", encoding="utf-8") as f:
         f.write(NL.join(parts))
-    if missing_priority:
-        print("優先候選中有 %d 項不在掃描結果內（可能已收錄或標題不符）：%s"
-              % (len(missing_priority), "、".join(missing_priority)))
     print("寫入 %s：%d 項待檢視（原始 %d、濾除虛構 %d、濾除已收錄 %d）"
           % (os.path.relpath(OUT, ROOT).replace("\\", "/"),
              len(rows), total_raw, dropped_fiction, dropped_covered))

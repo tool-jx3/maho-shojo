@@ -4,104 +4,104 @@
 
 本檔由 `scripts/build_reference_backlog.py` 產生，是機器掃描的結果而非選錄決定，每一項都需要人工判斷。
 
-- [ ] **The Love for Three Oranges (fairy tale)**（英語，149,008 字元）— [原文](https://en.wikipedia.org/wiki/The_Love_for_Three_Oranges_%28fairy_tale%29) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **Evil Queen**（英語，114,961 字元）— [原文](https://en.wikipedia.org/wiki/Evil_Queen) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **Snow White**（英語，113,682 字元）— [原文](https://en.wikipedia.org/wiki/Snow_White) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **The Enchanted Pig**（英語，78,023 字元）— [原文](https://en.wikipedia.org/wiki/The_Enchanted_Pig) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **The Death of Koschei the Deathless**（英語，69,788 字元）— [原文](https://en.wikipedia.org/wiki/The_Death_of_Koschei_the_Deathless) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **Prince Wolf**（英語，63,953 字元）— [原文](https://en.wikipedia.org/wiki/Prince_Wolf) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **The Feather of Finist the Falcon**（英語，63,579 字元）— [原文](https://en.wikipedia.org/wiki/The_Feather_of_Finist_the_Falcon) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **The Prince and the Gypsy Woman**（英語，55,958 字元）— [原文](https://en.wikipedia.org/wiki/The_Prince_and_the_Gypsy_Woman) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **The Sea Tsar and Vasilisa the Wise**（英語，52,334 字元）— [原文](https://en.wikipedia.org/wiki/The_Sea_Tsar_and_Vasilisa_the_Wise) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **The Golden Root**（英語，50,100 字元）— [原文](https://en.wikipedia.org/wiki/The_Golden_Root) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **The Knights of the Fish**（英語，49,619 字元）— [原文](https://en.wikipedia.org/wiki/The_Knights_of_the_Fish) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **The Son of Seven Mothers**（英語，45,010 字元）— [原文](https://en.wikipedia.org/wiki/The_Son_of_Seven_Mothers) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **Prunella (fairy tale)**（英語，43,744 字元）— [原文](https://en.wikipedia.org/wiki/Prunella_%28fairy_tale%29) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **The Little Crab**（英語，43,357 字元）— [原文](https://en.wikipedia.org/wiki/The_Little_Crab) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **Black Bull of Norroway**（英語，43,264 字元）— [原文](https://en.wikipedia.org/wiki/Black_Bull_of_Norroway) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **The Man and the Girl at the Underground Mansion**（英語，43,018 字元）— [原文](https://en.wikipedia.org/wiki/The_Man_and_the_Girl_at_the_Underground_Mansion) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **The Snow Queen**（英語，42,802 字元）— [原文](https://en.wikipedia.org/wiki/The_Snow_Queen) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **Hansel and Gretel**（英語，41,810 字元）— [原文](https://en.wikipedia.org/wiki/Hansel_and_Gretel) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **The Frog Princess**（英語，39,372 字元）— [原文](https://en.wikipedia.org/wiki/The_Frog_Princess) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **La Fada Morgana**（英語，39,310 字元）— [原文](https://en.wikipedia.org/wiki/La_Fada_Morgana) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **The Bird That Spoke the Truth**（英語，39,209 字元）— [原文](https://en.wikipedia.org/wiki/The_Bird_That_Spoke_the_Truth) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **Rapunzel**（英語，38,722 字元）— [原文](https://en.wikipedia.org/wiki/Rapunzel) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **The Girl as Soldier**（英語，35,455 字元）— [原文](https://en.wikipedia.org/wiki/The_Girl_as_Soldier) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **The Tale About Baba-Yaga**（英語，35,131 字元）— [原文](https://en.wikipedia.org/wiki/The_Tale_About_Baba-Yaga) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **The Little Mermaid**（英語，34,436 字元）— [原文](https://en.wikipedia.org/wiki/The_Little_Mermaid) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **The Tale of the Little Dog**（英語，32,828 字元）— [原文](https://en.wikipedia.org/wiki/The_Tale_of_the_Little_Dog) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **White-Bear-King-Valemon**（英語，32,526 字元）— [原文](https://en.wikipedia.org/wiki/White-Bear-King-Valemon) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **The Six Swans**（英語，32,007 字元）— [原文](https://en.wikipedia.org/wiki/The_Six_Swans) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **Brother and Sister**（英語，28,530 字元）— [原文](https://en.wikipedia.org/wiki/Brother_and_Sister) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **The Falcon Pipiristi**（英語，27,217 字元）— [原文](https://en.wikipedia.org/wiki/The_Falcon_Pipiristi) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **East of the Sun and West of the Moon**（英語，27,111 字元）— [原文](https://en.wikipedia.org/wiki/East_of_the_Sun_and_West_of_the_Moon) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **Grünkappe**（英語，26,656 字元）— [原文](https://en.wikipedia.org/wiki/Gr%C3%BCnkappe) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **Witch (archetype)**（英語，26,480 字元）— [原文](https://en.wikipedia.org/wiki/Witch_%28archetype%29) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **The Maiden from the Apple Tree**（英語，25,667 字元）— [原文](https://en.wikipedia.org/wiki/The_Maiden_from_the_Apple_Tree) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **The Twins (folktale)**（英語，25,603 字元）— [原文](https://en.wikipedia.org/wiki/The_Twins_%28folktale%29) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **The Frog Prince**（英語，25,485 字元）— [原文](https://en.wikipedia.org/wiki/The_Frog_Prince) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **Mr Simigdáli**（英語，25,038 字元）— [原文](https://en.wikipedia.org/wiki/Mr_Simigd%C3%A1li) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **The Maiden Out of the Oranges**（英語，24,750 字元）— [原文](https://en.wikipedia.org/wiki/The_Maiden_Out_of_the_Oranges) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **The Three Golden Pomegranates**（英語，22,978 字元）— [原文](https://en.wikipedia.org/wiki/The_Three_Golden_Pomegranates) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **The Bird of Truth**（英語，22,760 字元）— [原文](https://en.wikipedia.org/wiki/The_Bird_of_Truth) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **The Gypsy Tsaritsa**（英語，22,487 字元）— [原文](https://en.wikipedia.org/wiki/The_Gypsy_Tsaritsa) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **Maid Lena**（英語，22,439 字元）— [原文](https://en.wikipedia.org/wiki/Maid_Lena) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **Sinyushka's Well**（英語，21,593 字元）— [原文](https://en.wikipedia.org/wiki/Sinyushka%27s_Well) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **The Princess from the Egg (Polish folktale)**（英語，21,515 字元）— [原文](https://en.wikipedia.org/wiki/The_Princess_from_the_Egg_%28Polish_folktale%29) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **Prince Whitebear**（英語，21,213 字元）— [原文](https://en.wikipedia.org/wiki/Prince_Whitebear) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **The Little Girl Sold with the Pears**（英語，19,328 字元）— [原文](https://en.wikipedia.org/wiki/The_Little_Girl_Sold_with_the_Pears) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **The Girl from the Egg (German folktale)**（英語，18,469 字元）— [原文](https://en.wikipedia.org/wiki/The_Girl_from_the_Egg_%28German_folktale%29) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **Es Negret**（英語，18,361 字元）— [原文](https://en.wikipedia.org/wiki/Es_Negret) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **The Dragon (fairy tale)**（英語，17,986 字元）— [原文](https://en.wikipedia.org/wiki/The_Dragon_%28fairy_tale%29) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **The Witch in the Stone Boat**（英語，17,732 字元）— [原文](https://en.wikipedia.org/wiki/The_Witch_in_the_Stone_Boat) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **Hangoi**（英語，17,730 字元）— [原文](https://en.wikipedia.org/wiki/Hangoi) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **The Story of the Abandoned Princess**（英語，17,715 字元）— [原文](https://en.wikipedia.org/wiki/The_Story_of_the_Abandoned_Princess) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **The Spinning-Woman by the Spring**（英語，17,570 字元）— [原文](https://en.wikipedia.org/wiki/The_Spinning-Woman_by_the_Spring) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **Tony Shiels**（法語，16,783 字元）— [原文](https://fr.wikipedia.org/wiki/Tony_Shiels) — 來源分類：Catégorie:Sorcellerie > Sorcellerie contemporaine
-- [ ] **The Castle of Return and No Return**（英語，16,108 字元）— [原文](https://en.wikipedia.org/wiki/The_Castle_of_Return_and_No_Return) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **The Nine Peahens and the Golden Apples**（英語，15,905 字元）— [原文](https://en.wikipedia.org/wiki/The_Nine_Peahens_and_the_Golden_Apples) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **Thumbelina**（英語，14,900 字元）— [原文](https://en.wikipedia.org/wiki/Thumbelina) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **The Brown Bear of Norway**（英語，14,872 字元）— [原文](https://en.wikipedia.org/wiki/The_Brown_Bear_of_Norway) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **Fitcher's Bird**（英語，14,524 字元）— [原文](https://en.wikipedia.org/wiki/Fitcher%27s_Bird) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **Vasilisa the Beautiful**（英語，13,982 字元）— [原文](https://en.wikipedia.org/wiki/Vasilisa_the_Beautiful) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **The Iron Stove**（英語，13,557 字元）— [原文](https://en.wikipedia.org/wiki/The_Iron_Stove) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **The Bold Knight, the Apples of Youth, and the Water of Life**（英語，13,388 字元）— [原文](https://en.wikipedia.org/wiki/The_Bold_Knight%2C_the_Apples_of_Youth%2C_and_the_Water_of_Life) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **The Story of Zoulvisia**（英語，13,026 字元）— [原文](https://en.wikipedia.org/wiki/The_Story_of_Zoulvisia) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **The Enchanted Canary**（英語，12,887 字元）— [原文](https://en.wikipedia.org/wiki/The_Enchanted_Canary) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **Hag**（英語，12,043 字元）— [原文](https://en.wikipedia.org/wiki/Hag) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **The Tinderbox**（英語，12,009 字元）— [原文](https://en.wikipedia.org/wiki/The_Tinderbox) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **The Scarlet Flower**（英語，11,611 字元）— [原文](https://en.wikipedia.org/wiki/The_Scarlet_Flower) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **The Wild Swans**（英語，11,386 字元）— [原文](https://en.wikipedia.org/wiki/The_Wild_Swans) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **Donkey Cabbages**（英語，10,991 字元）— [原文](https://en.wikipedia.org/wiki/Donkey_Cabbages) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **The Blue Light (fairy tale)**（英語，10,662 字元）— [原文](https://en.wikipedia.org/wiki/The_Blue_Light_%28fairy_tale%29) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **Prince Ring**（英語，10,499 字元）— [原文](https://en.wikipedia.org/wiki/Prince_Ring) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **The Greek Princess and the Young Gardener**（英語，9,950 字元）— [原文](https://en.wikipedia.org/wiki/The_Greek_Princess_and_the_Young_Gardener) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **The Dragon of the North**（英語，9,637 字元）— [原文](https://en.wikipedia.org/wiki/The_Dragon_of_the_North) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **The Two Brothers**（英語，9,043 字元）— [原文](https://en.wikipedia.org/wiki/The_Two_Brothers) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **Crone**（英語，8,561 字元）— [原文](https://en.wikipedia.org/wiki/Crone) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **The Six Servants**（英語，7,927 字元）— [原文](https://en.wikipedia.org/wiki/The_Six_Servants) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **Richilde (fairy tale)**（英語，7,271 字元）— [原文](https://en.wikipedia.org/wiki/Richilde_%28fairy_tale%29) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **Puddocky**（英語，7,257 字元）— [原文](https://en.wikipedia.org/wiki/Puddocky) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **The Princess Mouse: A Tale of Finland**（英語，7,232 字元）— [原文](https://en.wikipedia.org/wiki/The_Princess_Mouse%3A_A_Tale_of_Finland) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **Ministère du Combat spirituel**（法語，7,125 字元）— [原文](https://fr.wikipedia.org/wiki/Minist%C3%A8re_du_Combat_spirituel) — 來源分類：Catégorie:Sorcellerie > Sorcellerie contemporaine
-- [ ] **The One-Handed Girl**（英語，7,035 字元）— [原文](https://en.wikipedia.org/wiki/The_One-Handed_Girl) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **Jhonathan and the Witchs**（英語，6,953 字元）— [原文](https://en.wikipedia.org/wiki/Jhonathan_and_the_Witchs) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **The Laidly Worm of Spindleston Heugh**（英語，6,900 字元）— [原文](https://en.wikipedia.org/wiki/The_Laidly_Worm_of_Spindleston_Heugh) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **The Ram (fairy tale)**（英語，6,875 字元）— [原文](https://en.wikipedia.org/wiki/The_Ram_%28fairy_tale%29) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **The Necklace of Princess Fiorimonde**（英語，6,690 字元）— [原文](https://en.wikipedia.org/wiki/The_Necklace_of_Princess_Fiorimonde) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **The Enchanted Wreath**（英語，6,530 字元）— [原文](https://en.wikipedia.org/wiki/The_Enchanted_Wreath) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **The White Duck**（英語，6,399 字元）— [原文](https://en.wikipedia.org/wiki/The_White_Duck) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **The Bronze Ring**（英語，6,135 字元）— [原文](https://en.wikipedia.org/wiki/The_Bronze_Ring) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
-- [ ] **The Jezinkas**（英語，6,038 字元）— [原文](https://en.wikipedia.org/wiki/The_Jezinkas) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **The Love for Three Oranges (fairy tale)**（英語，原始碼 149,008 位元組）— [原文](https://en.wikipedia.org/wiki/The_Love_for_Three_Oranges_%28fairy_tale%29) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **Evil Queen**（英語，原始碼 114,961 位元組）— [原文](https://en.wikipedia.org/wiki/Evil_Queen) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **Snow White**（英語，原始碼 113,682 位元組）— [原文](https://en.wikipedia.org/wiki/Snow_White) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **The Enchanted Pig**（英語，原始碼 78,023 位元組）— [原文](https://en.wikipedia.org/wiki/The_Enchanted_Pig) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **The Death of Koschei the Deathless**（英語，原始碼 69,788 位元組）— [原文](https://en.wikipedia.org/wiki/The_Death_of_Koschei_the_Deathless) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **Prince Wolf**（英語，原始碼 63,953 位元組）— [原文](https://en.wikipedia.org/wiki/Prince_Wolf) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **The Feather of Finist the Falcon**（英語，原始碼 63,579 位元組）— [原文](https://en.wikipedia.org/wiki/The_Feather_of_Finist_the_Falcon) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **The Prince and the Gypsy Woman**（英語，原始碼 55,958 位元組）— [原文](https://en.wikipedia.org/wiki/The_Prince_and_the_Gypsy_Woman) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **The Sea Tsar and Vasilisa the Wise**（英語，原始碼 52,334 位元組）— [原文](https://en.wikipedia.org/wiki/The_Sea_Tsar_and_Vasilisa_the_Wise) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **The Golden Root**（英語，原始碼 50,100 位元組）— [原文](https://en.wikipedia.org/wiki/The_Golden_Root) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **The Knights of the Fish**（英語，原始碼 49,619 位元組）— [原文](https://en.wikipedia.org/wiki/The_Knights_of_the_Fish) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **The Son of Seven Mothers**（英語，原始碼 45,010 位元組）— [原文](https://en.wikipedia.org/wiki/The_Son_of_Seven_Mothers) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **Prunella (fairy tale)**（英語，原始碼 43,744 位元組）— [原文](https://en.wikipedia.org/wiki/Prunella_%28fairy_tale%29) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **The Little Crab**（英語，原始碼 43,357 位元組）— [原文](https://en.wikipedia.org/wiki/The_Little_Crab) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **Black Bull of Norroway**（英語，原始碼 43,264 位元組）— [原文](https://en.wikipedia.org/wiki/Black_Bull_of_Norroway) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **The Man and the Girl at the Underground Mansion**（英語，原始碼 43,018 位元組）— [原文](https://en.wikipedia.org/wiki/The_Man_and_the_Girl_at_the_Underground_Mansion) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **The Snow Queen**（英語，原始碼 42,802 位元組）— [原文](https://en.wikipedia.org/wiki/The_Snow_Queen) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **Hansel and Gretel**（英語，原始碼 41,810 位元組）— [原文](https://en.wikipedia.org/wiki/Hansel_and_Gretel) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **The Frog Princess**（英語，原始碼 39,372 位元組）— [原文](https://en.wikipedia.org/wiki/The_Frog_Princess) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **La Fada Morgana**（英語，原始碼 39,310 位元組）— [原文](https://en.wikipedia.org/wiki/La_Fada_Morgana) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **The Bird That Spoke the Truth**（英語，原始碼 39,209 位元組）— [原文](https://en.wikipedia.org/wiki/The_Bird_That_Spoke_the_Truth) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **Rapunzel**（英語，原始碼 38,722 位元組）— [原文](https://en.wikipedia.org/wiki/Rapunzel) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **The Girl as Soldier**（英語，原始碼 35,455 位元組）— [原文](https://en.wikipedia.org/wiki/The_Girl_as_Soldier) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **The Tale About Baba-Yaga**（英語，原始碼 35,131 位元組）— [原文](https://en.wikipedia.org/wiki/The_Tale_About_Baba-Yaga) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **The Little Mermaid**（英語，原始碼 34,436 位元組）— [原文](https://en.wikipedia.org/wiki/The_Little_Mermaid) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **The Tale of the Little Dog**（英語，原始碼 32,828 位元組）— [原文](https://en.wikipedia.org/wiki/The_Tale_of_the_Little_Dog) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **White-Bear-King-Valemon**（英語，原始碼 32,526 位元組）— [原文](https://en.wikipedia.org/wiki/White-Bear-King-Valemon) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **The Six Swans**（英語，原始碼 32,007 位元組）— [原文](https://en.wikipedia.org/wiki/The_Six_Swans) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **Brother and Sister**（英語，原始碼 28,530 位元組）— [原文](https://en.wikipedia.org/wiki/Brother_and_Sister) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **The Falcon Pipiristi**（英語，原始碼 27,217 位元組）— [原文](https://en.wikipedia.org/wiki/The_Falcon_Pipiristi) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **East of the Sun and West of the Moon**（英語，原始碼 27,111 位元組）— [原文](https://en.wikipedia.org/wiki/East_of_the_Sun_and_West_of_the_Moon) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **Grünkappe**（英語，原始碼 26,656 位元組）— [原文](https://en.wikipedia.org/wiki/Gr%C3%BCnkappe) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **Witch (archetype)**（英語，原始碼 26,480 位元組）— [原文](https://en.wikipedia.org/wiki/Witch_%28archetype%29) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **The Maiden from the Apple Tree**（英語，原始碼 25,667 位元組）— [原文](https://en.wikipedia.org/wiki/The_Maiden_from_the_Apple_Tree) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **The Twins (folktale)**（英語，原始碼 25,603 位元組）— [原文](https://en.wikipedia.org/wiki/The_Twins_%28folktale%29) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **The Frog Prince**（英語，原始碼 25,485 位元組）— [原文](https://en.wikipedia.org/wiki/The_Frog_Prince) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **Mr Simigdáli**（英語，原始碼 25,038 位元組）— [原文](https://en.wikipedia.org/wiki/Mr_Simigd%C3%A1li) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **The Maiden Out of the Oranges**（英語，原始碼 24,750 位元組）— [原文](https://en.wikipedia.org/wiki/The_Maiden_Out_of_the_Oranges) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **The Three Golden Pomegranates**（英語，原始碼 22,978 位元組）— [原文](https://en.wikipedia.org/wiki/The_Three_Golden_Pomegranates) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **The Bird of Truth**（英語，原始碼 22,760 位元組）— [原文](https://en.wikipedia.org/wiki/The_Bird_of_Truth) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **The Gypsy Tsaritsa**（英語，原始碼 22,487 位元組）— [原文](https://en.wikipedia.org/wiki/The_Gypsy_Tsaritsa) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **Maid Lena**（英語，原始碼 22,439 位元組）— [原文](https://en.wikipedia.org/wiki/Maid_Lena) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **Sinyushka's Well**（英語，原始碼 21,593 位元組）— [原文](https://en.wikipedia.org/wiki/Sinyushka%27s_Well) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **The Princess from the Egg (Polish folktale)**（英語，原始碼 21,515 位元組）— [原文](https://en.wikipedia.org/wiki/The_Princess_from_the_Egg_%28Polish_folktale%29) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **Prince Whitebear**（英語，原始碼 21,213 位元組）— [原文](https://en.wikipedia.org/wiki/Prince_Whitebear) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **The Little Girl Sold with the Pears**（英語，原始碼 19,328 位元組）— [原文](https://en.wikipedia.org/wiki/The_Little_Girl_Sold_with_the_Pears) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **The Girl from the Egg (German folktale)**（英語，原始碼 18,469 位元組）— [原文](https://en.wikipedia.org/wiki/The_Girl_from_the_Egg_%28German_folktale%29) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **Es Negret**（英語，原始碼 18,361 位元組）— [原文](https://en.wikipedia.org/wiki/Es_Negret) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **The Dragon (fairy tale)**（英語，原始碼 17,986 位元組）— [原文](https://en.wikipedia.org/wiki/The_Dragon_%28fairy_tale%29) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **The Witch in the Stone Boat**（英語，原始碼 17,732 位元組）— [原文](https://en.wikipedia.org/wiki/The_Witch_in_the_Stone_Boat) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **Hangoi**（英語，原始碼 17,730 位元組）— [原文](https://en.wikipedia.org/wiki/Hangoi) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **The Story of the Abandoned Princess**（英語，原始碼 17,715 位元組）— [原文](https://en.wikipedia.org/wiki/The_Story_of_the_Abandoned_Princess) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **The Spinning-Woman by the Spring**（英語，原始碼 17,570 位元組）— [原文](https://en.wikipedia.org/wiki/The_Spinning-Woman_by_the_Spring) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **Tony Shiels**（法語，原始碼 16,783 位元組）— [原文](https://fr.wikipedia.org/wiki/Tony_Shiels) — 來源分類：Catégorie:Sorcellerie > Sorcellerie contemporaine
+- [ ] **The Castle of Return and No Return**（英語，原始碼 16,108 位元組）— [原文](https://en.wikipedia.org/wiki/The_Castle_of_Return_and_No_Return) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **The Nine Peahens and the Golden Apples**（英語，原始碼 15,905 位元組）— [原文](https://en.wikipedia.org/wiki/The_Nine_Peahens_and_the_Golden_Apples) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **Thumbelina**（英語，原始碼 14,900 位元組）— [原文](https://en.wikipedia.org/wiki/Thumbelina) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **The Brown Bear of Norway**（英語，原始碼 14,872 位元組）— [原文](https://en.wikipedia.org/wiki/The_Brown_Bear_of_Norway) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **Fitcher's Bird**（英語，原始碼 14,524 位元組）— [原文](https://en.wikipedia.org/wiki/Fitcher%27s_Bird) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **Vasilisa the Beautiful**（英語，原始碼 13,982 位元組）— [原文](https://en.wikipedia.org/wiki/Vasilisa_the_Beautiful) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **The Iron Stove**（英語，原始碼 13,557 位元組）— [原文](https://en.wikipedia.org/wiki/The_Iron_Stove) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **The Bold Knight, the Apples of Youth, and the Water of Life**（英語，原始碼 13,388 位元組）— [原文](https://en.wikipedia.org/wiki/The_Bold_Knight%2C_the_Apples_of_Youth%2C_and_the_Water_of_Life) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **The Story of Zoulvisia**（英語，原始碼 13,026 位元組）— [原文](https://en.wikipedia.org/wiki/The_Story_of_Zoulvisia) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **The Enchanted Canary**（英語，原始碼 12,887 位元組）— [原文](https://en.wikipedia.org/wiki/The_Enchanted_Canary) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **Hag**（英語，原始碼 12,043 位元組）— [原文](https://en.wikipedia.org/wiki/Hag) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **The Tinderbox**（英語，原始碼 12,009 位元組）— [原文](https://en.wikipedia.org/wiki/The_Tinderbox) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **The Scarlet Flower**（英語，原始碼 11,611 位元組）— [原文](https://en.wikipedia.org/wiki/The_Scarlet_Flower) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **The Wild Swans**（英語，原始碼 11,386 位元組）— [原文](https://en.wikipedia.org/wiki/The_Wild_Swans) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **Donkey Cabbages**（英語，原始碼 10,991 位元組）— [原文](https://en.wikipedia.org/wiki/Donkey_Cabbages) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **The Blue Light (fairy tale)**（英語，原始碼 10,662 位元組）— [原文](https://en.wikipedia.org/wiki/The_Blue_Light_%28fairy_tale%29) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **Prince Ring**（英語，原始碼 10,499 位元組）— [原文](https://en.wikipedia.org/wiki/Prince_Ring) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **The Greek Princess and the Young Gardener**（英語，原始碼 9,950 位元組）— [原文](https://en.wikipedia.org/wiki/The_Greek_Princess_and_the_Young_Gardener) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **The Dragon of the North**（英語，原始碼 9,637 位元組）— [原文](https://en.wikipedia.org/wiki/The_Dragon_of_the_North) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **The Two Brothers**（英語，原始碼 9,043 位元組）— [原文](https://en.wikipedia.org/wiki/The_Two_Brothers) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **Crone**（英語，原始碼 8,561 位元組）— [原文](https://en.wikipedia.org/wiki/Crone) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **The Six Servants**（英語，原始碼 7,927 位元組）— [原文](https://en.wikipedia.org/wiki/The_Six_Servants) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **Richilde (fairy tale)**（英語，原始碼 7,271 位元組）— [原文](https://en.wikipedia.org/wiki/Richilde_%28fairy_tale%29) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **Puddocky**（英語，原始碼 7,257 位元組）— [原文](https://en.wikipedia.org/wiki/Puddocky) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **The Princess Mouse: A Tale of Finland**（英語，原始碼 7,232 位元組）— [原文](https://en.wikipedia.org/wiki/The_Princess_Mouse%3A_A_Tale_of_Finland) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **Ministère du Combat spirituel**（法語，原始碼 7,125 位元組）— [原文](https://fr.wikipedia.org/wiki/Minist%C3%A8re_du_Combat_spirituel) — 來源分類：Catégorie:Sorcellerie > Sorcellerie contemporaine
+- [ ] **The One-Handed Girl**（英語，原始碼 7,035 位元組）— [原文](https://en.wikipedia.org/wiki/The_One-Handed_Girl) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **Jhonathan and the Witchs**（英語，原始碼 6,953 位元組）— [原文](https://en.wikipedia.org/wiki/Jhonathan_and_the_Witchs) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **The Laidly Worm of Spindleston Heugh**（英語，原始碼 6,900 位元組）— [原文](https://en.wikipedia.org/wiki/The_Laidly_Worm_of_Spindleston_Heugh) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **The Ram (fairy tale)**（英語，原始碼 6,875 位元組）— [原文](https://en.wikipedia.org/wiki/The_Ram_%28fairy_tale%29) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **The Necklace of Princess Fiorimonde**（英語，原始碼 6,690 位元組）— [原文](https://en.wikipedia.org/wiki/The_Necklace_of_Princess_Fiorimonde) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **The Enchanted Wreath**（英語，原始碼 6,530 位元組）— [原文](https://en.wikipedia.org/wiki/The_Enchanted_Wreath) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **The White Duck**（英語，原始碼 6,399 位元組）— [原文](https://en.wikipedia.org/wiki/The_White_Duck) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **The Bronze Ring**（英語，原始碼 6,135 位元組）— [原文](https://en.wikipedia.org/wiki/The_Bronze_Ring) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
+- [ ] **The Jezinkas**（英語，原始碼 6,038 位元組）— [原文](https://en.wikipedia.org/wiki/The_Jezinkas) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in fairy tales
 
 ## 與本資料庫主題較遠者（9 項）
 
-- [ ] Déesse Mère（法語，36,443 字元）— [原文](https://fr.wikipedia.org/wiki/D%C3%A9esse_M%C3%A8re) — 來源分類：Catégorie:Sorcellerie > Sorcellerie contemporaine > Wicca
-- [ ] Pentagramme（法語，25,028 字元）— [原文](https://fr.wikipedia.org/wiki/Pentagramme) — 來源分類：Catégorie:Sorcellerie > Sorcellerie contemporaine > Wicca
-- [ ] Féminin sacré（法語，17,461 字元）— [原文](https://fr.wikipedia.org/wiki/F%C3%A9minin_sacr%C3%A9) — 來源分類：Catégorie:Sorcellerie > Sorcellerie contemporaine > Wicca
-- [ ] Yule（法語，12,026 字元）— [原文](https://fr.wikipedia.org/wiki/Yule) — 來源分類：Catégorie:Sorcellerie > Sorcellerie contemporaine > Wicca
-- [ ] Ostara（法語，11,234 字元）— [原文](https://fr.wikipedia.org/wiki/Ostara) — 來源分類：Catégorie:Sorcellerie > Sorcellerie contemporaine > Wicca
-- [ ] Livre des Ombres（法語，8,471 字元）— [原文](https://fr.wikipedia.org/wiki/Livre_des_Ombres) — 來源分類：Catégorie:Sorcellerie > Sorcellerie contemporaine > Wicca
-- [ ] Dieu cornu（法語，8,230 字元）— [原文](https://fr.wikipedia.org/wiki/Dieu_cornu) — 來源分類：Catégorie:Sorcellerie > Sorcellerie contemporaine > Wicca
-- [ ] Gerald Gardner（法語，7,964 字元）— [原文](https://fr.wikipedia.org/wiki/Gerald_Gardner) — 來源分類：Catégorie:Sorcellerie > Sorcellerie contemporaine > Wicca
-- [ ] Skyclad (néopaganisme)（法語，6,563 字元）— [原文](https://fr.wikipedia.org/wiki/Skyclad_%28n%C3%A9opaganisme%29) — 來源分類：Catégorie:Sorcellerie > Sorcellerie contemporaine > Wicca
+- [ ] Déesse Mère（法語，原始碼 36,443 位元組）— [原文](https://fr.wikipedia.org/wiki/D%C3%A9esse_M%C3%A8re) — 來源分類：Catégorie:Sorcellerie > Sorcellerie contemporaine > Wicca
+- [ ] Pentagramme（法語，原始碼 25,028 位元組）— [原文](https://fr.wikipedia.org/wiki/Pentagramme) — 來源分類：Catégorie:Sorcellerie > Sorcellerie contemporaine > Wicca
+- [ ] Féminin sacré（法語，原始碼 17,461 位元組）— [原文](https://fr.wikipedia.org/wiki/F%C3%A9minin_sacr%C3%A9) — 來源分類：Catégorie:Sorcellerie > Sorcellerie contemporaine > Wicca
+- [ ] Yule（法語，原始碼 12,026 位元組）— [原文](https://fr.wikipedia.org/wiki/Yule) — 來源分類：Catégorie:Sorcellerie > Sorcellerie contemporaine > Wicca
+- [ ] Ostara（法語，原始碼 11,234 位元組）— [原文](https://fr.wikipedia.org/wiki/Ostara) — 來源分類：Catégorie:Sorcellerie > Sorcellerie contemporaine > Wicca
+- [ ] Livre des Ombres（法語，原始碼 8,471 位元組）— [原文](https://fr.wikipedia.org/wiki/Livre_des_Ombres) — 來源分類：Catégorie:Sorcellerie > Sorcellerie contemporaine > Wicca
+- [ ] Dieu cornu（法語，原始碼 8,230 位元組）— [原文](https://fr.wikipedia.org/wiki/Dieu_cornu) — 來源分類：Catégorie:Sorcellerie > Sorcellerie contemporaine > Wicca
+- [ ] Gerald Gardner（法語，原始碼 7,964 位元組）— [原文](https://fr.wikipedia.org/wiki/Gerald_Gardner) — 來源分類：Catégorie:Sorcellerie > Sorcellerie contemporaine > Wicca
+- [ ] Skyclad (néopaganisme)（法語，原始碼 6,563 位元組）— [原文](https://fr.wikipedia.org/wiki/Skyclad_%28n%C3%A9opaganisme%29) — 來源分類：Catégorie:Sorcellerie > Sorcellerie contemporaine > Wicca

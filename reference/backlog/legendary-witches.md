@@ -1,141 +1,148 @@
 # 待收錄候選：傳說中的巫者形象
 
-共 135 項。回到 [待辦總表](../BACKLOG.md)。
+共 142 項。回到 [待辦總表](../BACKLOG.md)。
 
 本檔由 `scripts/build_reference_backlog.py` 產生，是機器掃描的結果而非選錄決定，每一項都需要人工判斷。
 
-- [ ] **Merlin**（法語，189,588 字元）— [原文](https://fr.wikipedia.org/wiki/Merlin) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende
-- [ ] **Chasse aux sorcières**（法語，163,699 字元）— [原文](https://fr.wikipedia.org/wiki/Chasse_aux_sorci%C3%A8res) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine
-- [ ] **Streghe (serie televisiva 1998)**（義大利語，123,192 字元）— [原文](https://it.wikipedia.org/wiki/Streghe_%28serie_televisiva_1998%29) — 來源分類：Categoria:Stregoneria > Streghe nelle opere di fantasia > Streghe (serie televisiva)
-- [ ] **Sorcière**（法語，95,525 字元）— [原文](https://fr.wikipedia.org/wiki/Sorci%C3%A8re) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine > Sorcière
-- [ ] **Dahut**（法語，83,279 字元）— [原文](https://fr.wikipedia.org/wiki/Dahut) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende
-- [ ] **Hélène (mythologie)**（法語，81,439 字元）— [原文](https://fr.wikipedia.org/wiki/H%C3%A9l%C3%A8ne_%28mythologie%29) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende > Magicien de la mythologie grecque
-- [ ] **Rois mages**（法語，76,076 字元）— [原文](https://fr.wikipedia.org/wiki/Rois_mages) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende > Rois mages
-- [ ] **Bruja**（西班牙語，73,958 字元）— [原文](https://es.wikipedia.org/wiki/Bruja) — 來源分類：Categoría:Brujería > Brujas (brujería)
-- [ ] **Аэндорская волшебница**（俄語，68,413 字元）— [原文](https://ru.wikipedia.org/wiki/%D0%90%D1%8D%D0%BD%D0%B4%D0%BE%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D0%B2%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D0%B8%D1%86%D0%B0) — 來源分類：Категория:Ведьмы
-- [ ] **Front-de-cuivre**（法語，64,883 字元）— [原文](https://fr.wikipedia.org/wiki/Front-de-cuivre) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende
-- [ ] **Procès de sorcellerie de Fribourg**（法語，58,622 字元）— [原文](https://fr.wikipedia.org/wiki/Proc%C3%A8s_de_sorcellerie_de_Fribourg) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine
-- [ ] **Sabbat (sorcellerie)**（法語，53,828 字元）— [原文](https://fr.wikipedia.org/wiki/Sabbat_%28sorcellerie%29) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine
-- [ ] **Merlin (téléfilm, 1998)**（法語，51,881 字元）— [原文](https://fr.wikipedia.org/wiki/Merlin_%28t%C3%A9l%C3%A9film%2C_1998%29) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende > Merlin
-- [ ] **Circé**（法語，50,108 字元）— [原文](https://fr.wikipedia.org/wiki/Circ%C3%A9) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine > Sorcière
-- [ ] **Baba Yaga**（法語，48,747 字元）— [原文](https://fr.wikipedia.org/wiki/Baba_Yaga) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende
-- [ ] **Médée (mythologie)**（法語，46,585 字元）— [原文](https://fr.wikipedia.org/wiki/M%C3%A9d%C3%A9e_%28mythologie%29) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine > Sorcière
-- [ ] **Procès des sorcières de Salem**（法語，46,065 字元）— [原文](https://fr.wikipedia.org/wiki/Proc%C3%A8s_des_sorci%C3%A8res_de_Salem) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine > Procès des sorcières de Salem
-- [ ] **Ведьмы в массовой культуре**（俄語，44,556 字元）— [原文](https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%B4%D1%8C%D0%BC%D1%8B_%D0%B2_%D0%BC%D0%B0%D1%81%D1%81%D0%BE%D0%B2%D0%BE%D0%B9_%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B5) — 來源分類：Категория:Ведьмы
-- [ ] **Macrale**（法語，43,287 字元）— [原文](https://fr.wikipedia.org/wiki/Macrale) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine
-- [ ] **Épiphanie**（法語，40,468 字元）— [原文](https://fr.wikipedia.org/wiki/%C3%89piphanie) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende > Rois mages
-- [ ] **Кирка (мифология)**（俄語，37,353 字元）— [原文](https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D1%80%D0%BA%D0%B0_%28%D0%BC%D0%B8%D1%84%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F%29) — 來源分類：Категория:Ведьмы
-- [ ] **Madame de Montespan**（法語，37,079 字元）— [原文](https://fr.wikipedia.org/wiki/Madame_de_Montespan) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine > Affaire des poisons
-- [ ] **Акеларре**（俄語，36,680 字元）— [原文](https://ru.wikipedia.org/wiki/%D0%90%D0%BA%D0%B5%D0%BB%D0%B0%D1%80%D1%80%D0%B5) — 來源分類：Категория:Ведьмы
-- [ ] **Sorcellerie chez Goya**（法語，36,040 字元）— [原文](https://fr.wikipedia.org/wiki/Sorcellerie_chez_Goya) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine
-- [ ] **Possessions d'Aix-en-Provence**（法語，33,897 字元）— [原文](https://fr.wikipedia.org/wiki/Possessions_d%27Aix-en-Provence) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine
-- [ ] **Procès de sorcellerie du Valais**（法語，33,308 字元）— [原文](https://fr.wikipedia.org/wiki/Proc%C3%A8s_de_sorcellerie_du_Valais) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine
-- [ ] **Marie-Madeleine Dreux d'Aubray**（法語，33,297 字元）— [原文](https://fr.wikipedia.org/wiki/Marie-Madeleine_Dreux_d%27Aubray) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine > Affaire des poisons
-- [ ] **Босорка**（俄語，32,765 字元）— [原文](https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D1%81%D0%BE%D1%80%D0%BA%D0%B0) — 來源分類：Категория:Ведьмы
-- [ ] **Ведьма**（俄語，32,416 字元）— [原文](https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%B4%D1%8C%D0%BC%D0%B0) — 來源分類：Категория:Ведьмы
-- [ ] **Völva**（法語，31,272 字元）— [原文](https://fr.wikipedia.org/wiki/V%C3%B6lva) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende
-- [ ] **Neuf sorcières**（法語，30,469 字元）— [原文](https://fr.wikipedia.org/wiki/Neuf_sorci%C3%A8res) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende
-- [ ] **Mona Fandey**（西班牙語，30,313 字元）— [原文](https://es.wikipedia.org/wiki/Mona_Fandey) — 來源分類：Categoría:Brujería > Brujas (brujería)
-- [ ] **Merlin (série télévisée)**（法語，29,596 字元）— [原文](https://fr.wikipedia.org/wiki/Merlin_%28s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e%29) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende > Merlin
-- [ ] **Дайер, Молл**（俄語，29,253 字元）— [原文](https://ru.wikipedia.org/wiki/%D0%94%D0%B0%D0%B9%D0%B5%D1%80%2C_%D0%9C%D0%BE%D0%BB%D0%BB) — 來源分類：Категория:Ведьмы
-- [ ] **Fée Morgane**（法語，25,409 字元）— [原文](https://fr.wikipedia.org/wiki/F%C3%A9e_Morgane) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende
-- [ ] **Barbara Napier**（西班牙語，24,255 字元）— [原文](https://es.wikipedia.org/wiki/Barbara_Napier) — 來源分類：Categoría:Brujería > Brujas (brujería) > Personas acusadas de brujería
-- [ ] **Procès de sorcellerie en Écosse à l'époque moderne**（法語，23,486 字元）— [原文](https://fr.wikipedia.org/wiki/Proc%C3%A8s_de_sorcellerie_en_%C3%89cosse_%C3%A0_l%27%C3%A9poque_moderne) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine
-- [ ] **Hécate**（法語，23,381 字元）— [原文](https://fr.wikipedia.org/wiki/H%C3%A9cate) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende > Magicien de la mythologie grecque
-- [ ] **Procès de sorcellerie au Pays basque**（法語，22,945 字元）— [原文](https://fr.wikipedia.org/wiki/Proc%C3%A8s_de_sorcellerie_au_Pays_basque) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine
-- [ ] **Fée Viviane**（法語，22,456 字元）— [原文](https://fr.wikipedia.org/wiki/F%C3%A9e_Viviane) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende
-- [ ] **Kochtcheï**（法語，20,912 字元）— [原文](https://fr.wikipedia.org/wiki/Kochtche%C3%AF) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende
-- [ ] **Magda Logomer**（西班牙語，20,782 字元）— [原文](https://es.wikipedia.org/wiki/Magda_Logomer) — 來源分類：Categoría:Brujería > Brujas (brujería) > Personas acusadas de brujería
-- [ ] **Procès en sorcellerie dans le pays de Vaud**（法語，20,297 字元）— [原文](https://fr.wikipedia.org/wiki/Proc%C3%A8s_en_sorcellerie_dans_le_pays_de_Vaud) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine
-- [ ] **Procès des sorcières de Bury St Edmunds**（法語，20,144 字元）— [原文](https://fr.wikipedia.org/wiki/Proc%C3%A8s_des_sorci%C3%A8res_de_Bury_St_Edmunds) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine
-- [ ] **La Maison de la sorcière**（法語，19,587 字元）— [原文](https://fr.wikipedia.org/wiki/La_Maison_de_la_sorci%C3%A8re) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine > Procès des sorcières de Salem
-- [ ] **Robert de Lamiré de Bachimont**（法語，19,286 字元）— [原文](https://fr.wikipedia.org/wiki/Robert_de_Lamir%C3%A9_de_Bachimont) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine > Affaire des poisons
-- [ ] **Marthe Brossier**（法語，18,436 字元）— [原文](https://fr.wikipedia.org/wiki/Marthe_Brossier) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine
-- [ ] **Геката**（俄語，17,879 字元）— [原文](https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D0%BA%D0%B0%D1%82%D0%B0) — 來源分類：Категория:Ведьмы
-- [ ] **Tia Dalma**（法語，17,148 字元）— [原文](https://fr.wikipedia.org/wiki/Tia_Dalma) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine > Sorcière
-- [ ] **Lillias Adie**（西班牙語，16,935 字元）— [原文](https://es.wikipedia.org/wiki/Lillias_Adie) — 來源分類：Categoría:Brujería > Brujas (brujería) > Personas acusadas de brujería
-- [ ] **François-Henri de Montmorency-Luxembourg**（法語，16,794 字元）— [原文](https://fr.wikipedia.org/wiki/Fran%C3%A7ois-Henri_de_Montmorency-Luxembourg) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine > Affaire des poisons
-- [ ] **Vox in Rama**（法語，16,510 字元）— [原文](https://fr.wikipedia.org/wiki/Vox_in_Rama) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine
-- [ ] **Mary Bateman**（西班牙語，16,295 字元）— [原文](https://es.wikipedia.org/wiki/Mary_Bateman) — 來源分類：Categoría:Brujería > Brujas (brujería)
-- [ ] **Lamia (mythologie)**（法語，15,972 字元）— [原文](https://fr.wikipedia.org/wiki/Lamia_%28mythologie%29) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende > Magicien de la mythologie grecque
-- [ ] **Louis Nivelle**（法語，15,802 字元）— [原文](https://fr.wikipedia.org/wiki/Louis_Nivelle) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine > Affaire des poisons
-- [ ] **Isabel Woodville**（西班牙語，15,099 字元）— [原文](https://es.wikipedia.org/wiki/Isabel_Woodville) — 來源分類：Categoría:Brujería > Brujas (brujería) > Personas acusadas de brujería
-- [ ] **Sorcière des Bell**（法語，14,484 字元）— [原文](https://fr.wikipedia.org/wiki/Sorci%C3%A8re_des_Bell) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende
-- [ ] **Pierre Louis Reich de Pennautier**（法語，14,338 字元）— [原文](https://fr.wikipedia.org/wiki/Pierre_Louis_Reich_de_Pennautier) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine > Affaire des poisons
-- [ ] **Gabriel Nicolas de La Reynie**（法語，13,995 字元）— [原文](https://fr.wikipedia.org/wiki/Gabriel_Nicolas_de_La_Reynie) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine > Affaire des poisons
-- [ ] **Sheela Na Gig**（法語，13,757 字元）— [原文](https://fr.wikipedia.org/wiki/Sheela_Na_Gig) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine
-- [ ] **Graciana de Barrenechea**（西班牙語，13,570 字元）— [原文](https://es.wikipedia.org/wiki/Graciana_de_Barrenechea) — 來源分類：Categoría:Brujería > Brujas (brujería) > Personas acusadas de brujería
-- [ ] **Фея Моргана**（俄語，13,518 字元）— [原文](https://ru.wikipedia.org/wiki/%D0%A4%D0%B5%D1%8F_%D0%9C%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B0) — 來源分類：Категория:Ведьмы
-- [ ] **Interprétations féministes des procès de sorcières de l'époque moderne**（法語，12,970 字元）— [原文](https://fr.wikipedia.org/wiki/Interpr%C3%A9tations_f%C3%A9ministes_des_proc%C3%A8s_de_sorci%C3%A8res_de_l%27%C3%A9poque_moderne) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine
-- [ ] **Marie Kingué**（西班牙語，12,950 字元）— [原文](https://es.wikipedia.org/wiki/Marie_Kingu%C3%A9) — 來源分類：Categoría:Brujería > Brujas (brujería) > Personas acusadas de brujería
-- [ ] **Olympe Mancini**（法語，12,666 字元）— [原文](https://fr.wikipedia.org/wiki/Olympe_Mancini) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine > Affaire des poisons
-- [ ] **Tuatha Dé Danann**（法語，12,259 字元）— [原文](https://fr.wikipedia.org/wiki/Tuatha_D%C3%A9_Danann) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende
-- [ ] **Campamentos de brujas**（西班牙語，11,870 字元）— [原文](https://es.wikipedia.org/wiki/Campamentos_de_brujas) — 來源分類：Categoría:Brujería > Brujas (brujería)
-- [ ] **Naïa la sorcière**（法語，11,869 字元）— [原文](https://fr.wikipedia.org/wiki/Na%C3%AFa_la_sorci%C3%A8re) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende
-- [ ] **Errores Gazariorum**（法語，11,811 字元）— [原文](https://fr.wikipedia.org/wiki/Errores_Gazariorum) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine
-- [ ] **Margaret Scott**（法語，11,621 字元）— [原文](https://fr.wikipedia.org/wiki/Margaret_Scott) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine > Procès des sorcières de Salem
-- [ ] **Margery Jourdemayne**（西班牙語，11,338 字元）— [原文](https://es.wikipedia.org/wiki/Margery_Jourdemayne) — 來源分類：Categoría:Brujería > Brujas (brujería) > Personas acusadas de brujería
-- [ ] **Les Sorcières de Salem**（法語，11,334 字元）— [原文](https://fr.wikipedia.org/wiki/Les_Sorci%C3%A8res_de_Salem) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine > Procès des sorcières de Salem
-- [ ] **Justicia para las brujas de Escocia**（西班牙語，11,278 字元）— [原文](https://es.wikipedia.org/wiki/Justicia_para_las_brujas_de_Escocia) — 來源分類：Categoría:Brujería > Brujas (brujería)
-- [ ] **Grand-mère Kalle**（法語，11,256 字元）— [原文](https://fr.wikipedia.org/wiki/Grand-m%C3%A8re_Kalle) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende
-- [ ] **Margaret Jones**（西班牙語，11,170 字元）— [原文](https://es.wikipedia.org/wiki/Margaret_Jones) — 來源分類：Categoría:Brujería > Brujas (brujería) > Personas acusadas de brujería
-- [ ] **Sorcière d'Endor**（法語，11,124 字元）— [原文](https://fr.wikipedia.org/wiki/Sorci%C3%A8re_d%27Endor) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende
-- [ ] **Mary Webster**（西班牙語，10,824 字元）— [原文](https://es.wikipedia.org/wiki/Mary_Webster) — 來源分類：Categoría:Brujería > Brujas (brujería) > Personas acusadas de brujería
-- [ ] **Theoris de Lemnos**（法語，10,624 字元）— [原文](https://fr.wikipedia.org/wiki/Theoris_de_Lemnos) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine > Sorcière
-- [ ] **Abigail Williams (1681-1697)**（法語，10,611 字元）— [原文](https://fr.wikipedia.org/wiki/Abigail_Williams_%281681-1697%29) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine > Procès des sorcières de Salem
-- [ ] **Katherine Harrison**（西班牙語，10,586 字元）— [原文](https://es.wikipedia.org/wiki/Katherine_Harrison) — 來源分類：Categoría:Brujería > Brujas (brujería) > Personas acusadas de brujería
-- [ ] **Nicnevin**（西班牙語，10,310 字元）— [原文](https://es.wikipedia.org/wiki/Nicnevin) — 來源分類：Categoría:Brujería > Brujas (brujería)
-- [ ] **L'Enchanteur (Barjavel)**（法語，10,060 字元）— [原文](https://fr.wikipedia.org/wiki/L%27Enchanteur_%28Barjavel%29) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende > Merlin
-- [ ] **Formicarius (sorcellerie)**（法語，9,930 字元）— [原文](https://fr.wikipedia.org/wiki/Formicarius_%28sorcellerie%29) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine
-- [ ] **Procès des sorcières féeriques de Sicile**（法語，9,747 字元）— [原文](https://fr.wikipedia.org/wiki/Proc%C3%A8s_des_sorci%C3%A8res_f%C3%A9eriques_de_Sicile) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine
-- [ ] **Simon le Magicien**（法語，9,726 字元）— [原文](https://fr.wikipedia.org/wiki/Simon_le_Magicien) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende
-- [ ] **Mages et Sorciers : Les Contes d'Arcadia**（法語，9,619 字元）— [原文](https://fr.wikipedia.org/wiki/Mages_et_Sorciers_%3A_Les_Contes_d%27Arcadia) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende > Merlin
-- [ ] **Bridget Bishop**（法語，9,451 字元）— [原文](https://fr.wikipedia.org/wiki/Bridget_Bishop) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine > Procès des sorcières de Salem
-- [ ] **Marguerite Tiste**（西班牙語，9,437 字元）— [原文](https://es.wikipedia.org/wiki/Marguerite_Tiste) — 來源分類：Categoría:Brujería > Brujas (brujería)
-- [ ] **Mary Eastey**（法語，9,310 字元）— [原文](https://fr.wikipedia.org/wiki/Mary_Eastey) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine > Procès des sorcières de Salem
-- [ ] **Elizabeth Proctor**（法語，9,081 字元）— [原文](https://fr.wikipedia.org/wiki/Elizabeth_Proctor) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine > Procès des sorcières de Salem
-- [ ] **Pasiphaé**（法語，9,003 字元）— [原文](https://fr.wikipedia.org/wiki/Pasipha%C3%A9) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende > Magicien de la mythologie grecque
-- [ ] **Joan Wright**（西班牙語，8,990 字元）— [原文](https://es.wikipedia.org/wiki/Joan_Wright) — 來源分類：Categoría:Brujería > Brujas (brujería) > Personas acusadas de brujería
-- [ ] **Hag (folklore)**（法語，8,981 字元）— [原文](https://fr.wikipedia.org/wiki/Hag_%28folklore%29) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende
-- [ ] **L'Affaire des poisons**（法語，8,796 字元）— [原文](https://fr.wikipedia.org/wiki/L%27Affaire_des_poisons) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine > Affaire des poisons
-- [ ] **Merlin (téléfilm, 2012)**（法語，8,777 字元）— [原文](https://fr.wikipedia.org/wiki/Merlin_%28t%C3%A9l%C3%A9film%2C_2012%29) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende > Merlin
-- [ ] **Maugis**（法語，8,528 字元）— [原文](https://fr.wikipedia.org/wiki/Maugis) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende
-- [ ] **Clara de Rueda**（西班牙語，8,396 字元）— [原文](https://es.wikipedia.org/wiki/Clara_de_Rueda) — 來源分類：Categoría:Brujería > Brujas (brujería)
-- [ ] **Mémorial de Steilneset**（法語，8,250 字元）— [原文](https://fr.wikipedia.org/wiki/M%C3%A9morial_de_Steilneset) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine
-- [ ] **Abaris le Scythe**（法語，8,090 字元）— [原文](https://fr.wikipedia.org/wiki/Abaris_le_Scythe) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende
-- [ ] **Maud Galt**（西班牙語，8,049 字元）— [原文](https://es.wikipedia.org/wiki/Maud_Galt) — 來源分類：Categoría:Brujería > Brujas (brujería) > Personas acusadas de brujería
-- [ ] **Mary Butters**（西班牙語，8,046 字元）— [原文](https://es.wikipedia.org/wiki/Mary_Butters) — 來源分類：Categoría:Brujería > Brujas (brujería) > Personas acusadas de brujería
-- [ ] **Kamrušepa**（西班牙語，7,910 字元）— [原文](https://es.wikipedia.org/wiki/Kamru%C5%A1epa) — 來源分類：Categoría:Brujería > Brujas (brujería)
-- [ ] **Possessions de Louviers**（法語，7,875 字元）— [原文](https://fr.wikipedia.org/wiki/Possessions_de_Louviers) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine
-- [ ] **The Winter King**（法語，7,744 字元）— [原文](https://fr.wikipedia.org/wiki/The_Winter_King) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende > Merlin
-- [ ] **Marie-Anne Mancini**（法語，7,613 字元）— [原文](https://fr.wikipedia.org/wiki/Marie-Anne_Mancini) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine > Affaire des poisons
-- [ ] **Эрихто**（俄語，7,491 字元）— [原文](https://ru.wikipedia.org/wiki/%D0%AD%D1%80%D0%B8%D1%85%D1%82%D0%BE) — 來源分類：Категория:Ведьмы
-- [ ] **Claude de Vin des Œillets**（法語，7,480 字元）— [原文](https://fr.wikipedia.org/wiki/Claude_de_Vin_des_%C5%92illets) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine > Affaire des poisons
-- [ ] **Trina Kuenis**（西班牙語，7,462 字元）— [原文](https://es.wikipedia.org/wiki/Trina_Kuenis) — 來源分類：Categoría:Brujería > Brujas (brujería)
-- [ ] **Brujo**（西班牙語，7,252 字元）— [原文](https://es.wikipedia.org/wiki/Brujo) — 來源分類：Categoría:Brujería > Brujas (brujería)
-- [ ] **Étienne Guibourg**（法語，7,246 字元）— [原文](https://fr.wikipedia.org/wiki/%C3%89tienne_Guibourg) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine > Affaire des poisons
-- [ ] **Sorcières de North Berwick**（法語，7,207 字元）— [原文](https://fr.wikipedia.org/wiki/Sorci%C3%A8res_de_North_Berwick) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine > Sorcière
-- [ ] **Kot Baïoun**（法語，7,162 字元）— [原文](https://fr.wikipedia.org/wiki/Kot_Ba%C3%AFoun) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende
-- [ ] **Katarzyna Paprocka**（西班牙語，7,109 字元）— [原文](https://es.wikipedia.org/wiki/Katarzyna_Paprocka) — 來源分類：Categoría:Brujería > Brujas (brujería) > Personas acusadas de brujería
-- [ ] **Taoueille**（法語，7,108 字元）— [原文](https://fr.wikipedia.org/wiki/Taoueille) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende
-- [ ] **Polydamna**（法語，7,048 字元）— [原文](https://fr.wikipedia.org/wiki/Polydamna) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende > Magicien de la mythologie grecque
-- [ ] **Ana Calthorpe**（西班牙語，6,976 字元）— [原文](https://es.wikipedia.org/wiki/Ana_Calthorpe) — 來源分類：Categoría:Brujería > Brujas (brujería) > Personas acusadas de brujería
-- [ ] **Ведьмы Анаги**（俄語，6,956 字元）— [原文](https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%B4%D1%8C%D0%BC%D1%8B_%D0%90%D0%BD%D0%B0%D0%B3%D0%B8) — 來源分類：Категория:Ведьмы
-- [ ] **Myrddin Wyllt**（法語，6,683 字元）— [原文](https://fr.wikipedia.org/wiki/Myrddin_Wyllt) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende > Merlin
-- [ ] **William Phips**（法語，6,599 字元）— [原文](https://fr.wikipedia.org/wiki/William_Phips) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine > Procès des sorcières de Salem
-- [ ] **Prophéties de Merlin**（法語，6,593 字元）— [原文](https://fr.wikipedia.org/wiki/Proph%C3%A9ties_de_Merlin) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende > Merlin
-- [ ] **Ингрид Ильва**（俄語，6,542 字元）— [原文](https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D0%B3%D1%80%D0%B8%D0%B4_%D0%98%D0%BB%D1%8C%D0%B2%D0%B0) — 來源分類：Категория:Ведьмы
-- [ ] **Hermogène (magicien)**（法語，6,468 字元）— [原文](https://fr.wikipedia.org/wiki/Hermog%C3%A8ne_%28magicien%29) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende
-- [ ] **Ann Putnam**（法語，6,370 字元）— [原文](https://fr.wikipedia.org/wiki/Ann_Putnam) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine > Procès des sorcières de Salem
-- [ ] **Marie Bosse**（法語，6,335 字元）— [原文](https://fr.wikipedia.org/wiki/Marie_Bosse) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine > Affaire des poisons
-- [ ] **Cheval gris du Comte de Veldenz**（法語，6,243 字元）— [原文](https://fr.wikipedia.org/wiki/Cheval_gris_du_Comte_de_Veldenz) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine
-- [ ] **Julia Carta**（西班牙語，6,143 字元）— [原文](https://es.wikipedia.org/wiki/Julia_Carta) — 來源分類：Categoría:Brujería > Brujas (brujería) > Personas acusadas de brujería
-- [ ] **Monique Wilson**（西班牙語，6,005 字元）— [原文](https://es.wikipedia.org/wiki/Monique_Wilson) — 來源分類：Categoría:Brujería > Brujas (brujería)
-- [ ] **Ana María García (La Llobera)**（西班牙語，6,004 字元）— [原文](https://es.wikipedia.org/wiki/Ana_Mar%C3%ADa_Garc%C3%ADa_%28La_Llobera%29) — 來源分類：Categoría:Brujería > Brujas (brujería) > Personas acusadas de brujería
-- [ ] **Prättäkitti**（西班牙語，5,750 字元）— [原文](https://es.wikipedia.org/wiki/Pr%C3%A4tt%C3%A4kitti) — 來源分類：Categoría:Brujería > Brujas (brujería)
-- [ ] **Catherine Peyretone**（西班牙語，5,697 字元）— [原文](https://es.wikipedia.org/wiki/Catherine_Peyretone) — 來源分類：Categoría:Brujería > Brujas (brujería)
-- [ ] **Summis desiderantes affectibus**（法語，5,628 字元）— [原文](https://fr.wikipedia.org/wiki/Summis_desiderantes_affectibus) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine
-- [ ] **Мыстан кемпир**（俄語，5,325 字元）— [原文](https://ru.wikipedia.org/wiki/%D0%9C%D1%8B%D1%81%D1%82%D0%B0%D0%BD_%D0%BA%D0%B5%D0%BC%D0%BF%D0%B8%D1%80) — 來源分類：Категория:Ведьмы
-- [ ] **Bloody Mary (folklore)**（法語，5,152 字元）— [原文](https://fr.wikipedia.org/wiki/Bloody_Mary_%28folklore%29) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende
-- [ ] **Чёрная Аннис**（俄語，5,127 字元）— [原文](https://ru.wikipedia.org/wiki/%D0%A7%D1%91%D1%80%D0%BD%D0%B0%D1%8F_%D0%90%D0%BD%D0%BD%D0%B8%D1%81) — 來源分類：Категория:Ведьмы
-- [ ] **Enquête sur la sorcellerie en Écosse**（法語，5,047 字元）— [原文](https://fr.wikipedia.org/wiki/Enqu%C3%AAte_sur_la_sorcellerie_en_%C3%89cosse) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine
+- [ ] **Merlin**（法語，原始碼 189,588 位元組）— [原文](https://fr.wikipedia.org/wiki/Merlin) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende
+- [ ] **Chasse aux sorcières**（法語，原始碼 163,699 位元組）— [原文](https://fr.wikipedia.org/wiki/Chasse_aux_sorci%C3%A8res) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine
+- [ ] **Streghe (serie televisiva 1998)**（義大利語，原始碼 123,192 位元組）— [原文](https://it.wikipedia.org/wiki/Streghe_%28serie_televisiva_1998%29) — 來源分類：Categoria:Stregoneria > Streghe nelle opere di fantasia > Streghe (serie televisiva)
+- [ ] **Sorcière**（法語，原始碼 95,525 位元組）— [原文](https://fr.wikipedia.org/wiki/Sorci%C3%A8re) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine > Sorcière
+- [ ] **Dahut**（法語，原始碼 83,279 位元組）— [原文](https://fr.wikipedia.org/wiki/Dahut) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende
+- [ ] **Hélène (mythologie)**（法語，原始碼 81,439 位元組）— [原文](https://fr.wikipedia.org/wiki/H%C3%A9l%C3%A8ne_%28mythologie%29) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende > Magicien de la mythologie grecque
+- [ ] **Rois mages**（法語，原始碼 76,076 位元組）— [原文](https://fr.wikipedia.org/wiki/Rois_mages) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende > Rois mages
+- [ ] **Bruja**（西班牙語，原始碼 73,958 位元組）— [原文](https://es.wikipedia.org/wiki/Bruja) — 來源分類：Categoría:Brujería > Brujas (brujería)
+- [ ] **Аэндорская волшебница**（俄語，原始碼 68,413 位元組）— [原文](https://ru.wikipedia.org/wiki/%D0%90%D1%8D%D0%BD%D0%B4%D0%BE%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D0%B2%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D0%B8%D1%86%D0%B0) — 來源分類：Категория:Ведьмы
+- [ ] **Front-de-cuivre**（法語，原始碼 64,883 位元組）— [原文](https://fr.wikipedia.org/wiki/Front-de-cuivre) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende
+- [ ] **Procès de sorcellerie de Fribourg**（法語，原始碼 58,622 位元組）— [原文](https://fr.wikipedia.org/wiki/Proc%C3%A8s_de_sorcellerie_de_Fribourg) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine
+- [ ] **Sabbat (sorcellerie)**（法語，原始碼 53,828 位元組）— [原文](https://fr.wikipedia.org/wiki/Sabbat_%28sorcellerie%29) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine
+- [ ] **Merlin (téléfilm, 1998)**（法語，原始碼 51,881 位元組）— [原文](https://fr.wikipedia.org/wiki/Merlin_%28t%C3%A9l%C3%A9film%2C_1998%29) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende > Merlin
+- [ ] **Circé**（法語，原始碼 50,108 位元組）— [原文](https://fr.wikipedia.org/wiki/Circ%C3%A9) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine > Sorcière
+- [ ] **Baba Yaga**（法語，原始碼 48,747 位元組）— [原文](https://fr.wikipedia.org/wiki/Baba_Yaga) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende
+- [ ] **Médée (mythologie)**（法語，原始碼 46,585 位元組）— [原文](https://fr.wikipedia.org/wiki/M%C3%A9d%C3%A9e_%28mythologie%29) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine > Sorcière
+- [ ] **Procès des sorcières de Salem**（法語，原始碼 46,065 位元組）— [原文](https://fr.wikipedia.org/wiki/Proc%C3%A8s_des_sorci%C3%A8res_de_Salem) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine > Procès des sorcières de Salem
+- [ ] **Ведьмы в массовой культуре**（俄語，原始碼 44,556 位元組）— [原文](https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%B4%D1%8C%D0%BC%D1%8B_%D0%B2_%D0%BC%D0%B0%D1%81%D1%81%D0%BE%D0%B2%D0%BE%D0%B9_%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B5) — 來源分類：Категория:Ведьмы
+- [ ] **Macrale**（法語，原始碼 43,287 位元組）— [原文](https://fr.wikipedia.org/wiki/Macrale) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine
+- [ ] **Épiphanie**（法語，原始碼 40,468 位元組）— [原文](https://fr.wikipedia.org/wiki/%C3%89piphanie) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende > Rois mages
+- [ ] **Кирка (мифология)**（俄語，原始碼 37,353 位元組）— [原文](https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D1%80%D0%BA%D0%B0_%28%D0%BC%D0%B8%D1%84%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F%29) — 來源分類：Категория:Ведьмы
+- [ ] **Madame de Montespan**（法語，原始碼 37,079 位元組）— [原文](https://fr.wikipedia.org/wiki/Madame_de_Montespan) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine > Affaire des poisons
+- [ ] **Акеларре**（俄語，原始碼 36,680 位元組）— [原文](https://ru.wikipedia.org/wiki/%D0%90%D0%BA%D0%B5%D0%BB%D0%B0%D1%80%D1%80%D0%B5) — 來源分類：Категория:Ведьмы
+- [ ] **Sorcellerie chez Goya**（法語，原始碼 36,040 位元組）— [原文](https://fr.wikipedia.org/wiki/Sorcellerie_chez_Goya) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine
+- [ ] **Possessions d'Aix-en-Provence**（法語，原始碼 33,897 位元組）— [原文](https://fr.wikipedia.org/wiki/Possessions_d%27Aix-en-Provence) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine
+- [ ] **Procès de sorcellerie du Valais**（法語，原始碼 33,308 位元組）— [原文](https://fr.wikipedia.org/wiki/Proc%C3%A8s_de_sorcellerie_du_Valais) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine
+- [ ] **Marie-Madeleine Dreux d'Aubray**（法語，原始碼 33,297 位元組）— [原文](https://fr.wikipedia.org/wiki/Marie-Madeleine_Dreux_d%27Aubray) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine > Affaire des poisons
+- [ ] **Босорка**（俄語，原始碼 32,765 位元組）— [原文](https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D1%81%D0%BE%D1%80%D0%BA%D0%B0) — 來源分類：Категория:Ведьмы
+- [ ] **Ведьма**（俄語，原始碼 32,416 位元組）— [原文](https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%B4%D1%8C%D0%BC%D0%B0) — 來源分類：Категория:Ведьмы
+- [ ] **Völva**（法語，原始碼 31,272 位元組）— [原文](https://fr.wikipedia.org/wiki/V%C3%B6lva) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende
+- [ ] **Neuf sorcières**（法語，原始碼 30,469 位元組）— [原文](https://fr.wikipedia.org/wiki/Neuf_sorci%C3%A8res) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende
+- [ ] **Mona Fandey**（西班牙語，原始碼 30,313 位元組）— [原文](https://es.wikipedia.org/wiki/Mona_Fandey) — 來源分類：Categoría:Brujería > Brujas (brujería)
+- [ ] **Merlin (série télévisée)**（法語，原始碼 29,596 位元組）— [原文](https://fr.wikipedia.org/wiki/Merlin_%28s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e%29) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende > Merlin
+- [ ] **Дайер, Молл**（俄語，原始碼 29,253 位元組）— [原文](https://ru.wikipedia.org/wiki/%D0%94%D0%B0%D0%B9%D0%B5%D1%80%2C_%D0%9C%D0%BE%D0%BB%D0%BB) — 來源分類：Категория:Ведьмы
+- [ ] **Fée Morgane**（法語，原始碼 25,409 位元組）— [原文](https://fr.wikipedia.org/wiki/F%C3%A9e_Morgane) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende
+- [ ] **Barbara Napier**（西班牙語，原始碼 24,255 位元組）— [原文](https://es.wikipedia.org/wiki/Barbara_Napier) — 來源分類：Categoría:Brujería > Brujas (brujería) > Personas acusadas de brujería
+- [ ] **Procès de sorcellerie en Écosse à l'époque moderne**（法語，原始碼 23,486 位元組）— [原文](https://fr.wikipedia.org/wiki/Proc%C3%A8s_de_sorcellerie_en_%C3%89cosse_%C3%A0_l%27%C3%A9poque_moderne) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine
+- [ ] **Hécate**（法語，原始碼 23,381 位元組）— [原文](https://fr.wikipedia.org/wiki/H%C3%A9cate) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende > Magicien de la mythologie grecque
+- [ ] **Procès de sorcellerie au Pays basque**（法語，原始碼 22,945 位元組）— [原文](https://fr.wikipedia.org/wiki/Proc%C3%A8s_de_sorcellerie_au_Pays_basque) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine
+- [ ] **Fée Viviane**（法語，原始碼 22,456 位元組）— [原文](https://fr.wikipedia.org/wiki/F%C3%A9e_Viviane) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende
+- [ ] **Kochtcheï**（法語，原始碼 20,912 位元組）— [原文](https://fr.wikipedia.org/wiki/Kochtche%C3%AF) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende
+- [ ] **Magda Logomer**（西班牙語，原始碼 20,782 位元組）— [原文](https://es.wikipedia.org/wiki/Magda_Logomer) — 來源分類：Categoría:Brujería > Brujas (brujería) > Personas acusadas de brujería
+- [ ] **Procès en sorcellerie dans le pays de Vaud**（法語，原始碼 20,297 位元組）— [原文](https://fr.wikipedia.org/wiki/Proc%C3%A8s_en_sorcellerie_dans_le_pays_de_Vaud) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine
+- [ ] **Procès des sorcières de Bury St Edmunds**（法語，原始碼 20,144 位元組）— [原文](https://fr.wikipedia.org/wiki/Proc%C3%A8s_des_sorci%C3%A8res_de_Bury_St_Edmunds) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine
+- [ ] **La Maison de la sorcière**（法語，原始碼 19,587 位元組）— [原文](https://fr.wikipedia.org/wiki/La_Maison_de_la_sorci%C3%A8re) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine > Procès des sorcières de Salem
+- [ ] **Robert de Lamiré de Bachimont**（法語，原始碼 19,286 位元組）— [原文](https://fr.wikipedia.org/wiki/Robert_de_Lamir%C3%A9_de_Bachimont) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine > Affaire des poisons
+- [ ] **Marthe Brossier**（法語，原始碼 18,436 位元組）— [原文](https://fr.wikipedia.org/wiki/Marthe_Brossier) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine
+- [ ] **Геката**（俄語，原始碼 17,879 位元組）— [原文](https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D0%BA%D0%B0%D1%82%D0%B0) — 來源分類：Категория:Ведьмы
+- [ ] **Tia Dalma**（法語，原始碼 17,148 位元組）— [原文](https://fr.wikipedia.org/wiki/Tia_Dalma) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine > Sorcière
+- [ ] **Lillias Adie**（西班牙語，原始碼 16,935 位元組）— [原文](https://es.wikipedia.org/wiki/Lillias_Adie) — 來源分類：Categoría:Brujería > Brujas (brujería) > Personas acusadas de brujería
+- [ ] **François-Henri de Montmorency-Luxembourg**（法語，原始碼 16,794 位元組）— [原文](https://fr.wikipedia.org/wiki/Fran%C3%A7ois-Henri_de_Montmorency-Luxembourg) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine > Affaire des poisons
+- [ ] **Vox in Rama**（法語，原始碼 16,510 位元組）— [原文](https://fr.wikipedia.org/wiki/Vox_in_Rama) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine
+- [ ] **Mary Bateman**（西班牙語，原始碼 16,295 位元組）— [原文](https://es.wikipedia.org/wiki/Mary_Bateman) — 來源分類：Categoría:Brujería > Brujas (brujería)
+- [ ] **Lamia (mythologie)**（法語，原始碼 15,972 位元組）— [原文](https://fr.wikipedia.org/wiki/Lamia_%28mythologie%29) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende > Magicien de la mythologie grecque
+- [ ] **Louis Nivelle**（法語，原始碼 15,802 位元組）— [原文](https://fr.wikipedia.org/wiki/Louis_Nivelle) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine > Affaire des poisons
+- [ ] **Isabel Woodville**（西班牙語，原始碼 15,099 位元組）— [原文](https://es.wikipedia.org/wiki/Isabel_Woodville) — 來源分類：Categoría:Brujería > Brujas (brujería) > Personas acusadas de brujería
+- [ ] **Sorcière des Bell**（法語，原始碼 14,484 位元組）— [原文](https://fr.wikipedia.org/wiki/Sorci%C3%A8re_des_Bell) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende
+- [ ] **Pierre Louis Reich de Pennautier**（法語，原始碼 14,338 位元組）— [原文](https://fr.wikipedia.org/wiki/Pierre_Louis_Reich_de_Pennautier) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine > Affaire des poisons
+- [ ] **Gabriel Nicolas de La Reynie**（法語，原始碼 13,995 位元組）— [原文](https://fr.wikipedia.org/wiki/Gabriel_Nicolas_de_La_Reynie) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine > Affaire des poisons
+- [ ] **Sheela Na Gig**（法語，原始碼 13,757 位元組）— [原文](https://fr.wikipedia.org/wiki/Sheela_Na_Gig) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine
+- [ ] **Graciana de Barrenechea**（西班牙語，原始碼 13,570 位元組）— [原文](https://es.wikipedia.org/wiki/Graciana_de_Barrenechea) — 來源分類：Categoría:Brujería > Brujas (brujería) > Personas acusadas de brujería
+- [ ] **Фея Моргана**（俄語，原始碼 13,518 位元組）— [原文](https://ru.wikipedia.org/wiki/%D0%A4%D0%B5%D1%8F_%D0%9C%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B0) — 來源分類：Категория:Ведьмы
+- [ ] **Interprétations féministes des procès de sorcières de l'époque moderne**（法語，原始碼 12,970 位元組）— [原文](https://fr.wikipedia.org/wiki/Interpr%C3%A9tations_f%C3%A9ministes_des_proc%C3%A8s_de_sorci%C3%A8res_de_l%27%C3%A9poque_moderne) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine
+- [ ] **Marie Kingué**（西班牙語，原始碼 12,950 位元組）— [原文](https://es.wikipedia.org/wiki/Marie_Kingu%C3%A9) — 來源分類：Categoría:Brujería > Brujas (brujería) > Personas acusadas de brujería
+- [ ] **Olympe Mancini**（法語，原始碼 12,666 位元組）— [原文](https://fr.wikipedia.org/wiki/Olympe_Mancini) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine > Affaire des poisons
+- [ ] **Tuatha Dé Danann**（法語，原始碼 12,259 位元組）— [原文](https://fr.wikipedia.org/wiki/Tuatha_D%C3%A9_Danann) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende
+- [ ] **Campamentos de brujas**（西班牙語，原始碼 11,870 位元組）— [原文](https://es.wikipedia.org/wiki/Campamentos_de_brujas) — 來源分類：Categoría:Brujería > Brujas (brujería)
+- [ ] **Naïa la sorcière**（法語，原始碼 11,869 位元組）— [原文](https://fr.wikipedia.org/wiki/Na%C3%AFa_la_sorci%C3%A8re) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende
+- [ ] **Errores Gazariorum**（法語，原始碼 11,811 位元組）— [原文](https://fr.wikipedia.org/wiki/Errores_Gazariorum) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine
+- [ ] **Margaret Scott**（法語，原始碼 11,621 位元組）— [原文](https://fr.wikipedia.org/wiki/Margaret_Scott) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine > Procès des sorcières de Salem
+- [ ] **Margery Jourdemayne**（西班牙語，原始碼 11,338 位元組）— [原文](https://es.wikipedia.org/wiki/Margery_Jourdemayne) — 來源分類：Categoría:Brujería > Brujas (brujería) > Personas acusadas de brujería
+- [ ] **Les Sorcières de Salem**（法語，原始碼 11,334 位元組）— [原文](https://fr.wikipedia.org/wiki/Les_Sorci%C3%A8res_de_Salem) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine > Procès des sorcières de Salem
+- [ ] **Justicia para las brujas de Escocia**（西班牙語，原始碼 11,278 位元組）— [原文](https://es.wikipedia.org/wiki/Justicia_para_las_brujas_de_Escocia) — 來源分類：Categoría:Brujería > Brujas (brujería)
+- [ ] **Grand-mère Kalle**（法語，原始碼 11,256 位元組）— [原文](https://fr.wikipedia.org/wiki/Grand-m%C3%A8re_Kalle) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende
+- [ ] **Margaret Jones**（西班牙語，原始碼 11,170 位元組）— [原文](https://es.wikipedia.org/wiki/Margaret_Jones) — 來源分類：Categoría:Brujería > Brujas (brujería) > Personas acusadas de brujería
+- [ ] **Sorcière d'Endor**（法語，原始碼 11,124 位元組）— [原文](https://fr.wikipedia.org/wiki/Sorci%C3%A8re_d%27Endor) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende
+- [ ] **Mary Webster**（西班牙語，原始碼 10,824 位元組）— [原文](https://es.wikipedia.org/wiki/Mary_Webster) — 來源分類：Categoría:Brujería > Brujas (brujería) > Personas acusadas de brujería
+- [ ] **Theoris de Lemnos**（法語，原始碼 10,624 位元組）— [原文](https://fr.wikipedia.org/wiki/Theoris_de_Lemnos) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine > Sorcière
+- [ ] **Abigail Williams (1681-1697)**（法語，原始碼 10,611 位元組）— [原文](https://fr.wikipedia.org/wiki/Abigail_Williams_%281681-1697%29) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine > Procès des sorcières de Salem
+- [ ] **Katherine Harrison**（西班牙語，原始碼 10,586 位元組）— [原文](https://es.wikipedia.org/wiki/Katherine_Harrison) — 來源分類：Categoría:Brujería > Brujas (brujería) > Personas acusadas de brujería
+- [ ] **Nicnevin**（西班牙語，原始碼 10,310 位元組）— [原文](https://es.wikipedia.org/wiki/Nicnevin) — 來源分類：Categoría:Brujería > Brujas (brujería)
+- [ ] **L'Enchanteur (Barjavel)**（法語，原始碼 10,060 位元組）— [原文](https://fr.wikipedia.org/wiki/L%27Enchanteur_%28Barjavel%29) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende > Merlin
+- [ ] **Formicarius (sorcellerie)**（法語，原始碼 9,930 位元組）— [原文](https://fr.wikipedia.org/wiki/Formicarius_%28sorcellerie%29) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine
+- [ ] **Procès des sorcières féeriques de Sicile**（法語，原始碼 9,747 位元組）— [原文](https://fr.wikipedia.org/wiki/Proc%C3%A8s_des_sorci%C3%A8res_f%C3%A9eriques_de_Sicile) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine
+- [ ] **Simon le Magicien**（法語，原始碼 9,726 位元組）— [原文](https://fr.wikipedia.org/wiki/Simon_le_Magicien) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende
+- [ ] **Mages et Sorciers : Les Contes d'Arcadia**（法語，原始碼 9,619 位元組）— [原文](https://fr.wikipedia.org/wiki/Mages_et_Sorciers_%3A_Les_Contes_d%27Arcadia) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende > Merlin
+- [ ] **Bridget Bishop**（法語，原始碼 9,451 位元組）— [原文](https://fr.wikipedia.org/wiki/Bridget_Bishop) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine > Procès des sorcières de Salem
+- [ ] **Marguerite Tiste**（西班牙語，原始碼 9,437 位元組）— [原文](https://es.wikipedia.org/wiki/Marguerite_Tiste) — 來源分類：Categoría:Brujería > Brujas (brujería)
+- [ ] **Mary Eastey**（法語，原始碼 9,310 位元組）— [原文](https://fr.wikipedia.org/wiki/Mary_Eastey) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine > Procès des sorcières de Salem
+- [ ] **Elizabeth Proctor**（法語，原始碼 9,081 位元組）— [原文](https://fr.wikipedia.org/wiki/Elizabeth_Proctor) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine > Procès des sorcières de Salem
+- [ ] **Pasiphaé**（法語，原始碼 9,003 位元組）— [原文](https://fr.wikipedia.org/wiki/Pasipha%C3%A9) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende > Magicien de la mythologie grecque
+- [ ] **Joan Wright**（西班牙語，原始碼 8,990 位元組）— [原文](https://es.wikipedia.org/wiki/Joan_Wright) — 來源分類：Categoría:Brujería > Brujas (brujería) > Personas acusadas de brujería
+- [ ] **Hag (folklore)**（法語，原始碼 8,981 位元組）— [原文](https://fr.wikipedia.org/wiki/Hag_%28folklore%29) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende
+- [ ] **L'Affaire des poisons**（法語，原始碼 8,796 位元組）— [原文](https://fr.wikipedia.org/wiki/L%27Affaire_des_poisons) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine > Affaire des poisons
+- [ ] **Merlin (téléfilm, 2012)**（法語，原始碼 8,777 位元組）— [原文](https://fr.wikipedia.org/wiki/Merlin_%28t%C3%A9l%C3%A9film%2C_2012%29) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende > Merlin
+- [ ] **Maugis**（法語，原始碼 8,528 位元組）— [原文](https://fr.wikipedia.org/wiki/Maugis) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende
+- [ ] **Clara de Rueda**（西班牙語，原始碼 8,396 位元組）— [原文](https://es.wikipedia.org/wiki/Clara_de_Rueda) — 來源分類：Categoría:Brujería > Brujas (brujería)
+- [ ] **Mémorial de Steilneset**（法語，原始碼 8,250 位元組）— [原文](https://fr.wikipedia.org/wiki/M%C3%A9morial_de_Steilneset) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine
+- [ ] **Abaris le Scythe**（法語，原始碼 8,090 位元組）— [原文](https://fr.wikipedia.org/wiki/Abaris_le_Scythe) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende
+- [ ] **Maud Galt**（西班牙語，原始碼 8,049 位元組）— [原文](https://es.wikipedia.org/wiki/Maud_Galt) — 來源分類：Categoría:Brujería > Brujas (brujería) > Personas acusadas de brujería
+- [ ] **Mary Butters**（西班牙語，原始碼 8,046 位元組）— [原文](https://es.wikipedia.org/wiki/Mary_Butters) — 來源分類：Categoría:Brujería > Brujas (brujería) > Personas acusadas de brujería
+- [ ] **Kamrušepa**（西班牙語，原始碼 7,910 位元組）— [原文](https://es.wikipedia.org/wiki/Kamru%C5%A1epa) — 來源分類：Categoría:Brujería > Brujas (brujería)
+- [ ] **Possessions de Louviers**（法語，原始碼 7,875 位元組）— [原文](https://fr.wikipedia.org/wiki/Possessions_de_Louviers) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine
+- [ ] **The Winter King**（法語，原始碼 7,744 位元組）— [原文](https://fr.wikipedia.org/wiki/The_Winter_King) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende > Merlin
+- [ ] **Marie-Anne Mancini**（法語，原始碼 7,613 位元組）— [原文](https://fr.wikipedia.org/wiki/Marie-Anne_Mancini) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine > Affaire des poisons
+- [ ] **Эрихто**（俄語，原始碼 7,491 位元組）— [原文](https://ru.wikipedia.org/wiki/%D0%AD%D1%80%D0%B8%D1%85%D1%82%D0%BE) — 來源分類：Категория:Ведьмы
+- [ ] **Claude de Vin des Œillets**（法語，原始碼 7,480 位元組）— [原文](https://fr.wikipedia.org/wiki/Claude_de_Vin_des_%C5%92illets) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine > Affaire des poisons
+- [ ] **Trina Kuenis**（西班牙語，原始碼 7,462 位元組）— [原文](https://es.wikipedia.org/wiki/Trina_Kuenis) — 來源分類：Categoría:Brujería > Brujas (brujería)
+- [ ] **Brujo**（西班牙語，原始碼 7,252 位元組）— [原文](https://es.wikipedia.org/wiki/Brujo) — 來源分類：Categoría:Brujería > Brujas (brujería)
+- [ ] **Étienne Guibourg**（法語，原始碼 7,246 位元組）— [原文](https://fr.wikipedia.org/wiki/%C3%89tienne_Guibourg) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine > Affaire des poisons
+- [ ] **Sorcières de North Berwick**（法語，原始碼 7,207 位元組）— [原文](https://fr.wikipedia.org/wiki/Sorci%C3%A8res_de_North_Berwick) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine > Sorcière
+- [ ] **Kot Baïoun**（法語，原始碼 7,162 位元組）— [原文](https://fr.wikipedia.org/wiki/Kot_Ba%C3%AFoun) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende
+- [ ] **Katarzyna Paprocka**（西班牙語，原始碼 7,109 位元組）— [原文](https://es.wikipedia.org/wiki/Katarzyna_Paprocka) — 來源分類：Categoría:Brujería > Brujas (brujería) > Personas acusadas de brujería
+- [ ] **Taoueille**（法語，原始碼 7,108 位元組）— [原文](https://fr.wikipedia.org/wiki/Taoueille) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende
+- [ ] **Polydamna**（法語，原始碼 7,048 位元組）— [原文](https://fr.wikipedia.org/wiki/Polydamna) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende > Magicien de la mythologie grecque
+- [ ] **Ana Calthorpe**（西班牙語，原始碼 6,976 位元組）— [原文](https://es.wikipedia.org/wiki/Ana_Calthorpe) — 來源分類：Categoría:Brujería > Brujas (brujería) > Personas acusadas de brujería
+- [ ] **Ведьмы Анаги**（俄語，原始碼 6,956 位元組）— [原文](https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%B4%D1%8C%D0%BC%D1%8B_%D0%90%D0%BD%D0%B0%D0%B3%D0%B8) — 來源分類：Категория:Ведьмы
+- [ ] **Myrddin Wyllt**（法語，原始碼 6,683 位元組）— [原文](https://fr.wikipedia.org/wiki/Myrddin_Wyllt) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende > Merlin
+- [ ] **William Phips**（法語，原始碼 6,599 位元組）— [原文](https://fr.wikipedia.org/wiki/William_Phips) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine > Procès des sorcières de Salem
+- [ ] **Prophéties de Merlin**（法語，原始碼 6,593 位元組）— [原文](https://fr.wikipedia.org/wiki/Proph%C3%A9ties_de_Merlin) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende > Merlin
+- [ ] **Ингрид Ильва**（俄語，原始碼 6,542 位元組）— [原文](https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D0%B3%D1%80%D0%B8%D0%B4_%D0%98%D0%BB%D1%8C%D0%B2%D0%B0) — 來源分類：Категория:Ведьмы
+- [ ] **Hermogène (magicien)**（法語，原始碼 6,468 位元組）— [原文](https://fr.wikipedia.org/wiki/Hermog%C3%A8ne_%28magicien%29) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende
+- [ ] **Ann Putnam**（法語，原始碼 6,370 位元組）— [原文](https://fr.wikipedia.org/wiki/Ann_Putnam) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine > Procès des sorcières de Salem
+- [ ] **Marie Bosse**（法語，原始碼 6,335 位元組）— [原文](https://fr.wikipedia.org/wiki/Marie_Bosse) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine > Affaire des poisons
+- [ ] **Cheval gris du Comte de Veldenz**（法語，原始碼 6,243 位元組）— [原文](https://fr.wikipedia.org/wiki/Cheval_gris_du_Comte_de_Veldenz) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine
+- [ ] **Julia Carta**（西班牙語，原始碼 6,143 位元組）— [原文](https://es.wikipedia.org/wiki/Julia_Carta) — 來源分類：Categoría:Brujería > Brujas (brujería) > Personas acusadas de brujería
+- [ ] **Monique Wilson**（西班牙語，原始碼 6,005 位元組）— [原文](https://es.wikipedia.org/wiki/Monique_Wilson) — 來源分類：Categoría:Brujería > Brujas (brujería)
+- [ ] **Ana María García (La Llobera)**（西班牙語，原始碼 6,004 位元組）— [原文](https://es.wikipedia.org/wiki/Ana_Mar%C3%ADa_Garc%C3%ADa_%28La_Llobera%29) — 來源分類：Categoría:Brujería > Brujas (brujería) > Personas acusadas de brujería
+- [ ] **Prättäkitti**（西班牙語，原始碼 5,750 位元組）— [原文](https://es.wikipedia.org/wiki/Pr%C3%A4tt%C3%A4kitti) — 來源分類：Categoría:Brujería > Brujas (brujería)
+- [ ] **Catherine Peyretone**（西班牙語，原始碼 5,697 位元組）— [原文](https://es.wikipedia.org/wiki/Catherine_Peyretone) — 來源分類：Categoría:Brujería > Brujas (brujería)
+- [ ] **Summis desiderantes affectibus**（法語，原始碼 5,628 位元組）— [原文](https://fr.wikipedia.org/wiki/Summis_desiderantes_affectibus) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine
+- [ ] **Мыстан кемпир**（俄語，原始碼 5,325 位元組）— [原文](https://ru.wikipedia.org/wiki/%D0%9C%D1%8B%D1%81%D1%82%D0%B0%D0%BD_%D0%BA%D0%B5%D0%BC%D0%BF%D0%B8%D1%80) — 來源分類：Категория:Ведьмы
+- [ ] **Bloody Mary (folklore)**（法語，原始碼 5,152 位元組）— [原文](https://fr.wikipedia.org/wiki/Bloody_Mary_%28folklore%29) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende
+- [ ] **Чёрная Аннис**（俄語，原始碼 5,127 位元組）— [原文](https://ru.wikipedia.org/wiki/%D0%A7%D1%91%D1%80%D0%BD%D0%B0%D1%8F_%D0%90%D0%BD%D0%BD%D0%B8%D1%81) — 來源分類：Категория:Ведьмы
+- [ ] **Enquête sur la sorcellerie en Écosse**（法語，原始碼 5,047 位元組）— [原文](https://fr.wikipedia.org/wiki/Enqu%C3%AAte_sur_la_sorcellerie_en_%C3%89cosse) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine
+- [ ] **Belagile**（法語，原始碼 4,997 位元組）— [原文](https://fr.wikipedia.org/wiki/Belagile) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende
+- [ ] **Klingsor (personnage)**（法語，原始碼 4,870 位元組）— [原文](https://fr.wikipedia.org/wiki/Klingsor_%28personnage%29) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende
+- [ ] **Лаума**（俄語，原始碼 4,780 位元組）— [原文](https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D1%83%D0%BC%D0%B0) — 來源分類：Категория:Ведьмы
+- [ ] **Alison Pearson**（西班牙語，原始碼 4,759 位元組）— [原文](https://es.wikipedia.org/wiki/Alison_Pearson) — 來源分類：Categoría:Brujería > Brujas (brujería)
+- [ ] **Ostanès**（法語，原始碼 4,720 位元組）— [原文](https://fr.wikipedia.org/wiki/Ostan%C3%A8s) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende
+- [ ] **Bruja de Monterrey**（西班牙語，原始碼 4,683 位元組）— [原文](https://es.wikipedia.org/wiki/Bruja_de_Monterrey) — 來源分類：Categoría:Brujería > Brujas (brujería)
+- [ ] **Procès en sorcellerie de Nogaredo**（法語，原始碼 4,173 位元組）— [原文](https://fr.wikipedia.org/wiki/Proc%C3%A8s_en_sorcellerie_de_Nogaredo) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine

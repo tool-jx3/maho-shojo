@@ -26,6 +26,7 @@ import json
 import os
 import sys
 import time
+from datetime import date
 import urllib.parse
 import urllib.request
 
@@ -133,7 +134,7 @@ def main():
                     "# url: https://%s.wikipedia.org/wiki/%s\n"
                     % (lang, urllib.parse.quote(got.replace(" ", "_")))
                 )
-                out.write("# retrieved: 2026-09-08\n")
+                out.write("# retrieved: %s\n" % date.today().isoformat())
                 out.write("=" * 60 + "\n")
                 out.write(text)
             print("OK   %-28s %s/%s  chars=%d" % (name, lang, got, len(text)))

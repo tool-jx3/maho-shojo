@@ -1,797 +1,1715 @@
 # 待收錄候選：其他
 
-共 788 項。回到 [待辦總表](../BACKLOG.md)。
+共 1706 項。回到 [待辦總表](../BACKLOG.md)。
 
 本檔由 `scripts/build_reference_backlog.py` 產生，是機器掃描的結果而非選錄決定，每一項都需要人工判斷。
 
-- [ ] **History of magic**（英語，207,955 字元）— [原文](https://en.wikipedia.org/wiki/History_of_magic) — 來源分類：Category:Witchcraft
-- [ ] **Ritualmordlegende**（德語，172,077 字元）— [原文](https://de.wikipedia.org/wiki/Ritualmordlegende) — 來源分類：Kategorie:Hexenverfolgung
-- [ ] **Hexenverfolgung**（德語，163,295 字元）— [原文](https://de.wikipedia.org/wiki/Hexenverfolgung) — 來源分類：Kategorie:Hexenverfolgung
-- [ ] **Salem, Massachusetts**（英語，160,451 字元）— [原文](https://en.wikipedia.org/wiki/Salem%2C_Massachusetts) — 來源分類：Category:Witchcraft > American witchcraft
-- [ ] **Azealia Banks**（英語，146,872 字元）— [原文](https://en.wikipedia.org/wiki/Azealia_Banks) — 來源分類：Category:Witchcraft > American witchcraft
-- [ ] **Crapaud dans l'imaginaire et la tradition en Occident**（法語，143,231 字元）— [原文](https://fr.wikipedia.org/wiki/Crapaud_dans_l%27imaginaire_et_la_tradition_en_Occident) — 來源分類：Catégorie:Sorcellerie
-- [ ] **Tetragrammaton**（英語，136,308 字元）— [原文](https://en.wikipedia.org/wiki/Tetragrammaton) — 來源分類：Category:Witchcraft > Incantation > Magic words
-- [ ] **Satanic panic**（英語，127,917 字元）— [原文](https://en.wikipedia.org/wiki/Satanic_panic) — 來源分類：Category:Witchcraft > Witch hunting
-- [ ] **Witch hunt**（英語，117,050 字元）— [原文](https://en.wikipedia.org/wiki/Witch_hunt) — 來源分類：Category:Witchcraft > Witch hunting
-- [ ] **Zombie**（英語，109,562 字元）— [原文](https://en.wikipedia.org/wiki/Zombie) — 來源分類：Category:Witchcraft > African witchcraft > Voodoo
-- [ ] **Brujería**（西班牙語，108,993 字元）— [原文](https://es.wikipedia.org/wiki/Brujer%C3%ADa) — 來源分類：Categoría:Brujería
-- [ ] **Goezia (pratica magica)**（義大利語，108,386 字元）— [原文](https://it.wikipedia.org/wiki/Goezia_%28pratica_magica%29) — 來源分類：Categoria:Stregoneria
-- [ ] **Margaret Murray**（英語，101,963 字元）— [原文](https://en.wikipedia.org/wiki/Margaret_Murray) — 來源分類：Category:Witchcraft > Historians of witchcraft
-- [ ] **Lieu du sabbat**（法語，99,825 字元）— [原文](https://fr.wikipedia.org/wiki/Lieu_du_sabbat) — 來源分類：Catégorie:Sorcellerie
-- [ ] **The Blair Witch Project**（英語，97,434 字元）— [原文](https://en.wikipedia.org/wiki/The_Blair_Witch_Project) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Blair Witch
-- [ ] **ペルヒタ**（日語，96,699 字元）— [原文](https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%AB%E3%83%92%E3%82%BF) — 來源分類：Category:魔女
-- [ ] **Joseph Smith Papyri**（英語，96,039 字元）— [原文](https://en.wikipedia.org/wiki/Joseph_Smith_Papyri) — 來源分類：Category:Witchcraft > Incantation > Book of the Dead
-- [ ] **Bell Witch**（英語，91,677 字元）— [原文](https://en.wikipedia.org/wiki/Bell_Witch) — 來源分類：Category:Witchcraft > American witchcraft
-- [ ] **Zatanna (serie limitada)**（西班牙語，91,136 字元）— [原文](https://es.wikipedia.org/wiki/Zatanna_%28serie_limitada%29) — 來源分類：Categoría:Brujería > Brujos ficticios > Zatanna
-- [ ] **Argonautica**（英語，90,150 字元）— [原文](https://en.wikipedia.org/wiki/Argonautica) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Works about Medea
-- [ ] **Carrefour dans le folklore et la mythologie**（法語，88,150 字元）— [原文](https://fr.wikipedia.org/wiki/Carrefour_dans_le_folklore_et_la_mythologie) — 來源分類：Catégorie:Sorcellerie
-- [ ] **Juicios por brujería en la Edad Moderna**（西班牙語，82,942 字元）— [原文](https://es.wikipedia.org/wiki/Juicios_por_brujer%C3%ADa_en_la_Edad_Moderna) — 來源分類：Categoría:Brujería
-- [ ] **Sorcellerie**（法語，81,005 字元）— [原文](https://fr.wikipedia.org/wiki/Sorcellerie) — 來源分類：Catégorie:Sorcellerie
-- [ ] **Hermetica**（英語，77,745 字元）— [原文](https://en.wikipedia.org/wiki/Hermetica) — 來源分類：Category:Witchcraft > Grimoires
-- [ ] **Dharani**（英語，76,576 字元）— [原文](https://en.wikipedia.org/wiki/Dharani) — 來源分類：Category:Witchcraft > Incantation > Magic words
-- [ ] **Magie et symbolique du clou**（法語，74,376 字元）— [原文](https://fr.wikipedia.org/wiki/Magie_et_symbolique_du_clou) — 來源分類：Catégorie:Sorcellerie
-- [ ] **Thelema**（英語，71,105 字元）— [原文](https://en.wikipedia.org/wiki/Thelema) — 來源分類：Category:Witchcraft > Incantation > Magic words
-- [ ] **Harry Potter influences and analogues**（英語，70,135 字元）— [原文](https://en.wikipedia.org/wiki/Harry_Potter_influences_and_analogues) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Harry Potter
-- [ ] **Brujería en Europa**（西班牙語，69,777 字元）— [原文](https://es.wikipedia.org/wiki/Brujer%C3%ADa_en_Europa) — 來源分類：Categoría:Brujería
-- [ ] **Verfolgung von Menschen mit Albinismus**（德語，68,819 字元）— [原文](https://de.wikipedia.org/wiki/Verfolgung_von_Menschen_mit_Albinismus) — 來源分類：Kategorie:Hexerei > Moderne Hexenverfolgung
-- [ ] **Persecution of people with albinism**（英語，67,873 字元）— [原文](https://en.wikipedia.org/wiki/Persecution_of_people_with_albinism) — 來源分類：Category:Witchcraft > African witchcraft
-- [ ] **展覧会の絵**（日語，66,984 字元）— [原文](https://ja.wikipedia.org/wiki/%E5%B1%95%E8%A6%A7%E4%BC%9A%E3%81%AE%E7%B5%B5) — 來源分類：Category:魔女 > バーバ・ヤーガ
-- [ ] **Stregoneria**（義大利語，65,995 字元）— [原文](https://it.wikipedia.org/wiki/Stregoneria) — 來源分類：Categoria:Stregoneria
-- [ ] **Islam and magic**（英語，65,072 字元）— [原文](https://en.wikipedia.org/wiki/Islam_and_magic) — 來源分類：Category:Witchcraft
-- [ ] **Sator Square**（英語，64,633 字元）— [原文](https://en.wikipedia.org/wiki/Sator_Square) — 來源分類：Category:Witchcraft > Incantation
-- [ ] **アリエル (ディズニーキャラクター)**（日語，63,177 字元）— [原文](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AA%E3%82%A8%E3%83%AB_%28%E3%83%87%E3%82%A3%E3%82%BA%E3%83%8B%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%29) — 來源分類：Category:魔女 > 魔女を題材とした作品 > 人魚姫
-- [ ] **William Phips**（英語，63,067 字元）— [原文](https://en.wikipedia.org/wiki/William_Phips) — 來源分類：Category:Witchcraft > Witch hunting > Critics of witch hunting
-- [ ] **Elohim**（英語，60,167 字元）— [原文](https://en.wikipedia.org/wiki/Elohim) — 來源分類：Category:Witchcraft > Incantation > Magic words
-- [ ] **Lilith**（義大利語，57,940 字元）— [原文](https://it.wikipedia.org/wiki/Lilith) — 來源分類：Categoria:Stregoneria
-- [ ] **Book of Shadows: Blair Witch 2**（英語，57,683 字元）— [原文](https://en.wikipedia.org/wiki/Book_of_Shadows%3A_Blair_Witch_2) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Blair Witch
-- [ ] **Caccia alle streghe**（義大利語，56,686 字元）— [原文](https://it.wikipedia.org/wiki/Caccia_alle_streghe) — 來源分類：Categoria:Stregoneria
-- [ ] **魔女狩り**（日語，56,529 字元）— [原文](https://ja.wikipedia.org/wiki/%E9%AD%94%E5%A5%B3%E7%8B%A9%E3%82%8A) — 來源分類：Category:魔女
-- [ ] **Pig-faced women**（英語，55,736 字元）— [原文](https://en.wikipedia.org/wiki/Pig-faced_women) — 來源分類：Category:Witchcraft
-- [ ] **History of Arda**（英語，54,908 字元）— [原文](https://en.wikipedia.org/wiki/History_of_Arda) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Middle-earth
-- [ ] **Strega**（義大利語，54,695 字元）— [原文](https://it.wikipedia.org/wiki/Strega) — 來源分類：Categoria:Stregoneria
-- [ ] **Ronald Hutton**（英語，54,059 字元）— [原文](https://en.wikipedia.org/wiki/Ronald_Hutton) — 來源分類：Category:Witchcraft > Historians of witchcraft
-- [ ] **Anti-cult movement**（英語，53,648 字元）— [原文](https://en.wikipedia.org/wiki/Anti-cult_movement) — 來源分類：Category:Witchcraft > Witch hunting
-- [ ] **Solomon Grundy (cómic)**（西班牙語，53,610 字元）— [原文](https://es.wikipedia.org/wiki/Solomon_Grundy_%28c%C3%B3mic%29) — 來源分類：Categoría:Brujería > Zombis > Zombis en la historieta
-- [ ] **Zombi**（西班牙語，53,539 字元）— [原文](https://es.wikipedia.org/wiki/Zombi) — 來源分類：Categoría:Brujería > Zombis
-- [ ] **Abraxas**（英語，52,829 字元）— [原文](https://en.wikipedia.org/wiki/Abraxas) — 來源分類：Category:Witchcraft > Incantation > Magic words
-- [ ] **Witchcraft in Africa**（英語，52,260 字元）— [原文](https://en.wikipedia.org/wiki/Witchcraft_in_Africa) — 來源分類：Category:Witchcraft > African witchcraft
-- [ ] **Medea (play)**（英語，50,684 字元）— [原文](https://en.wikipedia.org/wiki/Medea_%28play%29) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Works about Medea
-- [ ] **Cotton: Fantastic Night Dreams**（英語，50,543 字元）— [原文](https://en.wikipedia.org/wiki/Cotton%3A_Fantastic_Night_Dreams) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Cotton (series)
-- [ ] **白雪姫 (ディズニーキャラクター)**（日語，50,092 字元）— [原文](https://ja.wikipedia.org/wiki/%E7%99%BD%E9%9B%AA%E5%A7%AB_%28%E3%83%87%E3%82%A3%E3%82%BA%E3%83%8B%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%29) — 來源分類：Category:魔女 > 魔女を題材とした作品 > 白雪姫
-- [ ] **Philology and Middle-earth**（英語，49,870 字元）— [原文](https://en.wikipedia.org/wiki/Philology_and_Middle-earth) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Middle-earth
-- [ ] **Trial by ordeal**（英語，47,649 字元）— [原文](https://en.wikipedia.org/wiki/Trial_by_ordeal) — 來源分類：Category:Witchcraft > Witch hunting > Early Modern witch hunts
-- [ ] **Brujería y contracultura gay**（西班牙語，47,538 字元）— [原文](https://es.wikipedia.org/wiki/Brujer%C3%ADa_y_contracultura_gay) — 來源分類：Categoría:Brujería
-- [ ] **ルッツェルフラウ**（日語，47,317 字元）— [原文](https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%83%E3%83%84%E3%82%A7%E3%83%AB%E3%83%95%E3%83%A9%E3%82%A6) — 來源分類：Category:魔女
-- [ ] **Middle-earth**（英語，46,393 字元）— [原文](https://en.wikipedia.org/wiki/Middle-earth) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Middle-earth
-- [ ] **Merseburg charms**（英語，45,388 字元）— [原文](https://en.wikipedia.org/wiki/Merseburg_charms) — 來源分類：Category:Witchcraft > Incantation
-- [ ] **産女**（日語，45,075 字元）— [原文](https://ja.wikipedia.org/wiki/%E7%94%A3%E5%A5%B3) — 來源分類：Category:魔女 > 山姥やハッグ
-- [ ] **Three Books of Occult Philosophy**（英語，44,043 字元）— [原文](https://en.wikipedia.org/wiki/Three_Books_of_Occult_Philosophy) — 來源分類：Category:Witchcraft > Grimoires
-- [ ] **Book of the Dead**（英語，43,923 字元）— [原文](https://en.wikipedia.org/wiki/Book_of_the_Dead) — 來源分類：Category:Witchcraft > Incantation
-- [ ] **Die Benandanti. Feldkulte und Hexenwesen im 16. und 17. Jahrhundert**（德語，42,406 字元）— [原文](https://de.wikipedia.org/wiki/Die_Benandanti._Feldkulte_und_Hexenwesen_im_16._und_17._Jahrhundert) — 來源分類：Kategorie:Hexenverfolgung
-- [ ] **Modern witch hunts**（英語，42,327 字元）— [原文](https://en.wikipedia.org/wiki/Modern_witch_hunts) — 來源分類：Category:Witchcraft > African witchcraft
-- [ ] **Medea (mitología)**（西班牙語，41,510 字元）— [原文](https://es.wikipedia.org/wiki/Medea_%28mitolog%C3%ADa%29) — 來源分類：Categoría:Brujería
-- [ ] **Maat**（英語，41,444 字元）— [原文](https://en.wikipedia.org/wiki/Maat) — 來源分類：Category:Witchcraft > Incantation > Book of the Dead
-- [ ] **Diablo**（西班牙語，41,371 字元）— [原文](https://es.wikipedia.org/wiki/Diablo) — 來源分類：Categoría:Brujería
-- [ ] **魔法の鏡 (白雪姫)**（日語，41,237 字元）— [原文](https://ja.wikipedia.org/wiki/%E9%AD%94%E6%B3%95%E3%81%AE%E9%8F%A1_%28%E7%99%BD%E9%9B%AA%E5%A7%AB%29) — 來源分類：Category:魔女 > 魔女を題材とした作品 > 白雪姫
-- [ ] **Blair Witch**（英語，40,879 字元）— [原文](https://en.wikipedia.org/wiki/Blair_Witch) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Blair Witch
-- [ ] **Mandragore**（法語，40,029 字元）— [原文](https://fr.wikipedia.org/wiki/Mandragore) — 來源分類：Catégorie:Sorcellerie > Plante utilisée en sorcellerie
-- [ ] **Witchcraft in North America**（英語，39,665 字元）— [原文](https://en.wikipedia.org/wiki/Witchcraft_in_North_America) — 來源分類：Category:Witchcraft > American witchcraft
-- [ ] **Wethersfield, Connecticut**（英語，39,501 字元）— [原文](https://en.wikipedia.org/wiki/Wethersfield%2C_Connecticut) — 來源分類：Category:Witchcraft > American witchcraft
-- [ ] **Moderne Hexenverfolgung**（德語，39,114 字元）— [原文](https://de.wikipedia.org/wiki/Moderne_Hexenverfolgung) — 來源分類：Kategorie:Hexerei > Moderne Hexenverfolgung
-- [ ] **Sabbat des chats**（法語，38,207 字元）— [原文](https://fr.wikipedia.org/wiki/Sabbat_des_chats) — 來源分類：Catégorie:Sorcellerie
-- [ ] **ドルーデ**（日語，38,152 字元）— [原文](https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%AB%E3%83%BC%E3%83%87) — 來源分類：Category:魔女 > 山姥やハッグ
-- [ ] **Robert Calef**（英語，37,459 字元）— [原文](https://en.wikipedia.org/wiki/Robert_Calef) — 來源分類：Category:Witchcraft > Witch hunting > Critics of witch hunting
-- [ ] **Leo Igwe**（英語，36,962 字元）— [原文](https://en.wikipedia.org/wiki/Leo_Igwe) — 來源分類：Category:Witchcraft > Modern witchcraft > Modern witch hunts
-- [ ] **Pyramid Texts**（英語，36,496 字元）— [原文](https://en.wikipedia.org/wiki/Pyramid_Texts) — 來源分類：Category:Witchcraft > Incantation > Book of the Dead
-- [ ] **Asesinato ritual**（西班牙語，36,368 字元）— [原文](https://es.wikipedia.org/wiki/Asesinato_ritual) — 來源分類：Categoría:Brujería
-- [ ] **Saul (Handel)**（英語，36,364 字元）— [原文](https://en.wikipedia.org/wiki/Saul_%28Handel%29) — 來源分類：Category:Witchcraft > Judaism and witchcraft > Witch of Endor
-- [ ] **Tolkien fan fiction**（英語，36,352 字元）— [原文](https://en.wikipedia.org/wiki/Tolkien_fan_fiction) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Middle-earth
-- [ ] **La hija de Cólquide**（英語，35,822 字元）— [原文](https://en.wikipedia.org/wiki/La_hija_de_C%C3%B3lquide) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Works about Medea
-- [ ] **Asian witchcraft**（英語，35,123 字元）— [原文](https://en.wikipedia.org/wiki/Asian_witchcraft) — 來源分類：Category:Witchcraft > Asian witchcraft
-- [ ] **人魚姫**（日語，34,849 字元）— [原文](https://ja.wikipedia.org/wiki/%E4%BA%BA%E9%AD%9A%E5%A7%AB) — 來源分類：Category:魔女 > 魔女を題材とした作品 > 人魚姫
-- [ ] **Cotton Rock n' Roll: Superlative Night Dreams**（英語，34,605 字元）— [原文](https://en.wikipedia.org/wiki/Cotton_Rock_n%27_Roll%3A_Superlative_Night_Dreams) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Cotton (series)
-- [ ] **ロザリーン・ノートン**（日語，34,410 字元）— [原文](https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B6%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%BB%E3%83%8E%E3%83%BC%E3%83%88%E3%83%B3) — 來源分類：Category:魔女
-- [ ] **Meurtre rituel**（法語，34,323 字元）— [原文](https://fr.wikipedia.org/wiki/Meurtre_rituel) — 來源分類：Catégorie:Sorcellerie
-- [ ] **キルケー**（日語，34,268 字元）— [原文](https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%AB%E3%82%B1%E3%83%BC) — 來源分類：Category:魔女
-- [ ] **Aradia, or the Gospel of the Witches**（英語，33,826 字元）— [原文](https://en.wikipedia.org/wiki/Aradia%2C_or_the_Gospel_of_the_Witches) — 來源分類：Category:Witchcraft > Grimoires
-- [ ] **Witch hunts in Nepal**（英語，33,553 字元）— [原文](https://en.wikipedia.org/wiki/Witch_hunts_in_Nepal) — 來源分類：Category:Witchcraft > Modern witchcraft > Modern witch hunts
-- [ ] **Murder for body parts**（英語，33,369 字元）— [原文](https://en.wikipedia.org/wiki/Murder_for_body_parts) — 來源分類：Category:Witchcraft > African witchcraft
-- [ ] **Aradia, o il Vangelo delle Streghe**（義大利語，33,337 字元）— [原文](https://it.wikipedia.org/wiki/Aradia%2C_o_il_Vangelo_delle_Streghe) — 來源分類：Categoria:Stregoneria > Opere letterarie sulla stregoneria
-- [ ] **Dreamtime (book)**（英語，33,230 字元）— [原文](https://en.wikipedia.org/wiki/Dreamtime_%28book%29) — 來源分類：Category:Witchcraft > Books about witchcraft
-- [ ] **Maciara**（義大利語，32,893 字元）— [原文](https://it.wikipedia.org/wiki/Maciara) — 來源分類：Categoria:Stregoneria
-- [ ] **Kore wa Zombie Desu ka?**（西班牙語，32,712 字元）— [原文](https://es.wikipedia.org/wiki/Kore_wa_Zombie_Desu_ka%3F) — 來源分類：Categoría:Brujería > Zombis > Zombis en la historieta
-- [ ] **Mona Fandey**（英語，32,484 字元）— [原文](https://en.wikipedia.org/wiki/Mona_Fandey) — 來源分類：Category:Witchcraft > Asian witchcraft
-- [ ] **Processo alle streghe di Salem**（義大利語，32,456 字元）— [原文](https://it.wikipedia.org/wiki/Processo_alle_streghe_di_Salem) — 來源分類：Categoria:Stregoneria > Processi per stregoneria
-- [ ] **Chinese sorcery scares**（英語，32,147 字元）— [原文](https://en.wikipedia.org/wiki/Chinese_sorcery_scares) — 來源分類：Category:Witchcraft > Witch hunting
-- [ ] **Hostienfrevel**（德語，31,916 字元）— [原文](https://de.wikipedia.org/wiki/Hostienfrevel) — 來源分類：Kategorie:Hexenverfolgung
-- [ ] **Giasone**（英語，31,648 字元）— [原文](https://en.wikipedia.org/wiki/Giasone) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Works about Medea
-- [ ] **Visión cristiana sobre la magia**（西班牙語，31,627 字元）— [原文](https://es.wikipedia.org/wiki/Visi%C3%B3n_cristiana_sobre_la_magia) — 來源分類：Categoría:Brujería
-- [ ] **War Witch**（英語，31,362 字元）— [原文](https://en.wikipedia.org/wiki/War_Witch) — 來源分類：Category:Witchcraft > African witchcraft
-- [ ] **Witch of Endor**（英語，31,253 字元）— [原文](https://en.wikipedia.org/wiki/Witch_of_Endor) — 來源分類：Category:Witchcraft > Judaism and witchcraft > Witch of Endor
-- [ ] **The Goddess Girls**（英語，31,223 字元）— [原文](https://en.wikipedia.org/wiki/The_Goddess_Girls) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Works about Medea
-- [ ] **Goétie**（法語，31,146 字元）— [原文](https://fr.wikipedia.org/wiki/Go%C3%A9tie) — 來源分類：Catégorie:Sorcellerie
-- [ ] **The Last of Us: American Dreams**（西班牙語，31,102 字元）— [原文](https://es.wikipedia.org/wiki/The_Last_of_Us%3A_American_Dreams) — 來源分類：Categoría:Brujería > Zombis > Zombis en la historieta
-- [ ] **九人の魔女**（日語，31,003 字元）— [原文](https://ja.wikipedia.org/wiki/%E4%B9%9D%E4%BA%BA%E3%81%AE%E9%AD%94%E5%A5%B3) — 來源分類：Category:魔女
-- [ ] **Ancient Egyptian conception of the soul**（英語，30,886 字元）— [原文](https://en.wikipedia.org/wiki/Ancient_Egyptian_conception_of_the_soul) — 來源分類：Category:Witchcraft > Incantation > Book of the Dead
-- [ ] **Christian views on magic**（英語，30,731 字元）— [原文](https://en.wikipedia.org/wiki/Christian_views_on_magic) — 來源分類：Category:Witchcraft
-- [ ] **魔女**（日語，30,501 字元）— [原文](https://ja.wikipedia.org/wiki/%E9%AD%94%E5%A5%B3) — 來源分類：Category:魔女
-- [ ] **Impact of Tolkien's Middle-earth writings**（英語，30,025 字元）— [原文](https://en.wikipedia.org/wiki/Impact_of_Tolkien%27s_Middle-earth_writings) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Middle-earth
-- [ ] **Belladone**（法語，29,922 字元）— [原文](https://fr.wikipedia.org/wiki/Belladone) — 來源分類：Catégorie:Sorcellerie > Plante utilisée en sorcellerie
-- [ ] **メーデイア**（日語，29,883 字元）— [原文](https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%BC%E3%83%87%E3%82%A4%E3%82%A2) — 來源分類：Category:魔女
-- [ ] **Etsy witches**（英語，29,122 字元）— [原文](https://en.wikipedia.org/wiki/Etsy_witches) — 來源分類：Category:Witchcraft > Modern witchcraft > Neopagan witchcraft
-- [ ] **Babalon**（英語，29,073 字元）— [原文](https://en.wikipedia.org/wiki/Babalon) — 來源分類：Category:Witchcraft > Incantation > Magic words
-- [ ] **Witch hunts in India**（英語，28,920 字元）— [原文](https://en.wikipedia.org/wiki/Witch_hunts_in_India) — 來源分類：Category:Witchcraft > Witch hunting
-- [ ] **Varahi**（英語，28,413 字元）— [原文](https://en.wikipedia.org/wiki/Varahi) — 來源分類：Category:Witchcraft > Pig-faced women
-- [ ] **Murong Chui**（英語，28,395 字元）— [原文](https://en.wikipedia.org/wiki/Murong_Chui) — 來源分類：Category:Witchcraft > Witch hunting
-- [ ] **Sorcier**（法語，28,390 字元）— [原文](https://fr.wikipedia.org/wiki/Sorcier) — 來源分類：Catégorie:Sorcellerie
-- [ ] **Al-Mi'raj**（英語，28,320 字元）— [原文](https://en.wikipedia.org/wiki/Al-Mi%27raj) — 來源分類：Category:Witchcraft > Asian witchcraft
-- [ ] **Ars Notoria**（英語，27,968 字元）— [原文](https://en.wikipedia.org/wiki/Ars_Notoria) — 來源分類：Category:Witchcraft > Grimoires
-- [ ] **エリクトー**（日語，27,870 字元）— [原文](https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AA%E3%82%AF%E3%83%88%E3%83%BC) — 來源分類：Category:魔女
-- [ ] **Ancient Jewish magic**（英語，27,639 字元）— [原文](https://en.wikipedia.org/wiki/Ancient_Jewish_magic) — 來源分類：Category:Witchcraft > Grimoires > Jewish grimoires
-- [ ] **Anorexia mirabilis**（西班牙語，27,515 字元）— [原文](https://es.wikipedia.org/wiki/Anorexia_mirabilis) — 來源分類：Categoría:Brujería
-- [ ] **Aradia o el evangelio de las brujas**（西班牙語，27,453 字元）— [原文](https://es.wikipedia.org/wiki/Aradia_o_el_evangelio_de_las_brujas) — 來源分類：Categoría:Brujería
-- [ ] **Cruentación**（西班牙語，27,385 字元）— [原文](https://es.wikipedia.org/wiki/Cruentaci%C3%B3n) — 來源分類：Categoría:Brujería > Ordalía
-- [ ] **Picatrix**（英語，27,306 字元）— [原文](https://en.wikipedia.org/wiki/Picatrix) — 來源分類：Category:Witchcraft > Grimoires > Arabic grimoires
-- [ ] **Tolkien's legendarium**（英語，27,276 字元）— [原文](https://en.wikipedia.org/wiki/Tolkien%27s_legendarium) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Middle-earth
-- [ ] **Joseph Smith Hypocephalus**（英語，27,268 字元）— [原文](https://en.wikipedia.org/wiki/Joseph_Smith_Hypocephalus) — 來源分類：Category:Witchcraft > Incantation > Book of the Dead
-- [ ] **Diana**（德語，26,907 字元）— [原文](https://de.wikipedia.org/wiki/Diana) — 來源分類：Kategorie:Hexenverfolgung
-- [ ] **Sabba**（義大利語，26,793 字元）— [原文](https://it.wikipedia.org/wiki/Sabba) — 來源分類：Categoria:Stregoneria
-- [ ] **Robert Cochrane (witch)**（英語，26,752 字元）— [原文](https://en.wikipedia.org/wiki/Robert_Cochrane_%28witch%29) — 來源分類：Category:Witchcraft > Witches
-- [ ] **Datura**（法語，26,675 字元）— [原文](https://fr.wikipedia.org/wiki/Datura) — 來源分類：Catégorie:Sorcellerie > Plante utilisée en sorcellerie
-- [ ] **Hexe bei der Toilette für die Walpurgisnacht**（德語，26,562 字元）— [原文](https://de.wikipedia.org/wiki/Hexe_bei_der_Toilette_f%C3%BCr_die_Walpurgisnacht) — 來源分類：Kategorie:Hexerei > Hexe
-- [ ] **Chen Jiao**（西班牙語，26,456 字元）— [原文](https://es.wikipedia.org/wiki/Chen_Jiao) — 來源分類：Categoría:Brujería
-- [ ] **Homunculus**（英語，26,357 字元）— [原文](https://en.wikipedia.org/wiki/Homunculus) — 來源分類：Category:Witchcraft
-- [ ] **Scopa (strumento)**（義大利語，26,251 字元）— [原文](https://it.wikipedia.org/wiki/Scopa_%28strumento%29) — 來源分類：Categoria:Stregoneria
-- [ ] **Women's International Terrorist Conspiracy from Hell**（英語，26,235 字元）— [原文](https://en.wikipedia.org/wiki/Women%27s_International_Terrorist_Conspiracy_from_Hell) — 來源分類：Category:Witchcraft > American witchcraft
-- [ ] **Ammit**（英語，25,837 字元）— [原文](https://en.wikipedia.org/wiki/Ammit) — 來源分類：Category:Witchcraft > Incantation > Book of the Dead
-- [ ] **Laws against witchcraft**（英語，25,692 字元）— [原文](https://en.wikipedia.org/wiki/Laws_against_witchcraft) — 來源分類：Category:Witchcraft
-- [ ] **Aquelarre**（西班牙語，25,603 字元）— [原文](https://es.wikipedia.org/wiki/Aquelarre) — 來源分類：Categoría:Brujería
-- [ ] **Universität Helmstedt**（德語，25,466 字元）— [原文](https://de.wikipedia.org/wiki/Universit%C3%A4t_Helmstedt) — 來源分類：Kategorie:Hexenverfolgung
-- [ ] **Cotton 2: Magical Night Dreams**（英語，25,386 字元）— [原文](https://en.wikipedia.org/wiki/Cotton_2%3A_Magical_Night_Dreams) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Cotton (series)
-- [ ] **Herta (Honkai: Star Rail)**（英語，24,954 字元）— [原文](https://en.wikipedia.org/wiki/Herta_%28Honkai%3A_Star_Rail%29) — 來源分類：Category:Witchcraft > Witches
-- [ ] **サバト (魔女)**（日語，24,948 字元）— [原文](https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%90%E3%83%88_%28%E9%AD%94%E5%A5%B3%29) — 來源分類：Category:魔女
-- [ ] **Thomas Danforth**（英語，24,447 字元）— [原文](https://en.wikipedia.org/wiki/Thomas_Danforth) — 來源分類：Category:Witchcraft > Witch hunting > Critics of witch hunting
-- [ ] **Witchcraft in the Philippines**（英語，24,264 字元）— [原文](https://en.wikipedia.org/wiki/Witchcraft_in_the_Philippines) — 來源分類：Category:Witchcraft > Asian witchcraft
-- [ ] **Anexo:Episodios de iZombie**（西班牙語，24,224 字元）— [原文](https://es.wikipedia.org/wiki/Anexo%3AEpisodios_de_iZombie) — 來源分類：Categoría:Brujería > Zombis > IZombie
-- [ ] **Killing of Akua Denteh**（英語，24,208 字元）— [原文](https://en.wikipedia.org/wiki/Killing_of_Akua_Denteh) — 來源分類：Category:Witchcraft > Modern witchcraft > Modern witch hunts
-- [ ] **Salvia apiana**（法語，24,185 字元）— [原文](https://fr.wikipedia.org/wiki/Salvia_apiana) — 來源分類：Catégorie:Sorcellerie > Plante utilisée en sorcellerie
-- [ ] **Witchcraft in Latin America**（英語，24,163 字元）— [原文](https://en.wikipedia.org/wiki/Witchcraft_in_Latin_America) — 來源分類：Category:Witchcraft
-- [ ] **Outline of Middle-earth**（英語，23,976 字元）— [原文](https://en.wikipedia.org/wiki/Outline_of_Middle-earth) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Middle-earth
-- [ ] **ケナシコルウナルペ**（日語，23,792 字元）— [原文](https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%8A%E3%82%B7%E3%82%B3%E3%83%AB%E3%82%A6%E3%83%8A%E3%83%AB%E3%83%9A) — 來源分類：Category:魔女 > 山姥やハッグ
-- [ ] **Vecchia Religione**（義大利語，23,692 字元）— [原文](https://it.wikipedia.org/wiki/Vecchia_Religione) — 來源分類：Categoria:Stregoneria
-- [ ] **Nkondi**（英語，23,484 字元）— [原文](https://en.wikipedia.org/wiki/Nkondi) — 來源分類：Category:Witchcraft > African witchcraft
-- [ ] **Witchcraft accusations against children in Africa**（英語，23,448 字元）— [原文](https://en.wikipedia.org/wiki/Witchcraft_accusations_against_children_in_Africa) — 來源分類：Category:Witchcraft > African witchcraft
-- [ ] **Shams al-Ma'arif al-Kubra**（法語，23,314 字元）— [原文](https://fr.wikipedia.org/wiki/Shams_al-Ma%27arif_al-Kubra) — 來源分類：Catégorie:Sorcellerie
-- [ ] **Book of Joseph**（英語，23,005 字元）— [原文](https://en.wikipedia.org/wiki/Book_of_Joseph) — 來源分類：Category:Witchcraft > Incantation > Book of the Dead
-- [ ] **Tulevieja**（西班牙語，22,889 字元）— [原文](https://es.wikipedia.org/wiki/Tulevieja) — 來源分類：Categoría:Brujería > Brujos ficticios > Brujas de Escazú
-- [ ] **Witchcraft in Ghana**（英語，22,865 字元）— [原文](https://en.wikipedia.org/wiki/Witchcraft_in_Ghana) — 來源分類：Category:Witchcraft > Witchcraft by country
-- [ ] **Hartmut Hegeler**（德語，22,851 字元）— [原文](https://de.wikipedia.org/wiki/Hartmut_Hegeler) — 來源分類：Kategorie:Hexenverfolgung > Sachliteratur (Hexenverfolgung)
-- [ ] **Warm Bodies (película)**（西班牙語，22,787 字元）— [原文](https://es.wikipedia.org/wiki/Warm_Bodies_%28pel%C3%ADcula%29) — 來源分類：Categoría:Brujería > Zombis
-- [ ] **Churel**（英語，22,778 字元）— [原文](https://en.wikipedia.org/wiki/Churel) — 來源分類：Category:Witchcraft > Asian witchcraft
-- [ ] **Streghe di Valle Camonica**（義大利語，22,702 字元）— [原文](https://it.wikipedia.org/wiki/Streghe_di_Valle_Camonica) — 來源分類：Categoria:Stregoneria
-- [ ] **Procès en sorcellerie au début des temps modernes**（法語，22,683 字元）— [原文](https://fr.wikipedia.org/wiki/Proc%C3%A8s_en_sorcellerie_au_d%C3%A9but_des_temps_modernes) — 來源分類：Catégorie:Sorcellerie
-- [ ] **The Lesser Key of Solomon**（英語，22,605 字元）— [原文](https://en.wikipedia.org/wiki/The_Lesser_Key_of_Solomon) — 來源分類：Category:Witchcraft > Grimoires > Goetic grimoires
-- [ ] **Ergotism**（英語，22,600 字元）— [原文](https://en.wikipedia.org/wiki/Ergotism) — 來源分類：Category:Witchcraft > American witchcraft
-- [ ] **Gente sabia**（西班牙語，22,521 字元）— [原文](https://es.wikipedia.org/wiki/Gente_sabia) — 來源分類：Categoría:Brujería > Brujería por país
-- [ ] **Allison Balfour**（西班牙語，22,480 字元）— [原文](https://es.wikipedia.org/wiki/Allison_Balfour) — 來源分類：Categoría:Brujería
-- [ ] **Lyndal Roper**（英語，22,409 字元）— [原文](https://en.wikipedia.org/wiki/Lyndal_Roper) — 來源分類：Category:Witchcraft > Historians of witchcraft
-- [ ] **Child sacrifice in Uganda**（英語，22,303 字元）— [原文](https://en.wikipedia.org/wiki/Child_sacrifice_in_Uganda) — 來源分類：Category:Witchcraft > African witchcraft
-- [ ] **ウイッカ**（日語，22,118 字元）— [原文](https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A4%E3%83%83%E3%82%AB) — 來源分類：Category:魔女
-- [ ] **Wei Zifu**（西班牙語，21,823 字元）— [原文](https://es.wikipedia.org/wiki/Wei_Zifu) — 來源分類：Categoría:Brujería
-- [ ] **Sixth and Seventh Books of Moses**（英語，21,795 字元）— [原文](https://en.wikipedia.org/wiki/Sixth_and_Seventh_Books_of_Moses) — 來源分類：Category:Witchcraft > Grimoires
-- [ ] **Gakkō Gurashi!**（西班牙語，21,698 字元）— [原文](https://es.wikipedia.org/wiki/Gakk%C5%8D_Gurashi%21) — 來源分類：Categoría:Brujería > Zombis > Zombis en la historieta
-- [ ] **ライマン・フランク・ボーム**（日語，21,514 字元）— [原文](https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%B3%E3%83%BB%E3%83%95%E3%83%A9%E3%83%B3%E3%82%AF%E3%83%BB%E3%83%9C%E3%83%BC%E3%83%A0) — 來源分類：Category:魔女 > 魔女を題材とした作品 > オズ・シリーズ
-- [ ] **Stregheria**（義大利語，21,340 字元）— [原文](https://it.wikipedia.org/wiki/Stregheria) — 來源分類：Categoria:Stregoneria
-- [ ] **Love magic**（英語，21,334 字元）— [原文](https://en.wikipedia.org/wiki/Love_magic) — 來源分類：Category:Witchcraft
-- [ ] **Leo Igwe**（德語，21,265 字元）— [原文](https://de.wikipedia.org/wiki/Leo_Igwe) — 來源分類：Kategorie:Hexerei > Moderne Hexenverfolgung
-- [ ] **Curse**（英語，21,259 字元）— [原文](https://en.wikipedia.org/wiki/Curse) — 來源分類：Category:Witchcraft
-- [ ] **Rainbow Cotton**（英語，21,231 字元）— [原文](https://en.wikipedia.org/wiki/Rainbow_Cotton) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Cotton (series)
-- [ ] **Posesión demoníaca**（西班牙語，21,230 字元）— [原文](https://es.wikipedia.org/wiki/Posesi%C3%B3n_demon%C3%ADaca) — 來源分類：Categoría:Brujería
-- [ ] **Middle-earth Enterprises**（英語，21,219 字元）— [原文](https://en.wikipedia.org/wiki/Middle-earth_Enterprises) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Middle-earth
-- [ ] **Associated Daughters of Early American Witches**（英語，21,128 字元）— [原文](https://en.wikipedia.org/wiki/Associated_Daughters_of_Early_American_Witches) — 來源分類：Category:Witchcraft > American witchcraft
-- [ ] **Satire VI**（英語，21,083 字元）— [原文](https://en.wikipedia.org/wiki/Satire_VI) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Works about Medea
-- [ ] **Stregoneria italiana**（義大利語，21,039 字元）— [原文](https://it.wikipedia.org/wiki/Stregoneria_italiana) — 來源分類：Categoria:Stregoneria
-- [ ] **Magic and religion**（英語，21,022 字元）— [原文](https://en.wikipedia.org/wiki/Magic_and_religion) — 來源分類：Category:Witchcraft
-- [ ] **Anexo:Zombis en ficción**（西班牙語，20,718 字元）— [原文](https://es.wikipedia.org/wiki/Anexo%3AZombis_en_ficci%C3%B3n) — 來源分類：Categoría:Brujería > Zombis
-- [ ] **Zombie-Loan**（西班牙語，20,582 字元）— [原文](https://es.wikipedia.org/wiki/Zombie-Loan) — 來源分類：Categoría:Brujería > Zombis > Zombis en la historieta
-- [ ] **セイラム魔女裁判**（日語，20,389 字元）— [原文](https://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%A4%E3%83%A9%E3%83%A0%E9%AD%94%E5%A5%B3%E8%A3%81%E5%88%A4) — 來源分類：Category:魔女 > 魔女裁判 > セイラム魔女裁判
-- [ ] **Blocksberg (Flensburg)**（德語，20,381 字元）— [原文](https://de.wikipedia.org/wiki/Blocksberg_%28Flensburg%29) — 來源分類：Kategorie:Hexenverfolgung
-- [ ] **Samson's riddle**（英語，20,275 字元）— [原文](https://en.wikipedia.org/wiki/Samson%27s_riddle) — 來源分類：Category:Witchcraft > Incantation > Magic words
-- [ ] **Hexensabbat**（德語，20,228 字元）— [原文](https://de.wikipedia.org/wiki/Hexensabbat) — 來源分類：Kategorie:Hexenverfolgung
-- [ ] **Thomas Ady**（英語，20,149 字元）— [原文](https://en.wikipedia.org/wiki/Thomas_Ady) — 來源分類：Category:Witchcraft > Witch hunting > Critics of witch hunting
-- [ ] **Marvel Zombies**（西班牙語，20,135 字元）— [原文](https://es.wikipedia.org/wiki/Marvel_Zombies) — 來源分類：Categoría:Brujería > Zombis > Zombis en la historieta
-- [ ] **Cotton 100%**（英語，19,995 字元）— [原文](https://en.wikipedia.org/wiki/Cotton_100%25) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Cotton (series)
-- [ ] **IZombie**（西班牙語，19,893 字元）— [原文](https://es.wikipedia.org/wiki/IZombie) — 來源分類：Categoría:Brujería > Zombis > IZombie
-- [ ] **Greek Magical Papyri**（英語，19,862 字元）— [原文](https://en.wikipedia.org/wiki/Greek_Magical_Papyri) — 來源分類：Category:Witchcraft > Grimoires
-- [ ] **Ergotismus**（德語，19,774 字元）— [原文](https://de.wikipedia.org/wiki/Ergotismus) — 來源分類：Kategorie:Hexenverfolgung
-- [ ] **Magia nera**（義大利語，19,571 字元）— [原文](https://it.wikipedia.org/wiki/Magia_nera) — 來源分類：Categoria:Stregoneria
-- [ ] **Harry Potter: Hogwarts Tournament of Houses**（英語，19,483 字元）— [原文](https://en.wikipedia.org/wiki/Harry_Potter%3A_Hogwarts_Tournament_of_Houses) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Harry Potter
-- [ ] **アグラオニケ**（日語，19,323 字元）— [原文](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B0%E3%83%A9%E3%82%AA%E3%83%8B%E3%82%B1) — 來源分類：Category:魔女
-- [ ] **セイラム魔女裁判の年表**（日語，19,231 字元）— [原文](https://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%A4%E3%83%A9%E3%83%A0%E9%AD%94%E5%A5%B3%E8%A3%81%E5%88%A4%E3%81%AE%E5%B9%B4%E8%A1%A8) — 來源分類：Category:魔女 > 魔女裁判 > セイラム魔女裁判
-- [ ] **The Tribe of Witches**（英語，19,221 字元）— [原文](https://en.wikipedia.org/wiki/The_Tribe_of_Witches) — 來源分類：Category:Witchcraft > Books about witchcraft > History books about witchcraft
-- [ ] **Processo alle streghe di North Berwick**（義大利語，19,167 字元）— [原文](https://it.wikipedia.org/wiki/Processo_alle_streghe_di_North_Berwick) — 來源分類：Categoria:Stregoneria > Processi per stregoneria
-- [ ] **Museum of Witchcraft and Magic**（英語，18,994 字元）— [原文](https://en.wikipedia.org/wiki/Museum_of_Witchcraft_and_Magic) — 來源分類：Category:Witchcraft > Witchcraft museums
-- [ ] **Witches in popular culture**（英語，18,867 字元）— [原文](https://en.wikipedia.org/wiki/Witches_in_popular_culture) — 來源分類：Category:Witchcraft > Witches
-- [ ] **Megatokyo**（西班牙語，18,837 字元）— [原文](https://es.wikipedia.org/wiki/Megatokyo) — 來源分類：Categoría:Brujería > Zombis > Zombis en la historieta
-- [ ] **Religion in Papua-Neuguinea**（德語，18,822 字元）— [原文](https://de.wikipedia.org/wiki/Religion_in_Papua-Neuguinea) — 來源分類：Kategorie:Hexerei > Moderne Hexenverfolgung
-- [ ] **Book of Shadows**（英語，18,693 字元）— [原文](https://en.wikipedia.org/wiki/Book_of_Shadows) — 來源分類：Category:Witchcraft > Grimoires
-- [ ] **Reginald Scot**（英語，18,521 字元）— [原文](https://en.wikipedia.org/wiki/Reginald_Scot) — 來源分類：Category:Witchcraft > Witch hunting > Critics of witch hunting
-- [ ] **Cleverman**（英語，18,493 字元）— [原文](https://en.wikipedia.org/wiki/Cleverman) — 來源分類：Category:Witchcraft
-- [ ] **Understanding The Lord of the Rings**（英語，18,475 字元）— [原文](https://en.wikipedia.org/wiki/Understanding_The_Lord_of_the_Rings) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Middle-earth
-- [ ] **John Zatara**（西班牙語，18,438 字元）— [原文](https://es.wikipedia.org/wiki/John_Zatara) — 來源分類：Categoría:Brujería > Brujos ficticios > Zatanna
-- [ ] **The Archaeology of Ritual and Magic**（英語，18,360 字元）— [原文](https://en.wikipedia.org/wiki/The_Archaeology_of_Ritual_and_Magic) — 來源分類：Category:Witchcraft > Books about witchcraft > History books about witchcraft
-- [ ] **Jannes and Jambres**（英語，18,278 字元）— [原文](https://en.wikipedia.org/wiki/Jannes_and_Jambres) — 來源分類：Category:Witchcraft > Judaism and witchcraft
-- [ ] **Huibin Jang**（英語，18,274 字元）— [原文](https://en.wikipedia.org/wiki/Huibin_Jang) — 來源分類：Category:Witchcraft > Asian witchcraft
-- [ ] **Witch hunts in Papua New Guinea**（英語，18,217 字元）— [原文](https://en.wikipedia.org/wiki/Witch_hunts_in_Papua_New_Guinea) — 來源分類：Category:Witchcraft > Witch hunting
-- [ ] **Hexensalbe**（德語，18,208 字元）— [原文](https://de.wikipedia.org/wiki/Hexensalbe) — 來源分類：Kategorie:Hexenverfolgung
-- [ ] **Yamauba**（德語，18,099 字元）— [原文](https://de.wikipedia.org/wiki/Yamauba) — 來源分類：Kategorie:Hexerei > Hexe
-- [ ] **Sankarea**（西班牙語，18,073 字元）— [原文](https://es.wikipedia.org/wiki/Sankarea) — 來源分類：Categoría:Brujería > Zombis > Zombis en la historieta
-- [ ] **Alonso de Salazar Frías**（英語，17,997 字元）— [原文](https://en.wikipedia.org/wiki/Alonso_de_Salazar_Fr%C3%ADas) — 來源分類：Category:Witchcraft > Witch hunting > Critics of witch hunting
-- [ ] **Voodoo in popular culture**（英語，17,990 字元）— [原文](https://en.wikipedia.org/wiki/Voodoo_in_popular_culture) — 來源分類：Category:Witchcraft > African witchcraft > Voodoo
-- [ ] **Alu (runic)**（英語，17,930 字元）— [原文](https://en.wikipedia.org/wiki/Alu_%28runic%29) — 來源分類：Category:Witchcraft > Incantation > Magic words
-- [ ] **Mpumalanga Witchcraft Suppression Bill**（英語，17,876 字元）— [原文](https://en.wikipedia.org/wiki/Mpumalanga_Witchcraft_Suppression_Bill) — 來源分類：Category:Witchcraft > African witchcraft
-- [ ] **Witchcraft accusations against children**（英語，17,799 字元）— [原文](https://en.wikipedia.org/wiki/Witchcraft_accusations_against_children) — 來源分類：Category:Witchcraft > Witch hunting
-- [ ] **Medjed**（英語，17,746 字元）— [原文](https://en.wikipedia.org/wiki/Medjed) — 來源分類：Category:Witchcraft > Incantation > Book of the Dead
-- [ ] **Joseph Glanvill**（英語，17,605 字元）— [原文](https://en.wikipedia.org/wiki/Joseph_Glanvill) — 來源分類：Category:Witchcraft > Witch hunting > Supporters of witch hunting
-- [ ] **カニングフォーク**（日語，17,503 字元）— [原文](https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AF) — 來源分類：Category:魔女
-- [ ] **Book of Shadows (Charmed)**（英語，17,486 字元）— [原文](https://en.wikipedia.org/wiki/Book_of_Shadows_%28Charmed%29) — 來源分類：Category:Witchcraft > Grimoires > Fictional grimoires
-- [ ] **Stephen Nissenbaum**（德語，17,413 字元）— [原文](https://de.wikipedia.org/wiki/Stephen_Nissenbaum) — 來源分類：Kategorie:Hexenverfolgung > Sachliteratur (Hexenverfolgung)
-- [ ] **Jasper Sitwell**（西班牙語，17,272 字元）— [原文](https://es.wikipedia.org/wiki/Jasper_Sitwell) — 來源分類：Categoría:Brujería > Zombis > Zombis en la historieta
-- [ ] **The Alchemyst: The Secrets of the Immortal Nicholas Flamel**（英語，17,188 字元）— [原文](https://en.wikipedia.org/wiki/The_Alchemyst%3A_The_Secrets_of_the_Immortal_Nicholas_Flamel) — 來源分類：Category:Witchcraft > Judaism and witchcraft > Witch of Endor
-- [ ] **Joseph Hansen (historian)**（英語，17,087 字元）— [原文](https://en.wikipedia.org/wiki/Joseph_Hansen_%28historian%29) — 來源分類：Category:Witchcraft > Historians of witchcraft
-- [ ] **Lexa Roséan**（德語，16,992 字元）— [原文](https://de.wikipedia.org/wiki/Lexa_Ros%C3%A9an) — 來源分類：Kategorie:Hexerei > Hexe
-- [ ] **Harry Potter: A History of Magic**（英語，16,955 字元）— [原文](https://en.wikipedia.org/wiki/Harry_Potter%3A_A_History_of_Magic) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Harry Potter
-- [ ] **狼男裁判**（日語，16,897 字元）— [原文](https://ja.wikipedia.org/wiki/%E7%8B%BC%E7%94%B7%E8%A3%81%E5%88%A4) — 來源分類：Category:魔女 > 魔女裁判
-- [ ] **Libro detto strega o delle illusioni del demonio**（義大利語，16,824 字元）— [原文](https://it.wikipedia.org/wiki/Libro_detto_strega_o_delle_illusioni_del_demonio) — 來源分類：Categoria:Stregoneria
-- [ ] **Galder (incantation)**（英語，16,769 字元）— [原文](https://en.wikipedia.org/wiki/Galder_%28incantation%29) — 來源分類：Category:Witchcraft > Incantation
-- [ ] **Kitāb al-nawāmīs**（英語，16,768 字元）— [原文](https://en.wikipedia.org/wiki/Kit%C4%81b_al-naw%C4%81m%C4%ABs) — 來源分類：Category:Witchcraft > Grimoires > Arabic grimoires
-- [ ] **Anexo:Brujas en ficción**（西班牙語，16,747 字元）— [原文](https://es.wikipedia.org/wiki/Anexo%3ABrujas_en_ficci%C3%B3n) — 來源分類：Categoría:Brujería
-- [ ] **Wilhelm Gottlieb Soldan**（德語，16,577 字元）— [原文](https://de.wikipedia.org/wiki/Wilhelm_Gottlieb_Soldan) — 來源分類：Kategorie:Hexenverfolgung > Sachliteratur (Hexenverfolgung)
-- [ ] **Baba Jaga**（德語，16,419 字元）— [原文](https://de.wikipedia.org/wiki/Baba_Jaga) — 來源分類：Kategorie:Hexerei > Hexe
-- [ ] **Stregoneria tradizionale**（義大利語，16,358 字元）— [原文](https://it.wikipedia.org/wiki/Stregoneria_tradizionale) — 來源分類：Categoria:Stregoneria
-- [ ] **Giftaffäre**（德語，16,327 字元）— [原文](https://de.wikipedia.org/wiki/Giftaff%C3%A4re) — 來源分類：Kategorie:Hexenverfolgung
-- [ ] **Ordalía**（西班牙語，16,257 字元）— [原文](https://es.wikipedia.org/wiki/Ordal%C3%ADa) — 來源分類：Categoría:Brujería > Ordalía
-- [ ] **Thomas Brattle**（英語，16,160 字元）— [原文](https://en.wikipedia.org/wiki/Thomas_Brattle) — 來源分類：Category:Witchcraft > Witch hunting > Critics of witch hunting
-- [ ] **The Book of Abramelin**（英語，16,134 字元）— [原文](https://en.wikipedia.org/wiki/The_Book_of_Abramelin) — 來源分類：Category:Witchcraft > Grimoires > Goetic grimoires
-- [ ] **Die kleine Hexe**（德語，15,766 字元）— [原文](https://de.wikipedia.org/wiki/Die_kleine_Hexe) — 來源分類：Kategorie:Hexerei > Hexe > Fiktive Hexe
-- [ ] **Letters on Demonology and Witchcraft**（英語，15,753 字元）— [原文](https://en.wikipedia.org/wiki/Letters_on_Demonology_and_Witchcraft) — 來源分類：Category:Witchcraft > Books about witchcraft
-- [ ] **Jiji ru lüling**（英語，15,738 字元）— [原文](https://en.wikipedia.org/wiki/Jiji_ru_l%C3%BCling) — 來源分類：Category:Witchcraft > Incantation
-- [ ] **2017 hair and braid chopping incidents in India**（英語，15,714 字元）— [原文](https://en.wikipedia.org/wiki/2017_hair_and_braid_chopping_incidents_in_India) — 來源分類：Category:Witchcraft > Modern witchcraft > Modern witch hunts
-- [ ] **Schadenzauber**（德語，15,708 字元）— [原文](https://de.wikipedia.org/wiki/Schadenzauber) — 來源分類：Kategorie:Hexenverfolgung
-- [ ] **Kurdaitcha**（西班牙語，15,651 字元）— [原文](https://es.wikipedia.org/wiki/Kurdaitcha) — 來源分類：Categoría:Brujería
-- [ ] **Black magic**（英語，15,618 字元）— [原文](https://en.wikipedia.org/wiki/Black_magic) — 來源分類：Category:Witchcraft
-- [ ] **Beller Markt**（德語，15,510 字元）— [原文](https://de.wikipedia.org/wiki/Beller_Markt) — 來源分類：Kategorie:Hexenverfolgung
-- [ ] **Penelope (2006 film)**（英語，15,429 字元）— [原文](https://en.wikipedia.org/wiki/Penelope_%282006_film%29) — 來源分類：Category:Witchcraft > Pig-faced women
-- [ ] **Ducking stool**（英語，15,395 字元）— [原文](https://en.wikipedia.org/wiki/Ducking_stool) — 來源分類：Category:Witchcraft > Witch hunting > Early Modern witch hunts
-- [ ] **Fulu**（英語，15,391 字元）— [原文](https://en.wikipedia.org/wiki/Fulu) — 來源分類：Category:Witchcraft > Incantation
-- [ ] **Key of Solomon**（英語，15,284 字元）— [原文](https://en.wikipedia.org/wiki/Key_of_Solomon) — 來源分類：Category:Witchcraft > Grimoires > Goetic grimoires
-- [ ] **Mithras Liturgy**（英語，15,279 字元）— [原文](https://en.wikipedia.org/wiki/Mithras_Liturgy) — 來源分類：Category:Witchcraft > Incantation > Magic words
-- [ ] **Grand Albert**（英語，15,245 字元）— [原文](https://en.wikipedia.org/wiki/Grand_Albert) — 來源分類：Category:Witchcraft > Grimoires > Goetic grimoires
-- [ ] **ヴァルプルギスの夜**（日語，15,195 字元）— [原文](https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A1%E3%83%AB%E3%83%97%E3%83%AB%E3%82%AE%E3%82%B9%E3%81%AE%E5%A4%9C) — 來源分類：Category:魔女
-- [ ] **María de Illarra**（西班牙語，15,150 字元）— [原文](https://es.wikipedia.org/wiki/Mar%C3%ADa_de_Illarra) — 來源分類：Categoría:Brujería
-- [ ] **Assessors of Maat**（英語，15,148 字元）— [原文](https://en.wikipedia.org/wiki/Assessors_of_Maat) — 來源分類：Category:Witchcraft > Incantation > Book of the Dead
-- [ ] **Agape**（英語，15,140 字元）— [原文](https://en.wikipedia.org/wiki/Agape) — 來源分類：Category:Witchcraft > Incantation > Magic words
-- [ ] **Raven Grimassi**（英語，15,112 字元）— [原文](https://en.wikipedia.org/wiki/Raven_Grimassi) — 來源分類：Category:Witchcraft > Witches
-- [ ] **Géraldine Tobé Mutamande**（法語，15,103 字元）— [原文](https://fr.wikipedia.org/wiki/G%C3%A9raldine_Tob%C3%A9_Mutamande) — 來源分類：Catégorie:Sorcellerie > Enfant sorcier
-- [ ] **Magical formula**（英語，15,088 字元）— [原文](https://en.wikipedia.org/wiki/Magical_formula) — 來源分類：Category:Witchcraft > Incantation > Magic words
-- [ ] **Witchcraft in ancient Greece and Rome**（英語，15,067 字元）— [原文](https://en.wikipedia.org/wiki/Witchcraft_in_ancient_Greece_and_Rome) — 來源分類：Category:Witchcraft
-- [ ] **Makonde witchcraft and sorcery**（英語，15,063 字元）— [原文](https://en.wikipedia.org/wiki/Makonde_witchcraft_and_sorcery) — 來源分類：Category:Witchcraft > African witchcraft
-- [ ] **Kurdaitcha**（英語，15,059 字元）— [原文](https://en.wikipedia.org/wiki/Kurdaitcha) — 來源分類：Category:Witchcraft
-- [ ] **Angela Spook**（德語，15,005 字元）— [原文](https://de.wikipedia.org/wiki/Angela_Spook) — 來源分類：Kategorie:Hexerei > Hexe
-- [ ] **Spirit children**（英語，14,804 字元）— [原文](https://en.wikipedia.org/wiki/Spirit_children) — 來源分類：Category:Witchcraft > African witchcraft
-- [ ] **Rond de sorcières**（法語，14,618 字元）— [原文](https://fr.wikipedia.org/wiki/Rond_de_sorci%C3%A8res) — 來源分類：Catégorie:Sorcellerie
-- [ ] **Sidonia von Borcke**（法語，14,553 字元）— [原文](https://fr.wikipedia.org/wiki/Sidonia_von_Borcke) — 來源分類：Catégorie:Sorcellerie
-- [ ] **A Man Was Going Down the Road**（英語，14,529 字元）— [原文](https://en.wikipedia.org/wiki/A_Man_Was_Going_Down_the_Road) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Works about Medea
-- [ ] **Azande witchcraft**（英語，14,510 字元）— [原文](https://en.wikipedia.org/wiki/Azande_witchcraft) — 來源分類：Category:Witchcraft > African witchcraft
-- [ ] **Donas de fuera**（義大利語，14,494 字元）— [原文](https://it.wikipedia.org/wiki/Donas_de_fuera) — 來源分類：Categoria:Stregoneria
-- [ ] **Espíritu familiar**（西班牙語，14,456 字元）— [原文](https://es.wikipedia.org/wiki/Esp%C3%ADritu_familiar) — 來源分類：Categoría:Brujería
-- [ ] **Rise of the Argonauts**（英語，14,428 字元）— [原文](https://en.wikipedia.org/wiki/Rise_of_the_Argonauts) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Works about Medea
-- [ ] **Sybil Leek**（英語，14,363 字元）— [原文](https://en.wikipedia.org/wiki/Sybil_Leek) — 來源分類：Category:Witchcraft > American witchcraft
-- [ ] **Petit Albert**（英語，14,359 字元）— [原文](https://en.wikipedia.org/wiki/Petit_Albert) — 來源分類：Category:Witchcraft > Grimoires
-- [ ] **Brujería en Ghana**（西班牙語，14,310 字元）— [原文](https://es.wikipedia.org/wiki/Brujer%C3%ADa_en_Ghana) — 來源分類：Categoría:Brujería
-- [ ] **Pam Grossman**（英語，14,304 字元）— [原文](https://en.wikipedia.org/wiki/Pam_Grossman) — 來源分類：Category:Witchcraft
-- [ ] **Zombie (cómic)**（西班牙語，14,304 字元）— [原文](https://es.wikipedia.org/wiki/Zombie_%28c%C3%B3mic%29) — 來源分類：Categoría:Brujería > Zombis > Zombis en la historieta
-- [ ] **Phyllis Curott**（德語，14,288 字元）— [原文](https://de.wikipedia.org/wiki/Phyllis_Curott) — 來源分類：Kategorie:Hexerei > Hexe
-- [ ] **Hexenkartothek**（德語，14,244 字元）— [原文](https://de.wikipedia.org/wiki/Hexenkartothek) — 來源分類：Kategorie:Hexenverfolgung
-- [ ] **Stregheria**（英語，14,241 字元）— [原文](https://en.wikipedia.org/wiki/Stregheria) — 來源分類：Category:Witchcraft > American witchcraft
-- [ ] **Nicholas Eymerich**（英語，14,241 字元）— [原文](https://en.wikipedia.org/wiki/Nicholas_Eymerich) — 來源分類：Category:Witchcraft > Witch hunting > Supporters of witch hunting
-- [ ] **Michael Bear Carson and Suzan Carson**（英語，14,226 字元）— [原文](https://en.wikipedia.org/wiki/Michael_Bear_Carson_and_Suzan_Carson) — 來源分類：Category:Witchcraft > Modern witchcraft > Modern witch hunts
-- [ ] **懲罰椅子**（日語，14,175 字元）— [原文](https://ja.wikipedia.org/wiki/%E6%87%B2%E7%BD%B0%E6%A4%85%E5%AD%90) — 來源分類：Category:魔女
-- [ ] **Malcolm Gaskill**（英語，14,174 字元）— [原文](https://en.wikipedia.org/wiki/Malcolm_Gaskill) — 來源分類：Category:Witchcraft > Historians of witchcraft
-- [ ] **Nick Perumov**（英語，14,053 字元）— [原文](https://en.wikipedia.org/wiki/Nick_Perumov) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Middle-earth
-- [ ] **竜王と賢女ワシリーサ**（日語，14,046 字元）— [原文](https://ja.wikipedia.org/wiki/%E7%AB%9C%E7%8E%8B%E3%81%A8%E8%B3%A2%E5%A5%B3%E3%83%AF%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%B5) — 來源分類：Category:魔女 > バーバ・ヤーガ
-- [ ] **Liber Officiorum Spirituum**（英語，14,011 字元）— [原文](https://en.wikipedia.org/wiki/Liber_Officiorum_Spirituum) — 來源分類：Category:Witchcraft > Grimoires > Goetic grimoires
-- [ ] **1 Samuel 28**（英語，13,999 字元）— [原文](https://en.wikipedia.org/wiki/1_Samuel_28) — 來源分類：Category:Witchcraft > Judaism and witchcraft > Witch of Endor
-- [ ] **Wið færstice**（英語，13,853 字元）— [原文](https://en.wikipedia.org/wiki/Wi%C3%B0_f%C3%A6rstice) — 來源分類：Category:Witchcraft > Incantation > Anglo-Saxon metrical charms
-- [ ] **Tangena**（西班牙語，13,730 字元）— [原文](https://es.wikipedia.org/wiki/Tangena) — 來源分類：Categoría:Brujería > Ordalía
-- [ ] **Noce di Benevento**（義大利語，13,649 字元）— [原文](https://it.wikipedia.org/wiki/Noce_di_Benevento) — 來源分類：Categoria:Stregoneria
-- [ ] **Jahbulon**（英語，13,645 字元）— [原文](https://en.wikipedia.org/wiki/Jahbulon) — 來源分類：Category:Witchcraft > Incantation > Magic words
-- [ ] **Marca de bruja**（西班牙語，13,510 字元）— [原文](https://es.wikipedia.org/wiki/Marca_de_bruja) — 來源分類：Categoría:Brujería
-- [ ] **Liber Pennae Praenumbra**（英語，13,427 字元）— [原文](https://en.wikipedia.org/wiki/Liber_Pennae_Praenumbra) — 來源分類：Category:Witchcraft > Incantation > Magic words
-- [ ] **Witch paddle**（英語，13,400 字元）— [原文](https://en.wikipedia.org/wiki/Witch_paddle) — 來源分類：Category:Witchcraft > Witches
-- [ ] **Stregheria**（西班牙語，13,385 字元）— [原文](https://es.wikipedia.org/wiki/Stregheria) — 來源分類：Categoría:Brujería
-- [ ] **MinaLima**（英語，13,366 字元）— [原文](https://en.wikipedia.org/wiki/MinaLima) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Harry Potter
-- [ ] **Paula de Eguiluz**（英語，13,272 字元）— [原文](https://en.wikipedia.org/wiki/Paula_de_Eguiluz) — 來源分類：Category:Witchcraft > American witchcraft
-- [ ] **Gespickter Hase**（德語，13,252 字元）— [原文](https://de.wikipedia.org/wiki/Gespickter_Hase) — 來源分類：Kategorie:Hexenverfolgung
-- [ ] **Wolfgang Behringer**（法語，13,235 字元）— [原文](https://fr.wikipedia.org/wiki/Wolfgang_Behringer) — 來源分類：Catégorie:Sorcellerie > Procès de sorcellerie
-- [ ] **メアリー・マーガレット・ブランチャード**（日語，13,209 字元）— [原文](https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%9E%E3%83%BC%E3%82%AC%E3%83%AC%E3%83%83%E3%83%88%E3%83%BB%E3%83%96%E3%83%A9%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC%E3%83%89) — 來源分類：Category:魔女 > 魔女を題材とした作品 > 白雪姫
-- [ ] **Dewi Danu**（義大利語，13,121 字元）— [原文](https://it.wikipedia.org/wiki/Dewi_Danu) — 來源分類：Categoria:Stregoneria
-- [ ] **Panorama Cotton**（英語，13,112 字元）— [原文](https://en.wikipedia.org/wiki/Panorama_Cotton) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Cotton (series)
-- [ ] **Incantation**（英語，13,054 字元）— [原文](https://en.wikipedia.org/wiki/Incantation) — 來源分類：Category:Witchcraft
-- [ ] **1 Samuel 28**（西班牙語，12,837 字元）— [原文](https://es.wikipedia.org/wiki/1_Samuel_28) — 來源分類：Categoría:Brujería > Bruja de Endor
-- [ ] **Ndau witchcraft and sorcery**（英語，12,773 字元）— [原文](https://en.wikipedia.org/wiki/Ndau_witchcraft_and_sorcery) — 來源分類：Category:Witchcraft > African witchcraft
-- [ ] **Errores Gazariorum**（德語，12,756 字元）— [原文](https://de.wikipedia.org/wiki/Errores_Gazariorum) — 來源分類：Kategorie:Hexenverfolgung
-- [ ] **Outline of Harry Potter**（英語，12,726 字元）— [原文](https://en.wikipedia.org/wiki/Outline_of_Harry_Potter) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Harry Potter
-- [ ] **Sefer Raziel HaMalakh**（英語，12,674 字元）— [原文](https://en.wikipedia.org/wiki/Sefer_Raziel_HaMalakh) — 來源分類：Category:Witchcraft > Grimoires > Jewish grimoires
-- [ ] **Helen Ukpabio**（英語，12,617 字元）— [原文](https://en.wikipedia.org/wiki/Helen_Ukpabio) — 來源分類：Category:Witchcraft > African witchcraft
-- [ ] **Birubala Rabha**（英語，12,586 字元）— [原文](https://en.wikipedia.org/wiki/Birubala_Rabha) — 來源分類：Category:Witchcraft > Witch hunting > Critics of witch hunting
-- [ ] **Shams al-Ma'arif**（英語，12,557 字元）— [原文](https://en.wikipedia.org/wiki/Shams_al-Ma%27arif) — 來源分類：Category:Witchcraft > Grimoires > Arabic grimoires
-- [ ] **Sorcières de Triora**（法語，12,529 字元）— [原文](https://fr.wikipedia.org/wiki/Sorci%C3%A8res_de_Triora) — 來源分類：Catégorie:Sorcellerie > Procès de sorcellerie
-- [ ] **Spearfinger**（英語，12,492 字元）— [原文](https://en.wikipedia.org/wiki/Spearfinger) — 來源分類：Category:Witchcraft > American witchcraft
-- [ ] **Between the Living and the Dead**（英語，12,486 字元）— [原文](https://en.wikipedia.org/wiki/Between_the_Living_and_the_Dead) — 來源分類：Category:Witchcraft > Books about witchcraft
-- [ ] **Gris-gris (talisman)**（英語，12,462 字元）— [原文](https://en.wikipedia.org/wiki/Gris-gris_%28talisman%29) — 來源分類：Category:Witchcraft > African witchcraft > Voodoo
-- [ ] **Frauenbrunnen (Geistthal)**（德語，12,458 字元）— [原文](https://de.wikipedia.org/wiki/Frauenbrunnen_%28Geistthal%29) — 來源分類：Kategorie:Hexenverfolgung
-- [ ] **Pacte avec le Diable**（法語，12,332 字元）— [原文](https://fr.wikipedia.org/wiki/Pacte_avec_le_Diable) — 來源分類：Catégorie:Sorcellerie
-- [ ] **Shaman of Oberstdorf**（英語，12,331 字元）— [原文](https://en.wikipedia.org/wiki/Shaman_of_Oberstdorf) — 來源分類：Category:Witchcraft > Books about witchcraft > History books about witchcraft
-- [ ] **Freedom of religion in the Central African Republic**（英語，12,317 字元）— [原文](https://en.wikipedia.org/wiki/Freedom_of_religion_in_the_Central_African_Republic) — 來源分類：Category:Witchcraft > African witchcraft
-- [ ] **Arbatel de magia veterum**（英語，12,240 字元）— [原文](https://en.wikipedia.org/wiki/Arbatel_de_magia_veterum) — 來源分類：Category:Witchcraft > Grimoires
-- [ ] **Le Roi David**（英語，12,228 字元）— [原文](https://en.wikipedia.org/wiki/Le_Roi_David) — 來源分類：Category:Witchcraft > Judaism and witchcraft > Witch of Endor
-- [ ] **Hexenverfolgung in Basel**（德語，12,214 字元）— [原文](https://de.wikipedia.org/wiki/Hexenverfolgung_in_Basel) — 來源分類：Kategorie:Hexenverfolgung
-- [ ] **Howard Williams (humanitarian)**（英語，12,173 字元）— [原文](https://en.wikipedia.org/wiki/Howard_Williams_%28humanitarian%29) — 來源分類：Category:Witchcraft > Historians of witchcraft
-- [ ] **Blair Witch Volume III: The Elly Kedward Tale**（英語，12,123 字元）— [原文](https://en.wikipedia.org/wiki/Blair_Witch_Volume_III%3A_The_Elly_Kedward_Tale) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Blair Witch
-- [ ] **Moina Mathers**（德語，12,065 字元）— [原文](https://de.wikipedia.org/wiki/Moina_Mathers) — 來源分類：Kategorie:Hexerei > Hexe
-- [ ] **Witch camp**（英語，11,985 字元）— [原文](https://en.wikipedia.org/wiki/Witch_camp) — 來源分類：Category:Witchcraft > African witchcraft
-- [ ] **Walter Hauser (Schriftsteller)**（德語，11,967 字元）— [原文](https://de.wikipedia.org/wiki/Walter_Hauser_%28Schriftsteller%29) — 來源分類：Kategorie:Hexenverfolgung > Sachliteratur (Hexenverfolgung)
-- [ ] **Magical Treatise of Solomon**（英語，11,945 字元）— [原文](https://en.wikipedia.org/wiki/Magical_Treatise_of_Solomon) — 來源分類：Category:Witchcraft > Grimoires > Goetic grimoires
-- [ ] **Los sueños en la casa de la bruja**（西班牙語，11,856 字元）— [原文](https://es.wikipedia.org/wiki/Los_sue%C3%B1os_en_la_casa_de_la_bruja) — 來源分類：Categoría:Brujería
-- [ ] **Possession of Elizabeth Knapp**（英語，11,818 字元）— [原文](https://en.wikipedia.org/wiki/Possession_of_Elizabeth_Knapp) — 來源分類：Category:Witchcraft > American witchcraft
-- [ ] **Salem Witch Museum**（英語，11,791 字元）— [原文](https://en.wikipedia.org/wiki/Salem_Witch_Museum) — 來源分類：Category:Witchcraft > Witchcraft museums
-- [ ] **Anglo-Saxon Amulets and Curing Stones**（英語，11,782 字元）— [原文](https://en.wikipedia.org/wiki/Anglo-Saxon_Amulets_and_Curing_Stones) — 來源分類：Category:Witchcraft > Books about witchcraft > History books about witchcraft
-- [ ] **ランド・オブ・オズ**（日語，11,782 字元）— [原文](https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%B3%E3%83%89%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%82%AA%E3%82%BA) — 來源分類：Category:魔女 > 魔女を題材とした作品 > オズ・シリーズ
-- [ ] **黒猫**（日語，11,780 字元）— [原文](https://ja.wikipedia.org/wiki/%E9%BB%92%E7%8C%AB) — 來源分類：Category:魔女
-- [ ] **Geology of Middle-earth**（英語，11,676 字元）— [原文](https://en.wikipedia.org/wiki/Geology_of_Middle-earth) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Middle-earth
-- [ ] **白雪姫と七人のこびと**（日語，11,666 字元）— [原文](https://ja.wikipedia.org/wiki/%E7%99%BD%E9%9B%AA%E5%A7%AB%E3%81%A8%E4%B8%83%E4%BA%BA%E3%81%AE%E3%81%93%E3%81%B3%E3%81%A8) — 來源分類：Category:魔女 > 魔女を題材とした作品 > 白雪姫
-- [ ] **Médico brujo**（西班牙語，11,627 字元）— [原文](https://es.wikipedia.org/wiki/M%C3%A9dico_brujo) — 來源分類：Categoría:Brujería
-- [ ] **Sanghyang**（義大利語，11,532 字元）— [原文](https://it.wikipedia.org/wiki/Sanghyang) — 來源分類：Categoria:Stregoneria
-- [ ] **Nagual**（英語，11,506 字元）— [原文](https://en.wikipedia.org/wiki/Nagual) — 來源分類：Category:Witchcraft > American witchcraft
-- [ ] **Errores Gazariorum**（西班牙語，11,505 字元）— [原文](https://es.wikipedia.org/wiki/Errores_Gazariorum) — 來源分類：Categoría:Brujería
-- [ ] **Pratique du secret**（法語，11,413 字元）— [原文](https://fr.wikipedia.org/wiki/Pratique_du_secret) — 來源分類：Catégorie:Sorcellerie
-- [ ] **The Discoverie of Witchcraft**（英語，11,410 字元）— [原文](https://en.wikipedia.org/wiki/The_Discoverie_of_Witchcraft) — 來源分類：Category:Witchcraft > Witchcraft treatises
-- [ ] **Abracadabra**（英語，11,406 字元）— [原文](https://en.wikipedia.org/wiki/Abracadabra) — 來源分類：Category:Witchcraft > Incantation
-- [ ] **スカイクラッド (ネオペイガニズム)**（日語，11,400 字元）— [原文](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%AB%E3%82%A4%E3%82%AF%E3%83%A9%E3%83%83%E3%83%89_%28%E3%83%8D%E3%82%AA%E3%83%9A%E3%82%A4%E3%82%AC%E3%83%8B%E3%82%BA%E3%83%A0%29) — 來源分類：Category:魔女
-- [ ] **Thomas Hauschild**（德語，11,386 字元）— [原文](https://de.wikipedia.org/wiki/Thomas_Hauschild) — 來源分類：Kategorie:Hexenverfolgung > Sachliteratur (Hexenverfolgung)
-- [ ] **Hexenexperiment**（德語，11,302 字元）— [原文](https://de.wikipedia.org/wiki/Hexenexperiment) — 來源分類：Kategorie:Hexerei
-- [ ] **Cofradía de brujas**（西班牙語，11,231 字元）— [原文](https://es.wikipedia.org/wiki/Cofrad%C3%ADa_de_brujas) — 來源分類：Categoría:Brujería
-- [ ] **Freedom of religion in Cameroon**（英語，11,203 字元）— [原文](https://en.wikipedia.org/wiki/Freedom_of_religion_in_Cameroon) — 來源分類：Category:Witchcraft > African witchcraft
-- [ ] **Noisetier**（法語，11,194 字元）— [原文](https://fr.wikipedia.org/wiki/Noisetier) — 來源分類：Catégorie:Sorcellerie > Plante utilisée en sorcellerie
-- [ ] **La toison d'or (opera)**（英語，11,174 字元）— [原文](https://en.wikipedia.org/wiki/La_toison_d%27or_%28opera%29) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Works about Medea
-- [ ] **Anja Ringgren Lovén**（英語，11,145 字元）— [原文](https://en.wikipedia.org/wiki/Anja_Ringgren_Lov%C3%A9n) — 來源分類：Category:Witchcraft > Modern witchcraft > Modern witch hunts
-- [ ] **Klaus Graf (Historiker)**（德語，11,142 字元）— [原文](https://de.wikipedia.org/wiki/Klaus_Graf_%28Historiker%29) — 來源分類：Kategorie:Hexenverfolgung > Sachliteratur (Hexenverfolgung)
-- [ ] **魔女 (ハンドル)**（日語，11,129 字元）— [原文](https://ja.wikipedia.org/wiki/%E9%AD%94%E5%A5%B3_%28%E3%83%8F%E3%83%B3%E3%83%89%E3%83%AB%29) — 來源分類：Category:魔女
-- [ ] **Ursula Vaupel**（德語，11,117 字元）— [原文](https://de.wikipedia.org/wiki/Ursula_Vaupel) — 來源分類：Kategorie:Hexenverfolgung > Sachliteratur (Hexenverfolgung)
-- [ ] **Enfant sorcier**（法語，11,112 字元）— [原文](https://fr.wikipedia.org/wiki/Enfant_sorcier) — 來源分類：Catégorie:Sorcellerie > Enfant sorcier
-- [ ] **Fatima Khatun**（法語，11,108 字元）— [原文](https://fr.wikipedia.org/wiki/Fatima_Khatun) — 來源分類：Catégorie:Sorcellerie > Procès de sorcellerie > Personnalité condamnée pour sorcellerie
-- [ ] **Witch (word)**（英語，11,055 字元）— [原文](https://en.wikipedia.org/wiki/Witch_%28word%29) — 來源分類：Category:Witchcraft > Witches
-- [ ] **The Witch House**（英語，11,046 字元）— [原文](https://en.wikipedia.org/wiki/The_Witch_House) — 來源分類：Category:Witchcraft > Witchcraft museums
-- [ ] **Monastère d'Unterzell**（法語，11,042 字元）— [原文](https://fr.wikipedia.org/wiki/Monast%C3%A8re_d%27Unterzell) — 來源分類：Catégorie:Sorcellerie
-- [ ] **Blair Witch Volume I: Rustin Parr**（英語，11,018 字元）— [原文](https://en.wikipedia.org/wiki/Blair_Witch_Volume_I%3A_Rustin_Parr) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Blair Witch
-- [ ] **Mahendradatta**（義大利語，10,976 字元）— [原文](https://it.wikipedia.org/wiki/Mahendradatta) — 來源分類：Categoria:Stregoneria
-- [ ] **Wasserprobe (Recht)**（德語，10,930 字元）— [原文](https://de.wikipedia.org/wiki/Wasserprobe_%28Recht%29) — 來源分類：Kategorie:Hexenverfolgung
-- [ ] **Maria de Naglowska**（西班牙語，10,878 字元）— [原文](https://es.wikipedia.org/wiki/Maria_de_Naglowska) — 來源分類：Categoría:Brujería
-- [ ] **Robert Pike (settler)**（英語，10,868 字元）— [原文](https://en.wikipedia.org/wiki/Robert_Pike_%28settler%29) — 來源分類：Category:Witchcraft > Witch hunting > Critics of witch hunting
-- [ ] **Formicarius**（英語，10,846 字元）— [原文](https://en.wikipedia.org/wiki/Formicarius) — 來源分類：Category:Witchcraft > Witchcraft treatises
-- [ ] **Abrahadabra**（英語，10,840 字元）— [原文](https://en.wikipedia.org/wiki/Abrahadabra) — 來源分類：Category:Witchcraft > Incantation > Magic words
-- [ ] **Guérisseur**（法語，10,825 字元）— [原文](https://fr.wikipedia.org/wiki/Gu%C3%A9risseur) — 來源分類：Catégorie:Sorcellerie
-- [ ] **Zombies en La Moneda**（西班牙語，10,824 字元）— [原文](https://es.wikipedia.org/wiki/Zombies_en_La_Moneda) — 來源分類：Categoría:Brujería > Zombis > Zombis en la historieta
-- [ ] **Mary Webster (alleged witch)**（英語，10,816 字元）— [原文](https://en.wikipedia.org/wiki/Mary_Webster_%28alleged_witch%29) — 來源分類：Category:Witchcraft > American witchcraft
-- [ ] **Agobard**（英語，10,756 字元）— [原文](https://en.wikipedia.org/wiki/Agobard) — 來源分類：Category:Witchcraft > Witch hunting > Critics of witch hunting
-- [ ] **Caso dei diavoli di Loudun**（義大利語，10,737 字元）— [原文](https://it.wikipedia.org/wiki/Caso_dei_diavoli_di_Loudun) — 來源分類：Categoria:Stregoneria > Processi per stregoneria
-- [ ] **Bibbidi-Bobbidi-Boo**（英語，10,729 字元）— [原文](https://en.wikipedia.org/wiki/Bibbidi-Bobbidi-Boo) — 來源分類：Category:Witchcraft > Incantation > Magic words
-- [ ] **Méric Casaubon**（英語，10,716 字元）— [原文](https://en.wikipedia.org/wiki/M%C3%A9ric_Casaubon) — 來源分類：Category:Witchcraft > Witch hunting > Supporters of witch hunting
-- [ ] **Xyzzy (computing)**（英語，10,656 字元）— [原文](https://en.wikipedia.org/wiki/Xyzzy_%28computing%29) — 來源分類：Category:Witchcraft > Incantation > Magic words
-- [ ] **Witchcraft Suppression Act, 1957**（英語，10,646 字元）— [原文](https://en.wikipedia.org/wiki/Witchcraft_Suppression_Act%2C_1957) — 來源分類：Category:Witchcraft > African witchcraft
-- [ ] **Totenbeschwörerin von Endor**（德語，10,635 字元）— [原文](https://de.wikipedia.org/wiki/Totenbeschw%C3%B6rerin_von_Endor) — 來源分類：Kategorie:Hexerei > Hexe
-- [ ] **Kikis kleiner Lieferservice (Roman)**（德語，10,615 字元）— [原文](https://de.wikipedia.org/wiki/Kikis_kleiner_Lieferservice_%28Roman%29) — 來源分類：Kategorie:Hexerei > Hexe > Fiktive Hexe
-- [ ] **Kebo Iwa**（義大利語，10,585 字元）— [原文](https://it.wikipedia.org/wiki/Kebo_Iwa) — 來源分類：Categoria:Stregoneria
-- [ ] **Karl Meier (Autor)**（德語，10,571 字元）— [原文](https://de.wikipedia.org/wiki/Karl_Meier_%28Autor%29) — 來源分類：Kategorie:Hexenverfolgung > Sachliteratur (Hexenverfolgung)
-- [ ] **Maria Renata Singer von Mossau**（法語，10,560 字元）— [原文](https://fr.wikipedia.org/wiki/Maria_Renata_Singer_von_Mossau) — 來源分類：Catégorie:Sorcellerie > Procès de sorcellerie > Personnalité condamnée pour sorcellerie
-- [ ] **Edith Rose Woodford-Grimes**（德語，10,530 字元）— [原文](https://de.wikipedia.org/wiki/Edith_Rose_Woodford-Grimes) — 來源分類：Kategorie:Hexerei > Hexe
-- [ ] **Thomas Maule (Quaker)**（英語，10,518 字元）— [原文](https://en.wikipedia.org/wiki/Thomas_Maule_%28Quaker%29) — 來源分類：Category:Witchcraft > Witch hunting > Critics of witch hunting
-- [ ] **Ordalía del agua**（西班牙語，10,430 字元）— [原文](https://es.wikipedia.org/wiki/Ordal%C3%ADa_del_agua) — 來源分類：Categoría:Brujería > Ordalía
-- [ ] **Helena Scheuberin**（法語，10,425 字元）— [原文](https://fr.wikipedia.org/wiki/Helena_Scheuberin) — 來源分類：Catégorie:Sorcellerie > Personne persécutée pour sorcellerie
-- [ ] **Kai Lehmann**（德語，10,407 字元）— [原文](https://de.wikipedia.org/wiki/Kai_Lehmann) — 來源分類：Kategorie:Hexenverfolgung > Sachliteratur (Hexenverfolgung)
-- [ ] **Medea (The Icemark Chronicles)**（英語，10,407 字元）— [原文](https://en.wikipedia.org/wiki/Medea_%28The_Icemark_Chronicles%29) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Works about Medea
-- [ ] **Epic Pooh**（英語，10,384 字元）— [原文](https://en.wikipedia.org/wiki/Epic_Pooh) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Middle-earth
-- [ ] **New Forest Coven**（德語，10,335 字元）— [原文](https://de.wikipedia.org/wiki/New_Forest_Coven) — 來源分類：Kategorie:Hexerei
-- [ ] **Owen Davies (historian)**（英語，10,329 字元）— [原文](https://en.wikipedia.org/wiki/Owen_Davies_%28historian%29) — 來源分類：Category:Witchcraft > Historians of witchcraft
-- [ ] **Women of Colchis**（英語，10,257 字元）— [原文](https://en.wikipedia.org/wiki/Women_of_Colchis) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Works about Medea
-- [ ] **Zsuzsanna Budapest**（德語，10,224 字元）— [原文](https://de.wikipedia.org/wiki/Zsuzsanna_Budapest) — 來源分類：Kategorie:Hexerei > Hexe
-- [ ] **Gerard de Ruán**（西班牙語，10,198 字元）— [原文](https://es.wikipedia.org/wiki/Gerard_de_Ru%C3%A1n) — 來源分類：Categoría:Brujería
-- [ ] **Dayan (witch)**（英語，10,183 字元）— [原文](https://en.wikipedia.org/wiki/Dayan_%28witch%29) — 來源分類：Category:Witchcraft > Asian witchcraft
-- [ ] **Tituba**（義大利語，10,168 字元）— [原文](https://it.wikipedia.org/wiki/Tituba) — 來源分類：Categoria:Stregoneria > Processi per stregoneria
-- [ ] **Internationaler Tag gegen Hexenwahn**（德語，10,127 字元）— [原文](https://de.wikipedia.org/wiki/Internationaler_Tag_gegen_Hexenwahn) — 來源分類：Kategorie:Hexerei > Moderne Hexenverfolgung
-- [ ] **Freedom of religion in Angola**（英語，10,093 字元）— [原文](https://en.wikipedia.org/wiki/Freedom_of_religion_in_Angola) — 來源分類：Category:Witchcraft > African witchcraft
-- [ ] **Bricket Wood Coven**（德語，10,060 字元）— [原文](https://de.wikipedia.org/wiki/Bricket_Wood_Coven) — 來源分類：Kategorie:Hexerei
-- [ ] **Der Flaschenkobold**（德語，9,907 字元）— [原文](https://de.wikipedia.org/wiki/Der_Flaschenkobold) — 來源分類：Kategorie:Hexerei > Teufelspakt
-- [ ] **Isobel Gowdie**（西班牙語，9,876 字元）— [原文](https://es.wikipedia.org/wiki/Isobel_Gowdie) — 來源分類：Categoría:Brujería
-- [ ] **Teufelspakt**（德語，9,855 字元）— [原文](https://de.wikipedia.org/wiki/Teufelspakt) — 來源分類：Kategorie:Hexenverfolgung
-- [ ] **Samuel Willard**（英語，9,813 字元）— [原文](https://en.wikipedia.org/wiki/Samuel_Willard) — 來源分類：Category:Witchcraft > Witch hunting > Critics of witch hunting
-- [ ] **Oudewater**（德語，9,793 字元）— [原文](https://de.wikipedia.org/wiki/Oudewater) — 來源分類：Kategorie:Hexenverfolgung
-- [ ] **Francis Dane**（英語，9,744 字元）— [原文](https://en.wikipedia.org/wiki/Francis_Dane) — 來源分類：Category:Witchcraft > Witch hunting > Critics of witch hunting
-- [ ] **Libro del comando**（義大利語，9,647 字元）— [原文](https://it.wikipedia.org/wiki/Libro_del_comando) — 來源分類：Categoria:Stregoneria > Opere letterarie sulla stregoneria
-- [ ] **Witch window**（英語，9,629 字元）— [原文](https://en.wikipedia.org/wiki/Witch_window) — 來源分類：Category:Witchcraft > American witchcraft
-- [ ] **Barong (mitologia)**（義大利語，9,543 字元）— [原文](https://it.wikipedia.org/wiki/Barong_%28mitologia%29) — 來源分類：Categoria:Stregoneria
-- [ ] **Salem Possessed: The Social Origins of Witchcraft**（德語，9,539 字元）— [原文](https://de.wikipedia.org/wiki/Salem_Possessed%3A_The_Social_Origins_of_Witchcraft) — 來源分類：Kategorie:Hexenverfolgung
-- [ ] **Magic word**（英語，9,519 字元）— [原文](https://en.wikipedia.org/wiki/Magic_word) — 來源分類：Category:Witchcraft > Incantation > Magic words
-- [ ] **Bilwis**（德語，9,503 字元）— [原文](https://de.wikipedia.org/wiki/Bilwis) — 來源分類：Kategorie:Hexerei > Hexe
-- [ ] **Emma Wilby**（英語，9,429 字元）— [原文](https://en.wikipedia.org/wiki/Emma_Wilby) — 來源分類：Category:Witchcraft > Historians of witchcraft
-- [ ] **Watchtower (magic)**（英語，9,428 字元）— [原文](https://en.wikipedia.org/wiki/Watchtower_%28magic%29) — 來源分類：Category:Witchcraft > Modern witchcraft > Neopagan witchcraft
-- [ ] **Grimorio**（義大利語，9,410 字元）— [原文](https://it.wikipedia.org/wiki/Grimorio) — 來源分類：Categoria:Stregoneria
-- [ ] **Sefer HaRazim**（英語，9,398 字元）— [原文](https://en.wikipedia.org/wiki/Sefer_HaRazim) — 來源分類：Category:Witchcraft > Grimoires > Jewish grimoires
-- [ ] **Juju**（英語，9,396 字元）— [原文](https://en.wikipedia.org/wiki/Juju) — 來源分類：Category:Witchcraft > African witchcraft
-- [ ] **Vade retro satana**（英語，9,387 字元）— [原文](https://en.wikipedia.org/wiki/Vade_retro_satana) — 來源分類：Category:Witchcraft > Incantation
-- [ ] **Cotton (series)**（英語，9,224 字元）— [原文](https://en.wikipedia.org/wiki/Cotton_%28series%29) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Cotton (series)
-- [ ] **モイラ (ギリシア神話)**（日語，9,219 字元）— [原文](https://ja.wikipedia.org/wiki/%E3%83%A2%E3%82%A4%E3%83%A9_%28%E3%82%AE%E3%83%AA%E3%82%B7%E3%82%A2%E7%A5%9E%E8%A9%B1%29) — 來源分類：Category:魔女 > 山姥やハッグ
-- [ ] **For Loss or Theft of Cattle**（英語，9,198 字元）— [原文](https://en.wikipedia.org/wiki/For_Loss_or_Theft_of_Cattle) — 來源分類：Category:Witchcraft > Incantation > Anglo-Saxon metrical charms
-- [ ] **Caliban und die Hexe**（德語，9,184 字元）— [原文](https://de.wikipedia.org/wiki/Caliban_und_die_Hexe) — 來源分類：Kategorie:Hexenverfolgung > Sachliteratur (Hexenverfolgung)
-- [ ] **Franz Volk**（德語，9,179 字元）— [原文](https://de.wikipedia.org/wiki/Franz_Volk) — 來源分類：Kategorie:Hexenverfolgung > Sachliteratur (Hexenverfolgung)
-- [ ] **Justine C. Glass**（英語，9,150 字元）— [原文](https://en.wikipedia.org/wiki/Justine_C._Glass) — 來源分類：Category:Witchcraft > Historians of witchcraft
-- [ ] **Panthoibi Naheron**（英語，9,120 字元）— [原文](https://en.wikipedia.org/wiki/Panthoibi_Naheron) — 來源分類：Category:Witchcraft > Incantation
-- [ ] **Witchcraft and Paganism in Australia**（英語，9,061 字元）— [原文](https://en.wikipedia.org/wiki/Witchcraft_and_Paganism_in_Australia) — 來源分類：Category:Witchcraft > Books about witchcraft
-- [ ] **Book of Wonders**（英語，9,049 字元）— [原文](https://en.wikipedia.org/wiki/Book_of_Wonders) — 來源分類：Category:Witchcraft > Grimoires > Arabic grimoires
-- [ ] **John Hale (minister)**（英語，9,034 字元）— [原文](https://en.wikipedia.org/wiki/John_Hale_%28minister%29) — 來源分類：Category:Witchcraft > Witch hunting > Critics of witch hunting
-- [ ] **Werehyena**（英語，9,030 字元）— [原文](https://en.wikipedia.org/wiki/Werehyena) — 來源分類：Category:Witchcraft > African witchcraft
-- [ ] **Jusquiame**（法語，9,021 字元）— [原文](https://fr.wikipedia.org/wiki/Jusquiame) — 來源分類：Catégorie:Sorcellerie > Plante utilisée en sorcellerie
-- [ ] **Saul og David**（英語，9,019 字元）— [原文](https://en.wikipedia.org/wiki/Saul_og_David) — 來源分類：Category:Witchcraft > Judaism and witchcraft > Witch of Endor
-- [ ] **モーガン・ル・フェイ**（日語，8,999 字元）— [原文](https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%BC%E3%82%AC%E3%83%B3%E3%83%BB%E3%83%AB%E3%83%BB%E3%83%95%E3%82%A7%E3%82%A4) — 來源分類：Category:魔女
-- [ ] **Jason and the Argonauts (miniseries)**（英語，8,984 字元）— [原文](https://en.wikipedia.org/wiki/Jason_and_the_Argonauts_%28miniseries%29) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Works about Medea
-- [ ] **Max Bauer (Publizist)**（德語，8,976 字元）— [原文](https://de.wikipedia.org/wiki/Max_Bauer_%28Publizist%29) — 來源分類：Kategorie:Hexenverfolgung > Sachliteratur (Hexenverfolgung)
-- [ ] **Long Hidden Friend**（英語，8,967 字元）— [原文](https://en.wikipedia.org/wiki/Long_Hidden_Friend) — 來源分類：Category:Witchcraft > Grimoires
-- [ ] **Oliblish**（英語，8,943 字元）— [原文](https://en.wikipedia.org/wiki/Oliblish) — 來源分類：Category:Witchcraft > Incantation > Book of the Dead
-- [ ] **Iyami Oshooronga**（西班牙語，8,929 字元）— [原文](https://es.wikipedia.org/wiki/Iyami_Oshooronga) — 來源分類：Categoría:Brujería
-- [ ] **Cyprianus (collection of spells)**（英語，8,927 字元）— [原文](https://en.wikipedia.org/wiki/Cyprianus_%28collection_of_spells%29) — 來源分類：Category:Witchcraft > Grimoires
-- [ ] **Book of Saint Cyprian**（英語，8,899 字元）— [原文](https://en.wikipedia.org/wiki/Book_of_Saint_Cyprian) — 來源分類：Category:Witchcraft > Grimoires
-- [ ] **Medea (Seneca)**（英語，8,870 字元）— [原文](https://en.wikipedia.org/wiki/Medea_%28Seneca%29) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Works about Medea
-- [ ] **28 Days Later: The Aftermath**（西班牙語，8,850 字元）— [原文](https://es.wikipedia.org/wiki/28_Days_Later%3A_The_Aftermath) — 來源分類：Categoría:Brujería > Zombis > Zombis en la historieta
-- [ ] **Tsentsak**（英語，8,849 字元）— [原文](https://en.wikipedia.org/wiki/Tsentsak) — 來源分類：Category:Witchcraft > American witchcraft
-- [ ] **Simon Necronomicon**（英語，8,820 字元）— [原文](https://en.wikipedia.org/wiki/Simon_Necronomicon) — 來源分類：Category:Witchcraft > Grimoires
-- [ ] **Insha Allah Khan**（英語，8,805 字元）— [原文](https://en.wikipedia.org/wiki/Insha_Allah_Khan) — 來源分類：Category:Witchcraft > Incantation
-- [ ] **Koro (Psychologie)**（德語，8,776 字元）— [原文](https://de.wikipedia.org/wiki/Koro_%28Psychologie%29) — 來源分類：Kategorie:Hexerei > Moderne Hexenverfolgung
-- [ ] **Stambeli**（法語，8,772 字元）— [原文](https://fr.wikipedia.org/wiki/Stambeli) — 來源分類：Catégorie:Sorcellerie
-- [ ] **Alfabeto tebano**（西班牙語，8,719 字元）— [原文](https://es.wikipedia.org/wiki/Alfabeto_tebano) — 來源分類：Categoría:Brujería
-- [ ] **White magic**（英語，8,713 字元）— [原文](https://en.wikipedia.org/wiki/White_magic) — 來源分類：Category:Witchcraft
-- [ ] **Hexenschlaf**（德語，8,710 字元）— [原文](https://de.wikipedia.org/wiki/Hexenschlaf) — 來源分類：Kategorie:Hexenverfolgung
-- [ ] **Monica Paulus**（德語，8,703 字元）— [原文](https://de.wikipedia.org/wiki/Monica_Paulus) — 來源分類：Kategorie:Hexerei > Moderne Hexenverfolgung
-- [ ] **Kitab al-Kanuz**（英語，8,684 字元）— [原文](https://en.wikipedia.org/wiki/Kitab_al-Kanuz) — 來源分類：Category:Witchcraft > Grimoires > Arabic grimoires
-- [ ] **Therion (Thelema)**（英語，8,665 字元）— [原文](https://en.wikipedia.org/wiki/Therion_%28Thelema%29) — 來源分類：Category:Witchcraft > Incantation > Magic words
-- [ ] **Cherubim and Seraphim Society**（德語，8,664 字元）— [原文](https://de.wikipedia.org/wiki/Cherubim_and_Seraphim_Society) — 來源分類：Kategorie:Hexerei > Moderne Hexenverfolgung
-- [ ] **Catherine Charlotte De la Gardie**（英語，8,626 字元）— [原文](https://en.wikipedia.org/wiki/Catherine_Charlotte_De_la_Gardie) — 來源分類：Category:Witchcraft > Witch hunting > Critics of witch hunting
-- [ ] **Birch bark letter no. 292**（英語，8,623 字元）— [原文](https://en.wikipedia.org/wiki/Birch_bark_letter_no._292) — 來源分類：Category:Witchcraft > Incantation
-- [ ] **Wayob**（英語，8,615 字元）— [原文](https://en.wikipedia.org/wiki/Wayob) — 來源分類：Category:Witchcraft > American witchcraft
-- [ ] **魔女に与える鉄槌**（日語，8,589 字元）— [原文](https://ja.wikipedia.org/wiki/%E9%AD%94%E5%A5%B3%E3%81%AB%E4%B8%8E%E3%81%88%E3%82%8B%E9%89%84%E6%A7%8C) — 來源分類：Category:魔女
-- [ ] **Tupilaq**（英語，8,556 字元）— [原文](https://en.wikipedia.org/wiki/Tupilaq) — 來源分類：Category:Witchcraft > American witchcraft
-- [ ] **Summis desiderantes affectibus**（西班牙語，8,536 字元）— [原文](https://es.wikipedia.org/wiki/Summis_desiderantes_affectibus) — 來源分類：Categoría:Brujería
-- [ ] **Vajravārāhī**（英語，8,527 字元）— [原文](https://en.wikipedia.org/wiki/Vajrav%C4%81r%C4%81h%C4%AB) — 來源分類：Category:Witchcraft > Pig-faced women
-- [ ] **Bouteille de sorcière**（法語，8,514 字元）— [原文](https://fr.wikipedia.org/wiki/Bouteille_de_sorci%C3%A8re) — 來源分類：Catégorie:Sorcellerie
-- [ ] **Blair Witch Volume II: The Legend of Coffin Rock**（英語，8,496 字元）— [原文](https://en.wikipedia.org/wiki/Blair_Witch_Volume_II%3A_The_Legend_of_Coffin_Rock) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Blair Witch
-- [ ] **ヨーハン・ヴァイヤー**（日語，8,493 字元）— [原文](https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%BC%E3%83%8F%E3%83%B3%E3%83%BB%E3%83%B4%E3%82%A1%E3%82%A4%E3%83%A4%E3%83%BC) — 來源分類：Category:魔女
-- [ ] **Succubus**（德語，8,455 字元）— [原文](https://de.wikipedia.org/wiki/Succubus) — 來源分類：Kategorie:Hexenverfolgung
-- [ ] **Endor (village)**（英語，8,433 字元）— [原文](https://en.wikipedia.org/wiki/Endor_%28village%29) — 來源分類：Category:Witchcraft > Judaism and witchcraft > Witch of Endor
-- [ ] **ラ・ヴォワザン**（日語，8,391 字元）— [原文](https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%BB%E3%83%B4%E3%82%A9%E3%83%AF%E3%82%B6%E3%83%B3) — 來源分類：Category:魔女 > 魔女術の容疑で処刑された人物
-- [ ] **Nema Andahadna**（德語，8,389 字元）— [原文](https://de.wikipedia.org/wiki/Nema_Andahadna) — 來源分類：Kategorie:Hexerei > Hexe
-- [ ] **Summis desiderantes affectibus**（義大利語，8,389 字元）— [原文](https://it.wikipedia.org/wiki/Summis_desiderantes_affectibus) — 來源分類：Categoria:Stregoneria > Opere letterarie sulla stregoneria
-- [ ] **Processo alle streghe di Salisburgo**（義大利語，8,382 字元）— [原文](https://it.wikipedia.org/wiki/Processo_alle_streghe_di_Salisburgo) — 來源分類：Categoria:Stregoneria > Processi per stregoneria
-- [ ] **Killing of disabled children in Uganda**（英語，8,381 字元）— [原文](https://en.wikipedia.org/wiki/Killing_of_disabled_children_in_Uganda) — 來源分類：Category:Witchcraft > African witchcraft
-- [ ] **イユンクス**（日語，8,374 字元）— [原文](https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%A6%E3%83%B3%E3%82%AF%E3%82%B9) — 來源分類：Category:魔女
-- [ ] **Krzysztof Opaliński**（英語，8,369 字元）— [原文](https://en.wikipedia.org/wiki/Krzysztof_Opali%C5%84ski) — 來源分類：Category:Witchcraft > Witch hunting > Critics of witch hunting
-- [ ] **アイスランドの魔女裁判**（日語，8,349 字元）— [原文](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%A9%E3%83%B3%E3%83%89%E3%81%AE%E9%AD%94%E5%A5%B3%E8%A3%81%E5%88%A4) — 來源分類：Category:魔女
-- [ ] **Kajiga Baba**（德語，8,307 字元）— [原文](https://de.wikipedia.org/wiki/Kajiga_Baba) — 來源分類：Kategorie:Hexerei > Hexe
-- [ ] **Our Lady of Endor Coven**（英語，8,297 字元）— [原文](https://en.wikipedia.org/wiki/Our_Lady_of_Endor_Coven) — 來源分類：Category:Witchcraft > Judaism and witchcraft > Witch of Endor
-- [ ] **Johannes Junius**（德語，8,296 字元）— [原文](https://de.wikipedia.org/wiki/Johannes_Junius) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung in Bamberg
-- [ ] **Caliban and the Witch**（英語，8,277 字元）— [原文](https://en.wikipedia.org/wiki/Caliban_and_the_Witch) — 來源分類：Category:Witchcraft > Books about witchcraft
-- [ ] **Warm Bodies**（西班牙語，8,268 字元）— [原文](https://es.wikipedia.org/wiki/Warm_Bodies) — 來源分類：Categoría:Brujería > Zombis
-- [ ] **David et Jonathas**（英語，8,259 字元）— [原文](https://en.wikipedia.org/wiki/David_et_Jonathas) — 來源分類：Category:Witchcraft > Judaism and witchcraft > Witch of Endor
-- [ ] **The Wonderfull Discoverie of Witches in the Countie of Lancaster**（英語，8,257 字元）— [原文](https://en.wikipedia.org/wiki/The_Wonderfull_Discoverie_of_Witches_in_the_Countie_of_Lancaster) — 來源分類：Category:Witchcraft > Books about witchcraft > History books about witchcraft
-- [ ] **Jaquette de Clause**（法語，8,247 字元）— [原文](https://fr.wikipedia.org/wiki/Jaquette_de_Clause) — 來源分類：Catégorie:Sorcellerie
-- [ ] **Schlernhexen**（德語，8,231 字元）— [原文](https://de.wikipedia.org/wiki/Schlernhexen) — 來源分類：Kategorie:Hexerei > Hexe
-- [ ] **マシュー・ホプキンス**（日語，8,209 字元）— [原文](https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%BB%E3%83%9B%E3%83%97%E3%82%AD%E3%83%B3%E3%82%B9) — 來源分類：Category:魔女
-- [ ] **Potion**（法語，8,197 字元）— [原文](https://fr.wikipedia.org/wiki/Potion) — 來源分類：Catégorie:Sorcellerie
-- [ ] **Processo alle streghe di Treviri**（義大利語，8,183 字元）— [原文](https://it.wikipedia.org/wiki/Processo_alle_streghe_di_Treviri) — 來源分類：Categoria:Stregoneria > Processi per stregoneria
-- [ ] **David Signer**（德語，8,147 字元）— [原文](https://de.wikipedia.org/wiki/David_Signer) — 來源分類：Kategorie:Hexerei > Moderne Hexenverfolgung
-- [ ] **Patricia Crowther**（德語，8,130 字元）— [原文](https://de.wikipedia.org/wiki/Patricia_Crowther) — 來源分類：Kategorie:Hexerei > Hexe
-- [ ] **司教法令集**（日語，8,119 字元）— [原文](https://ja.wikipedia.org/wiki/%E5%8F%B8%E6%95%99%E6%B3%95%E4%BB%A4%E9%9B%86) — 來源分類：Category:魔女
-- [ ] **Historia nocturna**（西班牙語，8,076 字元）— [原文](https://es.wikipedia.org/wiki/Historia_nocturna) — 來源分類：Categoría:Brujería
-- [ ] **Zombie Powder**（西班牙語，8,064 字元）— [原文](https://es.wikipedia.org/wiki/Zombie_Powder) — 來源分類：Categoría:Brujería > Zombis > Zombis en la historieta
-- [ ] **Luisa Francia**（英語，8,037 字元）— [原文](https://en.wikipedia.org/wiki/Luisa_Francia) — 來源分類：Category:Witchcraft > Modern witchcraft > Neopagan witchcraft
-- [ ] **Harry Potter: The Exhibition**（英語，8,036 字元）— [原文](https://en.wikipedia.org/wiki/Harry_Potter%3A_The_Exhibition) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Harry Potter
-- [ ] **Soul eater (folklore)**（英語，8,031 字元）— [原文](https://en.wikipedia.org/wiki/Soul_eater_%28folklore%29) — 來源分類：Category:Witchcraft > African witchcraft
-- [ ] **Kitchen witchcraft**（英語，8,029 字元）— [原文](https://en.wikipedia.org/wiki/Kitchen_witchcraft) — 來源分類：Category:Witchcraft
-- [ ] **Melinoë (Hades)**（西班牙語，8,021 字元）— [原文](https://es.wikipedia.org/wiki/Melino%C3%AB_%28Hades%29) — 來源分類：Categoría:Brujería
-- [ ] **Lai Khadang Pandabi**（英語，8,020 字元）— [原文](https://en.wikipedia.org/wiki/Lai_Khadang_Pandabi) — 來源分類：Category:Witchcraft > Witches
-- [ ] **Book of the Dead of Qenna**（英語，7,952 字元）— [原文](https://en.wikipedia.org/wiki/Book_of_the_Dead_of_Qenna) — 來源分類：Category:Witchcraft > Incantation > Book of the Dead
-- [ ] **George Fraser Black**（英語，7,940 字元）— [原文](https://en.wikipedia.org/wiki/George_Fraser_Black) — 來源分類：Category:Witchcraft > Historians of witchcraft
-- [ ] **White Lion Inn, Stratford-upon-Avon**（英語，7,919 字元）— [原文](https://en.wikipedia.org/wiki/White_Lion_Inn%2C_Stratford-upon-Avon) — 來源分類：Category:Witchcraft > Witchcraft museums
-- [ ] **Margot Adler**（德語，7,913 字元）— [原文](https://de.wikipedia.org/wiki/Margot_Adler) — 來源分類：Kategorie:Hexerei > Hexe
-- [ ] **Against a dwarf**（英語，7,905 字元）— [原文](https://en.wikipedia.org/wiki/Against_a_dwarf) — 來源分類：Category:Witchcraft > Incantation > Anglo-Saxon metrical charms
-- [ ] **Mary Webster (presunta strega)**（義大利語，7,902 字元）— [原文](https://it.wikipedia.org/wiki/Mary_Webster_%28presunta_strega%29) — 來源分類：Categoria:Stregoneria
-- [ ] **Grand Grimoire**（英語，7,877 字元）— [原文](https://en.wikipedia.org/wiki/Grand_Grimoire) — 來源分類：Category:Witchcraft > Grimoires > Goetic grimoires
-- [ ] **Seidr**（西班牙語，7,844 字元）— [原文](https://es.wikipedia.org/wiki/Seidr) — 來源分類：Categoría:Brujería
-- [ ] **Butterhexe**（德語，7,830 字元）— [原文](https://de.wikipedia.org/wiki/Butterhexe) — 來源分類：Kategorie:Hexenverfolgung
-- [ ] **Aaru**（英語，7,797 字元）— [原文](https://en.wikipedia.org/wiki/Aaru) — 來源分類：Category:Witchcraft > Incantation > Book of the Dead
-- [ ] **Famiglio (spirito)**（義大利語，7,775 字元）— [原文](https://it.wikipedia.org/wiki/Famiglio_%28spirito%29) — 來源分類：Categoria:Stregoneria
-- [ ] **Brujas de Bute**（西班牙語，7,772 字元）— [原文](https://es.wikipedia.org/wiki/Brujas_de_Bute) — 來源分類：Categoría:Brujería
-- [ ] **Raven Mocker**（英語，7,770 字元）— [原文](https://en.wikipedia.org/wiki/Raven_Mocker) — 來源分類：Category:Witchcraft > American witchcraft
-- [ ] **Deposed Crown Princess Kim**（英語，7,763 字元）— [原文](https://en.wikipedia.org/wiki/Deposed_Crown_Princess_Kim) — 來源分類：Category:Witchcraft > Asian witchcraft
-- [ ] **Calon Arang**（義大利語，7,753 字元）— [原文](https://it.wikipedia.org/wiki/Calon_Arang) — 來源分類：Categoria:Stregoneria
-- [ ] **The Secret of Platform 13**（英語，7,750 字元）— [原文](https://en.wikipedia.org/wiki/The_Secret_of_Platform_13) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Harry Potter
-- [ ] **Georg Golser**（法語，7,670 字元）— [原文](https://fr.wikipedia.org/wiki/Georg_Golser) — 來源分類：Catégorie:Sorcellerie > Procès de sorcellerie
-- [ ] **Crispina Peres**（法語，7,649 字元）— [原文](https://fr.wikipedia.org/wiki/Crispina_Peres) — 來源分類：Catégorie:Sorcellerie > Personne persécutée pour sorcellerie
-- [ ] **Inverkeithing witch hunt**（英語，7,611 字元）— [原文](https://en.wikipedia.org/wiki/Inverkeithing_witch_hunt) — 來源分類：Category:Witchcraft > Witch hunting > Early Modern witch hunts
-- [ ] **Monumento conmemorativo de Steilneset**（西班牙語，7,611 字元）— [原文](https://es.wikipedia.org/wiki/Monumento_conmemorativo_de_Steilneset) — 來源分類：Categoría:Brujería
-- [ ] **Versailles of the Dead**（西班牙語，7,591 字元）— [原文](https://es.wikipedia.org/wiki/Versailles_of_the_Dead) — 來源分類：Categoría:Brujería > Zombis > Zombis en la historieta
-- [ ] **Eleanor Bone**（德語，7,588 字元）— [原文](https://de.wikipedia.org/wiki/Eleanor_Bone) — 來源分類：Kategorie:Hexerei > Hexe
-- [ ] **Gunung Kawi**（義大利語，7,574 字元）— [原文](https://it.wikipedia.org/wiki/Gunung_Kawi) — 來源分類：Categoria:Stregoneria
-- [ ] **メアリー・イースティ**（日語，7,543 字元）— [原文](https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%A4%E3%83%BC%E3%82%B9%E3%83%86%E3%82%A3) — 來源分類：Category:魔女 > 魔女術の容疑で処刑された人物
-- [ ] **Skin-walker**（英語，7,467 字元）— [原文](https://en.wikipedia.org/wiki/Skin-walker) — 來源分類：Category:Witchcraft > American witchcraft
-- [ ] **Directorium Inquisitorum**（英語，7,452 字元）— [原文](https://en.wikipedia.org/wiki/Directorium_Inquisitorum) — 來源分類：Category:Witchcraft > Witchcraft treatises
-- [ ] **Meneur de loups**（法語，7,429 字元）— [原文](https://fr.wikipedia.org/wiki/Meneur_de_loups) — 來源分類：Catégorie:Sorcellerie
-- [ ] **Hocus-pocus**（英語，7,378 字元）— [原文](https://en.wikipedia.org/wiki/Hocus-pocus) — 來源分類：Category:Witchcraft > Incantation > Magic words
-- [ ] **Formicarius**（西班牙語，7,378 字元）— [原文](https://es.wikipedia.org/wiki/Formicarius) — 來源分類：Categoría:Brujería
-- [ ] **Coven**（德語，7,356 字元）— [原文](https://de.wikipedia.org/wiki/Coven) — 來源分類：Kategorie:Hexerei
-- [ ] **Masca**（義大利語，7,351 字元）— [原文](https://it.wikipedia.org/wiki/Masca) — 來源分類：Categoria:Stregoneria
-- [ ] **Hexenlager**（德語，7,333 字元）— [原文](https://de.wikipedia.org/wiki/Hexenlager) — 來源分類：Kategorie:Hexerei > Moderne Hexenverfolgung
-- [ ] **The Triangular Book of St. Germain**（英語，7,328 字元）— [原文](https://en.wikipedia.org/wiki/The_Triangular_Book_of_St._Germain) — 來源分類：Category:Witchcraft > Grimoires
-- [ ] **Anna Göldin**（西班牙語，7,275 字元）— [原文](https://es.wikipedia.org/wiki/Anna_G%C3%B6ldin) — 來源分類：Categoría:Brujería
-- [ ] **Símbolos mágicos de Islandia**（西班牙語，7,257 字元）— [原文](https://es.wikipedia.org/wiki/S%C3%ADmbolos_m%C3%A1gicos_de_Islandia) — 來源分類：Categoría:Brujería
-- [ ] **Tlahuelpuchi**（西班牙語，7,232 字元）— [原文](https://es.wikipedia.org/wiki/Tlahuelpuchi) — 來源分類：Categoría:Brujería
-- [ ] **Witch ball**（英語，7,204 字元）— [原文](https://en.wikipedia.org/wiki/Witch_ball) — 來源分類：Category:Witchcraft > American witchcraft
-- [ ] **Bad Voodoo**（英語，7,183 字元）— [原文](https://en.wikipedia.org/wiki/Bad_Voodoo) — 來源分類：Category:Witchcraft > American witchcraft
-- [ ] **Book of the Dead (Art Institute of Chicago)**（英語，7,166 字元）— [原文](https://en.wikipedia.org/wiki/Book_of_the_Dead_%28Art_Institute_of_Chicago%29) — 來源分類：Category:Witchcraft > Incantation > Book of the Dead
-- [ ] **The Sworn Book of Honorius**（英語，7,155 字元）— [原文](https://en.wikipedia.org/wiki/The_Sworn_Book_of_Honorius) — 來源分類：Category:Witchcraft > Grimoires > Goetic grimoires
-- [ ] **シュガール**（日語，7,104 字元）— [原文](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A5%E3%82%AC%E3%83%BC%E3%83%AB) — 來源分類：Category:魔女
-- [ ] **Jeanne Panne**（法語，7,053 字元）— [原文](https://fr.wikipedia.org/wiki/Jeanne_Panne) — 來源分類：Catégorie:Sorcellerie > Procès de sorcellerie > Personnalité condamnée pour sorcellerie
-- [ ] **Thank you**（英語，7,023 字元）— [原文](https://en.wikipedia.org/wiki/Thank_you) — 來源分類：Category:Witchcraft > Incantation > Magic words
-- [ ] **ジャン・ボダン**（日語，6,988 字元）— [原文](https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%BB%E3%83%9C%E3%83%80%E3%83%B3) — 來源分類：Category:魔女 > 魔女狩り人
-- [ ] **Notte di San Giovanni**（義大利語，6,968 字元）— [原文](https://it.wikipedia.org/wiki/Notte_di_San_Giovanni) — 來源分類：Categoria:Stregoneria
-- [ ] **The Sword of Moses**（英語，6,967 字元）— [原文](https://en.wikipedia.org/wiki/The_Sword_of_Moses) — 來源分類：Category:Witchcraft > Grimoires > Jewish grimoires
-- [ ] **Dannie Druehyld**（英語，6,947 字元）— [原文](https://en.wikipedia.org/wiki/Dannie_Druehyld) — 來源分類：Category:Witchcraft > Witches
-- [ ] **Mary Butters**（法語，6,931 字元）— [原文](https://fr.wikipedia.org/wiki/Mary_Butters) — 來源分類：Catégorie:Sorcellerie > Procès de sorcellerie
-- [ ] **Jacob Sprenger**（英語，6,929 字元）— [原文](https://en.wikipedia.org/wiki/Jacob_Sprenger) — 來源分類：Category:Witchcraft > Witch hunting > Supporters of witch hunting
-- [ ] **Paul Boyer (historian)**（英語，6,912 字元）— [原文](https://en.wikipedia.org/wiki/Paul_Boyer_%28historian%29) — 來源分類：Category:Witchcraft > Historians of witchcraft
-- [ ] **Heinrich Kramer**（義大利語，6,891 字元）— [原文](https://it.wikipedia.org/wiki/Heinrich_Kramer) — 來源分類：Categoria:Stregoneria
-- [ ] **Dissertazioni sopra le apparizioni de' spiriti, e sopra i vampiri, o i redivivi d'Ungheria, di Moravia e di Silesia**（義大利語，6,857 字元）— [原文](https://it.wikipedia.org/wiki/Dissertazioni_sopra_le_apparizioni_de%27_spiriti%2C_e_sopra_i_vampiri%2C_o_i_redivivi_d%27Ungheria%2C_di_Moravia_e_di_Silesia) — 來源分類：Categoria:Stregoneria > Opere letterarie sulla stregoneria
-- [ ] **Louise Yeoman**（英語，6,845 字元）— [原文](https://en.wikipedia.org/wiki/Louise_Yeoman) — 來源分類：Category:Witchcraft > Historians of witchcraft
-- [ ] **Benandante**（法語，6,830 字元）— [原文](https://fr.wikipedia.org/wiki/Benandante) — 來源分類：Catégorie:Sorcellerie
-- [ ] **Die Mobesin**（德語，6,762 字元）— [原文](https://de.wikipedia.org/wiki/Die_Mobesin) — 來源分類：Kategorie:Hexerei > Hexe
-- [ ] **Rangda**（義大利語，6,758 字元）— [原文](https://it.wikipedia.org/wiki/Rangda) — 來源分類：Categoria:Stregoneria
-- [ ] **Witchcraft Acts**（法語，6,752 字元）— [原文](https://fr.wikipedia.org/wiki/Witchcraft_Acts) — 來源分類：Catégorie:Sorcellerie > Loi sur la sorcellerie
-- [ ] **Cornelius Loos**（英語，6,713 字元）— [原文](https://en.wikipedia.org/wiki/Cornelius_Loos) — 來源分類：Category:Witchcraft > Witch hunting > Critics of witch hunting
-- [ ] **Lauterfresser**（法語，6,692 字元）— [原文](https://fr.wikipedia.org/wiki/Lauterfresser) — 來源分類：Catégorie:Sorcellerie > Procès de sorcellerie > Personnalité condamnée pour sorcellerie
-- [ ] **Andrew Gow (historian)**（英語，6,652 字元）— [原文](https://en.wikipedia.org/wiki/Andrew_Gow_%28historian%29) — 來源分類：Category:Witchcraft > Historians of witchcraft
-- [ ] **Galdr**（法語，6,636 字元）— [原文](https://fr.wikipedia.org/wiki/Galdr) — 來源分類：Catégorie:Sorcellerie
-- [ ] **Kotodama**（英語，6,630 字元）— [原文](https://en.wikipedia.org/wiki/Kotodama) — 來源分類：Category:Witchcraft > Incantation > Magic words
-- [ ] **Philtre d'amour**（法語，6,628 字元）— [原文](https://fr.wikipedia.org/wiki/Philtre_d%27amour) — 來源分類：Catégorie:Sorcellerie
-- [ ] **Peter Binsfeld**（法語，6,619 字元）— [原文](https://fr.wikipedia.org/wiki/Peter_Binsfeld) — 來源分類：Catégorie:Sorcellerie
-- [ ] **Anna Maria Schwegelin**（義大利語，6,618 字元）— [原文](https://it.wikipedia.org/wiki/Anna_Maria_Schwegelin) — 來源分類：Categoria:Stregoneria > Processi per stregoneria > Persone condannate per stregoneria
-- [ ] **Magdelaine Bavent**（英語，6,616 字元）— [原文](https://en.wikipedia.org/wiki/Magdelaine_Bavent) — 來源分類：Category:Witchcraft > Witches
-- [ ] **Etoro**（德語，6,609 字元）— [原文](https://de.wikipedia.org/wiki/Etoro) — 來源分類：Kategorie:Hexerei > Moderne Hexenverfolgung
-- [ ] **バーバ・ヤーガ**（日語，6,608 字元）— [原文](https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%BC%E3%83%90%E3%83%BB%E3%83%A4%E3%83%BC%E3%82%AC) — 來源分類：Category:魔女
-- [ ] **魔法円**（日語，6,600 字元）— [原文](https://ja.wikipedia.org/wiki/%E9%AD%94%E6%B3%95%E5%86%86) — 來源分類：Category:魔女 > ウイッカ
-- [ ] **アグネス・ベルナウアー**（日語，6,591 字元）— [原文](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B0%E3%83%8D%E3%82%B9%E3%83%BB%E3%83%99%E3%83%AB%E3%83%8A%E3%82%A6%E3%82%A2%E3%83%BC) — 來源分類：Category:魔女 > 魔女術の容疑で処刑された人物
-- [ ] **Buda (folklore)**（英語，6,572 字元）— [原文](https://en.wikipedia.org/wiki/Buda_%28folklore%29) — 來源分類：Category:Witchcraft > African witchcraft
-- [ ] **Aramaic Uruk incantation**（英語，6,572 字元）— [原文](https://en.wikipedia.org/wiki/Aramaic_Uruk_incantation) — 來源分類：Category:Witchcraft > Incantation
-- [ ] **H. C. Erik Midelfort**（德語，6,542 字元）— [原文](https://de.wikipedia.org/wiki/H._C._Erik_Midelfort) — 來源分類：Kategorie:Hexenverfolgung > Sachliteratur (Hexenverfolgung)
-- [ ] **Girolamo Tartarotti**（法語，6,539 字元）— [原文](https://fr.wikipedia.org/wiki/Girolamo_Tartarotti) — 來源分類：Catégorie:Sorcellerie
-- [ ] **Hexenfinder**（德語，6,521 字元）— [原文](https://de.wikipedia.org/wiki/Hexenfinder) — 來源分類：Kategorie:Hexenverfolgung
-- [ ] **Europe's Inner Demons**（英語，6,502 字元）— [原文](https://en.wikipedia.org/wiki/Europe%27s_Inner_Demons) — 來源分類：Category:Witchcraft > Books about witchcraft > History books about witchcraft
-- [ ] **ディアナとエンデュミオン**（日語，6,499 字元）— [原文](https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%82%A2%E3%83%8A%E3%81%A8%E3%82%A8%E3%83%B3%E3%83%87%E3%83%A5%E3%83%9F%E3%82%AA%E3%83%B3) — 來源分類：Category:魔女 > ディアーナ
-- [ ] **スザンナ・マーティン**（日語，6,498 字元）— [原文](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%B6%E3%83%B3%E3%83%8A%E3%83%BB%E3%83%9E%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3) — 來源分類：Category:魔女 > 魔女術の容疑で処刑された人物
-- [ ] **Julio Caro Baroja**（德語，6,488 字元）— [原文](https://de.wikipedia.org/wiki/Julio_Caro_Baroja) — 來源分類：Kategorie:Hexenverfolgung > Sachliteratur (Hexenverfolgung)
-- [ ] **Nyongo society**（英語，6,457 字元）— [原文](https://en.wikipedia.org/wiki/Nyongo_society) — 來源分類：Category:Witchcraft > African witchcraft
-- [ ] **Zauber-Bibliothek**（英語，6,454 字元）— [原文](https://en.wikipedia.org/wiki/Zauber-Bibliothek) — 來源分類：Category:Witchcraft
-- [ ] **Saint-Yves-de-Vérité**（法語，6,454 字元）— [原文](https://fr.wikipedia.org/wiki/Saint-Yves-de-V%C3%A9rit%C3%A9) — 來源分類：Catégorie:Sorcellerie
-- [ ] **Nine Herbs Charm**（英語，6,447 字元）— [原文](https://en.wikipedia.org/wiki/Nine_Herbs_Charm) — 來源分類：Category:Witchcraft > Incantation > Anglo-Saxon metrical charms
-- [ ] **スガラムルディ**（日語，6,421 字元）— [原文](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%AC%E3%83%A9%E3%83%A0%E3%83%AB%E3%83%87%E3%82%A3) — 來源分類：Category:魔女
-- [ ] **王妃 (白雪姫)**（日語，6,408 字元）— [原文](https://ja.wikipedia.org/wiki/%E7%8E%8B%E5%A6%83_%28%E7%99%BD%E9%9B%AA%E5%A7%AB%29) — 來源分類：Category:魔女 > 魔女を題材とした作品 > 白雪姫
-- [ ] **Juju (religiöse Praktik)**（德語，6,389 字元）— [原文](https://de.wikipedia.org/wiki/Juju_%28religi%C3%B6se_Praktik%29) — 來源分類：Kategorie:Hexerei > Moderne Hexenverfolgung
-- [ ] **Laura Malipiero**（義大利語，6,354 字元）— [原文](https://it.wikipedia.org/wiki/Laura_Malipiero) — 來源分類：Categoria:Stregoneria > Processi per stregoneria > Persone condannate per stregoneria
-- [ ] **Zotz!**（英語，6,347 字元）— [原文](https://en.wikipedia.org/wiki/Zotz%21) — 來源分類：Category:Witchcraft > Incantation > Magic words
-- [ ] **Calcu**（西班牙語，6,338 字元）— [原文](https://es.wikipedia.org/wiki/Calcu) — 來源分類：Categoría:Brujería
-- [ ] **Night of Pan**（英語，6,317 字元）— [原文](https://en.wikipedia.org/wiki/Night_of_Pan) — 來源分類：Category:Witchcraft > Incantation > Magic words
-- [ ] **Johann Georg II. Fuchs von Dornheim**（德語，6,315 字元）— [原文](https://de.wikipedia.org/wiki/Johann_Georg_II._Fuchs_von_Dornheim) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung in Bamberg
-- [ ] **For Delayed Birth**（英語，6,311 字元）— [原文](https://en.wikipedia.org/wiki/For_Delayed_Birth) — 來源分類：Category:Witchcraft > Incantation > Anglo-Saxon metrical charms
-- [ ] **Ursula Southeil**（德語，6,306 字元）— [原文](https://de.wikipedia.org/wiki/Ursula_Southeil) — 來源分類：Kategorie:Hexerei > Hexe
-- [ ] **Interpretaciones feministas de la caza de brujas en la Edad Moderna**（西班牙語，6,302 字元）— [原文](https://es.wikipedia.org/wiki/Interpretaciones_feministas_de_la_caza_de_brujas_en_la_Edad_Moderna) — 來源分類：Categoría:Brujería
-- [ ] **Laurie Cabot**（英語，6,293 字元）— [原文](https://en.wikipedia.org/wiki/Laurie_Cabot) — 來源分類：Category:Witchcraft > Witches
-- [ ] **Warlocks of Chiloé**（英語，6,288 字元）— [原文](https://en.wikipedia.org/wiki/Warlocks_of_Chilo%C3%A9) — 來源分類：Category:Witchcraft > American witchcraft
-- [ ] **Incubus (Dämon)**（德語，6,268 字元）— [原文](https://de.wikipedia.org/wiki/Incubus_%28D%C3%A4mon%29) — 來源分類：Kategorie:Hexenverfolgung
-- [ ] **Rustin Parr**（英語，6,258 字元）— [原文](https://en.wikipedia.org/wiki/Rustin_Parr) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Blair Witch
-- [ ] **De praestigiis daemonum**（法語，6,236 字元）— [原文](https://fr.wikipedia.org/wiki/De_praestigiis_daemonum) — 來源分類：Catégorie:Sorcellerie
-- [ ] **ハインリヒ・クラーマー**（日語，6,233 字元）— [原文](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%B3%E3%83%AA%E3%83%92%E3%83%BB%E3%82%AF%E3%83%A9%E3%83%BC%E3%83%9E%E3%83%BC) — 來源分類：Category:魔女 > 魔女狩り人
-- [ ] **Coga**（義大利語，6,230 字元）— [原文](https://it.wikipedia.org/wiki/Coga) — 來源分類：Categoria:Stregoneria
-- [ ] **Chutni Mahato**（英語，6,202 字元）— [原文](https://en.wikipedia.org/wiki/Chutni_Mahato) — 來源分類：Category:Witchcraft > Modern witchcraft > Modern witch hunts
-- [ ] **Cachiche**（西班牙語，6,177 字元）— [原文](https://es.wikipedia.org/wiki/Cachiche) — 來源分類：Categoría:Brujería
-- [ ] **Summis desiderantes affectibus**（德語，6,176 字元）— [原文](https://de.wikipedia.org/wiki/Summis_desiderantes_affectibus) — 來源分類：Kategorie:Hexenverfolgung
-- [ ] **Tempio di Tanah Lot**（義大利語，6,168 字元）— [原文](https://it.wikipedia.org/wiki/Tempio_di_Tanah_Lot) — 來源分類：Categoria:Stregoneria
-- [ ] **The Rough Guide to Voodoo**（英語，6,146 字元）— [原文](https://en.wikipedia.org/wiki/The_Rough_Guide_to_Voodoo) — 來源分類：Category:Witchcraft > African witchcraft > Voodoo
-- [ ] **The Book of Protection**（英語，6,139 字元）— [原文](https://en.wikipedia.org/wiki/The_Book_of_Protection) — 來源分類：Category:Witchcraft > Grimoires
-- [ ] **Saducismus Triumphatus**（英語，6,125 字元）— [原文](https://en.wikipedia.org/wiki/Saducismus_Triumphatus) — 來源分類：Category:Witchcraft > Witchcraft treatises
-- [ ] **Francis Hutchinson**（英語，6,120 字元）— [原文](https://en.wikipedia.org/wiki/Francis_Hutchinson) — 來源分類：Category:Witchcraft > Witch hunting > Critics of witch hunting
-- [ ] **Giuseppe Raffaelli**（義大利語，6,116 字元）— [原文](https://it.wikipedia.org/wiki/Giuseppe_Raffaelli) — 來源分類：Categoria:Stregoneria
-- [ ] **セバスチャン・ミカエリス**（日語，6,087 字元）— [原文](https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%90%E3%82%B9%E3%83%81%E3%83%A3%E3%83%B3%E3%83%BB%E3%83%9F%E3%82%AB%E3%82%A8%E3%83%AA%E3%82%B9) — 來源分類：Category:魔女 > 魔女狩り人
-- [ ] **セイラムの血統**（日語，6,077 字元）— [原文](https://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%A4%E3%83%A9%E3%83%A0%E3%81%AE%E8%A1%80%E7%B5%B1) — 來源分類：Category:魔女 > 魔女裁判 > セイラム魔女裁判
-- [ ] **パーシパエー**（日語，6,076 字元）— [原文](https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%BC%E3%82%B7%E3%83%91%E3%82%A8%E3%83%BC) — 來源分類：Category:魔女
-- [ ] **ゲロー**（日語，6,046 字元）— [原文](https://ja.wikipedia.org/wiki/%E3%82%B2%E3%83%AD%E3%83%BC) — 來源分類：Category:魔女 > 山姥やハッグ
-- [ ] **Crypt of Medea**（英語，6,041 字元）— [原文](https://en.wikipedia.org/wiki/Crypt_of_Medea) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Works about Medea
-- [ ] **Dömm**（義大利語，6,038 字元）— [原文](https://it.wikipedia.org/wiki/D%C3%B6mm) — 來源分類：Categoria:Stregoneria
-- [ ] **Newes from Scotland**（英語，6,006 字元）— [原文](https://en.wikipedia.org/wiki/Newes_from_Scotland) — 來源分類：Category:Witchcraft > Witchcraft treatises
-- [ ] **'68 (historieta)**（西班牙語，6,004 字元）— [原文](https://es.wikipedia.org/wiki/%2768_%28historieta%29) — 來源分類：Categoría:Brujería > Zombis > Zombis en la historieta
-- [ ] **Babi ngepet**（義大利語，5,976 字元）— [原文](https://it.wikipedia.org/wiki/Babi_ngepet) — 來源分類：Categoria:Stregoneria
-- [ ] **Anna Göldi Museum**（德語，5,858 字元）— [原文](https://de.wikipedia.org/wiki/Anna_G%C3%B6ldi_Museum) — 來源分類：Kategorie:Hexenverfolgung
-- [ ] **Strega dei Bell**（義大利語，5,825 字元）— [原文](https://it.wikipedia.org/wiki/Strega_dei_Bell) — 來源分類：Categoria:Stregoneria
-- [ ] **Peter Binsfeld**（西班牙語，5,804 字元）— [原文](https://es.wikipedia.org/wiki/Peter_Binsfeld) — 來源分類：Categoría:Brujería
-- [ ] **Galdr**（西班牙語，5,689 字元）— [原文](https://es.wikipedia.org/wiki/Galdr) — 來源分類：Categoría:Brujería
-- [ ] **De la démonomanie des sorciers**（法語，5,674 字元）— [原文](https://fr.wikipedia.org/wiki/De_la_d%C3%A9monomanie_des_sorciers) — 來源分類：Catégorie:Sorcellerie
-- [ ] **Mona (leyenda)**（西班牙語，5,624 字元）— [原文](https://es.wikipedia.org/wiki/Mona_%28leyenda%29) — 來源分類：Categoría:Brujería
-- [ ] **Envoûtement**（法語，5,565 字元）— [原文](https://fr.wikipedia.org/wiki/Envo%C3%BBtement) — 來源分類：Catégorie:Sorcellerie
-- [ ] **Witch window**（西班牙語，5,545 字元）— [原文](https://es.wikipedia.org/wiki/Witch_window) — 來源分類：Categoría:Brujería
-- [ ] **Marché des Sorcières**（法語，5,533 字元）— [原文](https://fr.wikipedia.org/wiki/March%C3%A9_des_Sorci%C3%A8res) — 來源分類：Catégorie:Sorcellerie
-- [ ] **Retna Dumilla**（義大利語，5,440 字元）— [原文](https://it.wikipedia.org/wiki/Retna_Dumilla) — 來源分類：Categoria:Stregoneria
-- [ ] **Allegoria di Ercole**（義大利語，5,417 字元）— [原文](https://it.wikipedia.org/wiki/Allegoria_di_Ercole) — 來源分類：Categoria:Stregoneria
-- [ ] **Mago Negro**（西班牙語，5,415 字元）— [原文](https://es.wikipedia.org/wiki/Mago_Negro) — 來源分類：Categoría:Brujería
-- [ ] **Blocksberg (Berg)**（德語，5,397 字元）— [原文](https://de.wikipedia.org/wiki/Blocksberg_%28Berg%29) — 來源分類：Kategorie:Hexenverfolgung
-- [ ] **Humbert de Costa**（法語，5,378 字元）— [原文](https://fr.wikipedia.org/wiki/Humbert_de_Costa) — 來源分類：Catégorie:Sorcellerie
-- [ ] **Streghe di Zugarramurdi**（義大利語，5,308 字元）— [原文](https://it.wikipedia.org/wiki/Streghe_di_Zugarramurdi) — 來源分類：Categoria:Stregoneria > Processi per stregoneria
-- [ ] **Anna Klemens**（法語，5,303 字元）— [原文](https://fr.wikipedia.org/wiki/Anna_Klemens) — 來源分類：Catégorie:Sorcellerie > Personne persécutée pour sorcellerie
-- [ ] **Salamanca (leyenda)**（西班牙語，5,253 字元）— [原文](https://es.wikipedia.org/wiki/Salamanca_%28leyenda%29) — 來源分類：Categoría:Brujería
-- [ ] **Teufelsbuhlschaft**（德語，5,247 字元）— [原文](https://de.wikipedia.org/wiki/Teufelsbuhlschaft) — 來源分類：Kategorie:Hexenverfolgung
-- [ ] **Brian P. Levack**（德語，5,225 字元）— [原文](https://de.wikipedia.org/wiki/Brian_P._Levack) — 來源分類：Kategorie:Hexenverfolgung
-- [ ] **Sobre la demonomanía de los brujos**（西班牙語，5,199 字元）— [原文](https://es.wikipedia.org/wiki/Sobre_la_demonoman%C3%ADa_de_los_brujos) — 來源分類：Categoría:Brujería
-- [ ] **Þórbjörg lítilvölva**（西班牙語，5,133 字元）— [原文](https://es.wikipedia.org/wiki/%C3%9E%C3%B3rbj%C3%B6rg_l%C3%ADtilv%C3%B6lva) — 來源分類：Categoría:Brujería
-- [ ] **Dorothea Flock**（德語，5,094 字元）— [原文](https://de.wikipedia.org/wiki/Dorothea_Flock) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung in Bamberg
-- [ ] **Allégorie d'Hercule**（法語，5,094 字元）— [原文](https://fr.wikipedia.org/wiki/All%C3%A9gorie_d%27Hercule) — 來源分類：Catégorie:Sorcellerie
+- [ ] **PSYCHO-PASS サイコパス**（日語，原始碼 354,803 位元組）— [原文](https://ja.wikipedia.org/wiki/PSYCHO-PASS_%E3%82%B5%E3%82%A4%E3%82%B3%E3%83%91%E3%82%B9) — 來源分類：Category:シャーマニズム > シビュラ
+- [ ] **後醍醐天皇**（日語，原始碼 297,377 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%BE%8C%E9%86%8D%E9%86%90%E5%A4%A9%E7%9A%87) — 來源分類：Category:陰陽道 > 日本の神 (人物神 御霊信仰)
+- [ ] **幸福の科学**（日語，原始碼 267,256 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%B9%B8%E7%A6%8F%E3%81%AE%E7%A7%91%E5%AD%A6) — 來源分類：Category:シャーマニズム > 霊媒師
+- [ ] **アレイスター・クロウリー**（日語，原始碼 229,741 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%BB%E3%82%AF%E3%83%AD%E3%82%A6%E3%83%AA%E3%83%BC) — 來源分類：Category:呪術 > 黒魔術
+- [ ] **祇園祭**（日語，原始碼 217,668 位元組）— [原文](https://ja.wikipedia.org/wiki/%E7%A5%87%E5%9C%92%E7%A5%AD) — 來源分類：Category:陰陽道 > 御霊信仰
+- [ ] **History of magic**（英語，原始碼 207,955 位元組）— [原文](https://en.wikipedia.org/wiki/History_of_magic) — 來源分類：Category:Witchcraft
+- [ ] **Ritualmordlegende**（德語，原始碼 172,077 位元組）— [原文](https://de.wikipedia.org/wiki/Ritualmordlegende) — 來源分類：Kategorie:Hexenverfolgung
+- [ ] **孔子**（中文，原始碼 168,571 位元組）— [原文](https://zh.wikipedia.org/wiki/%E5%AD%94%E5%AD%90) — 來源分類：Category:中國民間信仰 > 中国民间信仰神祇
+- [ ] **河童**（日語，原始碼 165,377 位元組）— [原文](https://ja.wikipedia.org/wiki/%E6%B2%B3%E7%AB%A5) — 來源分類：Category:日本の妖怪 > 河童
+- [ ] **Hexenverfolgung**（德語，原始碼 163,295 位元組）— [原文](https://de.wikipedia.org/wiki/Hexenverfolgung) — 來源分類：Kategorie:Hexenverfolgung
+- [ ] **Salem, Massachusetts**（英語，原始碼 160,451 位元組）— [原文](https://en.wikipedia.org/wiki/Salem%2C_Massachusetts) — 來源分類：Category:Witchcraft > American witchcraft
+- [ ] **关羽**（中文，原始碼 151,743 位元組）— [原文](https://zh.wikipedia.org/wiki/%E5%85%B3%E7%BE%BD) — 來源分類：Category:中國民間信仰 > 中国民间信仰神祇
+- [ ] **鬼太郎**（日語，原始碼 150,577 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%AC%BC%E5%A4%AA%E9%83%8E) — 來源分類：Category:日本の妖怪 > 水木しげるオリジナルの妖怪
+- [ ] **Azealia Banks**（英語，原始碼 146,872 位元組）— [原文](https://en.wikipedia.org/wiki/Azealia_Banks) — 來源分類：Category:Witchcraft > American witchcraft
+- [ ] **Crapaud dans l'imaginaire et la tradition en Occident**（法語，原始碼 143,231 位元組）— [原文](https://fr.wikipedia.org/wiki/Crapaud_dans_l%27imaginaire_et_la_tradition_en_Occident) — 來源分類：Catégorie:Sorcellerie
+- [ ] **大祓**（日語，原始碼 138,398 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%A4%A7%E7%A5%93) — 來源分類：Category:呪術 > 陰陽道
+- [ ] **菅原道真**（日語，原始碼 136,359 位元組）— [原文](https://ja.wikipedia.org/wiki/%E8%8F%85%E5%8E%9F%E9%81%93%E7%9C%9F) — 來源分類：Category:陰陽道 > 日本の神 (人物神 御霊信仰)
+- [ ] **Tetragrammaton**（英語，原始碼 136,308 位元組）— [原文](https://en.wikipedia.org/wiki/Tetragrammaton) — 來源分類：Category:Witchcraft > Incantation > Magic words
+- [ ] **Satanic panic**（英語，原始碼 127,917 位元組）— [原文](https://en.wikipedia.org/wiki/Satanic_panic) — 來源分類：Category:Witchcraft > Witch hunting
+- [ ] **羽衣 (衣装)**（日語，原始碼 117,721 位元組）— [原文](https://ja.wikipedia.org/wiki/%E7%BE%BD%E8%A1%A3_%28%E8%A1%A3%E8%A3%85%29) — 來源分類：Category:呪術
+- [ ] **Witch hunt**（英語，原始碼 117,050 位元組）— [原文](https://en.wikipedia.org/wiki/Witch_hunt) — 來源分類：Category:Witchcraft > Witch hunting
+- [ ] **무속**（韓語，原始碼 117,047 位元組）— [原文](https://ko.wikipedia.org/wiki/%EB%AC%B4%EC%86%8D) — 來源分類：분류:무속
+- [ ] **Zombie**（英語，原始碼 109,562 位元組）— [原文](https://en.wikipedia.org/wiki/Zombie) — 來源分類：Category:Witchcraft > African witchcraft > Voodoo
+- [ ] **Brujería**（西班牙語，原始碼 108,993 位元組）— [原文](https://es.wikipedia.org/wiki/Brujer%C3%ADa) — 來源分類：Categoría:Brujería
+- [ ] **Goezia (pratica magica)**（義大利語，原始碼 108,386 位元組）— [原文](https://it.wikipedia.org/wiki/Goezia_%28pratica_magica%29) — 來源分類：Categoria:Stregoneria
+- [ ] **真言**（日語，原始碼 102,171 位元組）— [原文](https://ja.wikipedia.org/wiki/%E7%9C%9F%E8%A8%80) — 來源分類：Category:呪術 > 陀羅尼
+- [ ] **Margaret Murray**（英語，原始碼 101,963 位元組）— [原文](https://en.wikipedia.org/wiki/Margaret_Murray) — 來源分類：Category:Witchcraft > Historians of witchcraft
+- [ ] **Lieu du sabbat**（法語，原始碼 99,825 位元組）— [原文](https://fr.wikipedia.org/wiki/Lieu_du_sabbat) — 來源分類：Catégorie:Sorcellerie
+- [ ] **シビュラの託宣**（日語，原始碼 99,017 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%93%E3%83%A5%E3%83%A9%E3%81%AE%E8%A8%97%E5%AE%A3) — 來源分類：Category:シャーマニズム > シビュラ
+- [ ] **天満大自在天神**（日語，原始碼 97,847 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%A4%A9%E6%BA%80%E5%A4%A7%E8%87%AA%E5%9C%A8%E5%A4%A9%E7%A5%9E) — 來源分類：Category:陰陽道 > 日本の神 (人物神 御霊信仰)
+- [ ] **干支**（日語，原始碼 97,698 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%B9%B2%E6%94%AF) — 來源分類：Category:呪術 > 陰陽道
+- [ ] **The Blair Witch Project**（英語，原始碼 97,434 位元組）— [原文](https://en.wikipedia.org/wiki/The_Blair_Witch_Project) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Blair Witch
+- [ ] **ペルヒタ**（日語，原始碼 96,699 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%AB%E3%83%92%E3%82%BF) — 來源分類：Category:魔女
+- [ ] **ねずみ男**（日語，原始碼 96,336 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%81%AD%E3%81%9A%E3%81%BF%E7%94%B7) — 來源分類：Category:日本の妖怪 > 水木しげるオリジナルの妖怪
+- [ ] **Joseph Smith Papyri**（英語，原始碼 96,039 位元組）— [原文](https://en.wikipedia.org/wiki/Joseph_Smith_Papyri) — 來源分類：Category:Witchcraft > Incantation > Book of the Dead
+- [ ] **道教**（日語，原始碼 94,608 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%81%93%E6%95%99) — 來源分類：Category:呪術 > 陰陽道
+- [ ] **老子**（中文，原始碼 94,596 位元組）— [原文](https://zh.wikipedia.org/wiki/%E8%80%81%E5%AD%90) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **诸葛亮**（中文，原始碼 94,185 位元組）— [原文](https://zh.wikipedia.org/wiki/%E8%AF%B8%E8%91%9B%E4%BA%AE) — 來源分類：Category:中國民間信仰 > 中国民间信仰神祇
+- [ ] **韩信**（中文，原始碼 93,563 位元組）— [原文](https://zh.wikipedia.org/wiki/%E9%9F%A9%E4%BF%A1) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **岳飞**（中文，原始碼 92,771 位元組）— [原文](https://zh.wikipedia.org/wiki/%E5%B2%B3%E9%A3%9E) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **Bell Witch**（英語，原始碼 91,677 位元組）— [原文](https://en.wikipedia.org/wiki/Bell_Witch) — 來源分類：Category:Witchcraft > American witchcraft
+- [ ] **Zatanna (serie limitada)**（西班牙語，原始碼 91,136 位元組）— [原文](https://es.wikipedia.org/wiki/Zatanna_%28serie_limitada%29) — 來源分類：Categoría:Brujería > Brujos ficticios > Zatanna
+- [ ] **Argonautica**（英語，原始碼 90,150 位元組）— [原文](https://en.wikipedia.org/wiki/Argonautica) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Works about Medea
+- [ ] **Carrefour dans le folklore et la mythologie**（法語，原始碼 88,150 位元組）— [原文](https://fr.wikipedia.org/wiki/Carrefour_dans_le_folklore_et_la_mythologie) — 來源分類：Catégorie:Sorcellerie
+- [ ] **節分**（日語，原始碼 86,853 位元組）— [原文](https://ja.wikipedia.org/wiki/%E7%AF%80%E5%88%86) — 來源分類：Category:日本の妖怪 > 鬼
+- [ ] **日本の妖怪一覧**（日語，原始碼 85,107 位元組）— [原文](https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%A6%96%E6%80%AA%E4%B8%80%E8%A6%A7) — 來源分類：Category:日本の妖怪
+- [ ] **Juicios por brujería en la Edad Moderna**（西班牙語，原始碼 82,942 位元組）— [原文](https://es.wikipedia.org/wiki/Juicios_por_brujer%C3%ADa_en_la_Edad_Moderna) — 來源分類：Categoría:Brujería
+- [ ] **Sorcellerie**（法語，原始碼 81,005 位元組）— [原文](https://fr.wikipedia.org/wiki/Sorcellerie) — 來源分類：Catégorie:Sorcellerie
+- [ ] **Hermetica**（英語，原始碼 77,745 位元組）— [原文](https://en.wikipedia.org/wiki/Hermetica) — 來源分類：Category:Witchcraft > Grimoires
+- [ ] **Dharani**（英語，原始碼 76,576 位元組）— [原文](https://en.wikipedia.org/wiki/Dharani) — 來源分類：Category:Witchcraft > Incantation > Magic words
+- [ ] **猫娘 (ゲゲゲの鬼太郎)**（日語，原始碼 76,454 位元組）— [原文](https://ja.wikipedia.org/wiki/%E7%8C%AB%E5%A8%98_%28%E3%82%B2%E3%82%B2%E3%82%B2%E3%81%AE%E9%AC%BC%E5%A4%AA%E9%83%8E%29) — 來源分類：Category:日本の妖怪 > 水木しげるオリジナルの妖怪
+- [ ] **生肖**（中文，原始碼 75,745 位元組）— [原文](https://zh.wikipedia.org/wiki/%E7%94%9F%E8%82%96) — 來源分類：Category:中國民間信仰
+- [ ] **蝦夷**（日語，原始碼 75,468 位元組）— [原文](https://ja.wikipedia.org/wiki/%E8%9D%A6%E5%A4%B7) — 來源分類：Category:日本の妖怪 > 鬼
+- [ ] **苏轼**（中文，原始碼 74,386 位元組）— [原文](https://zh.wikipedia.org/wiki/%E8%8B%8F%E8%BD%BC) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **Magie et symbolique du clou**（法語，原始碼 74,376 位元組）— [原文](https://fr.wikipedia.org/wiki/Magie_et_symbolique_du_clou) — 來源分類：Catégorie:Sorcellerie
+- [ ] **桃太郎**（日語，原始碼 73,360 位元組）— [原文](https://ja.wikipedia.org/wiki/%E6%A1%83%E5%A4%AA%E9%83%8E) — 來源分類：Category:日本の妖怪 > 鬼
+- [ ] **媽祖**（中文，原始碼 72,838 位元組）— [原文](https://zh.wikipedia.org/wiki/%E5%AA%BD%E7%A5%96) — 來源分類：Category:中國民間信仰 > 福建民間信仰
+- [ ] **平将門**（日語，原始碼 71,704 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%B9%B3%E5%B0%86%E9%96%80) — 來源分類：Category:陰陽道 > 日本の神 (人物神 御霊信仰)
+- [ ] **Thelema**（英語，原始碼 71,105 位元組）— [原文](https://en.wikipedia.org/wiki/Thelema) — 來源分類：Category:Witchcraft > Incantation > Magic words
+- [ ] **Harry Potter influences and analogues**（英語，原始碼 70,135 位元組）— [原文](https://en.wikipedia.org/wiki/Harry_Potter_influences_and_analogues) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Harry Potter
+- [ ] **Brujería en Europa**（西班牙語，原始碼 69,777 位元組）— [原文](https://es.wikipedia.org/wiki/Brujer%C3%ADa_en_Europa) — 來源分類：Categoría:Brujería
+- [ ] **Verfolgung von Menschen mit Albinismus**（德語，原始碼 68,819 位元組）— [原文](https://de.wikipedia.org/wiki/Verfolgung_von_Menschen_mit_Albinismus) — 來源分類：Kategorie:Hexerei > Moderne Hexenverfolgung
+- [ ] **錬金術**（日語，原始碼 68,197 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%8C%AC%E9%87%91%E8%A1%93) — 來源分類：Category:呪術
+- [ ] **Persecution of people with albinism**（英語，原始碼 67,873 位元組）— [原文](https://en.wikipedia.org/wiki/Persecution_of_people_with_albinism) — 來源分類：Category:Witchcraft > African witchcraft
+- [ ] **展覧会の絵**（日語，原始碼 66,984 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%B1%95%E8%A6%A7%E4%BC%9A%E3%81%AE%E7%B5%B5) — 來源分類：Category:魔女 > バーバ・ヤーガ
+- [ ] **Stregoneria**（義大利語，原始碼 65,995 位元組）— [原文](https://it.wikipedia.org/wiki/Stregoneria) — 來源分類：Categoria:Stregoneria
+- [ ] **Islam and magic**（英語，原始碼 65,072 位元組）— [原文](https://en.wikipedia.org/wiki/Islam_and_magic) — 來源分類：Category:Witchcraft
+- [ ] **Sator Square**（英語，原始碼 64,633 位元組）— [原文](https://en.wikipedia.org/wiki/Sator_Square) — 來源分類：Category:Witchcraft > Incantation
+- [ ] **アリエル (ディズニーキャラクター)**（日語，原始碼 63,177 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AA%E3%82%A8%E3%83%AB_%28%E3%83%87%E3%82%A3%E3%82%BA%E3%83%8B%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%29) — 來源分類：Category:魔女 > 魔女を題材とした作品 > 人魚姫
+- [ ] **William Phips**（英語，原始碼 63,067 位元組）— [原文](https://en.wikipedia.org/wiki/William_Phips) — 來源分類：Category:Witchcraft > Witch hunting > Critics of witch hunting
+- [ ] **于谦**（中文，原始碼 62,166 位元組）— [原文](https://zh.wikipedia.org/wiki/%E4%BA%8E%E8%B0%A6) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **Elohim**（英語，原始碼 60,167 位元組）— [原文](https://en.wikipedia.org/wiki/Elohim) — 來源分類：Category:Witchcraft > Incantation > Magic words
+- [ ] **呪符**（日語，原始碼 59,131 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%91%AA%E7%AC%A6) — 來源分類：Category:呪術 > 陰陽道
+- [ ] **悪路王**（日語，原始碼 57,955 位元組）— [原文](https://ja.wikipedia.org/wiki/%E6%82%AA%E8%B7%AF%E7%8E%8B) — 來源分類：Category:日本の妖怪 > 鬼
+- [ ] **Lilith**（義大利語，原始碼 57,940 位元組）— [原文](https://it.wikipedia.org/wiki/Lilith) — 來源分類：Categoria:Stregoneria
+- [ ] **Book of Shadows: Blair Witch 2**（英語，原始碼 57,683 位元組）— [原文](https://en.wikipedia.org/wiki/Book_of_Shadows%3A_Blair_Witch_2) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Blair Witch
+- [ ] **멩두**（韓語，原始碼 57,432 位元組）— [原文](https://ko.wikipedia.org/wiki/%EB%A9%A9%EB%91%90) — 來源分類：분류:무속 > 무속 용품
+- [ ] **タロット**（日語，原始碼 56,695 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%AD%E3%83%83%E3%83%88) — 來源分類：Category:呪術 > 西洋魔術
+- [ ] **Caccia alle streghe**（義大利語，原始碼 56,686 位元組）— [原文](https://it.wikipedia.org/wiki/Caccia_alle_streghe) — 來源分類：Categoria:Stregoneria
+- [ ] **天社土御門神道**（日語，原始碼 56,572 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%A4%A9%E7%A4%BE%E5%9C%9F%E5%BE%A1%E9%96%80%E7%A5%9E%E9%81%93) — 來源分類：Category:呪術 > 陰陽道
+- [ ] **魔女狩り**（日語，原始碼 56,529 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%AD%94%E5%A5%B3%E7%8B%A9%E3%82%8A) — 來源分類：Category:魔女
+- [ ] **孙悟空**（中文，原始碼 56,377 位元組）— [原文](https://zh.wikipedia.org/wiki/%E5%AD%99%E6%82%9F%E7%A9%BA) — 來源分類：Category:中國民間信仰 > 福建民間信仰
+- [ ] **上帝**（中文，原始碼 55,980 位元組）— [原文](https://zh.wikipedia.org/wiki/%E4%B8%8A%E5%B8%9D) — 來源分類：Category:中國民間信仰 > 中国民间信仰神祇
+- [ ] **孙膑**（中文，原始碼 55,760 位元組）— [原文](https://zh.wikipedia.org/wiki/%E5%AD%99%E8%86%91) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **Pig-faced women**（英語，原始碼 55,736 位元組）— [原文](https://en.wikipedia.org/wiki/Pig-faced_women) — 來源分類：Category:Witchcraft
+- [ ] **平宗盛**（日語，原始碼 55,718 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%B9%B3%E5%AE%97%E7%9B%9B) — 來源分類：Category:陰陽道 > 日本の神 (人物神 御霊信仰)
+- [ ] **History of Arda**（英語，原始碼 54,908 位元組）— [原文](https://en.wikipedia.org/wiki/History_of_Arda) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Middle-earth
+- [ ] **Strega**（義大利語，原始碼 54,695 位元組）— [原文](https://it.wikipedia.org/wiki/Strega) — 來源分類：Categoria:Stregoneria
+- [ ] **生肖纪年**（中文，原始碼 54,615 位元組）— [原文](https://zh.wikipedia.org/wiki/%E7%94%9F%E8%82%96%E7%BA%AA%E5%B9%B4) — 來源分類：Category:中國民間信仰
+- [ ] **魔術**（日語，原始碼 54,469 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%AD%94%E8%A1%93) — 來源分類：Category:呪術
+- [ ] **Ronald Hutton**（英語，原始碼 54,059 位元組）— [原文](https://en.wikipedia.org/wiki/Ronald_Hutton) — 來源分類：Category:Witchcraft > Historians of witchcraft
+- [ ] **陰陽師**（日語，原始碼 53,934 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%99%B0%E9%99%BD%E5%B8%AB) — 來源分類：Category:陰陽道 > 陰陽寮
+- [ ] **Anti-cult movement**（英語，原始碼 53,648 位元組）— [原文](https://en.wikipedia.org/wiki/Anti-cult_movement) — 來源分類：Category:Witchcraft > Witch hunting
+- [ ] **Solomon Grundy (cómic)**（西班牙語，原始碼 53,610 位元組）— [原文](https://es.wikipedia.org/wiki/Solomon_Grundy_%28c%C3%B3mic%29) — 來源分類：Categoría:Brujería > Zombis > Zombis en la historieta
+- [ ] **Zombi**（西班牙語，原始碼 53,539 位元組）— [原文](https://es.wikipedia.org/wiki/Zombi) — 來源分類：Categoría:Brujería > Zombis
+- [ ] **Abraxas**（英語，原始碼 52,829 位元組）— [原文](https://en.wikipedia.org/wiki/Abraxas) — 來源分類：Category:Witchcraft > Incantation > Magic words
+- [ ] **紙錢**（中文，原始碼 52,714 位元組）— [原文](https://zh.wikipedia.org/wiki/%E7%B4%99%E9%8C%A2) — 來源分類：Category:中國民間信仰 > 中国民间祭祀活动
+- [ ] **鄭和**（中文，原始碼 52,550 位元組）— [原文](https://zh.wikipedia.org/wiki/%E9%84%AD%E5%92%8C) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **Witchcraft in Africa**（英語，原始碼 52,260 位元組）— [原文](https://en.wikipedia.org/wiki/Witchcraft_in_Africa) — 來源分類：Category:Witchcraft > African witchcraft
+- [ ] **香港太平清醮**（中文，原始碼 52,202 位元組）— [原文](https://zh.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF%E5%A4%AA%E5%B9%B3%E6%B8%85%E9%86%AE) — 來源分類：Category:中國民間信仰 > 香港民間信仰
+- [ ] **火の蛇**（日語，原始碼 51,933 位元組）— [原文](https://ja.wikipedia.org/wiki/%E7%81%AB%E3%81%AE%E8%9B%87) — 來源分類：Category:呪術
+- [ ] **後鳥羽天皇**（日語，原始碼 51,788 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%BE%8C%E9%B3%A5%E7%BE%BD%E5%A4%A9%E7%9A%87) — 來源分類：Category:陰陽道 > 日本の神 (人物神 御霊信仰)
+- [ ] **件**（日語，原始碼 50,998 位元組）— [原文](https://ja.wikipedia.org/wiki/%E4%BB%B6) — 來源分類：Category:日本の妖怪
+- [ ] **保生大帝**（中文，原始碼 50,892 位元組）— [原文](https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%94%9F%E5%A4%A7%E5%B8%9D) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **Medea (play)**（英語，原始碼 50,684 位元組）— [原文](https://en.wikipedia.org/wiki/Medea_%28play%29) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Works about Medea
+- [ ] **Cotton: Fantastic Night Dreams**（英語，原始碼 50,543 位元組）— [原文](https://en.wikipedia.org/wiki/Cotton%3A_Fantastic_Night_Dreams) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Cotton (series)
+- [ ] **道教の歴史**（日語，原始碼 50,262 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%81%93%E6%95%99%E3%81%AE%E6%AD%B4%E5%8F%B2) — 來源分類：Category:呪術 > 陰陽道
+- [ ] **白雪姫 (ディズニーキャラクター)**（日語，原始碼 50,092 位元組）— [原文](https://ja.wikipedia.org/wiki/%E7%99%BD%E9%9B%AA%E5%A7%AB_%28%E3%83%87%E3%82%A3%E3%82%BA%E3%83%8B%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%29) — 來源分類：Category:魔女 > 魔女を題材とした作品 > 白雪姫
+- [ ] **Philology and Middle-earth**（英語，原始碼 49,870 位元組）— [原文](https://en.wikipedia.org/wiki/Philology_and_Middle-earth) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Middle-earth
+- [ ] **チャネリング**（日語，原始碼 49,840 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%83%8D%E3%83%AA%E3%83%B3%E3%82%B0) — 來源分類：Category:シャーマニズム
+- [ ] **霊言 (幸福の科学)**（日語，原始碼 49,658 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%9C%8A%E8%A8%80_%28%E5%B9%B8%E7%A6%8F%E3%81%AE%E7%A7%91%E5%AD%A6%29) — 來源分類：Category:シャーマニズム
+- [ ] **藤原頼長**（日語，原始碼 49,571 位元組）— [原文](https://ja.wikipedia.org/wiki/%E8%97%A4%E5%8E%9F%E9%A0%BC%E9%95%B7) — 來源分類：Category:陰陽道 > 日本の神 (人物神 御霊信仰)
+- [ ] **苻坚**（中文，原始碼 48,315 位元組）— [原文](https://zh.wikipedia.org/wiki/%E8%8B%BB%E5%9D%9A) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **阿波狸合戦**（日語，原始碼 48,232 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%98%BF%E6%B3%A2%E7%8B%B8%E5%90%88%E6%88%A6) — 來源分類：Category:日本の妖怪 > 化け狸
+- [ ] **台灣民間信仰**（中文，原始碼 48,076 位元組）— [原文](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E6%B0%91%E9%96%93%E4%BF%A1%E4%BB%B0) — 來源分類：Category:中國民間信仰
+- [ ] **海坊主**（日語，原始碼 48,063 位元組）— [原文](https://ja.wikipedia.org/wiki/%E6%B5%B7%E5%9D%8A%E4%B8%BB) — 來源分類：Category:日本の妖怪
+- [ ] **Trial by ordeal**（英語，原始碼 47,649 位元組）— [原文](https://en.wikipedia.org/wiki/Trial_by_ordeal) — 來源分類：Category:Witchcraft > Witch hunting > Early Modern witch hunts
+- [ ] **Brujería y contracultura gay**（西班牙語，原始碼 47,538 位元組）— [原文](https://es.wikipedia.org/wiki/Brujer%C3%ADa_y_contracultura_gay) — 來源分類：Categoría:Brujería
+- [ ] **ルッツェルフラウ**（日語，原始碼 47,317 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%83%E3%83%84%E3%82%A7%E3%83%AB%E3%83%95%E3%83%A9%E3%82%A6) — 來源分類：Category:魔女
+- [ ] **アマビエ**（日語，原始碼 46,471 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9E%E3%83%93%E3%82%A8) — 來源分類：Category:日本の妖怪
+- [ ] **Middle-earth**（英語，原始碼 46,393 位元組）— [原文](https://en.wikipedia.org/wiki/Middle-earth) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Middle-earth
+- [ ] **Merseburg charms**（英語，原始碼 45,388 位元組）— [原文](https://en.wikipedia.org/wiki/Merseburg_charms) — 來源分類：Category:Witchcraft > Incantation
+- [ ] **産女**（日語，原始碼 45,075 位元組）— [原文](https://ja.wikipedia.org/wiki/%E7%94%A3%E5%A5%B3) — 來源分類：Category:日本の妖怪
+- [ ] **Three Books of Occult Philosophy**（英語，原始碼 44,043 位元組）— [原文](https://en.wikipedia.org/wiki/Three_Books_of_Occult_Philosophy) — 來源分類：Category:Witchcraft > Grimoires
+- [ ] **Book of the Dead**（英語，原始碼 43,923 位元組）— [原文](https://en.wikipedia.org/wiki/Book_of_the_Dead) — 來源分類：Category:Witchcraft > Incantation
+- [ ] **火車 (妖怪)**（日語，原始碼 43,363 位元組）— [原文](https://ja.wikipedia.org/wiki/%E7%81%AB%E8%BB%8A_%28%E5%A6%96%E6%80%AA%29) — 來源分類：Category:日本の妖怪
+- [ ] **アストラル投射**（日語，原始碼 43,288 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AB%E6%8A%95%E5%B0%84) — 來源分類：Category:シャーマニズム
+- [ ] **安徳天皇**（日語，原始碼 42,869 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%AE%89%E5%BE%B3%E5%A4%A9%E7%9A%87) — 來源分類：Category:陰陽道 > 日本の神 (人物神 御霊信仰)
+- [ ] **シコ・シャヴィエル**（日語，原始碼 42,504 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%B3%E3%83%BB%E3%82%B7%E3%83%A3%E3%83%B4%E3%82%A3%E3%82%A8%E3%83%AB) — 來源分類：Category:シャーマニズム > 霊媒師
+- [ ] **テュアナのアポロニオス**（日語，原始碼 42,490 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%86%E3%83%A5%E3%82%A2%E3%83%8A%E3%81%AE%E3%82%A2%E3%83%9D%E3%83%AD%E3%83%8B%E3%82%AA%E3%82%B9) — 來源分類：Category:呪術 > 魔術師
+- [ ] **Die Benandanti. Feldkulte und Hexenwesen im 16. und 17. Jahrhundert**（德語，原始碼 42,406 位元組）— [原文](https://de.wikipedia.org/wiki/Die_Benandanti._Feldkulte_und_Hexenwesen_im_16._und_17._Jahrhundert) — 來源分類：Kategorie:Hexenverfolgung
+- [ ] **Modern witch hunts**（英語，原始碼 42,327 位元組）— [原文](https://en.wikipedia.org/wiki/Modern_witch_hunts) — 來源分類：Category:Witchcraft > African witchcraft
+- [ ] **なまはげ**（日語，原始碼 41,765 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%81%AA%E3%81%BE%E3%81%AF%E3%81%92) — 來源分類：Category:日本の妖怪 > 鬼
+- [ ] **崇徳天皇**（日語，原始碼 41,609 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%B4%87%E5%BE%B3%E5%A4%A9%E7%9A%87) — 來源分類：Category:陰陽道 > 日本の神 (人物神 御霊信仰)
+- [ ] **メルゼブルクの呪文**（日語，原始碼 41,521 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%AB%E3%82%BC%E3%83%96%E3%83%AB%E3%82%AF%E3%81%AE%E5%91%AA%E6%96%87) — 來源分類：Category:呪術
+- [ ] **Medea (mitología)**（西班牙語，原始碼 41,510 位元組）— [原文](https://es.wikipedia.org/wiki/Medea_%28mitolog%C3%ADa%29) — 來源分類：Categoría:Brujería
+- [ ] **Maat**（英語，原始碼 41,444 位元組）— [原文](https://en.wikipedia.org/wiki/Maat) — 來源分類：Category:Witchcraft > Incantation > Book of the Dead
+- [ ] **六曜**（日語，原始碼 41,410 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%85%AD%E6%9B%9C) — 來源分類：Category:呪術 > 陰陽道
+- [ ] **Diablo**（西班牙語，原始碼 41,371 位元組）— [原文](https://es.wikipedia.org/wiki/Diablo) — 來源分類：Categoría:Brujería
+- [ ] **魔法の鏡 (白雪姫)**（日語，原始碼 41,237 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%AD%94%E6%B3%95%E3%81%AE%E9%8F%A1_%28%E7%99%BD%E9%9B%AA%E5%A7%AB%29) — 來源分類：Category:魔女 > 魔女を題材とした作品 > 白雪姫
+- [ ] **Blair Witch**（英語，原始碼 40,879 位元組）— [原文](https://en.wikipedia.org/wiki/Blair_Witch) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Blair Witch
+- [ ] **目玉おやじ**（日語，原始碼 40,234 位元組）— [原文](https://ja.wikipedia.org/wiki/%E7%9B%AE%E7%8E%89%E3%81%8A%E3%82%84%E3%81%98) — 來源分類：Category:日本の妖怪 > 水木しげるオリジナルの妖怪
+- [ ] **Mandragore**（法語，原始碼 40,029 位元組）— [原文](https://fr.wikipedia.org/wiki/Mandragore) — 來源分類：Catégorie:Sorcellerie > Plante utilisée en sorcellerie
+- [ ] **屈原**（中文，原始碼 39,912 位元組）— [原文](https://zh.wikipedia.org/wiki/%E5%B1%88%E5%8E%9F) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **霍光**（中文，原始碼 39,866 位元組）— [原文](https://zh.wikipedia.org/wiki/%E9%9C%8D%E5%85%89) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **鬼**（日語，原始碼 39,761 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%AC%BC) — 來源分類：Category:日本の妖怪 > 鬼
+- [ ] **Witchcraft in North America**（英語，原始碼 39,665 位元組）— [原文](https://en.wikipedia.org/wiki/Witchcraft_in_North_America) — 來源分類：Category:Witchcraft > American witchcraft
+- [ ] **Wethersfield, Connecticut**（英語，原始碼 39,501 位元組）— [原文](https://en.wikipedia.org/wiki/Wethersfield%2C_Connecticut) — 來源分類：Category:Witchcraft > American witchcraft
+- [ ] **탈춤**（韓語，原始碼 39,334 位元組）— [原文](https://ko.wikipedia.org/wiki/%ED%83%88%EC%B6%A4) — 來源分類：분류:무속 > 무속 의식
+- [ ] **Moderne Hexenverfolgung**（德語，原始碼 39,114 位元組）— [原文](https://de.wikipedia.org/wiki/Moderne_Hexenverfolgung) — 來源分類：Kategorie:Hexerei > Moderne Hexenverfolgung
+- [ ] **天狗草紙**（日語，原始碼 38,644 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%A4%A9%E7%8B%97%E8%8D%89%E7%B4%99) — 來源分類：Category:日本の妖怪 > 天狗
+- [ ] **のっぺらぼう**（日語，原始碼 38,489 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%81%AE%E3%81%A3%E3%81%BA%E3%82%89%E3%81%BC%E3%81%86) — 來源分類：Category:日本の妖怪
+- [ ] **ヴォルヴァ**（日語，原始碼 38,446 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A9%E3%83%AB%E3%83%B4%E3%82%A1) — 來源分類：Category:シャーマニズム
+- [ ] **Sabbat des chats**（法語，原始碼 38,207 位元組）— [原文](https://fr.wikipedia.org/wiki/Sabbat_des_chats) — 來源分類：Catégorie:Sorcellerie
+- [ ] **ドルーデ**（日語，原始碼 38,152 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%AB%E3%83%BC%E3%83%87) — 來源分類：Category:魔女 > 山姥やハッグ
+- [ ] **搶頭香**（中文，原始碼 38,136 位元組）— [原文](https://zh.wikipedia.org/wiki/%E6%90%B6%E9%A0%AD%E9%A6%99) — 來源分類：Category:中國民間信仰
+- [ ] **大悲心陀羅尼**（日語，原始碼 37,496 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%82%B2%E5%BF%83%E9%99%80%E7%BE%85%E5%B0%BC) — 來源分類：Category:呪術 > 陀羅尼
+- [ ] **Robert Calef**（英語，原始碼 37,459 位元組）— [原文](https://en.wikipedia.org/wiki/Robert_Calef) — 來源分類：Category:Witchcraft > Witch hunting > Critics of witch hunting
+- [ ] **牛頭天王**（日語，原始碼 37,010 位元組）— [原文](https://ja.wikipedia.org/wiki/%E7%89%9B%E9%A0%AD%E5%A4%A9%E7%8E%8B) — 來源分類：Category:陰陽道 > 陰陽道の神
+- [ ] **Leo Igwe**（英語，原始碼 36,962 位元組）— [原文](https://en.wikipedia.org/wiki/Leo_Igwe) — 來源分類：Category:Witchcraft > Modern witchcraft > Modern witch hunts
+- [ ] **臨水夫人**（中文，原始碼 36,938 位元組）— [原文](https://zh.wikipedia.org/wiki/%E8%87%A8%E6%B0%B4%E5%A4%AB%E4%BA%BA) — 來源分類：Category:中國民間信仰 > 福建民間信仰
+- [ ] **Pyramid Texts**（英語，原始碼 36,496 位元組）— [原文](https://en.wikipedia.org/wiki/Pyramid_Texts) — 來源分類：Category:Witchcraft > Incantation > Book of the Dead
+- [ ] **Asesinato ritual**（西班牙語，原始碼 36,368 位元組）— [原文](https://es.wikipedia.org/wiki/Asesinato_ritual) — 來源分類：Categoría:Brujería
+- [ ] **Saul (Handel)**（英語，原始碼 36,364 位元組）— [原文](https://en.wikipedia.org/wiki/Saul_%28Handel%29) — 來源分類：Category:Witchcraft > Judaism and witchcraft > Witch of Endor
+- [ ] **Tolkien fan fiction**（英語，原始碼 36,352 位元組）— [原文](https://en.wikipedia.org/wiki/Tolkien_fan_fiction) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Middle-earth
+- [ ] **陰陽師の一覧**（日語，原始碼 36,064 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%99%B0%E9%99%BD%E5%B8%AB%E3%81%AE%E4%B8%80%E8%A6%A7) — 來源分類：Category:陰陽道 > 陰陽師
+- [ ] **三教合流**（中文，原始碼 35,967 位元組）— [原文](https://zh.wikipedia.org/wiki/%E4%B8%89%E6%95%99%E5%90%88%E6%B5%81) — 來源分類：Category:中國民間信仰 > 三教
+- [ ] **大嶽丸**（日語，原始碼 35,890 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%B6%BD%E4%B8%B8) — 來源分類：Category:日本の妖怪 > 鬼
+- [ ] **La hija de Cólquide**（英語，原始碼 35,822 位元組）— [原文](https://en.wikipedia.org/wiki/La_hija_de_C%C3%B3lquide) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Works about Medea
+- [ ] **Asian witchcraft**（英語，原始碼 35,123 位元組）— [原文](https://en.wikipedia.org/wiki/Asian_witchcraft) — 來源分類：Category:Witchcraft > Asian witchcraft
+- [ ] **グリモワール**（日語，原始碼 35,039 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AA%E3%83%A2%E3%83%AF%E3%83%BC%E3%83%AB) — 來源分類：Category:呪術 > 西洋魔術
+- [ ] **ユタ**（日語，原始碼 34,882 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%A6%E3%82%BF) — 來源分類：Category:シャーマニズム
+- [ ] **人魚姫**（日語，原始碼 34,849 位元組）— [原文](https://ja.wikipedia.org/wiki/%E4%BA%BA%E9%AD%9A%E5%A7%AB) — 來源分類：Category:魔女 > 魔女を題材とした作品 > 人魚姫
+- [ ] **鬼剣舞**（日語，原始碼 34,728 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%AC%BC%E5%89%A3%E8%88%9E) — 來源分類：Category:日本の妖怪 > 鬼
+- [ ] **Cotton Rock n' Roll: Superlative Night Dreams**（英語，原始碼 34,605 位元組）— [原文](https://en.wikipedia.org/wiki/Cotton_Rock_n%27_Roll%3A_Superlative_Night_Dreams) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Cotton (series)
+- [ ] **中国民间信仰**（中文，原始碼 34,554 位元組）— [原文](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E6%B0%91%E9%97%B4%E4%BF%A1%E4%BB%B0) — 來源分類：Category:中國民間信仰
+- [ ] **ロザリーン・ノートン**（日語，原始碼 34,410 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B6%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%BB%E3%83%8E%E3%83%BC%E3%83%88%E3%83%B3) — 來源分類：Category:魔女
+- [ ] **Meurtre rituel**（法語，原始碼 34,323 位元組）— [原文](https://fr.wikipedia.org/wiki/Meurtre_rituel) — 來源分類：Catégorie:Sorcellerie
+- [ ] **キルケー**（日語，原始碼 34,268 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%AB%E3%82%B1%E3%83%BC) — 來源分類：Category:魔女
+- [ ] **憑依**（日語，原始碼 34,231 位元組）— [原文](https://ja.wikipedia.org/wiki/%E6%86%91%E4%BE%9D) — 來源分類：Category:シャーマニズム
+- [ ] **酒呑童子**（日語，原始碼 34,084 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%85%92%E5%91%91%E7%AB%A5%E5%AD%90) — 來源分類：Category:日本の妖怪 > 鬼
+- [ ] **高丸 (人物)**（日語，原始碼 33,870 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%AB%98%E4%B8%B8_%28%E4%BA%BA%E7%89%A9%29) — 來源分類：Category:日本の妖怪 > 鬼
+- [ ] **Aradia, or the Gospel of the Witches**（英語，原始碼 33,826 位元組）— [原文](https://en.wikipedia.org/wiki/Aradia%2C_or_the_Gospel_of_the_Witches) — 來源分類：Category:Witchcraft > Grimoires
+- [ ] **유타 (유구)**（韓語，原始碼 33,591 位元組）— [原文](https://ko.wikipedia.org/wiki/%EC%9C%A0%ED%83%80_%28%EC%9C%A0%EA%B5%AC%29) — 來源分類：분류:샤머니즘
+- [ ] **Witch hunts in Nepal**（英語，原始碼 33,553 位元組）— [原文](https://en.wikipedia.org/wiki/Witch_hunts_in_Nepal) — 來源分類：Category:Witchcraft > Modern witchcraft > Modern witch hunts
+- [ ] **蚩尤**（中文，原始碼 33,415 位元組）— [原文](https://zh.wikipedia.org/wiki/%E8%9A%A9%E5%B0%A4) — 來源分類：Category:中國民間信仰 > 中国民间信仰神祇
+- [ ] **Murder for body parts**（英語，原始碼 33,369 位元組）— [原文](https://en.wikipedia.org/wiki/Murder_for_body_parts) — 來源分類：Category:Witchcraft > African witchcraft
+- [ ] **Aradia, o il Vangelo delle Streghe**（義大利語，原始碼 33,337 位元組）— [原文](https://it.wikipedia.org/wiki/Aradia%2C_o_il_Vangelo_delle_Streghe) — 來源分類：Categoria:Stregoneria > Opere letterarie sulla stregoneria
+- [ ] **拜上帝會**（中文，原始碼 33,323 位元組）— [原文](https://zh.wikipedia.org/wiki/%E6%8B%9C%E4%B8%8A%E5%B8%9D%E6%9C%83) — 來源分類：Category:中國民間信仰 > 拜上帝教
+- [ ] **Dreamtime (book)**（英語，原始碼 33,230 位元組）— [原文](https://en.wikipedia.org/wiki/Dreamtime_%28book%29) — 來源分類：Category:Witchcraft > Books about witchcraft
+- [ ] **东南亚华人民间宗教**（中文，原始碼 32,986 位元組）— [原文](https://zh.wikipedia.org/wiki/%E4%B8%9C%E5%8D%97%E4%BA%9A%E5%8D%8E%E4%BA%BA%E6%B0%91%E9%97%B4%E5%AE%97%E6%95%99) — 來源分類：Category:中國民間信仰
+- [ ] **鈴鹿御前**（日語，原始碼 32,984 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%88%B4%E9%B9%BF%E5%BE%A1%E5%89%8D) — 來源分類：Category:日本の妖怪 > 鬼
+- [ ] **Maciara**（義大利語，原始碼 32,893 位元組）— [原文](https://it.wikipedia.org/wiki/Maciara) — 來源分類：Categoria:Stregoneria
+- [ ] **Kore wa Zombie Desu ka?**（西班牙語，原始碼 32,712 位元組）— [原文](https://es.wikipedia.org/wiki/Kore_wa_Zombie_Desu_ka%3F) — 來源分類：Categoría:Brujería > Zombis > Zombis en la historieta
+- [ ] **Mona Fandey**（英語，原始碼 32,484 位元組）— [原文](https://en.wikipedia.org/wiki/Mona_Fandey) — 來源分類：Category:Witchcraft > Asian witchcraft
+- [ ] **Processo alle streghe di Salem**（義大利語，原始碼 32,456 位元組）— [原文](https://it.wikipedia.org/wiki/Processo_alle_streghe_di_Salem) — 來源分類：Categoria:Stregoneria > Processi per stregoneria
+- [ ] **魔神仔**（中文，原始碼 32,384 位元組）— [原文](https://zh.wikipedia.org/wiki/%E9%AD%94%E7%A5%9E%E4%BB%94) — 來源分類：Category:中國民間信仰 > 中国民间信仰神祇
+- [ ] **雪女**（日語，原始碼 32,314 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%9B%AA%E5%A5%B3) — 來源分類：Category:日本の妖怪
+- [ ] **ダイダラボッチ**（日語，原始碼 32,191 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%80%E3%82%A4%E3%83%80%E3%83%A9%E3%83%9C%E3%83%83%E3%83%81) — 來源分類：Category:日本の妖怪
+- [ ] **Chinese sorcery scares**（英語，原始碼 32,147 位元組）— [原文](https://en.wikipedia.org/wiki/Chinese_sorcery_scares) — 來源分類：Category:Witchcraft > Witch hunting
+- [ ] **吉備真備**（日語，原始碼 32,122 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%90%89%E5%82%99%E7%9C%9F%E5%82%99) — 來源分類：Category:陰陽道 > 陰陽師
+- [ ] **Hostienfrevel**（德語，原始碼 31,916 位元組）— [原文](https://de.wikipedia.org/wiki/Hostienfrevel) — 來源分類：Kategorie:Hexenverfolgung
+- [ ] **ゾンビ (バイオハザードシリーズ)**（日語，原始碼 31,820 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%BE%E3%83%B3%E3%83%93_%28%E3%83%90%E3%82%A4%E3%82%AA%E3%83%8F%E3%82%B6%E3%83%BC%E3%83%89%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%29) — 來源分類：Category:呪術 > ゾンビ
+- [ ] **二十八宿**（日語，原始碼 31,807 位元組）— [原文](https://ja.wikipedia.org/wiki/%E4%BA%8C%E5%8D%81%E5%85%AB%E5%AE%BF) — 來源分類：Category:呪術 > 陰陽道
+- [ ] **化け猫**（日語，原始碼 31,736 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%8C%96%E3%81%91%E7%8C%AB) — 來源分類：Category:日本の妖怪
+- [ ] **Giasone**（英語，原始碼 31,648 位元組）— [原文](https://en.wikipedia.org/wiki/Giasone) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Works about Medea
+- [ ] **妙見菩薩**（日語，原始碼 31,633 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%A6%99%E8%A6%8B%E8%8F%A9%E8%96%A9) — 來源分類：Category:陰陽道 > 陰陽道の神
+- [ ] **Visión cristiana sobre la magia**（西班牙語，原始碼 31,627 位元組）— [原文](https://es.wikipedia.org/wiki/Visi%C3%B3n_cristiana_sobre_la_magia) — 來源分類：Categoría:Brujería
+- [ ] **平徳子**（日語，原始碼 31,419 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%B9%B3%E5%BE%B3%E5%AD%90) — 來源分類：Category:陰陽道 > 日本の神 (人物神 御霊信仰)
+- [ ] **War Witch**（英語，原始碼 31,362 位元組）— [原文](https://en.wikipedia.org/wiki/War_Witch) — 來源分類：Category:Witchcraft > African witchcraft
+- [ ] **Witch of Endor**（英語，原始碼 31,253 位元組）— [原文](https://en.wikipedia.org/wiki/Witch_of_Endor) — 來源分類：Category:Witchcraft > Judaism and witchcraft > Witch of Endor
+- [ ] **The Goddess Girls**（英語，原始碼 31,223 位元組）— [原文](https://en.wikipedia.org/wiki/The_Goddess_Girls) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Works about Medea
+- [ ] **Goétie**（法語，原始碼 31,146 位元組）— [原文](https://fr.wikipedia.org/wiki/Go%C3%A9tie) — 來源分類：Catégorie:Sorcellerie
+- [ ] **The Last of Us: American Dreams**（西班牙語，原始碼 31,102 位元組）— [原文](https://es.wikipedia.org/wiki/The_Last_of_Us%3A_American_Dreams) — 來源分類：Categoría:Brujería > Zombis > Zombis en la historieta
+- [ ] **九人の魔女**（日語，原始碼 31,003 位元組）— [原文](https://ja.wikipedia.org/wiki/%E4%B9%9D%E4%BA%BA%E3%81%AE%E9%AD%94%E5%A5%B3) — 來源分類：Category:魔女
+- [ ] **Ancient Egyptian conception of the soul**（英語，原始碼 30,886 位元組）— [原文](https://en.wikipedia.org/wiki/Ancient_Egyptian_conception_of_the_soul) — 來源分類：Category:Witchcraft > Incantation > Book of the Dead
+- [ ] **Christian views on magic**（英語，原始碼 30,731 位元組）— [原文](https://en.wikipedia.org/wiki/Christian_views_on_magic) — 來源分類：Category:Witchcraft
+- [ ] **魔女**（日語，原始碼 30,501 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%AD%94%E5%A5%B3) — 來源分類：Category:魔女
+- [ ] **Impact of Tolkien's Middle-earth writings**（英語，原始碼 30,025 位元組）— [原文](https://en.wikipedia.org/wiki/Impact_of_Tolkien%27s_Middle-earth_writings) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Middle-earth
+- [ ] **Belladone**（法語，原始碼 29,922 位元組）— [原文](https://fr.wikipedia.org/wiki/Belladone) — 來源分類：Catégorie:Sorcellerie > Plante utilisée en sorcellerie
+- [ ] **メーデイア**（日語，原始碼 29,883 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%BC%E3%83%87%E3%82%A4%E3%82%A2) — 來源分類：Category:魔女
+- [ ] **四柱推命**（日語，原始碼 29,795 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%9B%9B%E6%9F%B1%E6%8E%A8%E5%91%BD) — 來源分類：Category:呪術 > 陰陽道
+- [ ] **霊魂**（日語，原始碼 29,612 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%9C%8A%E9%AD%82) — 來源分類：Category:シャーマニズム
+- [ ] **二十八宿**（中文，原始碼 29,570 位元組）— [原文](https://zh.wikipedia.org/wiki/%E4%BA%8C%E5%8D%81%E5%85%AB%E5%AE%BF) — 來源分類：Category:中國民間信仰 > 中国民间信仰神祇
+- [ ] **シャーマニズム**（日語，原始碼 29,409 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%9E%E3%83%8B%E3%82%BA%E3%83%A0) — 來源分類：Category:シャーマニズム
+- [ ] **廣澤尊王**（中文，原始碼 29,307 位元組）— [原文](https://zh.wikipedia.org/wiki/%E5%BB%A3%E6%BE%A4%E5%B0%8A%E7%8E%8B) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **ネクロパンツ**（日語，原始碼 29,138 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AF%E3%83%AD%E3%83%91%E3%83%B3%E3%83%84) — 來源分類：Category:呪術
+- [ ] **庄子**（中文，原始碼 29,133 位元組）— [原文](https://zh.wikipedia.org/wiki/%E5%BA%84%E5%AD%90) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **Etsy witches**（英語，原始碼 29,122 位元組）— [原文](https://en.wikipedia.org/wiki/Etsy_witches) — 來源分類：Category:Witchcraft > Modern witchcraft > Neopagan witchcraft
+- [ ] **陰陽道**（日語，原始碼 29,100 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%99%B0%E9%99%BD%E9%81%93) — 來源分類：Category:呪術 > 陰陽道
+- [ ] **Babalon**（英語，原始碼 29,073 位元組）— [原文](https://en.wikipedia.org/wiki/Babalon) — 來源分類：Category:Witchcraft > Incantation > Magic words
+- [ ] **施琅**（中文，原始碼 28,926 位元組）— [原文](https://zh.wikipedia.org/wiki/%E6%96%BD%E7%90%85) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **Witch hunts in India**（英語，原始碼 28,920 位元組）— [原文](https://en.wikipedia.org/wiki/Witch_hunts_in_India) — 來源分類：Category:Witchcraft > Witch hunting
+- [ ] **李文忠 (明朝)**（中文，原始碼 28,809 位元組）— [原文](https://zh.wikipedia.org/wiki/%E6%9D%8E%E6%96%87%E5%BF%A0_%28%E6%98%8E%E6%9C%9D%29) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **牛鬼**（日語，原始碼 28,526 位元組）— [原文](https://ja.wikipedia.org/wiki/%E7%89%9B%E9%AC%BC) — 來源分類：Category:日本の妖怪 > 鬼
+- [ ] **Varahi**（英語，原始碼 28,413 位元組）— [原文](https://en.wikipedia.org/wiki/Varahi) — 來源分類：Category:Witchcraft > Pig-faced women
+- [ ] **Murong Chui**（英語，原始碼 28,395 位元組）— [原文](https://en.wikipedia.org/wiki/Murong_Chui) — 來源分類：Category:Witchcraft > Witch hunting
+- [ ] **Sorcier**（法語，原始碼 28,390 位元組）— [原文](https://fr.wikipedia.org/wiki/Sorcier) — 來源分類：Catégorie:Sorcellerie
+- [ ] **Al-Mi'raj**（英語，原始碼 28,320 位元組）— [原文](https://en.wikipedia.org/wiki/Al-Mi%27raj) — 來源分類：Category:Witchcraft > Asian witchcraft
+- [ ] **天狗**（日語，原始碼 28,185 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%A4%A9%E7%8B%97) — 來源分類：Category:日本の妖怪 > 天狗
+- [ ] **Ars Notoria**（英語，原始碼 27,968 位元組）— [原文](https://en.wikipedia.org/wiki/Ars_Notoria) — 來源分類：Category:Witchcraft > Grimoires
+- [ ] **エリクトー**（日語，原始碼 27,870 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AA%E3%82%AF%E3%83%88%E3%83%BC) — 來源分類：Category:魔女
+- [ ] **담배**（韓語，原始碼 27,739 位元組）— [原文](https://ko.wikipedia.org/wiki/%EB%8B%B4%EB%B0%B0) — 來源分類：분류:샤머니즘 > 의식용 환각제
+- [ ] **Ancient Jewish magic**（英語，原始碼 27,639 位元組）— [原文](https://en.wikipedia.org/wiki/Ancient_Jewish_magic) — 來源分類：Category:Witchcraft > Grimoires > Jewish grimoires
+- [ ] **Anorexia mirabilis**（西班牙語，原始碼 27,515 位元組）— [原文](https://es.wikipedia.org/wiki/Anorexia_mirabilis) — 來源分類：Categoría:Brujería
+- [ ] **Aradia o el evangelio de las brujas**（西班牙語，原始碼 27,453 位元組）— [原文](https://es.wikipedia.org/wiki/Aradia_o_el_evangelio_de_las_brujas) — 來源分類：Categoría:Brujería
+- [ ] **Cruentación**（西班牙語，原始碼 27,385 位元組）— [原文](https://es.wikipedia.org/wiki/Cruentaci%C3%B3n) — 來源分類：Categoría:Brujería > Ordalía
+- [ ] **Picatrix**（英語，原始碼 27,306 位元組）— [原文](https://en.wikipedia.org/wiki/Picatrix) — 來源分類：Category:Witchcraft > Grimoires > Arabic grimoires
+- [ ] **Tolkien's legendarium**（英語，原始碼 27,276 位元組）— [原文](https://en.wikipedia.org/wiki/Tolkien%27s_legendarium) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Middle-earth
+- [ ] **Joseph Smith Hypocephalus**（英語，原始碼 27,268 位元組）— [原文](https://en.wikipedia.org/wiki/Joseph_Smith_Hypocephalus) — 來源分類：Category:Witchcraft > Incantation > Book of the Dead
+- [ ] **谢安**（中文，原始碼 27,057 位元組）— [原文](https://zh.wikipedia.org/wiki/%E8%B0%A2%E5%AE%89) — 來源分類：Category:中國民間信仰 > 中国民间信仰神祇
+- [ ] **ミントゥチ**（日語，原始碼 26,998 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%B3%E3%83%88%E3%82%A5%E3%83%81) — 來源分類：Category:日本の妖怪 > 河童
+- [ ] **Diana**（德語，原始碼 26,907 位元組）— [原文](https://de.wikipedia.org/wiki/Diana) — 來源分類：Kategorie:Hexenverfolgung
+- [ ] **財神**（中文，原始碼 26,849 位元組）— [原文](https://zh.wikipedia.org/wiki/%E8%B2%A1%E7%A5%9E) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **十二支**（日語，原始碼 26,804 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%8D%81%E4%BA%8C%E6%94%AF) — 來源分類：Category:呪術 > 陰陽道
+- [ ] **Sabba**（義大利語，原始碼 26,793 位元組）— [原文](https://it.wikipedia.org/wiki/Sabba) — 來源分類：Categoria:Stregoneria
+- [ ] **Robert Cochrane (witch)**（英語，原始碼 26,752 位元組）— [原文](https://en.wikipedia.org/wiki/Robert_Cochrane_%28witch%29) — 來源分類：Category:Witchcraft > Witches
+- [ ] **Datura**（法語，原始碼 26,675 位元組）— [原文](https://fr.wikipedia.org/wiki/Datura) — 來源分類：Catégorie:Sorcellerie > Plante utilisée en sorcellerie
+- [ ] **Hexe bei der Toilette für die Walpurgisnacht**（德語，原始碼 26,562 位元組）— [原文](https://de.wikipedia.org/wiki/Hexe_bei_der_Toilette_f%C3%BCr_die_Walpurgisnacht) — 來源分類：Kategorie:Hexerei > Hexe
+- [ ] **賀茂在昌**（日語，原始碼 26,500 位元組）— [原文](https://ja.wikipedia.org/wiki/%E8%B3%80%E8%8C%82%E5%9C%A8%E6%98%8C) — 來源分類：Category:陰陽道 > 陰陽師
+- [ ] **サイン (占星術)**（日語，原始碼 26,482 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A4%E3%83%B3_%28%E5%8D%A0%E6%98%9F%E8%A1%93%29) — 來源分類：Category:陰陽道 > 暦注
+- [ ] **신축민란**（韓語，原始碼 26,465 位元組）— [原文](https://ko.wikipedia.org/wiki/%EC%8B%A0%EC%B6%95%EB%AF%BC%EB%9E%80) — 來源分類：분류:무속 > 무속의 역사
+- [ ] **Chen Jiao**（西班牙語，原始碼 26,456 位元組）— [原文](https://es.wikipedia.org/wiki/Chen_Jiao) — 來源分類：Categoría:Brujería
+- [ ] **Homunculus**（英語，原始碼 26,357 位元組）— [原文](https://en.wikipedia.org/wiki/Homunculus) — 來源分類：Category:Witchcraft
+- [ ] **셍굿무가**（韓語，原始碼 26,349 位元組）— [原文](https://ko.wikipedia.org/wiki/%EC%85%8D%EA%B5%BF%EB%AC%B4%EA%B0%80) — 來源分類：분류:무속 > 도무습합
+- [ ] **神农**（中文，原始碼 26,309 位元組）— [原文](https://zh.wikipedia.org/wiki/%E7%A5%9E%E5%86%9C) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **口裂け女**（日語，原始碼 26,282 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%8F%A3%E8%A3%82%E3%81%91%E5%A5%B3) — 來源分類：Category:日本の妖怪 > 日本の都市伝説の妖怪
+- [ ] **Scopa (strumento)**（義大利語，原始碼 26,251 位元組）— [原文](https://it.wikipedia.org/wiki/Scopa_%28strumento%29) — 來源分類：Categoria:Stregoneria
+- [ ] **Women's International Terrorist Conspiracy from Hell**（英語，原始碼 26,235 位元組）— [原文](https://en.wikipedia.org/wiki/Women%27s_International_Terrorist_Conspiracy_from_Hell) — 來源分類：Category:Witchcraft > American witchcraft
+- [ ] **二十四節気**（日語，原始碼 26,225 位元組）— [原文](https://ja.wikipedia.org/wiki/%E4%BA%8C%E5%8D%81%E5%9B%9B%E7%AF%80%E6%B0%97) — 來源分類：Category:呪術 > 陰陽道
+- [ ] **エマヌエル・スヴェーデンボリ**（日語，原始碼 26,150 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%9E%E3%83%8C%E3%82%A8%E3%83%AB%E3%83%BB%E3%82%B9%E3%83%B4%E3%82%A7%E3%83%BC%E3%83%87%E3%83%B3%E3%83%9C%E3%83%AA) — 來源分類：Category:シャーマニズム > 霊媒師
+- [ ] **文天祥**（中文，原始碼 26,092 位元組）— [原文](https://zh.wikipedia.org/wiki/%E6%96%87%E5%A4%A9%E7%A5%A5) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **朱祜**（中文，原始碼 25,955 位元組）— [原文](https://zh.wikipedia.org/wiki/%E6%9C%B1%E7%A5%9C) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **阿倍氏**（日語，原始碼 25,934 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%98%BF%E5%80%8D%E6%B0%8F) — 來源分類：Category:呪術 > 陰陽道
+- [ ] **Ammit**（英語，原始碼 25,837 位元組）— [原文](https://en.wikipedia.org/wiki/Ammit) — 來源分類：Category:Witchcraft > Incantation > Book of the Dead
+- [ ] **マーリン**（日語，原始碼 25,829 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%BC%E3%83%AA%E3%83%B3) — 來源分類：Category:呪術 > 魔術師
+- [ ] **Laws against witchcraft**（英語，原始碼 25,692 位元組）— [原文](https://en.wikipedia.org/wiki/Laws_against_witchcraft) — 來源分類：Category:Witchcraft
+- [ ] **巫女**（日語，原始碼 25,643 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%B7%AB%E5%A5%B3) — 來源分類：Category:シャーマニズム > 霊媒師
+- [ ] **Aquelarre**（西班牙語，原始碼 25,603 位元組）— [原文](https://es.wikipedia.org/wiki/Aquelarre) — 來源分類：Categoría:Brujería
+- [ ] **般若の面**（日語，原始碼 25,601 位元組）— [原文](https://ja.wikipedia.org/wiki/%E8%88%AC%E8%8B%A5%E3%81%AE%E9%9D%A2) — 來源分類：Category:日本の妖怪 > 鬼
+- [ ] **Universität Helmstedt**（德語，原始碼 25,466 位元組）— [原文](https://de.wikipedia.org/wiki/Universit%C3%A4t_Helmstedt) — 來源分類：Kategorie:Hexenverfolgung
+- [ ] **Cotton 2: Magical Night Dreams**（英語，原始碼 25,386 位元組）— [原文](https://en.wikipedia.org/wiki/Cotton_2%3A_Magical_Night_Dreams) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Cotton (series)
+- [ ] **ろくろ首**（日語，原始碼 25,318 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%8D%E3%81%8F%E3%82%8D%E9%A6%96) — 來源分類：Category:日本の妖怪
+- [ ] **ケンムン**（日語，原始碼 25,296 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%B3%E3%83%A0%E3%83%B3) — 來源分類：Category:日本の妖怪 > 河童
+- [ ] **ケイオスマジック**（日語，原始碼 25,074 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%B1%E3%82%A4%E3%82%AA%E3%82%B9%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF) — 來源分類：Category:呪術 > ケイオスマジック
+- [ ] **Herta (Honkai: Star Rail)**（英語，原始碼 24,954 位元組）— [原文](https://en.wikipedia.org/wiki/Herta_%28Honkai%3A_Star_Rail%29) — 來源分類：Category:Witchcraft > Witches
+- [ ] **サバト (魔女)**（日語，原始碼 24,948 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%90%E3%83%88_%28%E9%AD%94%E5%A5%B3%29) — 來源分類：Category:魔女
+- [ ] **土地公**（中文，原始碼 24,947 位元組）— [原文](https://zh.wikipedia.org/wiki/%E5%9C%9F%E5%9C%B0%E5%85%AC) — 來源分類：Category:中國民間信仰 > 香港民間信仰
+- [ ] **家相**（日語，原始碼 24,908 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%AE%B6%E7%9B%B8) — 來源分類：Category:呪術 > 陰陽道
+- [ ] **包拯**（中文，原始碼 24,755 位元組）— [原文](https://zh.wikipedia.org/wiki/%E5%8C%85%E6%8B%AF) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **小豆洗い**（日語，原始碼 24,722 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%B0%8F%E8%B1%86%E6%B4%97%E3%81%84) — 來源分類：Category:日本の妖怪
+- [ ] **暦注下段**（日語，原始碼 24,603 位元組）— [原文](https://ja.wikipedia.org/wiki/%E6%9A%A6%E6%B3%A8%E4%B8%8B%E6%AE%B5) — 來源分類：Category:呪術 > 陰陽道
+- [ ] **役小角**（日語，原始碼 24,597 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%BD%B9%E5%B0%8F%E8%A7%92) — 來源分類：Category:日本の妖怪 > 天狗
+- [ ] **占事略决**（日語，原始碼 24,576 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%8D%A0%E4%BA%8B%E7%95%A5%E5%86%B3) — 來源分類：Category:呪術 > 陰陽道
+- [ ] **汤和**（中文，原始碼 24,472 位元組）— [原文](https://zh.wikipedia.org/wiki/%E6%B1%A4%E5%92%8C) — 來源分類：Category:中國民間信仰 > 城隍
+- [ ] **Thomas Danforth**（英語，原始碼 24,447 位元組）— [原文](https://en.wikipedia.org/wiki/Thomas_Danforth) — 來源分類：Category:Witchcraft > Witch hunting > Critics of witch hunting
+- [ ] **關德興**（中文，原始碼 24,348 位元組）— [原文](https://zh.wikipedia.org/wiki/%E9%97%9C%E5%BE%B7%E8%88%88) — 來源分類：Category:中國民間信仰 > 香港民間信仰
+- [ ] **Witchcraft in the Philippines**（英語，原始碼 24,264 位元組）— [原文](https://en.wikipedia.org/wiki/Witchcraft_in_the_Philippines) — 來源分類：Category:Witchcraft > Asian witchcraft
+- [ ] **Anexo:Episodios de iZombie**（西班牙語，原始碼 24,224 位元組）— [原文](https://es.wikipedia.org/wiki/Anexo%3AEpisodios_de_iZombie) — 來源分類：Categoría:Brujería > Zombis > IZombie
+- [ ] **Killing of Akua Denteh**（英語，原始碼 24,208 位元組）— [原文](https://en.wikipedia.org/wiki/Killing_of_Akua_Denteh) — 來源分類：Category:Witchcraft > Modern witchcraft > Modern witch hunts
+- [ ] **Salvia apiana**（法語，原始碼 24,185 位元組）— [原文](https://fr.wikipedia.org/wiki/Salvia_apiana) — 來源分類：Catégorie:Sorcellerie > Plante utilisée en sorcellerie
+- [ ] **Witchcraft in Latin America**（英語，原始碼 24,163 位元組）— [原文](https://en.wikipedia.org/wiki/Witchcraft_in_Latin_America) — 來源分類：Category:Witchcraft
+- [ ] **アマビコ**（日語，原始碼 24,157 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9E%E3%83%93%E3%82%B3) — 來源分類：Category:日本の妖怪
+- [ ] **黒塚**（日語，原始碼 24,145 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%BB%92%E5%A1%9A) — 來源分類：Category:日本の妖怪 > 鬼
+- [ ] **安久美神戸神明社**（日語，原始碼 23,978 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%AE%89%E4%B9%85%E7%BE%8E%E7%A5%9E%E6%88%B8%E7%A5%9E%E6%98%8E%E7%A4%BE) — 來源分類：Category:日本の妖怪 > 鬼
+- [ ] **Outline of Middle-earth**（英語，原始碼 23,976 位元組）— [原文](https://en.wikipedia.org/wiki/Outline_of_Middle-earth) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Middle-earth
+- [ ] **카바 (식물)**（韓語，原始碼 23,836 位元組）— [原文](https://ko.wikipedia.org/wiki/%EC%B9%B4%EB%B0%94_%28%EC%8B%9D%EB%AC%BC%29) — 來源分類：분류:샤머니즘 > 의식용 환각제
+- [ ] **ショロマンツァ**（日語，原始碼 23,824 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A7%E3%83%AD%E3%83%9E%E3%83%B3%E3%83%84%E3%82%A1) — 來源分類：Category:呪術
+- [ ] **ケナシコルウナルペ**（日語，原始碼 23,792 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%8A%E3%82%B7%E3%82%B3%E3%83%AB%E3%82%A6%E3%83%8A%E3%83%AB%E3%83%9A) — 來源分類：Category:魔女 > 山姥やハッグ
+- [ ] **冬至**（日語，原始碼 23,762 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%86%AC%E8%87%B3) — 來源分類：Category:呪術 > 陰陽道
+- [ ] **イタチ**（日語，原始碼 23,754 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%BF%E3%83%81) — 來源分類：Category:日本の妖怪
+- [ ] **鲁班**（中文，原始碼 23,744 位元組）— [原文](https://zh.wikipedia.org/wiki/%E9%B2%81%E7%8F%AD) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **甘宁**（中文，原始碼 23,702 位元組）— [原文](https://zh.wikipedia.org/wiki/%E7%94%98%E5%AE%81) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **Vecchia Religione**（義大利語，原始碼 23,692 位元組）— [原文](https://it.wikipedia.org/wiki/Vecchia_Religione) — 來源分類：Categoria:Stregoneria
+- [ ] **Nkondi**（英語，原始碼 23,484 位元組）— [原文](https://en.wikipedia.org/wiki/Nkondi) — 來源分類：Category:Witchcraft > African witchcraft
+- [ ] **Witchcraft accusations against children in Africa**（英語，原始碼 23,448 位元組）— [原文](https://en.wikipedia.org/wiki/Witchcraft_accusations_against_children_in_Africa) — 來源分類：Category:Witchcraft > African witchcraft
+- [ ] **白山坊**（日語，原始碼 23,357 位元組）— [原文](https://ja.wikipedia.org/wiki/%E7%99%BD%E5%B1%B1%E5%9D%8A) — 來源分類：Category:日本の妖怪 > 水木しげるオリジナルの妖怪
+- [ ] **平維盛**（日語，原始碼 23,335 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%B9%B3%E7%B6%AD%E7%9B%9B) — 來源分類：Category:陰陽道 > 日本の神 (人物神 御霊信仰)
+- [ ] **Shams al-Ma'arif al-Kubra**（法語，原始碼 23,314 位元組）— [原文](https://fr.wikipedia.org/wiki/Shams_al-Ma%27arif_al-Kubra) — 來源分類：Catégorie:Sorcellerie
+- [ ] **早良親王**（日語，原始碼 23,223 位元組）— [原文](https://ja.wikipedia.org/wiki/%E6%97%A9%E8%89%AF%E8%A6%AA%E7%8E%8B) — 來源分類：Category:陰陽道 > 日本の神 (人物神 御霊信仰)
+- [ ] **Book of Joseph**（英語，原始碼 23,005 位元組）— [原文](https://en.wikipedia.org/wiki/Book_of_Joseph) — 來源分類：Category:Witchcraft > Incantation > Book of the Dead
+- [ ] **觀音借庫**（中文，原始碼 22,939 位元組）— [原文](https://zh.wikipedia.org/wiki/%E8%A7%80%E9%9F%B3%E5%80%9F%E5%BA%AB) — 來源分類：Category:中國民間信仰
+- [ ] **Tulevieja**（西班牙語，原始碼 22,889 位元組）— [原文](https://es.wikipedia.org/wiki/Tulevieja) — 來源分類：Categoría:Brujería > Brujos ficticios > Brujas de Escazú
+- [ ] **Witchcraft in Ghana**（英語，原始碼 22,865 位元組）— [原文](https://en.wikipedia.org/wiki/Witchcraft_in_Ghana) — 來源分類：Category:Witchcraft > Witchcraft by country
+- [ ] **Hartmut Hegeler**（德語，原始碼 22,851 位元組）— [原文](https://de.wikipedia.org/wiki/Hartmut_Hegeler) — 來源分類：Kategorie:Hexenverfolgung > Sachliteratur (Hexenverfolgung)
+- [ ] **Warm Bodies (película)**（西班牙語，原始碼 22,787 位元組）— [原文](https://es.wikipedia.org/wiki/Warm_Bodies_%28pel%C3%ADcula%29) — 來源分類：Categoría:Brujería > Zombis
+- [ ] **五靈公**（中文，原始碼 22,787 位元組）— [原文](https://zh.wikipedia.org/wiki/%E4%BA%94%E9%9D%88%E5%85%AC) — 來源分類：Category:中國民間信仰 > 福建民間信仰
+- [ ] **Churel**（英語，原始碼 22,778 位元組）— [原文](https://en.wikipedia.org/wiki/Churel) — 來源分類：Category:Witchcraft > Asian witchcraft
+- [ ] **Streghe di Valle Camonica**（義大利語，原始碼 22,702 位元組）— [原文](https://it.wikipedia.org/wiki/Streghe_di_Valle_Camonica) — 來源分類：Categoria:Stregoneria
+- [ ] **사역마**（韓語，原始碼 22,693 位元組）— [原文](https://ko.wikipedia.org/wiki/%EC%82%AC%EC%97%AD%EB%A7%88) — 來源分類：분류:샤머니즘 > 마녀
+- [ ] **Procès en sorcellerie au début des temps modernes**（法語，原始碼 22,683 位元組）— [原文](https://fr.wikipedia.org/wiki/Proc%C3%A8s_en_sorcellerie_au_d%C3%A9but_des_temps_modernes) — 來源分類：Catégorie:Sorcellerie
+- [ ] **The Lesser Key of Solomon**（英語，原始碼 22,605 位元組）— [原文](https://en.wikipedia.org/wiki/The_Lesser_Key_of_Solomon) — 來源分類：Category:Witchcraft > Grimoires > Goetic grimoires
+- [ ] **Ergotism**（英語，原始碼 22,600 位元組）— [原文](https://en.wikipedia.org/wiki/Ergotism) — 來源分類：Category:Witchcraft > American witchcraft
+- [ ] **吕洞宾**（中文，原始碼 22,546 位元組）— [原文](https://zh.wikipedia.org/wiki/%E5%90%95%E6%B4%9E%E5%AE%BE) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **Gente sabia**（西班牙語，原始碼 22,521 位元組）— [原文](https://es.wikipedia.org/wiki/Gente_sabia) — 來源分類：Categoría:Brujería > Brujería por país
+- [ ] **左道と右道**（日語，原始碼 22,507 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%B7%A6%E9%81%93%E3%81%A8%E5%8F%B3%E9%81%93) — 來源分類：Category:呪術 > 西洋魔術
+- [ ] **Allison Balfour**（西班牙語，原始碼 22,480 位元組）— [原文](https://es.wikipedia.org/wiki/Allison_Balfour) — 來源分類：Categoría:Brujería
+- [ ] **雷獣**（日語，原始碼 22,462 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%9B%B7%E7%8D%A3) — 來源分類：Category:日本の妖怪
+- [ ] **降霊術**（日語，原始碼 22,414 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%99%8D%E9%9C%8A%E8%A1%93) — 來源分類：Category:呪術 > 西洋魔術
+- [ ] **Lyndal Roper**（英語，原始碼 22,409 位元組）— [原文](https://en.wikipedia.org/wiki/Lyndal_Roper) — 來源分類：Category:Witchcraft > Historians of witchcraft
+- [ ] **近代魔術**（日語，原始碼 22,355 位元組）— [原文](https://ja.wikipedia.org/wiki/%E8%BF%91%E4%BB%A3%E9%AD%94%E8%A1%93) — 來源分類：Category:呪術 > 西洋魔術
+- [ ] **Child sacrifice in Uganda**（英語，原始碼 22,303 位元組）— [原文](https://en.wikipedia.org/wiki/Child_sacrifice_in_Uganda) — 來源分類：Category:Witchcraft > African witchcraft
+- [ ] **王審知**（中文，原始碼 22,278 位元組）— [原文](https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%AF%A9%E7%9F%A5) — 來源分類：Category:中國民間信仰 > 福建民間信仰
+- [ ] **セイズ**（日語，原始碼 22,197 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%A4%E3%82%BA) — 來源分類：Category:呪術
+- [ ] **ウイッカ**（日語，原始碼 22,118 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A4%E3%83%83%E3%82%AB) — 來源分類：Category:魔女
+- [ ] **哲学的ゾンビ**（日語，原始碼 22,004 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%93%B2%E5%AD%A6%E7%9A%84%E3%82%BE%E3%83%B3%E3%83%93) — 來源分類：Category:呪術 > ゾンビ
+- [ ] **アントン・ラヴェイ**（日語，原始碼 21,998 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%88%E3%83%B3%E3%83%BB%E3%83%A9%E3%83%B4%E3%82%A7%E3%82%A4) — 來源分類：Category:呪術 > 黒魔術
+- [ ] **ゾンビ**（日語，原始碼 21,997 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%BE%E3%83%B3%E3%83%93) — 來源分類：Category:呪術 > ゾンビ
+- [ ] **聖守護天使**（日語，原始碼 21,995 位元組）— [原文](https://ja.wikipedia.org/wiki/%E8%81%96%E5%AE%88%E8%AD%B7%E5%A4%A9%E4%BD%BF) — 來源分類：Category:呪術 > 西洋魔術
+- [ ] **엔돌의 무녀**（韓語，原始碼 21,940 位元組）— [原文](https://ko.wikipedia.org/wiki/%EC%97%94%EB%8F%8C%EC%9D%98_%EB%AC%B4%EB%85%80) — 來源分類：분류:샤머니즘 > 영매술
+- [ ] **奇門遁甲**（日語，原始碼 21,849 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%A5%87%E9%96%80%E9%81%81%E7%94%B2) — 來源分類：Category:陰陽道 > 式占
+- [ ] **Wei Zifu**（西班牙語，原始碼 21,823 位元組）— [原文](https://es.wikipedia.org/wiki/Wei_Zifu) — 來源分類：Categoría:Brujería
+- [ ] **船幽霊**（日語，原始碼 21,804 位元組）— [原文](https://ja.wikipedia.org/wiki/%E8%88%B9%E5%B9%BD%E9%9C%8A) — 來源分類：Category:日本の妖怪
+- [ ] **Sixth and Seventh Books of Moses**（英語，原始碼 21,795 位元組）— [原文](https://en.wikipedia.org/wiki/Sixth_and_Seventh_Books_of_Moses) — 來源分類：Category:Witchcraft > Grimoires
+- [ ] **清水祖師**（中文，原始碼 21,753 位元組）— [原文](https://zh.wikipedia.org/wiki/%E6%B8%85%E6%B0%B4%E7%A5%96%E5%B8%AB) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **Gakkō Gurashi!**（西班牙語，原始碼 21,698 位元組）— [原文](https://es.wikipedia.org/wiki/Gakk%C5%8D_Gurashi%21) — 來源分類：Categoría:Brujería > Zombis > Zombis en la historieta
+- [ ] **소마 (음료)**（韓語，原始碼 21,646 位元組）— [原文](https://ko.wikipedia.org/wiki/%EC%86%8C%EB%A7%88_%28%EC%9D%8C%EB%A3%8C%29) — 來源分類：분류:샤머니즘 > 의식용 환각제
+- [ ] **飯縄権現**（日語，原始碼 21,523 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%A3%AF%E7%B8%84%E6%A8%A9%E7%8F%BE) — 來源分類：Category:日本の妖怪 > 天狗
+- [ ] **黎世序**（中文，原始碼 21,522 位元組）— [原文](https://zh.wikipedia.org/wiki/%E9%BB%8E%E4%B8%96%E5%BA%8F) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **ライマン・フランク・ボーム**（日語，原始碼 21,514 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%B3%E3%83%BB%E3%83%95%E3%83%A9%E3%83%B3%E3%82%AF%E3%83%BB%E3%83%9C%E3%83%BC%E3%83%A0) — 來源分類：Category:魔女 > 魔女を題材とした作品 > オズ・シリーズ
+- [ ] **陳元光**（中文，原始碼 21,408 位元組）— [原文](https://zh.wikipedia.org/wiki/%E9%99%B3%E5%85%83%E5%85%89) — 來源分類：Category:中國民間信仰 > 福建民間信仰
+- [ ] **城隍**（中文，原始碼 21,357 位元組）— [原文](https://zh.wikipedia.org/wiki/%E5%9F%8E%E9%9A%8D) — 來源分類：Category:中國民間信仰
+- [ ] **Stregheria**（義大利語，原始碼 21,340 位元組）— [原文](https://it.wikipedia.org/wiki/Stregheria) — 來源分類：Categoria:Stregoneria
+- [ ] **Love magic**（英語，原始碼 21,334 位元組）— [原文](https://en.wikipedia.org/wiki/Love_magic) — 來源分類：Category:Witchcraft
+- [ ] **Leo Igwe**（德語，原始碼 21,265 位元組）— [原文](https://de.wikipedia.org/wiki/Leo_Igwe) — 來源分類：Kategorie:Hexerei > Moderne Hexenverfolgung
+- [ ] **Curse**（英語，原始碼 21,259 位元組）— [原文](https://en.wikipedia.org/wiki/Curse) — 來源分類：Category:Witchcraft
+- [ ] **晏公**（中文，原始碼 21,238 位元組）— [原文](https://zh.wikipedia.org/wiki/%E6%99%8F%E5%85%AC) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **Rainbow Cotton**（英語，原始碼 21,231 位元組）— [原文](https://en.wikipedia.org/wiki/Rainbow_Cotton) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Cotton (series)
+- [ ] **Posesión demoníaca**（西班牙語，原始碼 21,230 位元組）— [原文](https://es.wikipedia.org/wiki/Posesi%C3%B3n_demon%C3%ADaca) — 來源分類：Categoría:Brujería
+- [ ] **大天狗**（日語，原始碼 21,230 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%A4%A9%E7%8B%97) — 來源分類：Category:陰陽道 > 御霊信仰
+- [ ] **Middle-earth Enterprises**（英語，原始碼 21,219 位元組）— [原文](https://en.wikipedia.org/wiki/Middle-earth_Enterprises) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Middle-earth
+- [ ] **Associated Daughters of Early American Witches**（英語，原始碼 21,128 位元組）— [原文](https://en.wikipedia.org/wiki/Associated_Daughters_of_Early_American_Witches) — 來源分類：Category:Witchcraft > American witchcraft
+- [ ] **Satire VI**（英語，原始碼 21,083 位元組）— [原文](https://en.wikipedia.org/wiki/Satire_VI) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Works about Medea
+- [ ] **Stregoneria italiana**（義大利語，原始碼 21,039 位元組）— [原文](https://it.wikipedia.org/wiki/Stregoneria_italiana) — 來源分類：Categoria:Stregoneria
+- [ ] **Magic and religion**（英語，原始碼 21,022 位元組）— [原文](https://en.wikipedia.org/wiki/Magic_and_religion) — 來源分類：Category:Witchcraft
+- [ ] **座敷童子**（日語，原始碼 20,837 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%BA%A7%E6%95%B7%E7%AB%A5%E5%AD%90) — 來源分類：Category:日本の妖怪 > 座敷童子
+- [ ] **세민황제본풀이**（韓語，原始碼 20,829 位元組）— [原文](https://ko.wikipedia.org/wiki/%EC%84%B8%EB%AF%BC%ED%99%A9%EC%A0%9C%EB%B3%B8%ED%92%80%EC%9D%B4) — 來源分類：분류:무속 > 무불습합
+- [ ] **トシドン**（日語，原始碼 20,825 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%88%E3%82%B7%E3%83%89%E3%83%B3) — 來源分類：Category:日本の妖怪 > 鬼
+- [ ] **Anexo:Zombis en ficción**（西班牙語，原始碼 20,718 位元組）— [原文](https://es.wikipedia.org/wiki/Anexo%3AZombis_en_ficci%C3%B3n) — 來源分類：Categoría:Brujería > Zombis
+- [ ] **百万塔陀羅尼**（日語，原始碼 20,662 位元組）— [原文](https://ja.wikipedia.org/wiki/%E7%99%BE%E4%B8%87%E5%A1%94%E9%99%80%E7%BE%85%E5%B0%BC) — 來源分類：Category:呪術 > 陀羅尼
+- [ ] **Zombie-Loan**（西班牙語，原始碼 20,582 位元組）— [原文](https://es.wikipedia.org/wiki/Zombie-Loan) — 來源分類：Categoría:Brujería > Zombis > Zombis en la historieta
+- [ ] **萨玛舞 (维吾尔族)**（中文，原始碼 20,553 位元組）— [原文](https://zh.wikipedia.org/wiki/%E8%90%A8%E7%8E%9B%E8%88%9E_%28%E7%BB%B4%E5%90%BE%E5%B0%94%E6%97%8F%29) — 來源分類：Category:薩滿教
+- [ ] **水虎**（日語，原始碼 20,496 位元組）— [原文](https://ja.wikipedia.org/wiki/%E6%B0%B4%E8%99%8E) — 來源分類：Category:日本の妖怪
+- [ ] **祖先崇拜**（中文，原始碼 20,485 位元組）— [原文](https://zh.wikipedia.org/wiki/%E7%A5%96%E5%85%88%E5%B4%87%E6%8B%9C) — 來源分類：Category:中國民間信仰
+- [ ] **セイラム魔女裁判**（日語，原始碼 20,389 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%A4%E3%83%A9%E3%83%A0%E9%AD%94%E5%A5%B3%E8%A3%81%E5%88%A4) — 來源分類：Category:魔女 > 魔女裁判 > セイラム魔女裁判
+- [ ] **Blocksberg (Flensburg)**（德語，原始碼 20,381 位元組）— [原文](https://de.wikipedia.org/wiki/Blocksberg_%28Flensburg%29) — 來源分類：Kategorie:Hexenverfolgung
+- [ ] **呪術医**（日語，原始碼 20,352 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%91%AA%E8%A1%93%E5%8C%BB) — 來源分類：Category:呪術
+- [ ] **Samson's riddle**（英語，原始碼 20,275 位元組）— [原文](https://en.wikipedia.org/wiki/Samson%27s_riddle) — 來源分類：Category:Witchcraft > Incantation > Magic words
+- [ ] **理教**（中文，原始碼 20,274 位元組）— [原文](https://zh.wikipedia.org/wiki/%E7%90%86%E6%95%99) — 來源分類：Category:中國民間信仰 > 無生老母崇拜
+- [ ] **Hexensabbat**（德語，原始碼 20,228 位元組）— [原文](https://de.wikipedia.org/wiki/Hexensabbat) — 來源分類：Kategorie:Hexenverfolgung
+- [ ] **Thomas Ady**（英語，原始碼 20,149 位元組）— [原文](https://en.wikipedia.org/wiki/Thomas_Ady) — 來源分類：Category:Witchcraft > Witch hunting > Critics of witch hunting
+- [ ] **Marvel Zombies**（西班牙語，原始碼 20,135 位元組）— [原文](https://es.wikipedia.org/wiki/Marvel_Zombies) — 來源分類：Categoría:Brujería > Zombis > Zombis en la historieta
+- [ ] **谢玄**（中文，原始碼 20,011 位元組）— [原文](https://zh.wikipedia.org/wiki/%E8%B0%A2%E7%8E%84) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **Cotton 100%**（英語，原始碼 19,995 位元組）— [原文](https://en.wikipedia.org/wiki/Cotton_100%25) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Cotton (series)
+- [ ] **祖先崇拝**（日語，原始碼 19,969 位元組）— [原文](https://ja.wikipedia.org/wiki/%E7%A5%96%E5%85%88%E5%B4%87%E6%8B%9D) — 來源分類：Category:陰陽道 > 御霊信仰
+- [ ] **노상원**（韓語，原始碼 19,965 位元組）— [原文](https://ko.wikipedia.org/wiki/%EB%85%B8%EC%83%81%EC%9B%90) — 來源分類：분류:무속 > 한국의 무속인
+- [ ] **マグレガー・メイザース**（日語，原始碼 19,939 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B0%E3%83%AC%E3%82%AC%E3%83%BC%E3%83%BB%E3%83%A1%E3%82%A4%E3%82%B6%E3%83%BC%E3%82%B9) — 來源分類：Category:呪術 > 魔術師
+- [ ] **五徳**（日語，原始碼 19,911 位元組）— [原文](https://ja.wikipedia.org/wiki/%E4%BA%94%E5%BE%B3) — 來源分類：Category:日本の妖怪 > 付喪神
+- [ ] **IZombie**（西班牙語，原始碼 19,893 位元組）— [原文](https://es.wikipedia.org/wiki/IZombie) — 來源分類：Categoría:Brujería > Zombis > IZombie
+- [ ] **お化け屋敷**（日語，原始碼 19,878 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%81%8A%E5%8C%96%E3%81%91%E5%B1%8B%E6%95%B7) — 來源分類：Category:呪術 > ゾンビ
+- [ ] **Greek Magical Papyri**（英語，原始碼 19,862 位元組）— [原文](https://en.wikipedia.org/wiki/Greek_Magical_Papyri) — 來源分類：Category:Witchcraft > Grimoires
+- [ ] **대마초**（韓語，原始碼 19,829 位元組）— [原文](https://ko.wikipedia.org/wiki/%EB%8C%80%EB%A7%88%EC%B4%88) — 來源分類：분류:샤머니즘 > 의식용 환각제
+- [ ] **秦琼**（中文，原始碼 19,787 位元組）— [原文](https://zh.wikipedia.org/wiki/%E7%A7%A6%E7%90%BC) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **Ergotismus**（德語，原始碼 19,774 位元組）— [原文](https://de.wikipedia.org/wiki/Ergotismus) — 來源分類：Kategorie:Hexenverfolgung
+- [ ] **うらじゃ**（日語，原始碼 19,721 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%81%86%E3%82%89%E3%81%98%E3%82%83) — 來源分類：Category:日本の妖怪 > 鬼
+- [ ] **Magia nera**（義大利語，原始碼 19,571 位元組）— [原文](https://it.wikipedia.org/wiki/Magia_nera) — 來源分類：Categoria:Stregoneria
+- [ ] **Harry Potter: Hogwarts Tournament of Houses**（英語，原始碼 19,483 位元組）— [原文](https://en.wikipedia.org/wiki/Harry_Potter%3A_Hogwarts_Tournament_of_Houses) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Harry Potter
+- [ ] **繞三靈**（中文，原始碼 19,408 位元組）— [原文](https://zh.wikipedia.org/wiki/%E7%B9%9E%E4%B8%89%E9%9D%88) — 來源分類：Category:中國民間信仰
+- [ ] **ベナンダンティ**（日語，原始碼 19,361 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%8A%E3%83%B3%E3%83%80%E3%83%B3%E3%83%86%E3%82%A3) — 來源分類：Category:呪術
+- [ ] **アグラオニケ**（日語，原始碼 19,323 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B0%E3%83%A9%E3%82%AA%E3%83%8B%E3%82%B1) — 來源分類：Category:魔女
+- [ ] **シビュラ**（日語，原始碼 19,263 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%93%E3%83%A5%E3%83%A9) — 來源分類：Category:シャーマニズム
+- [ ] **セイラム魔女裁判の年表**（日語，原始碼 19,231 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%A4%E3%83%A9%E3%83%A0%E9%AD%94%E5%A5%B3%E8%A3%81%E5%88%A4%E3%81%AE%E5%B9%B4%E8%A1%A8) — 來源分類：Category:魔女 > 魔女裁判 > セイラム魔女裁判
+- [ ] **The Tribe of Witches**（英語，原始碼 19,221 位元組）— [原文](https://en.wikipedia.org/wiki/The_Tribe_of_Witches) — 來源分類：Category:Witchcraft > Books about witchcraft > History books about witchcraft
+- [ ] **温羅**（日語，原始碼 19,205 位元組）— [原文](https://ja.wikipedia.org/wiki/%E6%B8%A9%E7%BE%85) — 來源分類：Category:日本の妖怪 > 鬼
+- [ ] **エル・カンターレ ファイト**（日語，原始碼 19,184 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AB%E3%83%BB%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%AC_%E3%83%95%E3%82%A1%E3%82%A4%E3%83%88) — 來源分類：Category:シャーマニズム
+- [ ] **Processo alle streghe di North Berwick**（義大利語，原始碼 19,167 位元組）— [原文](https://it.wikipedia.org/wiki/Processo_alle_streghe_di_North_Berwick) — 來源分類：Categoria:Stregoneria > Processi per stregoneria
+- [ ] **ニンジャ事件**（日語，原始碼 19,099 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3%E4%BA%8B%E4%BB%B6) — 來源分類：Category:呪術
+- [ ] **朱英 (正統進士)**（中文，原始碼 19,065 位元組）— [原文](https://zh.wikipedia.org/wiki/%E6%9C%B1%E8%8B%B1_%28%E6%AD%A3%E7%B5%B1%E9%80%B2%E5%A3%AB%29) — 來源分類：Category:中國民間信仰 > 城隍
+- [ ] **武器軟膏**（日語，原始碼 19,008 位元組）— [原文](https://ja.wikipedia.org/wiki/%E6%AD%A6%E5%99%A8%E8%BB%9F%E8%86%8F) — 來源分類：Category:呪術
+- [ ] **Museum of Witchcraft and Magic**（英語，原始碼 18,994 位元組）— [原文](https://en.wikipedia.org/wiki/Museum_of_Witchcraft_and_Magic) — 來源分類：Category:Witchcraft > Witchcraft museums
+- [ ] **鍾馗**（中文，原始碼 18,921 位元組）— [原文](https://zh.wikipedia.org/wiki/%E9%8D%BE%E9%A6%97) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **卡哈林干**（中文，原始碼 18,905 位元組）— [原文](https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%93%88%E6%9E%97%E5%B9%B2) — 來源分類：Category:薩滿教
+- [ ] **Witches in popular culture**（英語，原始碼 18,867 位元組）— [原文](https://en.wikipedia.org/wiki/Witches_in_popular_culture) — 來源分類：Category:Witchcraft > Witches
+- [ ] **Megatokyo**（西班牙語，原始碼 18,837 位元組）— [原文](https://es.wikipedia.org/wiki/Megatokyo) — 來源分類：Categoría:Brujería > Zombis > Zombis en la historieta
+- [ ] **Religion in Papua-Neuguinea**（德語，原始碼 18,822 位元組）— [原文](https://de.wikipedia.org/wiki/Religion_in_Papua-Neuguinea) — 來源分類：Kategorie:Hexerei > Moderne Hexenverfolgung
+- [ ] **华佗**（中文，原始碼 18,813 位元組）— [原文](https://zh.wikipedia.org/wiki/%E5%8D%8E%E4%BD%97) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **한라산**（韓語，原始碼 18,756 位元組）— [原文](https://ko.wikipedia.org/wiki/%ED%95%9C%EB%9D%BC%EC%82%B0) — 來源分類：분류:무속 > 무속 성지
+- [ ] **女神湖**（日語，原始碼 18,706 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%A5%B3%E7%A5%9E%E6%B9%96) — 來源分類：Category:日本の妖怪 > 河童
+- [ ] **Book of Shadows**（英語，原始碼 18,693 位元組）— [原文](https://en.wikipedia.org/wiki/Book_of_Shadows) — 來源分類：Category:Witchcraft > Grimoires
+- [ ] **브루그만시아**（韓語，原始碼 18,662 位元組）— [原文](https://ko.wikipedia.org/wiki/%EB%B8%8C%EB%A3%A8%EA%B7%B8%EB%A7%8C%EC%8B%9C%EC%95%84) — 來源分類：분류:샤머니즘 > 의식용 환각제
+- [ ] **車公**（中文，原始碼 18,627 位元組）— [原文](https://zh.wikipedia.org/wiki/%E8%BB%8A%E5%85%AC) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **石敢当**（中文，原始碼 18,624 位元組）— [原文](https://zh.wikipedia.org/wiki/%E7%9F%B3%E6%95%A2%E5%BD%93) — 來源分類：Category:中國民間信仰
+- [ ] **鬼門**（日語，原始碼 18,527 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%AC%BC%E9%96%80) — 來源分類：Category:呪術 > 陰陽道
+- [ ] **Reginald Scot**（英語，原始碼 18,521 位元組）— [原文](https://en.wikipedia.org/wiki/Reginald_Scot) — 來源分類：Category:Witchcraft > Witch hunting > Critics of witch hunting
+- [ ] **Cleverman**（英語，原始碼 18,493 位元組）— [原文](https://en.wikipedia.org/wiki/Cleverman) — 來源分類：Category:Witchcraft
+- [ ] **四方拝**（日語，原始碼 18,486 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%9B%9B%E6%96%B9%E6%8B%9D) — 來源分類：Category:呪術 > 陰陽道
+- [ ] **Understanding The Lord of the Rings**（英語，原始碼 18,475 位元組）— [原文](https://en.wikipedia.org/wiki/Understanding_The_Lord_of_the_Rings) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Middle-earth
+- [ ] **化け狸**（日語，原始碼 18,450 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%8C%96%E3%81%91%E7%8B%B8) — 來源分類：Category:日本の妖怪 > 化け狸
+- [ ] **天后寶誕**（中文，原始碼 18,448 位元組）— [原文](https://zh.wikipedia.org/wiki/%E5%A4%A9%E5%90%8E%E5%AF%B6%E8%AA%95) — 來源分類：Category:中國民間信仰 > 中国民间祭祀活动
+- [ ] **John Zatara**（西班牙語，原始碼 18,438 位元組）— [原文](https://es.wikipedia.org/wiki/John_Zatara) — 來源分類：Categoría:Brujería > Brujos ficticios > Zatanna
+- [ ] **The Archaeology of Ritual and Magic**（英語，原始碼 18,360 位元組）— [原文](https://en.wikipedia.org/wiki/The_Archaeology_of_Ritual_and_Magic) — 來源分類：Category:Witchcraft > Books about witchcraft > History books about witchcraft
+- [ ] **Jannes and Jambres**（英語，原始碼 18,278 位元組）— [原文](https://en.wikipedia.org/wiki/Jannes_and_Jambres) — 來源分類：Category:Witchcraft > Judaism and witchcraft
+- [ ] **Huibin Jang**（英語，原始碼 18,274 位元組）— [原文](https://en.wikipedia.org/wiki/Huibin_Jang) — 來源分類：Category:Witchcraft > Asian witchcraft
+- [ ] **弘文天皇**（日語，原始碼 18,268 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%BC%98%E6%96%87%E5%A4%A9%E7%9A%87) — 來源分類：Category:陰陽道 > 日本の神 (人物神 御霊信仰)
+- [ ] **三山國王**（中文，原始碼 18,247 位元組）— [原文](https://zh.wikipedia.org/wiki/%E4%B8%89%E5%B1%B1%E5%9C%8B%E7%8E%8B) — 來源分類：Category:中國民間信仰
+- [ ] **Witch hunts in Papua New Guinea**（英語，原始碼 18,217 位元組）— [原文](https://en.wikipedia.org/wiki/Witch_hunts_in_Papua_New_Guinea) — 來源分類：Category:Witchcraft > Witch hunting
+- [ ] **Hexensalbe**（德語，原始碼 18,208 位元組）— [原文](https://de.wikipedia.org/wiki/Hexensalbe) — 來源分類：Kategorie:Hexenverfolgung
+- [ ] **陀々堂の鬼はしり**（日語，原始碼 18,145 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%99%80%E3%80%85%E5%A0%82%E3%81%AE%E9%AC%BC%E3%81%AF%E3%81%97%E3%82%8A) — 來源分類：Category:日本の妖怪 > 鬼
+- [ ] **川主**（中文，原始碼 18,120 位元組）— [原文](https://zh.wikipedia.org/wiki/%E5%B7%9D%E4%B8%BB) — 來源分類：Category:中國民間信仰
+- [ ] **Yamauba**（德語，原始碼 18,099 位元組）— [原文](https://de.wikipedia.org/wiki/Yamauba) — 來源分類：Kategorie:Hexerei > Hexe
+- [ ] **髪切り**（日語，原始碼 18,092 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%AB%AA%E5%88%87%E3%82%8A) — 來源分類：Category:日本の妖怪 > 妖怪絵巻の妖怪
+- [ ] **土御門久脩**（日語，原始碼 18,082 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%9C%9F%E5%BE%A1%E9%96%80%E4%B9%85%E8%84%A9) — 來源分類：Category:陰陽道 > 陰陽師
+- [ ] **Sankarea**（西班牙語，原始碼 18,073 位元組）— [原文](https://es.wikipedia.org/wiki/Sankarea) — 來源分類：Categoría:Brujería > Zombis > Zombis en la historieta
+- [ ] **Alonso de Salazar Frías**（英語，原始碼 17,997 位元組）— [原文](https://en.wikipedia.org/wiki/Alonso_de_Salazar_Fr%C3%ADas) — 來源分類：Category:Witchcraft > Witch hunting > Critics of witch hunting
+- [ ] **Voodoo in popular culture**（英語，原始碼 17,990 位元組）— [原文](https://en.wikipedia.org/wiki/Voodoo_in_popular_culture) — 來源分類：Category:Witchcraft > African witchcraft > Voodoo
+- [ ] **Alu (runic)**（英語，原始碼 17,930 位元組）— [原文](https://en.wikipedia.org/wiki/Alu_%28runic%29) — 來源分類：Category:Witchcraft > Incantation > Magic words
+- [ ] **리세르그산 디에틸아미드**（韓語，原始碼 17,885 位元組）— [原文](https://ko.wikipedia.org/wiki/%EB%A6%AC%EC%84%B8%EB%A5%B4%EA%B7%B8%EC%82%B0_%EB%94%94%EC%97%90%ED%8B%B8%EC%95%84%EB%AF%B8%EB%93%9C) — 來源分類：분류:샤머니즘 > 의식용 환각제
+- [ ] **Mpumalanga Witchcraft Suppression Bill**（英語，原始碼 17,876 位元組）— [原文](https://en.wikipedia.org/wiki/Mpumalanga_Witchcraft_Suppression_Bill) — 來源分類：Category:Witchcraft > African witchcraft
+- [ ] **留從效**（中文，原始碼 17,871 位元組）— [原文](https://zh.wikipedia.org/wiki/%E7%95%99%E5%BE%9E%E6%95%88) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **ミサキ**（日語，原始碼 17,843 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%9F%E3%82%B5%E3%82%AD) — 來源分類：Category:シャーマニズム > 憑き物
+- [ ] **Witchcraft accusations against children**（英語，原始碼 17,799 位元組）— [原文](https://en.wikipedia.org/wiki/Witchcraft_accusations_against_children) — 來源分類：Category:Witchcraft > Witch hunting
+- [ ] **Medjed**（英語，原始碼 17,746 位元組）— [原文](https://en.wikipedia.org/wiki/Medjed) — 來源分類：Category:Witchcraft > Incantation > Book of the Dead
+- [ ] **土御門天皇**（日語，原始碼 17,741 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%9C%9F%E5%BE%A1%E9%96%80%E5%A4%A9%E7%9A%87) — 來源分類：Category:陰陽道 > 日本の神 (人物神 御霊信仰)
+- [ ] **死神 (日本)**（日語，原始碼 17,613 位元組）— [原文](https://ja.wikipedia.org/wiki/%E6%AD%BB%E7%A5%9E_%28%E6%97%A5%E6%9C%AC%29) — 來源分類：Category:日本の妖怪
+- [ ] **Joseph Glanvill**（英語，原始碼 17,605 位元組）— [原文](https://en.wikipedia.org/wiki/Joseph_Glanvill) — 來源分類：Category:Witchcraft > Witch hunting > Supporters of witch hunting
+- [ ] **蘇民将来**（日語，原始碼 17,553 位元組）— [原文](https://ja.wikipedia.org/wiki/%E8%98%87%E6%B0%91%E5%B0%86%E6%9D%A5) — 來源分類：Category:陰陽道 > 陰陽道の神
+- [ ] **李密 (隋朝)**（中文，原始碼 17,528 位元組）— [原文](https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%AF%86_%28%E9%9A%8B%E6%9C%9D%29) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **カニングフォーク**（日語，原始碼 17,503 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AF) — 來源分類：Category:魔女
+- [ ] **Book of Shadows (Charmed)**（英語，原始碼 17,486 位元組）— [原文](https://en.wikipedia.org/wiki/Book_of_Shadows_%28Charmed%29) — 來源分類：Category:Witchcraft > Grimoires > Fictional grimoires
+- [ ] **葉永盛**（中文，原始碼 17,460 位元組）— [原文](https://zh.wikipedia.org/wiki/%E8%91%89%E6%B0%B8%E7%9B%9B) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **Stephen Nissenbaum**（德語，原始碼 17,413 位元組）— [原文](https://de.wikipedia.org/wiki/Stephen_Nissenbaum) — 來源分類：Kategorie:Hexenverfolgung > Sachliteratur (Hexenverfolgung)
+- [ ] **Jasper Sitwell**（西班牙語，原始碼 17,272 位元組）— [原文](https://es.wikipedia.org/wiki/Jasper_Sitwell) — 來源分類：Categoría:Brujería > Zombis > Zombis en la historieta
+- [ ] **The Alchemyst: The Secrets of the Immortal Nicholas Flamel**（英語，原始碼 17,188 位元組）— [原文](https://en.wikipedia.org/wiki/The_Alchemyst%3A_The_Secrets_of_the_Immortal_Nicholas_Flamel) — 來源分類：Category:Witchcraft > Judaism and witchcraft > Witch of Endor
+- [ ] **開けゴマ**（日語，原始碼 17,118 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%96%8B%E3%81%91%E3%82%B4%E3%83%9E) — 來源分類：Category:呪術
+- [ ] **Joseph Hansen (historian)**（英語，原始碼 17,087 位元組）— [原文](https://en.wikipedia.org/wiki/Joseph_Hansen_%28historian%29) — 來源分類：Category:Witchcraft > Historians of witchcraft
+- [ ] **鎌鼬**（日語，原始碼 17,082 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%8E%8C%E9%BC%AC) — 來源分類：Category:日本の妖怪
+- [ ] **小さいおじさん**（日語，原始碼 17,078 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%B0%8F%E3%81%95%E3%81%84%E3%81%8A%E3%81%98%E3%81%95%E3%82%93) — 來源分類：Category:日本の妖怪 > 日本の都市伝説の妖怪
+- [ ] **周处**（中文，原始碼 17,029 位元組）— [原文](https://zh.wikipedia.org/wiki/%E5%91%A8%E5%A4%84) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **Lexa Roséan**（德語，原始碼 16,992 位元組）— [原文](https://de.wikipedia.org/wiki/Lexa_Ros%C3%A9an) — 來源分類：Kategorie:Hexerei > Hexe
+- [ ] **Harry Potter: A History of Magic**（英語，原始碼 16,955 位元組）— [原文](https://en.wikipedia.org/wiki/Harry_Potter%3A_A_History_of_Magic) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Harry Potter
+- [ ] **真龍寺 (世田谷区)**（日語，原始碼 16,899 位元組）— [原文](https://ja.wikipedia.org/wiki/%E7%9C%9F%E9%BE%8D%E5%AF%BA_%28%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%29) — 來源分類：Category:日本の妖怪 > 天狗
+- [ ] **狼男裁判**（日語，原始碼 16,897 位元組）— [原文](https://ja.wikipedia.org/wiki/%E7%8B%BC%E7%94%B7%E8%A3%81%E5%88%A4) — 來源分類：Category:魔女 > 魔女裁判
+- [ ] **Libro detto strega o delle illusioni del demonio**（義大利語，原始碼 16,824 位元組）— [原文](https://it.wikipedia.org/wiki/Libro_detto_strega_o_delle_illusioni_del_demonio) — 來源分類：Categoria:Stregoneria
+- [ ] **順徳天皇**（日語，原始碼 16,823 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%A0%86%E5%BE%B3%E5%A4%A9%E7%9A%87) — 來源分類：Category:陰陽道 > 日本の神 (人物神 御霊信仰)
+- [ ] **淳仁天皇**（日語，原始碼 16,819 位元組）— [原文](https://ja.wikipedia.org/wiki/%E6%B7%B3%E4%BB%81%E5%A4%A9%E7%9A%87) — 來源分類：Category:陰陽道 > 日本の神 (人物神 御霊信仰)
+- [ ] **Galder (incantation)**（英語，原始碼 16,769 位元組）— [原文](https://en.wikipedia.org/wiki/Galder_%28incantation%29) — 來源分類：Category:Witchcraft > Incantation
+- [ ] **Kitāb al-nawāmīs**（英語，原始碼 16,768 位元組）— [原文](https://en.wikipedia.org/wiki/Kit%C4%81b_al-naw%C4%81m%C4%ABs) — 來源分類：Category:Witchcraft > Grimoires > Arabic grimoires
+- [ ] **シベリアのシャーマニズムとトナカイ**（日語，原始碼 16,767 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%99%E3%83%AA%E3%82%A2%E3%81%AE%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%9E%E3%83%8B%E3%82%BA%E3%83%A0%E3%81%A8%E3%83%88%E3%83%8A%E3%82%AB%E3%82%A4) — 來源分類：Category:シャーマニズム
+- [ ] **Anexo:Brujas en ficción**（西班牙語，原始碼 16,747 位元組）— [原文](https://es.wikipedia.org/wiki/Anexo%3ABrujas_en_ficci%C3%B3n) — 來源分類：Categoría:Brujería
+- [ ] **扁鹊**（中文，原始碼 16,730 位元組）— [原文](https://zh.wikipedia.org/wiki/%E6%89%81%E9%B9%8A) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **厄年**（日語，原始碼 16,701 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%8E%84%E5%B9%B4) — 來源分類：Category:呪術 > 陰陽道
+- [ ] **禹**（中文，原始碼 16,685 位元組）— [原文](https://zh.wikipedia.org/wiki/%E7%A6%B9) — 來源分類：Category:中國民間信仰 > 中国民间信仰神祇
+- [ ] **高尾山薬王院**（日語，原始碼 16,674 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%AB%98%E5%B0%BE%E5%B1%B1%E8%96%AC%E7%8E%8B%E9%99%A2) — 來源分類：Category:日本の妖怪 > 天狗
+- [ ] **尉迟敬德**（中文，原始碼 16,611 位元組）— [原文](https://zh.wikipedia.org/wiki/%E5%B0%89%E8%BF%9F%E6%95%AC%E5%BE%B7) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **Wilhelm Gottlieb Soldan**（德語，原始碼 16,577 位元組）— [原文](https://de.wikipedia.org/wiki/Wilhelm_Gottlieb_Soldan) — 來源分類：Kategorie:Hexenverfolgung > Sachliteratur (Hexenverfolgung)
+- [ ] **大武丸**（日語，原始碼 16,560 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%AD%A6%E4%B8%B8) — 來源分類：Category:日本の妖怪 > 鬼
+- [ ] **餓鬼**（日語，原始碼 16,507 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%A4%93%E9%AC%BC) — 來源分類：Category:日本の妖怪 > 鬼
+- [ ] **杨府爷**（中文，原始碼 16,448 位元組）— [原文](https://zh.wikipedia.org/wiki/%E6%9D%A8%E5%BA%9C%E7%88%B7) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **Baba Jaga**（德語，原始碼 16,419 位元組）— [原文](https://de.wikipedia.org/wiki/Baba_Jaga) — 來源分類：Kategorie:Hexerei > Hexe
+- [ ] **Stregoneria tradizionale**（義大利語，原始碼 16,358 位元組）— [原文](https://it.wikipedia.org/wiki/Stregoneria_tradizionale) — 來源分類：Categoria:Stregoneria
+- [ ] **Giftaffäre**（德語，原始碼 16,327 位元組）— [原文](https://de.wikipedia.org/wiki/Giftaff%C3%A4re) — 來源分類：Kategorie:Hexenverfolgung
+- [ ] **六字大明呪**（日語，原始碼 16,327 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%85%AD%E5%AD%97%E5%A4%A7%E6%98%8E%E5%91%AA) — 來源分類：Category:呪術 > 陀羅尼
+- [ ] **Ordalía**（西班牙語，原始碼 16,257 位元組）— [原文](https://es.wikipedia.org/wiki/Ordal%C3%ADa) — 來源分類：Categoría:Brujería > Ordalía
+- [ ] **十干**（日語，原始碼 16,256 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%8D%81%E5%B9%B2) — 來源分類：Category:呪術 > 陰陽道
+- [ ] **安倍泰親**（日語，原始碼 16,211 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%AE%89%E5%80%8D%E6%B3%B0%E8%A6%AA) — 來源分類：Category:陰陽道 > 陰陽師
+- [ ] **ジョゼフ・コニー**（日語，原始碼 16,177 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%82%BC%E3%83%95%E3%83%BB%E3%82%B3%E3%83%8B%E3%83%BC) — 來源分類：Category:シャーマニズム > 霊媒師
+- [ ] **Thomas Brattle**（英語，原始碼 16,160 位元組）— [原文](https://en.wikipedia.org/wiki/Thomas_Brattle) — 來源分類：Category:Witchcraft > Witch hunting > Critics of witch hunting
+- [ ] **The Book of Abramelin**（英語，原始碼 16,134 位元組）— [原文](https://en.wikipedia.org/wiki/The_Book_of_Abramelin) — 來源分類：Category:Witchcraft > Grimoires > Goetic grimoires
+- [ ] **サハ神話**（日語，原始碼 16,112 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%8F%E7%A5%9E%E8%A9%B1) — 來源分類：Category:シャーマニズム
+- [ ] **シビュラの書**（日語，原始碼 16,012 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%93%E3%83%A5%E3%83%A9%E3%81%AE%E6%9B%B8) — 來源分類：Category:シャーマニズム > シビュラ
+- [ ] **林偕春**（中文，原始碼 15,791 位元組）— [原文](https://zh.wikipedia.org/wiki/%E6%9E%97%E5%81%95%E6%98%A5) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **Die kleine Hexe**（德語，原始碼 15,766 位元組）— [原文](https://de.wikipedia.org/wiki/Die_kleine_Hexe) — 來源分類：Kategorie:Hexerei > Hexe > Fiktive Hexe
+- [ ] **Letters on Demonology and Witchcraft**（英語，原始碼 15,753 位元組）— [原文](https://en.wikipedia.org/wiki/Letters_on_Demonology_and_Witchcraft) — 來源分類：Category:Witchcraft > Books about witchcraft
+- [ ] **Jiji ru lüling**（英語，原始碼 15,738 位元組）— [原文](https://en.wikipedia.org/wiki/Jiji_ru_l%C3%BCling) — 來源分類：Category:Witchcraft > Incantation
+- [ ] **2017 hair and braid chopping incidents in India**（英語，原始碼 15,714 位元組）— [原文](https://en.wikipedia.org/wiki/2017_hair_and_braid_chopping_incidents_in_India) — 來源分類：Category:Witchcraft > Modern witchcraft > Modern witch hunts
+- [ ] **Schadenzauber**（德語，原始碼 15,708 位元組）— [原文](https://de.wikipedia.org/wiki/Schadenzauber) — 來源分類：Kategorie:Hexenverfolgung
+- [ ] **王潮**（中文，原始碼 15,706 位元組）— [原文](https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%BD%AE) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **姜太公**（中文，原始碼 15,662 位元組）— [原文](https://zh.wikipedia.org/wiki/%E5%A7%9C%E5%A4%AA%E5%85%AC) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **Kurdaitcha**（西班牙語，原始碼 15,651 位元組）— [原文](https://es.wikipedia.org/wiki/Kurdaitcha) — 來源分類：Categoría:Brujería
+- [ ] **Black magic**（英語，原始碼 15,618 位元組）— [原文](https://en.wikipedia.org/wiki/Black_magic) — 來源分類：Category:Witchcraft
+- [ ] **曾我時致**（日語，原始碼 15,613 位元組）— [原文](https://ja.wikipedia.org/wiki/%E6%9B%BE%E6%88%91%E6%99%82%E8%87%B4) — 來源分類：Category:陰陽道 > 日本の神 (人物神 御霊信仰)
+- [ ] **士燮 (三国)**（中文，原始碼 15,595 位元組）— [原文](https://zh.wikipedia.org/wiki/%E5%A3%AB%E7%87%AE_%28%E4%B8%89%E5%9B%BD%29) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **グレッグ・スタフォード**（日語，原始碼 15,566 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AC%E3%83%83%E3%82%B0%E3%83%BB%E3%82%B9%E3%82%BF%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89) — 來源分類：Category:シャーマニズム > アメリカ大陸におけるシャーマニズム
+- [ ] **이공본풀이**（韓語，原始碼 15,555 位元組）— [原文](https://ko.wikipedia.org/wiki/%EC%9D%B4%EA%B3%B5%EB%B3%B8%ED%92%80%EC%9D%B4) — 來源分類：분류:무속 > 무불습합
+- [ ] **Beller Markt**（德語，原始碼 15,510 位元組）— [原文](https://de.wikipedia.org/wiki/Beller_Markt) — 來源分類：Kategorie:Hexenverfolgung
+- [ ] **古巽他族信仰**（中文，原始碼 15,473 位元組）— [原文](https://zh.wikipedia.org/wiki/%E5%8F%A4%E5%B7%BD%E4%BB%96%E6%97%8F%E4%BF%A1%E4%BB%B0) — 來源分類：Category:薩滿教
+- [ ] **Penelope (2006 film)**（英語，原始碼 15,429 位元組）— [原文](https://en.wikipedia.org/wiki/Penelope_%282006_film%29) — 來源分類：Category:Witchcraft > Pig-faced women
+- [ ] **Ducking stool**（英語，原始碼 15,395 位元組）— [原文](https://en.wikipedia.org/wiki/Ducking_stool) — 來源分類：Category:Witchcraft > Witch hunting > Early Modern witch hunts
+- [ ] **Fulu**（英語，原始碼 15,391 位元組）— [原文](https://en.wikipedia.org/wiki/Fulu) — 來源分類：Category:Witchcraft > Incantation
+- [ ] **山男**（日語，原始碼 15,374 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%B1%B1%E7%94%B7) — 來源分類：Category:日本の妖怪 > 鬼
+- [ ] **見越し入道**（日語，原始碼 15,326 位元組）— [原文](https://ja.wikipedia.org/wiki/%E8%A6%8B%E8%B6%8A%E3%81%97%E5%85%A5%E9%81%93) — 來源分類：Category:日本の妖怪
+- [ ] **九星**（日語，原始碼 15,305 位元組）— [原文](https://ja.wikipedia.org/wiki/%E4%B9%9D%E6%98%9F) — 來源分類：Category:呪術 > 陰陽道
+- [ ] **Key of Solomon**（英語，原始碼 15,284 位元組）— [原文](https://en.wikipedia.org/wiki/Key_of_Solomon) — 來源分類：Category:Witchcraft > Grimoires > Goetic grimoires
+- [ ] **Mithras Liturgy**（英語，原始碼 15,279 位元組）— [原文](https://en.wikipedia.org/wiki/Mithras_Liturgy) — 來源分類：Category:Witchcraft > Incantation > Magic words
+- [ ] **Grand Albert**（英語，原始碼 15,245 位元組）— [原文](https://en.wikipedia.org/wiki/Grand_Albert) — 來源分類：Category:Witchcraft > Grimoires > Goetic grimoires
+- [ ] **ヴァルプルギスの夜**（日語，原始碼 15,195 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A1%E3%83%AB%E3%83%97%E3%83%AB%E3%82%AE%E3%82%B9%E3%81%AE%E5%A4%9C) — 來源分類：Category:魔女
+- [ ] **エドワード・ケリー**（日語，原始碼 15,160 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%89%E3%83%AF%E3%83%BC%E3%83%89%E3%83%BB%E3%82%B1%E3%83%AA%E3%83%BC) — 來源分類：Category:シャーマニズム > 霊媒師
+- [ ] **カルロス・カスタネダ**（日語，原始碼 15,154 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AB%E3%83%AD%E3%82%B9%E3%83%BB%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%8D%E3%83%80) — 來源分類：Category:シャーマニズム > アメリカ大陸におけるシャーマニズム
+- [ ] **María de Illarra**（西班牙語，原始碼 15,150 位元組）— [原文](https://es.wikipedia.org/wiki/Mar%C3%ADa_de_Illarra) — 來源分類：Categoría:Brujería
+- [ ] **Assessors of Maat**（英語，原始碼 15,148 位元組）— [原文](https://en.wikipedia.org/wiki/Assessors_of_Maat) — 來源分類：Category:Witchcraft > Incantation > Book of the Dead
+- [ ] **계룡산**（韓語，原始碼 15,146 位元組）— [原文](https://ko.wikipedia.org/wiki/%EA%B3%84%EB%A3%A1%EC%82%B0) — 來源分類：분류:무속 > 무속 성지
+- [ ] **Agape**（英語，原始碼 15,140 位元組）— [原文](https://en.wikipedia.org/wiki/Agape) — 來源分類：Category:Witchcraft > Incantation > Magic words
+- [ ] **滝山寺鬼まつり**（日語，原始碼 15,113 位元組）— [原文](https://ja.wikipedia.org/wiki/%E6%BB%9D%E5%B1%B1%E5%AF%BA%E9%AC%BC%E3%81%BE%E3%81%A4%E3%82%8A) — 來源分類：Category:日本の妖怪 > 鬼
+- [ ] **Raven Grimassi**（英語，原始碼 15,112 位元組）— [原文](https://en.wikipedia.org/wiki/Raven_Grimassi) — 來源分類：Category:Witchcraft > Witches
+- [ ] **Géraldine Tobé Mutamande**（法語，原始碼 15,103 位元組）— [原文](https://fr.wikipedia.org/wiki/G%C3%A9raldine_Tob%C3%A9_Mutamande) — 來源分類：Catégorie:Sorcellerie > Enfant sorcier
+- [ ] **Magical formula**（英語，原始碼 15,088 位元組）— [原文](https://en.wikipedia.org/wiki/Magical_formula) — 來源分類：Category:Witchcraft > Incantation > Magic words
+- [ ] **秘密の首領**（日語，原始碼 15,085 位元組）— [原文](https://ja.wikipedia.org/wiki/%E7%A7%98%E5%AF%86%E3%81%AE%E9%A6%96%E9%A0%98) — 來源分類：Category:呪術 > 西洋魔術
+- [ ] **Witchcraft in ancient Greece and Rome**（英語，原始碼 15,067 位元組）— [原文](https://en.wikipedia.org/wiki/Witchcraft_in_ancient_Greece_and_Rome) — 來源分類：Category:Witchcraft
+- [ ] **Makonde witchcraft and sorcery**（英語，原始碼 15,063 位元組）— [原文](https://en.wikipedia.org/wiki/Makonde_witchcraft_and_sorcery) — 來源分類：Category:Witchcraft > African witchcraft
+- [ ] **Kurdaitcha**（英語，原始碼 15,059 位元組）— [原文](https://en.wikipedia.org/wiki/Kurdaitcha) — 來源分類：Category:Witchcraft
+- [ ] **ダイアン・フォーチュン**（日語，原始碼 15,013 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%80%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%BB%E3%83%95%E3%82%A9%E3%83%BC%E3%83%81%E3%83%A5%E3%83%B3) — 來源分類：Category:呪術 > 魔術師
+- [ ] **Angela Spook**（德語，原始碼 15,005 位元組）— [原文](https://de.wikipedia.org/wiki/Angela_Spook) — 來源分類：Kategorie:Hexerei > Hexe
+- [ ] **周公旦**（中文，原始碼 14,965 位元組）— [原文](https://zh.wikipedia.org/wiki/%E5%91%A8%E5%85%AC%E6%97%A6) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **霊媒**（日語，原始碼 14,961 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%9C%8A%E5%AA%92) — 來源分類：Category:シャーマニズム
+- [ ] **中國巾明獨三山國王協會**（中文，原始碼 14,862 位元組）— [原文](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E5%B7%BE%E6%98%8E%E7%8D%A8%E4%B8%89%E5%B1%B1%E5%9C%8B%E7%8E%8B%E5%8D%94%E6%9C%83) — 來源分類：Category:中國民間信仰 > 三山國王
+- [ ] **Spirit children**（英語，原始碼 14,804 位元組）— [原文](https://en.wikipedia.org/wiki/Spirit_children) — 來源分類：Category:Witchcraft > African witchcraft
+- [ ] **九案泰山**（中文，原始碼 14,786 位元組）— [原文](https://zh.wikipedia.org/wiki/%E4%B9%9D%E6%A1%88%E6%B3%B0%E5%B1%B1) — 來源分類：Category:中國民間信仰 > 福建民間信仰
+- [ ] **傀儡子**（日語，原始碼 14,777 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%82%80%E5%84%A1%E5%AD%90) — 來源分類：Category:呪術
+- [ ] **三平義中**（中文，原始碼 14,681 位元組）— [原文](https://zh.wikipedia.org/wiki/%E4%B8%89%E5%B9%B3%E7%BE%A9%E4%B8%AD) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **무녀**（韓語，原始碼 14,634 位元組）— [原文](https://ko.wikipedia.org/wiki/%EB%AC%B4%EB%85%80) — 來源分類：분류:샤머니즘
+- [ ] **Rond de sorcières**（法語，原始碼 14,618 位元組）— [原文](https://fr.wikipedia.org/wiki/Rond_de_sorci%C3%A8res) — 來源分類：Catégorie:Sorcellerie
+- [ ] **鐵鉉**（中文，原始碼 14,615 位元組）— [原文](https://zh.wikipedia.org/wiki/%E9%90%B5%E9%89%89) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **中国神学**（中文，原始碼 14,594 位元組）— [原文](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E7%A5%9E%E5%AD%A6) — 來源分類：Category:中國民間信仰
+- [ ] **满族说部**（中文，原始碼 14,579 位元組）— [原文](https://zh.wikipedia.org/wiki/%E6%BB%A1%E6%97%8F%E8%AF%B4%E9%83%A8) — 來源分類：Category:薩滿教
+- [ ] **大入道**（日語，原始碼 14,568 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%85%A5%E9%81%93) — 來源分類：Category:日本の妖怪
+- [ ] **春申君**（中文，原始碼 14,563 位元組）— [原文](https://zh.wikipedia.org/wiki/%E6%98%A5%E7%94%B3%E5%90%9B) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **Sidonia von Borcke**（法語，原始碼 14,553 位元組）— [原文](https://fr.wikipedia.org/wiki/Sidonia_von_Borcke) — 來源分類：Catégorie:Sorcellerie
+- [ ] **A Man Was Going Down the Road**（英語，原始碼 14,529 位元組）— [原文](https://en.wikipedia.org/wiki/A_Man_Was_Going_Down_the_Road) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Works about Medea
+- [ ] **Azande witchcraft**（英語，原始碼 14,510 位元組）— [原文](https://en.wikipedia.org/wiki/Azande_witchcraft) — 來源分類：Category:Witchcraft > African witchcraft
+- [ ] **Donas de fuera**（義大利語，原始碼 14,494 位元組）— [原文](https://it.wikipedia.org/wiki/Donas_de_fuera) — 來源分類：Categoria:Stregoneria
+- [ ] **Espíritu familiar**（西班牙語，原始碼 14,456 位元組）— [原文](https://es.wikipedia.org/wiki/Esp%C3%ADritu_familiar) — 來源分類：Categoría:Brujería
+- [ ] **粛慎 (日本)**（日語，原始碼 14,447 位元組）— [原文](https://ja.wikipedia.org/wiki/%E7%B2%9B%E6%85%8E_%28%E6%97%A5%E6%9C%AC%29) — 來源分類：Category:日本の妖怪 > 鬼
+- [ ] **Rise of the Argonauts**（英語，原始碼 14,428 位元組）— [原文](https://en.wikipedia.org/wiki/Rise_of_the_Argonauts) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Works about Medea
+- [ ] **風獅爺**（中文，原始碼 14,410 位元組）— [原文](https://zh.wikipedia.org/wiki/%E9%A2%A8%E7%8D%85%E7%88%BA) — 來源分類：Category:中國民間信仰
+- [ ] **陳文龍**（中文，原始碼 14,395 位元組）— [原文](https://zh.wikipedia.org/wiki/%E9%99%B3%E6%96%87%E9%BE%8D) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **声聞師**（日語，原始碼 14,376 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%A3%B0%E8%81%9E%E5%B8%AB) — 來源分類：Category:陰陽道 > 陰陽師
+- [ ] **エノク語**（日語，原始碼 14,372 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%8E%E3%82%AF%E8%AA%9E) — 來源分類：Category:呪術 > 西洋魔術
+- [ ] **Sybil Leek**（英語，原始碼 14,363 位元組）— [原文](https://en.wikipedia.org/wiki/Sybil_Leek) — 來源分類：Category:Witchcraft > American witchcraft
+- [ ] **Petit Albert**（英語，原始碼 14,359 位元組）— [原文](https://en.wikipedia.org/wiki/Petit_Albert) — 來源分類：Category:Witchcraft > Grimoires
+- [ ] **グノーシスのミサ**（日語，原始碼 14,352 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%8E%E3%83%BC%E3%82%B7%E3%82%B9%E3%81%AE%E3%83%9F%E3%82%B5) — 來源分類：Category:呪術 > 西洋魔術
+- [ ] **二十七宿**（日語，原始碼 14,345 位元組）— [原文](https://ja.wikipedia.org/wiki/%E4%BA%8C%E5%8D%81%E4%B8%83%E5%AE%BF) — 來源分類：Category:呪術 > 陰陽道
+- [ ] **フォックス姉妹**（日語，原始碼 14,332 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A9%E3%83%83%E3%82%AF%E3%82%B9%E5%A7%89%E5%A6%B9) — 來源分類：Category:シャーマニズム > 霊媒師
+- [ ] **搖 (東甌王)**（中文，原始碼 14,332 位元組）— [原文](https://zh.wikipedia.org/wiki/%E6%90%96_%28%E6%9D%B1%E7%94%8C%E7%8E%8B%29) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **蔡紅亨**（中文，原始碼 14,330 位元組）— [原文](https://zh.wikipedia.org/wiki/%E8%94%A1%E7%B4%85%E4%BA%A8) — 來源分類：Category:中國民間信仰 > 福建民間信仰
+- [ ] **Brujería en Ghana**（西班牙語，原始碼 14,310 位元組）— [原文](https://es.wikipedia.org/wiki/Brujer%C3%ADa_en_Ghana) — 來源分類：Categoría:Brujería
+- [ ] **Pam Grossman**（英語，原始碼 14,304 位元組）— [原文](https://en.wikipedia.org/wiki/Pam_Grossman) — 來源分類：Category:Witchcraft
+- [ ] **Zombie (cómic)**（西班牙語，原始碼 14,304 位元組）— [原文](https://es.wikipedia.org/wiki/Zombie_%28c%C3%B3mic%29) — 來源分類：Categoría:Brujería > Zombis > Zombis en la historieta
+- [ ] **前鬼・後鬼**（日語，原始碼 14,292 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%89%8D%E9%AC%BC%E3%83%BB%E5%BE%8C%E9%AC%BC) — 來源分類：Category:日本の妖怪 > 鬼
+- [ ] **Phyllis Curott**（德語，原始碼 14,288 位元組）— [原文](https://de.wikipedia.org/wiki/Phyllis_Curott) — 來源分類：Kategorie:Hexerei > Hexe
+- [ ] **Hexenkartothek**（德語，原始碼 14,244 位元組）— [原文](https://de.wikipedia.org/wiki/Hexenkartothek) — 來源分類：Kategorie:Hexenverfolgung
+- [ ] **Stregheria**（英語，原始碼 14,241 位元組）— [原文](https://en.wikipedia.org/wiki/Stregheria) — 來源分類：Category:Witchcraft > American witchcraft
+- [ ] **Nicholas Eymerich**（英語，原始碼 14,241 位元組）— [原文](https://en.wikipedia.org/wiki/Nicholas_Eymerich) — 來源分類：Category:Witchcraft > Witch hunting > Supporters of witch hunting
+- [ ] **Michael Bear Carson and Suzan Carson**（英語，原始碼 14,226 位元組）— [原文](https://en.wikipedia.org/wiki/Michael_Bear_Carson_and_Suzan_Carson) — 來源分類：Category:Witchcraft > Modern witchcraft > Modern witch hunts
+- [ ] **赤頭 (陸奥国の人物)**（日語，原始碼 14,207 位元組）— [原文](https://ja.wikipedia.org/wiki/%E8%B5%A4%E9%A0%AD_%28%E9%99%B8%E5%A5%A5%E5%9B%BD%E3%81%AE%E4%BA%BA%E7%89%A9%29) — 來源分類：Category:日本の妖怪 > 鬼
+- [ ] **阿倍王子神社**（日語，原始碼 14,192 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%98%BF%E5%80%8D%E7%8E%8B%E5%AD%90%E7%A5%9E%E7%A4%BE) — 來源分類：Category:陰陽道 > 晴明神社
+- [ ] **懲罰椅子**（日語，原始碼 14,175 位元組）— [原文](https://ja.wikipedia.org/wiki/%E6%87%B2%E7%BD%B0%E6%A4%85%E5%AD%90) — 來源分類：Category:魔女
+- [ ] **Malcolm Gaskill**（英語，原始碼 14,174 位元組）— [原文](https://en.wikipedia.org/wiki/Malcolm_Gaskill) — 來源分類：Category:Witchcraft > Historians of witchcraft
+- [ ] **東京の雪男**（日語，原始碼 14,156 位元組）— [原文](https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E3%81%AE%E9%9B%AA%E7%94%B7) — 來源分類：Category:日本の妖怪
+- [ ] **太三郎狸**（日語，原始碼 14,142 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%A4%AA%E4%B8%89%E9%83%8E%E7%8B%B8) — 來源分類：Category:日本の妖怪 > 化け狸
+- [ ] **魏石鬼八面大王**（日語，原始碼 14,136 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%AD%8F%E7%9F%B3%E9%AC%BC%E5%85%AB%E9%9D%A2%E5%A4%A7%E7%8E%8B) — 來源分類：Category:日本の妖怪 > 鬼
+- [ ] **呪文**（日語，原始碼 14,100 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%91%AA%E6%96%87) — 來源分類：Category:呪術
+- [ ] **藤原広嗣**（日語，原始碼 14,068 位元組）— [原文](https://ja.wikipedia.org/wiki/%E8%97%A4%E5%8E%9F%E5%BA%83%E5%97%A3) — 來源分類：Category:陰陽道 > 日本の神 (人物神 御霊信仰)
+- [ ] **Nick Perumov**（英語，原始碼 14,053 位元組）— [原文](https://en.wikipedia.org/wiki/Nick_Perumov) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Middle-earth
+- [ ] **팔관회**（韓語，原始碼 14,053 位元組）— [原文](https://ko.wikipedia.org/wiki/%ED%8C%94%EA%B4%80%ED%9A%8C) — 來源分類：분류:무속 > 무불습합
+- [ ] **竜王と賢女ワシリーサ**（日語，原始碼 14,046 位元組）— [原文](https://ja.wikipedia.org/wiki/%E7%AB%9C%E7%8E%8B%E3%81%A8%E8%B3%A2%E5%A5%B3%E3%83%AF%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%B5) — 來源分類：Category:魔女 > バーバ・ヤーガ
+- [ ] **Liber Officiorum Spirituum**（英語，原始碼 14,011 位元組）— [原文](https://en.wikipedia.org/wiki/Liber_Officiorum_Spirituum) — 來源分類：Category:Witchcraft > Grimoires > Goetic grimoires
+- [ ] **1 Samuel 28**（英語，原始碼 13,999 位元組）— [原文](https://en.wikipedia.org/wiki/1_Samuel_28) — 來源分類：Category:Witchcraft > Judaism and witchcraft > Witch of Endor
+- [ ] **테트라하이드로칸나비놀**（韓語，原始碼 13,973 位元組）— [原文](https://ko.wikipedia.org/wiki/%ED%85%8C%ED%8A%B8%EB%9D%BC%ED%95%98%EC%9D%B4%EB%93%9C%EB%A1%9C%EC%B9%B8%EB%82%98%EB%B9%84%EB%86%80) — 來源分類：분류:샤머니즘 > 의식용 환각제
+- [ ] **一つ目小僧**（日語，原始碼 13,933 位元組）— [原文](https://ja.wikipedia.org/wiki/%E4%B8%80%E3%81%A4%E7%9B%AE%E5%B0%8F%E5%83%A7) — 來源分類：Category:日本の妖怪
+- [ ] **六星占術**（日語，原始碼 13,880 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%85%AD%E6%98%9F%E5%8D%A0%E8%A1%93) — 來源分類：Category:呪術 > 陰陽道
+- [ ] **橋本京明**（日語，原始碼 13,862 位元組）— [原文](https://ja.wikipedia.org/wiki/%E6%A9%8B%E6%9C%AC%E4%BA%AC%E6%98%8E) — 來源分類：Category:陰陽道 > 陰陽師
+- [ ] **Wið færstice**（英語，原始碼 13,853 位元組）— [原文](https://en.wikipedia.org/wiki/Wi%C3%B0_f%C3%A6rstice) — 來源分類：Category:Witchcraft > Incantation > Anglo-Saxon metrical charms
+- [ ] **張真君**（中文，原始碼 13,838 位元組）— [原文](https://zh.wikipedia.org/wiki/%E5%BC%B5%E7%9C%9F%E5%90%9B) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **后稷 (人物)**（中文，原始碼 13,815 位元組）— [原文](https://zh.wikipedia.org/wiki/%E5%90%8E%E7%A8%B7_%28%E4%BA%BA%E7%89%A9%29) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **茨木童子**（日語，原始碼 13,772 位元組）— [原文](https://ja.wikipedia.org/wiki/%E8%8C%A8%E6%9C%A8%E7%AB%A5%E5%AD%90) — 來源分類：Category:日本の妖怪 > 鬼
+- [ ] **Tangena**（西班牙語，原始碼 13,730 位元組）— [原文](https://es.wikipedia.org/wiki/Tangena) — 來源分類：Categoría:Brujería > Ordalía
+- [ ] **胡峄阳传说**（中文，原始碼 13,683 位元組）— [原文](https://zh.wikipedia.org/wiki/%E8%83%A1%E5%B3%84%E9%98%B3%E4%BC%A0%E8%AF%B4) — 來源分類：Category:中國民間信仰
+- [ ] **蔡襄**（中文，原始碼 13,681 位元組）— [原文](https://zh.wikipedia.org/wiki/%E8%94%A1%E8%A5%84) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **伏羲**（中文，原始碼 13,664 位元組）— [原文](https://zh.wikipedia.org/wiki/%E4%BC%8F%E7%BE%B2) — 來源分類：Category:中國民間信仰 > 中国民间信仰神祇
+- [ ] **コックリさん**（日語，原始碼 13,659 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%83%E3%82%AF%E3%83%AA%E3%81%95%E3%82%93) — 來源分類：Category:シャーマニズム
+- [ ] **Noce di Benevento**（義大利語，原始碼 13,649 位元組）— [原文](https://it.wikipedia.org/wiki/Noce_di_Benevento) — 來源分類：Categoria:Stregoneria
+- [ ] **Jahbulon**（英語，原始碼 13,645 位元組）— [原文](https://en.wikipedia.org/wiki/Jahbulon) — 來源分類：Category:Witchcraft > Incantation > Magic words
+- [ ] **秋葉権現**（日語，原始碼 13,574 位元組）— [原文](https://ja.wikipedia.org/wiki/%E7%A7%8B%E8%91%89%E6%A8%A9%E7%8F%BE) — 來源分類：Category:日本の妖怪 > 天狗
+- [ ] **栄光の手**（日語，原始碼 13,523 位元組）— [原文](https://ja.wikipedia.org/wiki/%E6%A0%84%E5%85%89%E3%81%AE%E6%89%8B) — 來源分類：Category:呪術
+- [ ] **Marca de bruja**（西班牙語，原始碼 13,510 位元組）— [原文](https://es.wikipedia.org/wiki/Marca_de_bruja) — 來源分類：Categoría:Brujería
+- [ ] **鲧禹治水**（中文，原始碼 13,451 位元組）— [原文](https://zh.wikipedia.org/wiki/%E9%B2%A7%E7%A6%B9%E6%B2%BB%E6%B0%B4) — 來源分類：Category:中國民間信仰 > 黄河神话与信仰
+- [ ] **Liber Pennae Praenumbra**（英語，原始碼 13,427 位元組）— [原文](https://en.wikipedia.org/wiki/Liber_Pennae_Praenumbra) — 來源分類：Category:Witchcraft > Incantation > Magic words
+- [ ] **Witch paddle**（英語，原始碼 13,400 位元組）— [原文](https://en.wikipedia.org/wiki/Witch_paddle) — 來源分類：Category:Witchcraft > Witches
+- [ ] **嗇色園**（中文，原始碼 13,399 位元組）— [原文](https://zh.wikipedia.org/wiki/%E5%97%87%E8%89%B2%E5%9C%92) — 來源分類：Category:中國民間信仰 > 三教
+- [ ] **Stregheria**（西班牙語，原始碼 13,385 位元組）— [原文](https://es.wikipedia.org/wiki/Stregheria) — 來源分類：Categoría:Brujería
+- [ ] **術数学**（日語，原始碼 13,379 位元組）— [原文](https://ja.wikipedia.org/wiki/%E8%A1%93%E6%95%B0%E5%AD%A6) — 來源分類：Category:呪術 > 陰陽道
+- [ ] **MinaLima**（英語，原始碼 13,366 位元組）— [原文](https://en.wikipedia.org/wiki/MinaLima) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Harry Potter
+- [ ] **海出人**（日語，原始碼 13,366 位元組）— [原文](https://ja.wikipedia.org/wiki/%E6%B5%B7%E5%87%BA%E4%BA%BA) — 來源分類：Category:日本の妖怪
+- [ ] **オーム (聖音)**（日語，原始碼 13,307 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%A0_%28%E8%81%96%E9%9F%B3%29) — 來源分類：Category:呪術 > 陀羅尼
+- [ ] **Paula de Eguiluz**（英語，原始碼 13,272 位元組）— [原文](https://en.wikipedia.org/wiki/Paula_de_Eguiluz) — 來源分類：Category:Witchcraft > American witchcraft
+- [ ] **リビアの巫女 (ミケランジェロ)**（日語，原始碼 13,265 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%93%E3%82%A2%E3%81%AE%E5%B7%AB%E5%A5%B3_%28%E3%83%9F%E3%82%B1%E3%83%A9%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AD%29) — 來源分類：Category:シャーマニズム > シビュラ
+- [ ] **Gespickter Hase**（德語，原始碼 13,252 位元組）— [原文](https://de.wikipedia.org/wiki/Gespickter_Hase) — 來源分類：Kategorie:Hexenverfolgung
+- [ ] **エリュトレイアの巫女 (ミケランジェロ)**（日語，原始碼 13,246 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AA%E3%83%A5%E3%83%88%E3%83%AC%E3%82%A4%E3%82%A2%E3%81%AE%E5%B7%AB%E5%A5%B3_%28%E3%83%9F%E3%82%B1%E3%83%A9%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AD%29) — 來源分類：Category:シャーマニズム > シビュラ
+- [ ] **Wolfgang Behringer**（法語，原始碼 13,235 位元組）— [原文](https://fr.wikipedia.org/wiki/Wolfgang_Behringer) — 來源分類：Catégorie:Sorcellerie > Procès de sorcellerie
+- [ ] **メアリー・マーガレット・ブランチャード**（日語，原始碼 13,209 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%9E%E3%83%BC%E3%82%AC%E3%83%AC%E3%83%83%E3%83%88%E3%83%BB%E3%83%96%E3%83%A9%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC%E3%83%89) — 來源分類：Category:魔女 > 魔女を題材とした作品 > 白雪姫
+- [ ] **綾里真宵**（日語，原始碼 13,198 位元組）— [原文](https://ja.wikipedia.org/wiki/%E7%B6%BE%E9%87%8C%E7%9C%9F%E5%AE%B5) — 來源分類：Category:シャーマニズム > 霊媒師
+- [ ] **山姫**（日語，原始碼 13,188 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%A7%AB) — 來源分類：Category:日本の妖怪
+- [ ] **御霊信仰**（日語，原始碼 13,173 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%BE%A1%E9%9C%8A%E4%BF%A1%E4%BB%B0) — 來源分類：Category:呪術 > 陰陽道
+- [ ] **Dewi Danu**（義大利語，原始碼 13,121 位元組）— [原文](https://it.wikipedia.org/wiki/Dewi_Danu) — 來源分類：Categoria:Stregoneria
+- [ ] **玄壇真君**（中文，原始碼 13,117 位元組）— [原文](https://zh.wikipedia.org/wiki/%E7%8E%84%E5%A3%87%E7%9C%9F%E5%90%9B) — 來源分類：Category:中國民間信仰 > 中国民间信仰神祇
+- [ ] **Panorama Cotton**（英語，原始碼 13,112 位元組）— [原文](https://en.wikipedia.org/wiki/Panorama_Cotton) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Cotton (series)
+- [ ] **謝范將軍**（中文，原始碼 13,105 位元組）— [原文](https://zh.wikipedia.org/wiki/%E8%AC%9D%E8%8C%83%E5%B0%87%E8%BB%8D) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **Incantation**（英語，原始碼 13,054 位元組）— [原文](https://en.wikipedia.org/wiki/Incantation) — 來源分類：Category:Witchcraft
+- [ ] **竜宮童子**（日語，原始碼 13,042 位元組）— [原文](https://ja.wikipedia.org/wiki/%E7%AB%9C%E5%AE%AE%E7%AB%A5%E5%AD%90) — 來源分類：Category:日本の妖怪
+- [ ] **狸憑き**（日語，原始碼 13,036 位元組）— [原文](https://ja.wikipedia.org/wiki/%E7%8B%B8%E6%86%91%E3%81%8D) — 來源分類：Category:シャーマニズム > 憑き物
+- [ ] **伍子胥**（中文，原始碼 12,968 位元組）— [原文](https://zh.wikipedia.org/wiki/%E4%BC%8D%E5%AD%90%E8%83%A5) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **祖霊**（日語，原始碼 12,914 位元組）— [原文](https://ja.wikipedia.org/wiki/%E7%A5%96%E9%9C%8A) — 來源分類：Category:陰陽道 > 御霊信仰
+- [ ] **白蓮教**（中文，原始碼 12,887 位元組）— [原文](https://zh.wikipedia.org/wiki/%E7%99%BD%E8%93%AE%E6%95%99) — 來源分類：Category:中國民間信仰 > 無生老母崇拜
+- [ ] **1 Samuel 28**（西班牙語，原始碼 12,837 位元組）— [原文](https://es.wikipedia.org/wiki/1_Samuel_28) — 來源分類：Categoría:Brujería > Bruja de Endor
+- [ ] **王爺千歲信仰**（中文，原始碼 12,816 位元組）— [原文](https://zh.wikipedia.org/wiki/%E7%8E%8B%E7%88%BA%E5%8D%83%E6%AD%B2%E4%BF%A1%E4%BB%B0) — 來源分類：Category:中國民間信仰 > 福建民間信仰
+- [ ] **順正大王**（中文，原始碼 12,802 位元組）— [原文](https://zh.wikipedia.org/wiki/%E9%A0%86%E6%AD%A3%E5%A4%A7%E7%8E%8B) — 來源分類：Category:中國民間信仰 > 福建民間信仰
+- [ ] **ぬらりひょん**（日語，原始碼 12,795 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%81%AC%E3%82%89%E3%82%8A%E3%81%B2%E3%82%87%E3%82%93) — 來源分類：Category:日本の妖怪 > 妖怪絵巻の妖怪
+- [ ] **灶君**（中文，原始碼 12,790 位元組）— [原文](https://zh.wikipedia.org/wiki/%E7%81%B6%E5%90%9B) — 來源分類：Category:中國民間信仰 > 中国民间信仰神祇
+- [ ] **青山灵安尊王**（中文，原始碼 12,787 位元組）— [原文](https://zh.wikipedia.org/wiki/%E9%9D%92%E5%B1%B1%E7%81%B5%E5%AE%89%E5%B0%8A%E7%8E%8B) — 來源分類：Category:中國民間信仰 > 福建民間信仰
+- [ ] **相性**（日語，原始碼 12,778 位元組）— [原文](https://ja.wikipedia.org/wiki/%E7%9B%B8%E6%80%A7) — 來源分類：Category:呪術 > 陰陽道
+- [ ] **Ndau witchcraft and sorcery**（英語，原始碼 12,773 位元組）— [原文](https://en.wikipedia.org/wiki/Ndau_witchcraft_and_sorcery) — 來源分類：Category:Witchcraft > African witchcraft
+- [ ] **Errores Gazariorum**（德語，原始碼 12,756 位元組）— [原文](https://de.wikipedia.org/wiki/Errores_Gazariorum) — 來源分類：Kategorie:Hexenverfolgung
+- [ ] **ブードゥー教**（日語，原始碼 12,746 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%BC%E3%83%89%E3%82%A5%E3%83%BC%E6%95%99) — 來源分類：Category:呪術
+- [ ] **Outline of Harry Potter**（英語，原始碼 12,726 位元組）— [原文](https://en.wikipedia.org/wiki/Outline_of_Harry_Potter) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Harry Potter
+- [ ] **猫又**（日語，原始碼 12,710 位元組）— [原文](https://ja.wikipedia.org/wiki/%E7%8C%AB%E5%8F%88) — 來源分類：Category:日本の妖怪
+- [ ] **天狗岩用水**（日語，原始碼 12,692 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%A4%A9%E7%8B%97%E5%B2%A9%E7%94%A8%E6%B0%B4) — 來源分類：Category:日本の妖怪 > 天狗
+- [ ] **Sefer Raziel HaMalakh**（英語，原始碼 12,674 位元組）— [原文](https://en.wikipedia.org/wiki/Sefer_Raziel_HaMalakh) — 來源分類：Category:Witchcraft > Grimoires > Jewish grimoires
+- [ ] **黄初平**（中文，原始碼 12,671 位元組）— [原文](https://zh.wikipedia.org/wiki/%E9%BB%84%E5%88%9D%E5%B9%B3) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **藤原純友**（日語，原始碼 12,667 位元組）— [原文](https://ja.wikipedia.org/wiki/%E8%97%A4%E5%8E%9F%E7%B4%94%E5%8F%8B) — 來源分類：Category:陰陽道 > 日本の神 (人物神 御霊信仰)
+- [ ] **金毘羅権現**（日語，原始碼 12,651 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%87%91%E6%AF%98%E7%BE%85%E6%A8%A9%E7%8F%BE) — 來源分類：Category:日本の妖怪 > 天狗
+- [ ] **張仲景**（中文，原始碼 12,642 位元組）— [原文](https://zh.wikipedia.org/wiki/%E5%BC%B5%E4%BB%B2%E6%99%AF) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **Helen Ukpabio**（英語，原始碼 12,617 位元組）— [原文](https://en.wikipedia.org/wiki/Helen_Ukpabio) — 來源分類：Category:Witchcraft > African witchcraft
+- [ ] **Birubala Rabha**（英語，原始碼 12,586 位元組）— [原文](https://en.wikipedia.org/wiki/Birubala_Rabha) — 來源分類：Category:Witchcraft > Witch hunting > Critics of witch hunting
+- [ ] **Shams al-Ma'arif**（英語，原始碼 12,557 位元組）— [原文](https://en.wikipedia.org/wiki/Shams_al-Ma%27arif) — 來源分類：Category:Witchcraft > Grimoires > Arabic grimoires
+- [ ] **年神**（日語，原始碼 12,548 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%B9%B4%E7%A5%9E) — 來源分類：Category:陰陽道 > 陰陽道の神
+- [ ] **Sorcières de Triora**（法語，原始碼 12,529 位元組）— [原文](https://fr.wikipedia.org/wiki/Sorci%C3%A8res_de_Triora) — 來源分類：Catégorie:Sorcellerie > Procès de sorcellerie
+- [ ] **アブラカダブラ**（日語，原始碼 12,526 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%96%E3%83%A9%E3%82%AB%E3%83%80%E3%83%96%E3%83%A9) — 來源分類：Category:呪術
+- [ ] **华光大帝**（中文，原始碼 12,515 位元組）— [原文](https://zh.wikipedia.org/wiki/%E5%8D%8E%E5%85%89%E5%A4%A7%E5%B8%9D) — 來源分類：Category:中國民間信仰 > 中国民间信仰神祇
+- [ ] **Spearfinger**（英語，原始碼 12,492 位元組）— [原文](https://en.wikipedia.org/wiki/Spearfinger) — 來源分類：Category:Witchcraft > American witchcraft
+- [ ] **Between the Living and the Dead**（英語，原始碼 12,486 位元組）— [原文](https://en.wikipedia.org/wiki/Between_the_Living_and_the_Dead) — 來源分類：Category:Witchcraft > Books about witchcraft
+- [ ] **Gris-gris (talisman)**（英語，原始碼 12,462 位元組）— [原文](https://en.wikipedia.org/wiki/Gris-gris_%28talisman%29) — 來源分類：Category:Witchcraft > African witchcraft > Voodoo
+- [ ] **Frauenbrunnen (Geistthal)**（德語，原始碼 12,458 位元組）— [原文](https://de.wikipedia.org/wiki/Frauenbrunnen_%28Geistthal%29) — 來源分類：Kategorie:Hexenverfolgung
+- [ ] **Pacte avec le Diable**（法語，原始碼 12,332 位元組）— [原文](https://fr.wikipedia.org/wiki/Pacte_avec_le_Diable) — 來源分類：Catégorie:Sorcellerie
+- [ ] **Shaman of Oberstdorf**（英語，原始碼 12,331 位元組）— [原文](https://en.wikipedia.org/wiki/Shaman_of_Oberstdorf) — 來源分類：Category:Witchcraft > Books about witchcraft > History books about witchcraft
+- [ ] **年界**（日語，原始碼 12,326 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%B9%B4%E7%95%8C) — 來源分類：Category:呪術 > 陰陽道
+- [ ] **八尺様**（日語，原始碼 12,319 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%85%AB%E5%B0%BA%E6%A7%98) — 來源分類：Category:日本の妖怪 > 日本の都市伝説の妖怪
+- [ ] **Freedom of religion in the Central African Republic**（英語，原始碼 12,317 位元組）— [原文](https://en.wikipedia.org/wiki/Freedom_of_religion_in_the_Central_African_Republic) — 來源分類：Category:Witchcraft > African witchcraft
+- [ ] **Arbatel de magia veterum**（英語，原始碼 12,240 位元組）— [原文](https://en.wikipedia.org/wiki/Arbatel_de_magia_veterum) — 來源分類：Category:Witchcraft > Grimoires
+- [ ] **Le Roi David**（英語，原始碼 12,228 位元組）— [原文](https://en.wikipedia.org/wiki/Le_Roi_David) — 來源分類：Category:Witchcraft > Judaism and witchcraft > Witch of Endor
+- [ ] **水仙尊王**（中文，原始碼 12,223 位元組）— [原文](https://zh.wikipedia.org/wiki/%E6%B0%B4%E4%BB%99%E5%B0%8A%E7%8E%8B) — 來源分類：Category:中國民間信仰 > 中国民间信仰神祇
+- [ ] **Hexenverfolgung in Basel**（德語，原始碼 12,214 位元組）— [原文](https://de.wikipedia.org/wiki/Hexenverfolgung_in_Basel) — 來源分類：Kategorie:Hexenverfolgung
+- [ ] **卢绛**（中文，原始碼 12,214 位元組）— [原文](https://zh.wikipedia.org/wiki/%E5%8D%A2%E7%BB%9B) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **王仲文**（日語，原始碼 12,201 位元組）— [原文](https://ja.wikipedia.org/wiki/%E7%8E%8B%E4%BB%B2%E6%96%87) — 來源分類：Category:陰陽道 > 陰陽師
+- [ ] **User:三猎/沙盒18**（中文，原始碼 12,175 位元組）— [原文](https://zh.wikipedia.org/wiki/User%3A%E4%B8%89%E7%8C%8E/%E6%B2%99%E7%9B%9218) — 來源分類：Category:中國民間信仰
+- [ ] **Howard Williams (humanitarian)**（英語，原始碼 12,173 位元組）— [原文](https://en.wikipedia.org/wiki/Howard_Williams_%28humanitarian%29) — 來源分類：Category:Witchcraft > Historians of witchcraft
+- [ ] **藤原仲成**（日語，原始碼 12,139 位元組）— [原文](https://ja.wikipedia.org/wiki/%E8%97%A4%E5%8E%9F%E4%BB%B2%E6%88%90) — 來源分類：Category:陰陽道 > 日本の神 (人物神 御霊信仰)
+- [ ] **雨乞い**（日語，原始碼 12,137 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%9B%A8%E4%B9%9E%E3%81%84) — 來源分類：Category:呪術
+- [ ] **追儺**（日語，原始碼 12,136 位元組）— [原文](https://ja.wikipedia.org/wiki/%E8%BF%BD%E5%84%BA) — 來源分類：Category:呪術
+- [ ] **Blair Witch Volume III: The Elly Kedward Tale**（英語，原始碼 12,123 位元組）— [原文](https://en.wikipedia.org/wiki/Blair_Witch_Volume_III%3A_The_Elly_Kedward_Tale) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Blair Witch
+- [ ] **ガラッパ**（日語，原始碼 12,095 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%A9%E3%83%83%E3%83%91) — 來源分類：Category:日本の妖怪 > 河童
+- [ ] **ノロ**（日語，原始碼 12,081 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%AD) — 來源分類：Category:シャーマニズム > 霊媒師
+- [ ] **Moina Mathers**（德語，原始碼 12,065 位元組）— [原文](https://de.wikipedia.org/wiki/Moina_Mathers) — 來源分類：Kategorie:Hexerei > Hexe
+- [ ] **垢嘗**（日語，原始碼 12,025 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%9E%A2%E5%98%97) — 來源分類：Category:日本の妖怪 > 妖怪絵巻の妖怪
+- [ ] **Witch camp**（英語，原始碼 11,985 位元組）— [原文](https://en.wikipedia.org/wiki/Witch_camp) — 來源分類：Category:Witchcraft > African witchcraft
+- [ ] **Walter Hauser (Schriftsteller)**（德語，原始碼 11,967 位元組）— [原文](https://de.wikipedia.org/wiki/Walter_Hauser_%28Schriftsteller%29) — 來源分類：Kategorie:Hexenverfolgung > Sachliteratur (Hexenverfolgung)
+- [ ] **日本の妖怪街おこし**（日語，原始碼 11,963 位元組）— [原文](https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%A6%96%E6%80%AA%E8%A1%97%E3%81%8A%E3%81%93%E3%81%97) — 來源分類：Category:日本の妖怪
+- [ ] **豆腐小僧**（日語，原始碼 11,946 位元組）— [原文](https://ja.wikipedia.org/wiki/%E8%B1%86%E8%85%90%E5%B0%8F%E5%83%A7) — 來源分類：Category:日本の妖怪
+- [ ] **Magical Treatise of Solomon**（英語，原始碼 11,945 位元組）— [原文](https://en.wikipedia.org/wiki/Magical_Treatise_of_Solomon) — 來源分類：Category:Witchcraft > Grimoires > Goetic grimoires
+- [ ] **緑風荘**（日語，原始碼 11,903 位元組）— [原文](https://ja.wikipedia.org/wiki/%E7%B7%91%E9%A2%A8%E8%8D%98) — 來源分類：Category:日本の妖怪 > 座敷童子
+- [ ] **枕返し**（日語，原始碼 11,899 位元組）— [原文](https://ja.wikipedia.org/wiki/%E6%9E%95%E8%BF%94%E3%81%97) — 來源分類：Category:日本の妖怪
+- [ ] **陈庆之**（中文，原始碼 11,899 位元組）— [原文](https://zh.wikipedia.org/wiki/%E9%99%88%E5%BA%86%E4%B9%8B) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **テカムセの呪い**（日語，原始碼 11,875 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%AB%E3%83%A0%E3%82%BB%E3%81%AE%E5%91%AA%E3%81%84) — 來源分類：Category:呪術
+- [ ] **林村許願樹**（中文，原始碼 11,861 位元組）— [原文](https://zh.wikipedia.org/wiki/%E6%9E%97%E6%9D%91%E8%A8%B1%E9%A1%98%E6%A8%B9) — 來源分類：Category:中國民間信仰 > 香港民間信仰
+- [ ] **Los sueños en la casa de la bruja**（西班牙語，原始碼 11,856 位元組）— [原文](https://es.wikipedia.org/wiki/Los_sue%C3%B1os_en_la_casa_de_la_bruja) — 來源分類：Categoría:Brujería
+- [ ] **Possession of Elizabeth Knapp**（英語，原始碼 11,818 位元組）— [原文](https://en.wikipedia.org/wiki/Possession_of_Elizabeth_Knapp) — 來源分類：Category:Witchcraft > American witchcraft
+- [ ] **Salem Witch Museum**（英語，原始碼 11,791 位元組）— [原文](https://en.wikipedia.org/wiki/Salem_Witch_Museum) — 來源分類：Category:Witchcraft > Witchcraft museums
+- [ ] **Anglo-Saxon Amulets and Curing Stones**（英語，原始碼 11,782 位元組）— [原文](https://en.wikipedia.org/wiki/Anglo-Saxon_Amulets_and_Curing_Stones) — 來源分類：Category:Witchcraft > Books about witchcraft > History books about witchcraft
+- [ ] **ランド・オブ・オズ**（日語，原始碼 11,782 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%B3%E3%83%89%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%82%AA%E3%82%BA) — 來源分類：Category:魔女 > 魔女を題材とした作品 > オズ・シリーズ
+- [ ] **黒猫**（日語，原始碼 11,780 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%BB%92%E7%8C%AB) — 來源分類：Category:魔女
+- [ ] **威武陳元帥**（中文，原始碼 11,765 位元組）— [原文](https://zh.wikipedia.org/wiki/%E5%A8%81%E6%AD%A6%E9%99%B3%E5%85%83%E5%B8%A5) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **方相氏**（中文，原始碼 11,762 位元組）— [原文](https://zh.wikipedia.org/wiki/%E6%96%B9%E7%9B%B8%E6%B0%8F) — 來源分類：Category:中國民間信仰 > 中国民间祭祀活动
+- [ ] **祟り**（日語，原始碼 11,688 位元組）— [原文](https://ja.wikipedia.org/wiki/%E7%A5%9F%E3%82%8A) — 來源分類：Category:陰陽道 > 御霊信仰
+- [ ] **Geology of Middle-earth**（英語，原始碼 11,676 位元組）— [原文](https://en.wikipedia.org/wiki/Geology_of_Middle-earth) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Middle-earth
+- [ ] **白雪姫と七人のこびと**（日語，原始碼 11,666 位元組）— [原文](https://ja.wikipedia.org/wiki/%E7%99%BD%E9%9B%AA%E5%A7%AB%E3%81%A8%E4%B8%83%E4%BA%BA%E3%81%AE%E3%81%93%E3%81%B3%E3%81%A8) — 來源分類：Category:魔女 > 魔女を題材とした作品 > 白雪姫
+- [ ] **ホセ・アリゴー**（日語，原始碼 11,653 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%9B%E3%82%BB%E3%83%BB%E3%82%A2%E3%83%AA%E3%82%B4%E3%83%BC) — 來源分類：Category:シャーマニズム > 霊媒師
+- [ ] **Médico brujo**（西班牙語，原始碼 11,627 位元組）— [原文](https://es.wikipedia.org/wiki/M%C3%A9dico_brujo) — 來源分類：Categoría:Brujería
+- [ ] **杨慎**（中文，原始碼 11,541 位元組）— [原文](https://zh.wikipedia.org/wiki/%E6%9D%A8%E6%85%8E) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **Sanghyang**（義大利語，原始碼 11,532 位元組）— [原文](https://it.wikipedia.org/wiki/Sanghyang) — 來源分類：Categoria:Stregoneria
+- [ ] **Nagual**（英語，原始碼 11,506 位元組）— [原文](https://en.wikipedia.org/wiki/Nagual) — 來源分類：Category:Witchcraft > American witchcraft
+- [ ] **Errores Gazariorum**（西班牙語，原始碼 11,505 位元組）— [原文](https://es.wikipedia.org/wiki/Errores_Gazariorum) — 來源分類：Categoría:Brujería
+- [ ] **鬼ヶ島**（日語，原始碼 11,492 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%AC%BC%E3%83%B6%E5%B3%B6) — 來源分類：Category:日本の妖怪 > 鬼
+- [ ] **三河萬歳**（日語，原始碼 11,445 位元組）— [原文](https://ja.wikipedia.org/wiki/%E4%B8%89%E6%B2%B3%E8%90%AC%E6%AD%B3) — 來源分類：Category:呪術 > 陰陽道
+- [ ] **十二次**（日語，原始碼 11,425 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%8D%81%E4%BA%8C%E6%AC%A1) — 來源分類：Category:呪術 > 陰陽道
+- [ ] **Pratique du secret**（法語，原始碼 11,413 位元組）— [原文](https://fr.wikipedia.org/wiki/Pratique_du_secret) — 來源分類：Catégorie:Sorcellerie
+- [ ] **The Discoverie of Witchcraft**（英語，原始碼 11,410 位元組）— [原文](https://en.wikipedia.org/wiki/The_Discoverie_of_Witchcraft) — 來源分類：Category:Witchcraft > Witchcraft treatises
+- [ ] **Abracadabra**（英語，原始碼 11,406 位元組）— [原文](https://en.wikipedia.org/wiki/Abracadabra) — 來源分類：Category:Witchcraft > Incantation
+- [ ] **スカイクラッド (ネオペイガニズム)**（日語，原始碼 11,400 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%AB%E3%82%A4%E3%82%AF%E3%83%A9%E3%83%83%E3%83%89_%28%E3%83%8D%E3%82%AA%E3%83%9A%E3%82%A4%E3%82%AC%E3%83%8B%E3%82%BA%E3%83%A0%29) — 來源分類：Category:魔女
+- [ ] **無常 (死神)**（日語，原始碼 11,389 位元組）— [原文](https://ja.wikipedia.org/wiki/%E7%84%A1%E5%B8%B8_%28%E6%AD%BB%E7%A5%9E%29) — 來源分類：Category:日本の妖怪 > 鬼
+- [ ] **柏洋摩尼教（明教）祭祀仪式**（中文，原始碼 11,388 位元組）— [原文](https://zh.wikipedia.org/wiki/%E6%9F%8F%E6%B4%8B%E6%91%A9%E5%B0%BC%E6%95%99%EF%BC%88%E6%98%8E%E6%95%99%EF%BC%89%E7%A5%AD%E7%A5%80%E4%BB%AA%E5%BC%8F) — 來源分類：Category:中國民間信仰 > 中国民间祭祀活动
+- [ ] **Thomas Hauschild**（德語，原始碼 11,386 位元組）— [原文](https://de.wikipedia.org/wiki/Thomas_Hauschild) — 來源分類：Kategorie:Hexenverfolgung > Sachliteratur (Hexenverfolgung)
+- [ ] **テウルギア**（日語，原始碼 11,381 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%A6%E3%83%AB%E3%82%AE%E3%82%A2) — 來源分類：Category:呪術
+- [ ] **河童の妙薬**（日語，原始碼 11,373 位元組）— [原文](https://ja.wikipedia.org/wiki/%E6%B2%B3%E7%AB%A5%E3%81%AE%E5%A6%99%E8%96%AC) — 來源分類：Category:日本の妖怪 > 河童
+- [ ] **Hexenexperiment**（德語，原始碼 11,302 位元組）— [原文](https://de.wikipedia.org/wiki/Hexenexperiment) — 來源分類：Kategorie:Hexerei
+- [ ] **Cofradía de brujas**（西班牙語，原始碼 11,231 位元組）— [原文](https://es.wikipedia.org/wiki/Cofrad%C3%ADa_de_brujas) — 來源分類：Categoría:Brujería
+- [ ] **Freedom of religion in Cameroon**（英語，原始碼 11,203 位元組）— [原文](https://en.wikipedia.org/wiki/Freedom_of_religion_in_Cameroon) — 來源分類：Category:Witchcraft > African witchcraft
+- [ ] **Noisetier**（法語，原始碼 11,194 位元組）— [原文](https://fr.wikipedia.org/wiki/Noisetier) — 來源分類：Catégorie:Sorcellerie > Plante utilisée en sorcellerie
+- [ ] **トイレの花子さん**（日語，原始碼 11,177 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%88%E3%82%A4%E3%83%AC%E3%81%AE%E8%8A%B1%E5%AD%90%E3%81%95%E3%82%93) — 來源分類：Category:日本の妖怪 > 日本の都市伝説の妖怪
+- [ ] **La toison d'or (opera)**（英語，原始碼 11,174 位元組）— [原文](https://en.wikipedia.org/wiki/La_toison_d%27or_%28opera%29) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Works about Medea
+- [ ] **无诸**（中文，原始碼 11,170 位元組）— [原文](https://zh.wikipedia.org/wiki/%E6%97%A0%E8%AF%B8) — 來源分類：Category:中國民間信仰 > 福建民間信仰
+- [ ] **Anja Ringgren Lovén**（英語，原始碼 11,145 位元組）— [原文](https://en.wikipedia.org/wiki/Anja_Ringgren_Lov%C3%A9n) — 來源分類：Category:Witchcraft > Modern witchcraft > Modern witch hunts
+- [ ] **Klaus Graf (Historiker)**（德語，原始碼 11,142 位元組）— [原文](https://de.wikipedia.org/wiki/Klaus_Graf_%28Historiker%29) — 來源分類：Kategorie:Hexenverfolgung > Sachliteratur (Hexenverfolgung)
+- [ ] **ヨイク**（日語，原始碼 11,133 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%A8%E3%82%A4%E3%82%AF) — 來源分類：Category:シャーマニズム
+- [ ] **魔女 (ハンドル)**（日語，原始碼 11,129 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%AD%94%E5%A5%B3_%28%E3%83%8F%E3%83%B3%E3%83%89%E3%83%AB%29) — 來源分類：Category:魔女
+- [ ] **天文道**（日語，原始碼 11,123 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%A4%A9%E6%96%87%E9%81%93) — 來源分類：Category:呪術 > 陰陽道
+- [ ] **人狐**（日語，原始碼 11,123 位元組）— [原文](https://ja.wikipedia.org/wiki/%E4%BA%BA%E7%8B%90) — 來源分類：Category:シャーマニズム > 憑き物
+- [ ] **Ursula Vaupel**（德語，原始碼 11,117 位元組）— [原文](https://de.wikipedia.org/wiki/Ursula_Vaupel) — 來源分類：Kategorie:Hexenverfolgung > Sachliteratur (Hexenverfolgung)
+- [ ] **Enfant sorcier**（法語，原始碼 11,112 位元組）— [原文](https://fr.wikipedia.org/wiki/Enfant_sorcier) — 來源分類：Catégorie:Sorcellerie > Enfant sorcier
+- [ ] **Fatima Khatun**（法語，原始碼 11,108 位元組）— [原文](https://fr.wikipedia.org/wiki/Fatima_Khatun) — 來源分類：Catégorie:Sorcellerie > Procès de sorcellerie > Personnalité condamnée pour sorcellerie
+- [ ] **Witch (word)**（英語，原始碼 11,055 位元組）— [原文](https://en.wikipedia.org/wiki/Witch_%28word%29) — 來源分類：Category:Witchcraft > Witches
+- [ ] **The Witch House**（英語，原始碼 11,046 位元組）— [原文](https://en.wikipedia.org/wiki/The_Witch_House) — 來源分類：Category:Witchcraft > Witchcraft museums
+- [ ] **Monastère d'Unterzell**（法語，原始碼 11,042 位元組）— [原文](https://fr.wikipedia.org/wiki/Monast%C3%A8re_d%27Unterzell) — 來源分類：Catégorie:Sorcellerie
+- [ ] **デルポイの巫女 (ミケランジェロ)**（日語，原始碼 11,021 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%AB%E3%83%9D%E3%82%A4%E3%81%AE%E5%B7%AB%E5%A5%B3_%28%E3%83%9F%E3%82%B1%E3%83%A9%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AD%29) — 來源分類：Category:シャーマニズム > シビュラ
+- [ ] **Blair Witch Volume I: Rustin Parr**（英語，原始碼 11,018 位元組）— [原文](https://en.wikipedia.org/wiki/Blair_Witch_Volume_I%3A_Rustin_Parr) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Blair Witch
+- [ ] **十二花仙**（中文，原始碼 11,011 位元組）— [原文](https://zh.wikipedia.org/wiki/%E5%8D%81%E4%BA%8C%E8%8A%B1%E4%BB%99) — 來源分類：Category:中國民間信仰 > 中国民间信仰神祇
+- [ ] **Mahendradatta**（義大利語，原始碼 10,976 位元組）— [原文](https://it.wikipedia.org/wiki/Mahendradatta) — 來源分類：Categoria:Stregoneria
+- [ ] **高浜七年祭**（日語，原始碼 10,952 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%AB%98%E6%B5%9C%E4%B8%83%E5%B9%B4%E7%A5%AD) — 來源分類：Category:陰陽道 > 御霊信仰
+- [ ] **シルウィアヌスの指輪**（日語，原始碼 10,951 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%AB%E3%82%A6%E3%82%A3%E3%82%A2%E3%83%8C%E3%82%B9%E3%81%AE%E6%8C%87%E8%BC%AA) — 來源分類：Category:呪術
+- [ ] **Wasserprobe (Recht)**（德語，原始碼 10,930 位元組）— [原文](https://de.wikipedia.org/wiki/Wasserprobe_%28Recht%29) — 來源分類：Kategorie:Hexenverfolgung
+- [ ] **曾我祐成**（日語，原始碼 10,924 位元組）— [原文](https://ja.wikipedia.org/wiki/%E6%9B%BE%E6%88%91%E7%A5%90%E6%88%90) — 來源分類：Category:陰陽道 > 日本の神 (人物神 御霊信仰)
+- [ ] **Maria de Naglowska**（西班牙語，原始碼 10,878 位元組）— [原文](https://es.wikipedia.org/wiki/Maria_de_Naglowska) — 來源分類：Categoría:Brujería
+- [ ] **Robert Pike (settler)**（英語，原始碼 10,868 位元組）— [原文](https://en.wikipedia.org/wiki/Robert_Pike_%28settler%29) — 來源分類：Category:Witchcraft > Witch hunting > Critics of witch hunting
+- [ ] **Formicarius**（英語，原始碼 10,846 位元組）— [原文](https://en.wikipedia.org/wiki/Formicarius) — 來源分類：Category:Witchcraft > Witchcraft treatises
+- [ ] **Abrahadabra**（英語，原始碼 10,840 位元組）— [原文](https://en.wikipedia.org/wiki/Abrahadabra) — 來源分類：Category:Witchcraft > Incantation > Magic words
+- [ ] **五芒星**（日語，原始碼 10,831 位元組）— [原文](https://ja.wikipedia.org/wiki/%E4%BA%94%E8%8A%92%E6%98%9F) — 來源分類：Category:呪術
+- [ ] **陈宜中**（中文，原始碼 10,828 位元組）— [原文](https://zh.wikipedia.org/wiki/%E9%99%88%E5%AE%9C%E4%B8%AD) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **祠堂**（中文，原始碼 10,827 位元組）— [原文](https://zh.wikipedia.org/wiki/%E7%A5%A0%E5%A0%82) — 來源分類：Category:中國民間信仰 > 祠堂
+- [ ] **Guérisseur**（法語，原始碼 10,825 位元組）— [原文](https://fr.wikipedia.org/wiki/Gu%C3%A9risseur) — 來源分類：Catégorie:Sorcellerie
+- [ ] **Zombies en La Moneda**（西班牙語，原始碼 10,824 位元組）— [原文](https://es.wikipedia.org/wiki/Zombies_en_La_Moneda) — 來源分類：Categoría:Brujería > Zombis > Zombis en la historieta
+- [ ] **Mary Webster (alleged witch)**（英語，原始碼 10,816 位元組）— [原文](https://en.wikipedia.org/wiki/Mary_Webster_%28alleged_witch%29) — 來源分類：Category:Witchcraft > American witchcraft
+- [ ] **土御門晴榮**（日語，原始碼 10,815 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%9C%9F%E5%BE%A1%E9%96%80%E6%99%B4%E6%A6%AE) — 來源分類：Category:陰陽道 > 陰陽師
+- [ ] **姚啟聖**（中文，原始碼 10,801 位元組）— [原文](https://zh.wikipedia.org/wiki/%E5%A7%9A%E5%95%9F%E8%81%96) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **古峯神社**（日語，原始碼 10,786 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%8F%A4%E5%B3%AF%E7%A5%9E%E7%A4%BE) — 來源分類：Category:日本の妖怪 > 天狗
+- [ ] **三国相伝陰陽輨轄簠簋内伝金烏玉兎集**（日語，原始碼 10,782 位元組）— [原文](https://ja.wikipedia.org/wiki/%E4%B8%89%E5%9B%BD%E7%9B%B8%E4%BC%9D%E9%99%B0%E9%99%BD%E8%BC%A8%E8%BD%84%E7%B0%A0%E7%B0%8B%E5%86%85%E4%BC%9D%E9%87%91%E7%83%8F%E7%8E%89%E5%85%8E%E9%9B%86) — 來源分類：Category:呪術 > 陰陽道
+- [ ] **Agobard**（英語，原始碼 10,756 位元組）— [原文](https://en.wikipedia.org/wiki/Agobard) — 來源分類：Category:Witchcraft > Witch hunting > Critics of witch hunting
+- [ ] **李仁達**（中文，原始碼 10,743 位元組）— [原文](https://zh.wikipedia.org/wiki/%E6%9D%8E%E4%BB%81%E9%81%94) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **Caso dei diavoli di Loudun**（義大利語，原始碼 10,737 位元組）— [原文](https://it.wikipedia.org/wiki/Caso_dei_diavoli_di_Loudun) — 來源分類：Categoria:Stregoneria > Processi per stregoneria
+- [ ] **Bibbidi-Bobbidi-Boo**（英語，原始碼 10,729 位元組）— [原文](https://en.wikipedia.org/wiki/Bibbidi-Bobbidi-Boo) — 來源分類：Category:Witchcraft > Incantation > Magic words
+- [ ] **Méric Casaubon**（英語，原始碼 10,716 位元組）— [原文](https://en.wikipedia.org/wiki/M%C3%A9ric_Casaubon) — 來源分類：Category:Witchcraft > Witch hunting > Supporters of witch hunting
+- [ ] **陳洪進**（中文，原始碼 10,713 位元組）— [原文](https://zh.wikipedia.org/wiki/%E9%99%B3%E6%B4%AA%E9%80%B2) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **橘逸勢**（日語，原始碼 10,702 位元組）— [原文](https://ja.wikipedia.org/wiki/%E6%A9%98%E9%80%B8%E5%8B%A2) — 來源分類：Category:陰陽道 > 日本の神 (人物神 御霊信仰)
+- [ ] **天神信仰**（日語，原始碼 10,699 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%A4%A9%E7%A5%9E%E4%BF%A1%E4%BB%B0) — 來源分類：Category:陰陽道 > 御霊信仰
+- [ ] **シビュラ (パルマ・イル・ヴェッキオ)**（日語，原始碼 10,672 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%93%E3%83%A5%E3%83%A9_%28%E3%83%91%E3%83%AB%E3%83%9E%E3%83%BB%E3%82%A4%E3%83%AB%E3%83%BB%E3%83%B4%E3%82%A7%E3%83%83%E3%82%AD%E3%82%AA%29) — 來源分類：Category:シャーマニズム > シビュラ
+- [ ] **Xyzzy (computing)**（英語，原始碼 10,656 位元組）— [原文](https://en.wikipedia.org/wiki/Xyzzy_%28computing%29) — 來源分類：Category:Witchcraft > Incantation > Magic words
+- [ ] **Witchcraft Suppression Act, 1957**（英語，原始碼 10,646 位元組）— [原文](https://en.wikipedia.org/wiki/Witchcraft_Suppression_Act%2C_1957) — 來源分類：Category:Witchcraft > African witchcraft
+- [ ] **Totenbeschwörerin von Endor**（德語，原始碼 10,635 位元組）— [原文](https://de.wikipedia.org/wiki/Totenbeschw%C3%B6rerin_von_Endor) — 來源分類：Kategorie:Hexerei > Hexe
+- [ ] **Kikis kleiner Lieferservice (Roman)**（德語，原始碼 10,615 位元組）— [原文](https://de.wikipedia.org/wiki/Kikis_kleiner_Lieferservice_%28Roman%29) — 來源分類：Kategorie:Hexerei > Hexe > Fiktive Hexe
+- [ ] **神功戲 (香港)**（中文，原始碼 10,613 位元組）— [原文](https://zh.wikipedia.org/wiki/%E7%A5%9E%E5%8A%9F%E6%88%B2_%28%E9%A6%99%E6%B8%AF%29) — 來源分類：Category:中國民間信仰 > 香港民間信仰
+- [ ] **鯉躍龍門**（中文，原始碼 10,594 位元組）— [原文](https://zh.wikipedia.org/wiki/%E9%AF%89%E8%BA%8D%E9%BE%8D%E9%96%80) — 來源分類：Category:中國民間信仰 > 黄河神话与信仰
+- [ ] **動物霊**（日語，原始碼 10,588 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%8B%95%E7%89%A9%E9%9C%8A) — 來源分類：Category:シャーマニズム
+- [ ] **Kebo Iwa**（義大利語，原始碼 10,585 位元組）— [原文](https://it.wikipedia.org/wiki/Kebo_Iwa) — 來源分類：Categoria:Stregoneria
+- [ ] **Karl Meier (Autor)**（德語，原始碼 10,571 位元組）— [原文](https://de.wikipedia.org/wiki/Karl_Meier_%28Autor%29) — 來源分類：Kategorie:Hexenverfolgung > Sachliteratur (Hexenverfolgung)
+- [ ] **三元九運**（日語，原始碼 10,563 位元組）— [原文](https://ja.wikipedia.org/wiki/%E4%B8%89%E5%85%83%E4%B9%9D%E9%81%8B) — 來源分類：Category:呪術 > 陰陽道
+- [ ] **Maria Renata Singer von Mossau**（法語，原始碼 10,560 位元組）— [原文](https://fr.wikipedia.org/wiki/Maria_Renata_Singer_von_Mossau) — 來源分類：Catégorie:Sorcellerie > Procès de sorcellerie > Personnalité condamnée pour sorcellerie
+- [ ] **Edith Rose Woodford-Grimes**（德語，原始碼 10,530 位元組）— [原文](https://de.wikipedia.org/wiki/Edith_Rose_Woodford-Grimes) — 來源分類：Kategorie:Hexerei > Hexe
+- [ ] **Thomas Maule (Quaker)**（英語，原始碼 10,518 位元組）— [原文](https://en.wikipedia.org/wiki/Thomas_Maule_%28Quaker%29) — 來源分類：Category:Witchcraft > Witch hunting > Critics of witch hunting
+- [ ] **骆宾王**（中文，原始碼 10,515 位元組）— [原文](https://zh.wikipedia.org/wiki/%E9%AA%86%E5%AE%BE%E7%8E%8B) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **ドゥクン**（日語，原始碼 10,514 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%A5%E3%82%AF%E3%83%B3) — 來源分類：Category:呪術
+- [ ] **化猫遊女**（日語，原始碼 10,506 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%8C%96%E7%8C%AB%E9%81%8A%E5%A5%B3) — 來源分類：Category:日本の妖怪
+- [ ] **黄道周**（中文，原始碼 10,504 位元組）— [原文](https://zh.wikipedia.org/wiki/%E9%BB%84%E9%81%93%E5%91%A8) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **陰陽五行思想**（日語，原始碼 10,503 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%99%B0%E9%99%BD%E4%BA%94%E8%A1%8C%E6%80%9D%E6%83%B3) — 來源分類：Category:呪術 > 陰陽道
+- [ ] **阿用郷の鬼**（日語，原始碼 10,495 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%98%BF%E7%94%A8%E9%83%B7%E3%81%AE%E9%AC%BC) — 來源分類：Category:日本の妖怪 > 鬼
+- [ ] **泗洲文佛**（中文，原始碼 10,495 位元組）— [原文](https://zh.wikipedia.org/wiki/%E6%B3%97%E6%B4%B2%E6%96%87%E4%BD%9B) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **ターボばあちゃん**（日語，原始碼 10,485 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%BC%E3%83%9C%E3%81%B0%E3%81%82%E3%81%A1%E3%82%83%E3%82%93) — 來源分類：Category:日本の妖怪 > 日本の都市伝説の妖怪
+- [ ] **삼성사**（韓語，原始碼 10,473 位元組）— [原文](https://ko.wikipedia.org/wiki/%EC%82%BC%EC%84%B1%EC%82%AC) — 來源分類：분류:무속 > 무속 건축물
+- [ ] **Ordalía del agua**（西班牙語，原始碼 10,430 位元組）— [原文](https://es.wikipedia.org/wiki/Ordal%C3%ADa_del_agua) — 來源分類：Categoría:Brujería > Ordalía
+- [ ] **エリファス・レヴィ**（日語，原始碼 10,429 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AA%E3%83%95%E3%82%A1%E3%82%B9%E3%83%BB%E3%83%AC%E3%83%B4%E3%82%A3) — 來源分類：Category:呪術 > 魔術師
+- [ ] **Helena Scheuberin**（法語，原始碼 10,425 位元組）— [原文](https://fr.wikipedia.org/wiki/Helena_Scheuberin) — 來源分類：Catégorie:Sorcellerie > Personne persécutée pour sorcellerie
+- [ ] **大将軍神社 (京都市北区)**（日語，原始碼 10,414 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%B0%86%E8%BB%8D%E7%A5%9E%E7%A4%BE_%28%E4%BA%AC%E9%83%BD%E5%B8%82%E5%8C%97%E5%8C%BA%29) — 來源分類：Category:呪術 > 陰陽道
+- [ ] **Kai Lehmann**（德語，原始碼 10,407 位元組）— [原文](https://de.wikipedia.org/wiki/Kai_Lehmann) — 來源分類：Kategorie:Hexenverfolgung > Sachliteratur (Hexenverfolgung)
+- [ ] **Medea (The Icemark Chronicles)**（英語，原始碼 10,407 位元組）— [原文](https://en.wikipedia.org/wiki/Medea_%28The_Icemark_Chronicles%29) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Works about Medea
+- [ ] **독말풀속**（韓語，原始碼 10,402 位元組）— [原文](https://ko.wikipedia.org/wiki/%EB%8F%85%EB%A7%90%ED%92%80%EC%86%8D) — 來源分類：분류:샤머니즘 > 의식용 환각제
+- [ ] **Epic Pooh**（英語，原始碼 10,384 位元組）— [原文](https://en.wikipedia.org/wiki/Epic_Pooh) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Middle-earth
+- [ ] **孙思邈**（中文，原始碼 10,363 位元組）— [原文](https://zh.wikipedia.org/wiki/%E5%AD%99%E6%80%9D%E9%82%88) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **ペルシアの巫女 (ミケランジェロ)**（日語，原始碼 10,337 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%AB%E3%82%B7%E3%82%A2%E3%81%AE%E5%B7%AB%E5%A5%B3_%28%E3%83%9F%E3%82%B1%E3%83%A9%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AD%29) — 來源分類：Category:シャーマニズム > シビュラ
+- [ ] **New Forest Coven**（德語，原始碼 10,335 位元組）— [原文](https://de.wikipedia.org/wiki/New_Forest_Coven) — 來源分類：Kategorie:Hexerei
+- [ ] **擲筊**（中文，原始碼 10,332 位元組）— [原文](https://zh.wikipedia.org/wiki/%E6%93%B2%E7%AD%8A) — 來源分類：Category:中國民間信仰
+- [ ] **勘解由小路家 (日野流)**（日語，原始碼 10,330 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%8B%98%E8%A7%A3%E7%94%B1%E5%B0%8F%E8%B7%AF%E5%AE%B6_%28%E6%97%A5%E9%87%8E%E6%B5%81%29) — 來源分類：Category:陰陽道 > 陰陽師
+- [ ] **汤和信仰**（中文，原始碼 10,330 位元組）— [原文](https://zh.wikipedia.org/wiki/%E6%B1%A4%E5%92%8C%E4%BF%A1%E4%BB%B0) — 來源分類：Category:中國民間信仰
+- [ ] **Owen Davies (historian)**（英語，原始碼 10,329 位元組）— [原文](https://en.wikipedia.org/wiki/Owen_Davies_%28historian%29) — 來源分類：Category:Witchcraft > Historians of witchcraft
+- [ ] **猿神**（日語，原始碼 10,326 位元組）— [原文](https://ja.wikipedia.org/wiki/%E7%8C%BF%E7%A5%9E) — 來源分類：Category:シャーマニズム > 憑き物
+- [ ] **井上内親王**（日語，原始碼 10,301 位元組）— [原文](https://ja.wikipedia.org/wiki/%E4%BA%95%E4%B8%8A%E5%86%85%E8%A6%AA%E7%8E%8B) — 來源分類：Category:陰陽道 > 日本の神 (人物神 御霊信仰)
+- [ ] **新田義興**（日語，原始碼 10,290 位元組）— [原文](https://ja.wikipedia.org/wiki/%E6%96%B0%E7%94%B0%E7%BE%A9%E8%88%88) — 來源分類：Category:陰陽道 > 日本の神 (人物神 御霊信仰)
+- [ ] **貧乏神**（日語，原始碼 10,281 位元組）— [原文](https://ja.wikipedia.org/wiki/%E8%B2%A7%E4%B9%8F%E7%A5%9E) — 來源分類：Category:日本の妖怪
+- [ ] **陰陽寮**（日語，原始碼 10,278 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%99%B0%E9%99%BD%E5%AF%AE) — 來源分類：Category:陰陽道 > 陰陽寮
+- [ ] **道満**（日語，原始碼 10,276 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%81%93%E6%BA%80) — 來源分類：Category:呪術
+- [ ] **Women of Colchis**（英語，原始碼 10,257 位元組）— [原文](https://en.wikipedia.org/wiki/Women_of_Colchis) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Works about Medea
+- [ ] **Zsuzsanna Budapest**（德語，原始碼 10,224 位元組）— [原文](https://de.wikipedia.org/wiki/Zsuzsanna_Budapest) — 來源分類：Kategorie:Hexerei > Hexe
+- [ ] **八瀬童子**（日語，原始碼 10,217 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%85%AB%E7%80%AC%E7%AB%A5%E5%AD%90) — 來源分類：Category:日本の妖怪 > 鬼
+- [ ] **祠山王**（中文，原始碼 10,211 位元組）— [原文](https://zh.wikipedia.org/wiki/%E7%A5%A0%E5%B1%B1%E7%8E%8B) — 來源分類：Category:中國民間信仰 > 中国民间信仰神祇
+- [ ] **Gerard de Ruán**（西班牙語，原始碼 10,198 位元組）— [原文](https://es.wikipedia.org/wiki/Gerard_de_Ru%C3%A1n) — 來源分類：Categoría:Brujería
+- [ ] **霊言**（日語，原始碼 10,185 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%9C%8A%E8%A8%80) — 來源分類：Category:シャーマニズム > 霊媒師
+- [ ] **Dayan (witch)**（英語，原始碼 10,183 位元組）— [原文](https://en.wikipedia.org/wiki/Dayan_%28witch%29) — 來源分類：Category:Witchcraft > Asian witchcraft
+- [ ] **Tituba**（義大利語，原始碼 10,168 位元組）— [原文](https://it.wikipedia.org/wiki/Tituba) — 來源分類：Categoria:Stregoneria > Processi per stregoneria
+- [ ] **無生老母**（中文，原始碼 10,136 位元組）— [原文](https://zh.wikipedia.org/wiki/%E7%84%A1%E7%94%9F%E8%80%81%E6%AF%8D) — 來源分類：Category:中國民間信仰 > 無生老母崇拜
+- [ ] **Internationaler Tag gegen Hexenwahn**（德語，原始碼 10,127 位元組）— [原文](https://de.wikipedia.org/wiki/Internationaler_Tag_gegen_Hexenwahn) — 來源分類：Kategorie:Hexerei > Moderne Hexenverfolgung
+- [ ] **ひょうすべ**（日語，原始碼 10,118 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%81%B2%E3%82%87%E3%81%86%E3%81%99%E3%81%B9) — 來源分類：Category:日本の妖怪 > 河童
+- [ ] **灌嬰**（中文，原始碼 10,110 位元組）— [原文](https://zh.wikipedia.org/wiki/%E7%81%8C%E5%AC%B0) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **Freedom of religion in Angola**（英語，原始碼 10,093 位元組）— [原文](https://en.wikipedia.org/wiki/Freedom_of_religion_in_Angola) — 來源分類：Category:Witchcraft > African witchcraft
+- [ ] **圓玄學院**（中文，原始碼 10,073 位元組）— [原文](https://zh.wikipedia.org/wiki/%E5%9C%93%E7%8E%84%E5%AD%B8%E9%99%A2) — 來源分類：Category:中國民間信仰 > 三教
+- [ ] **付喪神**（日語，原始碼 10,072 位元組）— [原文](https://ja.wikipedia.org/wiki/%E4%BB%98%E5%96%AA%E7%A5%9E) — 來源分類：Category:日本の妖怪 > 付喪神
+- [ ] **Bricket Wood Coven**（德語，原始碼 10,060 位元組）— [原文](https://de.wikipedia.org/wiki/Bricket_Wood_Coven) — 來源分類：Kategorie:Hexerei
+- [ ] **尾張萬歳**（日語，原始碼 9,974 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%B0%BE%E5%BC%B5%E8%90%AC%E6%AD%B3) — 來源分類：Category:呪術 > 陰陽道
+- [ ] **藁人形**（日語，原始碼 9,967 位元組）— [原文](https://ja.wikipedia.org/wiki/%E8%97%81%E4%BA%BA%E5%BD%A2) — 來源分類：Category:呪術
+- [ ] **百鬼夜行**（日語，原始碼 9,964 位元組）— [原文](https://ja.wikipedia.org/wiki/%E7%99%BE%E9%AC%BC%E5%A4%9C%E8%A1%8C) — 來源分類：Category:日本の妖怪
+- [ ] **十二天将**（日語，原始碼 9,948 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%8D%81%E4%BA%8C%E5%A4%A9%E5%B0%86) — 來源分類：Category:陰陽道 > 陰陽道の神
+- [ ] **Der Flaschenkobold**（德語，原始碼 9,907 位元組）— [原文](https://de.wikipedia.org/wiki/Der_Flaschenkobold) — 來源分類：Kategorie:Hexerei > Teufelspakt
+- [ ] **Isobel Gowdie**（西班牙語，原始碼 9,876 位元組）— [原文](https://es.wikipedia.org/wiki/Isobel_Gowdie) — 來源分類：Categoría:Brujería
+- [ ] **Teufelspakt**（德語，原始碼 9,855 位元組）— [原文](https://de.wikipedia.org/wiki/Teufelspakt) — 來源分類：Kategorie:Hexenverfolgung
+- [ ] **단군 신화**（韓語，原始碼 9,855 位元組）— [原文](https://ko.wikipedia.org/wiki/%EB%8B%A8%EA%B5%B0_%EC%8B%A0%ED%99%94) — 來源分類：분류:무속 > 무불습합
+- [ ] **萨巴依**（中文，原始碼 9,841 位元組）— [原文](https://zh.wikipedia.org/wiki/%E8%90%A8%E5%B7%B4%E4%BE%9D) — 來源分類：Category:薩滿教
+- [ ] **Samuel Willard**（英語，原始碼 9,813 位元組）— [原文](https://en.wikipedia.org/wiki/Samuel_Willard) — 來源分類：Category:Witchcraft > Witch hunting > Critics of witch hunting
+- [ ] **Oudewater**（德語，原始碼 9,793 位元組）— [原文](https://de.wikipedia.org/wiki/Oudewater) — 來源分類：Kategorie:Hexenverfolgung
+- [ ] **青衣戲棚**（中文，原始碼 9,748 位元組）— [原文](https://zh.wikipedia.org/wiki/%E9%9D%92%E8%A1%A3%E6%88%B2%E6%A3%9A) — 來源分類：Category:中國民間信仰 > 香港民間信仰
+- [ ] **Francis Dane**（英語，原始碼 9,744 位元組）— [原文](https://en.wikipedia.org/wiki/Francis_Dane) — 來源分類：Category:Witchcraft > Witch hunting > Critics of witch hunting
+- [ ] **山童**（日語，原始碼 9,701 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%B1%B1%E7%AB%A5) — 來源分類：Category:日本の妖怪 > 河童
+- [ ] **메틸렌디옥시메스암페타민**（韓語，原始碼 9,681 位元組）— [原文](https://ko.wikipedia.org/wiki/%EB%A9%94%ED%8B%B8%EB%A0%8C%EB%94%94%EC%98%A5%EC%8B%9C%EB%A9%94%EC%8A%A4%EC%95%94%ED%8E%98%ED%83%80%EB%AF%BC) — 來源分類：분류:샤머니즘 > 의식용 환각제
+- [ ] **大庭景親**（日語，原始碼 9,677 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%BA%AD%E6%99%AF%E8%A6%AA) — 來源分類：Category:陰陽道 > 日本の神 (人物神 御霊信仰)
+- [ ] **魏華存**（中文，原始碼 9,657 位元組）— [原文](https://zh.wikipedia.org/wiki/%E9%AD%8F%E8%8F%AF%E5%AD%98) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **Libro del comando**（義大利語，原始碼 9,647 位元組）— [原文](https://it.wikipedia.org/wiki/Libro_del_comando) — 來源分類：Categoria:Stregoneria > Opere letterarie sulla stregoneria
+- [ ] **幸徳井家**（日語，原始碼 9,636 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%B9%B8%E5%BE%B3%E4%BA%95%E5%AE%B6) — 來源分類：Category:呪術 > 陰陽道
+- [ ] **이익수 (1682년)**（韓語，原始碼 9,630 位元組）— [原文](https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%9D%B5%EC%88%98_%281682%EB%85%84%29) — 來源分類：분류:무속 > 음양가
+- [ ] **Witch window**（英語，原始碼 9,629 位元組）— [原文](https://en.wikipedia.org/wiki/Witch_window) — 來源分類：Category:Witchcraft > American witchcraft
+- [ ] **魔法様**（日語，原始碼 9,590 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%AD%94%E6%B3%95%E6%A7%98) — 來源分類：Category:日本の妖怪 > 化け狸
+- [ ] **黄式苏**（中文，原始碼 9,553 位元組）— [原文](https://zh.wikipedia.org/wiki/%E9%BB%84%E5%BC%8F%E8%8B%8F) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **张世杰**（中文，原始碼 9,548 位元組）— [原文](https://zh.wikipedia.org/wiki/%E5%BC%A0%E4%B8%96%E6%9D%B0) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **Barong (mitologia)**（義大利語，原始碼 9,543 位元組）— [原文](https://it.wikipedia.org/wiki/Barong_%28mitologia%29) — 來源分類：Categoria:Stregoneria
+- [ ] **Salem Possessed: The Social Origins of Witchcraft**（德語，原始碼 9,539 位元組）— [原文](https://de.wikipedia.org/wiki/Salem_Possessed%3A_The_Social_Origins_of_Witchcraft) — 來源分類：Kategorie:Hexenverfolgung
+- [ ] **軍隊狸**（日語，原始碼 9,538 位元組）— [原文](https://ja.wikipedia.org/wiki/%E8%BB%8D%E9%9A%8A%E7%8B%B8) — 來源分類：Category:日本の妖怪 > 化け狸
+- [ ] **芝右衛門狸**（日語，原始碼 9,536 位元組）— [原文](https://ja.wikipedia.org/wiki/%E8%8A%9D%E5%8F%B3%E8%A1%9B%E9%96%80%E7%8B%B8) — 來源分類：Category:日本の妖怪 > 化け狸
+- [ ] **Magic word**（英語，原始碼 9,519 位元組）— [原文](https://en.wikipedia.org/wiki/Magic_word) — 來源分類：Category:Witchcraft > Incantation > Magic words
+- [ ] **Bilwis**（德語，原始碼 9,503 位元組）— [原文](https://de.wikipedia.org/wiki/Bilwis) — 來源分類：Kategorie:Hexerei > Hexe
+- [ ] **何氏九仙**（中文，原始碼 9,489 位元組）— [原文](https://zh.wikipedia.org/wiki/%E4%BD%95%E6%B0%8F%E4%B9%9D%E4%BB%99) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **中國秘密宗教**（中文，原始碼 9,464 位元組）— [原文](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E7%A7%98%E5%AF%86%E5%AE%97%E6%95%99) — 來源分類：Category:中國民間信仰
+- [ ] **人面瘡**（日語，原始碼 9,434 位元組）— [原文](https://ja.wikipedia.org/wiki/%E4%BA%BA%E9%9D%A2%E7%98%A1) — 來源分類：Category:日本の妖怪
+- [ ] **Emma Wilby**（英語，原始碼 9,429 位元組）— [原文](https://en.wikipedia.org/wiki/Emma_Wilby) — 來源分類：Category:Witchcraft > Historians of witchcraft
+- [ ] **Watchtower (magic)**（英語，原始碼 9,428 位元組）— [原文](https://en.wikipedia.org/wiki/Watchtower_%28magic%29) — 來源分類：Category:Witchcraft > Modern witchcraft > Neopagan witchcraft
+- [ ] **仓颉**（中文，原始碼 9,415 位元組）— [原文](https://zh.wikipedia.org/wiki/%E4%BB%93%E9%A2%89) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **Grimorio**（義大利語，原始碼 9,410 位元組）— [原文](https://it.wikipedia.org/wiki/Grimorio) — 來源分類：Categoria:Stregoneria
+- [ ] **Sefer HaRazim**（英語，原始碼 9,398 位元組）— [原文](https://en.wikipedia.org/wiki/Sefer_HaRazim) — 來源分類：Category:Witchcraft > Grimoires > Jewish grimoires
+- [ ] **Juju**（英語，原始碼 9,396 位元組）— [原文](https://en.wikipedia.org/wiki/Juju) — 來源分類：Category:Witchcraft > African witchcraft
+- [ ] **Vade retro satana**（英語，原始碼 9,387 位元組）— [原文](https://en.wikipedia.org/wiki/Vade_retro_satana) — 來源分類：Category:Witchcraft > Incantation
+- [ ] **他戸親王**（日語，原始碼 9,364 位元組）— [原文](https://ja.wikipedia.org/wiki/%E4%BB%96%E6%88%B8%E8%A6%AA%E7%8E%8B) — 來源分類：Category:陰陽道 > 日本の神 (人物神 御霊信仰)
+- [ ] **邪視**（日語，原始碼 9,343 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%82%AA%E8%A6%96) — 來源分類：Category:呪術
+- [ ] **豊田貢**（日語，原始碼 9,317 位元組）— [原文](https://ja.wikipedia.org/wiki/%E8%B1%8A%E7%94%B0%E8%B2%A2) — 來源分類：Category:陰陽道 > 陰陽師
+- [ ] **태백산 천제단**（韓語，原始碼 9,237 位元組）— [原文](https://ko.wikipedia.org/wiki/%ED%83%9C%EB%B0%B1%EC%82%B0_%EC%B2%9C%EC%A0%9C%EB%8B%A8) — 來源分類：분류:무속 > 무속 건축물
+- [ ] **Cotton (series)**（英語，原始碼 9,224 位元組）— [原文](https://en.wikipedia.org/wiki/Cotton_%28series%29) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Cotton (series)
+- [ ] **モイラ (ギリシア神話)**（日語，原始碼 9,219 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%A2%E3%82%A4%E3%83%A9_%28%E3%82%AE%E3%83%AA%E3%82%B7%E3%82%A2%E7%A5%9E%E8%A9%B1%29) — 來源分類：Category:魔女 > 山姥やハッグ
+- [ ] **カシャンボ**（日語，原始碼 9,213 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%9C) — 來源分類：Category:日本の妖怪 > 河童
+- [ ] **For Loss or Theft of Cattle**（英語，原始碼 9,198 位元組）— [原文](https://en.wikipedia.org/wiki/For_Loss_or_Theft_of_Cattle) — 來源分類：Category:Witchcraft > Incantation > Anglo-Saxon metrical charms
+- [ ] **安倍有世**（日語，原始碼 9,191 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%AE%89%E5%80%8D%E6%9C%89%E4%B8%96) — 來源分類：Category:陰陽道 > 陰陽師
+- [ ] **Caliban und die Hexe**（德語，原始碼 9,184 位元組）— [原文](https://de.wikipedia.org/wiki/Caliban_und_die_Hexe) — 來源分類：Kategorie:Hexenverfolgung > Sachliteratur (Hexenverfolgung)
+- [ ] **Franz Volk**（德語，原始碼 9,179 位元組）— [原文](https://de.wikipedia.org/wiki/Franz_Volk) — 來源分類：Kategorie:Hexenverfolgung > Sachliteratur (Hexenverfolgung)
+- [ ] **Justine C. Glass**（英語，原始碼 9,150 位元組）— [原文](https://en.wikipedia.org/wiki/Justine_C._Glass) — 來源分類：Category:Witchcraft > Historians of witchcraft
+- [ ] **おとろし**（日語，原始碼 9,148 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%81%8A%E3%81%A8%E3%82%8D%E3%81%97) — 來源分類：Category:日本の妖怪 > 妖怪絵巻の妖怪
+- [ ] **算置**（日語，原始碼 9,128 位元組）— [原文](https://ja.wikipedia.org/wiki/%E7%AE%97%E7%BD%AE) — 來源分類：Category:陰陽道 > 陰陽師
+- [ ] **平時子**（日語，原始碼 9,123 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%B9%B3%E6%99%82%E5%AD%90) — 來源分類：Category:陰陽道 > 日本の神 (人物神 御霊信仰)
+- [ ] **굿**（韓語，原始碼 9,123 位元組）— [原文](https://ko.wikipedia.org/wiki/%EA%B5%BF) — 來源分類：분류:무속 > 무속 용어
+- [ ] **Panthoibi Naheron**（英語，原始碼 9,120 位元組）— [原文](https://en.wikipedia.org/wiki/Panthoibi_Naheron) — 來源分類：Category:Witchcraft > Incantation
+- [ ] **ヨゲンノトリ**（日語，原始碼 9,088 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%A8%E3%82%B2%E3%83%B3%E3%83%8E%E3%83%88%E3%83%AA) — 來源分類：Category:日本の妖怪
+- [ ] **巫**（日語，原始碼 9,080 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%B7%AB) — 來源分類：Category:シャーマニズム
+- [ ] **神將陣**（中文，原始碼 9,067 位元組）— [原文](https://zh.wikipedia.org/wiki/%E7%A5%9E%E5%B0%87%E9%99%A3) — 來源分類：Category:中國民間信仰 > 福建民間信仰
+- [ ] **Witchcraft and Paganism in Australia**（英語，原始碼 9,061 位元組）— [原文](https://en.wikipedia.org/wiki/Witchcraft_and_Paganism_in_Australia) — 來源分類：Category:Witchcraft > Books about witchcraft
+- [ ] **Book of Wonders**（英語，原始碼 9,049 位元組）— [原文](https://en.wikipedia.org/wiki/Book_of_Wonders) — 來源分類：Category:Witchcraft > Grimoires > Arabic grimoires
+- [ ] **John Hale (minister)**（英語，原始碼 9,034 位元組）— [原文](https://en.wikipedia.org/wiki/John_Hale_%28minister%29) — 來源分類：Category:Witchcraft > Witch hunting > Critics of witch hunting
+- [ ] **Werehyena**（英語，原始碼 9,030 位元組）— [原文](https://en.wikipedia.org/wiki/Werehyena) — 來源分類：Category:Witchcraft > African witchcraft
+- [ ] **Jusquiame**（法語，原始碼 9,021 位元組）— [原文](https://fr.wikipedia.org/wiki/Jusquiame) — 來源分類：Catégorie:Sorcellerie > Plante utilisée en sorcellerie
+- [ ] **楊繼盛**（中文，原始碼 9,020 位元組）— [原文](https://zh.wikipedia.org/wiki/%E6%A5%8A%E7%B9%BC%E7%9B%9B) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **嫦娥**（中文，原始碼 9,020 位元組）— [原文](https://zh.wikipedia.org/wiki/%E5%AB%A6%E5%A8%A5) — 來源分類：Category:中國民間信仰 > 中国民间信仰神祇
+- [ ] **Saul og David**（英語，原始碼 9,019 位元組）— [原文](https://en.wikipedia.org/wiki/Saul_og_David) — 來源分類：Category:Witchcraft > Judaism and witchcraft > Witch of Endor
+- [ ] **モーガン・ル・フェイ**（日語，原始碼 8,999 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%BC%E3%82%AC%E3%83%B3%E3%83%BB%E3%83%AB%E3%83%BB%E3%83%95%E3%82%A7%E3%82%A4) — 來源分類：Category:魔女
+- [ ] **イタコ**（日語，原始碼 8,999 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%BF%E3%82%B3) — 來源分類：Category:シャーマニズム
+- [ ] **Jason and the Argonauts (miniseries)**（英語，原始碼 8,984 位元組）— [原文](https://en.wikipedia.org/wiki/Jason_and_the_Argonauts_%28miniseries%29) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Works about Medea
+- [ ] **옥추경**（韓語，原始碼 8,983 位元組）— [原文](https://ko.wikipedia.org/wiki/%EC%98%A5%EC%B6%94%EA%B2%BD) — 來源分類：분류:무속 > 무속 경전
+- [ ] **Max Bauer (Publizist)**（德語，原始碼 8,976 位元組）— [原文](https://de.wikipedia.org/wiki/Max_Bauer_%28Publizist%29) — 來源分類：Kategorie:Hexenverfolgung > Sachliteratur (Hexenverfolgung)
+- [ ] **Long Hidden Friend**（英語，原始碼 8,967 位元組）— [原文](https://en.wikipedia.org/wiki/Long_Hidden_Friend) — 來源分類：Category:Witchcraft > Grimoires
+- [ ] **Oliblish**（英語，原始碼 8,943 位元組）— [原文](https://en.wikipedia.org/wiki/Oliblish) — 來源分類：Category:Witchcraft > Incantation > Book of the Dead
+- [ ] **からかさ小僧**（日語，原始碼 8,938 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%81%8B%E3%82%89%E3%81%8B%E3%81%95%E5%B0%8F%E5%83%A7) — 來源分類：Category:日本の妖怪 > 付喪神
+- [ ] **Iyami Oshooronga**（西班牙語，原始碼 8,929 位元組）— [原文](https://es.wikipedia.org/wiki/Iyami_Oshooronga) — 來源分類：Categoría:Brujería
+- [ ] **Cyprianus (collection of spells)**（英語，原始碼 8,927 位元組）— [原文](https://en.wikipedia.org/wiki/Cyprianus_%28collection_of_spells%29) — 來源分類：Category:Witchcraft > Grimoires
+- [ ] **賀茂忠行**（日語，原始碼 8,923 位元組）— [原文](https://ja.wikipedia.org/wiki/%E8%B3%80%E8%8C%82%E5%BF%A0%E8%A1%8C) — 來源分類：Category:陰陽道 > 陰陽師
+- [ ] **Book of Saint Cyprian**（英語，原始碼 8,899 位元組）— [原文](https://en.wikipedia.org/wiki/Book_of_Saint_Cyprian) — 來源分類：Category:Witchcraft > Grimoires
+- [ ] **牛久沼**（日語，原始碼 8,885 位元組）— [原文](https://ja.wikipedia.org/wiki/%E7%89%9B%E4%B9%85%E6%B2%BC) — 來源分類：Category:日本の妖怪 > 河童
+- [ ] **나반존자**（韓語，原始碼 8,885 位元組）— [原文](https://ko.wikipedia.org/wiki/%EB%82%98%EB%B0%98%EC%A1%B4%EC%9E%90) — 來源分類：분류:무속 > 무불습합
+- [ ] **Medea (Seneca)**（英語，原始碼 8,870 位元組）— [原文](https://en.wikipedia.org/wiki/Medea_%28Seneca%29) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Works about Medea
+- [ ] **瘴気**（日語，原始碼 8,869 位元組）— [原文](https://ja.wikipedia.org/wiki/%E7%98%B4%E6%B0%97) — 來源分類：Category:呪術
+- [ ] **28 Days Later: The Aftermath**（西班牙語，原始碼 8,850 位元組）— [原文](https://es.wikipedia.org/wiki/28_Days_Later%3A_The_Aftermath) — 來源分類：Categoría:Brujería > Zombis > Zombis en la historieta
+- [ ] **Tsentsak**（英語，原始碼 8,849 位元組）— [原文](https://en.wikipedia.org/wiki/Tsentsak) — 來源分類：Category:Witchcraft > American witchcraft
+- [ ] **赤えい (妖怪)**（日語，原始碼 8,835 位元組）— [原文](https://ja.wikipedia.org/wiki/%E8%B5%A4%E3%81%88%E3%81%84_%28%E5%A6%96%E6%80%AA%29) — 來源分類：Category:日本の妖怪
+- [ ] **Simon Necronomicon**（英語，原始碼 8,820 位元組）— [原文](https://en.wikipedia.org/wiki/Simon_Necronomicon) — 來源分類：Category:Witchcraft > Grimoires
+- [ ] **金神**（日語，原始碼 8,813 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%87%91%E7%A5%9E) — 來源分類：Category:陰陽道 > 陰陽道の神
+- [ ] **鬼の子小綱**（日語，原始碼 8,811 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%AC%BC%E3%81%AE%E5%AD%90%E5%B0%8F%E7%B6%B1) — 來源分類：Category:日本の妖怪 > 鬼
+- [ ] **Insha Allah Khan**（英語，原始碼 8,805 位元組）— [原文](https://en.wikipedia.org/wiki/Insha_Allah_Khan) — 來源分類：Category:Witchcraft > Incantation
+- [ ] **萨满教**（中文，原始碼 8,805 位元組）— [原文](https://zh.wikipedia.org/wiki/%E8%90%A8%E6%BB%A1%E6%95%99) — 來源分類：Category:薩滿教
+- [ ] **Koro (Psychologie)**（德語，原始碼 8,776 位元組）— [原文](https://de.wikipedia.org/wiki/Koro_%28Psychologie%29) — 來源分類：Kategorie:Hexerei > Moderne Hexenverfolgung
+- [ ] **Stambeli**（法語，原始碼 8,772 位元組）— [原文](https://fr.wikipedia.org/wiki/Stambeli) — 來源分類：Catégorie:Sorcellerie
+- [ ] **晴明神社**（日語，原始碼 8,744 位元組）— [原文](https://ja.wikipedia.org/wiki/%E6%99%B4%E6%98%8E%E7%A5%9E%E7%A4%BE) — 來源分類：Category:呪術 > 陰陽道
+- [ ] **Alfabeto tebano**（西班牙語，原始碼 8,719 位元組）— [原文](https://es.wikipedia.org/wiki/Alfabeto_tebano) — 來源分類：Categoría:Brujería
+- [ ] **White magic**（英語，原始碼 8,713 位元組）— [原文](https://en.wikipedia.org/wiki/White_magic) — 來源分類：Category:Witchcraft
+- [ ] **Hexenschlaf**（德語，原始碼 8,710 位元組）— [原文](https://de.wikipedia.org/wiki/Hexenschlaf) — 來源分類：Kategorie:Hexenverfolgung
+- [ ] **洪朝選**（中文，原始碼 8,710 位元組）— [原文](https://zh.wikipedia.org/wiki/%E6%B4%AA%E6%9C%9D%E9%81%B8) — 來源分類：Category:中國民間信仰 > 城隍
+- [ ] **Monica Paulus**（德語，原始碼 8,703 位元組）— [原文](https://de.wikipedia.org/wiki/Monica_Paulus) — 來源分類：Kategorie:Hexerei > Moderne Hexenverfolgung
+- [ ] **Kitab al-Kanuz**（英語，原始碼 8,684 位元組）— [原文](https://en.wikipedia.org/wiki/Kitab_al-Kanuz) — 來源分類：Category:Witchcraft > Grimoires > Arabic grimoires
+- [ ] **司箭院興仙**（日語，原始碼 8,681 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%8F%B8%E7%AE%AD%E9%99%A2%E8%88%88%E4%BB%99) — 來源分類：Category:呪術
+- [ ] **Therion (Thelema)**（英語，原始碼 8,665 位元組）— [原文](https://en.wikipedia.org/wiki/Therion_%28Thelema%29) — 來源分類：Category:Witchcraft > Incantation > Magic words
+- [ ] **Cherubim and Seraphim Society**（德語，原始碼 8,664 位元組）— [原文](https://de.wikipedia.org/wiki/Cherubim_and_Seraphim_Society) — 來源分類：Kategorie:Hexerei > Moderne Hexenverfolgung
+- [ ] **ケネス・グラント**（日語，原始碼 8,664 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%8D%E3%82%B9%E3%83%BB%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%88) — 來源分類：Category:呪術 > 黒魔術
+- [ ] **ドラウグ**（日語，原始碼 8,651 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%A9%E3%82%A6%E3%82%B0) — 來源分類：Category:呪術 > ゾンビ
+- [ ] **呪い**（日語，原始碼 8,632 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%91%AA%E3%81%84) — 來源分類：Category:呪術
+- [ ] **六壬神課**（日語，原始碼 8,627 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%85%AD%E5%A3%AC%E7%A5%9E%E8%AA%B2) — 來源分類：Category:陰陽道 > 式占
+- [ ] **Catherine Charlotte De la Gardie**（英語，原始碼 8,626 位元組）— [原文](https://en.wikipedia.org/wiki/Catherine_Charlotte_De_la_Gardie) — 來源分類：Category:Witchcraft > Witch hunting > Critics of witch hunting
+- [ ] **Birch bark letter no. 292**（英語，原始碼 8,623 位元組）— [原文](https://en.wikipedia.org/wiki/Birch_bark_letter_no._292) — 來源分類：Category:Witchcraft > Incantation
+- [ ] **Wayob**（英語，原始碼 8,615 位元組）— [原文](https://en.wikipedia.org/wiki/Wayob) — 來源分類：Category:Witchcraft > American witchcraft
+- [ ] **隠神刑部**（日語，原始碼 8,614 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%9A%A0%E7%A5%9E%E5%88%91%E9%83%A8) — 來源分類：Category:日本の妖怪 > 化け狸
+- [ ] **修行**（中文，原始碼 8,604 位元組）— [原文](https://zh.wikipedia.org/wiki/%E4%BF%AE%E8%A1%8C) — 來源分類：Category:中國民間信仰 > 三教
+- [ ] **登別地獄まつり**（日語，原始碼 8,600 位元組）— [原文](https://ja.wikipedia.org/wiki/%E7%99%BB%E5%88%A5%E5%9C%B0%E7%8D%84%E3%81%BE%E3%81%A4%E3%82%8A) — 來源分類：Category:日本の妖怪 > 鬼
+- [ ] **魔女に与える鉄槌**（日語，原始碼 8,589 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%AD%94%E5%A5%B3%E3%81%AB%E4%B8%8E%E3%81%88%E3%82%8B%E9%89%84%E6%A7%8C) — 來源分類：Category:魔女
+- [ ] **青坊主**（日語，原始碼 8,572 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%9D%92%E5%9D%8A%E4%B8%BB) — 來源分類：Category:日本の妖怪
+- [ ] **瞿公真人**（中文，原始碼 8,569 位元組）— [原文](https://zh.wikipedia.org/wiki/%E7%9E%BF%E5%85%AC%E7%9C%9F%E4%BA%BA) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **建除十二神**（中文，原始碼 8,563 位元組）— [原文](https://zh.wikipedia.org/wiki/%E5%BB%BA%E9%99%A4%E5%8D%81%E4%BA%8C%E7%A5%9E) — 來源分類：Category:中國民間信仰
+- [ ] **Tupilaq**（英語，原始碼 8,556 位元組）— [原文](https://en.wikipedia.org/wiki/Tupilaq) — 來源分類：Category:Witchcraft > American witchcraft
+- [ ] **周文王**（中文，原始碼 8,549 位元組）— [原文](https://zh.wikipedia.org/wiki/%E5%91%A8%E6%96%87%E7%8E%8B) — 來源分類：Category:中國民間信仰 > 中国民间信仰神祇
+- [ ] **Summis desiderantes affectibus**（西班牙語，原始碼 8,536 位元組）— [原文](https://es.wikipedia.org/wiki/Summis_desiderantes_affectibus) — 來源分類：Categoría:Brujería
+- [ ] **怨霊**（日語，原始碼 8,536 位元組）— [原文](https://ja.wikipedia.org/wiki/%E6%80%A8%E9%9C%8A) — 來源分類：Category:陰陽道 > 御霊信仰
+- [ ] **Vajravārāhī**（英語，原始碼 8,527 位元組）— [原文](https://en.wikipedia.org/wiki/Vajrav%C4%81r%C4%81h%C4%AB) — 來源分類：Category:Witchcraft > Pig-faced women
+- [ ] **Bouteille de sorcière**（法語，原始碼 8,514 位元組）— [原文](https://fr.wikipedia.org/wiki/Bouteille_de_sorci%C3%A8re) — 來源分類：Catégorie:Sorcellerie
+- [ ] **火德星君**（中文，原始碼 8,507 位元組）— [原文](https://zh.wikipedia.org/wiki/%E7%81%AB%E5%BE%B7%E6%98%9F%E5%90%9B) — 來源分類：Category:中國民間信仰 > 中国民间信仰神祇
+- [ ] **団三郎狸**（日語，原始碼 8,500 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%9B%A3%E4%B8%89%E9%83%8E%E7%8B%B8) — 來源分類：Category:日本の妖怪 > 化け狸
+- [ ] **Blair Witch Volume II: The Legend of Coffin Rock**（英語，原始碼 8,496 位元組）— [原文](https://en.wikipedia.org/wiki/Blair_Witch_Volume_II%3A_The_Legend_of_Coffin_Rock) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Blair Witch
+- [ ] **ヨーハン・ヴァイヤー**（日語，原始碼 8,493 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%BC%E3%83%8F%E3%83%B3%E3%83%BB%E3%83%B4%E3%82%A1%E3%82%A4%E3%83%A4%E3%83%BC) — 來源分類：Category:魔女
+- [ ] **巫俗**（日語，原始碼 8,493 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%B7%AB%E4%BF%97) — 來源分類：Category:シャーマニズム
+- [ ] **土御門晴善**（日語，原始碼 8,487 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%9C%9F%E5%BE%A1%E9%96%80%E6%99%B4%E5%96%84) — 來源分類：Category:陰陽道 > 陰陽師
+- [ ] **Succubus**（德語，原始碼 8,455 位元組）— [原文](https://de.wikipedia.org/wiki/Succubus) — 來源分類：Kategorie:Hexenverfolgung
+- [ ] **ノアイデ**（日語，原始碼 8,452 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%8E%E3%82%A2%E3%82%A4%E3%83%87) — 來源分類：Category:シャーマニズム
+- [ ] **馬憑き**（日語，原始碼 8,446 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%A6%AC%E6%86%91%E3%81%8D) — 來源分類：Category:シャーマニズム > 憑き物
+- [ ] **勘解由小路在富**（日語，原始碼 8,438 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%8B%98%E8%A7%A3%E7%94%B1%E5%B0%8F%E8%B7%AF%E5%9C%A8%E5%AF%8C) — 來源分類：Category:陰陽道 > 陰陽師
+- [ ] **Endor (village)**（英語，原始碼 8,433 位元組）— [原文](https://en.wikipedia.org/wiki/Endor_%28village%29) — 來源分類：Category:Witchcraft > Judaism and witchcraft > Witch of Endor
+- [ ] **陸秀夫**（中文，原始碼 8,418 位元組）— [原文](https://zh.wikipedia.org/wiki/%E9%99%B8%E7%A7%80%E5%A4%AB) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **ガンド**（日語，原始碼 8,407 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%B3%E3%83%89) — 來源分類：Category:呪術
+- [ ] **ラ・ヴォワザン**（日語，原始碼 8,391 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%BB%E3%83%B4%E3%82%A9%E3%83%AF%E3%82%B6%E3%83%B3) — 來源分類：Category:呪術 > 魔術師
+- [ ] **Nema Andahadna**（德語，原始碼 8,389 位元組）— [原文](https://de.wikipedia.org/wiki/Nema_Andahadna) — 來源分類：Kategorie:Hexerei > Hexe
+- [ ] **Summis desiderantes affectibus**（義大利語，原始碼 8,389 位元組）— [原文](https://it.wikipedia.org/wiki/Summis_desiderantes_affectibus) — 來源分類：Categoria:Stregoneria > Opere letterarie sulla stregoneria
+- [ ] **迦葉山龍華院**（日語，原始碼 8,389 位元組）— [原文](https://ja.wikipedia.org/wiki/%E8%BF%A6%E8%91%89%E5%B1%B1%E9%BE%8D%E8%8F%AF%E9%99%A2) — 來源分類：Category:日本の妖怪 > 天狗
+- [ ] **Processo alle streghe di Salisburgo**（義大利語，原始碼 8,382 位元組）— [原文](https://it.wikipedia.org/wiki/Processo_alle_streghe_di_Salisburgo) — 來源分類：Categoria:Stregoneria > Processi per stregoneria
+- [ ] **Killing of disabled children in Uganda**（英語，原始碼 8,381 位元組）— [原文](https://en.wikipedia.org/wiki/Killing_of_disabled_children_in_Uganda) — 來源分類：Category:Witchcraft > African witchcraft
+- [ ] **狱神**（中文，原始碼 8,379 位元組）— [原文](https://zh.wikipedia.org/wiki/%E7%8B%B1%E7%A5%9E) — 來源分類：Category:中國民間信仰 > 中国民间信仰神祇
+- [ ] **イユンクス**（日語，原始碼 8,374 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%A6%E3%83%B3%E3%82%AF%E3%82%B9) — 來源分類：Category:魔女
+- [ ] **Krzysztof Opaliński**（英語，原始碼 8,369 位元組）— [原文](https://en.wikipedia.org/wiki/Krzysztof_Opali%C5%84ski) — 來源分類：Category:Witchcraft > Witch hunting > Critics of witch hunting
+- [ ] **雷霆大帝**（中文，原始碼 8,365 位元組）— [原文](https://zh.wikipedia.org/wiki/%E9%9B%B7%E9%9C%86%E5%A4%A7%E5%B8%9D) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **アイスランドの魔女裁判**（日語，原始碼 8,349 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%A9%E3%83%B3%E3%83%89%E3%81%AE%E9%AD%94%E5%A5%B3%E8%A3%81%E5%88%A4) — 來源分類：Category:魔女
+- [ ] **Kajiga Baba**（德語，原始碼 8,307 位元組）— [原文](https://de.wikipedia.org/wiki/Kajiga_Baba) — 來源分類：Kategorie:Hexerei > Hexe
+- [ ] **Our Lady of Endor Coven**（英語，原始碼 8,297 位元組）— [原文](https://en.wikipedia.org/wiki/Our_Lady_of_Endor_Coven) — 來源分類：Category:Witchcraft > Judaism and witchcraft > Witch of Endor
+- [ ] **Johannes Junius**（德語，原始碼 8,296 位元組）— [原文](https://de.wikipedia.org/wiki/Johannes_Junius) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung in Bamberg
+- [ ] **Caliban and the Witch**（英語，原始碼 8,277 位元組）— [原文](https://en.wikipedia.org/wiki/Caliban_and_the_Witch) — 來源分類：Category:Witchcraft > Books about witchcraft
+- [ ] **申生**（中文，原始碼 8,269 位元組）— [原文](https://zh.wikipedia.org/wiki/%E7%94%B3%E7%94%9F) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **Warm Bodies**（西班牙語，原始碼 8,268 位元組）— [原文](https://es.wikipedia.org/wiki/Warm_Bodies) — 來源分類：Categoría:Brujería > Zombis
+- [ ] **David et Jonathas**（英語，原始碼 8,259 位元組）— [原文](https://en.wikipedia.org/wiki/David_et_Jonathas) — 來源分類：Category:Witchcraft > Judaism and witchcraft > Witch of Endor
+- [ ] **The Wonderfull Discoverie of Witches in the Countie of Lancaster**（英語，原始碼 8,257 位元組）— [原文](https://en.wikipedia.org/wiki/The_Wonderfull_Discoverie_of_Witches_in_the_Countie_of_Lancaster) — 來源分類：Category:Witchcraft > Books about witchcraft > History books about witchcraft
+- [ ] **河童橋**（日語，原始碼 8,248 位元組）— [原文](https://ja.wikipedia.org/wiki/%E6%B2%B3%E7%AB%A5%E6%A9%8B) — 來源分類：Category:日本の妖怪 > 河童
+- [ ] **Jaquette de Clause**（法語，原始碼 8,247 位元組）— [原文](https://fr.wikipedia.org/wiki/Jaquette_de_Clause) — 來源分類：Catégorie:Sorcellerie
+- [ ] **Schlernhexen**（德語，原始碼 8,231 位元組）— [原文](https://de.wikipedia.org/wiki/Schlernhexen) — 來源分類：Kategorie:Hexerei > Hexe
+- [ ] **マシュー・ホプキンス**（日語，原始碼 8,209 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%BB%E3%83%9B%E3%83%97%E3%82%AD%E3%83%B3%E3%82%B9) — 來源分類：Category:魔女
+- [ ] **Potion**（法語，原始碼 8,197 位元組）— [原文](https://fr.wikipedia.org/wiki/Potion) — 來源分類：Catégorie:Sorcellerie
+- [ ] **Processo alle streghe di Treviri**（義大利語，原始碼 8,183 位元組）— [原文](https://it.wikipedia.org/wiki/Processo_alle_streghe_di_Treviri) — 來源分類：Categoria:Stregoneria > Processi per stregoneria
+- [ ] **雲外鏡**（日語，原始碼 8,152 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%9B%B2%E5%A4%96%E9%8F%A1) — 來源分類：Category:日本の妖怪 > 付喪神
+- [ ] **David Signer**（德語，原始碼 8,147 位元組）— [原文](https://de.wikipedia.org/wiki/David_Signer) — 來源分類：Kategorie:Hexerei > Moderne Hexenverfolgung
+- [ ] **萧统**（中文，原始碼 8,145 位元組）— [原文](https://zh.wikipedia.org/wiki/%E8%90%A7%E7%BB%9F) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **경주 문무대왕릉**（韓語，原始碼 8,143 位元組）— [原文](https://ko.wikipedia.org/wiki/%EA%B2%BD%EC%A3%BC_%EB%AC%B8%EB%AC%B4%EB%8C%80%EC%99%95%EB%A6%89) — 來源分類：분류:무속 > 무속 성지
+- [ ] **Patricia Crowther**（德語，原始碼 8,130 位元組）— [原文](https://de.wikipedia.org/wiki/Patricia_Crowther) — 來源分類：Kategorie:Hexerei > Hexe
+- [ ] **司教法令集**（日語，原始碼 8,119 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%8F%B8%E6%95%99%E6%B3%95%E4%BB%A4%E9%9B%86) — 來源分類：Category:魔女
+- [ ] **社 (宗教)**（中文，原始碼 8,090 位元組）— [原文](https://zh.wikipedia.org/wiki/%E7%A4%BE_%28%E5%AE%97%E6%95%99%29) — 來源分類：Category:中國民間信仰
+- [ ] **Historia nocturna**（西班牙語，原始碼 8,076 位元組）— [原文](https://es.wikipedia.org/wiki/Historia_nocturna) — 來源分類：Categoría:Brujería
+- [ ] **九つの薬草の呪文**（日語，原始碼 8,067 位元組）— [原文](https://ja.wikipedia.org/wiki/%E4%B9%9D%E3%81%A4%E3%81%AE%E8%96%AC%E8%8D%89%E3%81%AE%E5%91%AA%E6%96%87) — 來源分類：Category:呪術
+- [ ] **Zombie Powder**（西班牙語，原始碼 8,064 位元組）— [原文](https://es.wikipedia.org/wiki/Zombie_Powder) — 來源分類：Categoría:Brujería > Zombis > Zombis en la historieta
+- [ ] **Luisa Francia**（英語，原始碼 8,037 位元組）— [原文](https://en.wikipedia.org/wiki/Luisa_Francia) — 來源分類：Category:Witchcraft > Modern witchcraft > Neopagan witchcraft
+- [ ] **Harry Potter: The Exhibition**（英語，原始碼 8,036 位元組）— [原文](https://en.wikipedia.org/wiki/Harry_Potter%3A_The_Exhibition) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Harry Potter
+- [ ] **Soul eater (folklore)**（英語，原始碼 8,031 位元組）— [原文](https://en.wikipedia.org/wiki/Soul_eater_%28folklore%29) — 來源分類：Category:Witchcraft > African witchcraft
+- [ ] **Kitchen witchcraft**（英語，原始碼 8,029 位元組）— [原文](https://en.wikipedia.org/wiki/Kitchen_witchcraft) — 來源分類：Category:Witchcraft
+- [ ] **Melinoë (Hades)**（西班牙語，原始碼 8,021 位元組）— [原文](https://es.wikipedia.org/wiki/Melino%C3%AB_%28Hades%29) — 來源分類：Categoría:Brujería
+- [ ] **Lai Khadang Pandabi**（英語，原始碼 8,020 位元組）— [原文](https://en.wikipedia.org/wiki/Lai_Khadang_Pandabi) — 來源分類：Category:Witchcraft > Witches
+- [ ] **Book of the Dead of Qenna**（英語，原始碼 7,952 位元組）— [原文](https://en.wikipedia.org/wiki/Book_of_the_Dead_of_Qenna) — 來源分類：Category:Witchcraft > Incantation > Book of the Dead
+- [ ] **George Fraser Black**（英語，原始碼 7,940 位元組）— [原文](https://en.wikipedia.org/wiki/George_Fraser_Black) — 來源分類：Category:Witchcraft > Historians of witchcraft
+- [ ] **項橐**（中文，原始碼 7,939 位元組）— [原文](https://zh.wikipedia.org/wiki/%E9%A0%85%E6%A9%90) — 來源分類：Category:中國民間信仰 > 中国民间信仰神祇
+- [ ] **五鬼助義之**（日語，原始碼 7,924 位元組）— [原文](https://ja.wikipedia.org/wiki/%E4%BA%94%E9%AC%BC%E5%8A%A9%E7%BE%A9%E4%B9%8B) — 來源分類：Category:日本の妖怪 > 鬼
+- [ ] **White Lion Inn, Stratford-upon-Avon**（英語，原始碼 7,919 位元組）— [原文](https://en.wikipedia.org/wiki/White_Lion_Inn%2C_Stratford-upon-Avon) — 來源分類：Category:Witchcraft > Witchcraft museums
+- [ ] **Margot Adler**（德語，原始碼 7,913 位元組）— [原文](https://de.wikipedia.org/wiki/Margot_Adler) — 來源分類：Kategorie:Hexerei > Hexe
+- [ ] **デルポイのシビュラ**（日語，原始碼 7,913 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%AB%E3%83%9D%E3%82%A4%E3%81%AE%E3%82%B7%E3%83%93%E3%83%A5%E3%83%A9) — 來源分類：Category:シャーマニズム > シビュラ
+- [ ] **Against a dwarf**（英語，原始碼 7,905 位元組）— [原文](https://en.wikipedia.org/wiki/Against_a_dwarf) — 來源分類：Category:Witchcraft > Incantation > Anglo-Saxon metrical charms
+- [ ] **Mary Webster (presunta strega)**（義大利語，原始碼 7,902 位元組）— [原文](https://it.wikipedia.org/wiki/Mary_Webster_%28presunta_strega%29) — 來源分類：Categoria:Stregoneria
+- [ ] **ヒダル神**（日語，原始碼 7,892 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%80%E3%83%AB%E7%A5%9E) — 來源分類：Category:シャーマニズム > 憑き物
+- [ ] **大将軍八神社**（日語，原始碼 7,886 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%B0%86%E8%BB%8D%E5%85%AB%E7%A5%9E%E7%A4%BE) — 來源分類：Category:呪術 > 陰陽道
+- [ ] **ムジナ**（日語，原始碼 7,880 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%A0%E3%82%B8%E3%83%8A) — 來源分類：Category:日本の妖怪
+- [ ] **오방신장**（韓語，原始碼 7,878 位元組）— [原文](https://ko.wikipedia.org/wiki/%EC%98%A4%EB%B0%A9%EC%8B%A0%EC%9E%A5) — 來源分類：분류:무속 > 도무습합
+- [ ] **Grand Grimoire**（英語，原始碼 7,877 位元組）— [原文](https://en.wikipedia.org/wiki/Grand_Grimoire) — 來源分類：Category:Witchcraft > Grimoires > Goetic grimoires
+- [ ] **セコ**（日語，原始碼 7,855 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%B3) — 來源分類：Category:日本の妖怪 > 河童
+- [ ] **Seidr**（西班牙語，原始碼 7,844 位元組）— [原文](https://es.wikipedia.org/wiki/Seidr) — 來源分類：Categoría:Brujería
+- [ ] **남이 장군 사당제**（韓語，原始碼 7,841 位元組）— [原文](https://ko.wikipedia.org/wiki/%EB%82%A8%EC%9D%B4_%EC%9E%A5%EA%B5%B0_%EC%82%AC%EB%8B%B9%EC%A0%9C) — 來源分類：분류:무속 > 무속 의식
+- [ ] **Butterhexe**（德語，原始碼 7,830 位元組）— [原文](https://de.wikipedia.org/wiki/Butterhexe) — 來源分類：Kategorie:Hexenverfolgung
+- [ ] **日本三大妖怪**（日語，原始碼 7,830 位元組）— [原文](https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E4%B8%89%E5%A4%A7%E5%A6%96%E6%80%AA) — 來源分類：Category:日本の妖怪
+- [ ] **稲荷鬼王神社**（日語，原始碼 7,828 位元組）— [原文](https://ja.wikipedia.org/wiki/%E7%A8%B2%E8%8D%B7%E9%AC%BC%E7%8E%8B%E7%A5%9E%E7%A4%BE) — 來源分類：Category:日本の妖怪 > 鬼
+- [ ] **吴猛**（中文，原始碼 7,812 位元組）— [原文](https://zh.wikipedia.org/wiki/%E5%90%B4%E7%8C%9B) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **Aaru**（英語，原始碼 7,797 位元組）— [原文](https://en.wikipedia.org/wiki/Aaru) — 來源分類：Category:Witchcraft > Incantation > Book of the Dead
+- [ ] **Famiglio (spirito)**（義大利語，原始碼 7,775 位元組）— [原文](https://it.wikipedia.org/wiki/Famiglio_%28spirito%29) — 來源分類：Categoria:Stregoneria
+- [ ] **Brujas de Bute**（西班牙語，原始碼 7,772 位元組）— [原文](https://es.wikipedia.org/wiki/Brujas_de_Bute) — 來源分類：Categoría:Brujería
+- [ ] **Raven Mocker**（英語，原始碼 7,770 位元組）— [原文](https://en.wikipedia.org/wiki/Raven_Mocker) — 來源分類：Category:Witchcraft > American witchcraft
+- [ ] **陈抟**（中文，原始碼 7,765 位元組）— [原文](https://zh.wikipedia.org/wiki/%E9%99%88%E6%8A%9F) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **Deposed Crown Princess Kim**（英語，原始碼 7,763 位元組）— [原文](https://en.wikipedia.org/wiki/Deposed_Crown_Princess_Kim) — 來源分類：Category:Witchcraft > Asian witchcraft
+- [ ] **정호근 (배우)**（韓語，原始碼 7,759 位元組）— [原文](https://ko.wikipedia.org/wiki/%EC%A0%95%ED%98%B8%EA%B7%BC_%28%EB%B0%B0%EC%9A%B0%29) — 來源分類：분류:무속 > 한국의 무속인
+- [ ] **Calon Arang**（義大利語，原始碼 7,753 位元組）— [原文](https://it.wikipedia.org/wiki/Calon_Arang) — 來源分類：Categoria:Stregoneria
+- [ ] **The Secret of Platform 13**（英語，原始碼 7,750 位元組）— [原文](https://en.wikipedia.org/wiki/The_Secret_of_Platform_13) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Harry Potter
+- [ ] **王家の呪い**（日語，原始碼 7,738 位元組）— [原文](https://ja.wikipedia.org/wiki/%E7%8E%8B%E5%AE%B6%E3%81%AE%E5%91%AA%E3%81%84) — 來源分類：Category:呪術
+- [ ] **進香**（中文，原始碼 7,712 位元組）— [原文](https://zh.wikipedia.org/wiki/%E9%80%B2%E9%A6%99) — 來源分類：Category:中國民間信仰 > 中国民间祭祀活动
+- [ ] **张王信仰**（中文，原始碼 7,699 位元組）— [原文](https://zh.wikipedia.org/wiki/%E5%BC%A0%E7%8E%8B%E4%BF%A1%E4%BB%B0) — 來源分類：Category:中國民間信仰
+- [ ] **Georg Golser**（法語，原始碼 7,670 位元組）— [原文](https://fr.wikipedia.org/wiki/Georg_Golser) — 來源分類：Catégorie:Sorcellerie > Procès de sorcellerie
+- [ ] **Crispina Peres**（法語，原始碼 7,649 位元組）— [原文](https://fr.wikipedia.org/wiki/Crispina_Peres) — 來源分類：Catégorie:Sorcellerie > Personne persécutée pour sorcellerie
+- [ ] **面燃大士**（中文，原始碼 7,644 位元組）— [原文](https://zh.wikipedia.org/wiki/%E9%9D%A2%E7%87%83%E5%A4%A7%E5%A3%AB) — 來源分類：Category:中國民間信仰 > 中国民间信仰神祇
+- [ ] **胡则**（中文，原始碼 7,628 位元組）— [原文](https://zh.wikipedia.org/wiki/%E8%83%A1%E5%88%99) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **Inverkeithing witch hunt**（英語，原始碼 7,611 位元組）— [原文](https://en.wikipedia.org/wiki/Inverkeithing_witch_hunt) — 來源分類：Category:Witchcraft > Witch hunting > Early Modern witch hunts
+- [ ] **Monumento conmemorativo de Steilneset**（西班牙語，原始碼 7,611 位元組）— [原文](https://es.wikipedia.org/wiki/Monumento_conmemorativo_de_Steilneset) — 來源分類：Categoría:Brujería
+- [ ] **十二節**（日語，原始碼 7,608 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%8D%81%E4%BA%8C%E7%AF%80) — 來源分類：Category:陰陽道 > 暦注
+- [ ] **Versailles of the Dead**（西班牙語，原始碼 7,591 位元組）— [原文](https://es.wikipedia.org/wiki/Versailles_of_the_Dead) — 來源分類：Categoría:Brujería > Zombis > Zombis en la historieta
+- [ ] **Eleanor Bone**（德語，原始碼 7,588 位元組）— [原文](https://de.wikipedia.org/wiki/Eleanor_Bone) — 來源分類：Kategorie:Hexerei > Hexe
+- [ ] **Gunung Kawi**（義大利語，原始碼 7,574 位元組）— [原文](https://it.wikipedia.org/wiki/Gunung_Kawi) — 來源分類：Categoria:Stregoneria
+- [ ] **一切如来心秘密全身舎利宝筺印陀羅尼経**（日語，原始碼 7,549 位元組）— [原文](https://ja.wikipedia.org/wiki/%E4%B8%80%E5%88%87%E5%A6%82%E6%9D%A5%E5%BF%83%E7%A7%98%E5%AF%86%E5%85%A8%E8%BA%AB%E8%88%8E%E5%88%A9%E5%AE%9D%E7%AD%BA%E5%8D%B0%E9%99%80%E7%BE%85%E5%B0%BC%E7%B5%8C) — 來源分類：Category:呪術 > 陀羅尼
+- [ ] **メアリー・イースティ**（日語，原始碼 7,543 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%A4%E3%83%BC%E3%82%B9%E3%83%86%E3%82%A3) — 來源分類：Category:魔女 > 魔女術の容疑で処刑された人物
+- [ ] **名古屋晴明神社**（日語，原始碼 7,516 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%90%8D%E5%8F%A4%E5%B1%8B%E6%99%B4%E6%98%8E%E7%A5%9E%E7%A4%BE) — 來源分類：Category:陰陽道 > 晴明神社
+- [ ] **賀茂保憲**（日語，原始碼 7,505 位元組）— [原文](https://ja.wikipedia.org/wiki/%E8%B3%80%E8%8C%82%E4%BF%9D%E6%86%B2) — 來源分類：Category:陰陽道 > 陰陽師
+- [ ] **メリーさんの電話**（日語，原始碼 7,484 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%AA%E3%83%BC%E3%81%95%E3%82%93%E3%81%AE%E9%9B%BB%E8%A9%B1) — 來源分類：Category:日本の妖怪 > 日本の都市伝説の妖怪
+- [ ] **Skin-walker**（英語，原始碼 7,467 位元組）— [原文](https://en.wikipedia.org/wiki/Skin-walker) — 來源分類：Category:Witchcraft > American witchcraft
+- [ ] **Directorium Inquisitorum**（英語，原始碼 7,452 位元組）— [原文](https://en.wikipedia.org/wiki/Directorium_Inquisitorum) — 來源分類：Category:Witchcraft > Witchcraft treatises
+- [ ] **弓削是雄**（日語，原始碼 7,439 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%BC%93%E5%89%8A%E6%98%AF%E9%9B%84) — 來源分類：Category:陰陽道 > 陰陽師
+- [ ] **わいら**（日語，原始碼 7,436 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%8F%E3%81%84%E3%82%89) — 來源分類：Category:日本の妖怪 > 妖怪絵巻の妖怪
+- [ ] **ヨモツシコメ**（日語，原始碼 7,434 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%A2%E3%83%84%E3%82%B7%E3%82%B3%E3%83%A1) — 來源分類：Category:日本の妖怪 > 鬼
+- [ ] **Meneur de loups**（法語，原始碼 7,429 位元組）— [原文](https://fr.wikipedia.org/wiki/Meneur_de_loups) — 來源分類：Catégorie:Sorcellerie
+- [ ] **善鸞**（日語，原始碼 7,384 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%96%84%E9%B8%9E) — 來源分類：Category:呪術
+- [ ] **Hocus-pocus**（英語，原始碼 7,378 位元組）— [原文](https://en.wikipedia.org/wiki/Hocus-pocus) — 來源分類：Category:Witchcraft > Incantation > Magic words
+- [ ] **Formicarius**（西班牙語，原始碼 7,378 位元組）— [原文](https://es.wikipedia.org/wiki/Formicarius) — 來源分類：Categoría:Brujería
+- [ ] **大将軍**（日語，原始碼 7,365 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%B0%86%E8%BB%8D) — 來源分類：Category:陰陽道 > 陰陽道の神
+- [ ] **Coven**（德語，原始碼 7,356 位元組）— [原文](https://de.wikipedia.org/wiki/Coven) — 來源分類：Kategorie:Hexerei
+- [ ] **Masca**（義大利語，原始碼 7,351 位元組）— [原文](https://it.wikipedia.org/wiki/Masca) — 來源分類：Categoria:Stregoneria
+- [ ] **문전신**（韓語，原始碼 7,350 位元組）— [原文](https://ko.wikipedia.org/wiki/%EB%AC%B8%EC%A0%84%EC%8B%A0) — 來源分類：분류:무속 > 도무습합
+- [ ] **一目入道**（日語，原始碼 7,335 位元組）— [原文](https://ja.wikipedia.org/wiki/%E4%B8%80%E7%9B%AE%E5%85%A5%E9%81%93) — 來源分類：Category:日本の妖怪 > 河童
+- [ ] **Hexenlager**（德語，原始碼 7,333 位元組）— [原文](https://de.wikipedia.org/wiki/Hexenlager) — 來源分類：Kategorie:Hexerei > Moderne Hexenverfolgung
+- [ ] **The Triangular Book of St. Germain**（英語，原始碼 7,328 位元組）— [原文](https://en.wikipedia.org/wiki/The_Triangular_Book_of_St._Germain) — 來源分類：Category:Witchcraft > Grimoires
+- [ ] **Anna Göldin**（西班牙語，原始碼 7,275 位元組）— [原文](https://es.wikipedia.org/wiki/Anna_G%C3%B6ldin) — 來源分類：Categoría:Brujería
+- [ ] **比干**（中文，原始碼 7,272 位元組）— [原文](https://zh.wikipedia.org/wiki/%E6%AF%94%E5%B9%B2) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **林淳**（日語，原始碼 7,265 位元組）— [原文](https://ja.wikipedia.org/wiki/%E6%9E%97%E6%B7%B3) — 來源分類：Category:呪術 > 陰陽道
+- [ ] **藤原忠文**（日語，原始碼 7,261 位元組）— [原文](https://ja.wikipedia.org/wiki/%E8%97%A4%E5%8E%9F%E5%BF%A0%E6%96%87) — 來源分類：Category:陰陽道 > 日本の神 (人物神 御霊信仰)
+- [ ] **Símbolos mágicos de Islandia**（西班牙語，原始碼 7,257 位元組）— [原文](https://es.wikipedia.org/wiki/S%C3%ADmbolos_m%C3%A1gicos_de_Islandia) — 來源分類：Categoría:Brujería
+- [ ] **富士谷紹憲**（日語，原始碼 7,248 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%A3%AB%E8%B0%B7%E7%B4%B9%E6%86%B2) — 來源分類：Category:陰陽道 > 陰陽師
+- [ ] **選日**（日語，原始碼 7,241 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%81%B8%E6%97%A5) — 來源分類：Category:呪術 > 陰陽道
+- [ ] **扶苏**（中文，原始碼 7,240 位元組）— [原文](https://zh.wikipedia.org/wiki/%E6%89%B6%E8%8B%8F) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **Tlahuelpuchi**（西班牙語，原始碼 7,232 位元組）— [原文](https://es.wikipedia.org/wiki/Tlahuelpuchi) — 來源分類：Categoría:Brujería
+- [ ] **賀茂朝臣氏**（日語，原始碼 7,224 位元組）— [原文](https://ja.wikipedia.org/wiki/%E8%B3%80%E8%8C%82%E6%9C%9D%E8%87%A3%E6%B0%8F) — 來源分類：Category:陰陽道 > 陰陽寮
+- [ ] **Witch ball**（英語，原始碼 7,204 位元組）— [原文](https://en.wikipedia.org/wiki/Witch_ball) — 來源分類：Category:Witchcraft > American witchcraft
+- [ ] **豆狸**（日語，原始碼 7,189 位元組）— [原文](https://ja.wikipedia.org/wiki/%E8%B1%86%E7%8B%B8) — 來源分類：Category:シャーマニズム > 憑き物
+- [ ] **太谷學派**（中文，原始碼 7,189 位元組）— [原文](https://zh.wikipedia.org/wiki/%E5%A4%AA%E8%B0%B7%E5%AD%B8%E6%B4%BE) — 來源分類：Category:中國民間信仰 > 三教
+- [ ] **Bad Voodoo**（英語，原始碼 7,183 位元組）— [原文](https://en.wikipedia.org/wiki/Bad_Voodoo) — 來源分類：Category:Witchcraft > American witchcraft
+- [ ] **Book of the Dead (Art Institute of Chicago)**（英語，原始碼 7,166 位元組）— [原文](https://en.wikipedia.org/wiki/Book_of_the_Dead_%28Art_Institute_of_Chicago%29) — 來源分類：Category:Witchcraft > Incantation > Book of the Dead
+- [ ] **岡崎神社**（日語，原始碼 7,163 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%B2%A1%E5%B4%8E%E7%A5%9E%E7%A4%BE) — 來源分類：Category:呪術 > 陰陽道
+- [ ] **The Sworn Book of Honorius**（英語，原始碼 7,155 位元組）— [原文](https://en.wikipedia.org/wiki/The_Sworn_Book_of_Honorius) — 來源分類：Category:Witchcraft > Grimoires > Goetic grimoires
+- [ ] **伊予親王**（日語，原始碼 7,152 位元組）— [原文](https://ja.wikipedia.org/wiki/%E4%BC%8A%E4%BA%88%E8%A6%AA%E7%8E%8B) — 來源分類：Category:陰陽道 > 日本の神 (人物神 御霊信仰)
+- [ ] **シュガール**（日語，原始碼 7,104 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A5%E3%82%AC%E3%83%BC%E3%83%AB) — 來源分類：Category:魔女
+- [ ] **烏天狗**（日語，原始碼 7,094 位元組）— [原文](https://ja.wikipedia.org/wiki/%E7%83%8F%E5%A4%A9%E7%8B%97) — 來源分類：Category:日本の妖怪 > 天狗
+- [ ] **天邪鬼**（日語，原始碼 7,079 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%A4%A9%E9%82%AA%E9%AC%BC) — 來源分類：Category:日本の妖怪 > 鬼
+- [ ] **Jeanne Panne**（法語，原始碼 7,053 位元組）— [原文](https://fr.wikipedia.org/wiki/Jeanne_Panne) — 來源分類：Catégorie:Sorcellerie > Procès de sorcellerie > Personnalité condamnée pour sorcellerie
+- [ ] **Thee Temple ov Psychick Youth**（日語，原始碼 7,047 位元組）— [原文](https://ja.wikipedia.org/wiki/Thee_Temple_ov_Psychick_Youth) — 來源分類：Category:呪術 > ケイオスマジック
+- [ ] **マジック**（日語，原始碼 7,046 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF) — 來源分類：Category:呪術
+- [ ] **御霊神社 (五條市霊安寺町)**（日語，原始碼 7,035 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%BE%A1%E9%9C%8A%E7%A5%9E%E7%A4%BE_%28%E4%BA%94%E6%A2%9D%E5%B8%82%E9%9C%8A%E5%AE%89%E5%AF%BA%E7%94%BA%29) — 來源分類：Category:陰陽道 > 御霊信仰
+- [ ] **Thank you**（英語，原始碼 7,023 位元組）— [原文](https://en.wikipedia.org/wiki/Thank_you) — 來源分類：Category:Witchcraft > Incantation > Magic words
+- [ ] **苏缄**（中文，原始碼 6,991 位元組）— [原文](https://zh.wikipedia.org/wiki/%E8%8B%8F%E7%BC%84) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **ジャン・ボダン**（日語，原始碼 6,988 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%BB%E3%83%9C%E3%83%80%E3%83%B3) — 來源分類：Category:魔女 > 魔女狩り人
+- [ ] **文室宮田麻呂**（日語，原始碼 6,972 位元組）— [原文](https://ja.wikipedia.org/wiki/%E6%96%87%E5%AE%A4%E5%AE%AE%E7%94%B0%E9%BA%BB%E5%91%82) — 來源分類：Category:陰陽道 > 日本の神 (人物神 御霊信仰)
+- [ ] **Notte di San Giovanni**（義大利語，原始碼 6,968 位元組）— [原文](https://it.wikipedia.org/wiki/Notte_di_San_Giovanni) — 來源分類：Categoria:Stregoneria
+- [ ] **The Sword of Moses**（英語，原始碼 6,967 位元組）— [原文](https://en.wikipedia.org/wiki/The_Sword_of_Moses) — 來源分類：Category:Witchcraft > Grimoires > Jewish grimoires
+- [ ] **浅茅ヶ原の鬼婆**（日語，原始碼 6,967 位元組）— [原文](https://ja.wikipedia.org/wiki/%E6%B5%85%E8%8C%85%E3%83%B6%E5%8E%9F%E3%81%AE%E9%AC%BC%E5%A9%86) — 來源分類：Category:日本の妖怪 > 鬼
+- [ ] **頽馬**（日語，原始碼 6,964 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%A0%BD%E9%A6%AC) — 來源分類：Category:日本の妖怪
+- [ ] **서낭당**（韓語，原始碼 6,962 位元組）— [原文](https://ko.wikipedia.org/wiki/%EC%84%9C%EB%82%AD%EB%8B%B9) — 來源分類：분류:무속 > 무속 건축물
+- [ ] **Dannie Druehyld**（英語，原始碼 6,947 位元組）— [原文](https://en.wikipedia.org/wiki/Dannie_Druehyld) — 來源分類：Category:Witchcraft > Witches
+- [ ] **Mary Butters**（法語，原始碼 6,931 位元組）— [原文](https://fr.wikipedia.org/wiki/Mary_Butters) — 來源分類：Catégorie:Sorcellerie > Procès de sorcellerie
+- [ ] **Jacob Sprenger**（英語，原始碼 6,929 位元組）— [原文](https://en.wikipedia.org/wiki/Jacob_Sprenger) — 來源分類：Category:Witchcraft > Witch hunting > Supporters of witch hunting
+- [ ] **戸矢学**（日語，原始碼 6,919 位元組）— [原文](https://ja.wikipedia.org/wiki/%E6%88%B8%E7%9F%A2%E5%AD%A6) — 來源分類：Category:呪術 > 陰陽道
+- [ ] **Paul Boyer (historian)**（英語，原始碼 6,912 位元組）— [原文](https://en.wikipedia.org/wiki/Paul_Boyer_%28historian%29) — 來源分類：Category:Witchcraft > Historians of witchcraft
+- [ ] **Heinrich Kramer**（義大利語，原始碼 6,891 位元組）— [原文](https://it.wikipedia.org/wiki/Heinrich_Kramer) — 來源分類：Categoria:Stregoneria
+- [ ] **李伯瑤**（中文，原始碼 6,887 位元組）— [原文](https://zh.wikipedia.org/wiki/%E6%9D%8E%E4%BC%AF%E7%91%A4) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **獏**（日語，原始碼 6,881 位元組）— [原文](https://ja.wikipedia.org/wiki/%E7%8D%8F) — 來源分類：Category:日本の妖怪
+- [ ] **赤マント**（日語，原始碼 6,875 位元組）— [原文](https://ja.wikipedia.org/wiki/%E8%B5%A4%E3%83%9E%E3%83%B3%E3%83%88) — 來源分類：Category:日本の妖怪 > 日本の都市伝説の妖怪
+- [ ] **妖術**（日語，原始碼 6,872 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%A6%96%E8%A1%93) — 來源分類：Category:呪術
+- [ ] **モンジャ**（日語，原始碼 6,862 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%B3%E3%82%B8%E3%83%A3) — 來源分類：Category:シャーマニズム > 憑き物
+- [ ] **Dissertazioni sopra le apparizioni de' spiriti, e sopra i vampiri, o i redivivi d'Ungheria, di Moravia e di Silesia**（義大利語，原始碼 6,857 位元組）— [原文](https://it.wikipedia.org/wiki/Dissertazioni_sopra_le_apparizioni_de%27_spiriti%2C_e_sopra_i_vampiri%2C_o_i_redivivi_d%27Ungheria%2C_di_Moravia_e_di_Silesia) — 來源分類：Categoria:Stregoneria > Opere letterarie sulla stregoneria
+- [ ] **赤舌**（日語，原始碼 6,854 位元組）— [原文](https://ja.wikipedia.org/wiki/%E8%B5%A4%E8%88%8C) — 來源分類：Category:日本の妖怪 > 妖怪絵巻の妖怪
+- [ ] **日本の鬼の交流博物館**（日語，原始碼 6,852 位元組）— [原文](https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E9%AC%BC%E3%81%AE%E4%BA%A4%E6%B5%81%E5%8D%9A%E7%89%A9%E9%A4%A8) — 來源分類：Category:日本の妖怪 > 鬼
+- [ ] **天狗礫**（日語，原始碼 6,852 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%A4%A9%E7%8B%97%E7%A4%AB) — 來源分類：Category:日本の妖怪 > 天狗
+- [ ] **レオノーラ・パイパー**（日語，原始碼 6,846 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%AA%E3%83%8E%E3%83%BC%E3%83%A9%E3%83%BB%E3%83%91%E3%82%A4%E3%83%91%E3%83%BC) — 來源分類：Category:シャーマニズム > 霊媒師
+- [ ] **Louise Yeoman**（英語，原始碼 6,845 位元組）— [原文](https://en.wikipedia.org/wiki/Louise_Yeoman) — 來源分類：Category:Witchcraft > Historians of witchcraft
+- [ ] **Benandante**（法語，原始碼 6,830 位元組）— [原文](https://fr.wikipedia.org/wiki/Benandante) — 來源分類：Catégorie:Sorcellerie
+- [ ] **鬼神**（日語，原始碼 6,807 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%AC%BC%E7%A5%9E) — 來源分類：Category:日本の妖怪 > 鬼
+- [ ] **칠성신**（韓語，原始碼 6,804 位元組）— [原文](https://ko.wikipedia.org/wiki/%EC%B9%A0%EC%84%B1%EC%8B%A0) — 來源分類：분류:무속 > 도무습합
+- [ ] **ハリー・エドワーズ (ヒーラー)**（日語，原始碼 6,800 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%A8%E3%83%89%E3%83%AF%E3%83%BC%E3%82%BA_%28%E3%83%92%E3%83%BC%E3%83%A9%E3%83%BC%29) — 來源分類：Category:シャーマニズム > 霊媒師
+- [ ] **高坊主**（日語，原始碼 6,781 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%AB%98%E5%9D%8A%E4%B8%BB) — 來源分類：Category:日本の妖怪 > 化け狸
+- [ ] **메스칼린**（韓語，原始碼 6,781 位元組）— [原文](https://ko.wikipedia.org/wiki/%EB%A9%94%EC%8A%A4%EC%B9%BC%EB%A6%B0) — 來源分類：분류:샤머니즘 > 의식용 환각제
+- [ ] **滋岳川人**（日語，原始碼 6,772 位元組）— [原文](https://ja.wikipedia.org/wiki/%E6%BB%8B%E5%B2%B3%E5%B7%9D%E4%BA%BA) — 來源分類：Category:陰陽道 > 陰陽師
+- [ ] **Die Mobesin**（德語，原始碼 6,762 位元組）— [原文](https://de.wikipedia.org/wiki/Die_Mobesin) — 來源分類：Kategorie:Hexerei > Hexe
+- [ ] **Rangda**（義大利語，原始碼 6,758 位元組）— [原文](https://it.wikipedia.org/wiki/Rangda) — 來源分類：Categoria:Stregoneria
+- [ ] **Witchcraft Acts**（法語，原始碼 6,752 位元組）— [原文](https://fr.wikipedia.org/wiki/Witchcraft_Acts) — 來源分類：Catégorie:Sorcellerie > Loi sur la sorcellerie
+- [ ] **삼신제석**（韓語，原始碼 6,716 位元組）— [原文](https://ko.wikipedia.org/wiki/%EC%82%BC%EC%8B%A0%EC%A0%9C%EC%84%9D) — 來源分類：분류:무속 > 무불습합
+- [ ] **Cornelius Loos**（英語，原始碼 6,713 位元組）— [原文](https://en.wikipedia.org/wiki/Cornelius_Loos) — 來源分類：Category:Witchcraft > Witch hunting > Critics of witch hunting
+- [ ] **Lauterfresser**（法語，原始碼 6,692 位元組）— [原文](https://fr.wikipedia.org/wiki/Lauterfresser) — 來源分類：Catégorie:Sorcellerie > Procès de sorcellerie > Personnalité condamnée pour sorcellerie
+- [ ] **살풀이춤**（韓語，原始碼 6,688 位元組）— [原文](https://ko.wikipedia.org/wiki/%EC%82%B4%ED%92%80%EC%9D%B4%EC%B6%A4) — 來源分類：분류:무속 > 무속 무용
+- [ ] **リビュアのシビュラ**（日語，原始碼 6,661 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%93%E3%83%A5%E3%82%A2%E3%81%AE%E3%82%B7%E3%83%93%E3%83%A5%E3%83%A9) — 來源分類：Category:シャーマニズム > シビュラ
+- [ ] **Andrew Gow (historian)**（英語，原始碼 6,652 位元組）— [原文](https://en.wikipedia.org/wiki/Andrew_Gow_%28historian%29) — 來源分類：Category:Witchcraft > Historians of witchcraft
+- [ ] **置行堀**（日語，原始碼 6,647 位元組）— [原文](https://ja.wikipedia.org/wiki/%E7%BD%AE%E8%A1%8C%E5%A0%80) — 來源分類：Category:日本の妖怪 > 河童
+- [ ] **Galdr**（法語，原始碼 6,636 位元組）— [原文](https://fr.wikipedia.org/wiki/Galdr) — 來源分類：Catégorie:Sorcellerie
+- [ ] **Kotodama**（英語，原始碼 6,630 位元組）— [原文](https://en.wikipedia.org/wiki/Kotodama) — 來源分類：Category:Witchcraft > Incantation > Magic words
+- [ ] **Philtre d'amour**（法語，原始碼 6,628 位元組）— [原文](https://fr.wikipedia.org/wiki/Philtre_d%27amour) — 來源分類：Catégorie:Sorcellerie
+- [ ] **ぬっぺふほふ**（日語，原始碼 6,625 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%81%AC%E3%81%A3%E3%81%BA%E3%81%B5%E3%81%BB%E3%81%B5) — 來源分類：Category:日本の妖怪 > 妖怪絵巻の妖怪
+- [ ] **Peter Binsfeld**（法語，原始碼 6,619 位元組）— [原文](https://fr.wikipedia.org/wiki/Peter_Binsfeld) — 來源分類：Catégorie:Sorcellerie
+- [ ] **Anna Maria Schwegelin**（義大利語，原始碼 6,618 位元組）— [原文](https://it.wikipedia.org/wiki/Anna_Maria_Schwegelin) — 來源分類：Categoria:Stregoneria > Processi per stregoneria > Persone condannate per stregoneria
+- [ ] **Magdelaine Bavent**（英語，原始碼 6,616 位元組）— [原文](https://en.wikipedia.org/wiki/Magdelaine_Bavent) — 來源分類：Category:Witchcraft > Witches
+- [ ] **Etoro**（德語，原始碼 6,609 位元組）— [原文](https://de.wikipedia.org/wiki/Etoro) — 來源分類：Kategorie:Hexerei > Moderne Hexenverfolgung
+- [ ] **バーバ・ヤーガ**（日語，原始碼 6,608 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%BC%E3%83%90%E3%83%BB%E3%83%A4%E3%83%BC%E3%82%AC) — 來源分類：Category:魔女
+- [ ] **魔法円**（日語，原始碼 6,600 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%AD%94%E6%B3%95%E5%86%86) — 來源分類：Category:魔女 > ウイッカ
+- [ ] **石頭崇拜**（中文，原始碼 6,599 位元組）— [原文](https://zh.wikipedia.org/wiki/%E7%9F%B3%E9%A0%AD%E5%B4%87%E6%8B%9C) — 來源分類：Category:中國民間信仰 > 香港民間信仰
+- [ ] **塗仏**（日語，原始碼 6,592 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%A1%97%E4%BB%8F) — 來源分類：Category:日本の妖怪 > 妖怪絵巻の妖怪
+- [ ] **アグネス・ベルナウアー**（日語，原始碼 6,591 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B0%E3%83%8D%E3%82%B9%E3%83%BB%E3%83%99%E3%83%AB%E3%83%8A%E3%82%A6%E3%82%A2%E3%83%BC) — 來源分類：Category:魔女 > 魔女術の容疑で処刑された人物
+- [ ] **箕子**（中文，原始碼 6,589 位元組）— [原文](https://zh.wikipedia.org/wiki/%E7%AE%95%E5%AD%90) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **姻緣石**（中文，原始碼 6,576 位元組）— [原文](https://zh.wikipedia.org/wiki/%E5%A7%BB%E7%B7%A3%E7%9F%B3) — 來源分類：Category:中國民間信仰 > 香港民間信仰
+- [ ] **Buda (folklore)**（英語，原始碼 6,572 位元組）— [原文](https://en.wikipedia.org/wiki/Buda_%28folklore%29) — 來源分類：Category:Witchcraft > African witchcraft
+- [ ] **Aramaic Uruk incantation**（英語，原始碼 6,572 位元組）— [原文](https://en.wikipedia.org/wiki/Aramaic_Uruk_incantation) — 來源分類：Category:Witchcraft > Incantation
+- [ ] **首なしライダー**（日語，原始碼 6,563 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%A6%96%E3%81%AA%E3%81%97%E3%83%A9%E3%82%A4%E3%83%80%E3%83%BC) — 來源分類：Category:日本の妖怪 > 日本の都市伝説の妖怪
+- [ ] **人面犬**（日語，原始碼 6,557 位元組）— [原文](https://ja.wikipedia.org/wiki/%E4%BA%BA%E9%9D%A2%E7%8A%AC) — 來源分類：Category:日本の妖怪 > 日本の都市伝説の妖怪
+- [ ] **宝卷**（中文，原始碼 6,554 位元組）— [原文](https://zh.wikipedia.org/wiki/%E5%AE%9D%E5%8D%B7) — 來源分類：Category:中國民間信仰 > 中国民间宗教文献
+- [ ] **H. C. Erik Midelfort**（德語，原始碼 6,542 位元組）— [原文](https://de.wikipedia.org/wiki/H._C._Erik_Midelfort) — 來源分類：Kategorie:Hexenverfolgung > Sachliteratur (Hexenverfolgung)
+- [ ] **Girolamo Tartarotti**（法語，原始碼 6,539 位元組）— [原文](https://fr.wikipedia.org/wiki/Girolamo_Tartarotti) — 來源分類：Catégorie:Sorcellerie
+- [ ] **Hexenfinder**（德語，原始碼 6,521 位元組）— [原文](https://de.wikipedia.org/wiki/Hexenfinder) — 來源分類：Kategorie:Hexenverfolgung
+- [ ] **金長神社**（日語，原始碼 6,507 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%87%91%E9%95%B7%E7%A5%9E%E7%A4%BE) — 來源分類：Category:日本の妖怪 > 化け狸
+- [ ] **Europe's Inner Demons**（英語，原始碼 6,502 位元組）— [原文](https://en.wikipedia.org/wiki/Europe%27s_Inner_Demons) — 來源分類：Category:Witchcraft > Books about witchcraft > History books about witchcraft
+- [ ] **楞厳呪**（日語，原始碼 6,501 位元組）— [原文](https://ja.wikipedia.org/wiki/%E6%A5%9E%E5%8E%B3%E5%91%AA) — 來源分類：Category:呪術 > 陀羅尼
+- [ ] **ディアナとエンデュミオン**（日語，原始碼 6,499 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%82%A2%E3%83%8A%E3%81%A8%E3%82%A8%E3%83%B3%E3%83%87%E3%83%A5%E3%83%9F%E3%82%AA%E3%83%B3) — 來源分類：Category:魔女 > ディアーナ
+- [ ] **スザンナ・マーティン**（日語，原始碼 6,498 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%B6%E3%83%B3%E3%83%8A%E3%83%BB%E3%83%9E%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3) — 來源分類：Category:魔女 > 魔女術の容疑で処刑された人物
+- [ ] **Julio Caro Baroja**（德語，原始碼 6,488 位元組）— [原文](https://de.wikipedia.org/wiki/Julio_Caro_Baroja) — 來源分類：Kategorie:Hexenverfolgung > Sachliteratur (Hexenverfolgung)
+- [ ] **大坊主**（日語，原始碼 6,480 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%9D%8A%E4%B8%BB) — 來源分類：Category:日本の妖怪
+- [ ] **扶箕**（日語，原始碼 6,470 位元組）— [原文](https://ja.wikipedia.org/wiki/%E6%89%B6%E7%AE%95) — 來源分類：Category:シャーマニズム
+- [ ] **Nyongo society**（英語，原始碼 6,457 位元組）— [原文](https://en.wikipedia.org/wiki/Nyongo_society) — 來源分類：Category:Witchcraft > African witchcraft
+- [ ] **Zauber-Bibliothek**（英語，原始碼 6,454 位元組）— [原文](https://en.wikipedia.org/wiki/Zauber-Bibliothek) — 來源分類：Category:Witchcraft
+- [ ] **Saint-Yves-de-Vérité**（法語，原始碼 6,454 位元組）— [原文](https://fr.wikipedia.org/wiki/Saint-Yves-de-V%C3%A9rit%C3%A9) — 來源分類：Catégorie:Sorcellerie
+- [ ] **Nine Herbs Charm**（英語，原始碼 6,447 位元組）— [原文](https://en.wikipedia.org/wiki/Nine_Herbs_Charm) — 來源分類：Category:Witchcraft > Incantation > Anglo-Saxon metrical charms
+- [ ] **水尾聖娘**（中文，原始碼 6,436 位元組）— [原文](https://zh.wikipedia.org/wiki/%E6%B0%B4%E5%B0%BE%E8%81%96%E5%A8%98) — 來源分類：Category:中國民間信仰 > 中国民间信仰神祇
+- [ ] **スガラムルディ**（日語，原始碼 6,421 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%AC%E3%83%A9%E3%83%A0%E3%83%AB%E3%83%87%E3%82%A3) — 來源分類：Category:魔女
+- [ ] **魔術 (セレマ)**（日語，原始碼 6,415 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%AD%94%E8%A1%93_%28%E3%82%BB%E3%83%AC%E3%83%9E%29) — 來源分類：Category:呪術 > 西洋魔術
+- [ ] **王妃 (白雪姫)**（日語，原始碼 6,408 位元組）— [原文](https://ja.wikipedia.org/wiki/%E7%8E%8B%E5%A6%83_%28%E7%99%BD%E9%9B%AA%E5%A7%AB%29) — 來源分類：Category:魔女 > 魔女を題材とした作品 > 白雪姫
+- [ ] **保家仙**（中文，原始碼 6,403 位元組）— [原文](https://zh.wikipedia.org/wiki/%E4%BF%9D%E5%AE%B6%E4%BB%99) — 來源分類：Category:薩滿教
+- [ ] **Juju (religiöse Praktik)**（德語，原始碼 6,389 位元組）— [原文](https://de.wikipedia.org/wiki/Juju_%28religi%C3%B6se_Praktik%29) — 來源分類：Kategorie:Hexerei > Moderne Hexenverfolgung
+- [ ] **禍 (伝説の生物)**（日語，原始碼 6,388 位元組）— [原文](https://ja.wikipedia.org/wiki/%E7%A6%8D_%28%E4%BC%9D%E8%AA%AC%E3%81%AE%E7%94%9F%E7%89%A9%29) — 來源分類：Category:日本の妖怪
+- [ ] **金槌坊**（日語，原始碼 6,386 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%87%91%E6%A7%8C%E5%9D%8A) — 來源分類：Category:日本の妖怪 > 妖怪絵巻の妖怪
+- [ ] **赤シャグマ**（日語，原始碼 6,383 位元組）— [原文](https://ja.wikipedia.org/wiki/%E8%B5%A4%E3%82%B7%E3%83%A3%E3%82%B0%E3%83%9E) — 來源分類：Category:日本の妖怪 > 座敷童子
+- [ ] **Laura Malipiero**（義大利語，原始碼 6,354 位元組）— [原文](https://it.wikipedia.org/wiki/Laura_Malipiero) — 來源分類：Categoria:Stregoneria > Processi per stregoneria > Persone condannate per stregoneria
+- [ ] **마파초**（韓語，原始碼 6,350 位元組）— [原文](https://ko.wikipedia.org/wiki/%EB%A7%88%ED%8C%8C%EC%B4%88) — 來源分類：분류:샤머니즘 > 의식용 환각제
+- [ ] **Zotz!**（英語，原始碼 6,347 位元組）— [原文](https://en.wikipedia.org/wiki/Zotz%21) — 來源分類：Category:Witchcraft > Incantation > Magic words
+- [ ] **Calcu**（西班牙語，原始碼 6,338 位元組）— [原文](https://es.wikipedia.org/wiki/Calcu) — 來源分類：Categoría:Brujería
+- [ ] **岡本健 (観光学者)**（日語，原始碼 6,331 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%B2%A1%E6%9C%AC%E5%81%A5_%28%E8%A6%B3%E5%85%89%E5%AD%A6%E8%80%85%29) — 來源分類：Category:呪術 > ゾンビ
+- [ ] **ヘーロピレー**（日語，原始碼 6,321 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%98%E3%83%BC%E3%83%AD%E3%83%94%E3%83%AC%E3%83%BC) — 來源分類：Category:シャーマニズム > シビュラ
+- [ ] **Night of Pan**（英語，原始碼 6,317 位元組）— [原文](https://en.wikipedia.org/wiki/Night_of_Pan) — 來源分類：Category:Witchcraft > Incantation > Magic words
+- [ ] **Johann Georg II. Fuchs von Dornheim**（德語，原始碼 6,315 位元組）— [原文](https://de.wikipedia.org/wiki/Johann_Georg_II._Fuchs_von_Dornheim) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung in Bamberg
+- [ ] **For Delayed Birth**（英語，原始碼 6,311 位元組）— [原文](https://en.wikipedia.org/wiki/For_Delayed_Birth) — 來源分類：Category:Witchcraft > Incantation > Anglo-Saxon metrical charms
+- [ ] **斬雞頭**（中文，原始碼 6,311 位元組）— [原文](https://zh.wikipedia.org/wiki/%E6%96%AC%E9%9B%9E%E9%A0%AD) — 來源分類：Category:中國民間信仰
+- [ ] **Ursula Southeil**（德語，原始碼 6,306 位元組）— [原文](https://de.wikipedia.org/wiki/Ursula_Southeil) — 來源分類：Kategorie:Hexerei > Hexe
+- [ ] **野狐**（日語，原始碼 6,303 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%87%8E%E7%8B%90) — 來源分類：Category:シャーマニズム > 憑き物
+- [ ] **Interpretaciones feministas de la caza de brujas en la Edad Moderna**（西班牙語，原始碼 6,302 位元組）— [原文](https://es.wikipedia.org/wiki/Interpretaciones_feministas_de_la_caza_de_brujas_en_la_Edad_Moderna) — 來源分類：Categoría:Brujería
+- [ ] **기고사**（韓語，原始碼 6,299 位元組）— [原文](https://ko.wikipedia.org/wiki/%EA%B8%B0%EA%B3%A0%EC%82%AC) — 來源分類：분류:무속 > 무속 의식
+- [ ] **兔兒神**（中文，原始碼 6,295 位元組）— [原文](https://zh.wikipedia.org/wiki/%E5%85%94%E5%85%92%E7%A5%9E) — 來源分類：Category:中國民間信仰 > 福建民間信仰
+- [ ] **Laurie Cabot**（英語，原始碼 6,293 位元組）— [原文](https://en.wikipedia.org/wiki/Laurie_Cabot) — 來源分類：Category:Witchcraft > Witches
+- [ ] **疫鬼**（日語，原始碼 6,293 位元組）— [原文](https://ja.wikipedia.org/wiki/%E7%96%AB%E9%AC%BC) — 來源分類：Category:日本の妖怪 > 鬼
+- [ ] **Warlocks of Chiloé**（英語，原始碼 6,288 位元組）— [原文](https://en.wikipedia.org/wiki/Warlocks_of_Chilo%C3%A9) — 來源分類：Category:Witchcraft > American witchcraft
+- [ ] **打小人**（中文，原始碼 6,284 位元組）— [原文](https://zh.wikipedia.org/wiki/%E6%89%93%E5%B0%8F%E4%BA%BA) — 來源分類：Category:中國民間信仰
+- [ ] **折り畳み入道**（日語，原始碼 6,278 位元組）— [原文](https://ja.wikipedia.org/wiki/%E6%8A%98%E3%82%8A%E7%95%B3%E3%81%BF%E5%85%A5%E9%81%93) — 來源分類：Category:日本の妖怪 > 水木しげるオリジナルの妖怪
+- [ ] **Incubus (Dämon)**（德語，原始碼 6,268 位元組）— [原文](https://de.wikipedia.org/wiki/Incubus_%28D%C3%A4mon%29) — 來源分類：Kategorie:Hexenverfolgung
+- [ ] **Rustin Parr**（英語，原始碼 6,258 位元組）— [原文](https://en.wikipedia.org/wiki/Rustin_Parr) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Blair Witch
+- [ ] **呪殺祈祷僧団**（日語，原始碼 6,243 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%91%AA%E6%AE%BA%E7%A5%88%E7%A5%B7%E5%83%A7%E5%9B%A3) — 來源分類：Category:呪術
+- [ ] **De praestigiis daemonum**（法語，原始碼 6,236 位元組）— [原文](https://fr.wikipedia.org/wiki/De_praestigiis_daemonum) — 來源分類：Catégorie:Sorcellerie
+- [ ] **ハインリヒ・クラーマー**（日語，原始碼 6,233 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%B3%E3%83%AA%E3%83%92%E3%83%BB%E3%82%AF%E3%83%A9%E3%83%BC%E3%83%9E%E3%83%BC) — 來源分類：Category:魔女 > 魔女狩り人
+- [ ] **Coga**（義大利語，原始碼 6,230 位元組）— [原文](https://it.wikipedia.org/wiki/Coga) — 來源分類：Categoria:Stregoneria
+- [ ] **招魂祭**（日語，原始碼 6,222 位元組）— [原文](https://ja.wikipedia.org/wiki/%E6%8B%9B%E9%AD%82%E7%A5%AD) — 來源分類：Category:呪術
+- [ ] **悪鬼**（日語，原始碼 6,210 位元組）— [原文](https://ja.wikipedia.org/wiki/%E6%82%AA%E9%AC%BC) — 來源分類：Category:日本の妖怪 > 鬼
+- [ ] **李冰**（中文，原始碼 6,210 位元組）— [原文](https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%86%B0) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **Chutni Mahato**（英語，原始碼 6,202 位元組）— [原文](https://en.wikipedia.org/wiki/Chutni_Mahato) — 來源分類：Category:Witchcraft > Modern witchcraft > Modern witch hunts
+- [ ] **藤原千方の四鬼**（日語，原始碼 6,193 位元組）— [原文](https://ja.wikipedia.org/wiki/%E8%97%A4%E5%8E%9F%E5%8D%83%E6%96%B9%E3%81%AE%E5%9B%9B%E9%AC%BC) — 來源分類：Category:日本の妖怪 > 鬼
+- [ ] **百目**（日語，原始碼 6,179 位元組）— [原文](https://ja.wikipedia.org/wiki/%E7%99%BE%E7%9B%AE) — 來源分類：Category:日本の妖怪 > 水木しげるオリジナルの妖怪
+- [ ] **Cachiche**（西班牙語，原始碼 6,177 位元組）— [原文](https://es.wikipedia.org/wiki/Cachiche) — 來源分類：Categoría:Brujería
+- [ ] **Summis desiderantes affectibus**（德語，原始碼 6,176 位元組）— [原文](https://de.wikipedia.org/wiki/Summis_desiderantes_affectibus) — 來源分類：Kategorie:Hexenverfolgung
+- [ ] **Tempio di Tanah Lot**（義大利語，原始碼 6,168 位元組）— [原文](https://it.wikipedia.org/wiki/Tempio_di_Tanah_Lot) — 來源分類：Categoria:Stregoneria
+- [ ] **隠し神**（日語，原始碼 6,165 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%9A%A0%E3%81%97%E7%A5%9E) — 來源分類：Category:日本の妖怪
+- [ ] **강화 참성단**（韓語，原始碼 6,160 位元組）— [原文](https://ko.wikipedia.org/wiki/%EA%B0%95%ED%99%94_%EC%B0%B8%EC%84%B1%EB%8B%A8) — 來源分類：분류:무속 > 무속 건축물
+- [ ] **The Rough Guide to Voodoo**（英語，原始碼 6,146 位元組）— [原文](https://en.wikipedia.org/wiki/The_Rough_Guide_to_Voodoo) — 來源分類：Category:Witchcraft > African witchcraft > Voodoo
+- [ ] **土御門凞光**（日語，原始碼 6,143 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%9C%9F%E5%BE%A1%E9%96%80%E5%87%9E%E5%85%89) — 來源分類：Category:陰陽道 > 陰陽師
+- [ ] **The Book of Protection**（英語，原始碼 6,139 位元組）— [原文](https://en.wikipedia.org/wiki/The_Book_of_Protection) — 來源分類：Category:Witchcraft > Grimoires
+- [ ] **安倍吉昌**（日語，原始碼 6,129 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%AE%89%E5%80%8D%E5%90%89%E6%98%8C) — 來源分類：Category:陰陽道 > 陰陽師
+- [ ] **Saducismus Triumphatus**（英語，原始碼 6,125 位元組）— [原文](https://en.wikipedia.org/wiki/Saducismus_Triumphatus) — 來源分類：Category:Witchcraft > Witchcraft treatises
+- [ ] **Francis Hutchinson**（英語，原始碼 6,120 位元組）— [原文](https://en.wikipedia.org/wiki/Francis_Hutchinson) — 來源分類：Category:Witchcraft > Witch hunting > Critics of witch hunting
+- [ ] **Giuseppe Raffaelli**（義大利語，原始碼 6,116 位元組）— [原文](https://it.wikipedia.org/wiki/Giuseppe_Raffaelli) — 來源分類：Categoria:Stregoneria
+- [ ] **九十九髪茄子**（日語，原始碼 6,116 位元組）— [原文](https://ja.wikipedia.org/wiki/%E4%B9%9D%E5%8D%81%E4%B9%9D%E9%AB%AA%E8%8C%84%E5%AD%90) — 來源分類：Category:日本の妖怪 > 付喪神
+- [ ] **许逊**（中文，原始碼 6,112 位元組）— [原文](https://zh.wikipedia.org/wiki/%E8%AE%B8%E9%80%8A) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **陈化成**（中文，原始碼 6,095 位元組）— [原文](https://zh.wikipedia.org/wiki/%E9%99%88%E5%8C%96%E6%88%90) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **物部村 (高知県)**（日語，原始碼 6,094 位元組）— [原文](https://ja.wikipedia.org/wiki/%E7%89%A9%E9%83%A8%E6%9D%91_%28%E9%AB%98%E7%9F%A5%E7%9C%8C%29) — 來源分類：Category:呪術 > 陰陽道
+- [ ] **セバスチャン・ミカエリス**（日語，原始碼 6,087 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%90%E3%82%B9%E3%83%81%E3%83%A3%E3%83%B3%E3%83%BB%E3%83%9F%E3%82%AB%E3%82%A8%E3%83%AA%E3%82%B9) — 來源分類：Category:魔女 > 魔女狩り人
+- [ ] **蔣作梅**（中文，原始碼 6,081 位元組）— [原文](https://zh.wikipedia.org/wiki/%E8%94%A3%E4%BD%9C%E6%A2%85) — 來源分類：Category:中國民間信仰 > 城隍
+- [ ] **セイラムの血統**（日語，原始碼 6,077 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%A4%E3%83%A9%E3%83%A0%E3%81%AE%E8%A1%80%E7%B5%B1) — 來源分類：Category:魔女 > 魔女裁判 > セイラム魔女裁判
+- [ ] **パーシパエー**（日語，原始碼 6,076 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%BC%E3%82%B7%E3%83%91%E3%82%A8%E3%83%BC) — 來源分類：Category:魔女
+- [ ] **安倍吉平**（日語，原始碼 6,069 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%AE%89%E5%80%8D%E5%90%89%E5%B9%B3) — 來源分類：Category:陰陽道 > 陰陽師
+- [ ] **拿公**（中文，原始碼 6,060 位元組）— [原文](https://zh.wikipedia.org/wiki/%E6%8B%BF%E5%85%AC) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **王審邽**（中文，原始碼 6,056 位元組）— [原文](https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%AF%A9%E9%82%BD) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **샤머니즘**（韓語，原始碼 6,055 位元組）— [原文](https://ko.wikipedia.org/wiki/%EC%83%A4%EB%A8%B8%EB%8B%88%EC%A6%98) — 來源分類：분류:샤머니즘
+- [ ] **ゲロー**（日語，原始碼 6,046 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%B2%E3%83%AD%E3%83%BC) — 來源分類：Category:魔女 > 山姥やハッグ
+- [ ] **夸父**（中文，原始碼 6,044 位元組）— [原文](https://zh.wikipedia.org/wiki/%E5%A4%B8%E7%88%B6) — 來源分類：Category:中國民間信仰 > 黄河神话与信仰
+- [ ] **Crypt of Medea**（英語，原始碼 6,041 位元組）— [原文](https://en.wikipedia.org/wiki/Crypt_of_Medea) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Works about Medea
+- [ ] **2008年コンゴ民主共和国サッカー暴動**（日語，原始碼 6,039 位元組）— [原文](https://ja.wikipedia.org/wiki/2008%E5%B9%B4%E3%82%B3%E3%83%B3%E3%82%B4%E6%B0%91%E4%B8%BB%E5%85%B1%E5%92%8C%E5%9B%BD%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC%E6%9A%B4%E5%8B%95) — 來源分類：Category:呪術
+- [ ] **Dömm**（義大利語，原始碼 6,038 位元組）— [原文](https://it.wikipedia.org/wiki/D%C3%B6mm) — 來源分類：Categoria:Stregoneria
+- [ ] **オサキ**（日語，原始碼 6,029 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%B5%E3%82%AD) — 來源分類：Category:シャーマニズム > 憑き物
+- [ ] **チャーリーゲーム**（日語，原始碼 6,027 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%83%BC%E3%83%AA%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0) — 來源分類：Category:シャーマニズム
+- [ ] **蛙崇拜**（中文，原始碼 6,020 位元組）— [原文](https://zh.wikipedia.org/wiki/%E8%9B%99%E5%B4%87%E6%8B%9C) — 來源分類：Category:中國民間信仰 > 福建民間信仰
+- [ ] **陰陽道宗家**（日語，原始碼 6,009 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%99%B0%E9%99%BD%E9%81%93%E5%AE%97%E5%AE%B6) — 來源分類：Category:呪術 > 陰陽道
+- [ ] **Newes from Scotland**（英語，原始碼 6,006 位元組）— [原文](https://en.wikipedia.org/wiki/Newes_from_Scotland) — 來源分類：Category:Witchcraft > Witchcraft treatises
+- [ ] **'68 (historieta)**（西班牙語，原始碼 6,004 位元組）— [原文](https://es.wikipedia.org/wiki/%2768_%28historieta%29) — 來源分類：Categoría:Brujería > Zombis > Zombis en la historieta
+- [ ] **小袖の手**（日語，原始碼 5,995 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%B0%8F%E8%A2%96%E3%81%AE%E6%89%8B) — 來源分類：Category:日本の妖怪 > 付喪神
+- [ ] **五文昌**（中文，原始碼 5,990 位元組）— [原文](https://zh.wikipedia.org/wiki/%E4%BA%94%E6%96%87%E6%98%8C) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **枉死城**（中文，原始碼 5,989 位元組）— [原文](https://zh.wikipedia.org/wiki/%E6%9E%89%E6%AD%BB%E5%9F%8E) — 來源分類：Category:中國民間信仰
+- [ ] **狗賓**（日語，原始碼 5,979 位元組）— [原文](https://ja.wikipedia.org/wiki/%E7%8B%97%E8%B3%93) — 來源分類：Category:日本の妖怪 > 天狗
+- [ ] **Babi ngepet**（義大利語，原始碼 5,976 位元組）— [原文](https://it.wikipedia.org/wiki/Babi_ngepet) — 來源分類：Categoria:Stregoneria
+- [ ] **刘鹗**（中文，原始碼 5,963 位元組）— [原文](https://zh.wikipedia.org/wiki/%E5%88%98%E9%B9%97) — 來源分類：Category:中國民間信仰 > 太谷学派
+- [ ] **雙忠廟**（中文，原始碼 5,943 位元組）— [原文](https://zh.wikipedia.org/wiki/%E9%9B%99%E5%BF%A0%E5%BB%9F) — 來源分類：Category:中國民間信仰 > 福建民間信仰
+- [ ] **魂魄**（日語，原始碼 5,935 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%AD%82%E9%AD%84) — 來源分類：Category:シャーマニズム
+- [ ] **鸡足山大乘教**（中文，原始碼 5,924 位元組）— [原文](https://zh.wikipedia.org/wiki/%E9%B8%A1%E8%B6%B3%E5%B1%B1%E5%A4%A7%E4%B9%98%E6%95%99) — 來源分類：Category:中國民間信仰 > 無生老母崇拜
+- [ ] **田都元帥**（中文，原始碼 5,908 位元組）— [原文](https://zh.wikipedia.org/wiki/%E7%94%B0%E9%83%BD%E5%85%83%E5%B8%A5) — 來源分類：Category:中國民間信仰 > 福建民間信仰
+- [ ] **宗教用品店**（中文，原始碼 5,894 位元組）— [原文](https://zh.wikipedia.org/wiki/%E5%AE%97%E6%95%99%E7%94%A8%E5%93%81%E5%BA%97) — 來源分類：Category:中國民間信仰
+- [ ] **十二直**（日語，原始碼 5,892 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%8D%81%E4%BA%8C%E7%9B%B4) — 來源分類：Category:呪術 > 陰陽道
+- [ ] **오광대**（韓語，原始碼 5,876 位元組）— [原文](https://ko.wikipedia.org/wiki/%EC%98%A4%EA%B4%91%EB%8C%80) — 來源分類：분류:무속 > 무속 무용
+- [ ] **足長手長**（日語，原始碼 5,872 位元組）— [原文](https://ja.wikipedia.org/wiki/%E8%B6%B3%E9%95%B7%E6%89%8B%E9%95%B7) — 來源分類：Category:日本の妖怪
+- [ ] **黑白無常**（中文，原始碼 5,863 位元組）— [原文](https://zh.wikipedia.org/wiki/%E9%BB%91%E7%99%BD%E7%84%A1%E5%B8%B8) — 來源分類：Category:中國民間信仰 > 福建民間信仰
+- [ ] **Anna Göldi Museum**（德語，原始碼 5,858 位元組）— [原文](https://de.wikipedia.org/wiki/Anna_G%C3%B6ldi_Museum) — 來源分類：Kategorie:Hexenverfolgung
+- [ ] **地主神**（中文，原始碼 5,855 位元組）— [原文](https://zh.wikipedia.org/wiki/%E5%9C%B0%E4%B8%BB%E7%A5%9E) — 來源分類：Category:中國民間信仰 > 香港民間信仰
+- [ ] **夜泣き石**（日語，原始碼 5,854 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%A4%9C%E6%B3%A3%E3%81%8D%E7%9F%B3) — 來源分類：Category:日本の妖怪
+- [ ] **順風耳**（中文，原始碼 5,842 位元組）— [原文](https://zh.wikipedia.org/wiki/%E9%A0%86%E9%A2%A8%E8%80%B3) — 來源分類：Category:中國民間信仰 > 中国民间信仰神祇
+- [ ] **カヴン**（日語，原始碼 5,831 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%B4%E3%83%B3) — 來源分類：Category:呪術 > 魔女
+- [ ] **Strega dei Bell**（義大利語，原始碼 5,825 位元組）— [原文](https://it.wikipedia.org/wiki/Strega_dei_Bell) — 來源分類：Categoria:Stregoneria
+- [ ] **Peter Binsfeld**（西班牙語，原始碼 5,804 位元組）— [原文](https://es.wikipedia.org/wiki/Peter_Binsfeld) — 來源分類：Categoría:Brujería
+- [ ] **서울 인왕산 국사당**（韓語，原始碼 5,802 位元組）— [原文](https://ko.wikipedia.org/wiki/%EC%84%9C%EC%9A%B8_%EC%9D%B8%EC%99%95%EC%82%B0_%EA%B5%AD%EC%82%AC%EB%8B%B9) — 來源分類：분류:무속 > 무속 성지
+- [ ] **七シコブチ**（日語，原始碼 5,796 位元組）— [原文](https://ja.wikipedia.org/wiki/%E4%B8%83%E3%82%B7%E3%82%B3%E3%83%96%E3%83%81) — 來源分類：Category:日本の妖怪 > 河童
+- [ ] **口寄せ**（日語，原始碼 5,794 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%8F%A3%E5%AF%84%E3%81%9B) — 來源分類：Category:シャーマニズム
+- [ ] **アイリーン・ギャレット**（日語，原始碼 5,791 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%BB%E3%82%AE%E3%83%A3%E3%83%AC%E3%83%83%E3%83%88) — 來源分類：Category:シャーマニズム > 霊媒師
+- [ ] **ヨハン・ファウスト**（日語，原始碼 5,779 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%8F%E3%83%B3%E3%83%BB%E3%83%95%E3%82%A1%E3%82%A6%E3%82%B9%E3%83%88) — 來源分類：Category:呪術 > 魔術師
+- [ ] **周新**（中文，原始碼 5,779 位元組）— [原文](https://zh.wikipedia.org/wiki/%E5%91%A8%E6%96%B0) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **黃薩滿教**（中文，原始碼 5,772 位元組）— [原文](https://zh.wikipedia.org/wiki/%E9%BB%83%E8%96%A9%E6%BB%BF%E6%95%99) — 來源分類：Category:薩滿教
+- [ ] **郭虾蟆**（中文，原始碼 5,768 位元組）— [原文](https://zh.wikipedia.org/wiki/%E9%83%AD%E8%99%BE%E8%9F%86) — 來源分類：Category:中國民間信仰 > 城隍
+- [ ] **ダニエル・ダングラス・ホーム**（日語，原始碼 5,749 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%8B%E3%82%A8%E3%83%AB%E3%83%BB%E3%83%80%E3%83%B3%E3%82%B0%E3%83%A9%E3%82%B9%E3%83%BB%E3%83%9B%E3%83%BC%E3%83%A0) — 來源分類：Category:シャーマニズム > 霊媒師
+- [ ] **付喪神絵巻**（日語，原始碼 5,727 位元組）— [原文](https://ja.wikipedia.org/wiki/%E4%BB%98%E5%96%AA%E7%A5%9E%E7%B5%B5%E5%B7%BB) — 來源分類：Category:日本の妖怪 > 付喪神
+- [ ] **몽환시**（韓語，原始碼 5,706 位元組）— [原文](https://ko.wikipedia.org/wiki/%EB%AA%BD%ED%99%98%EC%8B%9C) — 來源分類：분류:샤머니즘 > 애니미즘
+- [ ] **家原郷好**（日語，原始碼 5,701 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%AE%B6%E5%8E%9F%E9%83%B7%E5%A5%BD) — 來源分類：Category:陰陽道 > 陰陽師
+- [ ] **Galdr**（西班牙語，原始碼 5,689 位元組）— [原文](https://es.wikipedia.org/wiki/Galdr) — 來源分類：Categoría:Brujería
+- [ ] **ノツゴ**（日語，原始碼 5,680 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%84%E3%82%B4) — 來源分類：Category:シャーマニズム > 憑き物
+- [ ] **太姥山**（中文，原始碼 5,680 位元組）— [原文](https://zh.wikipedia.org/wiki/%E5%A4%AA%E5%A7%A5%E5%B1%B1) — 來源分類：Category:中國民間信仰 > 福建民間信仰
+- [ ] **De la démonomanie des sorciers**（法語，原始碼 5,674 位元組）— [原文](https://fr.wikipedia.org/wiki/De_la_d%C3%A9monomanie_des_sorciers) — 來源分類：Catégorie:Sorcellerie
+- [ ] **水野軍記**（日語，原始碼 5,674 位元組）— [原文](https://ja.wikipedia.org/wiki/%E6%B0%B4%E9%87%8E%E8%BB%8D%E8%A8%98) — 來源分類：Category:陰陽道 > 陰陽師
+- [ ] **三聖石**（中文，原始碼 5,668 位元組）— [原文](https://zh.wikipedia.org/wiki/%E4%B8%89%E8%81%96%E7%9F%B3) — 來源分類：Category:中國民間信仰 > 香港民間信仰
+- [ ] **提灯お化け**（日語，原始碼 5,667 位元組）— [原文](https://ja.wikipedia.org/wiki/%E6%8F%90%E7%81%AF%E3%81%8A%E5%8C%96%E3%81%91) — 來源分類：Category:日本の妖怪 > 付喪神
+- [ ] **安倍国道**（日語，原始碼 5,635 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%AE%89%E5%80%8D%E5%9B%BD%E9%81%93) — 來源分類：Category:陰陽道 > 陰陽師
+- [ ] **ネクロマンシー**（日語，原始碼 5,634 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AF%E3%83%AD%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%BC) — 來源分類：Category:呪術
+- [ ] **Mona (leyenda)**（西班牙語，原始碼 5,624 位元組）— [原文](https://es.wikipedia.org/wiki/Mona_%28leyenda%29) — 來源分類：Categoría:Brujería
+- [ ] **夜行さん**（日語，原始碼 5,621 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%A4%9C%E8%A1%8C%E3%81%95%E3%82%93) — 來源分類：Category:日本の妖怪 > 鬼
+- [ ] **와룡묘**（韓語，原始碼 5,621 位元組）— [原文](https://ko.wikipedia.org/wiki/%EC%99%80%EB%A3%A1%EB%AC%98) — 來源分類：분류:무속 > 도무습합
+- [ ] **山家公頼**（日語，原始碼 5,611 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%AE%B6%E5%85%AC%E9%A0%BC) — 來源分類：Category:陰陽道 > 日本の神 (人物神 御霊信仰)
+- [ ] **隙間女**（日語，原始碼 5,591 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%9A%99%E9%96%93%E5%A5%B3) — 來源分類：Category:日本の妖怪 > 日本の都市伝説の妖怪
+- [ ] **風雞 (厭勝物)**（中文，原始碼 5,588 位元組）— [原文](https://zh.wikipedia.org/wiki/%E9%A2%A8%E9%9B%9E_%28%E5%8E%AD%E5%8B%9D%E7%89%A9%29) — 來源分類：Category:中國民間信仰 > 福建民間信仰
+- [ ] **天逆毎**（日語，原始碼 5,579 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%A4%A9%E9%80%86%E6%AF%8E) — 來源分類：Category:日本の妖怪 > 天狗
+- [ ] **키케온**（韓語，原始碼 5,578 位元組）— [原文](https://ko.wikipedia.org/wiki/%ED%82%A4%EC%BC%80%EC%98%A8) — 來源分類：분류:샤머니즘 > 의식용 환각제
+- [ ] **御霊会**（日語，原始碼 5,570 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%BE%A1%E9%9C%8A%E4%BC%9A) — 來源分類：Category:陰陽道 > 御霊信仰
+- [ ] **Envoûtement**（法語，原始碼 5,565 位元組）— [原文](https://fr.wikipedia.org/wiki/Envo%C3%BBtement) — 來源分類：Catégorie:Sorcellerie
+- [ ] **王伯沆**（中文，原始碼 5,564 位元組）— [原文](https://zh.wikipedia.org/wiki/%E7%8E%8B%E4%BC%AF%E6%B2%86) — 來源分類：Category:中國民間信仰 > 太谷学派
+- [ ] **Witch window**（西班牙語，原始碼 5,545 位元組）— [原文](https://es.wikipedia.org/wiki/Witch_window) — 來源分類：Categoría:Brujería
+- [ ] **鬼の館**（日語，原始碼 5,545 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%AC%BC%E3%81%AE%E9%A4%A8) — 來源分類：Category:日本の妖怪 > 鬼
+- [ ] **Marché des Sorcières**（法語，原始碼 5,533 位元組）— [原文](https://fr.wikipedia.org/wiki/March%C3%A9_des_Sorci%C3%A8res) — 來源分類：Catégorie:Sorcellerie
+- [ ] **躉符**（中文，原始碼 5,524 位元組）— [原文](https://zh.wikipedia.org/wiki/%E8%BA%89%E7%AC%A6) — 來源分類：Category:中國民間信仰 > 中国民间祭祀活动
+- [ ] **九字護身法**（日語，原始碼 5,522 位元組）— [原文](https://ja.wikipedia.org/wiki/%E4%B9%9D%E5%AD%97%E8%AD%B7%E8%BA%AB%E6%B3%95) — 來源分類：Category:呪術
+- [ ] **紀信**（中文，原始碼 5,500 位元組）— [原文](https://zh.wikipedia.org/wiki/%E7%B4%80%E4%BF%A1) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **レイ・シャーウィン**（日語，原始碼 5,461 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%A4%E3%83%BB%E3%82%B7%E3%83%A3%E3%83%BC%E3%82%A6%E3%82%A3%E3%83%B3) — 來源分類：Category:呪術 > ケイオスマジック
+- [ ] **ウォーロック**（日語，原始碼 5,447 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AD%E3%83%83%E3%82%AF) — 來源分類：Category:呪術 > 魔女
+- [ ] **コットン・マザー**（日語，原始碼 5,443 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%83%E3%83%88%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%B6%E3%83%BC) — 來源分類：Category:呪術
+- [ ] **Retna Dumilla**（義大利語，原始碼 5,440 位元組）— [原文](https://it.wikipedia.org/wiki/Retna_Dumilla) — 來源分類：Categoria:Stregoneria
+- [ ] **御霊神社**（日語，原始碼 5,419 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%BE%A1%E9%9C%8A%E7%A5%9E%E7%A4%BE) — 來源分類：Category:陰陽道 > 御霊信仰
+- [ ] **Allegoria di Ercole**（義大利語，原始碼 5,417 位元組）— [原文](https://it.wikipedia.org/wiki/Allegoria_di_Ercole) — 來源分類：Categoria:Stregoneria
+- [ ] **Mago Negro**（西班牙語，原始碼 5,415 位元組）— [原文](https://es.wikipedia.org/wiki/Mago_Negro) — 來源分類：Categoría:Brujería
+- [ ] **五行大義**（日語，原始碼 5,414 位元組）— [原文](https://ja.wikipedia.org/wiki/%E4%BA%94%E8%A1%8C%E5%A4%A7%E7%BE%A9) — 來源分類：Category:呪術 > 陰陽道
+- [ ] **康元帥**（中文，原始碼 5,414 位元組）— [原文](https://zh.wikipedia.org/wiki/%E5%BA%B7%E5%85%83%E5%B8%A5) — 來源分類：Category:中國民間信仰 > 香港民間信仰
+- [ ] **小豆婆**（日語，原始碼 5,404 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%B0%8F%E8%B1%86%E5%A9%86) — 來源分類：Category:日本の妖怪
+- [ ] **ブックカース**（日語，原始碼 5,401 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%83%E3%82%AF%E3%82%AB%E3%83%BC%E3%82%B9) — 來源分類：Category:呪術
+- [ ] **배뱅이굿**（韓語，原始碼 5,400 位元組）— [原文](https://ko.wikipedia.org/wiki/%EB%B0%B0%EB%B1%85%EC%9D%B4%EA%B5%BF) — 來源分類：분류:무속 > 무속 신화
+- [ ] **Blocksberg (Berg)**（德語，原始碼 5,397 位元組）— [原文](https://de.wikipedia.org/wiki/Blocksberg_%28Berg%29) — 來源分類：Kategorie:Hexenverfolgung
+- [ ] **계족산 무제**（韓語，原始碼 5,392 位元組）— [原文](https://ko.wikipedia.org/wiki/%EA%B3%84%EC%A1%B1%EC%82%B0_%EB%AC%B4%EC%A0%9C) — 來源分類：분류:무속 > 무속 의식
+- [ ] **百花仙子**（中文，原始碼 5,389 位元組）— [原文](https://zh.wikipedia.org/wiki/%E7%99%BE%E8%8A%B1%E4%BB%99%E5%AD%90) — 來源分類：Category:中國民間信仰 > 中国民间信仰神祇
+- [ ] **실로시빈**（韓語，原始碼 5,387 位元組）— [原文](https://ko.wikipedia.org/wiki/%EC%8B%A4%EB%A1%9C%EC%8B%9C%EB%B9%88) — 來源分類：분류:샤머니즘 > 의식용 환각제
+- [ ] **Humbert de Costa**（法語，原始碼 5,378 位元組）— [原文](https://fr.wikipedia.org/wiki/Humbert_de_Costa) — 來源分類：Catégorie:Sorcellerie
+- [ ] **明鬼**（中文，原始碼 5,373 位元組）— [原文](https://zh.wikipedia.org/wiki/%E6%98%8E%E9%AC%BC) — 來源分類：Category:中國民間信仰
+- [ ] **平良門**（日語，原始碼 5,358 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%B9%B3%E8%89%AF%E9%96%80) — 來源分類：Category:日本の妖怪
+- [ ] **ドン・ファンの教え**（日語，原始碼 5,346 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%B3%E3%83%BB%E3%83%95%E3%82%A1%E3%83%B3%E3%81%AE%E6%95%99%E3%81%88) — 來源分類：Category:シャーマニズム
+- [ ] **綾里春美**（日語，原始碼 5,344 位元組）— [原文](https://ja.wikipedia.org/wiki/%E7%B6%BE%E9%87%8C%E6%98%A5%E7%BE%8E) — 來源分類：Category:シャーマニズム > 霊媒師
+- [ ] **ゲドウ**（日語，原始碼 5,342 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%B2%E3%83%89%E3%82%A6) — 來源分類：Category:シャーマニズム > 憑き物
+- [ ] **猿猴川**（日語，原始碼 5,342 位元組）— [原文](https://ja.wikipedia.org/wiki/%E7%8C%BF%E7%8C%B4%E5%B7%9D) — 來源分類：Category:日本の妖怪 > 河童
+- [ ] **土御門晴雄**（日語，原始碼 5,333 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%9C%9F%E5%BE%A1%E9%96%80%E6%99%B4%E9%9B%84) — 來源分類：Category:陰陽道 > 陰陽師
+- [ ] **世界軸**（日語，原始碼 5,333 位元組）— [原文](https://ja.wikipedia.org/wiki/%E4%B8%96%E7%95%8C%E8%BB%B8) — 來源分類：Category:シャーマニズム
+- [ ] **逢魔時**（日語，原始碼 5,326 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%80%A2%E9%AD%94%E6%99%82) — 來源分類：Category:日本の妖怪
+- [ ] **月宿**（日語，原始碼 5,321 位元組）— [原文](https://ja.wikipedia.org/wiki/%E6%9C%88%E5%AE%BF) — 來源分類：Category:呪術 > 陰陽道
+- [ ] **うりこひめとあまのじゃく**（日語，原始碼 5,315 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%81%86%E3%82%8A%E3%81%93%E3%81%B2%E3%82%81%E3%81%A8%E3%81%82%E3%81%BE%E3%81%AE%E3%81%98%E3%82%83%E3%81%8F) — 來源分類：Category:日本の妖怪 > 鬼
+- [ ] **黃沙會**（中文，原始碼 5,309 位元組）— [原文](https://zh.wikipedia.org/wiki/%E9%BB%83%E6%B2%99%E6%9C%83) — 來源分類：Category:中國民間信仰 > 無生老母崇拜
+- [ ] **Streghe di Zugarramurdi**（義大利語，原始碼 5,308 位元組）— [原文](https://it.wikipedia.org/wiki/Streghe_di_Zugarramurdi) — 來源分類：Categoria:Stregoneria > Processi per stregoneria
+- [ ] **Anna Klemens**（法語，原始碼 5,303 位元組）— [原文](https://fr.wikipedia.org/wiki/Anna_Klemens) — 來源分類：Catégorie:Sorcellerie > Personne persécutée pour sorcellerie
+- [ ] **生邪魔**（日語，原始碼 5,292 位元組）— [原文](https://ja.wikipedia.org/wiki/%E7%94%9F%E9%82%AA%E9%AD%94) — 來源分類：Category:呪術
+- [ ] **魔術師の一覧**（日語，原始碼 5,292 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%AD%94%E8%A1%93%E5%B8%AB%E3%81%AE%E4%B8%80%E8%A6%A7) — 來源分類：Category:呪術 > 魔術師
+- [ ] **ウィリアム・トーマス・ステッド**（日語，原始碼 5,277 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%A2%E3%83%A0%E3%83%BB%E3%83%88%E3%83%BC%E3%83%9E%E3%82%B9%E3%83%BB%E3%82%B9%E3%83%86%E3%83%83%E3%83%89) — 來源分類：Category:シャーマニズム > 霊媒師
+- [ ] **金平鹿**（日語，原始碼 5,272 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%87%91%E5%B9%B3%E9%B9%BF) — 來源分類：Category:日本の妖怪 > 鬼
+- [ ] **九天聖帝**（中文，原始碼 5,259 位元組）— [原文](https://zh.wikipedia.org/wiki/%E4%B9%9D%E5%A4%A9%E8%81%96%E5%B8%9D) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **Salamanca (leyenda)**（西班牙語，原始碼 5,253 位元組）— [原文](https://es.wikipedia.org/wiki/Salamanca_%28leyenda%29) — 來源分類：Categoría:Brujería
+- [ ] **Teufelsbuhlschaft**（德語，原始碼 5,247 位元組）— [原文](https://de.wikipedia.org/wiki/Teufelsbuhlschaft) — 來源分類：Kategorie:Hexenverfolgung
+- [ ] **Brian P. Levack**（德語，原始碼 5,225 位元組）— [原文](https://de.wikipedia.org/wiki/Brian_P._Levack) — 來源分類：Kategorie:Hexenverfolgung
+- [ ] **Sobre la demonomanía de los brujos**（西班牙語，原始碼 5,199 位元組）— [原文](https://es.wikipedia.org/wiki/Sobre_la_demonoman%C3%ADa_de_los_brujos) — 來源分類：Categoría:Brujería
+- [ ] **カシマさん**（日語，原始碼 5,192 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%B7%E3%83%9E%E3%81%95%E3%82%93) — 來源分類：Category:日本の妖怪 > 日本の都市伝説の妖怪
+- [ ] **餓鬼憑き**（日語，原始碼 5,175 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%A4%93%E9%AC%BC%E6%86%91%E3%81%8D) — 來源分類：Category:シャーマニズム > 憑き物
+- [ ] **安溪城隍**（中文，原始碼 5,170 位元組）— [原文](https://zh.wikipedia.org/wiki/%E5%AE%89%E6%BA%AA%E5%9F%8E%E9%9A%8D) — 來源分類：Category:中國民間信仰 > 福建民間信仰
+- [ ] **關平**（中文，原始碼 5,162 位元組）— [原文](https://zh.wikipedia.org/wiki/%E9%97%9C%E5%B9%B3) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **青女房 (妖怪)**（日語，原始碼 5,152 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%9D%92%E5%A5%B3%E6%88%BF_%28%E5%A6%96%E6%80%AA%29) — 來源分類：Category:日本の妖怪
+- [ ] **Þórbjörg lítilvölva**（西班牙語，原始碼 5,133 位元組）— [原文](https://es.wikipedia.org/wiki/%C3%9E%C3%B3rbj%C3%B6rg_l%C3%ADtilv%C3%B6lva) — 來源分類：Categoría:Brujería
+- [ ] **Gato negro**（西班牙語，原始碼 5,128 位元組）— [原文](https://es.wikipedia.org/wiki/Gato_negro) — 來源分類：Categoría:Brujería
+- [ ] **クンネチカプ**（日語，原始碼 5,119 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%B3%E3%83%8D%E3%83%81%E3%82%AB%E3%83%97) — 來源分類：Category:日本の妖怪
+- [ ] **隠れ座頭**（日語，原始碼 5,111 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%9A%A0%E3%82%8C%E5%BA%A7%E9%A0%AD) — 來源分類：Category:日本の妖怪
+- [ ] **黃府千歲**（中文，原始碼 5,106 位元組）— [原文](https://zh.wikipedia.org/wiki/%E9%BB%83%E5%BA%9C%E5%8D%83%E6%AD%B2) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **鬼道**（日語，原始碼 5,103 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%AC%BC%E9%81%93) — 來源分類：Category:シャーマニズム
+- [ ] **Dorothea Flock**（德語，原始碼 5,094 位元組）— [原文](https://de.wikipedia.org/wiki/Dorothea_Flock) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung in Bamberg
+- [ ] **Allégorie d'Hercule**（法語，原始碼 5,094 位元組）— [原文](https://fr.wikipedia.org/wiki/All%C3%A9gorie_d%27Hercule) — 來源分類：Catégorie:Sorcellerie
+- [ ] **天狗攫い**（日語，原始碼 5,092 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%A4%A9%E7%8B%97%E6%94%AB%E3%81%84) — 來源分類：Category:日本の妖怪 > 天狗
+- [ ] **선바위 (서울)**（韓語，原始碼 5,089 位元組）— [原文](https://ko.wikipedia.org/wiki/%EC%84%A0%EB%B0%94%EC%9C%84_%28%EC%84%9C%EC%9A%B8%29) — 來源分類：분류:무속 > 무속 성지
+- [ ] **ローズマリー・ブラウン**（日語，原始碼 5,088 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%82%BA%E3%83%9E%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3) — 來源分類：Category:シャーマニズム > 霊媒師
+- [ ] **이타코**（韓語，原始碼 5,086 位元組）— [原文](https://ko.wikipedia.org/wiki/%EC%9D%B4%ED%83%80%EC%BD%94) — 來源分類：분류:샤머니즘
+- [ ] **カッパ淵**（日語，原始碼 5,078 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%83%E3%83%91%E6%B7%B5) — 來源分類：Category:日本の妖怪 > 河童
+- [ ] **林瞪**（中文，原始碼 5,073 位元組）— [原文](https://zh.wikipedia.org/wiki/%E6%9E%97%E7%9E%AA) — 來源分類：Category:中國民間信仰 > 福建民間信仰
+- [ ] **産怪**（日語，原始碼 5,071 位元組）— [原文](https://ja.wikipedia.org/wiki/%E7%94%A3%E6%80%AA) — 來源分類：Category:日本の妖怪
+- [ ] **往生呪**（日語，原始碼 5,070 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%BE%80%E7%94%9F%E5%91%AA) — 來源分類：Category:呪術 > 陀羅尼
+- [ ] **川赤子**（日語，原始碼 5,053 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%B7%9D%E8%B5%A4%E5%AD%90) — 來源分類：Category:日本の妖怪 > 河童
+- [ ] **バレンタインデーの呪い**（日語，原始碼 5,051 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%AC%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%B3%E3%83%87%E3%83%BC%E3%81%AE%E5%91%AA%E3%81%84) — 來源分類：Category:呪術
+- [ ] **ハムサ**（日語，原始碼 5,049 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%A0%E3%82%B5) — 來源分類：Category:呪術
+- [ ] **祖神**（日語，原始碼 5,040 位元組）— [原文](https://ja.wikipedia.org/wiki/%E7%A5%96%E7%A5%9E) — 來源分類：Category:陰陽道 > 御霊信仰
+- [ ] **女天狗**（日語，原始碼 5,037 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%A5%B3%E5%A4%A9%E7%8B%97) — 來源分類：Category:日本の妖怪 > 天狗
+- [ ] **景清**（中文，原始碼 5,035 位元組）— [原文](https://zh.wikipedia.org/wiki/%E6%99%AF%E6%B8%85) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **林兆恩**（中文，原始碼 5,031 位元組）— [原文](https://zh.wikipedia.org/wiki/%E6%9E%97%E5%85%86%E6%81%A9) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **李秀 (晋朝)**（中文，原始碼 5,023 位元組）— [原文](https://zh.wikipedia.org/wiki/%E6%9D%8E%E7%A7%80_%28%E6%99%8B%E6%9C%9D%29) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **エヴァ・カリエール**（日語，原始碼 5,021 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%BB%E3%82%AB%E3%83%AA%E3%82%A8%E3%83%BC%E3%83%AB) — 來源分類：Category:シャーマニズム > 霊媒師
+- [ ] **ヘレン・ダンカン**（日語，原始碼 5,008 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%98%E3%83%AC%E3%83%B3%E3%83%BB%E3%83%80%E3%83%B3%E3%82%AB%E3%83%B3) — 來源分類：Category:シャーマニズム > 霊媒師
+- [ ] **나 (미얀마)**（韓語，原始碼 5,001 位元組）— [原文](https://ko.wikipedia.org/wiki/%EB%82%98_%28%EB%AF%B8%EC%96%80%EB%A7%88%29) — 來源分類：분류:샤머니즘 > 애니미즘
+- [ ] **ルーン魔術**（日語，原始碼 4,995 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%BC%E3%83%B3%E9%AD%94%E8%A1%93) — 來源分類：Category:呪術
+- [ ] **Super Illius Specula**（法語，原始碼 4,986 位元組）— [原文](https://fr.wikipedia.org/wiki/Super_Illius_Specula) — 來源分類：Catégorie:Sorcellerie
+- [ ] **籃姑**（中文，原始碼 4,974 位元組）— [原文](https://zh.wikipedia.org/wiki/%E7%B1%83%E5%A7%91) — 來源分類：Category:中國民間信仰 > 福建民間信仰
+- [ ] **トウビョウ**（日語，原始碼 4,971 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%88%E3%82%A6%E3%83%93%E3%83%A7%E3%82%A6) — 來源分類：Category:シャーマニズム > 憑き物
+- [ ] **エマ・ハーディング・ブリテン**（日語，原始碼 4,971 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%9E%E3%83%BB%E3%83%8F%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%BB%E3%83%96%E3%83%AA%E3%83%86%E3%83%B3) — 來源分類：Category:シャーマニズム > 霊媒師
+- [ ] **パウチカムイ**（日語，原始碼 4,942 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%A6%E3%83%81%E3%82%AB%E3%83%A0%E3%82%A4) — 來源分類：Category:シャーマニズム > 憑き物
+- [ ] **벨라돈나풀**（韓語，原始碼 4,923 位元組）— [原文](https://ko.wikipedia.org/wiki/%EB%B2%A8%EB%9D%BC%EB%8F%88%EB%82%98%ED%92%80) — 來源分類：분류:샤머니즘 > 의식용 환각제
+- [ ] **강릉 단오제**（韓語，原始碼 4,922 位元組）— [原文](https://ko.wikipedia.org/wiki/%EA%B0%95%EB%A6%89_%EB%8B%A8%EC%98%A4%EC%A0%9C) — 來源分類：분류:무속 > 무속 축제
+- [ ] **David et Jonathas**（西班牙語，原始碼 4,914 位元組）— [原文](https://es.wikipedia.org/wiki/David_et_Jonathas) — 來源分類：Categoría:Brujería > Bruja de Endor
+- [ ] **산신**（韓語，原始碼 4,913 位元組）— [原文](https://ko.wikipedia.org/wiki/%EC%82%B0%EC%8B%A0) — 來源分類：분류:무속 > 무불습합
+- [ ] **うわん**（日語，原始碼 4,911 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%81%86%E3%82%8F%E3%82%93) — 來源分類：Category:日本の妖怪 > 妖怪絵巻の妖怪
+- [ ] **光明真言**（日語，原始碼 4,907 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%85%89%E6%98%8E%E7%9C%9F%E8%A8%80) — 來源分類：Category:呪術 > 陀羅尼
+- [ ] **お化けかるた**（日語，原始碼 4,890 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%81%8A%E5%8C%96%E3%81%91%E3%81%8B%E3%82%8B%E3%81%9F) — 來源分類：Category:日本の妖怪
+- [ ] **Goa Gajah**（義大利語，原始碼 4,889 位元組）— [原文](https://it.wikipedia.org/wiki/Goa_Gajah) — 來源分類：Categoria:Stregoneria
+- [ ] **Hellawes**（西班牙語，原始碼 4,882 位元組）— [原文](https://es.wikipedia.org/wiki/Hellawes) — 來源分類：Categoría:Brujería
+- [ ] **転バシ**（日語，原始碼 4,879 位元組）— [原文](https://ja.wikipedia.org/wiki/%E8%BB%A2%E3%83%90%E3%82%B7) — 來源分類：Category:日本の妖怪
+- [ ] **히오스신**（韓語，原始碼 4,866 位元組）— [原文](https://ko.wikipedia.org/wiki/%ED%9E%88%EC%98%A4%EC%8A%A4%EC%8B%A0) — 來源分類：분류:샤머니즘 > 의식용 환각제
+- [ ] **観勒**（日語，原始碼 4,838 位元組）— [原文](https://ja.wikipedia.org/wiki/%E8%A6%B3%E5%8B%92) — 來源分類：Category:呪術 > 陰陽道
+- [ ] **座敷坊主**（日語，原始碼 4,838 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%BA%A7%E6%95%B7%E5%9D%8A%E4%B8%BB) — 來源分類：Category:日本の妖怪 > 座敷童子
+- [ ] **Christina Morhaubt**（德語，原始碼 4,836 位元組）— [原文](https://de.wikipedia.org/wiki/Christina_Morhaubt) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung in Bamberg
+- [ ] **田口真堂**（日語，原始碼 4,834 位元組）— [原文](https://ja.wikipedia.org/wiki/%E7%94%B0%E5%8F%A3%E7%9C%9F%E5%A0%82) — 來源分類：Category:呪術 > 魔術師
+- [ ] **パブロ・アマリンゴ**（日語，原始碼 4,811 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%96%E3%83%AD%E3%83%BB%E3%82%A2%E3%83%9E%E3%83%AA%E3%83%B3%E3%82%B4) — 來源分類：Category:シャーマニズム > アメリカ大陸におけるシャーマニズム
+- [ ] **De praestigiis daemonum**（西班牙語，原始碼 4,810 位元組）— [原文](https://es.wikipedia.org/wiki/De_praestigiis_daemonum) — 來源分類：Categoría:Brujería
+- [ ] **大春日真野麻呂**（日語，原始碼 4,803 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%98%A5%E6%97%A5%E7%9C%9F%E9%87%8E%E9%BA%BB%E5%91%82) — 來源分類：Category:陰陽道 > 陰陽師
+- [ ] **暦道**（日語，原始碼 4,802 位元組）— [原文](https://ja.wikipedia.org/wiki/%E6%9A%A6%E9%81%93) — 來源分類：Category:陰陽道 > 陰陽寮
+- [ ] **甘輝**（中文，原始碼 4,799 位元組）— [原文](https://zh.wikipedia.org/wiki/%E7%94%98%E8%BC%9D) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **方違え**（日語，原始碼 4,798 位元組）— [原文](https://ja.wikipedia.org/wiki/%E6%96%B9%E9%81%95%E3%81%88) — 來源分類：Category:呪術 > 陰陽道
+- [ ] **フローレンス・クック**（日語，原始碼 4,795 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AD%E3%83%BC%E3%83%AC%E3%83%B3%E3%82%B9%E3%83%BB%E3%82%AF%E3%83%83%E3%82%AF) — 來源分類：Category:シャーマニズム > 霊媒師
+- [ ] **大江山酒呑童子祭り**（日語，原始碼 4,785 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%B1%9F%E5%B1%B1%E9%85%92%E5%91%91%E7%AB%A5%E5%AD%90%E7%A5%AD%E3%82%8A) — 來源分類：Category:日本の妖怪 > 鬼
+- [ ] **Sombrero de bruja**（西班牙語，原始碼 4,782 位元組）— [原文](https://es.wikipedia.org/wiki/Sombrero_de_bruja) — 來源分類：Categoría:Brujería
+- [ ] **蠱毒**（日語，原始碼 4,766 位元組）— [原文](https://ja.wikipedia.org/wiki/%E8%A0%B1%E6%AF%92) — 來源分類：Category:呪術
+- [ ] **妖怪神社**（日語，原始碼 4,759 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%A6%96%E6%80%AA%E7%A5%9E%E7%A4%BE) — 來源分類：Category:日本の妖怪
+- [ ] **シラミ (妖怪)**（日語，原始碼 4,753 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A9%E3%83%9F_%28%E5%A6%96%E6%80%AA%29) — 來源分類：Category:日本の妖怪
+- [ ] **Nangluk merana**（義大利語，原始碼 4,752 位元組）— [原文](https://it.wikipedia.org/wiki/Nangluk_merana) — 來源分類：Categoria:Stregoneria
+- [ ] **人面魚**（日語，原始碼 4,751 位元組）— [原文](https://ja.wikipedia.org/wiki/%E4%BA%BA%E9%9D%A2%E9%AD%9A) — 來源分類：Category:日本の妖怪 > 日本の都市伝説の妖怪
+- [ ] **Torre delle streghe**（義大利語，原始碼 4,742 位元組）— [原文](https://it.wikipedia.org/wiki/Torre_delle_streghe) — 來源分類：Categoria:Stregoneria
+- [ ] **黃帝祭**（中文，原始碼 4,741 位元組）— [原文](https://zh.wikipedia.org/wiki/%E9%BB%83%E5%B8%9D%E7%A5%AD) — 來源分類：Category:中國民間信仰
+- [ ] **マイケル・ティー・ヤマグチ**（日語，原始碼 4,727 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%A4%E3%82%B1%E3%83%AB%E3%83%BB%E3%83%86%E3%82%A3%E3%83%BC%E3%83%BB%E3%83%A4%E3%83%9E%E3%82%B0%E3%83%81) — 來源分類：Category:呪術 > ゾンビ
+- [ ] **미르체아 엘리아데**（韓語，原始碼 4,713 位元組）— [原文](https://ko.wikipedia.org/wiki/%EB%AF%B8%EB%A5%B4%EC%B2%B4%EC%95%84_%EC%97%98%EB%A6%AC%EC%95%84%EB%8D%B0) — 來源分類：분류:샤머니즘
+- [ ] **溫太保**（中文，原始碼 4,712 位元組）— [原文](https://zh.wikipedia.org/wiki/%E6%BA%AB%E5%A4%AA%E4%BF%9D) — 來源分類：Category:中國民間信仰 > 中国民间信仰神祇
+- [ ] **崔府君**（中文，原始碼 4,698 位元組）— [原文](https://zh.wikipedia.org/wiki/%E5%B4%94%E5%BA%9C%E5%90%9B) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **祟り神**（日語，原始碼 4,692 位元組）— [原文](https://ja.wikipedia.org/wiki/%E7%A5%9F%E3%82%8A%E7%A5%9E) — 來源分類：Category:陰陽道 > 御霊信仰
+- [ ] **阿久留王**（日語，原始碼 4,691 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%98%BF%E4%B9%85%E7%95%99%E7%8E%8B) — 來源分類：Category:日本の妖怪 > 鬼
+- [ ] **苧うに**（日語，原始碼 4,670 位元組）— [原文](https://ja.wikipedia.org/wiki/%E8%8B%A7%E3%81%86%E3%81%AB) — 來源分類：Category:日本の妖怪 > 妖怪絵巻の妖怪
+- [ ] **壮傣民族民间信仰**（中文，原始碼 4,669 位元組）— [原文](https://zh.wikipedia.org/wiki/%E5%A3%AE%E5%82%A3%E6%B0%91%E6%97%8F%E6%B0%91%E9%97%B4%E4%BF%A1%E4%BB%B0) — 來源分類：Category:薩滿教
+- [ ] **盜跖**（中文，原始碼 4,661 位元組）— [原文](https://zh.wikipedia.org/wiki/%E7%9B%9C%E8%B7%96) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **龍山堂邱公司**（中文，原始碼 4,648 位元組）— [原文](https://zh.wikipedia.org/wiki/%E9%BE%8D%E5%B1%B1%E5%A0%82%E9%82%B1%E5%85%AC%E5%8F%B8) — 來源分類：Category:中國民間信仰 > 祠堂
+- [ ] **ナワル**（日語，原始碼 4,644 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%AF%E3%83%AB) — 來源分類：Category:シャーマニズム > アメリカ大陸におけるシャーマニズム
+- [ ] **三一教**（中文，原始碼 4,641 位元組）— [原文](https://zh.wikipedia.org/wiki/%E4%B8%89%E4%B8%80%E6%95%99) — 來源分類：Category:中國民間信仰 > 三教
+- [ ] **Grimhilda**（西班牙語，原始碼 4,639 位元組）— [原文](https://es.wikipedia.org/wiki/Grimhilda) — 來源分類：Categoría:Brujería
+- [ ] **Pseudomonarchia daemonum**（西班牙語，原始碼 4,632 位元組）— [原文](https://es.wikipedia.org/wiki/Pseudomonarchia_daemonum) — 來源分類：Categoría:Brujería
+- [ ] **馬仁**（中文，原始碼 4,629 位元組）— [原文](https://zh.wikipedia.org/wiki/%E9%A6%AC%E4%BB%81) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **ペルシアのシビュラ**（日語，原始碼 4,628 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%AB%E3%82%B7%E3%82%A2%E3%81%AE%E3%82%B7%E3%83%93%E3%83%A5%E3%83%A9) — 來源分類：Category:シャーマニズム > シビュラ
+- [ ] **星官**（中文，原始碼 4,616 位元組）— [原文](https://zh.wikipedia.org/wiki/%E6%98%9F%E5%AE%98) — 來源分類：Category:中國民間信仰
+- [ ] **伯益**（中文，原始碼 4,616 位元組）— [原文](https://zh.wikipedia.org/wiki/%E4%BC%AF%E7%9B%8A) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **安倍泰長**（日語，原始碼 4,609 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%AE%89%E5%80%8D%E6%B3%B0%E9%95%B7) — 來源分類：Category:陰陽道 > 陰陽師
+- [ ] **鬼童丸**（日語，原始碼 4,607 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%AC%BC%E7%AB%A5%E4%B8%B8) — 來源分類：Category:日本の妖怪 > 鬼
+- [ ] **羅刹天**（日語，原始碼 4,601 位元組）— [原文](https://ja.wikipedia.org/wiki/%E7%BE%85%E5%88%B9%E5%A4%A9) — 來源分類：Category:日本の妖怪 > 鬼
+- [ ] **劉海蟾**（中文，原始碼 4,599 位元組）— [原文](https://zh.wikipedia.org/wiki/%E5%8A%89%E6%B5%B7%E8%9F%BE) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **哭贴**（中文，原始碼 4,593 位元組）— [原文](https://zh.wikipedia.org/wiki/%E5%93%AD%E8%B4%B4) — 來源分類：Category:中國民間信仰
+- [ ] **一粒万倍日**（日語，原始碼 4,591 位元組）— [原文](https://ja.wikipedia.org/wiki/%E4%B8%80%E7%B2%92%E4%B8%87%E5%80%8D%E6%97%A5) — 來源分類：Category:呪術 > 陰陽道
+- [ ] **林堯俞**（中文，原始碼 4,587 位元組）— [原文](https://zh.wikipedia.org/wiki/%E6%9E%97%E5%A0%AF%E4%BF%9E) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **十一面観世音菩薩随願即得陀羅尼経**（日語，原始碼 4,571 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%8D%81%E4%B8%80%E9%9D%A2%E8%A6%B3%E4%B8%96%E9%9F%B3%E8%8F%A9%E8%96%A9%E9%9A%8F%E9%A1%98%E5%8D%B3%E5%BE%97%E9%99%80%E7%BE%85%E5%B0%BC%E7%B5%8C) — 來源分類：Category:呪術 > 陀羅尼
+- [ ] **Hora de las brujas**（西班牙語，原始碼 4,569 位元組）— [原文](https://es.wikipedia.org/wiki/Hora_de_las_brujas) — 來源分類：Categoría:Brujería
+- [ ] **魔縁**（日語，原始碼 4,569 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%AD%94%E7%B8%81) — 來源分類：Category:日本の妖怪 > 天狗
+- [ ] **练氏夫人**（中文，原始碼 4,561 位元組）— [原文](https://zh.wikipedia.org/wiki/%E7%BB%83%E6%B0%8F%E5%A4%AB%E4%BA%BA) — 來源分類：Category:中國民間信仰 > 福建民間信仰
+- [ ] **川天狗**（日語，原始碼 4,556 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%B7%9D%E5%A4%A9%E7%8B%97) — 來源分類：Category:日本の妖怪 > 天狗
+- [ ] **鎮宅霊符**（日語，原始碼 4,555 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%8E%AE%E5%AE%85%E9%9C%8A%E7%AC%A6) — 來源分類：Category:呪術 > 陰陽道
+- [ ] **木霊**（日語，原始碼 4,553 位元組）— [原文](https://ja.wikipedia.org/wiki/%E6%9C%A8%E9%9C%8A) — 來源分類：Category:日本の妖怪
+- [ ] **까트**（韓語，原始碼 4,545 位元組）— [原文](https://ko.wikipedia.org/wiki/%EA%B9%8C%ED%8A%B8) — 來源分類：분류:샤머니즘 > 의식용 환각제
+- [ ] **布袋和尚**（中文，原始碼 4,540 位元組）— [原文](https://zh.wikipedia.org/wiki/%E5%B8%83%E8%A2%8B%E5%92%8C%E5%B0%9A) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **이공맞이**（韓語，原始碼 4,538 位元組）— [原文](https://ko.wikipedia.org/wiki/%EC%9D%B4%EA%B3%B5%EB%A7%9E%EC%9D%B4) — 來源分類：분류:무속 > 무속 의식
+- [ ] **Jean de Nottingham**（法語，原始碼 4,536 位元組）— [原文](https://fr.wikipedia.org/wiki/Jean_de_Nottingham) — 來源分類：Catégorie:Sorcellerie
+- [ ] **節分お化け**（日語，原始碼 4,536 位元組）— [原文](https://ja.wikipedia.org/wiki/%E7%AF%80%E5%88%86%E3%81%8A%E5%8C%96%E3%81%91) — 來源分類：Category:日本の妖怪 > 鬼
+- [ ] **ブナガヤ**（日語，原始碼 4,533 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%8A%E3%82%AC%E3%83%A4) — 來源分類：Category:日本の妖怪 > 河童
+- [ ] **이건주**（韓語，原始碼 4,530 位元組）— [原文](https://ko.wikipedia.org/wiki/%EC%9D%B4%EA%B1%B4%EC%A3%BC) — 來源分類：분류:무속 > 한국의 무속인
+- [ ] **大津大浦**（日語，原始碼 4,524 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%B4%A5%E5%A4%A7%E6%B5%A6) — 來源分類：Category:陰陽道 > 陰陽師
+- [ ] **Feuerprobe**（德語，原始碼 4,518 位元組）— [原文](https://de.wikipedia.org/wiki/Feuerprobe) — 來源分類：Kategorie:Hexenverfolgung
+- [ ] **단양 각기리 입석**（韓語，原始碼 4,517 位元組）— [原文](https://ko.wikipedia.org/wiki/%EB%8B%A8%EC%96%91_%EA%B0%81%EA%B8%B0%EB%A6%AC_%EC%9E%85%EC%84%9D) — 來源分類：분류:무속 > 한국의 선돌
+- [ ] **李靈仙姐塔**（中文，原始碼 4,512 位元組）— [原文](https://zh.wikipedia.org/wiki/%E6%9D%8E%E9%9D%88%E4%BB%99%E5%A7%90%E5%A1%94) — 來源分類：Category:中國民間信仰 > 香港民間信仰
+- [ ] **Pinchazo de bruja**（西班牙語，原始碼 4,508 位元組）— [原文](https://es.wikipedia.org/wiki/Pinchazo_de_bruja) — 來源分類：Categoría:Brujería
+- [ ] **Georg Haan**（德語，原始碼 4,505 位元組）— [原文](https://de.wikipedia.org/wiki/Georg_Haan) — 來源分類：Kategorie:Hexenverfolgung > Hexenverfolgung in Bamberg
+- [ ] **猯**（日語，原始碼 4,502 位元組）— [原文](https://ja.wikipedia.org/wiki/%E7%8C%AF) — 來源分類：Category:日本の妖怪 > 化け狸
+- [ ] **天官大帝**（中文，原始碼 4,496 位元組）— [原文](https://zh.wikipedia.org/wiki/%E5%A4%A9%E5%AE%98%E5%A4%A7%E5%B8%9D) — 來源分類：Category:中國民間信仰 > 香港民間信仰
+- [ ] **Folterhemd**（德語，原始碼 4,485 位元組）— [原文](https://de.wikipedia.org/wiki/Folterhemd) — 來源分類：Kategorie:Hexenverfolgung
+- [ ] **Madonna Oriente**（西班牙語，原始碼 4,452 位元組）— [原文](https://es.wikipedia.org/wiki/Madonna_Oriente) — 來源分類：Categoría:Brujería
+- [ ] **ディアーナ**（日語，原始碼 4,442 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%82%A2%E3%83%BC%E3%83%8A) — 來源分類：Category:呪術 > 魔女
+- [ ] **羅刹国**（日語，原始碼 4,441 位元組）— [原文](https://ja.wikipedia.org/wiki/%E7%BE%85%E5%88%B9%E5%9B%BD) — 來源分類：Category:日本の妖怪 > 鬼
+- [ ] **裴仙師**（中文，原始碼 4,440 位元組）— [原文](https://zh.wikipedia.org/wiki/%E8%A3%B4%E4%BB%99%E5%B8%AB) — 來源分類：Category:中國民間信仰 > 福建民間信仰
+- [ ] **淫紋**（日語，原始碼 4,435 位元組）— [原文](https://ja.wikipedia.org/wiki/%E6%B7%AB%E7%B4%8B) — 來源分類：Category:呪術
+- [ ] **Draft:金英祖师**（中文，原始碼 4,427 位元組）— [原文](https://zh.wikipedia.org/wiki/Draft%3A%E9%87%91%E8%8B%B1%E7%A5%96%E5%B8%88) — 來源分類：Category:中國民間信仰
+- [ ] **どうもこうも**（日語，原始碼 4,419 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%81%A9%E3%81%86%E3%82%82%E3%81%93%E3%81%86%E3%82%82) — 來源分類：Category:日本の妖怪 > 妖怪絵巻の妖怪
+- [ ] **天門 (方位)**（日語，原始碼 4,417 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%A4%A9%E9%96%80_%28%E6%96%B9%E4%BD%8D%29) — 來源分類：Category:呪術 > 陰陽道
+- [ ] **Taxón zombi**（西班牙語，原始碼 4,389 位元組）— [原文](https://es.wikipedia.org/wiki/Tax%C3%B3n_zombi) — 來源分類：Categoría:Brujería > Zombis
+- [ ] **무병**（韓語，原始碼 4,384 位元組）— [原文](https://ko.wikipedia.org/wiki/%EB%AC%B4%EB%B3%91) — 來源分類：분류:무속 > 무속 용어
+- [ ] **しょうけら**（日語，原始碼 4,382 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%81%97%E3%82%87%E3%81%86%E3%81%91%E3%82%89) — 來源分類：Category:日本の妖怪 > 妖怪絵巻の妖怪
+- [ ] **Maciara**（法語，原始碼 4,377 位元組）— [原文](https://fr.wikipedia.org/wiki/Maciara) — 來源分類：Catégorie:Sorcellerie
+- [ ] **しょうぶパン鬼ー**（日語，原始碼 4,373 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%81%97%E3%82%87%E3%81%86%E3%81%B6%E3%83%91%E3%83%B3%E9%AC%BC%E3%83%BC) — 來源分類：Category:日本の妖怪 > 鬼
+- [ ] **페요테선인장**（韓語，原始碼 4,362 位元組）— [原文](https://ko.wikipedia.org/wiki/%ED%8E%98%EC%9A%94%ED%85%8C%EC%84%A0%EC%9D%B8%EC%9E%A5) — 來源分類：분류:샤머니즘 > 의식용 환각제
+- [ ] **大頭小僧**（日語，原始碼 4,359 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%A0%AD%E5%B0%8F%E5%83%A7) — 來源分類：Category:日本の妖怪
+- [ ] **창포**（韓語，原始碼 4,344 位元組）— [原文](https://ko.wikipedia.org/wiki/%EC%B0%BD%ED%8F%AC) — 來源分類：분류:샤머니즘 > 의식용 환각제
+- [ ] **ネクロマンテイオン (アケローン川)**（日語，原始碼 4,343 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AF%E3%83%AD%E3%83%9E%E3%83%B3%E3%83%86%E3%82%A4%E3%82%AA%E3%83%B3_%28%E3%82%A2%E3%82%B1%E3%83%AD%E3%83%BC%E3%83%B3%E5%B7%9D%29) — 來源分類：Category:呪術
+- [ ] **Corbeaux moqueurs**（法語，原始碼 4,331 位元組）— [原文](https://fr.wikipedia.org/wiki/Corbeaux_moqueurs) — 來源分類：Catégorie:Sorcellerie
+- [ ] **牛頭馬頭**（日語，原始碼 4,328 位元組）— [原文](https://ja.wikipedia.org/wiki/%E7%89%9B%E9%A0%AD%E9%A6%AC%E9%A0%AD) — 來源分類：Category:日本の妖怪 > 鬼
+- [ ] **日本三大怨霊**（日語，原始碼 4,324 位元組）— [原文](https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E4%B8%89%E5%A4%A7%E6%80%A8%E9%9C%8A) — 來源分類：Category:陰陽道 > 御霊信仰
+- [ ] **魔鬼女**（日語，原始碼 4,308 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%AD%94%E9%AC%BC%E5%A5%B3) — 來源分類：Category:日本の妖怪 > 鬼
+- [ ] **曹源寺 (台東区)**（日語，原始碼 4,303 位元組）— [原文](https://ja.wikipedia.org/wiki/%E6%9B%B9%E6%BA%90%E5%AF%BA_%28%E5%8F%B0%E6%9D%B1%E5%8C%BA%29) — 來源分類：Category:日本の妖怪 > 河童
+- [ ] **陳邕**（中文，原始碼 4,302 位元組）— [原文](https://zh.wikipedia.org/wiki/%E9%99%B3%E9%82%95) — 來源分類：Category:中國民間信仰 > 福建民間信仰
+- [ ] **モリー・レイ**（日語，原始碼 4,296 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%AC%E3%82%A4) — 來源分類：Category:呪術 > 魔女
+- [ ] **三上ヶ嶽の鬼**（日語，原始碼 4,295 位元組）— [原文](https://ja.wikipedia.org/wiki/%E4%B8%89%E4%B8%8A%E3%83%B6%E5%B6%BD%E3%81%AE%E9%AC%BC) — 來源分類：Category:日本の妖怪 > 鬼
+- [ ] **丹朱**（中文，原始碼 4,291 位元組）— [原文](https://zh.wikipedia.org/wiki/%E4%B8%B9%E6%9C%B1) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **番匠棟上槌打**（日語，原始碼 4,274 位元組）— [原文](https://ja.wikipedia.org/wiki/%E7%95%AA%E5%8C%A0%E6%A3%9F%E4%B8%8A%E6%A7%8C%E6%89%93) — 來源分類：Category:呪術 > 陰陽道
+- [ ] **蔣子文**（中文，原始碼 4,271 位元組）— [原文](https://zh.wikipedia.org/wiki/%E8%94%A3%E5%AD%90%E6%96%87) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **尻こぼし**（日語，原始碼 4,269 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%B0%BB%E3%81%93%E3%81%BC%E3%81%97) — 來源分類：Category:日本の妖怪 > 河童
+- [ ] **虎狼狸**（日語，原始碼 4,252 位元組）— [原文](https://ja.wikipedia.org/wiki/%E8%99%8E%E7%8B%BC%E7%8B%B8) — 來源分類：Category:日本の妖怪
+- [ ] **池頭夫人**（中文，原始碼 4,252 位元組）— [原文](https://zh.wikipedia.org/wiki/%E6%B1%A0%E9%A0%AD%E5%A4%AB%E4%BA%BA) — 來源分類：Category:中國民間信仰 > 福建民間信仰
+- [ ] **空狐**（日語，原始碼 4,248 位元組）— [原文](https://ja.wikipedia.org/wiki/%E7%A9%BA%E7%8B%90) — 來源分類：Category:日本の妖怪
+- [ ] **式占**（日語，原始碼 4,244 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%BC%8F%E5%8D%A0) — 來源分類：Category:陰陽道 > 式占
+- [ ] **かっぱの狛犬**（日語，原始碼 4,242 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%81%8B%E3%81%A3%E3%81%B1%E3%81%AE%E7%8B%9B%E7%8A%AC) — 來源分類：Category:日本の妖怪 > 河童
+- [ ] **人形神**（日語，原始碼 4,238 位元組）— [原文](https://ja.wikipedia.org/wiki/%E4%BA%BA%E5%BD%A2%E7%A5%9E) — 來源分類：Category:シャーマニズム > 憑き物
+- [ ] **歳徳神**（日語，原始碼 4,237 位元組）— [原文](https://ja.wikipedia.org/wiki/%E6%AD%B3%E5%BE%B3%E7%A5%9E) — 來源分類：Category:陰陽道 > 陰陽道の神
+- [ ] **옥천 석탄리 선돌**（韓語，原始碼 4,237 位元組）— [原文](https://ko.wikipedia.org/wiki/%EC%98%A5%EC%B2%9C_%EC%84%9D%ED%83%84%EB%A6%AC_%EC%84%A0%EB%8F%8C) — 來源分類：분류:무속 > 한국의 선돌
+- [ ] **首切れ馬**（日語，原始碼 4,222 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%A6%96%E5%88%87%E3%82%8C%E9%A6%AC) — 來源分類：Category:日本の妖怪
+- [ ] **概念計画8888**（日語，原始碼 4,220 位元組）— [原文](https://ja.wikipedia.org/wiki/%E6%A6%82%E5%BF%B5%E8%A8%88%E7%94%BB8888) — 來源分類：Category:呪術 > ゾンビ
+- [ ] **Janua (Museo delle Streghe)**（義大利語，原始碼 4,218 位元組）— [原文](https://it.wikipedia.org/wiki/Janua_%28Museo_delle_Streghe%29) — 來源分類：Categoria:Stregoneria
+- [ ] **Gormshuil Mhòr na Maighe**（西班牙語，原始碼 4,201 位元組）— [原文](https://es.wikipedia.org/wiki/Gormshuil_Mh%C3%B2r_na_Maighe) — 來源分類：Categoría:Brujería
+- [ ] **アリエ (妖怪)**（日語，原始碼 4,167 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AA%E3%82%A8_%28%E5%A6%96%E6%80%AA%29) — 來源分類：Category:日本の妖怪
+- [ ] **七曜**（日語，原始碼 4,160 位元組）— [原文](https://ja.wikipedia.org/wiki/%E4%B8%83%E6%9B%9C) — 來源分類：Category:呪術 > 陰陽道
+- [ ] **Hipótesis del culto de las brujas**（西班牙語，原始碼 4,151 位元組）— [原文](https://es.wikipedia.org/wiki/Hip%C3%B3tesis_del_culto_de_las_brujas) — 來源分類：Categoría:Brujería
+- [ ] **성제묘**（韓語，原始碼 4,138 位元組）— [原文](https://ko.wikipedia.org/wiki/%EC%84%B1%EC%A0%9C%EB%AC%98) — 來源分類：분류:무속 > 도무습합
+- [ ] **邢府千歲**（中文，原始碼 4,137 位元組）— [原文](https://zh.wikipedia.org/wiki/%E9%82%A2%E5%BA%9C%E5%8D%83%E6%AD%B2) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **道士**（日語，原始碼 4,134 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%81%93%E5%A3%AB) — 來源分類：Category:シャーマニズム > 霊媒師
+- [ ] **ワロドン**（日語，原始碼 4,130 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%AF%E3%83%AD%E3%83%89%E3%83%B3) — 來源分類：Category:日本の妖怪 > 河童
+- [ ] **저승사자**（韓語，原始碼 4,128 位元組）— [原文](https://ko.wikipedia.org/wiki/%EC%A0%80%EC%8A%B9%EC%82%AC%EC%9E%90) — 來源分類：분류:무속 > 무불습합
+- [ ] **陰陽家**（日語，原始碼 4,125 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%99%B0%E9%99%BD%E5%AE%B6) — 來源分類：Category:呪術 > 陰陽道
+- [ ] **照天君**（中文，原始碼 4,118 位元組）— [原文](https://zh.wikipedia.org/wiki/%E7%85%A7%E5%A4%A9%E5%90%9B) — 來源分類：Category:中國民間信仰 > 福建民間信仰
+- [ ] **Hexenflug**（德語，原始碼 4,109 位元組）— [原文](https://de.wikipedia.org/wiki/Hexenflug) — 來源分類：Kategorie:Hexenverfolgung
+- [ ] **百目鬼**（日語，原始碼 4,105 位元組）— [原文](https://ja.wikipedia.org/wiki/%E7%99%BE%E7%9B%AE%E9%AC%BC) — 來源分類：Category:日本の妖怪 > 鬼
+- [ ] **林一柱 (萬曆進士)**（中文，原始碼 4,097 位元組）— [原文](https://zh.wikipedia.org/wiki/%E6%9E%97%E4%B8%80%E6%9F%B1_%28%E8%90%AC%E6%9B%86%E9%80%B2%E5%A3%AB%29) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **裏宿七兵衛**（日語，原始碼 4,093 位元組）— [原文](https://ja.wikipedia.org/wiki/%E8%A3%8F%E5%AE%BF%E4%B8%83%E5%85%B5%E8%A1%9B) — 來源分類：Category:陰陽道 > 日本の神 (人物神 御霊信仰)
+- [ ] **八将神**（日語，原始碼 4,091 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%85%AB%E5%B0%86%E7%A5%9E) — 來源分類：Category:陰陽道 > 陰陽道の神
+- [ ] **大江山鬼瓦公園**（日語，原始碼 4,084 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%B1%9F%E5%B1%B1%E9%AC%BC%E7%93%A6%E5%85%AC%E5%9C%92) — 來源分類：Category:日本の妖怪 > 鬼
+- [ ] **谢祐**（中文，原始碼 4,070 位元組）— [原文](https://zh.wikipedia.org/wiki/%E8%B0%A2%E7%A5%90) — 來源分類：Category:中國民間信仰 > 福建民間信仰
+- [ ] **山上船主**（日語，原始碼 4,065 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%B1%B1%E4%B8%8A%E8%88%B9%E4%B8%BB) — 來源分類：Category:陰陽道 > 陰陽師
+- [ ] **奪衣婆**（日語，原始碼 4,063 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%A5%AA%E8%A1%A3%E5%A9%86) — 來源分類：Category:日本の妖怪 > 鬼
+- [ ] **道同**（中文，原始碼 4,056 位元組）— [原文](https://zh.wikipedia.org/wiki/%E9%81%93%E5%90%8C) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **하그**（韓語，原始碼 4,046 位元組）— [原文](https://ko.wikipedia.org/wiki/%ED%95%98%EA%B7%B8) — 來源分類：분류:샤머니즘 > 마녀
+- [ ] **微子**（中文，原始碼 4,043 位元組）— [原文](https://zh.wikipedia.org/wiki/%E5%BE%AE%E5%AD%90) — 來源分類：Category:中國民間信仰 > 中国人物神
+- [ ] **Hexenhemd von Veringenstadt**（德語，原始碼 4,042 位元組）— [原文](https://de.wikipedia.org/wiki/Hexenhemd_von_Veringenstadt) — 來源分類：Kategorie:Hexenverfolgung
+- [ ] **メドチ**（日語，原始碼 4,039 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%89%E3%83%81) — 來源分類：Category:日本の妖怪 > 河童
+- [ ] **양귀비 (식물)**（韓語，原始碼 4,036 位元組）— [原文](https://ko.wikipedia.org/wiki/%EC%96%91%EA%B7%80%EB%B9%84_%28%EC%8B%9D%EB%AC%BC%29) — 來源分類：분류:샤머니즘 > 의식용 환각제
+- [ ] **ハインリヒ・コルネリウス・アグリッパ**（日語，原始碼 4,031 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%B3%E3%83%AA%E3%83%92%E3%83%BB%E3%82%B3%E3%83%AB%E3%83%8D%E3%83%AA%E3%82%A6%E3%82%B9%E3%83%BB%E3%82%A2%E3%82%B0%E3%83%AA%E3%83%83%E3%83%91) — 來源分類：Category:呪術 > 魔術師
+- [ ] **阿傍羅刹**（日語，原始碼 4,027 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%98%BF%E5%82%8D%E7%BE%85%E5%88%B9) — 來源分類：Category:日本の妖怪 > 鬼
+- [ ] **跳娘娘**（中文，原始碼 4,016 位元組）— [原文](https://zh.wikipedia.org/wiki/%E8%B7%B3%E5%A8%98%E5%A8%98) — 來源分類：Category:中國民間信仰 > 中国民间祭祀活动
+- [ ] **悪霊ばらい**（日語，原始碼 4,010 位元組）— [原文](https://ja.wikipedia.org/wiki/%E6%82%AA%E9%9C%8A%E3%81%B0%E3%82%89%E3%81%84) — 來源分類：Category:シャーマニズム
+- [ ] **大かむろ**（日語，原始碼 4,005 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%A4%A7%E3%81%8B%E3%82%80%E3%82%8D) — 來源分類：Category:日本の妖怪 > 化け狸
+- [ ] **阿久良王**（日語，原始碼 4,002 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%98%BF%E4%B9%85%E8%89%AF%E7%8E%8B) — 來源分類：Category:日本の妖怪 > 鬼
 
-## 與本資料庫主題較遠者（142 項）
+## 與本資料庫主題較遠者（145 項）
 
-- [ ] QAnon（西班牙語，182,911 字元）— [原文](https://es.wikipedia.org/wiki/QAnon) — 來源分類：Categoría:Brujería > Satanismo > QAnon
-- [ ] Atomwaffen Division（西班牙語，141,486 字元）— [原文](https://es.wikipedia.org/wiki/Atomwaffen_Division) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
-- [ ] Orden de los Nueve Ángulos（西班牙語，103,971 字元）— [原文](https://es.wikipedia.org/wiki/Orden_de_los_Nueve_%C3%81ngulos) — 來源分類：Categoría:Brujería > Satanismo
-- [ ] Satanismo laveyano（西班牙語，82,195 字元）— [原文](https://es.wikipedia.org/wiki/Satanismo_laveyano) — 來源分類：Categoría:Brujería > Satanismo
-- [ ] Fraternité Hermétique de Louxor（法語，76,508 字元）— [原文](https://fr.wikipedia.org/wiki/Fraternit%C3%A9_Herm%C3%A9tique_de_Louxor) — 來源分類：Catégorie:Sorcellerie > Organisation qui s'intéresse à la magie
-- [ ] Robin Morgan（英語，70,619 字元）— [原文](https://en.wikipedia.org/wiki/Robin_Morgan) — 來源分類：Category:Witchcraft > Judaism and witchcraft > Wiccans of Jewish descent
-- [ ] Samhain（西班牙語，67,901 字元）— [原文](https://es.wikipedia.org/wiki/Samhain) — 來源分類：Categoría:Brujería > Wicca > Festividades wiccanas
-- [ ] Profanación de la hostia（西班牙語，67,290 字元）— [原文](https://es.wikipedia.org/wiki/Profanaci%C3%B3n_de_la_hostia) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
-- [ ] Asesinatos rituales de Toa Payoh（西班牙語，63,378 字元）— [原文](https://es.wikipedia.org/wiki/Asesinatos_rituales_de_Toa_Payoh) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
-- [ ] Paulo Coelho（西班牙語，59,826 字元）— [原文](https://es.wikipedia.org/wiki/Paulo_Coelho) — 來源分類：Categoría:Brujería > Satanismo > Conversos al cristianismo desde el satanismo u ocultismo
-- [ ] Histeria de abuso sexual en las guarderías（西班牙語，59,650 字元）— [原文](https://es.wikipedia.org/wiki/Histeria_de_abuso_sexual_en_las_guarder%C3%ADas) — 來源分類：Categoría:Brujería > Satanismo > Abuso ritual satánico
-- [ ] Luis Alfredo Garavito（西班牙語，59,620 字元）— [原文](https://es.wikipedia.org/wiki/Luis_Alfredo_Garavito) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
-- [ ] Satanismo（西班牙語，58,981 字元）— [原文](https://es.wikipedia.org/wiki/Satanismo) — 來源分類：Categoría:Brujería > Satanismo
-- [ ] 8kun（西班牙語，58,152 字元）— [原文](https://es.wikipedia.org/wiki/8kun) — 來源分類：Categoría:Brujería > Satanismo > QAnon
-- [ ] 764 (organización)（西班牙語，56,744 字元）— [原文](https://es.wikipedia.org/wiki/764_%28organizaci%C3%B3n%29) — 來源分類：Categoría:Brujería > Satanismo
-- [ ] Clementine Barnabet（西班牙語，52,110 字元）— [原文](https://es.wikipedia.org/wiki/Clementine_Barnabet) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
-- [ ] Biblia satánica（西班牙語，50,909 字元）— [原文](https://es.wikipedia.org/wiki/Biblia_sat%C3%A1nica) — 來源分類：Categoría:Brujería > Satanismo > Demonología
-- [ ] Anexo:Miembros de la División Atomwaffen en los Estados Unidos que enfrentaron cargos penales（西班牙語，46,346 字元）— [原文](https://es.wikipedia.org/wiki/Anexo%3AMiembros_de_la_Divisi%C3%B3n_Atomwaffen_en_los_Estados_Unidos_que_enfrentaron_cargos_penales) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
-- [ ] Homicidio familiar de los Dardeen（西班牙語，43,770 字元）— [原文](https://es.wikipedia.org/wiki/Homicidio_familiar_de_los_Dardeen) — 來源分類：Categoría:Brujería > Satanismo > Abuso ritual satánico
-- [ ] Familia Manson（西班牙語，42,535 字元）— [原文](https://es.wikipedia.org/wiki/Familia_Manson) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
-- [ ] Groupe d'Ur（法語，41,442 字元）— [原文](https://fr.wikipedia.org/wiki/Groupe_d%27Ur) — 來源分類：Catégorie:Sorcellerie > Organisation qui s'intéresse à la magie
-- [ ] Anexo:Demonios conocidos en la tradición judeocristiana（西班牙語，41,148 字元）— [原文](https://es.wikipedia.org/wiki/Anexo%3ADemonios_conocidos_en_la_tradici%C3%B3n_judeocristiana) — 來源分類：Categoría:Brujería > Satanismo
-- [ ] Sonido de libertad（西班牙語，39,073 字元）— [原文](https://es.wikipedia.org/wiki/Sonido_de_libertad) — 來源分類：Categoría:Brujería > Satanismo > QAnon
-- [ ] Aleister Crowley（法語，38,938 字元）— [原文](https://fr.wikipedia.org/wiki/Aleister_Crowley) — 來源分類：Catégorie:Sorcellerie > Organisation qui s'intéresse à la magie > Ordo Templi Orientis
-- [ ] Charles Walton (víctima de asesinato)（西班牙語，37,939 字元）— [原文](https://es.wikipedia.org/wiki/Charles_Walton_%28v%C3%ADctima_de_asesinato%29) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
-- [ ] Zeena Schreck（西班牙語，37,688 字元）— [原文](https://es.wikipedia.org/wiki/Zeena_Schreck) — 來源分類：Categoría:Brujería > Satanismo > Iglesia de Satán
-- [ ] Dave Mustaine（西班牙語，37,228 字元）— [原文](https://es.wikipedia.org/wiki/Dave_Mustaine) — 來源分類：Categoría:Brujería > Satanismo > Conversos al cristianismo desde el satanismo u ocultismo
-- [ ] Abuso ritual satánico（西班牙語，37,103 字元）— [原文](https://es.wikipedia.org/wiki/Abuso_ritual_sat%C3%A1nico) — 來源分類：Categoría:Brujería > Satanismo > Abuso ritual satánico
-- [ ] Doom 3（西班牙語，31,760 字元）— [原文](https://es.wikipedia.org/wiki/Doom_3) — 來源分類：Categoría:Brujería > Satanismo > Videojuegos de satanismo
-- [ ] Lucas 22（西班牙語，31,340 字元）— [原文](https://es.wikipedia.org/wiki/Lucas_22) — 來源分類：Categoría:Brujería > Satanismo
-- [ ] Posesiones de Aix-en-Provence（西班牙語，28,254 字元）— [原文](https://es.wikipedia.org/wiki/Posesiones_de_Aix-en-Provence) — 來源分類：Categoría:Brujería > Satanismo
-- [ ] Sacrificio infantil en Uganda（西班牙語，27,160 字元）— [原文](https://es.wikipedia.org/wiki/Sacrificio_infantil_en_Uganda) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
-- [ ] Société théosophique（法語，26,861 字元）— [原文](https://fr.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_th%C3%A9osophique) — 來源分類：Catégorie:Sorcellerie > Organisation qui s'intéresse à la magie
-- [ ] Pizzagate（西班牙語，26,726 字元）— [原文](https://es.wikipedia.org/wiki/Pizzagate) — 來源分類：Categoría:Brujería > Satanismo > QAnon
-- [ ] Bartolo Longo（西班牙語，25,172 字元）— [原文](https://es.wikipedia.org/wiki/Bartolo_Longo) — 來源分類：Categoría:Brujería > Satanismo > Conversos al cristianismo desde el satanismo u ocultismo
-- [ ] Q Into the Storm（西班牙語，24,931 字元）— [原文](https://es.wikipedia.org/wiki/Q_Into_the_Storm) — 來源分類：Categoría:Brujería > Satanismo > QAnon
-- [ ] Tradition Feri（法語，23,303 字元）— [原文](https://fr.wikipedia.org/wiki/Tradition_Feri) — 來源分類：Catégorie:Sorcellerie > Organisation qui s'intéresse à la magie
-- [ ] Ordre hermétique de l'Aube dorée（法語，23,019 字元）— [原文](https://fr.wikipedia.org/wiki/Ordre_herm%C3%A9tique_de_l%27Aube_dor%C3%A9e) — 來源分類：Catégorie:Sorcellerie > Organisation qui s'intéresse à la magie
-- [ ] Pastel QAnon（西班牙語，22,606 字元）— [原文](https://es.wikipedia.org/wiki/Pastel_QAnon) — 來源分類：Categoría:Brujería > Satanismo > QAnon
-- [ ] Luis G. Abbadie（西班牙語，21,858 字元）— [原文](https://es.wikipedia.org/wiki/Luis_G._Abbadie) — 來源分類：Categoría:Brujería > Wicca > Wiccanos
-- [ ] El Templo Satánico（西班牙語，21,748 字元）— [原文](https://es.wikipedia.org/wiki/El_Templo_Sat%C3%A1nico) — 來源分類：Categoría:Brujería > Satanismo > El Templo Satánico
-- [ ] A Community of Witches（西班牙語，20,805 字元）— [原文](https://es.wikipedia.org/wiki/A_Community_of_Witches) — 來源分類：Categoría:Brujería > Wicca > Libros de Wicca
-- [ ] Iglesia de Satán（西班牙語，20,733 字元）— [原文](https://es.wikipedia.org/wiki/Iglesia_de_Sat%C3%A1n) — 來源分類：Categoría:Brujería > Satanismo > Iglesia de Satán
-- [ ] Theodor Reuss（法語，20,605 字元）— [原文](https://fr.wikipedia.org/wiki/Theodor_Reuss) — 來源分類：Catégorie:Sorcellerie > Organisation qui s'intéresse à la magie > Ordo Templi Orientis
-- [ ] Margot Adler（英語，20,357 字元）— [原文](https://en.wikipedia.org/wiki/Margot_Adler) — 來源分類：Category:Witchcraft > Judaism and witchcraft > Wiccans of Jewish descent
-- [ ] Alegría de Satán（西班牙語，19,926 字元）— [原文](https://es.wikipedia.org/wiki/Alegr%C3%ADa_de_Sat%C3%A1n) — 來源分類：Categoría:Brujería > Satanismo
-- [ ] Gab（西班牙語，19,876 字元）— [原文](https://es.wikipedia.org/wiki/Gab) — 來源分類：Categoría:Brujería > Satanismo > QAnon
-- [ ] Caso McMartin（西班牙語，19,831 字元）— [原文](https://es.wikipedia.org/wiki/Caso_McMartin) — 來源分類：Categoría:Brujería > Satanismo > Abuso ritual satánico
-- [ ] Nigromancia（西班牙語，19,655 字元）— [原文](https://es.wikipedia.org/wiki/Nigromancia) — 來源分類：Categoría:Brujería > Satanismo > Demonología
-- [ ] Ataque a Paul Pelosi（西班牙語，19,093 字元）— [原文](https://es.wikipedia.org/wiki/Ataque_a_Paul_Pelosi) — 來源分類：Categoría:Brujería > Satanismo > QAnon
-- [ ] Tiroteo en la Escuela Secundaria Pearl（西班牙語，18,549 字元）— [原文](https://es.wikipedia.org/wiki/Tiroteo_en_la_Escuela_Secundaria_Pearl) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
-- [ ] Doom II（西班牙語，18,527 字元）— [原文](https://es.wikipedia.org/wiki/Doom_II) — 來源分類：Categoría:Brujería > Satanismo > Videojuegos de satanismo
-- [ ] Starhawk（英語，18,319 字元）— [原文](https://en.wikipedia.org/wiki/Starhawk) — 來源分類：Category:Witchcraft > Judaism and witchcraft > Wiccans of Jewish descent
-- [ ] Sean Sellers（西班牙語，18,277 字元）— [原文](https://es.wikipedia.org/wiki/Sean_Sellers) — 來源分類：Categoría:Brujería > Satanismo > Conversos al cristianismo desde el satanismo u ocultismo
-- [ ] Asesinato de Jeannette DePalma（西班牙語，18,176 字元）— [原文](https://es.wikipedia.org/wiki/Asesinato_de_Jeannette_DePalma) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
-- [ ] Abdul Alhazred（西班牙語，17,890 字元）— [原文](https://es.wikipedia.org/wiki/Abdul_Alhazred) — 來源分類：Categoría:Brujería > Satanismo > Demonología
-- [ ] Asesinato sectario en el McDonald’s de Zhaoyuan（西班牙語，17,788 字元）— [原文](https://es.wikipedia.org/wiki/Asesinato_sectario_en_el_McDonald%E2%80%99s_de_Zhaoyuan) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
-- [ ] Lexa Roséan（英語，17,778 字元）— [原文](https://en.wikipedia.org/wiki/Lexa_Ros%C3%A9an) — 來源分類：Category:Witchcraft > Judaism and witchcraft > Wiccans of Jewish descent
-- [ ] David Berkowitz（西班牙語，17,541 字元）— [原文](https://es.wikipedia.org/wiki/David_Berkowitz) — 來源分類：Categoría:Brujería > Satanismo > Conversos al cristianismo desde el satanismo u ocultismo
-- [ ] West Memphis Three（西班牙語，16,697 字元）— [原文](https://es.wikipedia.org/wiki/West_Memphis_Three) — 來源分類：Categoría:Brujería > Satanismo
-- [ ] Movimiento de Resistencia Nórdico（西班牙語，15,976 字元）— [原文](https://es.wikipedia.org/wiki/Movimiento_de_Resistencia_N%C3%B3rdico) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
-- [ ] Silvia Meraz Moreno（西班牙語，15,751 字元）— [原文](https://es.wikipedia.org/wiki/Silvia_Meraz_Moreno) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
-- [ ] Ordo Templi Orientis（法語，15,746 字元）— [原文](https://fr.wikipedia.org/wiki/Ordo_Templi_Orientis) — 來源分類：Catégorie:Sorcellerie > Organisation qui s'intéresse à la magie
-- [ ] Templo de Set（西班牙語，15,637 字元）— [原文](https://es.wikipedia.org/wiki/Templo_de_Set) — 來源分類：Categoría:Brujería > Satanismo
-- [ ] Asunto de los venenos（西班牙語，15,529 字元）— [原文](https://es.wikipedia.org/wiki/Asunto_de_los_venenos) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
-- [ ] Nomy Lamm（英語，15,242 字元）— [原文](https://en.wikipedia.org/wiki/Nomy_Lamm) — 來源分類：Category:Witchcraft > Judaism and witchcraft > Wiccans of Jewish descent
-- [ ] Église de Satan（法語，15,087 字元）— [原文](https://fr.wikipedia.org/wiki/%C3%89glise_de_Satan) — 來源分類：Catégorie:Sorcellerie > Organisation qui s'intéresse à la magie
-- [ ] Ordre des neuf angles（法語，14,746 字元）— [原文](https://fr.wikipedia.org/wiki/Ordre_des_neuf_angles) — 來源分類：Catégorie:Sorcellerie > Organisation qui s'intéresse à la magie
-- [ ] Richard Ramirez（西班牙語，14,428 字元）— [原文](https://es.wikipedia.org/wiki/Richard_Ramirez) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
-- [ ] Malcolm Brenner (writer)（英語，14,010 字元）— [原文](https://en.wikipedia.org/wiki/Malcolm_Brenner_%28writer%29) — 來源分類：Category:Witchcraft > Judaism and witchcraft > Wiccans of Jewish descent
-- [ ] Magdalena Solís（西班牙語，13,791 字元）— [原文](https://es.wikipedia.org/wiki/Magdalena_Sol%C3%ADs) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
-- [ ] Pentagrama invertido（西班牙語，13,237 字元）— [原文](https://es.wikipedia.org/wiki/Pentagrama_invertido) — 來源分類：Categoría:Brujería > Satanismo > Símbolos satánicos
-- [ ] Intento de golpe de Estado en Alemania de 2022（西班牙語，13,079 字元）— [原文](https://es.wikipedia.org/wiki/Intento_de_golpe_de_Estado_en_Alemania_de_2022) — 來源分類：Categoría:Brujería > Satanismo > QAnon
-- [ ] Cristopaganismo（西班牙語，13,062 字元）— [原文](https://es.wikipedia.org/wiki/Cristopaganismo) — 來源分類：Categoría:Brujería > Wicca
-- [ ] Kat Von D（西班牙語，12,815 字元）— [原文](https://es.wikipedia.org/wiki/Kat_Von_D) — 來源分類：Categoría:Brujería > Satanismo > Conversos al cristianismo desde el satanismo u ocultismo
-- [ ] Feminicidas del campo algodonero（西班牙語，12,609 字元）— [原文](https://es.wikipedia.org/wiki/Feminicidas_del_campo_algodonero) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
-- [ ] Sara Aldrete（西班牙語，12,449 字元）— [原文](https://es.wikipedia.org/wiki/Sara_Aldrete) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
-- [ ] Adrenocromo（西班牙語，12,437 字元）— [原文](https://es.wikipedia.org/wiki/Adrenocromo) — 來源分類：Categoría:Brujería > Satanismo > QAnon
-- [ ] Iblís（西班牙語，12,382 字元）— [原文](https://es.wikipedia.org/wiki/Ibl%C3%ADs) — 來源分類：Categoría:Brujería > Satanismo > Demonología
-- [ ] Roger Morneau（西班牙語，12,357 字元）— [原文](https://es.wikipedia.org/wiki/Roger_Morneau) — 來源分類：Categoría:Brujería > Satanismo
-- [ ] Gardnérianisme（法語，12,233 字元）— [原文](https://fr.wikipedia.org/wiki/Gardn%C3%A9rianisme) — 來源分類：Catégorie:Sorcellerie > Organisation qui s'intéresse à la magie
-- [ ] Sello de Salomón (leyenda)（西班牙語，11,876 字元）— [原文](https://es.wikipedia.org/wiki/Sello_de_Salom%C3%B3n_%28leyenda%29) — 來源分類：Categoría:Brujería > Satanismo > Demonología
-- [ ] Oscuridad（西班牙語，11,711 字元）— [原文](https://es.wikipedia.org/wiki/Oscuridad) — 來源分類：Categoría:Brujería > Satanismo > Demonología
-- [ ] Guayota（西班牙語，11,704 字元）— [原文](https://es.wikipedia.org/wiki/Guayota) — 來源分類：Categoría:Brujería > Satanismo > Demonología
-- [ ] Correllianismo（西班牙語，11,691 字元）— [原文](https://es.wikipedia.org/wiki/Correllianismo) — 來源分類：Categoría:Brujería > Wicca > Tradiciones wiccanas
-- [ ] Joseph-Antoine Boullan（西班牙語，11,550 字元）— [原文](https://es.wikipedia.org/wiki/Joseph-Antoine_Boullan) — 來源分類：Categoría:Brujería > Satanismo
-- [ ] Église de tous les mondes（法語，11,248 字元）— [原文](https://fr.wikipedia.org/wiki/%C3%89glise_de_tous_les_mondes) — 來源分類：Catégorie:Sorcellerie > Organisation qui s'intéresse à la magie
-- [ ] Posesiones de Louviers（西班牙語，10,902 字元）— [原文](https://es.wikipedia.org/wiki/Posesiones_de_Louviers) — 來源分類：Categoría:Brujería > Satanismo
-- [ ] Xandrianismo（西班牙語，10,840 字元）— [原文](https://es.wikipedia.org/wiki/Xandrianismo) — 來源分類：Categoría:Brujería > Wicca > Tradiciones wiccanas
-- [ ] Asedio de Nueva Esperanza（西班牙語，10,795 字元）— [原文](https://es.wikipedia.org/wiki/Asedio_de_Nueva_Esperanza) — 來源分類：Categoría:Brujería > Satanismo
-- [ ] Demonología（西班牙語，10,732 字元）— [原文](https://es.wikipedia.org/wiki/Demonolog%C3%ADa) — 來源分類：Categoría:Brujería > Satanismo > Demonología
-- [ ] Xandrianisme（法語，10,453 字元）— [原文](https://fr.wikipedia.org/wiki/Xandrianisme) — 來源分類：Catégorie:Sorcellerie > Organisation qui s'intéresse à la magie
-- [ ] Adam (víctima)（西班牙語，10,410 字元）— [原文](https://es.wikipedia.org/wiki/Adam_%28v%C3%ADctima%29) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
-- [ ] Benedict Daswa（西班牙語，10,323 字元）— [原文](https://es.wikipedia.org/wiki/Benedict_Daswa) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
-- [ ] Caso Tattarisuo（西班牙語，10,055 字元）— [原文](https://es.wikipedia.org/wiki/Caso_Tattarisuo) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
-- [ ] Tomás Maldonado Cera（西班牙語，9,935 字元）— [原文](https://es.wikipedia.org/wiki/Tom%C3%A1s_Maldonado_Cera) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
-- [ ] Juicio por abusos rituales satánicos de Oak Hill（西班牙語，9,894 字元）— [原文](https://es.wikipedia.org/wiki/Juicio_por_abusos_rituales_sat%C3%A1nicos_de_Oak_Hill) — 來源分類：Categoría:Brujería > Satanismo > Abuso ritual satánico
-- [ ] Maria Laura Mainetti（西班牙語，9,855 字元）— [原文](https://es.wikipedia.org/wiki/Maria_Laura_Mainetti) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
-- [ ] Lucien Greaves（西班牙語，9,636 字元）— [原文](https://es.wikipedia.org/wiki/Lucien_Greaves) — 來源分類：Categoría:Brujería > Satanismo > El Templo Satánico
-- [ ] Casa de los lamentos (Guanajuato)（西班牙語，9,556 字元）— [原文](https://es.wikipedia.org/wiki/Casa_de_los_lamentos_%28Guanajuato%29) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
-- [ ] Dios astado（西班牙語，9,459 字元）— [原文](https://es.wikipedia.org/wiki/Dios_astado) — 來源分類：Categoría:Brujería > Wicca
-- [ ] Destripadores de Chicago（西班牙語，9,444 字元）— [原文](https://es.wikipedia.org/wiki/Destripadores_de_Chicago) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
-- [ ] Berthe de Courrière（西班牙語，9,411 字元）— [原文](https://es.wikipedia.org/wiki/Berthe_de_Courri%C3%A8re) — 來源分類：Categoría:Brujería > Satanismo
-- [ ] Curva del diablo (Bolivia)（西班牙語，9,333 字元）— [原文](https://es.wikipedia.org/wiki/Curva_del_diablo_%28Bolivia%29) — 來源分類：Categoría:Brujería > Satanismo
-- [ ] Øystein Aarseth（西班牙語，9,333 字元）— [原文](https://es.wikipedia.org/wiki/%C3%98ystein_Aarseth) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
-- [ ] Movimiento de la Diosa（西班牙語，9,248 字元）— [原文](https://es.wikipedia.org/wiki/Movimiento_de_la_Diosa) — 來源分類：Categoría:Brujería > Wicca
-- [ ] Yule（西班牙語，9,128 字元）— [原文](https://es.wikipedia.org/wiki/Yule) — 來源分類：Categoría:Brujería > Wicca > Festividades wiccanas
-- [ ] Ars Goetia（西班牙語，8,935 字元）— [原文](https://es.wikipedia.org/wiki/Ars_Goetia) — 來源分類：Categoría:Brujería > Satanismo > Demonología
-- [ ] Jason Massey（西班牙語，8,877 字元）— [原文](https://es.wikipedia.org/wiki/Jason_Massey) — 來源分類：Categoría:Brujería > Satanismo > Conversos al cristianismo desde el satanismo u ocultismo
-- [ ] Rueda del Año（西班牙語，8,863 字元）— [原文](https://es.wikipedia.org/wiki/Rueda_del_A%C3%B1o) — 來源分類：Categoría:Brujería > Wicca
-- [ ] Marcelo Antelo（西班牙語，8,676 字元）— [原文](https://es.wikipedia.org/wiki/Marcelo_Antelo) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
-- [ ] Casos de abuso infantil en el condado de Kern（西班牙語，8,620 字元）— [原文](https://es.wikipedia.org/wiki/Casos_de_abuso_infantil_en_el_condado_de_Kern) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
-- [ ] Renacido（西班牙語，8,571 字元）— [原文](https://es.wikipedia.org/wiki/Renacido) — 來源分類：Categoría:Brujería > Satanismo > Demonología
-- [ ] Carl Kellner (mystique)（法語，8,465 字元）— [原文](https://fr.wikipedia.org/wiki/Carl_Kellner_%28mystique%29) — 來源分類：Catégorie:Sorcellerie > Organisation qui s'intéresse à la magie > Ordo Templi Orientis
-- [ ] Aurum Solis（法語，8,255 字元）— [原文](https://fr.wikipedia.org/wiki/Aurum_Solis) — 來源分類：Catégorie:Sorcellerie > Organisation qui s'intéresse à la magie
-- [ ] Adolfo Constanzo（西班牙語，8,097 字元）— [原文](https://es.wikipedia.org/wiki/Adolfo_Constanzo) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
-- [ ] Angra Mainyu（西班牙語，8,004 字元）— [原文](https://es.wikipedia.org/wiki/Angra_Mainyu) — 來源分類：Categoría:Brujería > Satanismo > Demonología
-- [ ] Anneliese Michel（西班牙語，7,951 字元）— [原文](https://es.wikipedia.org/wiki/Anneliese_Michel) — 來源分類：Categoría:Brujería > Satanismo > Demonología
-- [ ] Ataque en la preparatoria San Andrés（西班牙語，7,909 字元）— [原文](https://es.wikipedia.org/wiki/Ataque_en_la_preparatoria_San_Andr%C3%A9s) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
-- [ ] Peter H. Gilmore（西班牙語，7,730 字元）— [原文](https://es.wikipedia.org/wiki/Peter_H._Gilmore) — 來源分類：Categoría:Brujería > Satanismo > Iglesia de Satán
-- [ ] Beltane（西班牙語，7,645 字元）— [原文](https://es.wikipedia.org/wiki/Beltane) — 來源分類：Categoría:Brujería > Wicca > Festividades wiccanas
-- [ ] Rede（西班牙語，7,568 字元）— [原文](https://es.wikipedia.org/wiki/Rede) — 來源分類：Categoría:Brujería > Wicca
-- [ ] Estado profundo en los Estados Unidos（西班牙語，7,485 字元）— [原文](https://es.wikipedia.org/wiki/Estado_profundo_en_los_Estados_Unidos) — 來源分類：Categoría:Brujería > Satanismo > QAnon
-- [ ] Asesinato de Elyse Pahler（西班牙語，7,438 字元）— [原文](https://es.wikipedia.org/wiki/Asesinato_de_Elyse_Pahler) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
-- [ ] Doom 3: BFG Edition（西班牙語，7,370 字元）— [原文](https://es.wikipedia.org/wiki/Doom_3%3A_BFG_Edition) — 來源分類：Categoría:Brujería > Satanismo > Videojuegos de satanismo
-- [ ] Élus Coëns（法語，7,193 字元）— [原文](https://fr.wikipedia.org/wiki/%C3%89lus_Co%C3%ABns) — 來源分類：Catégorie:Sorcellerie > Organisation qui s'intéresse à la magie
-- [ ] Seax-Wica（西班牙語，7,045 字元）— [原文](https://es.wikipedia.org/wiki/Seax-Wica) — 來源分類：Categoría:Brujería > Wicca > Tradiciones wiccanas
-- [ ] Herman Slater（英語，7,001 字元）— [原文](https://en.wikipedia.org/wiki/Herman_Slater) — 來源分類：Category:Witchcraft > Judaism and witchcraft > Wiccans of Jewish descent
-- [ ] Astrum Argentum（法語，6,959 字元）— [原文](https://fr.wikipedia.org/wiki/Astrum_Argentum) — 來源分類：Catégorie:Sorcellerie > Organisation qui s'intéresse à la magie
-- [ ] Ottis Toole（西班牙語，6,760 字元）— [原文](https://es.wikipedia.org/wiki/Ottis_Toole) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
-- [ ] Enjuiciamiento: El Caso McMartin（西班牙語，6,623 字元）— [原文](https://es.wikipedia.org/wiki/Enjuiciamiento%3A_El_Caso_McMartin) — 來源分類：Categoría:Brujería > Satanismo > Abuso ritual satánico
-- [ ] Hail Satan?（西班牙語，6,566 字元）— [原文](https://es.wikipedia.org/wiki/Hail_Satan%3F) — 來源分類：Categoría:Brujería > Satanismo
-- [ ] Primera Iglesia Satánica（西班牙語，6,418 字元）— [原文](https://es.wikipedia.org/wiki/Primera_Iglesia_Sat%C3%A1nica) — 來源分類：Categoría:Brujería > Satanismo > Iglesia de Satán
-- [ ] Ángel caído（西班牙語，6,412 字元）— [原文](https://es.wikipedia.org/wiki/%C3%81ngel_ca%C3%ADdo) — 來源分類：Categoría:Brujería > Satanismo > Demonología
-- [ ] Judy Harrow（英語，6,405 字元）— [原文](https://en.wikipedia.org/wiki/Judy_Harrow) — 來源分類：Category:Witchcraft > Judaism and witchcraft > Wiccans of Jewish descent
-- [ ] Ricky Kasso（西班牙語，6,350 字元）— [原文](https://es.wikipedia.org/wiki/Ricky_Kasso) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
-- [ ] Pachamama Raymi（西班牙語，6,338 字元）— [原文](https://es.wikipedia.org/wiki/Pachamama_Raymi) — 來源分類：Categoría:Brujería > Wicca
-- [ ] Misa negra（西班牙語，6,274 字元）— [原文](https://es.wikipedia.org/wiki/Misa_negra) — 來源分類：Categoría:Brujería > Satanismo > Demonología
-- [ ] Bosque del terror de Ibadán（西班牙語，6,217 字元）— [原文](https://es.wikipedia.org/wiki/Bosque_del_terror_de_Ibad%C3%A1n) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
-- [ ] Illuminates of Thanateros（法語，5,834 字元）— [原文](https://fr.wikipedia.org/wiki/Illuminates_of_Thanateros) — 來源分類：Catégorie:Sorcellerie > Organisation qui s'intéresse à la magie
-- [ ] Bâtisseurs de l'Adytum（法語，5,696 字元）— [原文](https://fr.wikipedia.org/wiki/B%C3%A2tisseurs_de_l%27Adytum) — 來源分類：Catégorie:Sorcellerie > Organisation qui s'intéresse à la magie
-- [ ] Institut Abrasax（法語，5,560 字元）— [原文](https://fr.wikipedia.org/wiki/Institut_Abrasax) — 來源分類：Catégorie:Sorcellerie > Organisation qui s'intéresse à la magie
+- [ ] QAnon（西班牙語，原始碼 182,911 位元組）— [原文](https://es.wikipedia.org/wiki/QAnon) — 來源分類：Categoría:Brujería > Satanismo > QAnon
+- [ ] Atomwaffen Division（西班牙語，原始碼 141,486 位元組）— [原文](https://es.wikipedia.org/wiki/Atomwaffen_Division) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
+- [ ] Orden de los Nueve Ángulos（西班牙語，原始碼 103,971 位元組）— [原文](https://es.wikipedia.org/wiki/Orden_de_los_Nueve_%C3%81ngulos) — 來源分類：Categoría:Brujería > Satanismo
+- [ ] Satanismo laveyano（西班牙語，原始碼 82,195 位元組）— [原文](https://es.wikipedia.org/wiki/Satanismo_laveyano) — 來源分類：Categoría:Brujería > Satanismo
+- [ ] Fraternité Hermétique de Louxor（法語，原始碼 76,508 位元組）— [原文](https://fr.wikipedia.org/wiki/Fraternit%C3%A9_Herm%C3%A9tique_de_Louxor) — 來源分類：Catégorie:Sorcellerie > Organisation qui s'intéresse à la magie
+- [ ] Robin Morgan（英語，原始碼 70,619 位元組）— [原文](https://en.wikipedia.org/wiki/Robin_Morgan) — 來源分類：Category:Witchcraft > Judaism and witchcraft > Wiccans of Jewish descent
+- [ ] Samhain（西班牙語，原始碼 67,901 位元組）— [原文](https://es.wikipedia.org/wiki/Samhain) — 來源分類：Categoría:Brujería > Wicca > Festividades wiccanas
+- [ ] Profanación de la hostia（西班牙語，原始碼 67,290 位元組）— [原文](https://es.wikipedia.org/wiki/Profanaci%C3%B3n_de_la_hostia) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
+- [ ] Asesinatos rituales de Toa Payoh（西班牙語，原始碼 63,378 位元組）— [原文](https://es.wikipedia.org/wiki/Asesinatos_rituales_de_Toa_Payoh) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
+- [ ] Paulo Coelho（西班牙語，原始碼 59,826 位元組）— [原文](https://es.wikipedia.org/wiki/Paulo_Coelho) — 來源分類：Categoría:Brujería > Satanismo > Conversos al cristianismo desde el satanismo u ocultismo
+- [ ] Histeria de abuso sexual en las guarderías（西班牙語，原始碼 59,650 位元組）— [原文](https://es.wikipedia.org/wiki/Histeria_de_abuso_sexual_en_las_guarder%C3%ADas) — 來源分類：Categoría:Brujería > Satanismo > Abuso ritual satánico
+- [ ] Luis Alfredo Garavito（西班牙語，原始碼 59,620 位元組）— [原文](https://es.wikipedia.org/wiki/Luis_Alfredo_Garavito) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
+- [ ] Satanismo（西班牙語，原始碼 58,981 位元組）— [原文](https://es.wikipedia.org/wiki/Satanismo) — 來源分類：Categoría:Brujería > Satanismo
+- [ ] 8kun（西班牙語，原始碼 58,152 位元組）— [原文](https://es.wikipedia.org/wiki/8kun) — 來源分類：Categoría:Brujería > Satanismo > QAnon
+- [ ] 764 (organización)（西班牙語，原始碼 56,744 位元組）— [原文](https://es.wikipedia.org/wiki/764_%28organizaci%C3%B3n%29) — 來源分類：Categoría:Brujería > Satanismo
+- [ ] Clementine Barnabet（西班牙語，原始碼 52,110 位元組）— [原文](https://es.wikipedia.org/wiki/Clementine_Barnabet) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
+- [ ] Biblia satánica（西班牙語，原始碼 50,909 位元組）— [原文](https://es.wikipedia.org/wiki/Biblia_sat%C3%A1nica) — 來源分類：Categoría:Brujería > Satanismo > Demonología
+- [ ] Anexo:Miembros de la División Atomwaffen en los Estados Unidos que enfrentaron cargos penales（西班牙語，原始碼 46,346 位元組）— [原文](https://es.wikipedia.org/wiki/Anexo%3AMiembros_de_la_Divisi%C3%B3n_Atomwaffen_en_los_Estados_Unidos_que_enfrentaron_cargos_penales) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
+- [ ] Homicidio familiar de los Dardeen（西班牙語，原始碼 43,770 位元組）— [原文](https://es.wikipedia.org/wiki/Homicidio_familiar_de_los_Dardeen) — 來源分類：Categoría:Brujería > Satanismo > Abuso ritual satánico
+- [ ] Familia Manson（西班牙語，原始碼 42,535 位元組）— [原文](https://es.wikipedia.org/wiki/Familia_Manson) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
+- [ ] Groupe d'Ur（法語，原始碼 41,442 位元組）— [原文](https://fr.wikipedia.org/wiki/Groupe_d%27Ur) — 來源分類：Catégorie:Sorcellerie > Organisation qui s'intéresse à la magie
+- [ ] Anexo:Demonios conocidos en la tradición judeocristiana（西班牙語，原始碼 41,148 位元組）— [原文](https://es.wikipedia.org/wiki/Anexo%3ADemonios_conocidos_en_la_tradici%C3%B3n_judeocristiana) — 來源分類：Categoría:Brujería > Satanismo
+- [ ] Sonido de libertad（西班牙語，原始碼 39,073 位元組）— [原文](https://es.wikipedia.org/wiki/Sonido_de_libertad) — 來源分類：Categoría:Brujería > Satanismo > QAnon
+- [ ] Aleister Crowley（法語，原始碼 38,938 位元組）— [原文](https://fr.wikipedia.org/wiki/Aleister_Crowley) — 來源分類：Catégorie:Sorcellerie > Organisation qui s'intéresse à la magie > Ordo Templi Orientis
+- [ ] Charles Walton (víctima de asesinato)（西班牙語，原始碼 37,939 位元組）— [原文](https://es.wikipedia.org/wiki/Charles_Walton_%28v%C3%ADctima_de_asesinato%29) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
+- [ ] Zeena Schreck（西班牙語，原始碼 37,688 位元組）— [原文](https://es.wikipedia.org/wiki/Zeena_Schreck) — 來源分類：Categoría:Brujería > Satanismo > Iglesia de Satán
+- [ ] Dave Mustaine（西班牙語，原始碼 37,228 位元組）— [原文](https://es.wikipedia.org/wiki/Dave_Mustaine) — 來源分類：Categoría:Brujería > Satanismo > Conversos al cristianismo desde el satanismo u ocultismo
+- [ ] Abuso ritual satánico（西班牙語，原始碼 37,103 位元組）— [原文](https://es.wikipedia.org/wiki/Abuso_ritual_sat%C3%A1nico) — 來源分類：Categoría:Brujería > Satanismo > Abuso ritual satánico
+- [ ] Doom 3（西班牙語，原始碼 31,760 位元組）— [原文](https://es.wikipedia.org/wiki/Doom_3) — 來源分類：Categoría:Brujería > Satanismo > Videojuegos de satanismo
+- [ ] Lucas 22（西班牙語，原始碼 31,340 位元組）— [原文](https://es.wikipedia.org/wiki/Lucas_22) — 來源分類：Categoría:Brujería > Satanismo
+- [ ] Posesiones de Aix-en-Provence（西班牙語，原始碼 28,254 位元組）— [原文](https://es.wikipedia.org/wiki/Posesiones_de_Aix-en-Provence) — 來源分類：Categoría:Brujería > Satanismo
+- [ ] Sacrificio infantil en Uganda（西班牙語，原始碼 27,160 位元組）— [原文](https://es.wikipedia.org/wiki/Sacrificio_infantil_en_Uganda) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
+- [ ] Société théosophique（法語，原始碼 26,861 位元組）— [原文](https://fr.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_th%C3%A9osophique) — 來源分類：Catégorie:Sorcellerie > Organisation qui s'intéresse à la magie
+- [ ] Pizzagate（西班牙語，原始碼 26,726 位元組）— [原文](https://es.wikipedia.org/wiki/Pizzagate) — 來源分類：Categoría:Brujería > Satanismo > QAnon
+- [ ] Bartolo Longo（西班牙語，原始碼 25,172 位元組）— [原文](https://es.wikipedia.org/wiki/Bartolo_Longo) — 來源分類：Categoría:Brujería > Satanismo > Conversos al cristianismo desde el satanismo u ocultismo
+- [ ] Q Into the Storm（西班牙語，原始碼 24,931 位元組）— [原文](https://es.wikipedia.org/wiki/Q_Into_the_Storm) — 來源分類：Categoría:Brujería > Satanismo > QAnon
+- [ ] Tradition Feri（法語，原始碼 23,303 位元組）— [原文](https://fr.wikipedia.org/wiki/Tradition_Feri) — 來源分類：Catégorie:Sorcellerie > Organisation qui s'intéresse à la magie
+- [ ] Ordre hermétique de l'Aube dorée（法語，原始碼 23,019 位元組）— [原文](https://fr.wikipedia.org/wiki/Ordre_herm%C3%A9tique_de_l%27Aube_dor%C3%A9e) — 來源分類：Catégorie:Sorcellerie > Organisation qui s'intéresse à la magie
+- [ ] Pastel QAnon（西班牙語，原始碼 22,606 位元組）— [原文](https://es.wikipedia.org/wiki/Pastel_QAnon) — 來源分類：Categoría:Brujería > Satanismo > QAnon
+- [ ] Luis G. Abbadie（西班牙語，原始碼 21,858 位元組）— [原文](https://es.wikipedia.org/wiki/Luis_G._Abbadie) — 來源分類：Categoría:Brujería > Wicca > Wiccanos
+- [ ] El Templo Satánico（西班牙語，原始碼 21,748 位元組）— [原文](https://es.wikipedia.org/wiki/El_Templo_Sat%C3%A1nico) — 來源分類：Categoría:Brujería > Satanismo > El Templo Satánico
+- [ ] A Community of Witches（西班牙語，原始碼 20,805 位元組）— [原文](https://es.wikipedia.org/wiki/A_Community_of_Witches) — 來源分類：Categoría:Brujería > Wicca > Libros de Wicca
+- [ ] Iglesia de Satán（西班牙語，原始碼 20,733 位元組）— [原文](https://es.wikipedia.org/wiki/Iglesia_de_Sat%C3%A1n) — 來源分類：Categoría:Brujería > Satanismo > Iglesia de Satán
+- [ ] Theodor Reuss（法語，原始碼 20,605 位元組）— [原文](https://fr.wikipedia.org/wiki/Theodor_Reuss) — 來源分類：Catégorie:Sorcellerie > Organisation qui s'intéresse à la magie > Ordo Templi Orientis
+- [ ] Margot Adler（英語，原始碼 20,357 位元組）— [原文](https://en.wikipedia.org/wiki/Margot_Adler) — 來源分類：Category:Witchcraft > Judaism and witchcraft > Wiccans of Jewish descent
+- [ ] Alegría de Satán（西班牙語，原始碼 19,926 位元組）— [原文](https://es.wikipedia.org/wiki/Alegr%C3%ADa_de_Sat%C3%A1n) — 來源分類：Categoría:Brujería > Satanismo
+- [ ] Gab（西班牙語，原始碼 19,876 位元組）— [原文](https://es.wikipedia.org/wiki/Gab) — 來源分類：Categoría:Brujería > Satanismo > QAnon
+- [ ] Caso McMartin（西班牙語，原始碼 19,831 位元組）— [原文](https://es.wikipedia.org/wiki/Caso_McMartin) — 來源分類：Categoría:Brujería > Satanismo > Abuso ritual satánico
+- [ ] Nigromancia（西班牙語，原始碼 19,655 位元組）— [原文](https://es.wikipedia.org/wiki/Nigromancia) — 來源分類：Categoría:Brujería > Satanismo > Demonología
+- [ ] Ataque a Paul Pelosi（西班牙語，原始碼 19,093 位元組）— [原文](https://es.wikipedia.org/wiki/Ataque_a_Paul_Pelosi) — 來源分類：Categoría:Brujería > Satanismo > QAnon
+- [ ] Tiroteo en la Escuela Secundaria Pearl（西班牙語，原始碼 18,549 位元組）— [原文](https://es.wikipedia.org/wiki/Tiroteo_en_la_Escuela_Secundaria_Pearl) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
+- [ ] Doom II（西班牙語，原始碼 18,527 位元組）— [原文](https://es.wikipedia.org/wiki/Doom_II) — 來源分類：Categoría:Brujería > Satanismo > Videojuegos de satanismo
+- [ ] Starhawk（英語，原始碼 18,319 位元組）— [原文](https://en.wikipedia.org/wiki/Starhawk) — 來源分類：Category:Witchcraft > Judaism and witchcraft > Wiccans of Jewish descent
+- [ ] Sean Sellers（西班牙語，原始碼 18,277 位元組）— [原文](https://es.wikipedia.org/wiki/Sean_Sellers) — 來源分類：Categoría:Brujería > Satanismo > Conversos al cristianismo desde el satanismo u ocultismo
+- [ ] Asesinato de Jeannette DePalma（西班牙語，原始碼 18,176 位元組）— [原文](https://es.wikipedia.org/wiki/Asesinato_de_Jeannette_DePalma) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
+- [ ] Abdul Alhazred（西班牙語，原始碼 17,890 位元組）— [原文](https://es.wikipedia.org/wiki/Abdul_Alhazred) — 來源分類：Categoría:Brujería > Satanismo > Demonología
+- [ ] Asesinato sectario en el McDonald’s de Zhaoyuan（西班牙語，原始碼 17,788 位元組）— [原文](https://es.wikipedia.org/wiki/Asesinato_sectario_en_el_McDonald%E2%80%99s_de_Zhaoyuan) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
+- [ ] Lexa Roséan（英語，原始碼 17,778 位元組）— [原文](https://en.wikipedia.org/wiki/Lexa_Ros%C3%A9an) — 來源分類：Category:Witchcraft > Judaism and witchcraft > Wiccans of Jewish descent
+- [ ] David Berkowitz（西班牙語，原始碼 17,541 位元組）— [原文](https://es.wikipedia.org/wiki/David_Berkowitz) — 來源分類：Categoría:Brujería > Satanismo > Conversos al cristianismo desde el satanismo u ocultismo
+- [ ] West Memphis Three（西班牙語，原始碼 16,697 位元組）— [原文](https://es.wikipedia.org/wiki/West_Memphis_Three) — 來源分類：Categoría:Brujería > Satanismo
+- [ ] Movimiento de Resistencia Nórdico（西班牙語，原始碼 15,976 位元組）— [原文](https://es.wikipedia.org/wiki/Movimiento_de_Resistencia_N%C3%B3rdico) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
+- [ ] Silvia Meraz Moreno（西班牙語，原始碼 15,751 位元組）— [原文](https://es.wikipedia.org/wiki/Silvia_Meraz_Moreno) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
+- [ ] Ordo Templi Orientis（法語，原始碼 15,746 位元組）— [原文](https://fr.wikipedia.org/wiki/Ordo_Templi_Orientis) — 來源分類：Catégorie:Sorcellerie > Organisation qui s'intéresse à la magie
+- [ ] Templo de Set（西班牙語，原始碼 15,637 位元組）— [原文](https://es.wikipedia.org/wiki/Templo_de_Set) — 來源分類：Categoría:Brujería > Satanismo
+- [ ] Asunto de los venenos（西班牙語，原始碼 15,529 位元組）— [原文](https://es.wikipedia.org/wiki/Asunto_de_los_venenos) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
+- [ ] Nomy Lamm（英語，原始碼 15,242 位元組）— [原文](https://en.wikipedia.org/wiki/Nomy_Lamm) — 來源分類：Category:Witchcraft > Judaism and witchcraft > Wiccans of Jewish descent
+- [ ] Église de Satan（法語，原始碼 15,087 位元組）— [原文](https://fr.wikipedia.org/wiki/%C3%89glise_de_Satan) — 來源分類：Catégorie:Sorcellerie > Organisation qui s'intéresse à la magie
+- [ ] Ordre des neuf angles（法語，原始碼 14,746 位元組）— [原文](https://fr.wikipedia.org/wiki/Ordre_des_neuf_angles) — 來源分類：Catégorie:Sorcellerie > Organisation qui s'intéresse à la magie
+- [ ] Richard Ramirez（西班牙語，原始碼 14,428 位元組）— [原文](https://es.wikipedia.org/wiki/Richard_Ramirez) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
+- [ ] Malcolm Brenner (writer)（英語，原始碼 14,010 位元組）— [原文](https://en.wikipedia.org/wiki/Malcolm_Brenner_%28writer%29) — 來源分類：Category:Witchcraft > Judaism and witchcraft > Wiccans of Jewish descent
+- [ ] Magdalena Solís（西班牙語，原始碼 13,791 位元組）— [原文](https://es.wikipedia.org/wiki/Magdalena_Sol%C3%ADs) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
+- [ ] Pentagrama invertido（西班牙語，原始碼 13,237 位元組）— [原文](https://es.wikipedia.org/wiki/Pentagrama_invertido) — 來源分類：Categoría:Brujería > Satanismo > Símbolos satánicos
+- [ ] Intento de golpe de Estado en Alemania de 2022（西班牙語，原始碼 13,079 位元組）— [原文](https://es.wikipedia.org/wiki/Intento_de_golpe_de_Estado_en_Alemania_de_2022) — 來源分類：Categoría:Brujería > Satanismo > QAnon
+- [ ] Cristopaganismo（西班牙語，原始碼 13,062 位元組）— [原文](https://es.wikipedia.org/wiki/Cristopaganismo) — 來源分類：Categoría:Brujería > Wicca
+- [ ] Kat Von D（西班牙語，原始碼 12,815 位元組）— [原文](https://es.wikipedia.org/wiki/Kat_Von_D) — 來源分類：Categoría:Brujería > Satanismo > Conversos al cristianismo desde el satanismo u ocultismo
+- [ ] Feminicidas del campo algodonero（西班牙語，原始碼 12,609 位元組）— [原文](https://es.wikipedia.org/wiki/Feminicidas_del_campo_algodonero) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
+- [ ] Sara Aldrete（西班牙語，原始碼 12,449 位元組）— [原文](https://es.wikipedia.org/wiki/Sara_Aldrete) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
+- [ ] Adrenocromo（西班牙語，原始碼 12,437 位元組）— [原文](https://es.wikipedia.org/wiki/Adrenocromo) — 來源分類：Categoría:Brujería > Satanismo > QAnon
+- [ ] Iblís（西班牙語，原始碼 12,382 位元組）— [原文](https://es.wikipedia.org/wiki/Ibl%C3%ADs) — 來源分類：Categoría:Brujería > Satanismo > Demonología
+- [ ] Roger Morneau（西班牙語，原始碼 12,357 位元組）— [原文](https://es.wikipedia.org/wiki/Roger_Morneau) — 來源分類：Categoría:Brujería > Satanismo
+- [ ] Gardnérianisme（法語，原始碼 12,233 位元組）— [原文](https://fr.wikipedia.org/wiki/Gardn%C3%A9rianisme) — 來源分類：Catégorie:Sorcellerie > Organisation qui s'intéresse à la magie
+- [ ] Sello de Salomón (leyenda)（西班牙語，原始碼 11,876 位元組）— [原文](https://es.wikipedia.org/wiki/Sello_de_Salom%C3%B3n_%28leyenda%29) — 來源分類：Categoría:Brujería > Satanismo > Demonología
+- [ ] Oscuridad（西班牙語，原始碼 11,711 位元組）— [原文](https://es.wikipedia.org/wiki/Oscuridad) — 來源分類：Categoría:Brujería > Satanismo > Demonología
+- [ ] Guayota（西班牙語，原始碼 11,704 位元組）— [原文](https://es.wikipedia.org/wiki/Guayota) — 來源分類：Categoría:Brujería > Satanismo > Demonología
+- [ ] Correllianismo（西班牙語，原始碼 11,691 位元組）— [原文](https://es.wikipedia.org/wiki/Correllianismo) — 來源分類：Categoría:Brujería > Wicca > Tradiciones wiccanas
+- [ ] Joseph-Antoine Boullan（西班牙語，原始碼 11,550 位元組）— [原文](https://es.wikipedia.org/wiki/Joseph-Antoine_Boullan) — 來源分類：Categoría:Brujería > Satanismo
+- [ ] Église de tous les mondes（法語，原始碼 11,248 位元組）— [原文](https://fr.wikipedia.org/wiki/%C3%89glise_de_tous_les_mondes) — 來源分類：Catégorie:Sorcellerie > Organisation qui s'intéresse à la magie
+- [ ] Posesiones de Louviers（西班牙語，原始碼 10,902 位元組）— [原文](https://es.wikipedia.org/wiki/Posesiones_de_Louviers) — 來源分類：Categoría:Brujería > Satanismo
+- [ ] Xandrianismo（西班牙語，原始碼 10,840 位元組）— [原文](https://es.wikipedia.org/wiki/Xandrianismo) — 來源分類：Categoría:Brujería > Wicca > Tradiciones wiccanas
+- [ ] Asedio de Nueva Esperanza（西班牙語，原始碼 10,795 位元組）— [原文](https://es.wikipedia.org/wiki/Asedio_de_Nueva_Esperanza) — 來源分類：Categoría:Brujería > Satanismo
+- [ ] Demonología（西班牙語，原始碼 10,732 位元組）— [原文](https://es.wikipedia.org/wiki/Demonolog%C3%ADa) — 來源分類：Categoría:Brujería > Satanismo > Demonología
+- [ ] Xandrianisme（法語，原始碼 10,453 位元組）— [原文](https://fr.wikipedia.org/wiki/Xandrianisme) — 來源分類：Catégorie:Sorcellerie > Organisation qui s'intéresse à la magie
+- [ ] Adam (víctima)（西班牙語，原始碼 10,410 位元組）— [原文](https://es.wikipedia.org/wiki/Adam_%28v%C3%ADctima%29) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
+- [ ] Benedict Daswa（西班牙語，原始碼 10,323 位元組）— [原文](https://es.wikipedia.org/wiki/Benedict_Daswa) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
+- [ ] Caso Tattarisuo（西班牙語，原始碼 10,055 位元組）— [原文](https://es.wikipedia.org/wiki/Caso_Tattarisuo) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
+- [ ] Tomás Maldonado Cera（西班牙語，原始碼 9,935 位元組）— [原文](https://es.wikipedia.org/wiki/Tom%C3%A1s_Maldonado_Cera) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
+- [ ] Juicio por abusos rituales satánicos de Oak Hill（西班牙語，原始碼 9,894 位元組）— [原文](https://es.wikipedia.org/wiki/Juicio_por_abusos_rituales_sat%C3%A1nicos_de_Oak_Hill) — 來源分類：Categoría:Brujería > Satanismo > Abuso ritual satánico
+- [ ] Maria Laura Mainetti（西班牙語，原始碼 9,855 位元組）— [原文](https://es.wikipedia.org/wiki/Maria_Laura_Mainetti) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
+- [ ] Lucien Greaves（西班牙語，原始碼 9,636 位元組）— [原文](https://es.wikipedia.org/wiki/Lucien_Greaves) — 來源分類：Categoría:Brujería > Satanismo > El Templo Satánico
+- [ ] Casa de los lamentos (Guanajuato)（西班牙語，原始碼 9,556 位元組）— [原文](https://es.wikipedia.org/wiki/Casa_de_los_lamentos_%28Guanajuato%29) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
+- [ ] Dios astado（西班牙語，原始碼 9,459 位元組）— [原文](https://es.wikipedia.org/wiki/Dios_astado) — 來源分類：Categoría:Brujería > Wicca
+- [ ] Destripadores de Chicago（西班牙語，原始碼 9,444 位元組）— [原文](https://es.wikipedia.org/wiki/Destripadores_de_Chicago) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
+- [ ] Berthe de Courrière（西班牙語，原始碼 9,411 位元組）— [原文](https://es.wikipedia.org/wiki/Berthe_de_Courri%C3%A8re) — 來源分類：Categoría:Brujería > Satanismo
+- [ ] Curva del diablo (Bolivia)（西班牙語，原始碼 9,333 位元組）— [原文](https://es.wikipedia.org/wiki/Curva_del_diablo_%28Bolivia%29) — 來源分類：Categoría:Brujería > Satanismo
+- [ ] Øystein Aarseth（西班牙語，原始碼 9,333 位元組）— [原文](https://es.wikipedia.org/wiki/%C3%98ystein_Aarseth) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
+- [ ] Movimiento de la Diosa（西班牙語，原始碼 9,248 位元組）— [原文](https://es.wikipedia.org/wiki/Movimiento_de_la_Diosa) — 來源分類：Categoría:Brujería > Wicca
+- [ ] Yule（西班牙語，原始碼 9,128 位元組）— [原文](https://es.wikipedia.org/wiki/Yule) — 來源分類：Categoría:Brujería > Wicca > Festividades wiccanas
+- [ ] Ars Goetia（西班牙語，原始碼 8,935 位元組）— [原文](https://es.wikipedia.org/wiki/Ars_Goetia) — 來源分類：Categoría:Brujería > Satanismo > Demonología
+- [ ] Jason Massey（西班牙語，原始碼 8,877 位元組）— [原文](https://es.wikipedia.org/wiki/Jason_Massey) — 來源分類：Categoría:Brujería > Satanismo > Conversos al cristianismo desde el satanismo u ocultismo
+- [ ] Rueda del Año（西班牙語，原始碼 8,863 位元組）— [原文](https://es.wikipedia.org/wiki/Rueda_del_A%C3%B1o) — 來源分類：Categoría:Brujería > Wicca
+- [ ] Marcelo Antelo（西班牙語，原始碼 8,676 位元組）— [原文](https://es.wikipedia.org/wiki/Marcelo_Antelo) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
+- [ ] Casos de abuso infantil en el condado de Kern（西班牙語，原始碼 8,620 位元組）— [原文](https://es.wikipedia.org/wiki/Casos_de_abuso_infantil_en_el_condado_de_Kern) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
+- [ ] Renacido（西班牙語，原始碼 8,571 位元組）— [原文](https://es.wikipedia.org/wiki/Renacido) — 來源分類：Categoría:Brujería > Satanismo > Demonología
+- [ ] Carl Kellner (mystique)（法語，原始碼 8,465 位元組）— [原文](https://fr.wikipedia.org/wiki/Carl_Kellner_%28mystique%29) — 來源分類：Catégorie:Sorcellerie > Organisation qui s'intéresse à la magie > Ordo Templi Orientis
+- [ ] Aurum Solis（法語，原始碼 8,255 位元組）— [原文](https://fr.wikipedia.org/wiki/Aurum_Solis) — 來源分類：Catégorie:Sorcellerie > Organisation qui s'intéresse à la magie
+- [ ] Adolfo Constanzo（西班牙語，原始碼 8,097 位元組）— [原文](https://es.wikipedia.org/wiki/Adolfo_Constanzo) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
+- [ ] Angra Mainyu（西班牙語，原始碼 8,004 位元組）— [原文](https://es.wikipedia.org/wiki/Angra_Mainyu) — 來源分類：Categoría:Brujería > Satanismo > Demonología
+- [ ] Anneliese Michel（西班牙語，原始碼 7,951 位元組）— [原文](https://es.wikipedia.org/wiki/Anneliese_Michel) — 來源分類：Categoría:Brujería > Satanismo > Demonología
+- [ ] Ataque en la preparatoria San Andrés（西班牙語，原始碼 7,909 位元組）— [原文](https://es.wikipedia.org/wiki/Ataque_en_la_preparatoria_San_Andr%C3%A9s) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
+- [ ] Peter H. Gilmore（西班牙語，原始碼 7,730 位元組）— [原文](https://es.wikipedia.org/wiki/Peter_H._Gilmore) — 來源分類：Categoría:Brujería > Satanismo > Iglesia de Satán
+- [ ] Beltane（西班牙語，原始碼 7,645 位元組）— [原文](https://es.wikipedia.org/wiki/Beltane) — 來源分類：Categoría:Brujería > Wicca > Festividades wiccanas
+- [ ] Rede（西班牙語，原始碼 7,568 位元組）— [原文](https://es.wikipedia.org/wiki/Rede) — 來源分類：Categoría:Brujería > Wicca
+- [ ] Estado profundo en los Estados Unidos（西班牙語，原始碼 7,485 位元組）— [原文](https://es.wikipedia.org/wiki/Estado_profundo_en_los_Estados_Unidos) — 來源分類：Categoría:Brujería > Satanismo > QAnon
+- [ ] Asesinato de Elyse Pahler（西班牙語，原始碼 7,438 位元組）— [原文](https://es.wikipedia.org/wiki/Asesinato_de_Elyse_Pahler) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
+- [ ] Doom 3: BFG Edition（西班牙語，原始碼 7,370 位元組）— [原文](https://es.wikipedia.org/wiki/Doom_3%3A_BFG_Edition) — 來源分類：Categoría:Brujería > Satanismo > Videojuegos de satanismo
+- [ ] Élus Coëns（法語，原始碼 7,193 位元組）— [原文](https://fr.wikipedia.org/wiki/%C3%89lus_Co%C3%ABns) — 來源分類：Catégorie:Sorcellerie > Organisation qui s'intéresse à la magie
+- [ ] Seax-Wica（西班牙語，原始碼 7,045 位元組）— [原文](https://es.wikipedia.org/wiki/Seax-Wica) — 來源分類：Categoría:Brujería > Wicca > Tradiciones wiccanas
+- [ ] Herman Slater（英語，原始碼 7,001 位元組）— [原文](https://en.wikipedia.org/wiki/Herman_Slater) — 來源分類：Category:Witchcraft > Judaism and witchcraft > Wiccans of Jewish descent
+- [ ] Astrum Argentum（法語，原始碼 6,959 位元組）— [原文](https://fr.wikipedia.org/wiki/Astrum_Argentum) — 來源分類：Catégorie:Sorcellerie > Organisation qui s'intéresse à la magie
+- [ ] Ottis Toole（西班牙語，原始碼 6,760 位元組）— [原文](https://es.wikipedia.org/wiki/Ottis_Toole) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
+- [ ] Enjuiciamiento: El Caso McMartin（西班牙語，原始碼 6,623 位元組）— [原文](https://es.wikipedia.org/wiki/Enjuiciamiento%3A_El_Caso_McMartin) — 來源分類：Categoría:Brujería > Satanismo > Abuso ritual satánico
+- [ ] Hail Satan?（西班牙語，原始碼 6,566 位元組）— [原文](https://es.wikipedia.org/wiki/Hail_Satan%3F) — 來源分類：Categoría:Brujería > Satanismo
+- [ ] Primera Iglesia Satánica（西班牙語，原始碼 6,418 位元組）— [原文](https://es.wikipedia.org/wiki/Primera_Iglesia_Sat%C3%A1nica) — 來源分類：Categoría:Brujería > Satanismo > Iglesia de Satán
+- [ ] Ángel caído（西班牙語，原始碼 6,412 位元組）— [原文](https://es.wikipedia.org/wiki/%C3%81ngel_ca%C3%ADdo) — 來源分類：Categoría:Brujería > Satanismo > Demonología
+- [ ] Judy Harrow（英語，原始碼 6,405 位元組）— [原文](https://en.wikipedia.org/wiki/Judy_Harrow) — 來源分類：Category:Witchcraft > Judaism and witchcraft > Wiccans of Jewish descent
+- [ ] Ricky Kasso（西班牙語，原始碼 6,350 位元組）— [原文](https://es.wikipedia.org/wiki/Ricky_Kasso) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
+- [ ] Pachamama Raymi（西班牙語，原始碼 6,338 位元組）— [原文](https://es.wikipedia.org/wiki/Pachamama_Raymi) — 來源分類：Categoría:Brujería > Wicca
+- [ ] Misa negra（西班牙語，原始碼 6,274 位元組）— [原文](https://es.wikipedia.org/wiki/Misa_negra) — 來源分類：Categoría:Brujería > Satanismo > Demonología
+- [ ] Bosque del terror de Ibadán（西班牙語，原始碼 6,217 位元組）— [原文](https://es.wikipedia.org/wiki/Bosque_del_terror_de_Ibad%C3%A1n) — 來源分類：Categoría:Brujería > Satanismo > Delitos relacionados con el satanismo u ocultismo
+- [ ] Illuminates of Thanateros（法語，原始碼 5,834 位元組）— [原文](https://fr.wikipedia.org/wiki/Illuminates_of_Thanateros) — 來源分類：Catégorie:Sorcellerie > Organisation qui s'intéresse à la magie
+- [ ] Bâtisseurs de l'Adytum（法語，原始碼 5,696 位元組）— [原文](https://fr.wikipedia.org/wiki/B%C3%A2tisseurs_de_l%27Adytum) — 來源分類：Catégorie:Sorcellerie > Organisation qui s'intéresse à la magie
+- [ ] Institut Abrasax（法語，原始碼 5,560 位元組）— [原文](https://fr.wikipedia.org/wiki/Institut_Abrasax) — 來源分類：Catégorie:Sorcellerie > Organisation qui s'intéresse à la magie
+- [ ] Ecclesia Gnostica Catholica（法語，原始碼 4,817 位元組）— [原文](https://fr.wikipedia.org/wiki/Ecclesia_Gnostica_Catholica) — 來源分類：Catégorie:Sorcellerie > Organisation qui s'intéresse à la magie
+- [ ] Orden Negra (grupo satanista)（西班牙語，原始碼 4,545 位元組）— [原文](https://es.wikipedia.org/wiki/Orden_Negra_%28grupo_satanista%29) — 來源分類：Categoría:Brujería > Satanismo
+- [ ] Livre des Esperitz（西班牙語，原始碼 4,029 位元組）— [原文](https://es.wikipedia.org/wiki/Livre_des_Esperitz) — 來源分類：Categoría:Brujería > Satanismo

@@ -43,7 +43,7 @@ BOILERPLATE = re.compile(
     r"literatuur|zie ook|externe|bronnen|voetnoot|"
     r"przypisy|linki zewn|bibliografia|zobacz też|"
     r"ikus gainera|erreferentzia|kanpo estek|外部リンク|脚注|参考文献|関連項目|"
-    r"註釋|参见|參見|參考|注释|각주|외부|참고|同名條目|примечани|литератур|ссылк|"
+    r"註釋|注釋|参见|參見|參考|注释|각주|외부|참고|같이 보기|같이보기|同名條目|примечани|литератур|ссылк|"
     r"див\. також|джерела|посилання|πηγές|παραπομπές|εξωτερικ|δείτε|jegyzetek|"
     r"források|további|kapcsolódó|collegamenti|voci correlate|altri progetti|"
     r"מקורות|קישורים|לקריאה|ראו גם|انظر أيضا|مراجع|وصلات|مصادر)",
@@ -61,23 +61,29 @@ def api(lang, params):
         return json.loads(r.read().decode("utf-8"))
 
 
+# 中文維基的章節名要指定字型變體，否則 API 回傳簡體，
+# 而條目依 Law 6 一律用正體，字串比對永遠對不上。
+VARIANTS = {"zh": "zh-tw"}
+
+
 def sections_of(lang, title):
     """回傳 [(頂層章節名, [次層小節名, ...]), ...]。
 
     條目可能以頂層章節名開節，也可能只取其中某個次層小節（例如只譯
     〈Biographie〉底下的〈La mission〉），因此兩層都要納入比對。
     """
-    d = api(
-        lang,
-        {
-            "action": "parse",
-            "page": title,
-            "prop": "sections",
-            "format": "json",
-            "formatversion": 2,
-            "redirects": 1,
-        },
-    )
+    params = {
+        "action": "parse",
+        "page": title,
+        "prop": "sections",
+        "format": "json",
+        "formatversion": 2,
+        "redirects": 1,
+    }
+    if lang in VARIANTS:
+        params["variant"] = VARIANTS[lang]
+        params["uselang"] = VARIANTS[lang]
+    d = api(lang, params)
     out = []
     for s in d.get("parse", {}).get("sections", []):
         level = s.get("toclevel")
@@ -104,7 +110,9 @@ def source_pages(entry):
     """由 frontmatter 的 source 區塊還原 (語言, 條目名) 清單。"""
     src = entry.get("source") or {}
     pages = []
-    for url_key, lang_key in (("wiki", "wiki_lang"), ("wiki_secondary", "wiki_secondary_lang")):
+    for url_key, lang_key in (("wiki", "wiki_lang"),
+                              ("wiki_secondary", "wiki_secondary_lang"),
+                              ("wiki_tertiary", "wiki_tertiary_lang")):
         url = src.get(url_key)
         if not url:
             continue

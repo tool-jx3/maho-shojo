@@ -60,6 +60,31 @@ BRACKETED_DOTS = re.compile(r"[\(\[（〔「『<]\s*\.\.\.\s*[\)\]）〕」』>]
 # 假名（含片假名中點）與諺文。含這些字元的行屬日、韓文原文（章節標題、對照表等），
 # 其中的日語新字體漢字（会、来、実、体……）並非簡體中文，故不作簡體字判定。
 NATIVE_SCRIPT = re.compile(r"[぀-ヿᄀ-ᇿ가-힯]")
+# 〈條目名〉《書名》「原文詞」內的內容是原文引用，東亞條目中常是純漢字的日文詞，
+# 其新字體與簡體字形相同，檢查前先移除。
+QUOTED_NATIVE = re.compile(r"[〈《「『]([^〉》」』]*)[〉》」』]")
+
+
+def simplified_targets(line, cjk_entry):
+    """回傳這一行需要做簡體字判定的文字片段。
+
+    東亞條目的原文會出現在三個地方：章節標題、專有名詞對照表的前兩欄、
+    以及行文中以〈〉《》「」框住的條目名與書名。這些都要排除，
+    否則條目會被逼著去改動原文以通過檢查。
+    """
+    if not cjk_entry:
+        return [line]
+    if line.lstrip().startswith("#"):
+        return []
+    # URL 內的原文標題不是行文，逐字保留；否則條目會被逼著把來源網址改成
+    # 百分比編碼才能通過檢查，反而更難讀。
+    line = re.sub(r"https?://\S+", "", line)
+    stripped = line.strip()
+    if stripped.startswith("|") and stripped.endswith("|"):
+        cells = [c for c in stripped[1:-1].split("|")]
+        # 表格前兩欄是「原文」與「羅馬轉寫」，其餘（繁體中文、說明）仍要檢查
+        return [QUOTED_NATIVE.sub("", c) for c in cells[2:]]
+    return [QUOTED_NATIVE.sub("", line)]
 
 
 # backlog/ 底下是機器掃描產生的外語條目標題清單，不適用中文書寫規範
@@ -104,6 +129,17 @@ def check(path, is_entry):
             if not re.search(r"^\s*retrieved:\s*\S", fm, re.M):
                 problems.append("frontmatter 缺少 source.retrieved 擷取日期")
 
+    # 東亞條目的章節標題採「原文章節名（繁中章節名）」體例，原文部分可能是純漢字
+    # （脚注、参考文献、関連項目），其中的日語新字體與簡體字形相同。含假名／諺文的
+    # 行已由 NATIVE_SCRIPT 排除，純漢字標題則靠這裡的語言判斷排除——否則會逼得
+    # 條目為了通過檢查去改動標題結構，變成檢查器在扭曲內容。
+    # INDEX.md、indexes/、name-glossary.md 由腳本彙整各條目產生，整份都是各語言的
+    # 原文標題與名詞，同樣適用原文豁免。
+    generated = os.path.basename(path) in ("INDEX.md", "name-glossary.md") or         os.path.basename(os.path.dirname(path)) == "indexes"
+    cjk_entry = generated or bool(
+        re.search(r"^language:\s*[\"']?(ja|zh|ko)[\"']?\s*$",
+                  frontmatter_of(text) or "", re.M))
+
     lines = text.splitlines()
     # frontmatter 用 YAML 語法，半形逗號屬正常，不納入標點檢查
     fm_end = 0
@@ -119,9 +155,9 @@ def check(path, is_entry):
             in_code = not in_code
             continue
         is_quote = line.lstrip().startswith(">")
-        # 原文引用行與日、韓文原文行逐字保留，不做簡體字判定
         if not (is_quote or NATIVE_SCRIPT.search(line)):
-            bad = sorted({ch for ch in line if ch in SIMPLIFIED})
+            bad = sorted({ch for seg in simplified_targets(line, cjk_entry)
+                          for ch in seg if ch in SIMPLIFIED})
             if bad:
                 problems.append("第 %d 行出現簡體字：%s" % (lineno, "、".join(bad)))
         if lineno <= fm_end or is_quote:
