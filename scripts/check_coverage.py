@@ -35,11 +35,11 @@ UA = (
 
 # 各語言的參考文獻／延伸閱讀類章節，不列入覆蓋率
 BOILERPLATE = re.compile(
-    r"^(referen|référen|referan|referanser|explanatory note|literatur|weblink|einzelnachweis|"
+    r"^(referen|référen|referên|referan|referanser|ligações externas|ver também|explanatory note|literatur|weblink|einzelnachweis|"
     r"articles connexes|articoli correlati|artículos relacionados|"
-    r"siehe auch|quellen|anmerkungen|"
+    r"siehe auch|quellen|anmerkungen|fußnoten|fussnoten|"
     r"bibliograf|bibliograph|enlaces|véase|notas|note|voir aussi|liens|annexes|"
-    r"external|further reading|see also|sources|notes|footnotes|primary sources|"
+    r"external|further reading|see also|sources|notes|footnotes|primary sources|citations|"
     r"kilde|kjelder|eksterne|litteratur|se også|källor|externa|noter|se även|"
     r"literatuur|zie ook|externe|bronnen|voetnoot|"
     r"przypisy|linki zewn|bibliografia|zobacz też|"
@@ -141,9 +141,13 @@ def main():
         if not pages:
             print("SKIP %-34s（frontmatter 無可解析的來源 URL）" % e["id"])
             continue
+        # 分來源計算：第二／第三來源常是「同主題的另一語言版本」，
+        # 條目依體例只用主要來源的章節名開節，若把各版章節合併計分，
+        # 這類條目必然被判低分——那是體例問題，不是內容缺漏。
+        per_source = []
         missing_all = []
         total = 0
-        for lang, title in pages:
+        for idx, (lang, title) in enumerate(pages):
             try:
                 secs = sections_of(lang, title)
             except Exception as exc:  # noqa: BLE001
@@ -151,22 +155,32 @@ def main():
                 continue
             total += len(secs)
             ntext = norm(text)
+            miss_here = []
             for name, children in secs:
                 # 頂層章節名有出現、或其任一次層小節名有出現，都算涵蓋
                 if norm(name) in ntext or any(norm(c) in ntext for c in children):
                     continue
+                miss_here.append(name)
                 missing_all.append("%s：%s" % (lang, name))
+            per_source.append((lang, title, len(secs) - len(miss_here), len(secs), idx))
             time.sleep(0.4)
         if total == 0:
             continue
         covered = total - len(missing_all)
         pct = 100.0 * covered / total
-        flag = "ok  " if pct >= 80 else "LOW "
+        # 判定以主要來源為準；次要來源另行標示，不拖累主分數
+        primary = [x for x in per_source if x[4] == 0]
+        pp = (100.0 * primary[0][2] / primary[0][3]) if primary and primary[0][3] else pct
+        flag = "ok  " if pp >= 80 else "LOW "
         print("%s %-34s %d/%d 節（%.0f%%）" % (flag, e["id"], covered, total, pct))
+        if len(per_source) > 1:
+            print("       分來源：%s" % "、".join(
+                "%s %d/%d%s" % (l, c, t, "（主）" if i == 0 else "")
+                for l, _t2, c, t, i in per_source))
         for m in missing_all:
             print("       未出現：%s" % m)
-        if pct < 80:
-            worst.append((pct, e["id"]))
+        if pp < 80:
+            worst.append((pp, e["id"]))
 
     if worst:
         print("\n覆蓋率低於 80%% 的條目 %d 條：" % len(worst))

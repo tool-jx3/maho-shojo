@@ -17,8 +17,8 @@
 | --- | --- |
 | 掃描結果原始筆數 | 5622 |
 | 濾除：虛構作品與流行文化 | 2083 |
-| 濾除：已收錄 | 95 |
-| **待檢視** | **3444** |
+| 濾除：已收錄 | 147 |
+| **待檢視** | **3392** |
 
 掃描涵蓋 en、de、fr、es、it、sv、ru、pl、ja 九個語言版本的獵巫與巫術相關分類。未涵蓋的語言（ko、zh、ar、he、yo、ln 等）目前只能靠個別查找，這是本清單已知的偏誤。
 
@@ -37,20 +37,20 @@
 
 | 主題 | 項數 | 清單 |
 | --- | --- | --- |
-| 獵巫受害者（個案） | 152 | [backlog/victims.md](backlog/victims.md) |
+| 獵巫受害者（個案） | 139 | [backlog/victims.md](backlog/victims.md) |
 | 獵巫加害者 | 81 | [backlog/perpetrators.md](backlog/perpetrators.md) |
 | 獵巫的反對者 | 24 | [backlog/opponents.md](backlog/opponents.md) |
-| 被處決者 | 162 | [backlog/executed.md](backlog/executed.md) |
-| 受指控者與指控者 | 85 | [backlog/accused.md](backlog/accused.md) |
-| 審判事件 | 238 | [backlog/trials.md](backlog/trials.md) |
+| 被處決者 | 150 | [backlog/executed.md](backlog/executed.md) |
+| 受指控者與指控者 | 77 | [backlog/accused.md](backlog/accused.md) |
+| 審判事件 | 229 | [backlog/trials.md](backlog/trials.md) |
 | 巫術研究者與研究史 | 31 | [backlog/scholarship.md](backlog/scholarship.md) |
-| 傳說中的巫者形象 | 138 | [backlog/legendary-witches.md](backlog/legendary-witches.md) |
+| 傳說中的巫者形象 | 135 | [backlog/legendary-witches.md](backlog/legendary-witches.md) |
 | 小妖精與使魔 | 39 | [backlog/imps-familiars.md](backlog/imps-familiars.md) |
 | 詛咒與法術 | 211 | [backlog/curses.md](backlog/curses.md) |
 | 童話中的女巫 | 98 | [backlog/fairy-tales.md](backlog/fairy-tales.md) |
 | 傳說人物與怪異存在 | 82 | [backlog/legendary-beings.md](backlog/legendary-beings.md) |
 | 獵巫的文化再現 | 146 | [backlog/reception.md](backlog/reception.md) |
-| 各地區的巫術 | 271 | [backlog/regional.md](backlog/regional.md) |
-| 其他 | 1686 | [backlog/misc.md](backlog/misc.md) |
+| 各地區的巫術 | 268 | [backlog/regional.md](backlog/regional.md) |
+| 其他 | 1682 | [backlog/misc.md](backlog/misc.md) |
 
 完整未篩選的掃描結果保存在 [backlog/candidates-raw.tsv](backlog/candidates-raw.tsv)，包含被規則濾掉的項目，以免有東西被靜默丟棄。

@@ -1,6 +1,6 @@
 # 待收錄候選：其他
 
-共 1686 項。回到 [待辦總表](../BACKLOG.md)。
+共 1682 項。回到 [待辦總表](../BACKLOG.md)。
 
 本檔由 `scripts/build_reference_backlog.py` 產生，是機器掃描的結果而非選錄決定，每一項都需要人工判斷。
 
@@ -555,7 +555,6 @@
 - [ ] **满族说部**（中文，原始碼 14,579 位元組）— [原文](https://zh.wikipedia.org/wiki/%E6%BB%A1%E6%97%8F%E8%AF%B4%E9%83%A8) — 來源分類：Category:薩滿教
 - [ ] **大入道**（日語，原始碼 14,568 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%85%A5%E9%81%93) — 來源分類：Category:日本の妖怪
 - [ ] **春申君**（中文，原始碼 14,563 位元組）— [原文](https://zh.wikipedia.org/wiki/%E6%98%A5%E7%94%B3%E5%90%9B) — 來源分類：Category:中國民間信仰 > 中国人物神
-- [ ] **Sidonia von Borcke**（法語，原始碼 14,553 位元組）— [原文](https://fr.wikipedia.org/wiki/Sidonia_von_Borcke) — 來源分類：Catégorie:Sorcellerie
 - [ ] **A Man Was Going Down the Road**（英語，原始碼 14,529 位元組）— [原文](https://en.wikipedia.org/wiki/A_Man_Was_Going_Down_the_Road) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Works about Medea
 - [ ] **Azande witchcraft**（英語，原始碼 14,510 位元組）— [原文](https://en.wikipedia.org/wiki/Azande_witchcraft) — 來源分類：Category:Witchcraft > African witchcraft
 - [ ] **Donas de fuera**（義大利語，原始碼 14,494 位元組）— [原文](https://it.wikipedia.org/wiki/Donas_de_fuera) — 來源分類：Categoria:Stregoneria
@@ -829,7 +828,6 @@
 - [ ] **Gerard de Ruán**（西班牙語，原始碼 10,198 位元組）— [原文](https://es.wikipedia.org/wiki/Gerard_de_Ru%C3%A1n) — 來源分類：Categoría:Brujería
 - [ ] **霊言**（日語，原始碼 10,185 位元組）— [原文](https://ja.wikipedia.org/wiki/%E9%9C%8A%E8%A8%80) — 來源分類：Category:シャーマニズム > 霊媒師
 - [ ] **Dayan (witch)**（英語，原始碼 10,183 位元組）— [原文](https://en.wikipedia.org/wiki/Dayan_%28witch%29) — 來源分類：Category:Witchcraft > Asian witchcraft
-- [ ] **Tituba**（義大利語，原始碼 10,168 位元組）— [原文](https://it.wikipedia.org/wiki/Tituba) — 來源分類：Categoria:Stregoneria > Processi per stregoneria
 - [ ] **無生老母**（中文，原始碼 10,136 位元組）— [原文](https://zh.wikipedia.org/wiki/%E7%84%A1%E7%94%9F%E8%80%81%E6%AF%8D) — 來源分類：Category:中國民間信仰 > 無生老母崇拜
 - [ ] **Internationaler Tag gegen Hexenwahn**（德語，原始碼 10,127 位元組）— [原文](https://de.wikipedia.org/wiki/Internationaler_Tag_gegen_Hexenwahn) — 來源分類：Kategorie:Hexerei > Moderne Hexenverfolgung
 - [ ] **ひょうすべ**（日語，原始碼 10,118 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%81%B2%E3%82%87%E3%81%86%E3%81%99%E3%81%B9) — 來源分類：Category:日本の妖怪 > 河童
@@ -843,7 +841,6 @@
 - [ ] **百鬼夜行**（日語，原始碼 9,964 位元組）— [原文](https://ja.wikipedia.org/wiki/%E7%99%BE%E9%AC%BC%E5%A4%9C%E8%A1%8C) — 來源分類：Category:日本の妖怪
 - [ ] **十二天将**（日語，原始碼 9,948 位元組）— [原文](https://ja.wikipedia.org/wiki/%E5%8D%81%E4%BA%8C%E5%A4%A9%E5%B0%86) — 來源分類：Category:陰陽道 > 陰陽道の神
 - [ ] **Der Flaschenkobold**（德語，原始碼 9,907 位元組）— [原文](https://de.wikipedia.org/wiki/Der_Flaschenkobold) — 來源分類：Kategorie:Hexerei > Teufelspakt
-- [ ] **Isobel Gowdie**（西班牙語，原始碼 9,876 位元組）— [原文](https://es.wikipedia.org/wiki/Isobel_Gowdie) — 來源分類：Categoría:Brujería
 - [ ] **Teufelspakt**（德語，原始碼 9,855 位元組）— [原文](https://de.wikipedia.org/wiki/Teufelspakt) — 來源分類：Kategorie:Hexenverfolgung
 - [ ] **단군 신화**（韓語，原始碼 9,855 位元組）— [原文](https://ko.wikipedia.org/wiki/%EB%8B%A8%EA%B5%B0_%EC%8B%A0%ED%99%94) — 來源分類：분류:무속 > 무불습합
 - [ ] **萨巴依**（中文，原始碼 9,841 位元組）— [原文](https://zh.wikipedia.org/wiki/%E8%90%A8%E5%B7%B4%E4%BE%9D) — 來源分類：Category:薩滿教
@@ -1151,7 +1148,6 @@
 - [ ] **Philtre d'amour**（法語，原始碼 6,628 位元組）— [原文](https://fr.wikipedia.org/wiki/Philtre_d%27amour) — 來源分類：Catégorie:Sorcellerie
 - [ ] **ぬっぺふほふ**（日語，原始碼 6,625 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%81%AC%E3%81%A3%E3%81%BA%E3%81%B5%E3%81%BB%E3%81%B5) — 來源分類：Category:日本の妖怪 > 妖怪絵巻の妖怪
 - [ ] **Peter Binsfeld**（法語，原始碼 6,619 位元組）— [原文](https://fr.wikipedia.org/wiki/Peter_Binsfeld) — 來源分類：Catégorie:Sorcellerie
-- [ ] **Anna Maria Schwegelin**（義大利語，原始碼 6,618 位元組）— [原文](https://it.wikipedia.org/wiki/Anna_Maria_Schwegelin) — 來源分類：Categoria:Stregoneria > Processi per stregoneria > Persone condannate per stregoneria
 - [ ] **Magdelaine Bavent**（英語，原始碼 6,616 位元組）— [原文](https://en.wikipedia.org/wiki/Magdelaine_Bavent) — 來源分類：Category:Witchcraft > Witches
 - [ ] **Etoro**（德語，原始碼 6,609 位元組）— [原文](https://de.wikipedia.org/wiki/Etoro) — 來源分類：Kategorie:Hexerei > Moderne Hexenverfolgung
 - [ ] **バーバ・ヤーガ**（日語，原始碼 6,608 位元組）— [原文](https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%BC%E3%83%90%E3%83%BB%E3%83%A4%E3%83%BC%E3%82%AC) — 來源分類：Category:魔女

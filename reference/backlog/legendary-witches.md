@@ -1,6 +1,6 @@
 # 待收錄候選：傳說中的巫者形象
 
-共 138 項。回到 [待辦總表](../BACKLOG.md)。
+共 135 項。回到 [待辦總表](../BACKLOG.md)。
 
 本檔由 `scripts/build_reference_backlog.py` 產生，是機器掃描的結果而非選錄決定，每一項都需要人工判斷。
 
@@ -17,7 +17,6 @@
 - [ ] **Merlin (téléfilm, 1998)**（法語，原始碼 51,881 位元組）— [原文](https://fr.wikipedia.org/wiki/Merlin_%28t%C3%A9l%C3%A9film%2C_1998%29) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende > Merlin
 - [ ] **Circé**（法語，原始碼 50,108 位元組）— [原文](https://fr.wikipedia.org/wiki/Circ%C3%A9) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine > Sorcière
 - [ ] **Baba Yaga**（法語，原始碼 48,747 位元組）— [原文](https://fr.wikipedia.org/wiki/Baba_Yaga) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende
-- [ ] **Médée (mythologie)**（法語，原始碼 46,585 位元組）— [原文](https://fr.wikipedia.org/wiki/M%C3%A9d%C3%A9e_%28mythologie%29) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine > Sorcière
 - [ ] **Procès des sorcières de Salem**（法語，原始碼 46,065 位元組）— [原文](https://fr.wikipedia.org/wiki/Proc%C3%A8s_des_sorci%C3%A8res_de_Salem) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine > Procès des sorcières de Salem
 - [ ] **Ведьмы в массовой культуре**（俄語，原始碼 44,556 位元組）— [原文](https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%B4%D1%8C%D0%BC%D1%8B_%D0%B2_%D0%BC%D0%B0%D1%81%D1%81%D0%BE%D0%B2%D0%BE%D0%B9_%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B5) — 來源分類：Категория:Ведьмы
 - [ ] **Macrale**（法語，原始碼 43,287 位元組）— [原文](https://fr.wikipedia.org/wiki/Macrale) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine
@@ -41,7 +40,6 @@
 - [ ] **Procès de sorcellerie au Pays basque**（法語，原始碼 22,945 位元組）— [原文](https://fr.wikipedia.org/wiki/Proc%C3%A8s_de_sorcellerie_au_Pays_basque) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine
 - [ ] **Fée Viviane**（法語，原始碼 22,456 位元組）— [原文](https://fr.wikipedia.org/wiki/F%C3%A9e_Viviane) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende
 - [ ] **Kochtcheï**（法語，原始碼 20,912 位元組）— [原文](https://fr.wikipedia.org/wiki/Kochtche%C3%AF) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende
-- [ ] **Magda Logomer**（西班牙語，原始碼 20,782 位元組）— [原文](https://es.wikipedia.org/wiki/Magda_Logomer) — 來源分類：Categoría:Brujería > Brujas (brujería) > Personas acusadas de brujería
 - [ ] **Procès en sorcellerie dans le pays de Vaud**（法語，原始碼 20,297 位元組）— [原文](https://fr.wikipedia.org/wiki/Proc%C3%A8s_en_sorcellerie_dans_le_pays_de_Vaud) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine
 - [ ] **Procès des sorcières de Bury St Edmunds**（法語，原始碼 20,144 位元組）— [原文](https://fr.wikipedia.org/wiki/Proc%C3%A8s_des_sorci%C3%A8res_de_Bury_St_Edmunds) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine
 - [ ] **La Maison de la sorcière**（法語，原始碼 19,587 位元組）— [原文](https://fr.wikipedia.org/wiki/La_Maison_de_la_sorci%C3%A8re) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine > Procès des sorcières de Salem
@@ -86,7 +84,6 @@
 - [ ] **Procès des sorcières féeriques de Sicile**（法語，原始碼 9,747 位元組）— [原文](https://fr.wikipedia.org/wiki/Proc%C3%A8s_des_sorci%C3%A8res_f%C3%A9eriques_de_Sicile) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine
 - [ ] **Simon le Magicien**（法語，原始碼 9,726 位元組）— [原文](https://fr.wikipedia.org/wiki/Simon_le_Magicien) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende
 - [ ] **Mages et Sorciers : Les Contes d'Arcadia**（法語，原始碼 9,619 位元組）— [原文](https://fr.wikipedia.org/wiki/Mages_et_Sorciers_%3A_Les_Contes_d%27Arcadia) — 來源分類：Catégorie:Sorcellerie > Magicien ou sorcier de légende > Merlin
-- [ ] **Bridget Bishop**（法語，原始碼 9,451 位元組）— [原文](https://fr.wikipedia.org/wiki/Bridget_Bishop) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine > Procès des sorcières de Salem
 - [ ] **Marguerite Tiste**（西班牙語，原始碼 9,437 位元組）— [原文](https://es.wikipedia.org/wiki/Marguerite_Tiste) — 來源分類：Categoría:Brujería > Brujas (brujería)
 - [ ] **Mary Eastey**（法語，原始碼 9,310 位元組）— [原文](https://fr.wikipedia.org/wiki/Mary_Eastey) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine > Procès des sorcières de Salem
 - [ ] **Elizabeth Proctor**（法語，原始碼 9,081 位元組）— [原文](https://fr.wikipedia.org/wiki/Elizabeth_Proctor) — 來源分類：Catégorie:Sorcellerie > Sorcellerie féminine > Procès des sorcières de Salem

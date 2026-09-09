@@ -2,7 +2,7 @@
 
 彙整各條目「專有名詞對照」一節的內容，依條目排列。本表僅供本資料庫使用，與遊戲規則術語庫 `glossary.json` 各自獨立。回到 [主索引](INDEX.md)。
 
-共 3894 條名詞。
+共 4670 條名詞。
 
 ## [十字路口](concepts/carrefour-folklore.md)
 
@@ -459,6 +459,83 @@
 | Adrenochrom | — | 腎上腺素紅 | QAnon 說法中所謂自受虐兒童身上抽取的回春劑 |
 | Satanic Panic | — | 撒但恐慌 | 1960 至 1995 年美國的儀式虐童恐慌，QAnon 的先驅 |
 
+## [阿格妮絲·桑普森](regions/01-british-isles/agnes-sampson.md)
+
+| 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
+| --- | --- | --- | --- |
+| Agnes Sampson | — | 阿格妮絲·桑普森 | 北貝里克審判的核心被告，沿用本庫既有譯名 |
+| Wise Wife of Keith | — | 基思的智慧婦人 | 她的稱號，wise wife 指民間的治療與接生婦人 |
+| Nether Keith | — | 下基思 | 她的居住地 |
+| Keith Marischal barony | — | 基思馬里沙爾男爵領 | 東洛錫安的封建領地 |
+| East Lothian | — | 東洛錫安 | 愛丁堡東側的郡 |
+| midwife | — | 助產婦 | 她的職業之一 |
+| privy mark | — | 隱處印記 | 魔鬼留在身體私密處的印記，即女巫印記 |
+| witches' mark | — | 女巫印記 | 搜身時據以定罪的痣、胎記或不痛之處 |
+| thrawen（thraw） | — | 絞扭 | 蘇格蘭語動詞，指以繩索套頭絞緊的刑求 |
+| witch's bridle | — | 女巫韁繩 | 蘇格蘭審訊女巫所用的鐵製口枷，後世常見之名；本條目原文未使用此語 |
+| scold's bridle | — | 詈婦銜鐵 | 同類鐵製口枷，本庫〈北貝里克女巫審判〉條目用語 |
+| articles of dittay | — | 起訴條款 | 蘇格蘭法用語，本案共五十三條 |
+| ane | — | 一個 | 近世蘇格蘭語不定冠詞 |
+| likeness of ane Black man | — | 一個黑衣男子的形貌 | 供詞中魔鬼的固定形貌，Black man 為其定型稱呼 |
+| contract hameliness | — | 結為親密 | 近世蘇格蘭語，hameliness 即 homeliness、親密熟稔 |
+| Camroune-brig-end | — | 卡姆倫橋頭 | 桑普森與奈皮爾據稱的會面地點，原文拼寫保留 |
+| Holyrood Palace | — | 荷里路德宮 | 愛丁堡的王宮，詹姆斯六世首次訊問她之處 |
+| Castlehill | — | 城堡山 | 愛丁堡的行刑地 |
+| garrote | — | 絞殺 | 處決方式，焚屍前先行絞殺 |
+| Morrison's Haven | — | 莫里森港 | 普雷斯頓格蘭治附近的港灣，魔鬼顯現之處的後名 |
+| Aitchison's Haven | — | 艾奇森港 | 同一地點的當時稱法 |
+| Prestongrange | — | 普雷斯頓格蘭治 | 東洛錫安地名 |
+| contrary wind | — | 逆風 | 桑普森用以指稱只針對王船的風向 |
+| Newes from Scotland | — | 《來自蘇格蘭的消息》 | 1591 年倫敦出版的小冊，本案主要當代記述 |
+| James VI | — | 詹姆斯六世 | 蘇格蘭國王，親自訊問桑普森 |
+| Anne of Denmark | — | 丹麥的安妮 | 詹姆斯六世的王后 |
+| Gillis Duncan | — | 吉莉絲·鄧肯 | 指控桑普森者，本庫既有譯名作 Geillis Duncan |
+| Robert Bowes | — | 羅伯特·鮑斯 | 英格蘭駐蘇格蘭大使，留有本案書信 |
+| Edward J. Cowan | — | 愛德華·科萬 | 史家，指出人像故事與年代證據不符 |
+| James Melville of Halhill | — | 哈爾希爾的詹姆斯·梅爾維爾 | 記下人像故事的當代人 |
+| Francis Stewart, 5th Earl of Bothwell | — | 法蘭西斯·斯圖亞特，第五代博斯韋爾伯爵 | 據稱人像的委託者 |
+| Peder Munk | — | 佩德·蒙克 | 丹麥海軍司令，發動哥本哈根女巫審判 |
+| Anna Koldings | — | 安娜·科爾丁斯 | 哥本哈根審判的受害者之一 |
+| Jane Kennedy | — | 珍·甘迺迪 | 1589 年福斯灣渡船事故中溺斃者 |
+| David Moysie | — | 大衛·莫伊西 | 年代記作者，記下王船被吹回聖莫南斯 |
+| Barbara Napier | — | 芭芭拉·奈皮爾 | 同案被告，詳見北貝里克條目 |
+| Geillis Johnstone | — | 吉莉絲·約翰斯頓 | 1614 年被控者，罪狀含向桑普森求診 |
+| £6 8s 10d. Scots | — | 蘇格蘭鎊 6 鎊 8 先令 10 便士 | 處決採買的費用 |
+
+## [阿格妮絲·沃特豪斯](regions/01-british-isles/agnes-waterhouse.md)
+
+| 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
+| --- | --- | --- | --- |
+| Agnes Waterhouse | — | 阿格妮絲·沃特豪斯 | 本條目主角，1566 年 7 月 29 日在切姆斯福德被絞死 |
+| Mother Waterhouse | — | 沃特豪斯大娘 | 她的俗稱，Mother 為當時對年長婦人的稱呼 |
+| Joan Waterhouse | — | 瓊·沃特豪斯 | 其女，時年十八，同案被控但獲判無罪 |
+| Elizabeth Frauncis／Elizabeth Francis | — | 伊莉莎白·弗朗西斯 | 同案被告，貓的前主人，本庫另有專條 |
+| Mother Eve | — | 伊芙大娘 | 弗朗西斯的祖母，最初傳授巫術與贈貓者 |
+| Sathan／Satan | — | 撒坦 | 白色帶斑點的貓形使魔，後化為蟾蜍 |
+| familiar | — | 使魔 | 依附女巫、以其血為食的動物形靈體 |
+| imp | — | 小鬼 | 近世英格蘭東部對使魔的另一種俗稱；本篇原文未使用此詞，僅作 familiar 與 spirit，此處收錄以資對照 |
+| toad | — | 蟾蜍 | 使魔的第二種形貌，本案的核心意象之一 |
+| Witchcraft Act 1562 | — | 《1562 年巫術法》 | 伊莉莎白一世所立，造成他人死亡者處死刑 |
+| Elizabeth Lowys | — | 伊莉莎白·洛伊斯 | 大沃爾瑟姆人，依該法最早被處決的女性 |
+| Great Waltham | — | 大沃爾瑟姆 | 埃塞克斯村莊，洛伊斯的居地 |
+| Hatfield Peverel | — | 哈特菲爾德佩弗雷爾 | 埃塞克斯村莊，三名被告的共同居地 |
+| Chelmsford | — | 切姆斯福德 | 埃塞克斯郡治，審判與處決地 |
+| William Fynne | — | 威廉·芬恩 | 起訴書所載的被害人，1565 年 11 月 1 日死亡 |
+| Agnes Brown | — | 阿格妮絲·布朗 | 十二歲的鄰居，提供主要不利證據 |
+| Wardol | — | 沃多爾 | 鄰居裁縫，據稱因信仰堅定而未受害 |
+| John Phillips | — | 約翰·菲利普斯 | 1566 年審判小冊的作者 |
+| The examination and confession of certaine Wytches at Chensforde… | — | 《埃塞克斯郡切姆斯福德數名女巫……的訊問與自白》 | 1566 年小冊，本案主要史料，標題為近世英語拼法 |
+| Reverend Thomas Cole | — | 湯瑪斯·柯爾牧師 | 第一次訊問的在場者 |
+| Sir John Fortescue | — | 約翰·福蒂斯丘爵士 | 第一次訊問的在場者，時任財政大臣 |
+| Sir Gilbert Gerard | — | 吉爾伯特·傑拉德爵士 | 女王的檢察總長，第二次訊問的在場者 |
+| John Southcote | — | 約翰·索思科特 | 王座法庭法官，第二次訊問的在場者 |
+| queen's bench | — | 王座法庭 | 英格蘭普通法法院之一 |
+| dame | — | 女主人 | 兒童證詞中對使魔所屬女巫的稱呼 |
+| witch trial pamphlet | — | 女巫審判小冊 | 廉價聳動的審判報導，本案催生了第一本 |
+| Lambeth Palace Library | — | 蘭貝斯宮圖書館 | 藏有本案小冊與「沃特豪斯大娘」素描 |
+| Judy Chicago／The Dinner Party | — | 茱蒂·芝加哥／《晚宴》 | 女性主義裝置作品，收錄其名 |
+| Heritage Floor | — | 傳承地板 | 《晚宴》地面上列有九百九十九個女性名字的部分 |
+
 ## [愛麗絲·凱特勒](regions/01-british-isles/alice-kyteler.md)
 
 | 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
@@ -492,6 +569,65 @@
 | widow's dower | — | 寡婦產業份額 | 寡婦依法可自亡夫遺產取得的份額，本案的世俗導火線 |
 | Avignon | — | 亞維農 | 教廷所在地，勒德雷德受教之處 |
 | Flanders | — | 法蘭德斯 | 凱特勒家族的來源地，亦為她可能的逃亡地 |
+
+## [貝西·鄧洛普](regions/01-british-isles/bessie-dunlop.md)
+
+| 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
+| --- | --- | --- | --- |
+| Bessie Dunlop | — | 貝西·鄧洛普 | 又作 Elizabeth Dunlop、Elizabeth Jack |
+| Lynn／Lyne／Lin／Linn | — | 林恩 | 卡夫河畔的小村與峽谷，她的居住地 |
+| Caaf Water | — | 卡夫河 | 流經林恩谷的河 |
+| Dalry | — | 達里 | 北艾爾郡市鎮 |
+| Ayrshire／Cunninghame | — | 艾爾郡／坎寧安 | 郡名與舊地區名 |
+| Monkcastle／Monkland | — | 蒙克堡／蒙克蘭 | 初遇之地，舊屬基爾溫寧修道院 |
+| Kilwinning Abbey | — | 基爾溫寧修道院 | 宗教改革前的修道院，蒙克堡的舊主 |
+| goodwife | — | 主婦 | 蘇格蘭的稱謂，只比 laird 低一階 |
+| laird | — | 莊園主 | 蘇格蘭的地主階層 |
+| barony officer | — | 男爵領吏 | 湯瑪斯·里德生前的職務 |
+| Thomas／Tom Reid | — | 湯瑪斯·里德／湯姆·里德 | 據稱死於平基戰役的亡者，她一切本領的來源 |
+| Battle of Pinkie | — | 平基戰役 | 1547 年英蘇之戰，里德據稱陣亡於此 |
+| Elfhame／Elfland | — | 精靈國度 | Elfhame 即 elf-home，蘇格蘭傳說中的精靈之鄉 |
+| Queen of Elfland | — | 精靈國度的王后 | 差遣里德幫助她的存在，即精靈王后 |
+| Court of Elfland | — | 精靈宮廷 | 前來邀她加入的八女四男 |
+| good wights | — | 善良的精怪 | 里德對精靈的稱呼，wight 為「生靈」 |
+| fairy | — | 精靈 | 本庫沿用〈惡魔學〉條目對 Faries 的譯法 |
+| familiar spirit | — | 使魔靈 | 惡魔學術語，本案定罪的關鍵之一 |
+| changeling | — | 換生靈 | 精靈以己方嬰孩換走人類嬰孩的民俗母題 |
+| land ill | — | 土地病 | 她丈夫所染疾病的當時病名 |
+| Thorn of Dawmstarnik | — | 道姆斯塔尼克的荊棘 | 會面地點，大概即達爾馬斯特諾克農莊 |
+| Craufurdland Castle | — | 克勞福德蘭城堡 | 達爾馬斯特諾克附近的城堡 |
+| Restalrig Loch | — | 雷斯塔爾里格湖 | 愛丁堡附近的湖，精靈巡騎沒入之處 |
+| cavalcades upon earth | — | 在地上的巡騎 | 里德對精靈行列的說法 |
+| Cleeves Cove | — | 克利夫斯洞 | 達斯克河畔的石灰岩洞群，即「布萊爾的精靈國度」 |
+| Elfhame o'the Blair | — | 布萊爾的精靈國度 | 克利夫斯洞的當地傳說名稱 |
+| quaich | — | 雙耳淺酒杯 | 蘇格蘭傳統酒器，傳說中精靈以橡實殼為之 |
+| Covenanters | — | 盟約派 | 十七世紀蘇格蘭長老宗的盟約支持者，曾藏身該洞 |
+| Gude day, Bessie | — | 日安，貝西 | 里德的近世蘇格蘭語問候 |
+| Sancta Maria | — | 聖母瑪利亞 | 拉丁語的天主教問候，里德藏身天主教徒說的依據之一 |
+| Why must tho make such dole and weeping for any earthly thing? | — | 你何必為任何世間之物如此哀慟哭泣？ | 里德的近世蘇格蘭語答語，dole 意為哀慟 |
+| skeillie man | — | 有本事的人 | 蘇格蘭語 skilly，指有技藝、通曉法術者 |
+| frae yont Glesco' | — | 從格拉斯哥那頭 | 蘇格蘭語，frae＝from、yont＝beyond |
+| scored abune the breath | — | 在氣息之上劃過 | 以刀在口鼻上方劃開以破除女巫法力，蘇格蘭常見私刑 |
+| Devil's Mark | — | 魔鬼印記 | 搜身時據以定罪的身體標記 |
+| a peck of meal and some cheese | — | 一配克的麵粉與一些乳酪 | 她收受的謝禮，peck 為容積單位 |
+| waking | — | 守夜 | 剝奪睡眠的刑求，蘇格蘭獵巫的常用手段 |
+| spretis of the devill | — | 魔鬼的靈 | 起訴書用語，spretis 即 spirits |
+| continewand in familiarite with thame | — | 持續與牠們保持親熟往來 | 起訴書用語，familiarite 呼應 familiar spirit |
+| sic tymes as sche thocht expedient | — | 凡她認為合宜之時 | 起訴書用語 |
+| deling with charmes | — | 經手咒符 | 起訴書用語 |
+| devillisch craft of sorcerie foirsaid | — | 前述魔鬼般的法術之技 | 起訴書用語 |
+| usit thie divers yeiris bypast | — | 行之於過去這些年間 | 起訴書用語 |
+| High Court of Justiciary | — | 高等司法法院 | 蘇格蘭最高刑事法院，本案於達爾基思開庭 |
+| Witchcraft Act | — | 巫術法 | 蘇格蘭 1563 年的巫術立法 |
+| Castle Hill | — | 城堡山 | 愛丁堡的行刑地 |
+| Andrew Jack | — | 安德魯·傑克 | 她的丈夫 |
+| John Service | — | 約翰·瑟維斯 | 《羅賓·卡梅爾憶往》（1913）作者，刑求記述的來源 |
+| William Kyle | — | 威廉·凱爾 | 厄文自治市民，斗篷案的委託人兼舉發者 |
+| Mally Boyd | — | 瑪莉·博伊德 | 被貝西指為竊取斗篷者 |
+| kirtle | — | 女式外袍 | 斗篷被改製成的衣物 |
+| James Boyd of Trochrig | — | 特羅赫里格的詹姆斯·博伊德 | 格拉斯哥大主教，因犁鐵案被捲入 |
+| Lady Thirdpart | — | 瑟德帕特夫人 | 委託尋找失竊金幣者 |
+| Laird of Baidland | — | 貝德蘭莊園主 | 因貝西的警告而改娶幼女者 |
 
 ## [凱利赫](regions/01-british-isles/cailleach.md)
 
@@ -556,6 +692,50 @@
 | Kuno Meyer | — | 庫諾·邁爾 | 德國凱爾特語文學者，〈哀歌〉的編校者 |
 | Donald Alexander Mackenzie | — | 唐納德·亞歷山大·麥肯齊 | 20 世紀民俗學者，「冬之女王貝拉」之名的提出者 |
 
+## [埃莉諾·科巴姆](regions/01-british-isles/eleanor-cobham.md)
+
+| 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
+| --- | --- | --- | --- |
+| Eleanor Cobham | — | 埃莉諾·科巴姆 | 本條目主角，格洛斯特公爵夫人，1441 年被判終身監禁 |
+| Humphrey, Duke of Gloucester | — | 格洛斯特公爵漢弗萊 | 其夫，亨利四世幼子，1435 年起為王位推定繼承人 |
+| Sir Reynold Cobham | — | 雷諾·科巴姆爵士 | 其父，居於薩里的斯特伯勒 |
+| Eleanor Culpeper | — | 埃莉諾·卡爾佩珀 | 其母，湯瑪斯·卡爾佩珀爵士之女 |
+| Jacqueline d'Hainault | — | 埃諾的雅克琳 | 漢弗萊的前妻，埃莉諾原為其女官 |
+| John IV, Duke of Brabant | — | 布拉班特公爵約翰四世 | 雅克琳的前夫，教宗裁定其婚姻仍有效 |
+| Pope Martin V | — | 教宗馬丁五世 | 1428 年裁定撤銷漢弗萊與雅克琳婚姻者 |
+| John, Duke of Bedford | — | 貝德福公爵約翰 | 漢弗萊之兄，1435 年去世 |
+| Henry VI | — | 亨利六世 | 幼年即位的英王，被預言將於 1441 年重病 |
+| heir presumptive | — | 王位推定繼承人 | 1435 年後漢弗萊的地位，本案政治動機所繫 |
+| Lord Protector | — | 護國公 | 漢弗萊在幼王治下的職位 |
+| regent | — | 攝政 | 漢弗萊主張接任而遭樞密會議反對的職位 |
+| jointure | — | 婚產（共有地產） | 為妻子設定的寡居產業，離異時被剝奪 |
+| Garter ceremony | — | 嘉德典禮 | 1436 年她獲賜公爵夫人禮袍的場合 |
+| La Plesaunce | — | 普萊桑斯 | 夫婦在格林威治的主要居所 |
+| treasonable necromancy | — | 叛國的召亡術 | 本案罪名；本庫〈惡魔學〉條目將 necromancy 作「招魂術」 |
+| Thomas Southwell | — | 湯瑪斯·索思韋爾 | 占星師、醫師與議事司鐸，死於倫敦塔 |
+| Roger Bolingbroke | — | 羅傑·博林布羅克 | 牛津學者，被處絞刑、剖腹與分屍，指認埃莉諾為主使 |
+| John Home | — | 約翰·霍姆 | 埃莉諾的私人告解神師，同遭訊問 |
+| canon | — | 議事司鐸 | 索思韋爾與霍姆的聖職身分 |
+| St Stephen's Chapel | — | 聖司提反禮拜堂 | 西敏宮內的禮拜堂 |
+| Henry Chichele | — | 亨利·奇切利 | 坎特伯里大主教，主教團的領銜者 |
+| Margery Jourdemayne, "the Witch of Eye" | — | 瑪傑里·喬德梅因，「艾伊的女巫」 | 供應藥水者，以再犯異端被燒死 |
+| relapsed heretic | — | 再犯的異端 | 喬德梅因被處火刑的法律理由 |
+| hanged, drawn and quartered | — | 絞刑、剖腹與分屍 | 英格蘭對叛國罪的極刑，博林布羅克所受 |
+| Tower of London | — | 倫敦塔 | 索思韋爾的死所 |
+| sanctuary／Westminster Abbey | — | 庇護所／西敏寺 | 她逃入之處，因而只受教會管轄 |
+| ecclesiastical jurisdiction | — | 教會管轄 | 使她免於世俗法院審判的關鍵 |
+| public penance | — | 公開懺悔 | 1441 年 11 月三個市集日的赤足持燭遊行 |
+| taper | — | 細蠟燭 | 懺悔遊行時所持之物 |
+| 100 marks | — | 一百馬克 | 監禁期間的王室年金 |
+| Chester Castle | — | 切斯特城堡 | 1442 年的囚所 |
+| Kenilworth Castle | — | 凱尼爾沃思城堡 | 1443 年的囚所 |
+| Isle of Man | — | 曼島 | 1446 年 7 月起的囚所 |
+| Beaumaris Castle／Anglesey | — | 博馬里斯城堡／安格爾西 | 1449 年 3 月起的囚所，1452 年死於此 |
+| Blackheath | — | 布萊克希思 | 肯特婦人攔下亨利六世進諫之地 |
+| the Commons | — | 平民（亦可指下議院） | 原文未界定，見譯註 |
+| Arthur Plantagenet／Antigone Plantagenet | — | 亞瑟·金雀花／安蒂岡妮·金雀花 | 漢弗萊的兩名子女，生母歸屬有爭議 |
+| Gemma Hollman, Royal Witches | — | 潔瑪·霍爾曼《王室女巫》 | 專論十五世紀英格蘭貴族女性巫術案的研究 |
+
 ## [伊莉莎白·弗朗西斯](regions/01-british-isles/elizabeth-frauncis.md)
 
 | 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
@@ -593,6 +773,102 @@
 | Peter Maxwell-Stuart | — | 彼得·麥斯威爾—斯圖爾特 | 史家，指出她是該庭期唯一免於絞刑者 |
 | St Osyth witches／Elizabeth Bennett | — | 聖奧西斯女巫／伊莉莎白·班奈特 | 赫斯特用以對照的後續案件與被告 |
 | Witches of Essex | — | 《埃塞克斯的女巫》 | 天空歷史頻道 2025 年紀錄片系列 |
+
+## [艾爾斯佩絲·里奇](regions/01-british-isles/elspeth-reoch.md)
+
+| 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
+| --- | --- | --- | --- |
+| Elspeth Reoch | — | 艾爾斯佩絲·里奇 | 1616 年在柯克沃爾受審處決的女性 |
+| Kirkwall | — | 柯克沃爾 | 奧克尼首府，審判與處決之地 |
+| Orkney | — | 奧克尼 | 蘇格蘭北方群島，1611 年前名義上仍適用挪威法 |
+| Caithness | — | 凱斯內斯 | 蘇格蘭本土最北端的郡，她的出生地 |
+| Lochaber | — | 洛哈伯 | 蘇格蘭高地地區，她幼時寄居之處 |
+| fairy | — | 精靈 | 本庫沿用〈惡魔學〉條目對 Faries 的譯法 |
+| Farie man | — | 精靈男子 | 她供詞中的稱呼，Farie 為 fairy 的當時拼寫 |
+| Priestgone | — | 被教士占盡 | 少見的近世蘇格蘭語複合詞，字面為 priest-gone |
+| abominable and divilesch cryme of witchcraft | — | 可憎而魔鬼般的巫術之罪 | 起訴用語，divilesch 即 devilish |
+| clairvoyance | — | 「看見」的能力 | 原文用語，指預知與知曉一切的能力 |
+| melefour herb | — | melefour 草 | 她用於治病咒的植物，今已不能確指 |
+| In nomine Patris, Filii, et Spiritus Sancti | — | 因父、及子、及聖神之名 | 拉丁語的三位一體祝禱，被用作治病咒詞 |
+| bridle with an iron bit | — | 帶鐵銜的韁繩 | 其兄長施暴所用的器具 |
+| witch's bridle | — | 女巫韁繩 | 蘇格蘭審訊女巫所用的鐵製口枷，本條目原文未使用此語 |
+| bowstring around her head | — | 套在頭上的弓弦 | 其兄長施暴所用的絞頭手法 |
+| Scottish Witchcraft Act of 1563 | — | 一五六三年蘇格蘭巫術法 | 使巫術成為死罪的立法 |
+| Privy Council | — | 樞密院 | 蘇格蘭本土掌理審判的機構，未涉入奧克尼 |
+| Procurator Fiscal | — | 檢察官 | 蘇格蘭的公訴檢察官，1615 年起在奧克尼提起聽審 |
+| Sheriff Court | — | 郡法院 | 檢察官提起聽審的法院 |
+| church elders | — | 教會長老 | 奧克尼另一種審理女巫案的主體 |
+| Patrick Stewart, 2nd Earl of Orkney（Black Patie） | — | 派翠克·斯圖亞特，第二代奧克尼伯爵（「黑派提」） | 1594 年最初審判時的統治者，後遭處決 |
+| Bishop James Law | — | 詹姆斯·勞主教 | 主教制派，1614 年推動法庭改革並兼任郡守 |
+| episcopalian | — | 主教制派 | 主張教會由主教治理者，與長老宗相對 |
+| Robert Coltart | — | 羅伯特·柯爾塔特 | 勞主教任命的檢察官，對里奇提起控訴 |
+| Donald Reoch | — | 唐納·里奇 | 她的父親，凱斯內斯伯爵麾下的風笛手 |
+| Johne Stewart | — | 約翰·斯圖亞特 | 她供稱的「精靈男子」，自稱是遭致命襲擊的親戚 |
+| Robert Stewart | — | 羅伯特·斯圖亞特 | 「黑派提」的私生子，她預言中脖繫繩索者之一 |
+| Patrick Traill | — | 派翠克·特雷爾 | 她所懷孩子的父親，同在預言之列 |
+| Edmond Callendar | — | 埃德蒙·卡倫達 | 午後酒局的屋主 |
+| Allan McKeldow | — | 亞倫·麥凱爾多 | 被求助墮胎而拒絕介入者 |
+| Graham of Claverhouse | — | 克拉弗豪斯的格雷厄姆 | 後世以類似絞頭手法著稱的蘇格蘭軍人 |
+| Ernest Marwick | — | 厄尼斯特·馬威克 | 奧克尼史家，認為她「無害」 |
+| Liv Helene Willumsen | — | 麗芙·海倫娜·威盧姆森 | 史家，論勞主教法庭改革的影響 |
+| Diane Purkiss | — | 黛安·珀基斯 | 史家，推測其兄長為亂倫一方 |
+| sleep paralysis | — | 睡眠癱瘓 | 馬威克推測她可能罹患的症狀 |
+| Allison Balfour | — | 艾莉森·鮑爾弗 | 「另見」所列的另一名奧克尼女巫審判被害人 |
+
+## [伊索貝爾·高迪](regions/01-british-isles/isobel-gowdie.md)
+
+| 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
+| --- | --- | --- | --- |
+| Isobel Gowdie | — | 伊索貝爾·高迪 | 1662 年在奧爾德恩自白的蘇格蘭女性 |
+| Auldearn | — | 奧爾德恩 | 奈恩附近的教區村落，自白與審判之地 |
+| Nairn | — | 奈恩 | 蘇格蘭東北部市鎮，鄰近奧爾德恩 |
+| Inshoch | — | 因肖赫 | 奧爾德恩附近地名，據稱的集會地點之一 |
+| Loch Loy | — | 洛伊湖 | 奧爾德恩以北的海灣潟湖，高迪的居住地 |
+| Downie Hill | — | 唐尼丘 | 奈恩附近的一系列土丘之一，據稱精靈王后的居所 |
+| Gallowhill | — | 加洛丘 | 奈恩城外的行刑地 |
+| cottar | — | 佃屋農 | 以勞力換取小屋與一小塊地使用權的農場雇工 |
+| kirk | — | 教堂 | 蘇格蘭語的「教會、教堂」 |
+| tolbooth | — | 市政廳（兼監獄） | 蘇格蘭市鎮的市政建築，兼作拘留場所 |
+| laird | — | 莊園主 | 蘇格蘭的地主階層，低於貴族 |
+| Laird of Park | — | 帕克莊園主 | 高迪所居土地的地主，狂熱的盟約派 |
+| Covenanter | — | 盟約派 | 十七世紀蘇格蘭的長老宗盟約支持者 |
+| coven | — | 巫會 | 女巫的集會或結社 |
+| fairy | — | 精靈 | 本庫沿用〈惡魔學〉條目對 Faries 的譯法 |
+| Queen of the Fairies／Queen of Elphame | — | 精靈王后／艾芙海姆王后 | Elphame 即 elf-home，蘇格蘭傳說中的精靈國度 |
+| water bull | — | 水牛精 | 蘇格蘭民俗中棲於水域的公牛形精怪 |
+| elf arrow | — | 精靈箭 | 新石器時代燧石箭頭的民俗解釋，被視為精靈或女巫的武器 |
+| elf-boys | — | 精靈男孩 | 高迪供稱替魔鬼加工精靈箭的小精怪 |
+| Read Reiver | — | 里德·里弗 | 高迪自稱伺候她的黑衣僕役靈之名，字面近於「紅色劫掠者」 |
+| jackdaw | — | 寒鴉 | 高迪供稱曾化身的鳥類 |
+| meikle, blak, roch man | — | 高大、黝黑、粗糙的男人 | 高迪對魔鬼形貌的近世蘇格蘭語描述，逐字保留 |
+| sych | — | 嘆息 | 變身咒中的蘇格蘭語詞，條目註腳作 sighs |
+| meickle | — | 莫大的 | 變身咒中的蘇格蘭語詞，條目註腳作 great |
+| Tak ceare of this peaper | — | 好生保管此紙 | 司法部門加註在第二份證詞背面的近世蘇格蘭語批註 |
+| excisd in ordouring the depositions of witches | — | 為整理女巫的供詞而勞心 | 布羅迪勳爵日記中的近世蘇格蘭語記述 |
+| Janet Breadhead／Breadheid | — | 珍妮特·布雷德黑德 | 高迪的共犯，兩份文件中拼寫不同 |
+| Margret Brodie | — | 瑪格麗特·布羅迪 | 高迪首次自白中點名的與會者之一 |
+| Harry Forbes | — | 哈里·福布斯 | 奧爾德恩牧師，四次訊問皆在場 |
+| Alexander Cumings | — | 亞歷山大·卡明斯 | 巫會化為動物前往的宅邸主人 |
+| John Gilbert | — | 約翰·吉爾伯特 | 高迪的丈夫，未涉案 |
+| Robert Pitcairn | — | 羅伯特·皮特凱恩 | 古物學者，1833 年首次刊行高迪的證詞 |
+| Emma Wilby | — | 艾瑪·威爾比 | 英國史家，高迪研究最全面者 |
+| John Callow | — | 約翰·卡洛 | 為高迪撰寫《牛津國家人物傳記大辭典》詞條的史家 |
+| Brian P. Levack | — | 布萊恩·勒瓦克 | 蘇格蘭獵巫史學者 |
+| Julian Goodare | — | 朱利安·古達爾 | 蘇格蘭女巫審判研究者 |
+| Diane Purkiss | — | 黛安·珀基斯 | 論及高迪敘事中飢餓與性壓抑的學者 |
+| Margaret Murray | — | 瑪格麗特·穆瑞 | 提出十三人巫會說的英國埃及學者，其說已被推翻 |
+| Charles Kirkpatrick Sharpe | — | 查爾斯·柯克派翠克·夏普 | 蘇格蘭古物學者，1884 年論復辟與獵巫 |
+| Alexander Colville | — | 亞歷山大·科爾維爾 | 司法代表，署名認可本案的委任 |
+| Lord Brodie | — | 布羅迪勳爵 | 參與核可委任的地方權貴，留有日記 |
+| Sir Hew Campbell of Calder | — | 考爾德的休·坎貝爾爵士 | 奈恩郡守長官，奉命安排地方審判 |
+| Commission of Justiciary | — | 司法委任狀 | 樞密院授權地方開庭審判的文書 |
+| Privy Council | — | 樞密院 | 蘇格蘭的最高行政與司法會議 |
+| Witchcraft Act 1563 | — | 一五六三年巫術法 | 蘇格蘭的巫術立法，使巫術定罪可處死刑 |
+| ergotism | — | 麥角中毒 | 食用受麥角菌污染穀物所致，可引發幻覺 |
+| Andro Mann | — | 安德羅·曼恩 | 十六世紀自白曾見艾芙海姆王后者 |
+| Allison Peirson | — | 艾莉森·皮爾森 | 同上，十六世紀的另一例 |
+| Jean Weir | — | 珍·威爾 | 1670 年愛丁堡宣稱見過精靈王后者 |
+| James MacMillan | — | 詹姆斯·麥克米倫 | 蘇格蘭作曲家，作有《伊索貝爾·高迪的自白》 |
 
 ## [馬修·霍普金斯](regions/01-british-isles/matthew-hopkins.md)
 
@@ -795,6 +1071,51 @@
 | maleficium | — | 加害巫術 | 拉丁語法律術語，指以巫術造成他人損害 |
 | recusant | — | 不從國教者 | 拒絕上英格蘭教會、拒領聖餐者，當時屬刑事罪 |
 | benefit of clergy | — | 教士豁免 | 中世紀以來使被告免於世俗死刑的特權，此法明文排除 |
+
+## [烏蘇拉·坎普](regions/01-british-isles/ursula-kemp.md)
+
+| 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
+| --- | --- | --- | --- |
+| Ursula Kemp／Ursley Kempe alias Grey | — | 烏蘇拉·坎普 | 本條目主角，1582 年在切姆斯福德被絞死 |
+| cunning woman／cunning person | — | 民間女術士／通曉之人 | 以民俗醫療治病解咒為業者，社群原本信任的角色 |
+| midwife | — | 助產婦 | 她的營生之一 |
+| white witchcraft | — | 白巫術 | 有益、護身的法術，與害人巫術相對 |
+| familiar／spirit | — | 使魔／靈體 | 依附女巫並吸其血的靈體，本案共四個 |
+| imp | — | 小鬼 | 近世英格蘭東部對使魔的另一種俗稱；本篇原文未使用此詞，僅作 familiar 與 spirit，此處收錄以資對照 |
+| Tyffin | — | 提芬 | 灰貓形使魔 |
+| Tyttey | — | 提泰 | 白羊羔形使魔 |
+| Pygine | — | 皮金 | 黑蟾蜍形使魔 |
+| Jacke | — | 傑克 | 黑貓形使魔 |
+| Witchcraft Act 1562 | — | 《1562 年巫術法》 | 伊莉莎白一世所立，造成他人死亡者處死刑；本案的法律依據 |
+| St Osyth | — | 聖奧西斯 | 埃塞克斯村莊，她的出生地與案發地 |
+| Chelmsford | — | 切姆斯福德 | 埃塞克斯郡治，審判與處決地 |
+| Justice Brian Darcy | — | 布萊恩·達西治安法官 | 主導本案的獵巫者，自稱取得她的私下自白 |
+| The Cage | — | 囚籠 | 兼具公開羞辱與拘禁功能的鐵欄囚具 |
+| Grace Thurlow | — | 葛蕾絲·瑟洛 | 鄰居兼舊友，主要指控者 |
+| Davy Thurlow | — | 戴維·瑟洛 | 葛蕾絲之子，曾受坎普醫治 |
+| Joan Thurlow | — | 瓊·瑟洛 | 葛蕾絲的女嬰，墜下搖籃頸骨折斷而死 |
+| Alice Letherdale | — | 愛麗絲·萊瑟戴爾 | 拒絕借出擦洗砂的鄰人 |
+| Elizabeth Letherdale | — | 伊莉莎白·萊瑟戴爾 | 愛麗絲之女，病死後被歸咎於坎普 |
+| Thomas Rabbet | — | 湯瑪斯·拉貝特 | 坎普八歲的兒子，被勸誘出庭指證母親 |
+| Alice Newman | — | 愛麗絲·紐曼 | 她的友人，同被控致人於死 |
+| Edna Stratton | — | 埃德娜·斯特拉頓 | 被控害死的三名被害人之一 |
+| Elizabeth Bennett | — | 伊莉莎白·班奈特 | 同案被絞死者，另見〈伊莉莎白·弗朗西斯〉條目 |
+| scouring sand | — | 擦洗砂 | 研磨用的清潔材料，索討遭拒是指控的起點 |
+| naughty beast | — | 壞東西 | 萊瑟戴爾對她的稱呼，近世英語的貶稱 |
+| unwitch | — | 解法 | 解除他人所施巫術的行為，原文用語 |
+| charnell | — | charnell | 自白中所述儀式的材料之一，原文用語，所指不明 |
+| St John's wort | — | 聖約翰草 | 儀式材料之一，即貫葉連翹 |
+| Charles Brooker | — | 查爾斯·布魯克 | 1921 年在聖奧西斯花園中掘出骨骸者 |
+| iron rivets／iron spikes | — | 鐵鉚釘／鐵尖釘 | 穿過骨骸關節的鐵件，被視為防止女巫離墓的措施 |
+| pitch | — | 瀝青 | 屍體曾被浸入其中並懸於絞架四週 |
+| Cecil Williamson（原文另作 Williamsom） | — | 塞西爾·威廉森 | 1963 年為巫術博物館購入遺骸者 |
+| Museum of Witchcraft | — | 巫術博物館 | 遺骸的收藏處，倫基維茨死後歸還於此 |
+| Robert Lenkiewicz | — | 羅伯特·倫基維茨 | 1999 年購入遺骸的畫家，置於藏書室 |
+| Alison Rowlands | — | 艾莉森·羅蘭茲 | 史家，2007 年質疑骨骸的歸屬 |
+| Marion Gibson | — | 瑪麗昂·吉布森 | 學者，本條目資料來源作者之一 |
+| Marianne Hester | — | 瑪麗安·赫斯特 | 學者，本條目資料來源作者之一 |
+| Jason Semmens | — | 傑森·塞門斯 | 〈烏蘇拉·坎普死後的歷險〉一文作者 |
+| Malleus Maleficarum | — | 《女巫之槌》 | 1487 年獵巫手冊，原文用以對照後期審判程序 |
 
 ## [毒藥事件](regions/02-western-europe/affaire-des-poisons.md)
 
@@ -1205,6 +1526,34 @@
 | Anna-Göldi-Stiftung | Anna-Goeldi-Stiftung | 安娜·葛爾迪基金會 | 主持博物館與相關研究的機構 |
 | Barbara Zdunk | Barbara Zdunk | 芭芭拉·茲敦克 | 1811 年以縱火為名被處決的女性，常被誤稱最後的女巫 |
 
+## [安娜·瑪麗亞·施韋格林](regions/03-central-europe/anna-maria-schwegelin.md)
+
+| 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
+| --- | --- | --- | --- |
+| Anna Maria Schwegelin | Anna Maria Schwegelin | 安娜·瑪麗亞·施韋格林 | 異寫 Schwägele、Schwegele、Schwägelin；條目內另作 Maria Anna |
+| Lachen | Lachen | 拉亨 | 其出生地，當時為肯普滕采邑修道院領地的飛地 |
+| Fürststift Kempten | Fuerststift Kempten | 肯普滕采邑修道院 | 本篤會的采邑修道院，兼為邦國 |
+| Stiftsstadt Kempten | Stiftsstadt Kempten | 修道院城肯普滕 | 采邑修道院轄下的城區，與帝國城市肯普滕並立 |
+| Stockhaus | Stockhaus | 施托克豪斯 | 修道院城肯普滕的監獄，她的囚禁與死亡之地 |
+| Freies kaiserliches Landgericht | Freies kaiserliches Landgericht | 自由帝國邦法庭 | 采邑修道院的邦級法庭，審理本案 |
+| Landrichter | Landrichter | 邦法官 | 邦法庭的主審官 |
+| Johann Franz Wilhelm Treuchtlinger | Johann Franz Wilhelm Treuchtlinger | 約翰·法蘭茲·威廉·特羅伊希特林格 | 主持調查並主張斬首的邦法官 |
+| Honorius Roth von Schreckenstein | Honorius Roth von Schreckenstein | 霍諾里烏斯·羅特·馮·施雷肯施泰因 | 采邑修道院長兼邦君，簽署判決後又下令延緩 |
+| Anton Kramer | Anton Kramer | 安東·克拉默 | 方濟會神父、院長的告解神師，可能促成延緩執行 |
+| Hofrat | Hofrat | 宮廷參事 | 采邑修道院的參議官，共同簽署判決 |
+| Teufelspakt | Teufelspakt | 魔鬼契約 | 她未受刑求即承認的罪名 |
+| Teufelsbuhlschaft | Teufelsbuhlschaft | 魔鬼淫合 | 判決所據的罪名，指與魔鬼性交 |
+| Schadenzauber | Schadenzauber | 加害巫術 | 她明白否認的罪名，《卡洛林納刑法典》的處罰要件 |
+| Leprosenhaus Obergünzburg | Leprosenhaus Oberguenzburg | 上京茨堡痲瘋病院 | 1769 年收容她的機構 |
+| Arbeitshaus Langenegg | Arbeitshaus Langenegg | 朗根埃克勞動院 | 馬丁斯采爾附近，她被告發之處 |
+| Künersberg | Kuenersberg | 屈訥斯貝格 | 莊園名，1751 年前後她在此結識新教馬車伕 |
+| Memmingen／Memmingerberg | Memmingen / Memmingerberg | 梅明根／梅明格貝格 | 帝國城市與鄰近村鎮 |
+| St. Martinskirche | St. Martinskirche | 聖馬丁教堂 | 梅明根的新教教堂，她在此改宗 |
+| Sterbematrikel St. Lorenz | Sterbematrikel St. Lorenz | 聖洛倫茨死亡登記簿 | 記載她 1781 年死亡並領受臨終聖事的史料 |
+| Wolfgang Petz | Wolfgang Petz | 沃爾夫岡·佩茨 | 肯普滕史家，1995 年查明死刑未執行 |
+| Johann Joseph Gaßner | Johann Joseph Gassner | 約翰·約瑟夫·加斯納 | 驅魔師，1774—1775 年的「神蹟療癒」轟動一時 |
+| Constitutio Criminalis Carolina | Constitutio Criminalis Carolina | 《卡洛林納刑法典》 | 1532 年帝國刑事法典，判決的形式依據 |
+
 ## [安娜·羅萊福斯](regions/03-central-europe/anna-roleffes.md)
 
 | 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
@@ -1294,6 +1643,43 @@
 | Urfehde | Urfehde | 棄仇誓 | 獲釋者須立的誓，承諾不追究、不聲張 |
 | Gulden | Gulden | 古爾登 | 當時的貨幣單位 |
 | Succubus | Succubus | 魅魔 | 尤尼烏斯供詞中引誘他的女性惡魔 |
+
+## [克里斯托夫·阿洛伊斯·勞特納](regions/03-central-europe/christoph-alois-lautner.md)
+
+| 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
+| --- | --- | --- | --- |
+| Christoph Alois Lautner | Christoph Alois Lautner | 克里斯托夫·阿洛伊斯·勞特納 | 捷克語作 Kryštof Alois Lautner，異寫 Lauthner |
+| Mährisch Schönberg | Maehrisch Schoenberg | 摩拉維亞舍恩貝格 | 其出生地與任總鐸之地，今捷克舒姆佩克（Šumperk） |
+| Müglitz | Mueglitz | 米格利茨 | 其被捕與行刑之地，今捷克莫赫爾尼采（Mohelnice） |
+| Groß Ullersdorf | Gross Ullersdorf | 大烏勒斯多夫 | 審判的名稱來源地，今捷克大洛西尼（Velké Losiny） |
+| Zöptau | Zoeptau | 澤普陶 | 竊取聖體事件的發生地，今捷克索博廷（Sobotín） |
+| Wermsdorf | Wermsdorf | 韋姆斯多夫 | 女乞丐瑪麗娜·舒赫的出身地 |
+| Mürau | Muerau | 米勞 | 主教的要塞，勞特納最初的囚禁地，今捷克米羅夫（Mírov） |
+| Hotzenplotz | Hotzenplotz | 霍岑普洛茨 | 他 1663—1668 年任堂區司鐸兼總鐸之地 |
+| Nieder Mohrau | Nieder Mohrau | 下莫勞 | 他 1658—1663 年任堂區司鐸之地 |
+| Olmütz | Olmuetz | 奧爾米茨 | 主教座城與大學所在，今捷克奧洛穆茨（Olomouc） |
+| Heinrich Franz Boblig von Edelstadt | Heinrich Franz Boblig von Edelstadt | 海因里希·法蘭茲·博布利希·馮·埃德爾施塔特 | 宗教審判庭陪席法官，本案的推動者 |
+| Karl II. von Liechtenstein-Kastelkorn | Karl II. von Liechtenstein-Kastelkorn | 卡爾二世·馮·列支敦斯登—卡斯特爾科恩 | 奧爾米茨主教，核准逮捕並簽署死刑判決 |
+| Kaspar Sattler／Maria Sattler | Kaspar Sattler / Maria Sattler | 卡斯帕爾·薩特勒／瑪麗亞·薩特勒 | 染匠與其妻，勞特納的友人；後者為主要證人 |
+| Susanna Voglick | Susanna Voglick | 蘇珊娜·福格利克 | 勞特納的管家，第二級刑求下作供的主要證人 |
+| Elias-Isidor Schmidt | Elias-Isidor Schmidt | 埃利亞斯—伊西多爾·施密特 | 主教的私人祕書，調查委員會成員 |
+| Thomas König | Thomas Koenig | 托馬斯·柯尼希 | 大烏勒斯多夫堂區司鐸，因連署陳情被調職 |
+| Marina Schuch | Marina Schuch | 瑪麗娜·舒赫 | 韋姆斯多夫的女乞丐，1678 年竊取聖體引發整波審判 |
+| Dechant／Dekan | Dechant / Dekan | 總鐸 | 統轄若干堂區的司鐸職，勞特納在舍恩貝格所任 |
+| Erzdechant | Erzdechant | 總鐸長 | 高於總鐸的教會職，溫克勒所任，設局誘捕的中介 |
+| kanonisches Inquisitionstribunal | kanonisches Inquisitionstribunal | 教會宗教審判庭 | 依教會法設置、審理本案的法庭 |
+| Appellationsgericht in Prag | Appellationsgericht in Prag | 布拉格上訴法庭 | 波希米亞的上級法庭，博布利希向其陳情 |
+| Rekatholisierung／Gegenreformation | Rekatholisierung / Gegenreformation | 再天主教化／反宗教改革 | 勞特納在此問題上的寬容態度使他樹敵 |
+| Peterssteine | Peterssteine | 彼得石 | 證詞中的女巫安息日聚會處，今捷克 Petrovy kameny |
+| Hexensabbat | Hexensabbat | 女巫安息日 | 供詞中的核心情節 |
+| Teufelspakt | Teufelspakt | 魔鬼契約 | 瑪麗亞·薩特勒供稱勞特納被誘入的關係 |
+| Hostien entweihen | Hostien entweihen | 褻瀆聖體 | 控罪之一，整波審判的起點亦為竊取聖體 |
+| Daumenschrauben | Daumenschrauben | 拇指夾 | 第一級刑求的刑具 |
+| Spanischer Stiefel | Spanischer Stiefel | 西班牙靴 | 第二級刑求的刑具，夾小腿 |
+| Folterbank／Streckbank | Folterbank / Streckbank | 拷問台／拉肢架 | 第三級刑求的刑具 |
+| Tortur／peinliche Befragung | Tortur / peinliche Befragung | 刑求／拷問訊問 | 經核准的正式刑求程序；三度不招依法應釋放 |
+| Degradation／Entweihung | Degradation / Entweihung | 褫奪聖職／除聖 | 教士被交付世俗刑罰前的必要儀式 |
+| Jan Graubner | Jan Graubner | 揚·格勞布納 | 奧爾米茨總主教，2000 年為教會的罪責道歉 |
 
 ## [迪特里希·施內普夫](regions/03-central-europe/dietrich-schnepf.md)
 
@@ -1652,6 +2038,38 @@
 | Gerd Schwerhoff | Gerd Schwerhoff | 格爾德·施韋爾霍夫 | 史學者，判定本案為「明確的司法謀殺」 |
 | Thomas Becker | Thomas Becker | 托馬斯·貝克爾 | 史學者，主張以已知事件而非陰謀論解釋本案 |
 
+## [卡塔琳娜·克卜勒](regions/03-central-europe/katharina-kepler.md)
+
+| 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
+| --- | --- | --- | --- |
+| Katharina Kepler | Katharina Kepler | 卡塔琳娜·克卜勒 | 本姓古登曼（Guldenmann） |
+| Johannes Kepler | Johannes Kepler | 約翰內斯·克卜勒 | 帝國天文學家，其子兼辯護人；筆錄中作 Johann Kepler |
+| Heinrich Kepler | Heinrich Kepler | 海因里希·克卜勒 | 其夫，1589 年離家，據說死於奧格斯堡附近 |
+| Sebald Kepler | Sebald Kepler | 澤巴爾德·克卜勒 | 其公公，魏爾德施塔特市長 |
+| Christoph Kepler | Christoph Kepler | 克里斯托夫·克卜勒 | 其子，萊翁貝格的錫匠，曾以誹謗反訴 |
+| Melchior Guldenmann | Melchior Guldenmann | 梅爾希奧·古登曼 | 其父，埃爾廷根的酒館主人兼村鎮長官 |
+| Eltingen | Eltingen | 埃爾廷根 | 其出生地，今已併入萊翁貝格 |
+| Leonberg | Leonberg | 萊翁貝格 | 符騰堡的城鎮，本案的發生地 |
+| Weil der Stadt | Weil der Stadt | 魏爾德施塔特 | 克卜勒家的原籍地，字面意為「城的魏爾」 |
+| Güglingen | Gueglingen | 居格林根 | 1620—1621 年羈押與審判之地 |
+| Roßwälden | Rosswaelden | 羅斯韋爾登 | 其可能的卒地 |
+| Heumaden | Heumaden | 霍伊馬登 | 其女婿任牧師之地，1620 年於此被捕 |
+| Ursula Reinbold | Ursula Reinbold | 烏爾蘇拉·萊因博爾德 | 玻璃匠之妻，最初的告發者 |
+| Lukas Einhorn | Lukas Einhorn | 盧卡斯·艾因霍恩 | 萊翁貝格代管官，本案的發動者 |
+| Vogt／Untervogt | Vogt / Untervogt | 代管官／副代管官 | 領主派任的地方長官，兼理下級司法 |
+| Burga Haller | Burga Haller | 布爾加·哈勒 | 八歲女童，1616 年於斯圖加特城門指她施法 |
+| Christoph Besold | Christoph Besold | 克里斯托夫·貝索爾德 | 圖賓根法學者，克卜勒同學，法學鑑定的作者 |
+| Amtsschreiber Nördlinger | Amtsschreiber Noerdlinger | 衙署書記諾德林格 | 提出 280 頁起訴書者 |
+| peinlicher Gerichtstag | peinlicher Gerichtstag | 血刑法庭審判日 | 涉及身體刑與生命刑的正式庭期 |
+| Schadenzauber | Schadenzauber | 加害巫術 | 造成人身或財物損害的法術，《卡洛林納刑法典》的處罰要件 |
+| Folterinstrumente（territio） | Folterinstrumente | 展示刑具（恫嚇） | 刑求程序的第一階段，本身即屬正式程序 |
+| Constitutio Criminalis Carolina | Constitutio Criminalis Carolina | 《卡洛林納刑法典》 | 1532 年帝國刑事法典，巫術須致人身損害方可處罰 |
+| Gulden | Gulden | 古爾登 | 貨幣單位，萊因博爾德家求償一千古爾登 |
+| Schultheiß | Schultheiss | 村鎮長官 | 領主派任的村鎮首長，兼理下級司法 |
+| Ulinka Rublack | Ulinka Rublack | 烏林卡·魯布拉克 | 史家，《天文學家與女巫》作者，修正舊有評價 |
+| Wolfgang Petz | Wolfgang Petz | 沃爾夫岡·佩茨 | 肯普滕史家，另見〈安娜·瑪麗亞·施韋格林〉 |
+| Die Harmonie der Welt | Die Harmonie der Welt | 《世界的和諧》 | 亨德密特歌劇，1957 年首演，她為主要人物之一 |
+
 ## [露策爾夫人](regions/03-central-europe/lutzelfrau.md)
 
 | 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
@@ -1779,6 +2197,37 @@
 | Erika Timm | Erika Timm | 埃莉卡·蒂姆 | 日耳曼語文學者，芙麗嘉別名說的提出者 |
 | Jacob Grimm | Jacob Grimm | 雅各布·格林 | 《德意志神話學》作者，此形象研究的起點 |
 
+## [彼得·施通普](regions/03-central-europe/peter-stumpp.md)
+
+| 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
+| --- | --- | --- | --- |
+| Peter Stump | Peter Stump | 彼得·施通普 | 德語版條目名（單 p）；英語版作 Peter Stumpp |
+| Peter Stubbe／Stubbe Peeter | Peter Stubbe | 彼得·施圖貝 | 小冊中的異寫；de「Peter Stubbe」為消歧義頁 |
+| Stüpp | Stuepp | 施蒂普 | 萊茵蘭西部對狼人的稱呼，得名自本案 |
+| Werwolfprozess | Werwolfprozess | 狼人審判 | 以變身為狼為罪名的訴訟；1423—1720 年間可考約 250 件 |
+| Werwolf | Werwolf | 狼人 | 變形者；此處被視為女巫的男性對應物 |
+| Wolfsfellgürtel | Wolfsfellguertel | 狼皮腰帶 | 供狀中魔鬼所贈、繫上即可變身的法器 |
+| Urgicht | Urgicht | 供狀 | 刑求下作成、行刑前再度確認的自白 |
+| Flugschrift／Flugblatt | Flugschrift / Flugblatt | 小冊／傳單 | 本案唯一的傳世來源類型，無審判卷宗 |
+| Bedburg | Bedburg | 貝德堡 | 埃爾夫特河畔城鎮，審判與處決地 |
+| Epprath | Epprath | 埃普拉特 | 施通普務農的村落，鄰近貝德堡 |
+| Rädern | Raedern | 車裂 | 綁上木輪擊碎四肢的處決方式 |
+| glühende Zangen | gluehende Zangen | 燒紅的鐵鉗 | 撕下皮肉的附加刑，另見〈西多妮亞·馮·博爾克〉 |
+| Teufelspakt | Teufelspakt | 魔鬼契約 | 取得狼皮腰帶的前提，與女巫審判共用的罪名 |
+| Teufelsbuhlschaft | Teufelsbuhlschaft | 魔鬼淫合 | 供狀中與女魔（Teufelin）交合一項 |
+| Schadzauber／Schadenzauber | Schadzauber | 加害巫術 | 德語版〈Siehe auch〉所列的相關罪名 |
+| Gegenreformation | Gegenreformation | 反宗教改革 | 〈Stüpp〉條目提出的另一種解讀所依據的脈絡 |
+| Montague Summers | Montague Summers | 蒙塔古·薩默斯 | 神祕學者，1920 年重新發現 1590 年倫敦小冊 |
+| Hermann von Weinsberg | Hermann von Weinsberg | 赫爾曼·馮·魏因斯貝格 | 科隆市參事，其日記為補充史料 |
+| Beele（Sybil） | Beele (Sybil) | 貝勒（西比爾） | 其女，與他同被處決 |
+| Katherine | Katherine | 卡特琳 | 其情婦，依英語版與〈Stüpp〉條目同被處決 |
+| Aufhocker | Aufhocker | 騎背妖 | 萊茵蘭民俗中跳上人背、愈來愈重的鬼怪 |
+| Wiedergänger | Wiedergaenger | 還魂者 | 歸來的死者；被視為施蒂普形象的底層 |
+| Bahkauv（Bachkalb） | Bahkauv | 巴考夫（溪犢） | 亞琛、杜倫一帶水邊的騎背魔物 |
+| Hackestüpp | Hackestuepp | 哈克施蒂普 | 杜倫的著名施蒂普，名中含「背馱」（hackeln） |
+| Zubbelsdeer | Zubbelsdeer | 「毛獸」 | 巨眼大狗形的鬼怪，被視為狼人的殘餘形態 |
+| Klüngelpelz／Böxenwolf | Kluengelpelz / Boexenwolf | 克林格爾佩爾茨／伯克森狼 | 西發里亞的同類惡物名稱 |
+
 ## [塞巴斯蒂安·勒廷格](regions/03-central-europe/sebastian-roettinger.md)
 
 | 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
@@ -1813,6 +2262,41 @@
 | Orlando di Lasso | Orlando di Lasso | 奧蘭多·迪·拉索 | 作曲家，其友人 |
 | In silentio et spe | In silentio et spe | 在靜默與盼望之中 | 其箴言，出自《以賽亞書》三十章十五節 |
 | Röttingen (Härtsfeld) | Roettingen (Haertsfeld) | 勒廷根（黑爾茨費爾德） | 家族的起源村落 |
+
+## [西多妮亞·馮·博爾克](regions/03-central-europe/sidonia-von-borcke.md)
+
+| 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
+| --- | --- | --- | --- |
+| Sidonia von Borcke | Sidonia von Borcke | 西多妮亞·馮·博爾克 | 亦作 Sidonie von Bork；波蘭語作 Sydonia |
+| Burg Stramehl | Burg Stramehl | 斯特拉梅爾堡 | 其出生地，博爾克家族領地 |
+| Stettin | Stettin | 斯德丁 | 審判與行刑地，今波蘭什切青（Szczecin） |
+| Kloster Marienfließ | Kloster Marienfliess | 瑪麗恩弗利斯修院 | 1569 年後改為未婚貴族女性的新教女子修道院 |
+| Jungfrauenstift | Jungfrauenstift | 貴族女子修道院 | 收容未婚貴族女性的新教機構，非天主教修會 |
+| Unterpriorin | Unterpriorin | 副女修院長 | 她 1606 年被免去的職務 |
+| Greifen | Greifen | 格里芬家族 | 波美拉尼亞公爵世家，1637 年絕嗣 |
+| Otto von Borcke zu Stramehl-Regenwalde | Otto von Borcke | 奧托·馮·博爾克 | 其父，斯特拉梅爾—雷根瓦爾德領主，卒於 1551 年 |
+| Anna von Schwiechelt | Anna von Schwiechelt | 安娜·馮·施維黑爾特 | 其母，卒於 1568 年 |
+| Jost von Borcke | Jost von Borcke | 約斯特·馮·博爾克 | 其親戚，第二次調查委員會主持人 |
+| Magdalena von Petersdorff | Magdalena von Petersdorff | 瑪格達蕾娜·馮·彼得斯多夫 | 女修院長，1606 年免其副院長職，1609 年卒 |
+| Joachim von Wedel | Joachim von Wedel | 約阿希姆·馮·韋德爾 | 首次調查委員會主持人，1609 年卒 |
+| Johannes von Hechthausen | Johannes von Hechthausen | 約翰內斯·馮·赫希特豪森 | 瑪麗恩弗利斯主管，1609 年卒 |
+| Dorothea von Stettin | Dorothea von Stettin | 多蘿特婭·馮·斯德丁 | 副院長，1619 年最初指控她行巫者 |
+| Anna von Apenburg | Anna von Apenburg | 安娜·馮·阿彭堡 | 室友，宣誓時撤回支持指控 |
+| Wolde Albrechts | Wolde Albrechts | 沃爾德·阿爾布雷希茨 | 前雜役、占卜維生者，1619 年 10 月 9 日燒死 |
+| Elias Pauli | Elias Pauli | 埃利亞斯·保利 | 1620 年 1 月獲指派的辯護人 |
+| Hofgericht Stettin | Hofgericht Stettin | 斯德丁宮廷法庭 | 審理本案的邦級法庭 |
+| Magdeburger Schöffenstuhl | Magdeburger Schoeffenstuhl | 馬格德堡陪審法庭 | 受理卷宗諮詢並裁定得否刑求的上級機關 |
+| maleficium | maleficium | 加害巫術 | 拉丁文，造成損害的法術 |
+| Teufelsbuhlschaft | Teufelsbuhlschaft | 魔鬼淫合 | 德語，指與魔鬼性交 |
+| Judaspsalm（Psalm 109） | Judaspsalm | 猶大詩篇（詩篇第一〇九篇） | 詛咒詩，被列為法術行為之一 |
+| Chim | Chim | 希姆 | 西多妮亞的貓名，被指為魔鬼化身 |
+| Weiße Frau | Weisse Frau | 白衣女子 | 德語傳說中的城堡女鬼，傳說她死後化為此形 |
+| Wilhelm Meinhold | Wilhelm Meinhold | 威廉·邁因霍爾德 | 新教牧師，1847 年小說《修院女巫西多妮亞·馮·博爾克》作者 |
+| Sidonia the Sorceress | — | 《女術士西多妮亞》 | 1849 年英譯本，譯者為王爾德之母珍·法蘭西絲卡·艾爾吉 |
+| Pre-Raphaelite Brotherhood | — | 拉斐爾前派 | 受該英譯本強烈影響的英國畫派 |
+| Edward Burne-Jones | Edward Burne-Jones | 愛德華·伯恩—瓊斯 | 1860 年兩幅畫作現藏倫敦泰特美術館 |
+| Kelmscott Press | Kelmscott Press | 凱姆斯考特出版社 | 威廉·莫里斯所辦，1893 年重印該小說精裝本 |
+| Theodor Fontane | Theodor Fontane | 特奧多爾·馮塔納 | 其殘稿《西多妮·馮·博爾克》1966 年首度出版 |
 
 ## [西蒙·戈格雷韋](regions/03-central-europe/simon-gograeve.md)
 
@@ -2008,6 +2492,77 @@
 | Setesdal | — | 塞特斯達爾 | 挪威南部谷地 |
 | Hardanger | — | 哈當厄 | 挪威西部峽灣區 |
 
+## [梅雷特·約恩斯多特](regions/04-northern-europe/maeret-jonsdotter.md)
+
+| 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
+| --- | --- | --- | --- |
+| Märet Jonsdotter | Märet Jonsdotter | 梅雷特·約恩斯多特 | 本條目主角，沿用〈莫拉女巫審判與大騷動〉既有譯名 |
+| Stor-Märet | Stor-Märet | 大梅雷特 | 她的稱呼，用以與同名的妹妹區別 |
+| Lill-Märet | Lill-Märet | 小梅雷特 | 妹妹，同案被判死刑 |
+| Gertrud Svensdotter | Gertrud Svensdotter | 葛楚德·斯文斯多特 | 最初被指為施行巫術、隨後指認梅雷特的女孩 |
+| Mats Nilsson | Mats Nilsson | 馬茨·尼爾松 | 最先聲稱看見葛楚德踩水的放羊男孩 |
+| Lars Elvius | Lars Elvius | 拉爾斯·艾爾維烏斯 | 艾爾夫達倫教區牧師，最早訊問葛楚德 |
+| Erik Eriksson／Erich Erichsson | Erik Eriksson | 艾里克·艾里克松 | 被視為有靈視能力的十五歲男孩，唯一僅以證人身分受訊者 |
+| Sven Hwass | Sven Hwass | 斯文·赫瓦斯 | 葛楚德之父，作證說被當作坐騎騎往布洛庫拉 |
+| Anna Olofsdotter | Anna Olofsdotter | 安娜·奧洛夫斯多特 | 在對質中指認梅雷特的女孩 |
+| Chirstin Jonsdotter | Chirstin Jonsdotter | 希爾斯汀·約恩斯多特 | 葛楚德的養母，未被控巫術 |
+| Karin Änka／Karin i Äggen | Karin Änka / Karin i Äggen | 寡婦卡琳／艾根的卡琳 | 同案被告，1672 年獲釋 |
+| Gålichs Anna Olsdotter | Gålichs Anna Olsdotter | 戈利克斯·安娜·奧爾斯多特 | 證人，1669 年 5 月 19 日被處決 |
+| Kerstin Halvarsdotter | Kerstin Halvarsdotter | 謝什婷·哈爾瓦斯多特 | 同案死刑犯，因懷孕延後行刑 |
+| Påls Märet Biörsdotter | Påls Märet Biörsdotter | 波爾斯·梅雷特·比約斯多特 | 七十一歲，與大梅雷特同為未認罪而被處決者 |
+| Lillhärdal | Lillhärdal | 利爾海達爾 | 海爾耶達倫的教區，梅雷特的家鄉 |
+| Härjedalen | Härjedalen | 海爾耶達倫 | 瑞典地方名，本案發生地 |
+| Älvdalen | Älvdalen | 艾爾夫達倫 | 達拉納北部教區，指控的起點 |
+| Åsen | Åsen | 奧森 | 艾爾夫達倫的村落 |
+| Österdalälven | Österdalälven | 東達爾河 | 葛楚德據稱踩水而過的河 |
+| Spångmyrholmen | Spångmyrholmen | 斯潘米爾霍爾門 | 據稱的處決地點 |
+| Svea hovrätt | Svea hovrätt | 斯韋亞上訴法院 | 瑞典上級法院；〈莫拉女巫審判與大騷動〉一條稱之為「瑞典高等法院」 |
+| Djävulsmärket | Djävulsmärket | 魔鬼印記 | 她左手小指上的記號，為定罪依據之一 |
+| läsa i salt | läsa i salt | 對鹽誦咒 | 民間療法：把逆時針攪動過的鹽餵給牲口並誦咒 |
+| skott（flog／finnskott／vattenskott） | skott | 射（飛／芬人之射／水之射） | 北歐民俗醫學病名，把突發疼痛理解為被無形之物射中 |
+| bjära | bjära | 乳妖 | 女巫差遣去偷擠牛奶的魔法造物 |
+| puke | puke | 小鬼 | 同樣被差遣偷奶的小惡魔 |
+| Blåkulla | Blåkulla | 布洛庫拉 | 女巫赴巫魔會的地方，沿用既有條目譯法 |
+| Vitkulla | Vitkulla | 維特庫拉 | 布洛庫拉旁的天使房間，沿用既有條目譯法 |
+| det stora oväsendet | det stora oväsendet | 大騷動 | 1668—1676 年瑞典全國性獵巫的通稱 |
+| Ovanåker | Ovanåker | 奧萬奧克爾 | 1672 年另一起在否認下判死的審判所在教區 |
+| Nidarosdomen | Nidarosdomen | 尼達洛斯主教座堂 | 特隆赫姆的主教座堂，證詞中的途中歇腳處 |
+
+## [瑪琳·馬茨多特](regions/04-northern-europe/malin-matsdotter.md)
+
+| 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
+| --- | --- | --- | --- |
+| Malin Matsdotter | Malin Matsdotter | 瑪琳·馬茨多特 | 本條目主角，亦作 Mattsdotter |
+| Rumpare-Malin | Rumpare-Malin | 倫帕勒—瑪琳 | 筆錄中的綽號，語義不明，另見「背景」一節的三種推測 |
+| Rumpoxe | Rumpoxe | 屁股牛 | 當時罵人愚笨無能的俗語（rumpa 臀＋oxe 牛），被視為綽號的可能來源 |
+| Gamlakarleby | Gamlakarleby | 加姆拉卡勒比 | 她的出生地，今芬蘭科科拉，時屬瑞典 |
+| Österbotten | Österbotten | 東博滕 | 芬蘭西岸地方，時屬瑞典 |
+| Erik Nilsson | Erik Nilsson | 艾里克·尼爾松 | 第一任丈夫，1668 年因獸姦被處決 |
+| Anders Arentsson Dykare | Anders Arentsson Dykare | 安德斯·阿倫特松·迪卡勒 | 第二任丈夫，審判中從未被傳訊 |
+| Anna Eriksdotter | Anna Eriksdotter | 安娜·艾里克斯多特 | 長女，先告發父親、後指證母親，自己亦被控巫術 |
+| Maria Eriksdotter | Maria Eriksdotter | 瑪麗亞·艾里克斯多特 | 次女，1676 年 7 月告發母親的人 |
+| Häxprocessen i Katarina | Häxprocessen i Katarina | 卡塔琳娜女巫審判 | 斯德哥爾摩卡塔琳娜教區的審判，本案所屬 |
+| Det stora oväsendet | Det stora oväsendet | 大騷動 | 1668—1676 年瑞典全國性獵巫的通稱 |
+| Blåkulla | Blåkulla | 布洛庫拉 | 女巫赴巫魔會的地方，沿用既有條目譯法 |
+| Kungliga Commissorialrätten | Kungliga Commissorialrätten | 皇家特別委員會法庭 | 決定處決方式的臨時上級法庭 |
+| Urban Hjärne | Urban Hjärne | 烏爾班·耶爾納 | 委員兼醫師，主張以鐵鉗先使其失去意識；日後轉為質疑兒童證詞 |
+| Jacobus Petri Chronander | Jacobus Petri Chronander | 雅各布斯·佩特里·克羅南德爾 | 唯一反對活活焚燒的市參事 |
+| Coyet | Coyet | 科耶特 | 委員會祕書，提出三種處決方案 |
+| Carolinus | Carolinus | 卡羅利努斯 | 教士委員，主張「先嘗地獄之苦」 |
+| Erik Noraeus | Erik Noraeus | 艾里克·諾雷烏斯 | 大教堂教區牧師，處決後轉向質疑審判 |
+| Anna Lärka | Anna Lärka | 安娜·萊爾卡 | 另一名曾被判活活焚燒、因認罪而改判者 |
+| Anna Simonsdotter Hack／Tysk-Annika | Anna Simonsdotter Hack / Tysk-Annika | 安娜·西蒙斯多特·哈克／德意志安妮卡 | 同日受刑者，依常規先斬首再焚屍 |
+| Brita Zippel | Brita Zippel | 布莉塔·齊佩爾 | 卡塔琳娜審判中先前被處決者，綽號「沒鼻子的」 |
+| Anna Zippel | Anna Zippel | 安娜·齊佩爾 | 布莉塔之妹，曾請瑪琳接生 |
+| Hötorget | Hötorget | 賀托里廣場 | 斯德哥爾摩的處決地點，字面為「乾草市場」 |
+| Johan Larsson Hvitlock | Johan Larsson Hvitlock | 約翰·拉爾松·維特洛克 | 執行處決的劊子手 |
+| Södermalm | Södermalm | 南島 | 斯德哥爾摩市區，她的居住地 |
+| Mariaberget | Mariaberget | 瑪利亞山 | 南島地名，她的宅院所在 |
+| Gävlepojken | Gävlepojken | 耶夫勒男孩 | 把恐慌帶進首都的少年證人，即約翰·約翰松 |
+| Annika Thomsdotter | Annika Thomsdotter | 安妮卡·湯姆斯多特 | 1676 年 9 月在庭上崩潰、導致偽證被揭穿的證人 |
+| Lars Nilsson | Lars Nilsson | 拉爾斯·尼爾松 | 1693 年瑞典最後一件焚燒處決的受刑者 |
+| Malin Matsdotters örtagård | Malin Matsdotters örtagård | 瑪琳·馬茨多特藥草園 | 2023 年設於卡塔琳娜教堂旁的紀念地 |
+
 ## [莫拉女巫審判與大騷動](regions/04-northern-europe/mora-trolldomsprocess.md)
 
 | 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
@@ -2041,6 +2596,44 @@
 | Kyöpelinvuori | Kyöpelinvuori | 屈厄佩林山 | 芬蘭語中對應布洛庫拉的地名 |
 | Blå Jungfrun | Blå Jungfrun | 藍少女島 | 波羅的海上被指為布洛庫拉的實際島嶼 |
 | gandreið | gandreið | 甘德萊茲 | 古北歐語，指巫術性的飛行之旅 |
+
+## [拉格希爾德·特雷加高斯](regions/04-northern-europe/ragnhild-tregagas.md)
+
+| 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
+| --- | --- | --- | --- |
+| Ragnhild Tregagås／Tregagás | Ragnhild Tregagas | 拉格希爾德·特雷加高斯 | 本條目主角，卑爾根人，生卒年不詳 |
+| Bård | Bard | 博爾德 | 她的表親與前情人，被控與她通姦及亂倫 |
+| Bergljot | Bergljot | 貝里約特 | 博爾德的新娘，詛咒的對象之一 |
+| Audfinn Sigurdsson | Audfinn Sigurdsson | 奧德芬·西古爾德松 | 卑爾根主教，本案的審判者與量刑者 |
+| Sørle Sigh | Sorle Sigh | 瑟勒·西格 | 她供稱教她「異端召喚術」的人 |
+| De quaddam lapsa in heresim Ragnhild Tregagås | — | 〈論某位墮入異端者拉格希爾德·特雷加高斯〉 | 主教的公告，拉丁文，原文拼寫照錄 |
+| Alia in eodem crimine | — | 〈另一件同罪案〉 | 判決書，拉丁文 |
+| Göndul／gondols ondu | Gondul | 貢多爾／貢多爾的靈 | 咒詞中被差遣出去的女武神 |
+| Fusa | Fusa | 富薩 | 她誇耀自身法術、引來流言的地方 |
+| Bergen | Bergen | 卑爾根 | 審判地，17 世紀前已有十六件巫術案件 |
+| Hålogaland | Halogaland | 霍洛加蘭 | 挪威北部地方，博爾德離婚後遷往之地 |
+| Lyderhorn | Lyderhorn | 呂德霍恩 | 卑爾根附近的山，傳說女巫於聖誕夜在此聚會 |
+| Hirdskrá | Hirdskra | 《侍衛法》 | 哈康四世為規範侍衛行為而制定的法典 |
+| løgting | logting | 律庭 | 11 世紀發展的地方法庭與立法制度 |
+| Borgarthing | Borgarthing | 博爾加庭 | 奧拉夫二世 1016 年設於博格的律庭 |
+| Gulathing | Gulathing | 古拉庭 | 挪威西部的律庭，其舊法有人身權利篇 |
+| seiðr | seidr | 塞茲 | 北歐求知未來的儀式性法術 |
+| vǫlva | volva | 沃爾娃 | 日耳曼異教中的女先知 |
+| varðlokur | vardlokur | 瓦爾茲洛庫爾 | 招引靈體的歌，古茲麗德所唱 |
+| Þorbjǫrg／Þorbjörg | Thorbjorg | 索爾比約格 | 格陵蘭薩迦中的沃爾娃 |
+| Guðríðr | Gudridr | 古茲麗德 | 為索爾比約格吟唱招靈歌的基督徒女性 |
+| Eiríks saga rauða | Eiriks saga rauda | 《紅髮艾瑞克薩迦》 | 記載索爾比約格施行塞茲的薩迦；原文誤植為 Eriríks saga rauða |
+| Hauksbók | Hauksbok | 《豪克書》 | 冰島手抄本，收有告誡提防巫術的布道文 |
+| Vǫlsa þáttr | Volsa thattr | 〈沃爾西之章〉 | 記述保存馬陰莖作為宗教器物的古北歐文本 |
+| Hávamál | Havamal | 〈高人的箴言〉 | 《詩體埃達》篇名，沿用〈莫拉女巫審判與大騷動〉既有譯法 |
+| Brísingamen | Brisingamen | 布里希嘉曼 | 芙蕾雅的首飾，〈瑟勒之章〉的關鍵物件 |
+| Freyja | Freyja | 芙蕾雅 | 北歐豐產與愛的女神 |
+| trolldom／trollfolk／trollkone | trolldom / trollfolk / trollkone | 巫術／巫人／女巫 | 北歐語言中與 troll 同源的一組巫術詞彙 |
+| trollkatt | trollkatt | 巨魔貓 | 被視為挪威女巫使魔的生物 |
+| Magnus Eriksson | Magnus Eriksson | 馬格努斯·艾里克松 | 即馬格努斯四世，本案時仍為孩童 |
+| Håkon Håkonsson | Hakon Hakonsson | 哈康四世·哈康松 | 制定《侍衛法》的挪威國王 |
+| Olaf II Haraldsson | Olaf II Haraldsson | 奧拉夫二世·哈拉爾德松 | 設立博爾加庭、以法律推行基督教的挪威國王 |
+| Gula Tidend | Gula Tidend | 《古拉時報》 | 1925 年報導本案的挪威報紙 |
 
 ## [瓦爾德與芬馬克獵巫](regions/04-northern-europe/vardo-trolldomsprosessene.md)
 
@@ -2205,6 +2798,69 @@
 | Ῥῶμος／Ἀντείας／Ἀρδείας | Rhomos／Anteias／Ardeias | 羅摩斯／安提亞斯／阿爾得亞斯 | 建立羅馬、安提烏姆、阿爾得亞的三兄弟 |
 | γάλανθος | galanthos | 雪花蓮 | 現代詮釋中被比定為摩呂草的植物 |
 
+## [美狄亞](regions/05-southern-europe/medea.md)
+
+| 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
+| --- | --- | --- | --- |
+| Μήδεια | Medeia | 美狄亞 | 科爾基斯王女、女術士，本條目主角 |
+| μήδομαι | mēdomai | 沉思、謀劃 | 法語版所指與其名相連的希臘語動詞 |
+| Κολχίδα／Κολχίς | Kolchis | 科爾基斯 | 黑海東岸的王國，今喬治亞西部 |
+| Αἰήτης／Αιήτης | Aietes | 埃厄忒斯 | 科爾基斯王，美狄亞之父、喀爾刻之兄 |
+| Ἰδυῖα／Ιδυία | Idyia | 伊底伊亞 | 大洋神女，美狄亞之母 |
+| Ἑκάτη／Εκάτη | Hekate | 黑卡蒂 | 美狄亞所侍奉的女神，一說即其母 |
+| Κίρκη | Kirke | 喀爾刻 | 埃厄忒斯的姊妹，美狄亞的姑母與魔法之師 |
+| Ἥλιος／Ήλιος | Helios | 赫利俄斯 | 太陽神，美狄亞的祖父 |
+| Ἰάσων／Ιάσονας | Iason | 伊阿宋 | 阿爾戈遠征隊首領，美狄亞的丈夫 |
+| Ἀργοναῦται／Αργοναύτες | Argonautai | 阿爾戈英雄 | 尋找金羊毛的航海隊伍 |
+| Χρυσόμαλλον δέρας | Chrysomallon deras | 金羊毛 | 遠征的目標 |
+| Ἄψυρτος／Άψυρτος | Apsyrtos | 阿普緒爾托斯 | 美狄亞之弟，被她分屍以拖延追兵 |
+| Πελίας | Pelias | 珀利阿斯 | 伊俄爾科斯王，篡奪伊阿宋的王位 |
+| Ἰωλκός／Ιωλκός | Iolkos | 伊俄爾科斯 | 伊阿宋的故國 |
+| Ἄκαστος／Άκαστος | Akastos | 阿卡斯托斯 | 珀利阿斯之子，驅逐這對愛侶 |
+| Κόρινθος | Korinthos | 科林斯 | 殺子情節的發生地 |
+| Κρέων | Kreon | 克瑞翁 | 科林斯王 |
+| Γλαύκη | Glauke | 格勞刻 | 克瑞翁之女，希臘語版的稱法 |
+| Κρέουσα | Kreousa | 克瑞烏薩 | 同一人物在法語版與拉丁傳統中的稱法 |
+| Μέρμερος | Mermeros | 墨爾墨羅斯 | 美狄亞與伊阿宋之子 |
+| Φέρης | Pheres | 斐瑞斯 | 美狄亞與伊阿宋之子 |
+| Παιδοκτονία | paidoktonia | 殺子 | 希臘語版該節的標題，字面為「殺害子女」 |
+| Αἰγεύς／Αιγέας | Aigeus | 埃勾斯 | 雅典王，美狄亞在雅典的丈夫 |
+| Θησεύς／Θησέας | Theseus | 忒修斯 | 埃勾斯之子，美狄亞欲毒殺的對象 |
+| Μῆδος／Μήδος | Medos | 墨多斯 | 美狄亞之子，米底人的名祖 |
+| Μηδία | Media | 米底亞 | 伊朗高原西部的古國，其名據說源自美狄亞 |
+| Πέρσης | Perses | 佩爾塞斯 | 埃厄忒斯之弟，篡位者，被美狄亞所殺 |
+| Ἠλύσια Πεδία | Elysia Pedia | 至福樂土 | 希臘神話中的福地，法語作 Champs Élysées |
+| Ἀχιλλεύς／Αχιλλέας | Achilleus | 阿基里斯 | 在若干異本中成為美狄亞死後的丈夫 |
+| Ἥρα | Hera | 赫拉 | 科林斯神廟的主神，異本中孩子喪命之處 |
+| Ἐρινύες | Erinyes | 厄里倪厄斯 | 復仇女神，詛咒珀利阿斯的女兒們 |
+| Δημήτηρ | Demeter | 德墨忒爾 | 莫羅認為美狄亞是其位格 |
+| Ἄρτεμις | Artemis | 阿蒂蜜絲 | 美狄亞在伊俄爾科斯假託的女神 |
+| Εὔμηλος ὁ Κορίνθιος | Eumelos ho Korinthios | 科林斯的歐邁洛斯 | 《科林斯紀》作者，最早記載科林斯情節 |
+| Κορινθιακά | Korinthiaka | 《科林斯紀》 | 歐邁洛斯的史詩，僅存殘篇 |
+| Κρεώφυλος ὁ Σάμιος | Kreophylos ho Samios | 薩摩斯的克瑞歐菲洛斯 | 與荷馬同時的詩人 |
+| Παρμενίσκος | Parmeniskos | 帕爾墨尼斯科斯 | 晚期希臘語文獻學者 |
+| Ἴβυκος | Ibykos | 伊比科斯 | 早於歐里庇得斯的抒情詩人 |
+| Σιμωνίδης ὁ Κεῖος | Simonides ho Keios | 凱歐斯的西摩尼德斯 | 早於歐里庇得斯的抒情詩人 |
+| Εὐριπίδης | Euripides | 歐里庇得斯 | 《美狄亞》（公元前 431 年）作者 |
+| Ἀπολλώνιος ὁ Ῥόδιος | Apollonios ho Rhodios | 羅得島的阿波羅尼俄斯 | 《阿爾戈英雄記》作者 |
+| Ἡσίοδος | Hesiodos | 赫西俄德 | 《神譜》作者 |
+| Πίνδαρος | Pindaros | 品達 | 《皮托凱歌》第四首擴大了美狄亞的分量 |
+| Παυσανίας | Pausanias | 保薩尼亞斯 | 《希臘志》作者，轉述歐邁洛斯 |
+| Ἡρόδοτος | Herodotos | 希羅多德 | 記美狄亞晚年定居伊朗高原 |
+| Διόδωρος ὁ Σικελιώτης | Diodoros ho Sikeliotes | 西西里的狄奧多羅斯 | 另記一種結局 |
+| Ἡραῖον Περαχώρας | Heraion Perachoras | 佩拉霍拉的赫拉神廟 | 疑有為美狄亞之子舉行的贖罪儀式 |
+| Ἐλευσίς | Eleusis | 厄琉息斯 | 陶甕異本中美狄亞的去處 |
+| ΕΛΕΥΣΙΣ ΤΟ ΙΕΡΟΝ | Eleusis to hieron | 厄琉息斯的聖所 | 大流士畫師巨爵上的銘文 |
+| Τόμις | Tomis | 托彌斯 | 黑海西岸城市，名字意為「被切斷」 |
+| Ἠριδανός | Eridanos | 厄里達諾斯河 | 神話地理中的歐洲大河，認定不一 |
+| Συμπληγάδες | Symplegades | 撞岩 | 會相互撞擊的海峽岩石 |
+| Airmed | — | 艾爾米德 | 愛爾蘭醫療女神，其名與 \*med- 同源 |
+| Alain Moreau | — | 阿蘭·莫羅 | 《伊阿宋與美狄亞的神話》作者 |
+| Michael Maier | — | 米夏埃爾·邁爾 | 德意志醫師與鍊金術士 |
+| Jean Haudry | — | 讓·奧德里 | 提出殺子情節源自使子不死的失敗嘗試 |
+| Arthur Dale Trendall | — | 阿瑟·戴爾·特倫德爾 | 南義大利陶器研究者 |
+| Christa Wolf | — | 克莉絲塔·沃爾夫 | 1996 年小說《美狄亞：聲音》作者 |
+
 ## [特廖拉女巫審判](regions/05-southern-europe/processo-alle-streghe-di-triora.md)
 
 | 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
@@ -2338,6 +2994,38 @@
 | Федір Вовк | Fedir Vovk | 費多爾·沃夫克 | 人類學者，主張形象源自日耳曼神話 |
 | Олекса Стороженко | Oleksa Storozhenko | 奧列克薩·斯托羅任科 | 〈墜入情網的魔鬼〉（1861）作者 |
 | Лисогірський форт | Lysohirskyi fort | 禿山堡壘 | 1872 年起修築的基輔要塞外堡 |
+
+## [瑪格達·洛戈梅爾](regions/06-eastern-europe/magda-logomer.md)
+
+| 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
+| --- | --- | --- | --- |
+| Magda Logomer | Magda Logomer | 瑪格達·洛戈梅爾 | 本條目主角，克羅埃西亞最後一名巫術被告 |
+| Herucina | Herucina | 赫魯齊娜 | 她的通稱，可能取自丈夫之名或其居住地「赫魯茨」 |
+| travarka | travarka | 草藥師 | 她的職業，採草配藥；在巫術嫌疑中屬加重情節 |
+| Križevci | Krizevci | 克里熱夫齊 | 克羅埃西亞城市，本案發生地 |
+| Podgajec | Podgajec | 波德加耶茨 | 她的出生地，位於克里熱夫齊近郊 |
+| Brckovčina | Brckovcina | 布爾茨科夫奇納 | 弗拉尼奧·赫魯茨登記居住的村落 |
+| Franjo Heruc | Franjo Heruc | 弗拉尼奧·赫魯茨 | 她的丈夫，1727 年成婚 |
+| Eva Oblačić | Eva Oblacic | 埃娃·奧布拉契奇 | 指控她行黑魔法的鄰婦 |
+| Matija Sunsić | Matija Sunsic | 馬蒂亞·孫西奇 | 箍桶匠，她的教父，出庭作證者 |
+| Stjepan Švagel | Stjepan Svagel | 斯捷潘·什瓦格爾 | 與她關係不睦的法官 |
+| Barbara | Barbara | 芭芭拉 | 她的女兒，習得草藥知識並在審判中作證 |
+| Marija Terezija | Marija Terezija | 瑪麗亞·特蕾莎 | 哈布斯堡君主，介入本案並終止克羅埃西亞的女巫審判 |
+| Gerard van Swieten | Gerard van Swieten | 赫拉德·范·斯維滕 | 女皇御醫兼巫術案件鑑定人；原文一處誤作 George |
+| De Haen | De Haen | 德哈恩 | 醫學教授，與范·斯維滕共同診察瑪格達 |
+| Franjo Nadaždi | Franjo Nadazdi | 弗拉尼奧·納達日迪 | 時任克羅埃西亞總督的伯爵 |
+| ban | ban | 總督 | 克羅埃西亞王國的最高長官 |
+| Ferdinandov zakonik | Ferdinandov zakonik | 《斐迪南法典》 | 規範拷問次數、刑具順序與紀錄義務的法典 |
+| ius gladii | ius gladii | 劍權 | 不經上級法院即可宣告死刑的權限 |
+| Marija Jurić Zagorka | Marija Juric Zagorka | 瑪麗亞·尤里奇·扎戈爾卡 | 克羅埃西亞作家，《格里奇的女巫》作者 |
+| Grička vještica | Gricka vjestica | 《格里奇的女巫》 | 1912—1914 年連載的歷史小說，赫魯齊娜為登場人物之一 |
+| Male novine | Male novine | 《小報》 | 連載該小說的日報 |
+| Obzor | Obzor | 《展望報》 | 1913 與 1924 年刊出范·斯維滕報告的報紙 |
+| Nikola Benger | Nikola Benger | 尼古拉·本格爾 | 保祿會修士與歷史學者，留下當時當地的記述 |
+| Balthazar Adam Krčelić | Balthazar Adam Krcelic | 巴爾塔扎爾·亞當·克爾切利奇 | 編年紀錄作者，其記述未提本案 |
+| Ivan Josipović | Ivan Josipovic | 伊萬·約西波維奇 | 克里熱夫齊本堂神父，其記述亦未提本案 |
+| Zagorka（Zagrebačka／Varaždinska／Križevačka županija） | Zagrebacka / Varazdinska / Krizevacka zupanija | 札格瑞布縣／瓦拉日丁縣／克里熱夫齊縣 | 1740—1752 年間 63 名女巫受追訴的三個縣 |
+| Josip II | Josip II | 約瑟夫二世 | 1787 年拆除全部巫術法制的哈布斯堡君主 |
 
 ## [多魯胡夫女巫審判](regions/06-eastern-europe/proces-w-doruchowie.md)
 
@@ -3985,6 +4673,59 @@
 | Ulli Beier | — | 烏利·拜爾 | 1958 年反對把 àjẹ́ 譯為 witch 的學者 |
 | Babatunde Lawal | — | 巴巴通德·拉瓦爾 | 《蓋雷德景觀》作者 |
 
+## [金帕·維塔](regions/09-sub-saharan-africa/kimpa-vita.md)
+
+| 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
+| --- | --- | --- | --- |
+| Kimpa Vita | — | 金帕·維塔 | 本條目主角；基孔戈語版作 Kimpa Mvita，葡萄牙語版作 Quimpa Vita |
+| Tsimpa Vita | — | 齊姆帕·維塔 | 基孔戈語版所列的另一異寫 |
+| Ndona Beatrice／Dona Beatriz | — | 恩多娜·貝亞特麗絲／唐娜·貝亞特麗絲 | 她的洗名；Dona 為葡萄牙語形式，表示高等貴族出身 |
+| ngunza | — | 先知 | 基孔戈語，剛果先知運動中的自稱用詞 |
+| nsi ya Kongo ya Ntotila | — | 剛果王國之地 | 基孔戈語對剛果王國的稱法 |
+| Kongo／Reino do Congo | — | 剛果王國 | 約 1390—1914 年存在於今安哥拉北部與剛果兩國一帶的王國 |
+| Mbanza Kongo／Mabanza Congo／M'banza Kongo | — | 姆班扎剛果 | 剛果王國首都，葡萄牙人改稱 São Salvador |
+| São Salvador | — | 聖薩爾瓦多 | 姆班扎剛果的葡萄牙語名，1678 年被遺棄，1704 年起由她重新住滿 |
+| Evululu | — | 埃武盧盧 | 佩德羅四世的臨時首都，她在此被處火刑 |
+| Kibangu／Quibangu | — | 基班古 | 她的出生地，山區 |
+| Nsundi | — | 恩孫迪 | 她所稱耶穌的誕生地 |
+| Soyo／Soio | — | 索約 | 沿海省分，其親王驅逐了她的傳教士 |
+| Mbamba Lovata／Umbamba Lovata | — | 姆班巴洛瓦塔 | 索約以南地區，安東尼派傳教成功之地 |
+| Mbwila／Ambuíla | — | 姆布維拉／安布伊拉 | 1665 年戰役發生地，剛果王國崩解的起點 |
+| Bakongo | — | 巴剛果人 | 剛果王國的主體民族 |
+| Mwana Kongo／Muana-Congo | — | 姆瓦納剛果 | 剛果高等貴族的一個階層／王室支系 |
+| nganga marinda／naganga marinda | — | 恩甘加·馬林達 | 能與彼世溝通的通靈者，與金帕西結社相關 |
+| kimpasi／Quimpassi | — | 金帕西 | 17 世紀末在剛果興盛的生育與治療信仰結社 |
+| ndoki／ndɔki | — | 恩多基 | 剛果語系中的行巫者；德語版指出當時剛果並不處死自利的 ndɔki |
+| kindoki | — | 金多基 | 該地區不可見力量及其運用的概念，詳見同目錄專條 |
+| Antonianismo／Antonianer | — | 安東尼派 | 她創立的基督教革新運動 |
+| Pequenos Antonianos | — | 小安東尼派 | 她派往各省的運動傳教士 |
+| Santo António de Pádua | — | 帕多瓦的聖安東尼 | 附身於她的聖人 |
+| Toni Malau | — | 托尼·馬勞 | 剛果化的聖安東尼形象，18 世紀宗教藝術中極為突出 |
+| Salve Antonina／Salve Antoniana | — | 〈安東尼萬福詞〉 | 改編自〈萬福母后〉的運動頌歌 |
+| Salve Regina | — | 〈萬福母后〉 | 天主教傳統的聖母禱文 |
+| capuchinho／Kapuziner | — | 嘉布遣會 | 方濟會的一支，在剛果的傳教主力 |
+| Bernardo de Gallo／Bernardo da Gallo | — | 貝爾納多·達加洛 | 義大利嘉布遣會神父，記錄她的證詞並主張她被魔鬼附身 |
+| Lorenzo de Lucca／Lorenzo da Lucca | — | 洛倫佐·達盧卡 | 義大利嘉布遣會神父，她最後的告解神父 |
+| Pedro IV | — | 佩德羅四世 | 剛果國王，下令處死她 |
+| João II | — | 若昂二世 | 佩德羅四世的對手，同樣拒絕聽取她 |
+| António I（Nvita a Nkanga） | — | 安東尼奧一世 | 1665 年戰死的剛果國王，可能是她的祖父 |
+| Álvaro X | — | 阿爾瓦羅十世 | 其軍隊中的一名軍官為她的父親 |
+| Hipólita／Hipolita | — | 伊波利塔 | 佩德羅四世之妻，改宗安東尼派 |
+| Pedro Constantinho da Silva Quibenga／Kibenga | — | 佩德羅·康斯坦丁尼奧·達席爾瓦·基本加 | 軍隊指揮官，改宗後成為運動的新領袖，1709 年被斬首 |
+| Apolónia Mafuta／Apolonia Mafuta | — | 阿波羅妮亞·馬富塔 | 年長的女先知，先支持她、後從屬於她 |
+| João Barro | — | 若昂·巴羅 | 她孩子的父親，與她一同被處死 |
+| Jerónimo | — | 熱羅尼莫 | 她的兒子，由洛倫佐·達盧卡命名 |
+| Suzana de Nóbrega | — | 蘇薩娜·德諾布雷加 | 前王后，其支持者多改宗安東尼派 |
+| Manuel Macassa／Manuel Makasa | — | 曼努埃爾·馬卡薩 | 前王后的支持者，改宗後遷往聖薩爾瓦多 |
+| Simon Kimbangu | — | 西蒙·金邦古 | 1920 年代金邦古教會的創立者，追認她為先驅 |
+| Bundu dia Kongo | — | 邦杜·迪亞·剛果 | 1960 年代由姆萬達·恩塞米創立的剛果宗教運動 |
+| John K. Thornton | — | 約翰·K·桑頓 | 《剛果的聖安東尼》作者，本條目主要的史學依據 |
+| Kirsten Rüther | — | 基爾斯滕·呂特 | 提出「近世獵巫火刑的搬演」之說 |
+| António Custódio Gonçalves | — | 安東尼奧·庫斯托迪奧·貢薩爾維斯 | 研究剛果先知運動的史家 |
+| David González | — | 大衛·岡薩雷斯 | 西班牙語版所引安東尼派分析的作者 |
+| Ne Kunda Nlaba | — | 內·孔達·恩拉巴 | 2016 年紀錄片導演 |
+| Wilfried N'Sondé | — | 威爾弗里德·恩松德 | 小說《月眼女王》作者 |
+
 ## [金多基](regions/09-sub-saharan-africa/kindoki.md)
 
 | 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
@@ -4014,6 +4755,45 @@
 | Joachim Theis | — | 約阿希姆·泰斯 | 強調都市化脈絡的研究者 |
 | Maka | — | 馬卡人 | 喀麥隆族群 |
 | Tio | — | 提歐人 | 今剛果共和國的族群 |
+
+## [布莉姬·畢夏普](regions/10-americas/bridget-bishop.md)
+
+| 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
+| --- | --- | --- | --- |
+| Bridget Bishop (née Magnus) | — | 布莉姬·畢夏普（婚前姓馬格努斯） | 本條目主角，塞勒姆第一位被處決者 |
+| Bridget Byshop | — | 布莉姬·畢夏普 | 1692 年訊問筆錄標題中的異拼，照錄 |
+| Samuel Wasselbe | — | 塞繆爾·瓦瑟爾比 | 其第一任丈夫，船長，赴美前後亡故 |
+| Thomas Oliver | — | 湯瑪斯·奧利佛 | 其第二任丈夫，她曾被控以巫術害死他，獲判無罪 |
+| Edward Bishop | — | 愛德華·畢夏普 | 其第三任丈夫，鋸木匠，貝弗利第一教會創建者之一 |
+| Sarah Bishop | — | 莎拉·畢夏普 | 塞勒姆村酒館的「畢夏普家娘子」，長期被與她混淆 |
+| Chrestian／Christian Oliver | — | 克蕾絲廷·奧利佛 | 其女，1667 年生，原文兩種拼法並存 |
+| Court of Oyer and Terminer | — | 奧耶爾與特米納法庭 | 1692 年特設的巡迴刑事法庭，本案為其第一案 |
+| Cotton Mather | — | 科頓·馬瑟 | 《不可見世界的奇事》作者，本案審判紀錄的來源 |
+| Wonders of the Invisible World | — | 《不可見世界的奇事》 | 馬瑟 1692 年著作，記錄五場審判 |
+| Ezekiel Cheevers／John Putnam | — | 以西結·奇弗斯／約翰·普特南 | 提出告發者 |
+| Ann Putnam Jr. | — | 小安·普特南 | 五名指控者之一 |
+| Mercy Lewis | — | 默西·路易斯 | 五名指控者之一 |
+| Abigail Williams | — | 阿比蓋兒·威廉斯 | 五名指控者之一，帕里斯牧師姪女 |
+| Mary Walcott／Mary Walcot | — | 瑪麗·沃爾科特 | 五名指控者之一，原文兩種拼法並存 |
+| Elizabeth Hubbard／Elis Hubert | — | 伊莉莎白·哈伯德／伊莉絲·休伯特 | 同一人，原文前後兩段拼法不同 |
+| Richard Coman | — | 理查·科曼 | 證稱被扼喉並被拽下床者 |
+| William Stacy | — | 威廉·史泰西 | 塞勒姆鎮中年男子，證人 |
+| Samuel Shattuck | — | 塞繆爾·沙塔克 | 證稱她害其子、要他染蕾絲者 |
+| John Bly／William Bly | — | 約翰·布萊／威廉·布萊 | 父子，證稱在她家中發現巫偶 |
+| Deliverance Hobbs／John Cook／Samuel Gray／John Louder | — | 狄利佛倫斯·霍布斯／約翰·庫克／塞繆爾·格雷／約翰·勞德 | 馬瑟所記其他「受害者」 |
+| John Gedney | — | 約翰·蓋德尼 | 她在塞勒姆鎮的鄰人，地產可證其居所 |
+| Trask | — | 特拉斯克 | 1692 年訊問筆錄中因酒館失序而與她結怨的鄰人 |
+| goodwife | — | 家娘子 | 對平民已婚婦女的稱呼，本庫既有條目亦作「豪家娘子」 |
+| poppet | — | 巫偶 | 施法用的人偶，本案的物證之一 |
+| shovel-board | — | 推圓盤戲 | 在長桌上推擲金屬圓片的酒館遊戲 |
+| third nipple／witch's teat | — | 第三個乳頭／女巫的乳頭 | 搜身時尋找的「女巫記號」 |
+| spectral evidence | — | 幽靈證據 | 受害者宣稱看見被告幽影所作的證詞 |
+| shape／apparition | — | 形影／幻象 | 幽靈證據中被告顯現的樣貌 |
+| touch test | — | 觸摸試驗 | 被告一注視即使人倒地、一碰觸即使人甦醒 |
+| Devil's book | — | 魔鬼的書 | 在其上簽名即與魔鬼立約的簿冊 |
+| Salem Town／Salem Village | — | 塞勒姆鎮／塞勒姆村 | 兩個不同的行政單位，身分混淆的關鍵 |
+| Norwich | — | 諾里奇 | 英格蘭諾福克郡城市，她的出生地 |
+| Beverly | — | 貝弗利 | 麻薩諸塞市鎮，第三任丈夫家族所在 |
 
 ## [奇洛埃巫師審判](regions/10-americas/brujos-de-chiloe.md)
 
@@ -4138,6 +4918,44 @@
 | Rebecca Nurse／Sarah Good／Sarah Wildes／Susanna Martin | — | 蕾貝卡·納斯／莎拉·古德／莎拉·懷爾德斯／蘇珊娜·馬丁 | 1692 年 7 月 19 日與她同日受刑者 |
 | Giles Corey | — | 吉爾斯·科里 | 拒絕答辯而被壓石致死者 |
 
+## [吉爾斯·科里](regions/10-americas/giles-corey.md)
+
+| 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
+| --- | --- | --- | --- |
+| Giles Corey／Cory | — | 吉爾斯·科里 | 本條目主角，塞勒姆唯一被壓死者，受洗紀錄作 Cory |
+| Martha Corey (née Rich) | — | 瑪莎·科里（婚前姓里奇） | 其第三任妻，1692 年 9 月 22 日被絞死 |
+| Margaret／Mary Bright | — | 瑪格麗特／瑪麗·布萊特 | 其第一、第二任妻 |
+| Jacob Goodale／Goodell／Goodall | — | 雅各·古戴爾 | 1676 年被他毆打致死的契約農工，原文三種拼法並存 |
+| peine forte et dure | — | 強硬而嚴酷之刑 | 以石壓身迫使答辯的英格蘭古法，他死於此刑 |
+| standing mute | — | 拒不出聲 | 普通法用語，指被告在被要求答辯時緘默 |
+| refusal to plead | — | 拒絕答辯 | 不作有罪或無罪的答辯，因而不能受審 |
+| "More weight" | — | 「更多重量」 | 他被記載的遺言，亦有作「更多石頭」者 |
+| pressing | — | 壓刑 | 以木板與石塊壓身的刑求方式 |
+| forfeiture of estate | — | 產業沒收 | 定罪者的產業歸政府，本案拒答動機爭議的核心 |
+| Court of Oyer and Terminer | — | 奧耶爾與特米納法庭 | 1692 年特設的巡迴刑事法庭 |
+| Mercy Lewis v. Giles Corey | — | 默西·路易斯訴吉爾斯·科里 | 1692 年 9 月 9 日的法庭紀錄案名 |
+| Mercy Lewis | — | 默西·路易斯 | 湯瑪斯·普特南家女僕，供狀提供者 |
+| Abigail Hobbs | — | 阿比蓋兒·霍布斯 | 同日受訊者，指控他是男巫 |
+| Mary Warren／Bridget Bishop | — | 瑪麗·沃倫／布莉姬·畢夏普 | 1692 年 4 月 18 日同日被捕者 |
+| John Proctor | — | 約翰·普洛克特 | 鄰人，1676 年案的證人，後亦被處死 |
+| Sheriff George Corwin | — | 郡長喬治·科文 | 執行壓刑者，與地方法官喬納森·科文非同一人 |
+| Robert Calef | — | 羅伯特·卡列夫 | 在場目擊者，《不可見世界的更多奇事》作者 |
+| Samuel Sewall | — | 塞繆爾·塞沃爾 | 法庭書記兼法官，日記記下其死狀 |
+| Captain Gardner of Nantucket | — | 南塔克特的加德納船長 | 其舊識，曾勸他答辯 |
+| John Moulton／Elizabeth | — | 約翰·莫爾頓／伊莉莎白 | 其女婿與女兒，1710 年向科文遺產求償 |
+| Devil's book | — | 魔鬼的書 | 在其上簽名即與魔鬼立約的簿冊，供狀的核心指控 |
+| spectral evidence | — | 幽靈證據 | 受害者宣稱看見被告幽影所作的證詞 |
+| apparition／shape | — | 幻象／形影 | 幽靈證據中被告顯現的樣貌 |
+| Howard Street Cemetery | — | 霍華街墓園 | 推定的死亡與埋葬地，1801 年啟用 |
+| Charter Street Cemetery | — | 憲章街墓園 | 設有紀念他的銘牌 |
+| Proctor's Ledge | — | 普洛克特山崖 | 十九人被絞死之處 |
+| Peabody | — | 皮博迪 | 今地名，即他當年在塞勒姆村西南角的住處 |
+| Northampton, Northamptonshire | — | 北安普敦，北安普敦郡 | 英格蘭出生地 |
+| Giles Corey of the Salem Farms | — | 《塞勒姆農場的吉爾斯·科里》 | 朗費羅 1868 年劇作 |
+| Giles Corey, Yeoman | — | 《自耕農吉爾斯·科里》 | 瑪麗·埃莉諾·威爾金斯·弗里曼 1893 年劇作 |
+| The Crucible | — | 《煉獄》 | 亞瑟·米勒 1953 年劇作 |
+| More Weight: A Salem Story | — | 《更多重量：一則塞勒姆故事》 | 班·威基的圖像歷史作品 |
+
 ## [格蕾絲·雪伍德](regions/10-americas/grace-sherwood.md)
 
 | 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
@@ -4186,6 +5004,38 @@
 | "ancient and knowing women" | — | 「年長而見多識廣的婦女」 | 驗身陪審團的用語 |
 | informal pardon | — | 非正式赦免 | 2006 年州長恢復其名譽的方式 |
 
+## [蕾貝卡·納斯](regions/10-americas/rebecca-nurse.md)
+
+| 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
+| --- | --- | --- | --- |
+| Rebecca Nurse (née Towne) | — | 蕾貝卡·納斯（婚前姓湯恩） | 本條目主角，1692 年 7 月 19 日被絞死 |
+| Francis Nurse／Nourse | — | 法蘭西斯·納斯 | 其夫，木盤匠，1672 年任塞勒姆警官 |
+| Samuel Nurse | — | 塞繆爾·納斯 | 其子，代表受害者一方認可普特南的認罪書 |
+| Mary Eastey／Sarah Cloyce | — | 瑪麗·伊斯提／莎拉·克洛伊斯 | 其妹，同遭指控，前者被處死、後者倖存 |
+| William／Joanna Towne | — | 威廉·湯恩／喬安娜·湯恩 | 其父母，自英格蘭移民塞勒姆 |
+| Sarah Holton／Holten | — | 莎拉·霍爾頓 | 鄰人，以豬隻爭執與丈夫之死指控她，原文兩種拼法並存 |
+| Benjamin Holton | — | 班傑明·霍爾頓 | 前者之夫，爭執後抽搐、數週後死亡 |
+| Edward／John Putnam | — | 愛德華·普特南／約翰·普特南 | 提出指控、促成逮捕令者 |
+| Ann Putnam Jr. | — | 小安·普特南 | 主要指控者，1706 年公開認罪 |
+| Deliverance Hobbs | — | 狄利佛倫斯·霍布斯 | 認罪者，納斯稱其「與她同夥」一語成為翻案關鍵 |
+| "of her company" | — | 「與她同夥」 | 納斯的原話，被解為承認同與魔鬼立約 |
+| John Hathorne／Jonathan Corwin | — | 約翰·霍索恩／喬納森·科文 | 主持偵訊的地方法官 |
+| Elizabeth Porter | — | 伊莉莎白·波特 | 霍索恩之姊妹、納斯密友，1692 年連署領銜者之一 |
+| Israel Porter | — | 伊斯雷爾·波特 | 前者之夫，連署領銜者之一 |
+| Joseph Green | — | 約瑟夫·格林 | 帕里斯的繼任牧師，1706 年朗讀普特南認罪書 |
+| Samuel Parris | — | 塞繆爾·帕里斯 | 審判期間的塞勒姆村牧師，1697 年被免職 |
+| spectral evidence | — | 幽靈證據 | 受害者宣稱看見被告幽影所作的證詞 |
+| Devil's book／pact with the Devil | — | 魔鬼的書／與魔鬼立約 | 女巫在簿冊上簽名與魔鬼立約，本案「同夥」一語所指 |
+| Goodwife Nurse | — | 納斯家娘子 | 對平民已婚婦女的稱呼，見於普特南認罪書 |
+| reversal of attainer | — | 撤銷褫奪公權 | 1711 年子女請願所求，原文拼法照錄 |
+| excommunication | — | 逐出教會 | 1712 年由塞勒姆鎮教會撤銷 |
+| Rebecca Nurse Homestead | — | 納斯故居 | 三百英畝農場，今為歷史屋舍博物館 |
+| John Greenleaf Whittier | — | 約翰·格林里夫·惠提爾 | 詩人，1885 年紀念碑碑文作者 |
+| "Christian Martyr" | — | 〈基督的殉道者〉 | 惠提爾詩作，碑文出處 |
+| Charles W. Upham | — | 查爾斯·W·厄普漢 | 《塞勒姆巫術》《論巫術諸講》作者 |
+| Daniel A. Gagnon | — | 丹尼爾·A·加尼翁 | 2021 年首部完整傳記作者 |
+| The Crucible | — | 《煉獄》 | 亞瑟·米勒 1953 年劇作 |
+
 ## [塞勒姆女巫審判](regions/10-americas/salem-witch-trials.md)
 
 | 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
@@ -4231,6 +5081,42 @@
 | Deodat Lawson | — | 迪奧達特·勞森 | 前塞勒姆村牧師，目擊記述者 |
 | Proctor's Ledge | — | 普洛克特崖 | 2016 年確認的處決地點，2017 年設紀念地 |
 | Gallows Hill | — | 絞架山 | 傳統認定的處決地所在山丘 |
+
+## [提圖芭](regions/10-americas/tituba.md)
+
+| 原文 | 羅馬轉寫 | 繁體中文 | 說明 |
+| --- | --- | --- | --- |
+| Tituba | — | 提圖芭 | 本條目主角，帕里斯家中的被奴役者，塞勒姆第一位認罪者 |
+| Tattuba | — | 塔圖芭 | 1674 年巴貝多文件中的人名，布雷斯洛主張即提圖芭 |
+| John Indian | — | 印第安人約翰 | 其夫，後成為指控者之一；原文指其名為外族他稱 |
+| Samuel Parris | — | 塞繆爾·帕里斯 | 塞勒姆村牧師，奴役她並毆打逼供者 |
+| Elizabeth (Betty) Parris | — | 伊莉莎白（貝蒂）·帕里斯 | 帕里斯之女，最初發作者之一 |
+| Abigail Williams | — | 阿比蓋兒·威廉斯 | 帕里斯之姪女，最初發作者之一 |
+| Sarah Good／Sarah Osborne | — | 莎拉·古德／莎拉·奧斯本 | 與她同為最初三名被告 |
+| witch cake | — | 巫餅 | 以受害者尿液和入黑麥麵團、烤後餵狗以查出施術者的民間作法 |
+| Devil's book | — | 魔鬼的書 | 女巫在其上簽名以與魔鬼立約的簿冊，塞勒姆各案供詞的固定母題 |
+| spectral evidence | — | 幽靈證據 | 受害者宣稱看見被告幽影所作的證詞 |
+| Obeah／Obi | — | 歐比 | 非洲與非裔美洲的魔法體系，朗費羅據此改寫她的出身 |
+| Vodou | — | 伏都 | 海地的宗教，原文所引「說法」把它安在她身上 |
+| Lokono／Arawak | — | 洛科諾人／阿拉瓦克人 | 南美洲原住民族群，布雷斯洛主張其名源出於此 |
+| Tetebetana | — | 特特貝塔納 | 洛科諾人的氏族名，布雷斯洛認為是「提圖芭」的語源 |
+| Orinoco delta | — | 奧里諾科三角洲 | 今委內瑞拉，洛科諾人居地 |
+| New Spain | — | 新西班牙 | 哈欽森 1764 年所記她的來處 |
+| Barbados | — | 巴貝多 | 英格蘭殖民地，後世史家推定的來處 |
+| Wampanoag | — | 萬帕諾亞格人 | 新英格蘭原住民族群，原文推測約翰可能出身於此 |
+| Thomas Hutchinson | — | 湯瑪斯·哈欽森 | 1764 年寫下唯一出生地史料者 |
+| Elaine G. Breslaw | — | 伊萊恩·G·布雷斯洛 | 主張巴貝多—洛科諾說的史家 |
+| Peter Charles Hoffer／Samuel Drake | — | 彼得·查爾斯·霍弗／塞繆爾·德雷克 | 主張非洲來源說的史家 |
+| Bernard Rosenthal | — | 伯納德·羅森塔爾 | 1998 年指兩說皆為疊加臆測的史家 |
+| Charles Upham | — | 查爾斯·厄普漢 | 《塞勒姆巫術》作者，支持巴貝多說 |
+| Robert Calef | — | 羅伯特·卡列夫 | 《不可見世界的更多奇事》作者，記下她被打出認罪一事 |
+| Marion L. Starkey | — | 瑪麗昂·L·斯塔基 | 《麻薩諸塞的魔鬼》（1949）作者，自承發明其場景 |
+| The Devil in Massachusetts | — | 《麻薩諸塞的魔鬼》 | 斯塔基 1949 年史著，《煉獄》開場所本 |
+| Henry Wadsworth Longfellow | — | 亨利·沃茲沃思·朗費羅 | 1868 年劇作《塞勒姆農場的吉爾斯·科里》作者 |
+| The Crucible | — | 《煉獄》 | 亞瑟·米勒 1953 年劇作 |
+| I, Tituba: Black Witch of Salem | — | 《我，提圖芭：塞勒姆的黑女巫》 | 瑪麗斯·孔戴 1986 年小說 |
+| Maryse Condé | — | 瑪麗斯·孔戴 | 瓜地洛普作家，前書作者 |
+| Angela Y. Davis | — | 安琪拉·Y·戴維斯 | 為前書英譯本作序的社會運動者與學者 |
 
 ## [安東·普雷托里烏斯](sources-and-law/anton-praetorius.md)
 

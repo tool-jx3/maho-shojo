@@ -1,19 +1,14 @@
 # 待收錄候選：受指控者與指控者
 
-共 85 項。回到 [待辦總表](../BACKLOG.md)。
+共 77 項。回到 [待辦總表](../BACKLOG.md)。
 
 本檔由 `scripts/build_reference_backlog.py` 產生，是機器掃描的結果而非選錄決定，每一項都需要人工判斷。
 
 - [ ] **Queens' College, Cambridge**（英語，原始碼 56,650 位元組）— [原文](https://en.wikipedia.org/wiki/Queens%27_College%2C_Cambridge) — 來源分類：Category:Witch trials > People accused of witchcraft > Elizabeth Woodville
 - [ ] **Elizabeth Woodville**（英語，原始碼 47,704 位元組）— [原文](https://en.wikipedia.org/wiki/Elizabeth_Woodville) — 來源分類：Category:Witch trials > People accused of witchcraft
 - [ ] **Nicholas Gaynesford**（英語，原始碼 42,696 位元組）— [原文](https://en.wikipedia.org/wiki/Nicholas_Gaynesford) — 來源分類：Category:Witch trials > People accused of witchcraft > Elizabeth Woodville
-- [ ] **Isobel Gowdie**（英語，原始碼 36,586 位元組）— [原文](https://en.wikipedia.org/wiki/Isobel_Gowdie) — 來源分類：Category:Witch trials > People accused of witchcraft > People convicted of witchcraft
-- [ ] **Ragnhild Tregagås**（英語，原始碼 26,595 位元組）— [原文](https://en.wikipedia.org/wiki/Ragnhild_Tregag%C3%A5s) — 來源分類：Category:Witch trials > People accused of witchcraft > People convicted of witchcraft
 - [ ] **Richmond Palace**（英語，原始碼 24,406 位元組）— [原文](https://en.wikipedia.org/wiki/Richmond_Palace) — 來源分類：Category:Witch trials > People accused of witchcraft > Elizabeth Woodville
-- [ ] **Tituba**（英語，原始碼 24,008 位元組）— [原文](https://en.wikipedia.org/wiki/Tituba) — 來源分類：Category:Witch trials > People accused of witchcraft > People accused in the Salem witch trials
 - [ ] **Titulus Regius**（英語，原始碼 22,652 位元組）— [原文](https://en.wikipedia.org/wiki/Titulus_Regius) — 來源分類：Category:Witch trials > People accused of witchcraft > Elizabeth Woodville
-- [ ] **Giles Corey**（英語，原始碼 22,300 位元組）— [原文](https://en.wikipedia.org/wiki/Giles_Corey) — 來源分類：Category:Witch trials > People accused of witchcraft > People accused in the Salem witch trials
-- [ ] **Magda Logomer**（英語，原始碼 20,177 位元組）— [原文](https://en.wikipedia.org/wiki/Magda_Logomer) — 來源分類：Category:Witch trials > People accused of witchcraft > People convicted of witchcraft
 - [ ] **Daniel Vuil**（英語，原始碼 20,019 位元組）— [原文](https://en.wikipedia.org/wiki/Daniel_Vuil) — 來源分類：Category:Witch trials > People accused of witchcraft
 - [ ] **Hadleigh Castle**（英語，原始碼 19,559 位元組）— [原文](https://en.wikipedia.org/wiki/Hadleigh_Castle) — 來源分類：Category:Witch trials > People accused of witchcraft > Elizabeth Woodville
 - [ ] **Peder Munk**（英語，原始碼 19,083 位元組）— [原文](https://en.wikipedia.org/wiki/Peder_Munk) — 來源分類：Category:Witch trials > Accusers in witch trials
@@ -22,7 +17,6 @@
 - [ ] **Jacquetta of Luxembourg**（英語，原始碼 17,537 位元組）— [原文](https://en.wikipedia.org/wiki/Jacquetta_of_Luxembourg) — 來源分類：Category:Witch trials > People accused of witchcraft > People acquitted of witchcraft
 - [ ] **Moll Dyer**（英語，原始碼 16,694 位元組）— [原文](https://en.wikipedia.org/wiki/Moll_Dyer) — 來源分類：Category:Witch trials > People accused of witchcraft
 - [ ] **Bermondsey Abbey**（英語，原始碼 16,661 位元組）— [原文](https://en.wikipedia.org/wiki/Bermondsey_Abbey) — 來源分類：Category:Witch trials > People accused of witchcraft > Elizabeth Woodville
-- [ ] **Eleanor Cobham**（英語，原始碼 16,457 位元組）— [原文](https://en.wikipedia.org/wiki/Eleanor_Cobham) — 來源分類：Category:Witch trials > People accused of witchcraft > People convicted of witchcraft
 - [ ] **Gaius Furius Chresimus**（英語，原始碼 16,079 位元組）— [原文](https://en.wikipedia.org/wiki/Gaius_Furius_Chresimus) — 來源分類：Category:Witch trials > People accused of witchcraft > People acquitted of witchcraft
 - [ ] **Paisley witches**（英語，原始碼 15,918 位元組）— [原文](https://en.wikipedia.org/wiki/Paisley_witches) — 來源分類：Category:Witch trials > People accused of witchcraft
 - [ ] **Bideford witch trial**（英語，原始碼 15,701 位元組）— [原文](https://en.wikipedia.org/wiki/Bideford_witch_trial) — 來源分類：Category:Witch trials > People accused of witchcraft
@@ -38,7 +32,6 @@
 - [ ] **Elizabeth Woodville School**（英語，原始碼 12,447 位元組）— [原文](https://en.wikipedia.org/wiki/Elizabeth_Woodville_School) — 來源分類：Category:Witch trials > People accused of witchcraft > Elizabeth Woodville
 - [ ] **Biddy Early**（英語，原始碼 12,354 位元組）— [原文](https://en.wikipedia.org/wiki/Biddy_Early) — 來源分類：Category:Witch trials > People accused of witchcraft
 - [ ] **Samuel Parris**（英語，原始碼 12,257 位元組）— [原文](https://en.wikipedia.org/wiki/Samuel_Parris) — 來源分類：Category:Witch trials > Accusers in witch trials > Accusers in the Salem witch trials
-- [ ] **Katharina Kepler**（英語，原始碼 12,103 位元組）— [原文](https://en.wikipedia.org/wiki/Katharina_Kepler) — 來源分類：Category:Witch trials > People accused of witchcraft > People acquitted of witchcraft
 - [ ] **Ali Hussain Sibat**（英語，原始碼 11,806 位元組）— [原文](https://en.wikipedia.org/wiki/Ali_Hussain_Sibat) — 來源分類：Category:Witch trials > People accused of witchcraft
 - [ ] **Margareta Remmer**（英語，原始碼 11,377 位元組）— [原文](https://en.wikipedia.org/wiki/Margareta_Remmer) — 來源分類：Category:Witch trials > People accused of witchcraft
 - [ ] **Isabella Gonzaga**（英語，原始碼 11,323 位元組）— [原文](https://en.wikipedia.org/wiki/Isabella_Gonzaga) — 來源分類：Category:Witch trials > People accused of witchcraft > People acquitted of witchcraft
@@ -57,7 +50,6 @@
 - [ ] **David Gregory (physician)**（英語，原始碼 8,363 位元組）— [原文](https://en.wikipedia.org/wiki/David_Gregory_%28physician%29) — 來源分類：Category:Witch trials > People accused of witchcraft
 - [ ] **Sarah Osborne**（英語，原始碼 8,353 位元組）— [原文](https://en.wikipedia.org/wiki/Sarah_Osborne) — 來源分類：Category:Witch trials > People accused of witchcraft > People accused in the Salem witch trials
 - [ ] **Jeanne des Anges**（英語，原始碼 8,260 位元組）— [原文](https://en.wikipedia.org/wiki/Jeanne_des_Anges) — 來源分類：Category:Witch trials > Accusers in witch trials
-- [ ] **Anna Maria Schwegelin**（英語，原始碼 8,023 位元組）— [原文](https://en.wikipedia.org/wiki/Anna_Maria_Schwegelin) — 來源分類：Category:Witch trials > People accused of witchcraft > People convicted of witchcraft
 - [ ] **Gävle Boy**（英語，原始碼 7,784 位元組）— [原文](https://en.wikipedia.org/wiki/G%C3%A4vle_Boy) — 來源分類：Category:Witch trials > Accusers in witch trials
 - [ ] **Anne Calthorpe, Countess of Sussex**（英語，原始碼 7,643 位元組）— [原文](https://en.wikipedia.org/wiki/Anne_Calthorpe%2C_Countess_of_Sussex) — 來源分類：Category:Witch trials > People accused of witchcraft
 - [ ] **Adam Lesage**（英語，原始碼 7,574 位元組）— [原文](https://en.wikipedia.org/wiki/Adam_Lesage) — 來源分類：Category:Witch trials > People accused of witchcraft

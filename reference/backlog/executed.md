@@ -1,6 +1,6 @@
 # 待收錄候選：被處決者
 
-共 162 項。回到 [待辦總表](../BACKLOG.md)。
+共 150 項。回到 [待辦總表](../BACKLOG.md)。
 
 本檔由 `scripts/build_reference_backlog.py` 產生，是機器掃描的結果而非選錄決定，每一項都需要人工判斷。
 
@@ -8,26 +8,14 @@
 - [ ] **John Proctor (Salem witch trials)**（英語，原始碼 29,037 位元組）— [原文](https://en.wikipedia.org/wiki/John_Proctor_%28Salem_witch_trials%29) — 來源分類：Category:People executed for witchcraft > American people executed for witchcraft > People executed in the Salem witch trials
 - [ ] **Empress Wang (Gaozong)**（英語，原始碼 22,801 位元組）— [原文](https://en.wikipedia.org/wiki/Empress_Wang_%28Gaozong%29) — 來源分類：Category:People executed for witchcraft > Chinese people executed for witchcraft
 - [ ] **Sarah Wildes**（英語，原始碼 21,920 位元組）— [原文](https://en.wikipedia.org/wiki/Sarah_Wildes) — 來源分類：Category:People executed for witchcraft > American people executed for witchcraft > People executed in the Salem witch trials
-- [ ] **Malin Matsdotter**（英語，原始碼 21,536 位元組）— [原文](https://en.wikipedia.org/wiki/Malin_Matsdotter) — 來源分類：Category:People executed for witchcraft > Swedish people executed for witchcraft
-- [ ] **Sidonia von Borcke**（英語，原始碼 21,472 位元組）— [原文](https://en.wikipedia.org/wiki/Sidonia_von_Borcke) — 來源分類：Category:People executed for witchcraft > German people executed for witchcraft
-- [ ] **Agnes Sampson**（英語，原始碼 19,437 位元組）— [原文](https://en.wikipedia.org/wiki/Agnes_Sampson) — 來源分類：Category:People executed for witchcraft > Scottish people executed for witchcraft
-- [ ] **Malin Matsdotter**（瑞典語，原始碼 19,292 位元組）— [原文](https://sv.wikipedia.org/wiki/Malin_Matsdotter) — 來源分類：Kategori:Häxprocesser > Personer som blivit avrättade för häxeri > Personer som blivit avrättade för häxeri i Sverige
-- [ ] **Elspeth Reoch**（英語，原始碼 19,162 位元組）— [原文](https://en.wikipedia.org/wiki/Elspeth_Reoch) — 來源分類：Category:People executed for witchcraft > Scottish people executed for witchcraft
 - [ ] **Agnes Bernauer**（英語，原始碼 19,159 位元組）— [原文](https://en.wikipedia.org/wiki/Agnes_Bernauer) — 來源分類：Category:People executed for witchcraft > German people executed for witchcraft
-- [ ] **Rebecca Nurse**（英語，原始碼 18,785 位元組）— [原文](https://en.wikipedia.org/wiki/Rebecca_Nurse) — 來源分類：Category:People executed for witchcraft > American people executed for witchcraft > People executed in the Salem witch trials
 - [ ] **Allison Balfour**（英語，原始碼 18,459 位元組）— [原文](https://en.wikipedia.org/wiki/Allison_Balfour) — 來源分類：Category:People executed for witchcraft > Scottish people executed for witchcraft
 - [ ] **Elin i Staxäng**（瑞典語，原始碼 18,203 位元組）— [原文](https://sv.wikipedia.org/wiki/Elin_i_Stax%C3%A4ng) — 來源分類：Kategori:Häxprocesser > Personer som blivit avrättade för häxeri > Personer som blivit avrättade för häxeri i Sverige
-- [ ] **Bessie Dunlop of Lynn**（英語，原始碼 17,986 位元組）— [原文](https://en.wikipedia.org/wiki/Bessie_Dunlop_of_Lynn) — 來源分類：Category:People executed for witchcraft > Scottish people executed for witchcraft
-- [ ] **Bridget Bishop**（英語，原始碼 17,286 位元組）— [原文](https://en.wikipedia.org/wiki/Bridget_Bishop) — 來源分類：Category:People executed for witchcraft > English people executed for witchcraft
-- [ ] **Ursula Kemp**（英語，原始碼 16,972 位元組）— [原文](https://en.wikipedia.org/wiki/Ursula_Kemp) — 來源分類：Category:People executed for witchcraft > English people executed for witchcraft
-- [ ] **Märet Jonsdotter**（英語，原始碼 16,424 位元組）— [原文](https://en.wikipedia.org/wiki/M%C3%A4ret_Jonsdotter) — 來源分類：Category:People executed for witchcraft > Swedish people executed for witchcraft
 - [ ] **Per Larsson i Mollösund**（瑞典語，原始碼 16,258 位元組）— [原文](https://sv.wikipedia.org/wiki/Per_Larsson_i_Moll%C3%B6sund) — 來源分類：Kategori:Häxprocesser > Personer som blivit avrättade för häxeri > Personer som blivit avrättade för häxeri i Sverige
 - [ ] **Martha Carrier (Salem witch trials)**（英語，原始碼 16,036 位元組）— [原文](https://en.wikipedia.org/wiki/Martha_Carrier_%28Salem_witch_trials%29) — 來源分類：Category:People executed for witchcraft > American people executed for witchcraft > People executed in the Salem witch trials
-- [ ] **Peter Stumpp**（英語，原始碼 15,163 位元組）— [原文](https://en.wikipedia.org/wiki/Peter_Stumpp) — 來源分類：Category:People executed for witchcraft > German people executed for witchcraft
 - [ ] **Elin i Staxäng**（英語，原始碼 15,079 位元組）— [原文](https://en.wikipedia.org/wiki/Elin_i_Stax%C3%A4ng) — 來源分類：Category:People executed for witchcraft > Swedish people executed for witchcraft
 - [ ] **George Burroughs**（英語，原始碼 15,062 位元組）— [原文](https://en.wikipedia.org/wiki/George_Burroughs) — 來源分類：Category:People executed for witchcraft > American people executed for witchcraft > People executed in the Salem witch trials
 - [ ] **Gentile Budrioli**（英語，原始碼 14,882 位元組）— [原文](https://en.wikipedia.org/wiki/Gentile_Budrioli) — 來源分類：Category:People executed for witchcraft > Italian people executed for witchcraft
-- [ ] **Märet Jonsdotter**（瑞典語，原始碼 14,629 位元組）— [原文](https://sv.wikipedia.org/wiki/M%C3%A4ret_Jonsdotter) — 來源分類：Kategori:Häxprocesser > Personer som blivit avrättade för häxeri > Personer som blivit avrättade för häxeri i Sverige
 - [ ] **Malin Ruths**（瑞典語，原始碼 14,420 位元組）— [原文](https://sv.wikipedia.org/wiki/Malin_Ruths) — 來源分類：Kategori:Häxprocesser > Personer som blivit avrättade för häxeri > Personer som blivit avrättade för häxeri i Sverige
 - [ ] **Sarah Good**（英語，原始碼 14,332 位元組）— [原文](https://en.wikipedia.org/wiki/Sarah_Good) — 來源分類：Category:People executed for witchcraft > American people executed for witchcraft > People executed in the Salem witch trials
 - [ ] **John Willard**（英語，原始碼 14,276 位元組）— [原文](https://en.wikipedia.org/wiki/John_Willard) — 來源分類：Category:People executed for witchcraft > American people executed for witchcraft > People executed in the Salem witch trials

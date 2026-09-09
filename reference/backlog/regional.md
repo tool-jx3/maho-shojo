@@ -1,6 +1,6 @@
 # 待收錄候選：各地區的巫術
 
-共 271 項。回到 [待辦總表](../BACKLOG.md)。
+共 268 項。回到 [待辦總表](../BACKLOG.md)。
 
 本檔由 `scripts/build_reference_backlog.py` 產生，是機器掃描的結果而非選錄決定，每一項都需要人工判斷。
 
@@ -58,7 +58,6 @@
 - [ ] **Pella curse tablet**（英語，原始碼 29,124 位元組）— [原文](https://en.wikipedia.org/wiki/Pella_curse_tablet) — 來源分類：Category:European witchcraft
 - [ ] **Espejo de Oesed**（西班牙語，原始碼 29,083 位元組）— [原文](https://es.wikipedia.org/wiki/Espejo_de_Oesed) — 來源分類：Categoría:Brujería > Brujería en la ficción > Harry Potter
 - [ ] **Baba Yaga**（英語，原始碼 28,903 位元組）— [原文](https://en.wikipedia.org/wiki/Baba_Yaga) — 來源分類：Category:European witchcraft > Witchcraft in Ukraine
-- [ ] **Malin Matsdotter**（法語，原始碼 28,448 位元組）— [原文](https://fr.wikipedia.org/wiki/Malin_Matsdotter) — 來源分類：Catégorie:Sorcellerie > Sorcellerie par lieu > Sorcellerie en Suède
 - [ ] **Beowulf y la Tierra Media**（西班牙語，原始碼 27,952 位元組）— [原文](https://es.wikipedia.org/wiki/Beowulf_y_la_Tierra_Media) — 來源分類：Categoría:Brujería > Brujería en la ficción > Tierra Media
 - [ ] **Chen Jiao**（英語，原始碼 27,389 位元組）— [原文](https://en.wikipedia.org/wiki/Chen_Jiao) — 來源分類：Category:Witchcraft > Witchcraft by country > Witchcraft in China
 - [ ] **Wei Zifu**（英語，原始碼 26,323 位元組）— [原文](https://en.wikipedia.org/wiki/Wei_Zifu) — 來源分類：Category:Witchcraft > Witchcraft by country > Witchcraft in China
@@ -89,14 +88,12 @@
 - [ ] **Tiffany Aching**（英語，原始碼 20,376 位元組）— [原文](https://en.wikipedia.org/wiki/Tiffany_Aching) — 來源分類：Category:Witchcraft > Fiction about witchcraft > Witchcraft in written fiction
 - [ ] **Protests against early modern witch trials**（英語，原始碼 20,258 位元組）— [原文](https://en.wikipedia.org/wiki/Protests_against_early_modern_witch_trials) — 來源分類：Category:Witchcraft > European witchcraft
 - [ ] **Chaman**（法語，原始碼 20,246 位元組）— [原文](https://fr.wikipedia.org/wiki/Chaman) — 來源分類：Catégorie:Sorcellerie > Sorcellerie par lieu > Sorcellerie en Asie
-- [ ] **Märet Jonsdotter**（西班牙語，原始碼 19,552 位元組）— [原文](https://es.wikipedia.org/wiki/M%C3%A4ret_Jonsdotter) — 來源分類：Categoría:Brujería > Brujería por país > Brujería en Suecia
 - [ ] **Caccia alle streghe nella Signoria della Mirandola**（義大利語，原始碼 19,463 位元組）— [原文](https://it.wikipedia.org/wiki/Caccia_alle_streghe_nella_Signoria_della_Mirandola) — 來源分類：Categoria:Stregoneria > Processi per stregoneria > Processi per stregoneria in Italia
 - [ ] **Brujería en América Latina**（西班牙語，原始碼 19,441 位元組）— [原文](https://es.wikipedia.org/wiki/Brujer%C3%ADa_en_Am%C3%A9rica_Latina) — 來源分類：Categoría:Brujería > Brujería en América
 - [ ] **Pydna curse tablets**（英語，原始碼 19,211 位元組）— [原文](https://en.wikipedia.org/wiki/Pydna_curse_tablets) — 來源分類：Category:European witchcraft
 - [ ] **Nábrók**（英語，原始碼 18,736 位元組）— [原文](https://en.wikipedia.org/wiki/N%C3%A1br%C3%B3k) — 來源分類：Category:European witchcraft > Witchcraft in Iceland
 - [ ] **Sorginak**（英語，原始碼 18,216 位元組）— [原文](https://en.wikipedia.org/wiki/Sorginak) — 來源分類：Category:European witchcraft
 - [ ] **Pacto con el diablo**（西班牙語，原始碼 18,002 位元組）— [原文](https://es.wikipedia.org/wiki/Pacto_con_el_diablo) — 來源分類：Categoría:Brujería > Magia y brujería en folclore y mitología
-- [ ] **Märet Jonsdotter**（法語，原始碼 17,947 位元組）— [原文](https://fr.wikipedia.org/wiki/M%C3%A4ret_Jonsdotter) — 來源分類：Catégorie:Sorcellerie > Sorcellerie par lieu > Sorcellerie en Suède
 - [ ] **Brujas en Cataluña**（西班牙語，原始碼 17,733 位元組）— [原文](https://es.wikipedia.org/wiki/Brujas_en_Catalu%C3%B1a) — 來源分類：Categoría:Brujería > Brujería por país > Brujería en España
 - [ ] **Brujería en Goya**（西班牙語，原始碼 17,583 位元組）— [原文](https://es.wikipedia.org/wiki/Brujer%C3%ADa_en_Goya) — 來源分類：Categoría:Brujería > Brujería por país > Brujería en España
 - [ ] **Traité sur les apparitions des esprits et sur les vampires ou les revenans de Hongrie, de Moravie, &c.**（英語，原始碼 17,444 位元組）— [原文](https://en.wikipedia.org/wiki/Trait%C3%A9_sur_les_apparitions_des_esprits_et_sur_les_vampires_ou_les_revenans_de_Hongrie%2C_de_Moravie%2C_%26c.) — 來源分類：Category:European witchcraft > Familiars

@@ -2,7 +2,7 @@
 
 依地區分類。語系與時代的交叉索引見 [語系索引](indexes/by-language-family.md)與 [時代索引](indexes/by-era.md)；原文名詞對照見 [名詞總表](name-glossary.md)。
 
-共收錄 118 條。
+共收錄 140 條。
 
 ## 概念（跨地區）（11 條）
 
@@ -20,18 +20,25 @@
 | [巫魔會的地點](concepts/lieu-du-sabbat.md) | Lieu du sabbat | fr | 近世獵巫期的審判供詞，19 世紀下半葉由民俗學者採錄成文 | 概念 |
 | [血祭誹謗（Ritualmordlegende）](concepts/ritualmordlegende.md) | Ritualmordlegende | de | 上古已有先例（阿皮翁，約西元 40 年），基督教型指控始於 1144／1150 年的諾里奇，中世紀盛期至近世為高峰，1800 年後併入現代反猶主義，1945 年後轉為新變體 | 概念 |
 
-## 不列顛群島（8 條）
+## 不列顛群島（15 條）
 
 | 條目 | 原文名稱 | 語言 | 時代 | 類型 |
 | --- | --- | --- | --- | --- |
+| [阿格妮絲·桑普森](regions/01-british-isles/agnes-sampson.md) | Agnes Sampson | en | 近代早期，北貝里克女巫審判期間 | 人物 |
+| [阿格妮絲·沃特豪斯](regions/01-british-isles/agnes-waterhouse.md) | Agnes Waterhouse | en | 伊莉莎白一世治世初期，1562 年巫術法施行之初 | 人物 |
 | [愛麗絲·凱特勒](regions/01-british-isles/alice-kyteler.md) | Alice Kyteler | en | 中世紀盛期—晚期 | 審判事件 |
+| [貝西·鄧洛普](regions/01-british-isles/bessie-dunlop.md) | Bessie Dunlop of Lynn | en | 近代早期，宗教改革後的蘇格蘭 | 人物 |
 | [凱利赫](regions/01-british-isles/cailleach.md) | Cailleach | en | 前基督教神話底層，最早文字紀錄為 8—9 世紀的古愛爾蘭語詩作〈老嫗的哀歌〉 | 民俗／神話 |
+| [埃莉諾·科巴姆](regions/01-british-isles/eleanor-cobham.md) | Eleanor Cobham | en | 中世紀晚期，蘭開斯特王朝亨利六世治世 | 人物 |
 | [伊莉莎白·弗朗西斯](regions/01-british-isles/elizabeth-frauncis.md) | Elizabeth Frauncis | en | 伊莉莎白一世治世初期，1562 年巫術法施行之初 | 人物 |
+| [艾爾斯佩絲·里奇](regions/01-british-isles/elspeth-reoch.md) | Elspeth Reoch | en | 近代早期，奧克尼由伯爵治轉入主教治之際 | 人物 |
+| [伊索貝爾·高迪](regions/01-british-isles/isobel-gowdie.md) | Isobel Gowdie | en | 近代早期，1661—62 年蘇格蘭大獵巫期間 | 人物 |
 | [馬修·霍普金斯](regions/01-british-isles/matthew-hopkins.md) | Matthew Hopkins | en | 近代早期，英國內戰期間 | 人物 |
 | [摩根勒菲](regions/01-british-isles/morgan-le-fay.md) | Morgan le Fay | en | 最早見於傑弗里·蒙茅斯《梅林傳》（約 1150 年），13 世紀古法語散文集大幅擴充，15 世紀馬洛禮《亞瑟王之死》定型，文藝復興後散入義大利與伊比利文學 | 民俗／神話 |
 | [露絲·奧斯本謀殺案](regions/01-british-isles/murder-of-ruth-osborne.md) | Murder of Ruth Osborne | en | 近代早期末期，1736 年巫術法廢除之後 | 審判事件 |
 | [北貝里克女巫審判](regions/01-british-isles/north-berwick-witch-trials.md) | North Berwick witch trials | en | 近代早期 | 審判事件 |
 | [彭德爾女巫](regions/01-british-isles/pendle-witches.md) | Pendle witches | en | 近代早期 | 審判事件 |
+| [烏蘇拉·坎普](regions/01-british-isles/ursula-kemp.md) | Ursula Kemp | en | 伊莉莎白一世治世中期，1582 年聖奧西斯女巫案 | 人物 |
 
 ## 西歐（9 條）
 
@@ -47,14 +54,16 @@
 | [梅呂西娜](regions/02-western-europe/melusine.md) | Mélusine | fr | 中世紀（12 世紀首見拉丁文記載，1393 年由讓·達拉斯寫定為法語傳奇） | 民俗／神話 |
 | [盧丹附身事件](regions/02-western-europe/possedees-de-loudun.md) | Affaire des possédés de Loudun | fr | 路易十三治世，反宗教改革與黎希留當政時期 | 審判事件 |
 
-## 中歐（23 條）
+## 中歐（28 條）
 
 | 條目 | 原文名稱 | 語言 | 時代 | 類型 |
 | --- | --- | --- | --- | --- |
 | [安娜·葛爾迪](regions/03-central-europe/anna-goeldi.md) | Anna Göldi | de | 近世末期（啟蒙時代晚期），2008 年獲議會平反 | 人物 |
+| [安娜·瑪麗亞·施韋格林](regions/03-central-europe/anna-maria-schwegelin.md) | Anna Maria Schwegelin | de | 近世末期（啟蒙時代）；1775 年判死未執行，1781 年死於肯普滕采邑修道院獄中 | 人物 |
 | [安娜·羅萊福斯](regions/03-central-europe/anna-roleffes.md) | Anna Roleffes | de | 近世；三十年戰爭之後、布勞恩斯維克獵巫的尾聲 | 人物 |
 | [浴女安](regions/03-central-europe/bader-ann.md) | Bader-Ann | de | 近世；1680 年霍恩索倫—錫格馬林根侯國的女巫審判 | 人物 |
 | [班堡女巫審判](regions/03-central-europe/bamberger-hexenprozesse.md) | Hexenprozesse im Hochstift Bamberg | de | 近世；三波審判自 1612 年起，最後也最大的一波為 1626—1631 年 | 審判事件 |
+| [克里斯托夫·阿洛伊斯·勞特納](regions/03-central-europe/christoph-alois-lautner.md) | Christoph Alois Lautner | de | 近世；1680 年被捕，1684 年刑求下認罪，1685 年 9 月 18 日火刑處死 | 人物 |
 | [迪特里希·施內普夫](regions/03-central-europe/dietrich-schnepf.md) | Dietrich Schnepf | de | 宗教改革之後路德宗正統確立期；圖賓根大學 | 人物 |
 | [迪特里希·馮·菲爾斯滕貝格](regions/03-central-europe/dietrich-von-fuerstenberg.md) | Dietrich von Fürstenberg | de | 近世；1585—1618 年任帕德博恩采邑主教 | 人物 |
 | [弗里德里希·弗爾納](regions/03-central-europe/friedrich-foerner.md) | Friedrich Förner | de | 近世；1612—1630 年任班堡輔理主教兼總代理主教 | 人物 |
@@ -66,26 +75,32 @@
 | [小約翰內斯·皮斯托里烏斯](regions/03-central-europe/johannes-pistorius-der-juengere.md) | Johannes Pistorius der Jüngere | de | 近世宗派化時代；弗萊堡 1599—1603 年獵巫的尾聲 | 人物 |
 | [尤利烏斯·埃希特·馮·梅斯佩爾布倫](regions/03-central-europe/julius-echter-von-mespelbrunn.md) | Julius Echter von Mespelbrunn | de | 近世；1573—1617 年任維爾茨堡采邑主教 | 人物 |
 | [卡塔琳娜·亨諾特](regions/03-central-europe/katharina-henot.md) | Katharina Henot | de | 近世；1627 年受審處決，2012 年獲科隆市議會名譽回復 | 人物 |
+| [卡塔琳娜·克卜勒](regions/03-central-europe/katharina-kepler.md) | Katharina Kepler | de | 近世；1615 年被告發、1620—1621 年在萊翁貝格與居格林根受審，1621 年 10 月獲判無罪 | 人物 |
 | [露策爾夫人](regions/03-central-europe/lutzelfrau.md) | Lutzelfrau | en | 近世至近現代的民俗習慣，其底層被認為是更早的佩希塔信仰 | 民俗／神話 |
 | [馬特烏斯·阿爾伯](regions/03-central-europe/matthaeus-alber.md) | Matthäus Alber | de | 宗教改革時代至符騰堡邦教會建制期；1552 年冰雹災後獵巫呼聲高漲之際 | 人物 |
 | [保拉·馮·魏特斯豪森](regions/03-central-europe/paula-von-weitershausen.md) | Paula von Weitershausen | de | 近世；1574—1598 年任弗勞恩阿爾布女修院最後一任院長 | 人物 |
 | [佩希塔與霍勒太太](regions/03-central-europe/perchta-frau-holle.md) | Perchta（Frau Holle） | de | 傳說底層可能上溯前日耳曼時期；霍勒最早見於 1008—1012 年的沃姆斯主教法令集，佩希塔最早的確切文字紀錄為 13 世紀 | 民俗／神話 |
+| [彼得·施通普](regions/03-central-europe/peter-stumpp.md) | Peter Stump | de | 近世；1589 年 10 月 31 日在貝德堡處決，為 16 世紀德語區最著名的狼人審判 | 人物 |
 | [塞巴斯蒂安·勒廷格](regions/03-central-europe/sebastian-roettinger.md) | Sebastian Röttinger | de | 近世；1570—1608 年任諾德林根市政法律顧問，諾德林根獵巫（1589—1598）的主訊問者 | 人物 |
+| [西多妮亞·馮·博爾克](regions/03-central-europe/sidonia-von-borcke.md) | Sidonia von Borcke | de | 近世；1619 年 11 月被捕，1620 年 9 月 1 日判死、9 月 28 日在斯德丁行刑 | 人物 |
 | [西蒙·戈格雷韋](regions/03-central-europe/simon-gograeve.md) | Simon Gogräve | de | 三十年戰爭末期至《西發里亞和約》；費爾登 1648 年女巫審判 | 人物 |
 | [瓦爾普吉斯之夜與布洛肯山](regions/03-central-europe/walpurgisnacht.md) | Walpurgisnacht | de | 名稱最早見於 1485 年，女巫集會傳說於 16—17 世紀定型，19 世紀後成為節慶 | 民俗／神話 |
 | [威廉·弗里德里希·魯茨](regions/03-central-europe/wilhelm-friedrich-lutz.md) | Wilhelm Friedrich Lutz | de | 近世；諾德林根獵巫高峰（1589—1598）期間 | 人物 |
 
-## 北歐（5 條）
+## 北歐（8 條）
 
 | 條目 | 原文名稱 | 語言 | 時代 | 類型 |
 | --- | --- | --- | --- | --- |
 | [冰島獵巫與燒殺時代](regions/04-northern-europe/iceland-witch-trials.md) | Brennuöld | is | 近世，冰島宗教改革之後、丹麥—挪威王國統治下 | 審判事件 |
 | [露希](regions/04-northern-europe/louhi.md) | Louhi | fi | 上古芬蘭—卡累利阿民間詩歌底層，1835／1849 年由《卡勒瓦拉》定型 | 民俗／神話 |
 | [露西](regions/04-northern-europe/lussi.md) | Lussi | no | 中世紀以降的曆杖與民間信仰，19 世紀後與瑞典的露西亞節慶並行 | 民俗／神話 |
+| [梅雷特·約恩斯多特](regions/04-northern-europe/maeret-jonsdotter.md) | Märet Jonsdotter | sv | 近世，瑞典卡爾十一世沖齡攝政期，「大騷動」的起點 | 人物 |
+| [瑪琳·馬茨多特](regions/04-northern-europe/malin-matsdotter.md) | Malin Matsdotter | sv | 近世，瑞典卡爾十一世治下「大騷動」末期的斯德哥爾摩卡塔琳娜教區審判 | 人物 |
 | [莫拉女巫審判與大騷動](regions/04-northern-europe/mora-trolldomsprocess.md) | Häxprocessen i Mora | sv | 近世，瑞典卡爾十一世沖齡攝政期 | 審判事件 |
+| [拉格希爾德·特雷加高斯](regions/04-northern-europe/ragnhild-tregagas.md) | Ragnhild Tregagås | en | 中世紀盛期，挪威馬格努斯四世沖齡期，卑爾根主教區的宗教審判 | 人物 |
 | [瓦爾德與芬馬克獵巫](regions/04-northern-europe/vardo-trolldomsprosessene.md) | Trolldomsprosessene i Finnmark | no | 近世，丹麥—挪威雙元王國時期 | 審判事件 |
 
-## 南歐（6 條）
+## 南歐（7 條）
 
 | 條目 | 原文名稱 | 語言 | 時代 | 類型 |
 | --- | --- | --- | --- | --- |
@@ -93,15 +108,17 @@
 | [蘇加拉穆爾迪女巫審判](regions/05-southern-europe/brujas-de-zugarramurdi.md) | Zugarramurdiko sorginkeria prozesua | eu | 近世獵巫盛期 | 審判事件 |
 | [黑卡蒂](regions/05-southern-europe/hecate.md) | Εκάτη（Hekate） | el | 古希臘宗教與神話，最早文獻為赫西俄德《神譜》（約公元前 700 年），最早崇拜證據為公元前 6 世紀，晚期古代由《迦勒底神諭》推向宇宙論層次 | 民俗／神話 |
 | [喀爾刻](regions/05-southern-europe/kirke.md) | Κίρκη（Kirke） | el | 古希臘神話，最早見於《奧德賽》（約公元前 8 世紀），後續增衍見於赫西俄德與羅馬時代作家 | 民俗／神話 |
+| [美狄亞](regions/05-southern-europe/medea.md) | Μήδεια（Medeia） | el | 古希臘神話；科林斯情節最早見於歐邁洛斯《科林斯紀》（約公元前 8—7 世紀），赫西俄德《神譜》亦已提及，歐里庇得斯《美狄亞》於公元前 431 年上演 | 民俗／神話 |
 | [特廖拉女巫審判](regions/05-southern-europe/processo-alle-streghe-di-triora.md) | Processo alle streghe di Triora | it | 近世獵巫盛期，熱那亞共和國治下的利古里亞山區 | 審判事件 |
 | [巴斯克的女巫與女神瑪麗](regions/05-southern-europe/sorginak-mari.md) | Sorginak eta Mari | eu | 基督教化之前的神話底層；女巫形象於中世紀至近世成形，神話證言則主要由 20 世紀初的田野採集保存 | 民俗／神話 |
 
-## 東歐（5 條）
+## 東歐（6 條）
 
 | 條目 | 原文名稱 | 語言 | 時代 | 類型 |
 | --- | --- | --- | --- | --- |
 | [芭芭雅嘎](regions/06-eastern-europe/baba-yaga.md) | Баба-яга（Baba-yaga） | ru | 上古神話底層，最早文字紀錄 1588 年，童話定型於 18—19 世紀 | 民俗／神話 |
 | [基輔禿山與烏克蘭女巫](regions/06-eastern-europe/kyiv-lysa-hora.md) | Відьма та Лиса Гора（Vidma ta Lysa Hora） | uk | 前基督教聖山信仰為底層，女巫觀念定型於 16—18 世紀，審判集中於 17 世紀末—18 世紀 | 民俗／神話 |
+| [瑪格達·洛戈梅爾](regions/06-eastern-europe/magda-logomer.md) | Magda Logomer | hr | 近世末期，哈布斯堡君主國瑪麗亞·特蕾莎治下的克羅埃西亞王國 | 人物 |
 | [多魯胡夫女巫審判](regions/06-eastern-europe/proces-w-doruchowie.md) | Proces czarownic w Doruchowie | pl | 近世末期，波蘭立陶宛聯邦第一次瓜分之後 | 審判事件 |
 | [塞格德女巫審判](regions/06-eastern-europe/szegedi-boszorkanyperek.md) | Szegedi nagy boszorkányper | hu | 近代早期，哈布斯堡治下的匈牙利王國 | 審判事件 |
 | [茲杜哈奇](regions/06-eastern-europe/zduhac.md) | Здухаћ（Zduhać） | sr | 前基督教信仰底層；文獻紀錄集中於 19—20 世紀的民族學採集（武克·卡拉季奇、帕維爾·羅溫斯基），最早的相關文獻為采蒂涅的聖彼得 1830 年反對迫害「女巫」的訓諭書，最著名的文學提及為涅戈什《山地花環》（1847） | 民俗／神話 |
@@ -151,22 +168,27 @@
 | [山姥](regions/08-east-asia/yamauba.md) | 山姥（Yamauba） | ja | 中世能樂定型，近世至近代各地民俗傳承 | 民俗／神話 |
 | [八百比丘尼](regions/08-east-asia/yaobikuni.md) | 八百比丘尼（Yaobikuni） | ja | 傳說起源推定在大化至大同年間（7—9 世紀），最早的同時代文字紀錄為文安 6 年（1449 年），傳承延續至近現代 | 民俗／神話 |
 
-## 撒哈拉以南非洲（2 條）
+## 撒哈拉以南非洲（3 條）
 
 | 條目 | 原文名稱 | 語言 | 時代 | 類型 |
 | --- | --- | --- | --- | --- |
 | [伊亞米·阿婕](regions/09-sub-saharan-africa/aje-yoruba.md) | Ìyámi Àjé（Iyami Aje） | yo | 早於「約魯巴」與「伊法」概念數千年的古老信仰底層，18 世紀後因亞伯拉罕宗教與殖民而轉入隱蔽，當代仍在實踐 | 民俗／神話 |
+| [金帕·維塔](regions/09-sub-saharan-africa/kimpa-vita.md) | Kimpa Vita | pt | 剛果王國內戰期；安東尼派運動 1704—1706 年為高峰，1709 年其政治力量被摧毀 | 人物 |
 | [金多基](regions/09-sub-saharan-africa/kindoki.md) | Kindoki | ln | 前殖民時期的孔戈信仰底層；「兒童巫師」指控自 1990 年代初隨復興教會興起而蔓延 | 民俗／神話 |
 
-## 美洲（5 條）
+## 美洲（9 條）
 
 | 條目 | 原文名稱 | 語言 | 時代 | 類型 |
 | --- | --- | --- | --- | --- |
+| [布莉姬·畢夏普](regions/10-americas/bridget-bishop.md) | Bridget Bishop | en | 塞勒姆女巫審判期間 | 人物 |
 | [奇洛埃巫師審判](regions/10-americas/brujos-de-chiloe.md) | Brujos de Chiloé | es | 智利獨立後的 19 世紀末；信仰本身自殖民時期延續至 21 世紀 | 審判事件 |
 | [科頓·馬瑟](regions/10-americas/cotton-mather.md) | Cotton Mather | en | 北美殖民地清教秩序的末期，塞勒姆審判前後 | 人物 |
 | [伊莉莎白·豪](regions/10-americas/elizabeth-howe.md) | Elizabeth Howe | en | 塞勒姆女巫審判期間 | 人物 |
+| [吉爾斯·科里](regions/10-americas/giles-corey.md) | Giles Corey | en | 塞勒姆女巫審判期間 | 人物 |
 | [格蕾絲·雪伍德](regions/10-americas/grace-sherwood.md) | Grace Sherwood | en | 北美殖民地時期，塞勒姆審判之後十餘年 | 人物 |
+| [蕾貝卡·納斯](regions/10-americas/rebecca-nurse.md) | Rebecca Nurse | en | 塞勒姆女巫審判期間 | 人物 |
 | [塞勒姆女巫審判](regions/10-americas/salem-witch-trials.md) | Salem witch trials | en | 北美殖民地時期，歐洲獵巫已近尾聲之際 | 審判事件 |
+| [提圖芭](regions/10-americas/tituba.md) | Tituba | en | 塞勒姆女巫審判期間 | 人物 |
 
 ## 文獻與法制（跨地區）（9 條）
 
