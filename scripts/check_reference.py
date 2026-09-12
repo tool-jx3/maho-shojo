@@ -94,17 +94,35 @@ NATIVE_SCRIPT = re.compile(r"[぀-ヿᄀ-ᇿ가-힯]")
 QUOTED_NATIVE = re.compile(r"[〈《「『]([^〉》」』]*)[〉》」』]")
 
 
-def simplified_targets(line, cjk_entry):
+# works 子庫 frontmatter 的這些頂層欄位，值是日文原文（片名、羅馬拼音、
+# 製作公司、幕後人員姓名），不是譯寫進中文的內容；title_zh、origin、
+# pact_mapping、tags 等頂層欄位承載的才是中文，仍須檢查，不列在這裡。
+FRONTMATTER_NATIVE_KEYS = ("title_native", "title_romanized", "studio", "key_staff")
+
+
+def simplified_targets(line, cjk_entry, in_frontmatter=False):
     """回傳這一行需要做簡體字判定的文字片段。
 
     東亞條目的原文會出現在三個地方：章節標題、專有名詞對照表的前兩欄、
     以及行文中以〈〉《》「」框住的條目名與書名。這些都要排除，
     否則條目會被逼著去改動原文以通過檢查。
+
+    works 子庫的 frontmatter 還有一批原文，且不一定含假名可觸發既有的
+    NATIVE_SCRIPT 豁免——例如 title_native 純漢字寫成「魔法少女育成計画」，
+    「画」在簡體字表內卻沒有假名同行。縮排的巢狀欄位（key_staff 底下的
+    角色／姓名、source 底下 extra[].title／publisher 等）同樣是日文原文，
+    一併豁免；否則條目會被逼著竄改日文原文的字形才能通過檢查。
     """
     if not cjk_entry:
         return [line]
     if line.lstrip().startswith("#"):
         return []
+    if in_frontmatter:
+        if line[:1] in (" ", "\t"):
+            return []
+        key = line.strip().split(":", 1)[0].strip()
+        if key in FRONTMATTER_NATIVE_KEYS:
+            return []
     # URL 內的原文標題不是行文，逐字保留；否則條目會被逼著把來源網址改成
     # 百分比編碼才能通過檢查，反而更難讀。
     line = re.sub(r"https?://\S+", "", line)
@@ -190,7 +208,7 @@ def check(path, required):
             continue
         is_quote = line.lstrip().startswith(">")
         if not (is_quote or NATIVE_SCRIPT.search(line)):
-            bad = sorted({ch for seg in simplified_targets(line, cjk_entry)
+            bad = sorted({ch for seg in simplified_targets(line, cjk_entry, lineno <= fm_end)
                           for ch in seg if ch in SIMPLIFIED})
             if bad:
                 problems.append("第 %d 行出現簡體字：%s" % (lineno, "、".join(bad)))
