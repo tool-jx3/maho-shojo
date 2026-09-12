@@ -39,7 +39,8 @@ def load_simplified():
 
 SIMPLIFIED = load_simplified()
 
-REQUIRED_FIELDS = [
+# 魔女傳說庫的 schema
+WITCH_FIELDS = [
     "id",
     "title_zh",
     "title_native",
@@ -50,6 +51,34 @@ REQUIRED_FIELDS = [
     "era_bucket",
     "type",
 ]
+
+# 參考作品庫的 schema。地區／語系／時代三軸對動畫作品沒有意義，
+# 改記年份與原作型態。
+WORKS_FIELDS = [
+    "id",
+    "title_zh",
+    "title_native",
+    "year",
+    "origin",
+    "source",
+]
+
+# 依 repo 相對路徑前綴分流。兩個子庫的 frontmatter schema 不同，
+# 用同一份必填清單會讓其中一邊永遠失敗。
+SCHEMAS = [
+    ("reference/works/entries/", WORKS_FIELDS),
+    ("reference/regions/", WITCH_FIELDS),
+    ("reference/sources-and-law/", WITCH_FIELDS),
+    ("reference/concepts/", WITCH_FIELDS),
+]
+
+
+def schema_for(rel):
+    """依條目的 repo 相對路徑取得必填欄位；索引與說明檔回傳 None（只檢查文字規範）。"""
+    for prefix, fields in SCHEMAS:
+        if rel.startswith(prefix):
+            return fields
+    return None
 
 # 中文字元後面接半形標點（英數字後的半形標點屬正常用法）
 HALFWIDTH_AFTER_CJK = re.compile(r"[一-鿿][,;?!]")
@@ -113,17 +142,17 @@ def frontmatter_of(text):
     return text[4:end]
 
 
-def check(path, is_entry):
+def check(path, required):
     problems = []
     with io.open(path, encoding="utf-8") as f:
         text = f.read()
 
-    if is_entry:
+    if required is not None:
         fm = frontmatter_of(text)
         if fm is None:
             problems.append("缺少 YAML frontmatter")
         else:
-            for field in REQUIRED_FIELDS:
+            for field in required:
                 if not re.search(r"^%s:" % re.escape(field), fm, re.M):
                     problems.append("frontmatter 缺少欄位：%s" % field)
             if not re.search(r"^\s*retrieved:\s*\S", fm, re.M):
@@ -136,9 +165,14 @@ def check(path, is_entry):
     # INDEX.md、indexes/、name-glossary.md 由腳本彙整各條目產生，整份都是各語言的
     # 原文標題與名詞，同樣適用原文豁免。
     generated = os.path.basename(path) in ("INDEX.md", "name-glossary.md") or         os.path.basename(os.path.dirname(path)) == "indexes"
+    fm_text = frontmatter_of(text) or ""
     cjk_entry = generated or bool(
-        re.search(r"^language:\s*[\"']?(ja|zh|ko)[\"']?\s*$",
-                  frontmatter_of(text) or "", re.M))
+        re.search(r"^language:\s*[\"']?(ja|zh|ko)[\"']?\s*$", fm_text, re.M)
+        # works 子庫的 schema 沒有頂層 language，語言記在 source.wiki_lang。
+        # 不認這個欄位的話，日文原文中不含假名的純漢字（章節標題的「制作」、
+        # 名詞對照表的「体」「声」「実」）會被誤判為簡體字，逼得條目去改動原文
+        # 以通過檢查——魔女庫第三批踩過這個坑。
+        or re.search(r"^\s+wiki_lang:\s*[\"']?(ja|zh|ko)[\"']?\s*$", fm_text, re.M))
 
     lines = text.splitlines()
     # frontmatter 用 YAML 語法，半形逗號屬正常，不納入標點檢查
@@ -181,13 +215,8 @@ def main():
     for path in iter_files(paths):
         total += 1
         rel = os.path.relpath(path, ROOT).replace("\\", "/")
-        # 索引與說明檔沒有 frontmatter，只檢查文字規範
-        is_entry = (
-            "/regions/" in rel
-            or "/sources-and-law/" in rel
-            or "/concepts/" in rel
-        )
-        problems = check(path, is_entry)
+        # 索引與說明檔沒有 frontmatter，schema_for 回傳 None，只檢查文字規範
+        problems = check(path, schema_for(rel))
         if problems:
             failed += 1
             print("FAIL %s" % rel)
