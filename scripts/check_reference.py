@@ -89,13 +89,28 @@ BRACKETED_DOTS = re.compile(r"[\(\[（〔「『<]\s*\.\.\.\s*[\)\]）〕」』>]
 # 假名（含片假名中點）與諺文。含這些字元的行屬日、韓文原文（章節標題、對照表等），
 # 其中的日語新字體漢字（会、来、実、体……）並非簡體中文，故不作簡體字判定。
 NATIVE_SCRIPT = re.compile(r"[぀-ヿᄀ-ᇿ가-힯]")
-# 〈條目名〉《書名》「原文詞」內的內容是原文引用，東亞條目中常是純漢字的日文詞，
-# 其新字體與簡體字形相同，檢查前先移除。
-# 每種括號只配自己的收尾，不接受混配（〈…』之類）。舊版寫成
+# ── 兩組括號剝除規則，簡體字檢查與標點檢查各用一組，不可合併 ──
+#
+# 兩者的括號寫法相同，但要防的東西不同，所以剝除的括號種類**刻意不一致**：
+#
+# QUOTED_NATIVE（簡體字檢查用，四種括號全剝）
+#   〈條目名〉《書名》「原文詞」『原題』內的內容是原文引用，東亞條目中常是純漢字的
+#   日文詞，其新字體與簡體字形相同，不先移除就會被誤判為簡體字。「」一直在這組裡，
+#   魔女傳說庫大量依賴它，**不得為了與下一組一致而把「」拿掉**。
+#
+# QUOTED_SOURCE（半形標點與省略號檢查用，只剝『』〈〉《》，不剝「」）
+#   裁決 I 指定『』是「保留不譯的日文原題」的專用容器，〈〉《》則是條目名與書名，
+#   三者內部都是來源原文，必須逐字保留來源的標點（日文原題結尾的半形「!」「?」、
+#   原題內部的 ...）；由檢查器逼著改成全形，就是工具在竄改原文。
+#   反之「」是中文行文的一般引號，裡面通常就是中文，其中的半形「，」「?」或 ...
+#   是貨真價實的 Law 8 違規，必須繼續攔下來。
+#
+# 兩組都讓每種括號只配自己的收尾，不接受混配（〈…』之類）。舊版寫成
 # [〈《「『][^〉》」』]*[〉》」』]，任何一種收尾都能結束任何一種開頭，遇到巢狀括號
 # （來源標題常見的〈「作品名」記者の話…〉）會在內層的「」就把比對截斷，外層剩下的
-# 原文又落回受檢範圍。日文原題結尾的半形「!」「?」因而仍會被誤判。
+# 原文又落回受檢範圍。
 QUOTED_NATIVE = re.compile(r"〈[^〉]*〉|《[^》]*》|「[^」]*」|『[^』]*』")
+QUOTED_SOURCE = re.compile(r"〈[^〉]*〉|《[^》]*》|『[^』]*』")
 
 
 # works 子庫（reference/works/entries/）frontmatter 的這些頂層欄位，值恆為
@@ -129,9 +144,32 @@ def simplified_targets(line, cjk_entry, in_frontmatter=False, is_works_entry=Fal
     魔女傳說庫即使 cjk_entry 為真，frontmatter 同名欄位仍可能是中文，必須
     繼續檢查。
     """
+    return _targets(line, cjk_entry, in_frontmatter, is_works_entry,
+                    QUOTED_NATIVE, skip_headings=True)
+
+
+def punctuation_targets(line, cjk_entry, is_works_entry=False):
+    """回傳這一行需要做半形標點與省略號判定的文字片段。
+
+    與 simplified_targets 共用「剝 URL、表格只檢查第 3 欄以後」這套範圍界定，
+    差別只有兩點，兩點都不是疏漏：
+
+    1. 剝除的括號用 QUOTED_SOURCE（不含「」）。理由見該常數上方的長註。
+    2. 不豁免章節標題。標題整行豁免是簡體字檢查專屬的理由（東亞條目的標題原文
+       常是純漢字，其新字體與簡體字形相同）；標點沒有這個問題，標題裡誤用半形
+       標點仍該攔下來，而標題中保留不譯的原題已由 QUOTED_SOURCE 處理。
+
+    frontmatter 不必在這裡處理：呼叫端對 frontmatter 區間本來就直接跳過標點檢查。
+    """
+    return _targets(line, cjk_entry, False, is_works_entry,
+                    QUOTED_SOURCE, skip_headings=False)
+
+
+def _targets(line, cjk_entry, in_frontmatter, is_works_entry, quoted, skip_headings):
+    """上面兩個函式共用的範圍界定；只有括號集合與標題豁免由呼叫端決定。"""
     if not cjk_entry:
         return [line]
-    if line.lstrip().startswith("#"):
+    if skip_headings and line.lstrip().startswith("#"):
         return []
     if in_frontmatter and is_works_entry:
         if line[:1] in (" ", "\t"):
@@ -146,8 +184,8 @@ def simplified_targets(line, cjk_entry, in_frontmatter=False, is_works_entry=Fal
     if stripped.startswith("|") and stripped.endswith("|"):
         cells = [c for c in stripped[1:-1].split("|")]
         # 表格前兩欄是「原文」與「羅馬轉寫」，其餘（繁體中文、說明）仍要檢查
-        return [QUOTED_NATIVE.sub("", c) for c in cells[2:]]
-    return [QUOTED_NATIVE.sub("", line)]
+        return [quoted.sub("", c) for c in cells[2:]]
+    return [quoted.sub("", line)]
 
 
 # backlog/ 底下是機器掃描產生的外語條目標題清單，不適用中文書寫規範
@@ -228,27 +266,30 @@ def check(path, required):
             in_code = not in_code
             continue
         is_quote = line.lstrip().startswith(">")
-        # 簡體字與半形標點兩項檢查共用同一批待檢片段。兩者要判的都是「中文行文」，
-        # 待檢範圍本來就該一致；先前半形標點檢查直接比對原始行，而簡體字檢查已先用
-        # QUOTED_NATIVE 剝除〈〉《》「」『』框住的原文，兩套範圍分岔的結果是：依裁決 F
-        # 保留不譯、又以漢字結尾接半形「!」「?」的日文原題（『きんぎょ注意報!』
-        # 『東京ミュウミュウ オーレ!』之類）永遠無法通過檢查，條目只能竄改原題或另行
-        # 迂迴。表格前兩欄（原文、羅馬轉寫）同理。共用片段後兩項檢查不再分岔。
-        targets = simplified_targets(line, cjk_entry, lineno <= fm_end, is_works_entry)
         if not (is_quote or NATIVE_SCRIPT.search(line)):
-            bad = sorted({ch for seg in targets for ch in seg if ch in SIMPLIFIED})
+            bad = sorted({ch for seg in simplified_targets(
+                              line, cjk_entry, lineno <= fm_end, is_works_entry)
+                          for ch in seg if ch in SIMPLIFIED})
             if bad:
                 problems.append("第 %d 行出現簡體字：%s" % (lineno, "、".join(bad)))
         if lineno <= fm_end or is_quote:
             # frontmatter 與原文引用逐字保留，不檢查標點
             continue
+        # 標點檢查不再直接比對原始行。原始行含依裁決 I 保留不譯的日文原題時，
+        # 原題自帶的半形「!」「?」與 ... 會被判成中文行文的誤用，條目只能竄改原題
+        # 才通得過——那正是這套檢查要避免的事。改以 punctuation_targets 界定範圍，
+        # 它剝掉『』〈〉《》內的來源原文，但**保留「」內的中文**，見該函式的註解。
+        punct = punctuation_targets(line, cjk_entry, is_works_entry)
         # 程式碼區塊裡多半是 YAML／指令，半形標點屬正常
-        if not in_code and any(HALFWIDTH_AFTER_CJK.search(seg) for seg in targets):
+        if not in_code and any(HALFWIDTH_AFTER_CJK.search(seg) for seg in punct):
             problems.append("第 %d 行中文後接半形標點" % lineno)
         # 程式碼區塊與行內程式碼裡的 ... 是用法示例或原文標記，不是中文省略號
-        checked = BRACKETED_DOTS.sub("", re.sub(r"`[^`]*`", "", line))
-        if not in_code and TRIPLE_DOT.search(checked):
-            problems.append("第 %d 行使用了 ... （應為 ……）" % lineno)
+        if not in_code:
+            for seg in punct:
+                checked = BRACKETED_DOTS.sub("", re.sub(r"`[^`]*`", "", seg))
+                if TRIPLE_DOT.search(checked):
+                    problems.append("第 %d 行使用了 ... （應為 ……）" % lineno)
+                    break
 
     return problems
 
