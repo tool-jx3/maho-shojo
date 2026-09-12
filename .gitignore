@@ -43,3 +43,6 @@ npm-debug.log*
 .cache/
 retranslate-result/
 tsv/
+
+# SDD 工作區（ledger、briefs、review packages），不進版控
+.superpowers/
