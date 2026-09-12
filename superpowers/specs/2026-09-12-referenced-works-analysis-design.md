@@ -199,15 +199,18 @@ tags: [虚淵玄, 存在主義, 願望與代價, 時間迴圈, 異空間演出]
 
 ## 8. 腳本改動
 
-現有工具無條件遞迴整個 `reference/`，新子庫的 frontmatter schema 不同會直接讓驗證失敗。三處最小幅度改動：
+實查各腳本的掃描範圍後，需要改的比原先設想的少，但 `check_reference.py` 的失效方式比設想的隱蔽。
+
+**不需要改的三個**：`build_reference_indexes.py` 的 `collect()` 是白名單式的，只走 `regions`／`sources-and-law`／`concepts` 三個子目錄；`check_coverage.py` 與 `build_reference_backlog.py` 都 `from build_reference_indexes import collect`。因此 `reference/works/` 對這三者天然不可見，無須加排除規則。
+
+**需要改的兩個**：
 
 | 檔案 | 改動 |
 | --- | --- |
-| `scripts/check_reference.py` | `REQUIRED_FIELDS` 改為依路徑前綴分流的對照表；`reference/works/` 用新 schema（`id`／`title_zh`／`title_native`／`year`／`origin`／`source`）。簡體字、半形標點、省略號三項檢查照舊全庫適用，日文原文的豁免邏輯沿用既有機制（本子庫以 `source.wiki_lang` 判斷） |
-| `scripts/build_reference_indexes.py` | 掃描時排除 `reference/works/` |
+| `scripts/check_reference.py` | 兩處。① `iter_files` 會遞迴整個 `reference/`，但 `is_entry` 只認 `/regions/`、`/sources-and-law/`、`/concepts/` 三個路徑——新子庫的條目會被當成索引檔，**frontmatter 完全不驗證**。這是靜默跳過，不是失敗，比報錯更危險。改為依路徑前綴分流的 `REQUIRED_FIELDS` 對照表，`reference/works/entries/` 用新 schema（`id`／`title_zh`／`title_native`／`year`／`origin`／`source`）。② `cjk_entry` 以 frontmatter 的 `^language:` 判斷，而本子庫的 schema 沒有這個頂層欄位，改用 `source.wiki_lang`。不改的話，日文原文中不含假名的純漢字（章節標題的「制作」、名詞對照表的「実」「体」「絵」）會被誤判為簡體字，逼得條目去改動原文以通過檢查——這正是魔女庫第三批踩過的坑 |
 | `scripts/build_works_indexes.py` | 新增。產生 `INDEX.md`、`indexes/by-pact.md`、`indexes/by-origin.md`、`name-glossary.md` |
 
-`check_coverage.py` 與 `build_reference_backlog.py` **不套用於本子庫**：前者以維基章節名比對覆蓋率，而本庫體例本就只取三軸相關章節，必然大面積「未涵蓋」，指標無意義；後者的候選來源是分類樹掃描，本庫的收錄清單由規則書決定，不需要待辦掃描。兩者需加上 `reference/works/` 的排除。
+`check_coverage.py` 本就不適用於本子庫：它以維基章節名比對覆蓋率，而本庫體例只取三軸相關章節，必然大面積「未涵蓋」，指標無意義。因白名單機制自動排除，不必額外處理。
 
 ## 9. 執行批次
 
