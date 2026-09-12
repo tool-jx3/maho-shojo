@@ -15,13 +15,19 @@ check_reference.py 因此對這類違規結構性地看不見。
 「繁體中文」欄與「原文」欄不同，就代表這個詞的中文行文寫法已經欽定；若行文中
 仍找得到「原文」欄的逐字寫法，就是把原文字形帶進了中文行文，違反裁決 B。
 
-這支腳本做兩種獨立的檢查：
+這支腳本做兩種獨立的檢查、外加一種不算違規的提醒：
 1. 上述的行文掃描——名詞表已定案的繁體中文形，卻仍在行文中出現原文形。
 2. 表格本身的缺陷——「說明」欄已經寫明中文行文該怎麼寫（例如「中文行文作
    『讀』『売』」），但「繁體中文」欄卻沒有照做。第 1 種檢查天生看不到這種
    缺陷：它只挑「繁體中文」與「原文」不同的列來找行文誤用，而欄位本身沒改對
    時，兩欄恰好相同，根本不會被挑中。読売テレビ 那個真實案例正是這種缺陷，
-   詳見 check_table_prescriptions() 與 expected_zh_from_note() 的說明。
+   詳見 check_table_prescriptions() 與 classify_prescription() 的說明。
+3. 提醒（不計入結束碼）——「說明」欄裡看得出有 2 的那種規定語氣（「中文
+   行文」／「本庫繁中行文」），但引號組排列的方式套不進目前認得的句型，
+   看不懂。看不懂不能悶不吭聲：那正是這整支腳本原本要補的洞——一份規定
+   換個寫法，檢查器就自動放行、沒人會發現。但看不懂也不該硬猜一個答案去
+   斷言表格有錯，猜錯了就是不實指控。折衷是印出提醒、不算違規、不影響
+   結束碼，交給人工確認。
 
 用法：
     .venv/Scripts/python.exe scripts/check_works_glyphs.py [路徑...]
@@ -171,11 +177,32 @@ NIHON_GENMEI_RE = re.compile(r"日文原名(?:作|用)((?:「[^」]*」)+)")
 ZHONGWEN_XINGWEN_RE = re.compile(r"(?:中文行文|本庫繁中行文)(?:作|用)((?:「[^」]*」)+)")
 QUOTE_GROUP_RE = re.compile(r"「([^」]*)」")
 
+# 上面兩個「嚴格版」只認引號組彼此緊鄰、中間不夾任何字元的寫法。「寬鬆版」額外
+# 容許組與組之間夾頓號、逗號或空白——不是為了多認一種正式句型，而是用來偵測
+# 「作者顯然想列出一整串引號組，卻因為中間多打了分隔符號，被嚴格版從第一個
+# 分隔符號處截斷」這種情形：嚴格版仍然會比對成功，只是只抓到清單的前半段，
+# 若照樣拿這半截當答案去比對，等於用不完整的資料下判斷，比看不懂更危險。
+# 兩個版本抓到的組數只要有落差，就代表發生了這種截斷，見 classify_prescription()。
+_SEP = r"[、，,\s]*"
+NIHON_GENMEI_LOOSE_RE = re.compile(r"日文原名(?:作|用)((?:「[^」]*」%s)+)" % _SEP)
+ZHONGWEN_XINGWEN_LOOSE_RE = re.compile(r"(?:中文行文|本庫繁中行文)(?:作|用)((?:「[^」]*」%s)+)" % _SEP)
 
-def expected_zh_from_note(yuan, note):
-    """依「說明」欄的規定，回傳這一列「繁體中文」欄應該是什麼；看不懂就回傳 None。
 
-    語料庫裡實際觀察到兩種結構，判斷順序如下（順序本身就是保守程度由高到低）：
+def classify_prescription(yuan, note):
+    """解析這一列「說明」欄的字形規定，回傳 (kind, value) 三選一：
+
+    - ("match", expected)：辨認出乾淨的句型，expected 是據此算出的「繁體中文」
+      欄理論值，交給呼叫端與該欄目前的內容比對。
+    - ("notice", None)：說明欄裡確實出現「中文行文」或「本庫繁中行文」這個
+      觸發語，但引號組的排列方式套不進下面認得的任何一種句型——可能是未來
+      條目換了寫法（例如組與組之間夾了頓號），也可能是別的原因，總之看不懂。
+      看不懂不能悶不吭聲地放過（那正是這整支檢查要補的洞），也不能拿殘缺或
+      對不上的解析結果去亂猜一個答案（猜錯了就是不實指控，比不檢查更糟）；
+      折衷是回報一則提醒，請人工確認，但不當成確定的表格缺陷。
+    - ("absent", None)：說明欄裡根本沒有「中文行文」或「本庫繁中行文」這個
+      觸發語，不是在規定中文行文的字形，不必理會。
+
+    語料庫裡實際觀察到的兩種乾淨句型（判斷順序即保守程度由高到低）：
 
     1. 逐字替換：「日文原名作「Y1」「Y2」…，中文行文作「Z1」「Z2」…」，兩邊
        引號組數相同、且每一組都恰好是單一字元（例如「読」→「讀」、「売」→
@@ -184,22 +211,35 @@ def expected_zh_from_note(yuan, note):
        （例如虚淵玄那一列的「虛淵玄」，對應的日文原名只單獨標了「虚」一字），
        拿它去取代原文裡的單一字元，會把周圍字元重複黏貼一次，產生錯誤結果，
        不能套用逐字替換。
-    2. 直接宣告全形：不符合上面的逐字替換條件、但「中文行文作／用」後面恰好只
-       引了一組（不論長度），視為直接宣告整欄應該是什麼（虚淵玄那一列即此類：
-       「本庫繁中行文作「虛淵玄」」直接給出完整繁中形）。
-
-    兩種都套不上（例如引號組數對不上、且不是單一組）就回傳 None，交由呼叫端
-    略過，不猜測、不誤報。
+    2. 直接宣告全形：不符合上面的逐字替換條件、但「中文行文作／用」後面恰好
+       只有一組引號（不論長度），且「日文原名」那邊沒有或同樣只有一組（若
+       日文原名那邊有兩組以上，代表作者原本想列的是多組逐字替換，只是中文
+       行文那邊的清單被截斷成一組，不能誤認成直接宣告），視為直接宣告整欄
+       應該是什麼（虚淵玄那一列即此類：「本庫繁中行文作「虛淵玄」」直接
+       給出完整繁中形）。
     """
-    zh_match = ZHONGWEN_XINGWEN_RE.search(note)
-    if not zh_match:
-        return None
-    z_groups = QUOTE_GROUP_RE.findall(zh_match.group(1))
-    if not z_groups:
-        return None
+    zh_loose = ZHONGWEN_XINGWEN_LOOSE_RE.search(note)
+    if not zh_loose:
+        return ("absent", None)
 
-    y_match = NIHON_GENMEI_RE.search(note)
-    y_groups = QUOTE_GROUP_RE.findall(y_match.group(1)) if y_match else []
+    zh_strict = ZHONGWEN_XINGWEN_RE.search(note)
+    z_groups_loose = QUOTE_GROUP_RE.findall(zh_loose.group(1))
+    z_groups_strict = QUOTE_GROUP_RE.findall(zh_strict.group(1)) if zh_strict else []
+    if not z_groups_loose:
+        return ("absent", None)
+
+    y_loose = NIHON_GENMEI_LOOSE_RE.search(note)
+    y_strict = NIHON_GENMEI_RE.search(note)
+    y_groups_loose = QUOTE_GROUP_RE.findall(y_loose.group(1)) if y_loose else []
+    y_groups_strict = QUOTE_GROUP_RE.findall(y_strict.group(1)) if y_strict else []
+
+    # 寬鬆版比嚴格版多抓到組，代表引號組之間夾了分隔符號，嚴格版切出的只是
+    # 半截清單，不能信任下面用嚴格版算出的任何答案。
+    if len(z_groups_loose) != len(z_groups_strict) or len(y_groups_loose) != len(y_groups_strict):
+        return ("notice", None)
+
+    z_groups = z_groups_strict
+    y_groups = y_groups_strict
 
     if (
         y_groups
@@ -211,31 +251,41 @@ def expected_zh_from_note(yuan, note):
         expected = yuan
         for y, z in zip(y_groups, z_groups):
             expected = expected.replace(y, z)
-        return expected
+        return ("match", expected)
 
-    if len(z_groups) == 1:
-        return z_groups[0]
+    if len(z_groups) == 1 and len(y_groups) <= 1:
+        return ("match", z_groups[0])
 
-    return None
+    return ("notice", None)
 
 
 def check_table_prescriptions(all_rows, rel):
     """比對每一列「說明」欄的字形規定與「繁體中文」欄目前的內容，找表格本身的缺陷。
 
-    這是與裁決 B 行文掃描完全獨立的另一種發現：違規發生在名詞表這一列自己身上，
-    不是行文誤用了原文——訊息措辭刻意不用「名詞表作…但此處用了原文形…」那一套，
-    避免讓人誤以為要去改行文，而看漏了真正該改的是表格欄位本身。
+    回傳 (problems, notices) 兩份清單：
+    - problems 是確定的表格缺陷（説明的規定看得懂，且與繁體中文欄不一致）。
+      訊息措辭刻意不用「名詞表作…但此處用了原文形…」那一套，避免讓人誤以為
+      要去改行文，而看漏了真正該改的是表格欄位本身。
+    - notices 是「看起來像規定，但看不懂」的提醒，不是確定的缺陷，呼叫端不把
+      它們算進失敗計數，但仍要印出來，理由見 main() 與 classify_prescription()
+      的說明。
     """
     problems = []
+    notices = []
     for yuan, zh, note, lineno in all_rows:
-        expected = expected_zh_from_note(yuan, note)
-        if expected is not None and expected != zh:
+        kind, value = classify_prescription(yuan, note)
+        if kind == "match" and value != zh:
             problems.append(
                 "%s:%d 名詞表本身有誤：說明要求繁體中文欄作「%s」，"
                 "但該欄目前寫的是「%s」"
-                % (rel, lineno, expected, zh)
+                % (rel, lineno, value, zh)
             )
-    return problems
+        elif kind == "notice":
+            notices.append(
+                "%s:%d 說明欄疑似有字形規定但格式無法辨識，請人工確認"
+                % (rel, lineno)
+            )
+    return problems, notices
 
 
 def strip_bracket_pair(text, open_ch, close_ch):
@@ -267,9 +317,11 @@ def strip_gloss_parens(line, rows):
 
     例如「世界系」（セカイ系）、《東京喵喵 NEW ～♡》（東京ミュウミュウ にゅ〜♡）：
     行文已經先用了名詞表欽定的繁中形式，括號裡的原文只是附註出處方便讀者對照，
-    不是拿原文取代繁中譯名，不算裁決 B 違規。只在括號內容整段、去頭尾空白後
-    恰好等於某一列的「原文」欄時才剝除——範圍限制得夠窄，才不會連「柱」被
-    「原文……等」這類真正夾帶原文說明的括號一併放行。
+    不是拿原文取代繁中譯名，不算裁決 B 違規。只在括號內容（不含括號本身）與
+    某一列的「原文」欄逐字相同時才剝除——是逐字比對，不做任何空白容錯（不修剪
+    頭尾空白，括號內外多一個全形或半形空白都不算相同）。範圍限制得夠窄，才不會
+    連「柱」被「原文……等」這類真正夾帶原文說明的括號一併放行；之後若語料庫
+    真的出現括號內帶空白的雙語註記，再視實例決定要不要加上空白容錯。
     """
     for yuan, _zh, _row_lineno in rows:
         if not yuan:
@@ -301,6 +353,13 @@ def prose_text(line, rows):
 
 
 def check(path, rel):
+    """回傳 (problems, notices)。
+
+    problems 是確定的違規／缺陷，計入失敗檔案數與結束碼；notices 是「看起來
+    像規定但格式無法辨識」的提醒，只印出來讓人核對，不計入失敗數也不影響
+    結束碼——它是提醒人去看一眼，不是斷言表格有錯，兩者必須分開，見 main()
+    的說明。
+    """
     problems = []
     with io.open(path, encoding="utf-8") as f:
         text = f.read()
@@ -312,11 +371,12 @@ def check(path, rel):
 
     # 表格缺陷檢查看的是全部列（含「繁體中文」與「原文」相同的列），跟下面
     # 行文掃描要用的 rows（只收兩欄不同的列）互相獨立，先做完全不影響後續。
-    problems.extend(check_table_prescriptions(all_rows, rel))
+    table_problems, notices = check_table_prescriptions(all_rows, rel)
+    problems.extend(table_problems)
 
     rows = diff_rows(all_rows)
     if not rows:
-        return problems
+        return problems, notices
 
     in_code = False
     for lineno, line in enumerate(lines, 1):
@@ -341,17 +401,18 @@ def check(path, rel):
                     "%s:%d 名詞表作「%s」，但此處用了原文形「%s」"
                     % (rel, lineno, zh, yuan)
                 )
-    return problems
+    return problems, notices
 
 
 def main():
     paths = sys.argv[1:] or [DEFAULT_DIR]
     total = 0
     failed = 0
+    noted = 0
     for path in iter_files(paths):
         total += 1
         rel = os.path.relpath(path, ROOT).replace("\\", "/")
-        problems = check(path, rel)
+        problems, notices = check(path, rel)
         if problems:
             failed += 1
             print("FAIL %s" % rel)
@@ -359,7 +420,13 @@ def main():
                 print("     - %s" % p)
         else:
             print("ok   %s" % rel)
-    print("\n共檢查 %d 個檔案，%d 個有問題。" % (total, failed))
+        # 提醒獨立印在 ok／FAIL 那一行之後，用「!」而非「-」開頭以便與確定的
+        # 缺陷區分；不計入 failed，結束碼因此不受提醒影響——提醒是請人看一眼，
+        # 不是斷言表格有錯，不該讓人以為要靠它擋下 CI 或批次流程。
+        for n in notices:
+            noted += 1
+            print("     ! %s" % n)
+    print("\n共檢查 %d 個檔案，%d 個有問題，%d 則提醒。" % (total, failed, noted))
     return 1 if failed else 0
 
 

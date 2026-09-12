@@ -19,7 +19,7 @@
 | [indexes/by-origin.md](indexes/by-origin.md) | 原作型態交叉索引（原創動畫／漫畫改編／輕小說改編／遊戲改編／玩具企劃） |
 | [name-glossary.md](name-glossary.md) | 各條目「專有名詞對照」彙整而成的原文名詞總表 |
 
-目前 `entries/` 下已收錄 2 篇（`madoka-magica.md`、`tokyo-mew-mew.md`）；其餘條目依規則書參考作品清單分批撰寫中，尚未建立。
+`entries/` 依規則書參考作品清單分批撰寫，尚未涵蓋清單全部作品；目前實際收錄哪些篇目、共幾篇，以 [INDEX.md](INDEX.md) 為準——它由 `build_works_indexes.py` 在每次新增或修改條目後重新產生，這裡不重複記數字以免每批新增後就過時。
 
 ## 條目的組成
 
