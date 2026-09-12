@@ -3,7 +3,13 @@
 // 角色卡建立頁（純前端，無後端）
 // 規則資料由 scripts/extract_rules.py 從 rules/*.md 抽出至 src/data/rules.json
 // ============================================
+import { readFileSync } from 'node:fs';
 import rules from '../data/rules.json';
+
+// ccfolia 匯出的轉換邏輯只有一份，放在 character/ccfolia.mjs：這裡去掉 export 後內嵌，
+// character/ccfolia.test.mjs 則直接 import 同一個檔案驗證，兩邊不可能走鐘。
+const ccfolia = readFileSync(new URL('../../character/ccfolia.mjs', import.meta.url), 'utf8')
+	.replace(/^export /gm, '');
 
 const THEMES = ['動物', '鎖鏈', '夢境', '大地', '水', '火', '空氣', '木', '金屬', '時間', '卡牌', '心形', '花朵', '劍', '自然', '光', '黑暗', '月亮', '彩虹', '布料', '星星', '太陽', '音樂'];
 const COLORS = ['紅色', '橘色', '黃色', '綠色', '藍色', '紫色', '粉紅色', '白色', '棕色', '灰色', '金色', '銀色', '黑色'];
@@ -26,17 +32,18 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<meta name="robots" content="noindex, nofollow" />
 		<title>魔法少女──角色卡建立</title>
-		<meta name="description" content="Mahō Shōjo 魔法少女 TRPG 角色卡建立工具——選擇扮演書與盟約，即時預覽並列印 A4 角色卡，支援 JSON 與網址分享。" />
+		<meta name="description" content="Mahō Shōjo 魔法少女 TRPG 角色卡建立工具——選擇扮演書與盟約，即時預覽並列印 A4 角色卡，支援 JSON、網址分享與 ccfolia 匯出。" />
 		<link rel="icon" href="/favicon.svg" type="image/svg+xml" />
 		<meta name="theme-color" content="#12102a" />
 		<meta property="og:title" content="魔法少女──角色卡建立" />
-		<meta property="og:description" content="選擇扮演書與盟約，即時預覽並列印 A4 角色卡，支援 JSON 與網址分享。" />
+		<meta property="og:description" content="選擇扮演書與盟約，即時預覽並列印 A4 角色卡，支援 JSON、網址分享與 ccfolia 匯出。" />
 		<meta property="og:type" content="website" />
 		<meta property="og:image" content="/og-image.jpg" />
 	</head>
 	<body>
 		<script type="application/json" id="rules-data" set:html={JSON.stringify(rules)}></script>
 		<script type="application/json" id="opts-data" set:html={JSON.stringify(OPTIONS)}></script>
+		<script is:inline set:html={ccfolia}></script>
 
 		<header class="topbar no-print">
 			<div class="brand">
@@ -49,6 +56,7 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 				<button type="button" id="btn-import">匯入 JSON</button>
 				<button type="button" id="btn-export">匯出 JSON</button>
 				<button type="button" id="btn-share">複製分享網址</button>
+				<button type="button" id="btn-ccfolia" title="複製後到 ccfolia 房間按 Ctrl+V 貼上">複製 ccfolia 角色</button>
 				<button type="button" id="btn-print" class="primary">列印／PDF</button>
 				<button type="button" id="btn-reset" class="ghost">重設</button>
 				<input type="file" id="file-input" accept="application/json,.json" hidden />
@@ -2206,6 +2214,78 @@ const OPTIONS = { THEMES, COLORS, TALISMANS, ZODIACS, BLOODS, HEART_CATS };
 					toast('已複製分享網址（' + url.length + ' 字元）');
 				} catch (err) {
 					toast('複製失敗，請手動複製網址列');
+				}
+			});
+			// ========== ccfolia 匯出 ==========
+			// 把頁面算好的結果（屬性、力量、資源、已選動作）整理成 character/ccfolia.mjs 要的資料；
+			// 轉換本身在該模組（已於頁首內嵌為 buildCcfolia）
+			function ccfoliaView() {
+				const pb = playbook();
+				const pc = pact();
+				const fb = frBook();
+				const rb = romBook();
+				const pw = luxPowers();
+				const lv = luxView();
+				const groups = [];
+				const names = (list, idxs) =>
+					(list || []).filter((_, i) => !idxs || idxs.includes(i)).map((m) => m.name);
+				const sig = pb.signature;
+				const embedded = (sig.granted || []).find((m) => (m.options || []).length);
+				const sigPool =
+					sig.mode === 'options' ? sig.options : (sig.chooseFrom || []).length ? sig.chooseFrom : embedded ? embedded.options : [];
+				groups.push({ group: pb.signatureName, names: names(sig.granted).concat(names(sigPool, S.sig)) });
+				groups.push({ group: pb.name + '進階動作', names: names(pb.advanceMoves, S.advMoves) });
+				if (pc) {
+					groups.push({ group: pc.name + '・盟約優勢', names: names(pc.advantages, S.pactAdv || []) });
+					groups.push({ group: pc.name + '・盟約動作', names: names(pc.moves, S.pactMoves || []) });
+					groups.push({ group: S.pb + '黑暗動作', names: names((pc.darkMoves || {})[S.pb] || [], S.darkMoves || []) });
+				}
+				if (fb) groups.push({ group: '友情・' + fb.name, names: names(fb.moves, effFrMoves()) });
+				if (rb) groups.push({ group: '戀愛・' + rb.name, names: names(rb.moves) });
+
+				const resources = {
+					power: S.power, light: S.light, tenebrae: S.tenebrae, amity: S.amity,
+					dark: S.dark, darkLv: S.darkLv, shine: S.shine, shineMax: (S.players || 4) + doneAdvCount(),
+				};
+				if (rb) resources.romLv = S.romLv;
+				if (S.pb === '鬥士') resources.impetus = S.impetus;
+				if (S.pb === '偶像') {
+					resources.popularity = S.popularity;
+					resources.popularityMax = popularityMax();
+				}
+				const consAll = pb.consequences.concat(['落敗']);
+				return {
+					name: S.name, title: S.title, playbook: pb.name, pact: S.pact,
+					friendship: fb ? fb.name : '', romance: rb ? rb.name : '',
+					profile: {
+						life: S.life, age: S.age, zodiac: S.zodiac, blood: S.blood,
+						theme: S.theme, color: S.color, talisman: S.talisman, treasure: S.treasure,
+					},
+					attributeKeys: ATTRS, attrs: finalAttrs(), ascension: S.ascension || {},
+					powerKeys: POWER_KEYS, powers: pw.sum, heartsUnlocked: pw.hearts, finalem: pw.finalem,
+					hearts: S.hearts || [],
+					forms: {
+						super: !!S.superForm, triumph: !!S.triumphForm,
+						extra: lv.extra ? lv.extra.name : null, replaced: lv.replace ? lv.replace.name : null,
+					},
+					resources,
+					consequences: (S.cons || [])
+						.filter((i) => consAll[i])
+						.map((i) => ({ name: consAll[i], attribute: ((RULES.consequenceInfo || {})[consAll[i]] || {}).attribute || '' })),
+					moves: groups, advancesDone: doneAdvCount(), bonds: S.bonds, basicMoves: RULES.basicMoves,
+				};
+			}
+			$('#btn-ccfolia').addEventListener('click', async () => {
+				if (!playbook()) {
+					toast('請先選擇一本原型扮演書');
+					return;
+				}
+				try {
+					const json = JSON.stringify(buildCcfolia(ccfoliaView()), null, 2);
+					await navigator.clipboard.writeText(json);
+					toast('已複製 ccfolia 角色資料，到 ccfolia 房間按 Ctrl+V 即可貼上');
+				} catch (err) {
+					toast('複製失敗：瀏覽器不允許寫入剪貼簿');
 				}
 			});
 			// window.print() 會同步阻塞，直接寫在事件處理內會被計入 INP；改為讓瀏覽器先完成這一幀
