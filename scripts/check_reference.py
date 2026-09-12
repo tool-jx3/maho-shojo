@@ -91,7 +91,11 @@ BRACKETED_DOTS = re.compile(r"[\(\[（〔「『<]\s*\.\.\.\s*[\)\]）〕」』>]
 NATIVE_SCRIPT = re.compile(r"[぀-ヿᄀ-ᇿ가-힯]")
 # 〈條目名〉《書名》「原文詞」內的內容是原文引用，東亞條目中常是純漢字的日文詞，
 # 其新字體與簡體字形相同，檢查前先移除。
-QUOTED_NATIVE = re.compile(r"[〈《「『]([^〉》」』]*)[〉》」』]")
+# 每種括號只配自己的收尾，不接受混配（〈…』之類）。舊版寫成
+# [〈《「『][^〉》」』]*[〉》」』]，任何一種收尾都能結束任何一種開頭，遇到巢狀括號
+# （來源標題常見的〈「作品名」記者の話…〉）會在內層的「」就把比對截斷，外層剩下的
+# 原文又落回受檢範圍。日文原題結尾的半形「!」「?」因而仍會被誤判。
+QUOTED_NATIVE = re.compile(r"〈[^〉]*〉|《[^》]*》|「[^」]*」|『[^』]*』")
 
 
 # works 子庫（reference/works/entries/）frontmatter 的這些頂層欄位，值恆為
@@ -224,17 +228,22 @@ def check(path, required):
             in_code = not in_code
             continue
         is_quote = line.lstrip().startswith(">")
+        # 簡體字與半形標點兩項檢查共用同一批待檢片段。兩者要判的都是「中文行文」，
+        # 待檢範圍本來就該一致；先前半形標點檢查直接比對原始行，而簡體字檢查已先用
+        # QUOTED_NATIVE 剝除〈〉《》「」『』框住的原文，兩套範圍分岔的結果是：依裁決 F
+        # 保留不譯、又以漢字結尾接半形「!」「?」的日文原題（『きんぎょ注意報!』
+        # 『東京ミュウミュウ オーレ!』之類）永遠無法通過檢查，條目只能竄改原題或另行
+        # 迂迴。表格前兩欄（原文、羅馬轉寫）同理。共用片段後兩項檢查不再分岔。
+        targets = simplified_targets(line, cjk_entry, lineno <= fm_end, is_works_entry)
         if not (is_quote or NATIVE_SCRIPT.search(line)):
-            bad = sorted({ch for seg in simplified_targets(
-                              line, cjk_entry, lineno <= fm_end, is_works_entry)
-                          for ch in seg if ch in SIMPLIFIED})
+            bad = sorted({ch for seg in targets for ch in seg if ch in SIMPLIFIED})
             if bad:
                 problems.append("第 %d 行出現簡體字：%s" % (lineno, "、".join(bad)))
         if lineno <= fm_end or is_quote:
             # frontmatter 與原文引用逐字保留，不檢查標點
             continue
         # 程式碼區塊裡多半是 YAML／指令，半形標點屬正常
-        if not in_code and HALFWIDTH_AFTER_CJK.search(line):
+        if not in_code and any(HALFWIDTH_AFTER_CJK.search(seg) for seg in targets):
             problems.append("第 %d 行中文後接半形標點" % lineno)
         # 程式碼區塊與行內程式碼裡的 ... 是用法示例或原文標記，不是中文省略號
         checked = BRACKETED_DOTS.sub("", re.sub(r"`[^`]*`", "", line))
