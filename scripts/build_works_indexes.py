@@ -117,9 +117,12 @@ def build_pact_index(entries):
         "",
     ]
     by_pact = group(entries, lambda e: e.get("pact_mapping") or PACT_UNSPECIFIED)
-    for pact in PACT_ORDER + [PACT_UNSPECIFIED]:
-        if pact not in by_pact:
-            continue
+    # 未列在 PACT_ORDER、也不是 PACT_UNSPECIFIED 的值（例如 pact_mapping 誤植）
+    # 仍附加在後面列出，而不是被直接漏掉——沒有任何腳本會驗證 pact_mapping
+    # 的值是否合法，漏掉的話條目會從索引裡不聲不響地消失。
+    ordered = [p for p in PACT_ORDER + [PACT_UNSPECIFIED] if p in by_pact]
+    ordered += [p for p in sorted(by_pact) if p not in ordered]
+    for pact in ordered:
         items = by_pact[pact]
         parts.append("## %s（%d 部）" % (pact, len(items)))
         parts.append("")

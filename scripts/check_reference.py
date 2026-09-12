@@ -94,13 +94,21 @@ NATIVE_SCRIPT = re.compile(r"[぀-ヿᄀ-ᇿ가-힯]")
 QUOTED_NATIVE = re.compile(r"[〈《「『]([^〉》」』]*)[〉》」』]")
 
 
-# works 子庫 frontmatter 的這些頂層欄位，值是日文原文（片名、羅馬拼音、
-# 製作公司、幕後人員姓名），不是譯寫進中文的內容；title_zh、origin、
+# works 子庫（reference/works/entries/）frontmatter 的這些頂層欄位，值恆為
+# 日文原文（片名、羅馬拼音、製作公司、幕後人員姓名）；title_zh、origin、
 # pact_mapping、tags 等頂層欄位承載的才是中文，仍須檢查，不列在這裡。
+#
+# 這批豁免只對 works 子庫的 schema 成立，不能單靠 cjk_entry 判斷：魔女傳說庫
+# 的同名欄位（title_native、frontmatter 縮排欄位如 fallback_reason）在
+# language: zh 或中文論述的條目下本來就是繁體中文，若不分 schema 一律豁免，
+# 會讓魔女庫裡誤植的簡體字（例如西王母條目 title_native、富士山條目
+# fallback_reason 裡的簡體字）悄悄通過檢查而不被發現。schema_for() 已經用路徑前綴
+# 分辨兩個子庫，這裡直接沿用其結果（is_works_entry），不再另立一套判斷路徑的
+# 邏輯，以免兩套邏輯將來各自修改而彼此不同步。
 FRONTMATTER_NATIVE_KEYS = ("title_native", "title_romanized", "studio", "key_staff")
 
 
-def simplified_targets(line, cjk_entry, in_frontmatter=False):
+def simplified_targets(line, cjk_entry, in_frontmatter=False, is_works_entry=False):
     """回傳這一行需要做簡體字判定的文字片段。
 
     東亞條目的原文會出現在三個地方：章節標題、專有名詞對照表的前兩欄、
@@ -112,12 +120,16 @@ def simplified_targets(line, cjk_entry, in_frontmatter=False):
     「画」在簡體字表內卻沒有假名同行。縮排的巢狀欄位（key_staff 底下的
     角色／姓名、source 底下 extra[].title／publisher 等）同樣是日文原文，
     一併豁免；否則條目會被逼著竄改日文原文的字形才能通過檢查。
+
+    這批豁免僅限 is_works_entry（reference/works/entries/ 底下的條目）；
+    魔女傳說庫即使 cjk_entry 為真，frontmatter 同名欄位仍可能是中文，必須
+    繼續檢查。
     """
     if not cjk_entry:
         return [line]
     if line.lstrip().startswith("#"):
         return []
-    if in_frontmatter:
+    if in_frontmatter and is_works_entry:
         if line[:1] in (" ", "\t"):
             return []
         key = line.strip().split(":", 1)[0].strip()
@@ -165,6 +177,11 @@ def check(path, required):
     with io.open(path, encoding="utf-8") as f:
         text = f.read()
 
+    # required 就是 schema_for(rel) 的回傳值；直接用它辨認 works 子庫，
+    # 不再另外用路徑字串比對一次——兩套判斷邏輯分岔的話，其中一套改了
+    # 另一套沒改，這種分歧會很隱蔽。
+    is_works_entry = required is WORKS_FIELDS
+
     if required is not None:
         fm = frontmatter_of(text)
         if fm is None:
@@ -208,7 +225,8 @@ def check(path, required):
             continue
         is_quote = line.lstrip().startswith(">")
         if not (is_quote or NATIVE_SCRIPT.search(line)):
-            bad = sorted({ch for seg in simplified_targets(line, cjk_entry, lineno <= fm_end)
+            bad = sorted({ch for seg in simplified_targets(
+                              line, cjk_entry, lineno <= fm_end, is_works_entry)
                           for ch in seg if ch in SIMPLIFIED})
             if bad:
                 problems.append("第 %d 行出現簡體字：%s" % (lineno, "、".join(bad)))

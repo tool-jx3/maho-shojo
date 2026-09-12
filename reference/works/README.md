@@ -23,7 +23,7 @@
 
 ## 條目的組成
 
-每個條目是一個 Markdown 檔，frontmatter 記錄 `id`、`title_zh`、`title_native`、`title_romanized`、`title_en`、`year`、`years`、`media`、`origin`、`studio`、`key_staff`、`pact_mapping`、`cited_in`、`source`、`tags`；正文分五節：`## 概要`、`## 作品含意`、`## 設計概念`、`## 劇本設計`、`## 其餘重要脈絡`、`## 專有名詞對照`、`## 來源與授權`。
+每個條目是一個 Markdown 檔，frontmatter 記錄 `id`、`title_zh`、`title_native`、`title_romanized`、`title_en`、`year`、`years`、`media`、`origin`、`studio`、`key_staff`、`pact_mapping`、`cited_in`、`source`、`tags`；正文分七節：`## 概要`、`## 作品含意`、`## 設計概念`、`## 劇本設計`、`## 其餘重要脈絡`、`## 專有名詞對照`、`## 來源與授權`。
 
 `origin` 是原作媒體型態；`pact_mapping` 只填規則書 `docs/src/content/docs/rules/pacts.md` **明寫**的對應（光明子女／正義騎士／契約傀儡），規則書未指定者一律 `null`，不自行歸類。
 
