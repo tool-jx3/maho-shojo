@@ -63,8 +63,11 @@
 # 驗證條目（簡體字、半形標點、省略號、frontmatter 必填欄位）
 .venv/Scripts/python.exe scripts/check_reference.py reference/works
 
+# 驗證條目是否違反裁決 B（專有名詞對照表已定案繁體中文形，卻在行文中仍用了原文字形）
+.venv/Scripts/python.exe scripts/check_works_glyphs.py
+
 # 重新產生索引與名詞總表
 .venv/Scripts/python.exe scripts/build_works_indexes.py
 ```
 
-新增或修改條目後務必依序重跑以上兩道指令。
+新增或修改條目後務必依序重跑以上三道指令。
