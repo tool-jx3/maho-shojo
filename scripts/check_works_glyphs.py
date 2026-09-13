@@ -26,7 +26,8 @@ check_reference.py 因此對這類違規結構性地看不見。
    必須真的出現在 `.cache/` 底下某個抓回來的頁面裡。批 B 有四筆譯名的措辭
    出自 WebSearch 摘要而非頁面本文，逐詞比對後在全部快取檔中 0 命中；那四筆
    都是「看起來一定查得到、所以沒去 grep」的詞，靠人工判斷哪一列該查是攔不住
-   的。詳見 check_provenance() 與其上方註解。
+   的。說明欄指名「規則書」的列另外把規則書本體併入搜尋範圍——那是真實的出處，
+   只是不是抓回來的網頁。詳見 check_provenance() 與其上方註解。
 4. 提醒（不計入結束碼）——「說明」欄裡看得出有 2 的那種規定語氣（「中文
    行文」／「本庫繁中行文」），但引號組排列的方式套不進目前認得的句型，
    看不懂。看不懂不能悶不吭聲：那正是這整支腳本原本要補的洞——一份規定
@@ -321,6 +322,16 @@ def check_table_prescriptions(all_rows, rel):
 # 永遠走不到的跳過分支，跟沒有那條分支一樣不可信。
 CACHE_DIR = os.environ.get("WORKS_CACHE_DIR") or os.path.join(ROOT, ".cache")
 
+# 規則書本體。名詞表有一類列的出處是規則書自己已定案的譯名（片名、角色名），
+# 那是真實存在的出處，但它不是抓回來的網頁，永遠不會出現在 .cache/ 裡。只比對
+# .cache/ 會對這類列誤報，例如 lyrical-nanoha 的「菲特・泰斯塔羅莎」出自
+# docs/src/content/docs/rules/friendship-romance.md。因此說明欄提到「規則書」時，
+# 搜尋範圍要加上規則書本體。
+RULES_DIR = os.environ.get("WORKS_RULES_DIR") or os.path.join(
+    ROOT, "docs", "src", "content", "docs", "rules")
+RULES_EXTS = (".md",)
+RULEBOOK_WORD = "規則書"
+
 # 快取裡只有這幾種副檔名存的是抓回來的頁面純文字（fetch_wiki.py 與 .cache/grab.py
 # 的輸出、jobs 清單）。其餘（圖檔、pyc、.md 之類）不納入，免得條目自己的草稿
 # 被當成「頁面」而自我印證。
@@ -342,7 +353,7 @@ SEPARATOR_TABLE = {ord("・"): "·", ord("･"): "·"}
 # 這份負面清單是封閉的、列的是語料庫裡真的出現過的寫法；寧可漏掉一種還沒見過的
 # 新措辭（漏檢只是回到現狀），也不要對正常說明文字誤報（誤報比不檢查更糟）。
 SOURCE_ASSERT_WORDS = ("官方譯名", "流通譯名", "通行譯名", "官方英文名", "官方拉丁標誌",
-                       "規則書已定案")
+                       "規則書")
 # 裁決 P 點名「臺灣通行譯名」「臺灣官方譯名」是最常被漏掉出處的兩種措辭，故
 # 「通行譯名」與「官方譯名」都列為標記（兩者都同時涵蓋臺／台兩種寫法）。
 #
@@ -405,6 +416,30 @@ def load_cache_texts(cache_dir=None):
     return texts
 
 
+def load_rules_texts(rules_dir=None):
+    """讀規則書本體（已正規化分隔號），供說明欄指名規則書的列比對。
+
+    找不到目錄時回傳空 list；此時那類列只會比對 .cache/，與加這條規則之前的
+    行為相同（可能誤報），main() 會印提醒說明本次沒有規則書可比對。
+    """
+    rules_dir = rules_dir or RULES_DIR
+    texts = []
+    if not os.path.isdir(rules_dir):
+        return texts
+    for dirpath, _dirnames, filenames in os.walk(rules_dir):
+        for fn in sorted(filenames):
+            if not fn.lower().endswith(RULES_EXTS):
+                continue
+            try:
+                with io.open(os.path.join(dirpath, fn), encoding="utf-8") as f:
+                    body = f.read()
+            except OSError:
+                continue
+            if body.strip():
+                texts.append(normalize_separators(body))
+    return texts
+
+
 def asserts_source(note, prev_asserts):
     """這一列的說明欄是否宣稱該譯名有出處。
 
@@ -427,28 +462,41 @@ def asserts_source(note, prev_asserts):
     return False, False
 
 
-def check_provenance(all_rows, rel, cache_texts):
-    """逐列比對：宣稱有出處的譯名，必須在某個快取檔裡找得到。
+def check_provenance(all_rows, rel, cache_texts, rules_texts=()):
+    """逐列比對：宣稱有出處的譯名，必須在某個抓回來的頁面（或規則書）裡找得到。
+
+    搜尋範圍分兩種，由說明欄自己決定：
+    - 一般情形只找 .cache/。
+    - 說明欄提到「規則書」時，額外把規則書本體併進搜尋範圍。規則書是真實的
+      出處，只是不是抓回來的網頁；不加這一條，出自規則書的譯名會被誤報。
+      承接列（「出處同上」）沿用前一列的搜尋範圍，因為它承接的就是那個出處。
 
     只回傳確定的缺陷。找不到就是找不到——這不是格式看不懂的情形，不必用提醒
     緩衝：說明欄自己宣稱了出處，而本庫抓回來的每一頁都沒有這個詞。
     """
     problems = []
     prev = False
+    prev_rulebook = False
     for yuan, zh, note, lineno in all_rows:
         claims, inherited = asserts_source(note, prev)
+        uses_rulebook = RULEBOOK_WORD in note or (inherited and prev_rulebook)
         prev = claims
+        prev_rulebook = uses_rulebook
         if not claims:
             continue
         term = normalize_separators(zh.strip("『』「」〈〉《》").strip())
         if not term:
             continue
-        if any(term in t for t in cache_texts):
+        haystack = list(cache_texts)
+        if uses_rulebook:
+            haystack += list(rules_texts)
+        if any(term in t for t in haystack):
             continue
         problems.append(
-            "%s:%d 說明欄宣稱「%s」有出處%s，但這個詞在 .cache/ 底下的"
-            "任何一個抓取檔中都找不到（裁決 R）"
-            % (rel, lineno, zh, "（承接上一列）" if inherited else "")
+            "%s:%d 說明欄宣稱「%s」有出處%s，但這個詞在%s中都找不到（裁決 R）"
+            % (rel, lineno, zh, "（承接上一列）" if inherited else "",
+               "規則書與 .cache/ 底下的任何一個抓取檔" if uses_rulebook
+               else " .cache/ 底下的任何一個抓取檔")
         )
     return problems
 
@@ -517,7 +565,7 @@ def prose_text(line, rows):
     return line
 
 
-def check(path, rel, cache_texts):
+def check(path, rel, cache_texts, rules_texts=()):
     """回傳 (problems, notices)。
 
     cache_texts 是 load_cache_texts() 讀進來的快取頁面文字；為空 list 時代表
@@ -545,7 +593,7 @@ def check(path, rel, cache_texts):
     # 出處存在性檢查（裁決 R）同樣看全部列，與上下兩種檢查互相獨立。
     # cache_texts 為空時跳過——沒有快取就是沒檢查，不能算通過；提醒由 main() 印。
     if cache_texts:
-        problems.extend(check_provenance(all_rows, rel, cache_texts))
+        problems.extend(check_provenance(all_rows, rel, cache_texts, rules_texts))
 
     rows = diff_rows(all_rows)
     if not rows:
@@ -585,6 +633,13 @@ def main():
 
     # 快取只讀一次（批 B 時為 502 個檔、約 11 MB），供全部條目共用。
     cache_texts = load_cache_texts()
+    rules_texts = load_rules_texts()
+    if cache_texts and not rules_texts:
+        # 規則書讀不到時，指名規則書的那些列會退回只比對 .cache/，可能誤報。
+        # 同樣要明說，不能讓人以為檢查範圍是完整的。
+        noted += 1
+        print("     ! 出處檢查：讀不到規則書（%s），說明欄指名規則書的列本次"
+              "只比對了 .cache/，可能誤報。" % display_path(RULES_DIR))
     if not cache_texts:
         # .cache/ 被 .gitignore 排除，全新 clone 上不存在。此時第 3 種檢查無從
         # 執行，必須明說「這次沒檢查」而不是安靜放行：一支沒真的檢查卻回報成功
@@ -597,7 +652,7 @@ def main():
     for path in iter_files(paths):
         total += 1
         rel = display_path(path)
-        problems, notices = check(path, rel, cache_texts)
+        problems, notices = check(path, rel, cache_texts, rules_texts)
         if problems:
             failed += 1
             print("FAIL %s" % rel)
