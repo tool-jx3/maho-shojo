@@ -50,7 +50,12 @@ source:
       retrieved: 2026-09-13
     - title: 美少女戰士 完全版(01)
       publisher: 青文出版社
-      url: https://www.ching-win.com.tw/product/detail/9789862719817
+      url: https://www.ching-win.com.tw/product-detail/10112801
+      archived: false
+      retrieved: 2026-09-12
+    - title: 美少女戰士 完全版(03)
+      publisher: 青文出版社
+      url: https://www.ching-win.com.tw/product-detail/10112803
       archived: false
       retrieved: 2026-09-12
     - title: 美少女戰士Crystal（台視官方網站）
@@ -122,7 +127,7 @@ Mahō Shōjo 規則書只在〈介紹〉一章末尾的參考作品清單中以�
 >
 > 「東映動画に入社した年にちょうど始まり、みるみるうちに人気を博したこの作品。まさかその２０年後に自分が担当することになるとは思いもよりませんでしたが、当時参加していたスタッフを羨望の横目で眺めていたので、この巡り合わせに感謝です。頑張ります。」
 
-【監督・境宗久評論】／「這部作品正好在我進東映動畫那年開播，轉眼間就大受歡迎。萬萬沒想到二十年後會由我來負責，不過當時我是用羨慕的眼光斜看著參與其中的工作人員的，所以很感謝這份巧合。我會加油。」
+【監督・境宗久談話】／「這部作品正好在我進東映動畫那年開播，轉眼間就大受歡迎。萬萬沒想到二十年後會由我來負責，不過當時我是用羨慕的眼光斜看著參與其中的工作人員的，所以很感謝這份巧合。我會加油。」
 
 至於自己為何被選上，境的說法帶著保留，並未寫成定論。
 
@@ -288,6 +293,9 @@ Mahō Shōjo 規則書只在〈介紹〉一章末尾的參考作品清單中以�
 - 〈『美少女戦士セーラームーン』新作アニメシリーズ 『ニコニコ動画』にて全世界同時配信決定！〉，東映アニメーション株式会社 プレスリリース，2014 年 1 月 10 日，網際網路典藏館 2014-01-10 存檔本，https://web.archive.org/web/20140110110200/http://corp.toei-anim.co.jp/press/2014/01/post_74.php ，擷取日期 2026-09-13。「設計概念」一節所引梅澤淳稔與境宗久的談話出自此頁。**原網址 `https://corp.toei-anim.co.jp/press/2014/01/post_74.php` 現已不提供該篇內容（抓取結果為該站的新聞稿列表頁，24,698 字，不含本篇正文）**，故改用典藏本；典藏本以 CDX 查詢確認：實際執行的查詢為 `https://web.archive.org/cdx/search/cdx?url=corp.toei-anim.co.jp/press/2014/01/post_74.php&output=text&limit=20&collapse=urlkey`，回傳 1 筆（timestamp 20140110110200，HTTP 200，4720 位元組），並以 `https://web.archive.org/cdx/search/cdx?url=example.com&output=text&limit=5` 作對照查詢確認該端點有回應。
 - 〈境 宗久（アニメーション監督）が語る『美少女戦士セーラームーンCrystal』（Rooftop2014年7月号）〉，Rooftop，2014 年 7 月 1 日，訪談者：柏木聰（Asagaya／Loft A），第 1 頁 https://rooftop1976.com/interview/140701000000.php 、第 2 頁 https://rooftop1976.com/interview/140701000000.php?page=2 ，擷取日期 2026-09-13。「作品含意」「設計概念」「劇本設計」三節所引境宗久發言出自此二頁。原網域 `rooftop.cc` 以 HTTP 301 轉向現網域 `rooftop1976.com`。該頁頁首另載編輯部的更正啟事，說明紙本《Rooftop 2014 年 7 月號》曾誤刊不應刊載的文句，網頁版為修正後的稿件。
 - 〈原作の持つ魅力を、『セーラームーンCrystal』キャラクターデザイン・佐光幸恵さんインタビュー〉，アニメ！アニメ！，2014 年 10 月 16 日，取材・構成：細川洋平，第 1 頁 https://animeanime.jp/article/2014/10/16/20513.html 、第 2 頁 https://animeanime.jp/article/2014/10/16/20513_2.html ，擷取日期 2026-09-13。「作品含意」與「設計概念」兩節所引佐光幸惠發言出自此二頁。
-- 〈美少女戰士 完全版(01)〉與〈美少女戰士 完全版(03)〉商品頁，青文出版社，擷取日期 2026-09-12。本條目繁中角色名與術語的一級出處（裁決 P 一級）。此二筆快取係本庫撰寫 `sailor-moon` 條目時取得，本條目沿用。
+- 〈美少女戰士 完全版(01)〉，青文出版社，https://www.ching-win.com.tw/product-detail/10112801 ，擷取日期 2026-09-12。內文作「讓她得以變身成為正義的戰士－－水手月亮！」，為「水手月亮」「月野兔」「幻之銀水晶」的一級出處（裁決 P 一級）。
+- 〈美少女戰士 完全版(03)〉，青文出版社，https://www.ching-win.com.tw/product-detail/10112803 ，擷取日期 2026-09-12。內文作「水手月亮隨著小小兔來到三十世紀的未來」，為「小小兔」「水手水星」「水手火星」「水手木星」「黑月帝國」的一級出處（裁決 P 一級）。
+
+  此二筆快取（`.cache/sources/sailor-moon-6.txt`、`sailor-moon-8.txt`）係本庫撰寫 `sailor-moon` 條目時取得，本條目沿用；上列網址與該兩個快取檔檔首所記的 `url:` 逐字相符，亦與 `sailor-moon` 條目所引一致。
 - 〈美少女戰士Crystal〉，臺視官方網站，https://www.ttv.com.tw/drama16/SailorMoon/default.asp ，擷取日期 2026-09-12。本作在臺灣播出方的官方頁面（裁決 P 一級），本條目繁中片名與角色名的另一組一級出處；其戰士名系統與青文出版社不同，兩者並陳於「專有名詞對照」。此筆快取亦係撰寫 `sailor-moon` 條目時取得，本條目沿用。
 - `title_en` 的認定依據（裁決 J）：本作在ニコニコ動画 的全球同步配信含英語版，日語維基百科記其英文標題慣用 `Sailor Moon Crystal`；本庫另在 `sailor-moon` 條目已認定英語版出版社 Kodansha USA 就原作使用 `Sailor Moon` 一名。本欄為便利欄位，非需要直接出處的主張。
