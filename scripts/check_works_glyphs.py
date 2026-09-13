@@ -15,19 +15,27 @@ check_reference.py 因此對這類違規結構性地看不見。
 「繁體中文」欄與「原文」欄不同，就代表這個詞的中文行文寫法已經欽定；若行文中
 仍找得到「原文」欄的逐字寫法，就是把原文字形帶進了中文行文，違反裁決 B。
 
-這支腳本做兩種獨立的檢查、外加一種不算違規的提醒：
+這支腳本做三種獨立的檢查、外加兩種不算違規的提醒：
 1. 上述的行文掃描——名詞表已定案的繁體中文形，卻仍在行文中出現原文形。
 2. 表格本身的缺陷——「說明」欄已經寫明中文行文該怎麼寫（例如「中文行文作
    『讀』『売』」），但「繁體中文」欄卻沒有照做。第 1 種檢查天生看不到這種
    缺陷：它只挑「繁體中文」與「原文」不同的列來找行文誤用，而欄位本身沒改對
    時，兩欄恰好相同，根本不會被挑中。読売テレビ 那個真實案例正是這種缺陷，
    詳見 check_table_prescriptions() 與 classify_prescription() 的說明。
-3. 提醒（不計入結束碼）——「說明」欄裡看得出有 2 的那種規定語氣（「中文
+3. 出處存在性（裁決 R）——「說明」欄宣稱某個繁中譯名有出處時，那個譯名
+   必須真的出現在 `.cache/` 底下某個抓回來的頁面裡。批 B 有四筆譯名的措辭
+   出自 WebSearch 摘要而非頁面本文，逐詞比對後在全部快取檔中 0 命中；那四筆
+   都是「看起來一定查得到、所以沒去 grep」的詞，靠人工判斷哪一列該查是攔不住
+   的。詳見 check_provenance() 與其上方註解。
+4. 提醒（不計入結束碼）——「說明」欄裡看得出有 2 的那種規定語氣（「中文
    行文」／「本庫繁中行文」），但引號組排列的方式套不進目前認得的句型，
    看不懂。看不懂不能悶不吭聲：那正是這整支腳本原本要補的洞——一份規定
    換個寫法，檢查器就自動放行、沒人會發現。但看不懂也不該硬猜一個答案去
    斷言表格有錯，猜錯了就是不實指控。折衷是印出提醒、不算違規、不影響
    結束碼，交給人工確認。
+5. 提醒（不計入結束碼）——`.cache/` 不存在或沒有可讀的文字檔時，第 3 種檢查
+   無從執行。此時印出一則提醒明說「本次未執行出處檢查」，而**不是**安靜地
+   全部放行。一支沒真的檢查卻回報成功的檢查器，跟它要防的缺陷是同一個形狀。
 
 用法：
     .venv/Scripts/python.exe scripts/check_works_glyphs.py [路徑...]
@@ -288,6 +296,163 @@ def check_table_prescriptions(all_rows, rel):
     return problems, notices
 
 
+# ── 第 3 種檢查：宣稱有出處的譯名，是否真的出現在抓回來的頁面裡（裁決 R） ──
+#
+# 批 B 覆審抓到四筆譯名，其措辭來自 WebSearch 摘要而不是頁面本文；逐詞比對後，
+# 它們在**全部**快取檔中 0 命中（克洛諾・哈拉歐溫、假面騎士系列、超人力霸王系列、
+# 祭禮之蛇）。共同成因不是「忘了查」，而是「看起來一定查得到，所以沒去 grep」。
+# 靠人工判斷哪一列需要查，攔不住這一類；能攔住的只有機械化的逐列比對。
+#
+# 刻意設定的兩個範圍限制，寫在這裡是為了避免有人日後「順手改進」把它們拿掉：
+#
+# A. 本檢查**不驗證譯名來自「正確的」那個出處**，只驗證它來自「某一個實際抓回來
+#    的頁面」。要判斷說明欄指名的是哪個快取檔，得去剖析中文散文（「依台灣角川
+#    商品頁」「依社群資料庫（中文維基百科）」……），那非常脆弱，換個措辭就失效。
+#    這裡取的是便宜的九成：憑空捏造的譯名在任何快取檔裡都找不到，而這正是真正
+#    危險的那一類。指名對不對，留給人工覆審與報告裡的清查表。
+# B. 說明欄**沒有**宣稱出處的列不檢查。保留日文原文、明寫「未查得」，本來就是
+#    無證據時的正當結果，不該被要求在快取裡找得到。
+#
+# 另外，`.cache/` 是 .gitignore 排除的，全新 clone 上不存在。那種情況會印出提醒
+# 並跳過本檢查（見 main()），不會回報成功——理由同檔頭第 5 點。
+
+# 快取目錄。環境變數 WORKS_CACHE_DIR 是給測試用的鉤子：把它指到一個空目錄，
+# 就能實地驗證「快取不存在時印提醒而不是假通過」這條路徑真的會走到。一支
+# 永遠走不到的跳過分支，跟沒有那條分支一樣不可信。
+CACHE_DIR = os.environ.get("WORKS_CACHE_DIR") or os.path.join(ROOT, ".cache")
+
+# 快取裡只有這幾種副檔名存的是抓回來的頁面純文字（fetch_wiki.py 與 .cache/grab.py
+# 的輸出、jobs 清單）。其餘（圖檔、pyc、.md 之類）不納入，免得條目自己的草稿
+# 被當成「頁面」而自我印證。
+CACHE_EXTS = (".txt", ".tsv", ".csv")
+
+# 分隔號正規化：來源（中文維基百科）的外文人名用半形中點「·」，本庫行文統一用
+# 日文中點「・」（各條目已以譯註記錄這項統一）。比對時把兩者視為同一符號，
+# 否則「尤諾・斯克萊亞」會在寫作「尤諾·斯克萊亞」的來源裡找不到，變成誤報。
+SEPARATOR_TABLE = {ord("・"): "·", ord("･"): "·"}
+
+# 說明欄宣稱「這個譯名有出處」的可觀察標記，分兩類。第一類是 SOURCE_ASSERT_WORDS
+# 那幾個固定詞；第二類是「依<某出處>」的通式，但「依」在中文裡太常見，必須排掉
+# 已知的非出處用法：
+#   依裁決 X／依使用者裁決 —— 引的是本專案的裁決，不是抓回來的頁面
+#   依字面譯出／依字面轉為正體字形 —— 明說是本庫自譯，正好相反
+#   依日文發音所作之音譯 —— 同上
+#   依作品而異 —— 「兩種拼法依作品而異」這種敘述句，根本不是在指出處
+#   依者 —— 「無依者的源頭」裡切出來的假命中
+# 這份負面清單是封閉的、列的是語料庫裡真的出現過的寫法；寧可漏掉一種還沒見過的
+# 新措辭（漏檢只是回到現狀），也不要對正常說明文字誤報（誤報比不檢查更糟）。
+SOURCE_ASSERT_WORDS = ("官方譯名", "流通譯名", "通行譯名", "官方英文名", "官方拉丁標誌",
+                       "規則書已定案")
+# 裁決 P 點名「臺灣通行譯名」「臺灣官方譯名」是最常被漏掉出處的兩種措辭，故
+# 「通行譯名」與「官方譯名」都列為標記（兩者都同時涵蓋臺／台兩種寫法）。
+#
+# 但這幾個詞也會出現在**否定**句裡（「繁中圈無統一官方譯名」「無通行譯名」），
+# 那是在說「查不到」，跟宣稱出處正好相反。判斷方式是看標記前面幾個字有沒有
+# 否定詞；窗口取 4 個字，足以涵蓋語料庫裡出現過的「無」「未查得」「沒有」與
+# 「無統一」這類插入語，又短到不會誤吃前一個子句。
+NEGATION_CHARS = ("無", "未", "沒")
+NEGATION_WINDOW = 4
+NOT_A_SOURCE_AFTER_YI = ("裁決", "使用者裁決", "字面", "日文發音", "作品而異", "者")
+YI_RE = re.compile("依[ \u3000]?(?!%s)" % "|".join(NOT_A_SOURCE_AFTER_YI))
+
+# 「出處同上」「處理同上」「繁中出處同上」：名詞表用這種寫法把上一列的出處承接
+# 下來。四筆真實失敗裡有兩筆（克洛諾・哈拉歐溫、超人力霸王系列）正是承接列，
+# 不處理承接就漏掉一半。承接的語意取「緊鄰的前一列」，這是表格實際的寫法，
+# 也最可預測；中間夾了一列沒有標記的列時鏈條就斷（那會少檢查幾列，屬於可接受的
+# 漏檢，見上面的限制 A）。
+SAME_SOURCE_RE = re.compile(r"同上")
+
+
+def normalize_separators(text):
+    return text.translate(SEPARATOR_TABLE)
+
+
+def display_path(path):
+    """顯示用路徑：能算出相對於 repo 的路徑就用相對路徑，算不出來就用絕對路徑。
+
+    Windows 上 os.path.relpath() 對不同磁碟機的路徑會丟 ValueError。測試時把
+    WORKS_CACHE_DIR 指到別的磁碟機（或有人在 repo 外跑這支腳本）就會踩到，
+    整支檢查器直接崩掉——一支會崩的檢查器等於沒有檢查器，這裡直接擋掉。
+    """
+    try:
+        return os.path.relpath(path, ROOT).replace("\\", "/")
+    except ValueError:
+        return path.replace("\\", "/")
+
+
+def load_cache_texts(cache_dir=None):
+    """把快取裡的頁面純文字全部讀進來（已正規化分隔號）。
+
+    回傳 list；空 list 代表「沒有可用的快取」，呼叫端據此跳過第 3 種檢查並
+    印出提醒，不得當成「全部通過」。
+    """
+    cache_dir = cache_dir or CACHE_DIR
+    texts = []
+    if not os.path.isdir(cache_dir):
+        return texts
+    for dirpath, _dirnames, filenames in os.walk(cache_dir):
+        for fn in sorted(filenames):
+            if not fn.lower().endswith(CACHE_EXTS):
+                continue
+            path = os.path.join(dirpath, fn)
+            try:
+                with io.open(path, encoding="utf-8", errors="replace") as f:
+                    body = f.read()
+            except OSError:
+                continue
+            if body.strip():
+                texts.append(normalize_separators(body))
+    return texts
+
+
+def asserts_source(note, prev_asserts):
+    """這一列的說明欄是否宣稱該譯名有出處。
+
+    回傳 (是否宣稱, 是否為承接列)。承接列（「出處同上」）沿用前一列的結果。
+    """
+    for word in SOURCE_ASSERT_WORDS:
+        start = 0
+        while True:
+            pos = note.find(word, start)
+            if pos < 0:
+                break
+            before = note[max(0, pos - NEGATION_WINDOW):pos]
+            if not any(ch in before for ch in NEGATION_CHARS):
+                return True, False
+            start = pos + 1
+    if YI_RE.search(note):
+        return True, False
+    if SAME_SOURCE_RE.search(note):
+        return bool(prev_asserts), True
+    return False, False
+
+
+def check_provenance(all_rows, rel, cache_texts):
+    """逐列比對：宣稱有出處的譯名，必須在某個快取檔裡找得到。
+
+    只回傳確定的缺陷。找不到就是找不到——這不是格式看不懂的情形，不必用提醒
+    緩衝：說明欄自己宣稱了出處，而本庫抓回來的每一頁都沒有這個詞。
+    """
+    problems = []
+    prev = False
+    for yuan, zh, note, lineno in all_rows:
+        claims, inherited = asserts_source(note, prev)
+        prev = claims
+        if not claims:
+            continue
+        term = normalize_separators(zh.strip("『』「」〈〉《》").strip())
+        if not term:
+            continue
+        if any(term in t for t in cache_texts):
+            continue
+        problems.append(
+            "%s:%d 說明欄宣稱「%s」有出處%s，但這個詞在 .cache/ 底下的"
+            "任何一個抓取檔中都找不到（裁決 R）"
+            % (rel, lineno, zh, "（承接上一列）" if inherited else "")
+        )
+    return problems
+
+
 def strip_bracket_pair(text, open_ch, close_ch):
     """移除 text 中一組括號（含巢狀）包住的內容，只留括號外的文字。
 
@@ -352,8 +517,11 @@ def prose_text(line, rows):
     return line
 
 
-def check(path, rel):
+def check(path, rel, cache_texts):
     """回傳 (problems, notices)。
+
+    cache_texts 是 load_cache_texts() 讀進來的快取頁面文字；為空 list 時代表
+    沒有可用的快取，第 3 種檢查（出處存在性）整個跳過，由 main() 印出提醒。
 
     problems 是確定的違規／缺陷，計入失敗檔案數與結束碼；notices 是「看起來
     像規定但格式無法辨識」的提醒，只印出來讓人核對，不計入失敗數也不影響
@@ -373,6 +541,11 @@ def check(path, rel):
     # 行文掃描要用的 rows（只收兩欄不同的列）互相獨立，先做完全不影響後續。
     table_problems, notices = check_table_prescriptions(all_rows, rel)
     problems.extend(table_problems)
+
+    # 出處存在性檢查（裁決 R）同樣看全部列，與上下兩種檢查互相獨立。
+    # cache_texts 為空時跳過——沒有快取就是沒檢查，不能算通過；提醒由 main() 印。
+    if cache_texts:
+        problems.extend(check_provenance(all_rows, rel, cache_texts))
 
     rows = diff_rows(all_rows)
     if not rows:
@@ -409,10 +582,22 @@ def main():
     total = 0
     failed = 0
     noted = 0
+
+    # 快取只讀一次（批 B 時為 502 個檔、約 11 MB），供全部條目共用。
+    cache_texts = load_cache_texts()
+    if not cache_texts:
+        # .cache/ 被 .gitignore 排除，全新 clone 上不存在。此時第 3 種檢查無從
+        # 執行，必須明說「這次沒檢查」而不是安靜放行：一支沒真的檢查卻回報成功
+        # 的檢查器，跟它要防的缺陷是同一個形狀。
+        noted += 1
+        print("     ! 出處檢查（裁決 R）本次未執行：%s 不存在或沒有可讀的快取檔"
+              "（%s）。條目中宣稱有出處的譯名這一輪未經比對。"
+              % (display_path(CACHE_DIR), "／".join(CACHE_EXTS)))
+
     for path in iter_files(paths):
         total += 1
-        rel = os.path.relpath(path, ROOT).replace("\\", "/")
-        problems, notices = check(path, rel)
+        rel = display_path(path)
+        problems, notices = check(path, rel, cache_texts)
         if problems:
             failed += 1
             print("FAIL %s" % rel)
