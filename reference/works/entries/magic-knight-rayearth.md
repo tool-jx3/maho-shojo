@@ -257,7 +257,7 @@ Mahō Shōjo 規則書只在〈介紹〉一章末尾的參考作品清單中以�
 
 1. 日語維基百科〈魔法騎士レイアース〉全文（擷取 41,723 字）——該條目沒有〈制作〉或〈評価〉一類的章節，篇幅集中在角色、作中用語與商品清單。
 2. WebSearch 關鍵詞「魔法騎士レイアース 平野俊弘 監督 インタビュー アニメ 1994 東京ムービー新社」「魔法騎士レイアース 大川七瀬 アニメ シリーズ構成 インタビュー 第二章」「魔法騎士レイアース Blu-ray BOX 発売 インタビュー 平野俊貴 監督 石田敦子」「CLAMP インタビュー 魔法騎士レイアース 誕生 きっかけ なかよし 編集部」——皆未檢出監督、系列構成或角色設計的訪談全文。
-3. 讀売テレビ的本作官方網站——經典藏館 CDX 查詢 `ytv.co.jp/rayearth*` 與 `www.ytv.co.jp/rayearth*` 均無任何存檔紀錄（同一時段對 `www.ytv.co.jp` 的對照查詢可正常回傳 1998 年起的存檔，故該查詢確實有效）；トムス側 `tms-e.co.jp/rayearth*` 亦無存檔。本作播出於 1994—1995 年，早於日本動畫作品普遍設站的時期。
+3. 讀売テレビ的本作官方網站——經典藏館 CDX 查詢均無任何存檔紀錄。實際執行的查詢逐字為 `https://web.archive.org/cdx/search/cdx?url=ytv.co.jp/rayearth&matchType=prefix&output=text&limit=100&collapse=urlkey`（回傳 0 筆，存檔 `.cache/sources/magic-knight-rayearth-cdx-1.txt`）與同形的 `url=www.ytv.co.jp/rayearth`（0 筆，存檔 `magic-knight-rayearth-cdx-2.txt`）；トムス側 `url=tms-e.co.jp/rayearth` 亦為 0 筆（存檔 `magic-knight-rayearth-cdx-3.txt`）。同一時段對 `https://web.archive.org/cdx/search/cdx?url=www.ytv.co.jp&output=text&limit=10&collapse=urlkey` 的對照查詢回傳 1 筆（timestamp 19981203103648，HTTP 200），故該端點確實有回應、上述 0 筆不是查詢失敗（存檔 `magic-knight-rayearth-cdx-control.txt`）。本作播出於 1994—1995 年，早於日本動畫作品普遍設站的時期。
 4. トムス・エンタテインメント 現行作品頁與 2025 年新聞稿、『なかよし』官方作品頁——皆現存，內容為故事大綱、播映資料與宣傳文案，不含製作意圖的陳述。
 5. 2024 年「CLAMP展」（國立新美術館）——該展在「IMAGINATION」區設有為展覽所作的 CLAMP 訪談裝置，但其內容未見於線上公開，無從引用。
 :::

@@ -8,7 +8,20 @@
     reference/works/name-glossary.md         原文專有名詞對照總表
 
 用法：
-    .venv/Scripts/python.exe scripts/build_works_indexes.py
+    .venv/Scripts/python.exe scripts/build_works_indexes.py            # 產生
+    .venv/Scripts/python.exe scripts/build_works_indexes.py --check    # 只驗證
+
+`--check` 不寫入任何檔案：它在暫存目錄重新產生同樣四個檔案，再與版本控制裡
+那四個逐位元組比對，有落差就印出差異摘要並以結束碼 1 結束。
+
+加這個模式的理由：批 C 與批 D 都忘了重跑產生器，`INDEX.md` 與 `name-glossary.md`
+一度停在 9 部、實際已有 17 部，而三支檢查器沒有一支看得出來——產生檔過期
+是「內容沒錯、只是不是最新的」，任何逐檔檢查條目的工具都抓不到。唯一測得出來
+的辦法就是重跑一次再比對。
+
+結束碼（--check 模式）：
+    0  產生檔與條目一致。
+    1  有落差（產生器沒跑，或條目改過之後沒重跑），或找不到任何條目。
 """
 
 from __future__ import annotations
@@ -16,6 +29,7 @@ from __future__ import annotations
 import io
 import os
 import sys
+import tempfile
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
@@ -177,15 +191,81 @@ def build_glossary(entries):
     return "\n".join(parts)
 
 
-def main():
+def outputs(entries):
+    """回傳 [(相對於 reference/works/ 的路徑, 內容)]，產生與驗證共用同一份定義。
+
+    兩邊共用這一份，是為了讓 `--check` 不可能漏驗某個檔案：新增產生檔時只會
+    改這裡，驗證自動跟著涵蓋。
+    """
+    return [
+        ("INDEX.md", build_main_index(entries)),
+        (os.path.join("indexes", "by-pact.md"), build_pact_index(entries)),
+        (os.path.join("indexes", "by-origin.md"), build_origin_index(entries)),
+        ("name-glossary.md", build_glossary(entries)),
+    ]
+
+
+def check(entries):
+    """在暫存目錄重新產生，再與版本控制裡的檔案逐位元組比對。
+
+    先寫進暫存目錄再讀回來，而不是直接拿記憶體裡的字串比對：這樣連 write()
+    的寫入行為（編碼、換行處理）都一併驗到，`--check` 說「一致」就真的是
+    「重跑一次會得到同樣的檔案」，不是「產生函式回傳的字串一樣」。
+    """
+    problems = []
+    with tempfile.TemporaryDirectory(prefix="works-index-check-") as tmp:
+        for rel, text in outputs(entries):
+            tmp_path = os.path.join(tmp, rel)
+            os.makedirs(os.path.dirname(tmp_path) or tmp, exist_ok=True)
+            with io.open(tmp_path, "w", encoding="utf-8") as f:
+                f.write(text)
+            with io.open(tmp_path, "rb") as f:
+                fresh = f.read()
+
+            committed_path = os.path.join(WORKS, rel)
+            display = "reference/works/" + rel.replace(os.sep, "/")
+            if not os.path.exists(committed_path):
+                problems.append("%s 不存在（產生器從未跑過？）" % display)
+                continue
+            with io.open(committed_path, "rb") as f:
+                current = f.read()
+            if current == fresh:
+                print("ok   %s" % display)
+                continue
+            problems.append(
+                "%s 與條目不一致（現有 %d 位元組、%d 行；重新產生為 %d 位元組、%d 行）"
+                % (display, len(current), current.count(b"\n") + 1,
+                   len(fresh), fresh.count(b"\n") + 1))
+
+    if problems:
+        print("")
+        for p in problems:
+            print("FAIL %s" % p)
+        print("\n產生檔已過期。請執行 .venv/Scripts/python.exe "
+              "scripts/build_works_indexes.py 重新產生後再提交。")
+        return 1
+    print("\n共比對 %d 個產生檔，全部與 %d 部作品的條目一致。"
+          % (len(outputs(entries)), len(entries)))
+    return 0
+
+
+def main(argv=None):
+    argv = list(sys.argv[1:] if argv is None else argv)
+    check_only = "--check" in argv
+    if check_only:
+        argv.remove("--check")
+    if argv:
+        print("用法：build_works_indexes.py [--check]")
+        return 2
+
     entries = collect_works()
     if not entries:
         print("reference/works/entries/ 底下找不到任何含 frontmatter 的條目。")
         return 1
-    write(os.path.join(WORKS, "INDEX.md"), build_main_index(entries))
-    write(os.path.join(WORKS, "indexes", "by-pact.md"), build_pact_index(entries))
-    write(os.path.join(WORKS, "indexes", "by-origin.md"), build_origin_index(entries))
-    write(os.path.join(WORKS, "name-glossary.md"), build_glossary(entries))
+    if check_only:
+        return check(entries)
+    for rel, text in outputs(entries):
+        write(os.path.join(WORKS, rel), text)
     print("\n共處理 %d 部作品。" % len(entries))
     return 0
 

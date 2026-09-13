@@ -34,9 +34,28 @@ check_reference.py 因此對這類違規結構性地看不見。
    換個寫法，檢查器就自動放行、沒人會發現。但看不懂也不該硬猜一個答案去
    斷言表格有錯，猜錯了就是不實指控。折衷是印出提醒、不算違規、不影響
    結束碼，交給人工確認。
-5. 提醒（不計入結束碼）——`.cache/` 不存在或沒有可讀的文字檔時，第 3 種檢查
-   無從執行。此時印出一則提醒明說「本次未執行出處檢查」，而**不是**安靜地
-   全部放行。一支沒真的檢查卻回報成功的檢查器，跟它要防的缺陷是同一個形狀。
+5. 提醒——`.cache/` 不存在或沒有可讀的文字檔時，第 3 種檢查無從執行。此時
+   印出一則提醒明說「本次未執行出處檢查」，並以結束碼 2 結束，而**不是**
+   安靜地全部放行。一支沒真的檢查卻回報成功的檢查器，跟它要防的缺陷是
+   同一個形狀。
+
+結束碼（與 `scripts/check_works_quotes.py` 相同的約定，兩支必須一致）：
+
+    0  全部檢查都跑過了，沒有問題。
+    1  查出確定的違規或缺陷。
+    2  **無法檢查**——`.cache/` 不存在或沒有可讀的快取檔，依賴快取的檢查
+       這一輪整個沒跑。其餘檢查若同時查出問題，以 1 為準（1 比 2 嚴重：
+       1 是「已知有錯」，2 是「不知道有沒有錯」）。
+
+這個約定是刻意跨兩支腳本統一的。本腳本原先在缺快取時照樣把每個檔案印成
+`ok` 並以 0 結束，`check_works_quotes.py` 則以 2 結束；只看結束碼的呼叫端
+會把「出處檢查沒跑」讀成「全部通過」，那正是這兩支腳本共同要防的那種
+「沒檢查卻回報成功」。2026-09-13 依審查意見改採 `check_works_quotes.py`
+那一邊的行為。
+
+註：「讀不到規則書」那一則提醒**不**適用結束碼 2。規則書讀不到時第 3 種
+檢查仍然照跑，只是搜尋範圍少了規則書本體、可能誤報；那是「檢查跑了但範圍
+較窄」，與「檢查整個沒跑」不同，維持提醒、不影響結束碼。
 
 用法：
     .venv/Scripts/python.exe scripts/check_works_glyphs.py [路徑...]
@@ -53,6 +72,14 @@ import sys
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
 DEFAULT_DIR = os.path.join(ROOT, "reference", "works", "entries")
+
+# 結束碼，與 scripts/check_works_quotes.py 共用同一套約定（見本檔頭部說明）。
+# 兩支腳本各自定義同名常數而不抽成共用模組：它們都是單檔獨立執行的檢查器，
+# 為三個常數多一個 import 相依反而更容易在搬動檔案時壞掉；代價是改動時必須
+# 兩邊一起改，因此兩邊的註解都指向對方。
+EXIT_OK = 0
+EXIT_PROBLEMS = 1
+EXIT_UNCHECKED = 2
 
 GLOSSARY_HEADING = "## 專有名詞對照"
 SOURCE_HEADING = "## 來源與授權"
@@ -640,14 +667,16 @@ def main():
         noted += 1
         print("     ! 出處檢查：讀不到規則書（%s），說明欄指名規則書的列本次"
               "只比對了 .cache/，可能誤報。" % display_path(RULES_DIR))
-    if not cache_texts:
+    unchecked = not cache_texts
+    if unchecked:
         # .cache/ 被 .gitignore 排除，全新 clone 上不存在。此時第 3 種檢查無從
         # 執行，必須明說「這次沒檢查」而不是安靜放行：一支沒真的檢查卻回報成功
-        # 的檢查器，跟它要防的缺陷是同一個形狀。
+        # 的檢查器，跟它要防的缺陷是同一個形狀。結束碼另見 EXIT_UNCHECKED。
         noted += 1
         print("     ! 出處檢查（裁決 R）本次未執行：%s 不存在或沒有可讀的快取檔"
               "（%s）。條目中宣稱有出處的譯名這一輪未經比對。"
-              % (display_path(CACHE_DIR), "／".join(CACHE_EXTS)))
+              "本次將以結束碼 %d（無法檢查）結束。"
+              % (display_path(CACHE_DIR), "／".join(CACHE_EXTS), EXIT_UNCHECKED))
 
     for path in iter_files(paths):
         total += 1
@@ -667,7 +696,12 @@ def main():
             noted += 1
             print("     ! %s" % n)
     print("\n共檢查 %d 個檔案，%d 個有問題，%d 則提醒。" % (total, failed, noted))
-    return 1 if failed else 0
+    # 確定的缺陷優先於「沒檢查」：1 是「已知有錯」，2 是「不知道有沒有錯」。
+    if failed:
+        return EXIT_PROBLEMS
+    if unchecked:
+        return EXIT_UNCHECKED
+    return EXIT_OK
 
 
 if __name__ == "__main__":

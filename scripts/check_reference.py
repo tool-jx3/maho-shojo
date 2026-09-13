@@ -8,6 +8,8 @@
 2. 中文語境中誤用的半形標點（, ; ? !）
 3. 三點省略號 ... （應使用 ……）
 4. frontmatter 必填欄位
+5. 參考作品庫（reference/works/entries/）frontmatter 的列舉欄位值
+   ——`pact_mapping` 與 `origin` 只能填 WORKS_ENUMS 列出的值，見該處說明
 
 用法：
     .venv/Scripts/python.exe scripts/check_reference.py [路徑...]
@@ -62,6 +64,27 @@ WORKS_FIELDS = [
     "origin",
     "source",
 ]
+
+# 參考作品庫 frontmatter 的列舉欄位：值只能是下列其中之一。
+#
+# 這兩欄是 build_works_indexes.py 分組的依據，但**沒有任何腳本驗證過值本身**。
+# 複審時實測：把 pact_mapping 改成「正義騎土」、origin 改成「玩具企畫」（各錯
+# 一個字），三支檢查器全數通過——錯字只會讓產生的索引多出一個看起來像分類的
+# 區塊，得有人去讀那份產生檔才看得出來。索引產生器本身也刻意不擋：它把不認得
+# 的值附加在後面列出，理由是「漏掉的話條目會從索引裡不聲不響地消失」，那是
+# 產生端的容錯，不是驗證。驗證放在這裡。
+#
+# `null` 與 `~` 是 YAML 的空值寫法，pact_mapping 未指定時用它（模板寫 `null`）。
+# **不接受空值**（`pact_mapping:` 後面什麼都不寫）：那種寫法會被
+# build_reference_indexes.parse_frontmatter() 當成巢狀區塊的開頭，後面的欄位
+# 會被吃進去，比值打錯更難查。
+WORKS_NULL_TOKENS = ("null", "~")
+WORKS_ENUMS = [
+    ("pact_mapping", ("光明子女", "正義騎士", "契約傀儡"), True),
+    ("origin", ("原創動畫", "漫畫改編", "輕小說改編", "遊戲改編", "玩具企劃"), False),
+]
+# 頂層欄位（不縮排）的純量值；value 可能帶引號，比對前剝掉。
+WORKS_ENUM_VALUE_RE = re.compile(r"^\s*[\"']?(.*?)[\"']?\s*$")
 
 # 依 repo 相對路徑前綴分流。兩個子庫的 frontmatter schema 不同，
 # 用同一份必填清單會讓其中一邊永遠失敗。
@@ -214,6 +237,34 @@ def frontmatter_of(text):
     return text[4:end]
 
 
+def works_enum_problems(fm):
+    """驗證參考作品庫 frontmatter 的列舉欄位（見 WORKS_ENUMS 上方的說明）。
+
+    只看頂層欄位（行首不縮排），避免把 `source.extra[]` 底下同名的鍵誤當成
+    本欄。找不到該欄時：允許為 null 的欄位（pact_mapping）視為缺漏並回報——
+    「可以是 null」不等於「可以整欄不寫」，整欄不寫會讓索引產生器把它歸進
+    「規則書未指定」而看不出是漏寫；不允許 null 的欄位（origin）已列在
+    WORKS_FIELDS 的必填清單裡，缺漏由那邊回報，這裡不重複。
+    """
+    problems = []
+    for field, allowed, nullable in WORKS_ENUMS:
+        m = re.search(r"^%s:(.*)$" % re.escape(field), fm, re.M)
+        if m is None:
+            if nullable:
+                problems.append("frontmatter 缺少欄位：%s（可填 %s，但不得省略）"
+                                % (field, "／".join(WORKS_NULL_TOKENS)))
+            continue
+        value = WORKS_ENUM_VALUE_RE.match(m.group(1)).group(1)
+        if value in allowed:
+            continue
+        if nullable and value in WORKS_NULL_TOKENS:
+            continue
+        expected = list(allowed) + (list(WORKS_NULL_TOKENS) if nullable else [])
+        problems.append("frontmatter 欄位 %s 的值「%s」不在允許值之內：%s"
+                        % (field, value, "／".join(expected)))
+    return problems
+
+
 def check(path, required):
     problems = []
     with io.open(path, encoding="utf-8") as f:
@@ -234,6 +285,8 @@ def check(path, required):
                     problems.append("frontmatter 缺少欄位：%s" % field)
             if not re.search(r"^\s*retrieved:\s*\S", fm, re.M):
                 problems.append("frontmatter 缺少 source.retrieved 擷取日期")
+            if is_works_entry:
+                problems.extend(works_enum_problems(fm))
 
     # 東亞條目的章節標題採「原文章節名（繁中章節名）」體例，原文部分可能是純漢字
     # （脚注、参考文献、関連項目），其中的日語新字體與簡體字形相同。含假名／諺文的

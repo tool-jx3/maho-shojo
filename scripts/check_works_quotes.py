@@ -21,8 +21,22 @@
 比對前把所有空白（含全形空白）去除，因為純文字擷取會把行內空白正規化。
 
 `.cache/` 不在版本控制內（見 `.gitignore`）。它不存在或沒有可讀檔案時，本腳本
-印出提醒並以非零碼結束，**不會**安靜地全部放行——一支沒真的檢查卻回報成功的
+印出提醒並以結束碼 2 結束，**不會**安靜地全部放行——一支沒真的檢查卻回報成功的
 檢查器，跟它要防的缺陷是同一個形狀。
+
+結束碼（與 `scripts/check_works_glyphs.py` 相同的約定，兩支必須一致）：
+
+    0  全部檢查都跑過了，沒有問題。
+    1  查出確定的違規或缺陷。
+    2  **無法檢查**——`.cache/` 不存在或沒有可讀的快取檔，依賴快取的檢查
+       這一輪整個沒跑。其餘檢查若同時查出問題，以 1 為準（1 比 2 嚴重：
+       1 是「已知有錯」，2 是「不知道有沒有錯」）。本腳本的全部檢查都依賴
+       快取，因此缺快取時一律是 2，不會出現 1 與 2 並存的情形；
+       `check_works_glyphs.py` 只有第 3 種檢查依賴快取，才會用到那條優先規則。
+
+2026-09-13 依審查意見把這套約定推廣到 `check_works_glyphs.py`：該腳本原先在缺
+快取時照樣把每個檔案印成 `ok` 並以 0 結束，只看結束碼的呼叫端會把「出處檢查
+沒跑」讀成「全部通過」。
 
 用法：
     .venv/Scripts/python.exe scripts/check_works_quotes.py [路徑...]
@@ -40,6 +54,14 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
 DEFAULT_DIR = os.path.join(ROOT, "reference", "works", "entries")
 CACHE_DIRS = ("wiki", "sources", "wiki-raw", "raw")
+
+# 結束碼，與 scripts/check_works_glyphs.py 共用同一套約定（見本檔頭部說明）。
+# 兩支腳本各自定義同名常數而不抽成共用模組：它們都是單檔獨立執行的檢查器，
+# 為三個常數多一個 import 相依反而更容易在搬動檔案時壞掉；代價是改動時必須
+# 兩邊一起改，因此兩邊的註解都指向對方。
+EXIT_OK = 0
+EXIT_PROBLEMS = 1
+EXIT_UNCHECKED = 2
 
 ELLIPSIS_MARKER = "（中略）"
 WHITESPACE_RE = re.compile(r"[\s　]+")
@@ -233,8 +255,9 @@ def main(argv):
     if not corpus:
         sys.stdout.write(
             "提醒：`.cache/` 底下找不到任何可讀的 .txt，本次未執行引文比對。\n"
-            "      `.cache/` 不在版本控制內，需先以 scripts/fetch_wiki.py 等重新取得來源。\n")
-        return 2
+            "      `.cache/` 不在版本控制內，需先以 scripts/fetch_wiki.py 等重新取得來源。\n"
+            "      本次以結束碼 %d（無法檢查）結束。\n" % EXIT_UNCHECKED)
+        return EXIT_UNCHECKED
 
     files = sorted(iter_files(paths))
     total_lines = total_blocks = total_segs = bad_files = 0
@@ -256,7 +279,7 @@ def main(argv):
         "\n共檢查 %d 個檔案、%d 個引文區塊、%d 個分段、%d 行引文；%d 個檔案有問題。\n"
         % (len(files), total_blocks, total_segs, total_lines, bad_files))
     sys.stdout.write("快取語料：%d 個檔案。\n" % len(corpus))
-    return 0 if bad_files == 0 else 1
+    return EXIT_OK if bad_files == 0 else EXIT_PROBLEMS
 
 
 if __name__ == "__main__":

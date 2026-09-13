@@ -293,4 +293,13 @@ SUNRISE 另一個官方作品資料頁則直接點明：那座明亮華麗的學
 - 〈舞-ＨｉＭＥ〉作品紹介，サンライズ（バンダイナムコフィルムワークス），https://www.sunrise-inc.co.jp/work/detail.php?cid=166 ，擷取日期 2026-09-13。用於官方梗概與播映資料。
 - 〈舞-ＨｉＭＥ〉作品情報，サンライズワールド，https://www.sunrise-world.net/titles/pickup_166.php ，擷取日期 2026-09-13。用於官方對舞台與儀式的說明。
 - 〈My-HiME〉List of Works，SUNRISE，https://www.sunrise-inc.co.jp/international/work/detail.php?cid=166 ，擷取日期 2026-09-13。`title_en` 的認定依據（裁決 J、裁決 P 一級）：該官方英文頁的 Title 欄即作 `My-HiME`。
-- 〈舞-HiME 風華学園オフィシャルWeb〉，サンライズ，網際網路典藏館 2004-11-28 存檔本，https://web.archive.org/web/20041128030918/http://www.sunrise-inc.co.jp:80/my-hime/web/art/staffcast.html ，擷取日期 2026-09-13。用於核對職員名單。該官方網站整體以劇中「風華學園官方網站」的體裁製作，內容為學園長致詞、學園導覽、用語介紹與職員名單，不含製作方對作品的說明；本條目經 CDX 查詢（`https://web.archive.org/cdx/search/cdx?url=sunrise-inc.co.jp/my-hime/&matchType=prefix`，同時以 `url=example.com` 作對照查詢確認該端點有回應）列出該站典藏頁面清單，逐一檢視 `web/art/` 下的各頁後確認此點。
+- 〈舞-HiME 風華学園オフィシャルWeb〉，サンライズ，網際網路典藏館 2004-11-28 存檔本，https://web.archive.org/web/20041128030918/http://www.sunrise-inc.co.jp:80/my-hime/web/art/staffcast.html ，擷取日期 2026-09-13。用於核對職員名單。存檔 `.cache/sources/maihime-6.txt`（原頁為 Shift_JIS 編碼，須指定 cp932 解碼，否則全是亂碼）。該官方網站整體以劇中「風華學園官方網站」的體裁製作；本庫在該站讀到的每一頁都是劇中設定或職員名單，**未見**製作方對作品的說明（下列各頁之外未再讀其他頁，故不聲稱已窮盡該站）。此一否定性陳述所依據的存檔逐頁如下。前四頁的純文字擷取非空，是論斷的實際依據；後兩頁擷取近乎全空，依裁決 L 第 1 點視為**抓取到的是圖片或框架、不是「該頁沒有內容」**，不列為依據，僅記錄查證狀態：
+
+  - `web/art/staffcast.html`（`maihime-6.txt`）——主要職員與主要配音陣容名單，別無說明文字。
+  - `web/art/yougo.html`（`maihime-10.txt`）——劇中用語解說（私立風華學園、HiME、チャイルド、オーファン），全為劇中設定。
+  - `web/art/other.html`（`maihime-11.txt`）——劇中設施解說（山中の遺跡、地下迷宮、封印の間等），全為劇中設定。
+  - `web/world/home.html`（`maihime-8.txt`）——與 `staffcast.html` 同一份職員與配音名單。
+  - `web/art/aisatsu.html`（`maihime-9.txt`）——學園長致詞頁。純文字擷取只剩選單與頁尾，正文推測以圖片排版；本庫未讀到其文字，故不就其內容作任何論斷。
+  - `web/staff/home.html`（`maihime-7.txt`）——純文字擷取只剩頁尾，同上不作論斷。
+
+  該站的典藏頁面清單以 CDX 查詢取得，實際執行的查詢逐字為 `https://web.archive.org/cdx/search/cdx?url=sunrise-inc.co.jp/my-hime/&matchType=prefix&output=text&limit=2000&collapse=urlkey`，回傳 1,869 筆（未達 limit），存檔 `.cache/sources/maihime-cdx-1.txt`；另以 `https://web.archive.org/cdx/search/cdx?url=example.com&output=text&limit=5` 作對照查詢確認該端點有回應，存檔 `.cache/sources/cdx-control.txt`。該清單中 `web/art/` 底下的 HTML 頁面除上列各頁外，其餘為 `index.html`、`index2.html`、`home.html` 與 `map01`—`map11` 一系列學園導覽地圖頁，皆為劇中學園的設施導覽。
