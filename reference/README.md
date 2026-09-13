@@ -1,4 +1,22 @@
-# 魔女傳說參考資料庫
+# reference/ —— 兩個參考資料庫
+
+本目錄底下有**兩個各自獨立的資料庫**，只是共用同一個資料夾，彼此不互相引用、不互相併入。
+
+| 子庫 | 目錄 | 說明在哪裡 |
+| --- | --- | --- |
+| 魔女傳說參考資料庫 | `regions/`、`concepts/`、`sources-and-law/`、`backlog/`，以及本目錄下的 `INDEX.md`、`indexes/`、`name-glossary.md`、`BACKLOG.md` | 本檔其餘各節 |
+| 參考作品分析資料庫 | `works/` | [works/README.md](works/README.md) |
+
+兩庫互相獨立的具體意思是：
+
+- **frontmatter schema 不共用。** 魔女傳說庫記地區（`region`）、語系（`language_family`）、時代（`era_bucket`）；參考作品庫記年份（`year`、`years`）、原作型態（`origin`）、盟約對應（`pact_mapping`）。兩邊的欄位沒有交集，索引也因此各自產生。
+- **名詞總表不互相併入。** 魔女傳說庫的名詞收在本目錄的 [name-glossary.md](name-glossary.md)，參考作品庫的名詞收在 [works/name-glossary.md](works/name-glossary.md)，兩份由各自的產生器分別產生。兩者也都**不寫入** `glossary.json`——那是遊戲規則的術語庫，三者各自獨立，避免互相污染一致性檢查。
+- **產生器互不越界。** `scripts/build_reference_indexes.py` 只蒐集魔女傳說庫的目錄，`scripts/build_works_indexes.py` 只蒐集 `works/entries/`。跑其中一支而另一庫的產物出現變動，就表示蒐集範圍被寫壞了。
+- **兩庫皆不併入 Astro 網站**，也都不參與規則書的翻譯與術語一致性檢查流程。
+
+以下各節全部是**魔女傳說參考資料庫**的說明。
+
+## 魔女傳說參考資料庫
 
 蒐集歷史上的魔女／女巫傳說，**以該傳說發源語言的維基百科條目為主要來源**，保存原文並完整翻譯成繁體中文，依地區、語系、時代三個軸整理。
 
