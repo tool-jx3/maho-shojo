@@ -75,7 +75,7 @@ tags: [輕小說改編, 學園愛情喜劇, 性別轉換, 代理戰爭, 非魔�
 
 ## 作品含意
 
-劇中設定把「戰鬥」的緣由設定成一場外星勢力的代理戰爭，而參戰的條件是「必須是女性」。下引兩段出自日語維基百科的〈作中用語〉一節。
+劇中設定把「戰鬥」的緣由設定成一場異次元宇宙勢力之間的代理戰爭，而參戰的條件據說是「必須是女性」——原文作「なぜか女性でなければならないらしい」，是傳聞語氣，並未寫成確定的規則。下引兩段出自日語維基百科的〈作中用語〉一節。
 
 > ケンプファー［Kämpfer］とはドイツ語で「戦士」を意味する。敵対する相手（違う陣営のケンプファー）と戦うための存在で、なぜか女性でなければならないらしい（紅音によると｢ケンプファー｣は男性名詞で女性名詞は｢ケンプフェリン｣らしいのだが、詳細は不明。｢ケンプファー｣は本来、戦争の意味である｢カンプフ｣と同義語）。男が選ばれた場合は変身時に女になる（ただし、ナツル以外の例は未登場）。
 
@@ -141,7 +141,7 @@ TBS 官方網站的作品簡介同樣把賣點放在美少女與戀愛上。
 
 原作中被設定了配音員名字的部分登場人物，其配音起用了該配音員本人。其中，野村道子是繼『ドラえもん』『サザエさん』之後，睽違整整四年再度演出電視動畫。
 
-製作體制方面，官方職員表所載的事實如下（TBS 官方網站〈スタッフ&キャスト〉頁；該頁未進一步說明各職位的實際工作內容）。
+製作體制方面，官方職員表所載的事實如下（TBS 官方網站〈スタッフ&キャスト〉頁中標題為「特別編-スタッフ」的表；該表列的四人與電視版相同，該頁未進一步說明各職位的實際工作內容）。
 
 > 原作
 > ：
@@ -162,7 +162,7 @@ TBS 官方網站的作品簡介同樣把賣點放在美少女與戀愛上。
 原作：築地俊彥（メディアファクトリー MF 文庫 J）／監督：黒田やすひろ／系列構成：ふでやすかずゆき／角色設計：藤田まり子
 
 :::note[查證結果]
-關於本作的企畫緣起、製作意圖與角色美術設計概念，已查上節查證結果區塊所列的全部來源，另加 WebSearch 關鍵詞「けんぷファー アニメ 黒田やすひろ 監督 インタビュー 2009」「"けんぷファー" ふでやすかずゆき シリーズ構成 インタビュー 脚本」「"けんぷファー" アニメ 制作 企画 経緯 NOMAD スタッフ 座談会」，均未檢出監督、系列構成或角色設計本人的說明。就 StarChild 官方部落格而言，經 CDX 查詢 `https://web.archive.org/cdx/search/cdx?url=starchild.co.jp/special/kenpu/&matchType=prefix&output=text&limit=300`（並以 `url=example.com` 作對照查詢，確認該端點有回應），舊網域 `www.starchild.co.jp/special/kenpu/blog/` 底下的第 00 至 61 回確有存檔；本條目實際讀過的是現行網域 `king-cr.jp` 上的第 00 回與第 58 回，兩則皆為播映時程、活動報告與商品宣傳，不聲稱已窮盡該部落格全部 62 則。本節因此只記錄可考的事實，不補寫製作意圖。
+關於本作的企畫緣起、製作意圖與角色美術設計概念，已查上節查證結果區塊所列的全部來源，另加 WebSearch 關鍵詞「けんぷファー アニメ 黒田やすひろ 監督 インタビュー 2009」「"けんぷファー" ふでやすかずゆき シリーズ構成 インタビュー 脚本」「"けんぷファー" アニメ 制作 企画 経緯 NOMAD スタッフ 座談会」，均未檢出監督、系列構成或角色設計本人的說明。就 StarChild 官方部落格而言，本庫實際執行的 CDX 查詢是 `https://web.archive.org/cdx/search/cdx?url=starchild.co.jp/special/kenpu/&matchType=prefix&output=text&limit=2000&collapse=urlkey`（回傳 381 筆，未達 limit，故非截斷結果；並以 `https://web.archive.org/cdx/search/cdx?url=example.com&output=text&limit=5` 作對照查詢，確認該端點有回應）。結果顯示舊網域 `www.starchild.co.jp/special/kenpu/blog/` 底下**只有 14 個頁面有存檔**：第 00、06、09、15、16、19、24、37、55、56、57、58、59、61 回；編號最大為 61，其餘編號未查得存檔。本條目實際讀過的是現行網域 `king-cr.jp` 上的第 00 回與第 58 回，兩則皆為播映時程、活動報告與商品宣傳。未存檔的編號無從閱讀，因此本節的「未檢出製作方說明」只涵蓋已讀的兩則與本庫查得的存檔範圍，**不聲稱該部落格整體沒有製作方說明**。本節因此只記錄可考的事實，不補寫製作意圖。
 :::
 
 ## 劇本設計
@@ -227,6 +227,6 @@ TBS 官方網站的作品簡介同樣把賣點放在美少女與戀愛上。
 - 〈アニメ化企画進行中！２〉，MF文庫J編集部ブログ，メディアファクトリー，2009 年 3 月 25 日，網際網路典藏館 2011-08-30 存檔本，https://web.archive.org/web/20110830142432/http://blog.mediafactory.co.jp/mfbunkoj/?p=2094 ，擷取日期 2026-09-13。
 - 〈肯普法〉ACG 資料庫頁面，巴哈姆特，https://acg.gamer.com.tw/acgDetail.php?s=30670 ，擷取日期 2026-09-13。本條目繁中人名的二級出處（裁決 P 二級：流通譯名，依社群資料庫，未查得官方認定），並載「台灣中文版是由尖端代理發行」。
 - 〈Kämpfer Complete Collection〉，Sentai Filmworks，https://www.sentaifilmworks.com/products/kampfer-complete-collection-blu-ray ，擷取日期 2026-09-13。`title_en` 的認定依據（裁決 J）：英語版發行商 Sentai Filmworks 的商品頁以 `Kämpfer` 為標題，內容為電視動畫全 12 話與 OVA 全 2 話。
-- 網際網路典藏館 CDX 查詢：`https://web.archive.org/cdx/search/cdx?url=starchild.co.jp/special/kenpu/&matchType=prefix&output=text&limit=300`（回傳 300 筆，含 `blog/00.html` 至 `blog/61.html`），對照查詢 `https://web.archive.org/cdx/search/cdx?url=example.com&output=text&limit=5`（有回應），擷取日期 2026-09-13。
-- 城邦讀書花園站內搜尋「肯普法」，https://www.cite.com.tw/search_result?keyword=%E8%82%AF%E6%99%AE%E6%B3%95 ，擷取日期 2026-09-13。結果頁顯示無符合的資料（該站搜尋為伺服器端渲染，同一支程式查詢《魔法少女育成計畫》可正常回傳商品，故本次為真實的零筆結果，非抓取失敗）。
+- 網際網路典藏館 CDX 查詢（逐字記錄實際執行的網址，含全部參數）：`https://web.archive.org/cdx/search/cdx?url=starchild.co.jp/special/kenpu/&matchType=prefix&output=text&limit=2000&collapse=urlkey`，擷取日期 2026-09-13，回傳 381 筆（未達 limit）。其中 `blog/` 底下有存檔的頁面共 14 個：`blog/00.html`、`06`、`09`、`15`、`16`、`19`、`24`、`37`、`55`、`56`、`57`、`58`、`59`、`61`。**`collapse=urlkey` 是結果成立的必要參數，省略它會使同一支查詢在 `limit` 內全被逐次快照占滿而列不出 `blog/` 頁面。**對照查詢 `https://web.archive.org/cdx/search/cdx?url=example.com&output=text&limit=5`（有回應），擷取日期同上。
+- 城邦讀書花園站內搜尋「肯普法」，https://www.cite.com.tw/search_result?keyword=%E8%82%AF%E6%99%AE%E6%B3%95 ，擷取日期 2026-09-13。結果頁顯示無符合的資料。**本庫不據此推斷該站確無此書**：同一支搜尋查詢「魔法少女育成計畫」同樣回傳無符合的資料（`.cache/sources/mahou-shoujo-ikusei-keikaku-8.txt`），而該書在同站確有商品頁（`https://www.cite.com.tw/book?id=49886`）；可見此搜尋對已下架或絕版的品項會回傳零筆，無法區分「該站沒有這本書」與「查不到」。因此本條目對尖端版《肯普法》的臺灣一級出處只記「未查得」。
 - 尖端網路書店站內搜尋「肯普法」，https://www.spp.com.tw/search?q=%E8%82%AF%E6%99%AE%E6%B3%95 ，擷取日期 2026-09-13。擷取純文字僅 19 字，只有回顯查詢字串的頁面標題，研判為前端渲染，屬抓取失敗，不得據以判斷該站有無此商品。
